@@ -1,0 +1,33 @@
+{
+  "gemeente": "Oldebroek",
+  "gm_code": "GM0269",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Oldebroek",
+  "zoeknaam_bekendmakingen": "Oldebroek",
+  "opgehaald_op": "2026-11-16T14:05:53+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Oldebroek\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 61,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Oldebroek\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 3,
+  "geldende_regelingen": 23,
+  "geldend_met_kapartikelen": [
+    "CVDR333651_1",
+    "CVDR333652_1",
+    "CVDR626127_2",
+    "CVDR657829_4",
+    "CVDR696247_2",
+    "CVDR703813_2",
+    "CVDR735285_1",
+    "CVDR750726_1",
+    "CVDR751682_2",
+    "CVDR756216_1",
+    "CVDR756219_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0233/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Ermelo",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0233/2020/omgevingsplan/nld@2024-04-12;09390764",
+    "beginGeldigheid": "2024-05-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0233_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0233/2025/Regelingdc9d43f409cc465baa0474f052cc1312",
+    "titel": "Omgevingsprogramma uitvoeringsagenda gebiedsvisie Speuld e.o.",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0233/2025/Regelingdc9d43f409cc465baa0474f052cc1312/nld@2025-10-15;12075414",
+    "beginGeldigheid": "2025-10-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0233_2025_Regelingdc9d43f409cc465baa0474f052cc1312?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:57Z"
+  }
+]

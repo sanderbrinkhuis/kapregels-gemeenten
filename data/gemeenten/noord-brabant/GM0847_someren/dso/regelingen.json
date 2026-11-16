@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0847/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Someren",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0847/2024/omgevingsvisie/nld@2024-11-20;1",
+    "beginGeldigheid": "2024-11-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0847_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0847/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Someren",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0847/2020/omgevingsplan/nld@2026-07-02;1",
+    "beginGeldigheid": "2026-07-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0847_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:46Z"
+  }
+]

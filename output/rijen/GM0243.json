@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0243",
+  "gemeente": "Harderwijk",
+  "provincie": "Gelderland",
+  "brondocument": "Verordening Fysieke Leefomgeving Harderwijk (VFL) art. 4.1-4.3, CVDR704817_6; Nadere regels bomenkap Harderwijk, CVDR705194_2; Legesverordening 2026, CVDR751680_1",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR704817/6",
+  "datum_geldigheid": "VFL: geldend vanaf 2025-12-04 t/m heden (versie 6); Nadere regels: vanaf 2024-12-13",
+  "laatste_wijziging": "VFL 2025-12-04 (CVDR704817_6); APV Harderwijk 2026-06-26 (CVDR704816_2), afdeling 4.3 daarin vervallen",
+  "juridische_plaats": "VFL (kapregel art. 4.2 werkt als omgevingsplanactiviteit volgens leges art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'); APV afd. 4.3 art. 4:11-4:12B vervallen, opgenomen in VFL; omgevingsplan art. 22.275 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "Zoekmethode op titel vond 1 bekendmaking sinds 2025 (gmb-2025-330044, betreft een parkeergarage, geen grondslagcitaat over kap). Dit zegt weinig: de zoekmethode mist waarschijnlijk kapbesluiten. Geen conclusie over het regime getrokken. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 207 bekendmakingen sinds 1-1-2025, waarvan 92 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning voor het vellen van houtopstand) voor houtopstanden op de Bomenlijst, in eigendom van de gemeente of buiten de bebouwde kom; binnen de bebouwde kom geen vergunningplicht voor particuliere bomen die niet op de lijst staan",
+  "drempel": "Boom: 'een omtrek van de stam van minimaal dertig centimeter op 1.30 meter hoogte boven het maaiveld gemeten en met een minimale lengte van 5 meter' (VFL art. 1.1)",
+  "omtrek_cm": 30,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 4.2 lid 1: 'wanneer deze houtopstand voorkomt op de Bomenlijst, in eigendom is van de gemeente Harderwijk of zich bevindt buiten de bebouwde kom'. Buiten de bebouwde kom geldt het verbod voor alle particuliere bomen vanaf 30 cm omtrek, ook in tuinen en op erven (geen tuinuitzondering). Binnen de kom alleen lijstbomen.",
+  "uitzonderingen": "Art. 4.2 lid 3: Wet natuurbescherming, vruchtbomen die deel uitmaken van een bedrijfsmatige exploitatie, Plantenziektewet/aanschrijving, acute noodsituaties, hakhout (max. 30% kroonverlies) en dunning (max. 30%). Alleen gangbare uitzonderingen: geen correctie. Geen tuin-, soort- of oppervlakte-uitzondering.",
+  "weigeringsgronden": "Art. 4.2 lid 2: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.' Alleen voor waardevolle bomen (categorie 2 Bomenlijst, lid 4) geldt 'wordt slechts verleend, indien' een zwaarwegend maatschappelijk belang. Nadere regels art. 2 werken de gronden uit zonder de verlening te beperken.",
+  "herplantplicht": "VFL art. 4.2 lid 5: 'kan het voorschrift worden verbonden dat overeenkomstig de door het college te geven aanwijzingen moet worden herplant'. Nadere regels (vastgesteld beleid, CVDR705194_2) art. 3 lid 1: 'Compensatie van een gekapte boom vindt in eerste instantie plaats door herplant van één of meerdere bomen'; toelichting: 'iedere gekapte of te kappen boom moet worden vervangen door minimaal één nieuw te planten boom'. Art. 4 lid 1: 'Als herplant volgens artikel 3, lid 6 niet mogelijk is, vindt een storting plaats in het Bomenfonds bij wijze van financiële compensatie.' Lid 2: 'Het te storten bedrag bedraagt € 500,- per te herplanten boom.' VFL art. 4.2 lid 6 zegt over de storting alleen 'kan'; de beleidsregel maakt herplant en storting tot standaard.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_ontsnapping": "Betaling in plaats van herplant: nadere regels art. 4 lid 1 'vindt een storting plaats in het Bomenfonds' als herplant niet mogelijk is; art. 3 lid 6 'De gemeente beoordeelt en bepaalt of een locatie ongeschikt is voor herplant.' Hardheidsclausule art. 5: 'in bijzondere situaties' kan het college afwijken. VFL art. 4.2 lid 5-6 gebruikt 'kan'.",
+  "herplant_niet_nakomen": "VFL art. 4.2 lid 7: 'Degene aan wie een verplichting als bedoeld in het vijfde en/of zesde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 4.3 lid 4 idem. Nadere regels art. 3 lid 5: 'Als de herplante boom binnen drie jaar na aanplant dood gaat, is de rechthebbende verplicht om een nieuwe boom aan te planten'. Geen eigen sanctie of strafbepaling gevonden: alleen het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "S=1: kapregel werkt als omgevingsplanactiviteit (leges art. 2.30: 'artikel 4.3 van de Verordening Fysieke Leefomgeving Harderwijk in samenhang met artikel 22.8 van de Omgevingswet'), dus WED via Ow 5.1 (WED art. 1a onder 2°). APV art. 6:1 lid 2 (WED-aanwijzing) verwijst naar het vervallen art. 4:11 lid 2 (foute verwijzing); VFL bevat geen strafbepaling. Herplantplicht na illegale kap: VFL art. 4.3 lid 1 'legt het bevoegd gezag de verplichting op te herplanten'. Geen bestuurlijke boete voor kappen in de regeling gevonden.",
+  "procedure": "Leges art. 2.30 (CVDR751680_1): maximaal 10 bomen € 81,00, daarboven € 17,15 per 1 tot 10 bomen extra. Beslistermijn: VFL art. 1.4 lid 3 sluit omgevingsvergunning uit; Awb/Ow-termijn. Positieve fictieve beschikking niet van toepassing (VFL art. 1.4 lid 5). Aanvraagvereisten omgevingsplan art. 22.275. Bij werkzaamheden binnen de kroonprojectie van lijstbomen minstens 8 weken eerder aanvragen (art. 4.1 lid 4).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bomenlijst (VFL art. 4.1) niet ingezien; niet nodig voor D omdat het brede regime buiten de bebouwde kom D bepaalt",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst (VFL art. 4.1) niet ingezien en aantal onbekend; geen invloed op D (breedste regime bepaalt). Bekendmakingen: zoekmethode vond maar 1 besluit, geen indicatie.",
+  "artikelnummers": [
+    "VFL art. 1.1, 1.4, 1.5, 4.1, 4.2, 4.3",
+    "Nadere regels bomenkap art. 2, 3, 4, 5",
+    "Leges 2026 art. 2.30",
+    "APV art. 4:10-4:12B (vervallen), 6:1",
+    "Omgevingsplan art. 22.275"
+  ],
+  "opmerkingen": [
+    "D: twee delen. Buiten de bebouwde kom geldt het verbod voor 'een houtopstand' (boom vanaf 30 cm omtrek) zonder tuin- of erfuitzondering: D4 op drempel < 60 cm. Binnen de kom alleen lijstbomen (D1). Hoogste deel telt: D4. Het rapport laat voorbeeldbomen A en B (binnen de kom, niet op lijst tenzij aangewezen) als feit voorgaan.",
+    "W: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden: W2. Strengere toetsing (lid 4, 'wordt slechts verleend') geldt alleen voor categorie 2 lijstbomen en blijft buiten de score.",
+    "H: VFL zegt 'kan'; vastgesteld beleid (Nadere regels, college, geldend in CVDR) maakt herplant standaard en storting van € 500 per boom verplicht als herplant niet mogelijk is: H3. Minimum 2 omdat de beleidsregel 'vindt in eerste instantie plaats' en de toelichting 'moet' gebruikt in plaats van een expliciete vaste plicht, en omdat de VFL zelf 'kan' zegt.",
+    "Nadere regels verwijzen in de toelichting naar 'artikel 4:11, tweede lid van de Verordening' (oud APV-nummer); bedoeld is VFL art. 4.2 lid 2.",
+    "Beleidsregel CVDR705194_2 nummert art. 3 lid 4 sub b: herplant op ander perceel van dezelfde eigenaar 'kan'.",
+    "Bomenlijst bevat blijkens art. 4.1 lid 2 perceelnummer en eigenaar; niet ingezien.",
+    "APV 2026 (CVDR704816_2) art. 4:11, 4:12, 4:12A, 4:12B zijn vervallen en opgenomen in de VFL; VFL art. 15.1 trekt de APV-artikelen in."
+  ],
+  "modelsignalen": [
+    "Geen bestuurlijke boete in de regeling: S=1 via WED/Ow ondanks een foute APV-verwijzing (art. 6:1 lid 2 naar het vervallen art. 4:11).",
+    "Beleidsregel maakt herplant en storting standaard terwijl de verordening 'kan' zegt: H3 volgt uit de regel 'tegenstrijdige teksten', met onzekerheid of 'vindt in eerste instantie plaats' een vast voorschrift is."
+  ]
+}

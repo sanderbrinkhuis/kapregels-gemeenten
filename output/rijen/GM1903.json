@@ -1,0 +1,78 @@
+{
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "status": "ok",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "gm_code": "GM1903",
+  "gemeente": "Eijsden-Margraten",
+  "brondocument": "Algemene verordening gemeente Eijsden-Margraten, Titel 3 (Tijdelijk deel omgevingsplan), hoofdstuk 3.10 Handelingen met houtopstanden (voorheen: Bomenverordening gemeente Eijsden-Margraten 2015), art. 3.10.1 t/m 3.10.7, 1.1.4, 1.1.9, 4.1.2; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR754638/1 ; https://lokaleregelgeving.overheid.nl/CVDR696519/2",
+  "datum_geldigheid": "Algemene verordening CVDR754638_1 geldend vanaf 2026-01-01 t/m heden (peildatum 2026-11-14); Omgevingsplan CVDR696519_2 geldend vanaf 2024-10-09 t/m heden",
+  "laatste_wijziging": "Algemene verordening: versie 1 per 2026-01-01 (nieuwe vaststelling; de considerans noemt een voorstel van 16 december 2025 om juridische fouten te herstellen). Art. 4.4.3 trekt de Bomenverordening gemeente Margraten 2010 en de Bomenverordening gemeente Eijsden-Margraten 2015 in.",
+  "juridische_plaats": "Titel 3 'Fysieke leefomgeving (Tijdelijk deel omgevingsplan)' van de Algemene verordening: hoofdstuk 3.10 staat daarmee in het tijdelijk deel van het omgevingsplan. De legesverordening 2026 (CVDR754972_1) art. 2.11.1 noemt het vellen van een houtopstand 'bedoeld in hoofdstuk 3.10 van de Algemene verordening Eijsden-Margraten' een omgevingsplanactiviteit. Omgevingsplan CVDR696519_2 art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 2 bekendmakingen op titel, 0 besluiten met weigering. Een daarvan (gmb-2026-524261) is een kennisgeving 'vergunningvrij voor het kappen van een boom', de ander (gmb-2025-76578) een intrekking van een verzoek. Geen grondslag genoemd. Weinig besluiten past bij een lijstsysteem (geen breed regime). Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 60 bekendmakingen sinds 1-1-2025, waarvan 15 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning van het college voor het vellen van 'beschermde bomen' (art. 3.10.2 lid 1), ook voor houtopstand aangelegd op grond van herplant- of instandhoudingplicht, overeenkomst met een bestuursorgaan of publiekrechtelijke toestemming (lid 2).",
+  "drempel": "Geen drempel in omtrek of diameter: alleen bomen op de kaart en 'lijst beschermde bomen' (art. 3.10.1 lid 1), ongeacht omvang.",
+  "reikwijdte": "Art. 3.10.1 lid 1: 'Het college stelt een kaart vast met bijbehorende lijst ‘beschermde bomen’.' Lid 3: de kaart en lijst bevatten 'eigendomsgegevens en het kadastrale perceelnummer'. Gehele gemeente, alleen aangewezen bomen. Het Bomenfonds Gemeente Margraten 2010 (CVDR232719_1) art. 3 lid 2 noemt beschermde bomen 'waarvan een natuurlijk persoon of privaatrechtelijk rechtspersoon de zakelijk gerechtigde is' op de lijst, dus particuliere bomen horen volgens de tekst bij het systeem; de lijst zelf is niet ingezien.",
+  "uitzonderingen": "Art. 3.10.2 lid 3: verbod 'niet voor: a. houtopstand die moet worden geveld krachtens een aanschrijving van het college ... b. reguliere onderhoudswerkzaamheden aan houtopstand.' Art. 3.10.3 onder c: kap bij gevaar volgens boomdeskundige. Geen uitzondering voor tuinen of soorten.",
+  "weigeringsgronden": "Art. 3.10.3: 'Nadat de alternatieven voor velling uitputtend zijn onderzocht wordt een vergunning voor het vellen van een beschermde boom slechts bij uitzondering verleend, als: a. een zwaarwegend maatschappelijk belang groter is dan het belang van het duurzaam behoud van de beschermde boom, die een monumentale status heeft; b. een maatschappelijk belang groter is dan het belang van de beschermde boom, die een waardevolle status heeft ...'. Aanvullend art. 1.1.9 lid 2: 'Een toestemming kan worden geweigerd in het belang van de fysieke leefomgeving.'",
+  "herplantplicht": "Art. 3.10.7 lid 1: 'Het college kan een herplantplicht met voorschriften opleggen aan de degene die bevoegd is tot het treffen van voorzieningen op de grond: a. waarop zich een boom of houtopstand bevond waarvoor een kapverbod gold ... en b. voor de kap geen vergunning was verleend of de boom of houtopstand op andere wijze teniet zijn gegaan.' Art. 3.10.6: 'kan aan de vergunning het voorschrift worden verbonden dat de financiële boomwaarde van de te vellen boom of houtopstand door de vergunninghouder moet worden gestort in het gemeentelijk herplantfonds.' Beide zijn bevoegdheden (kan).",
+  "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid van het college ('kan'). Bij herplant die ter plaatse niet mogelijk is, art. 3.10.7 lid 5: 'kan de verplichting worden opgelegd de financiële boomwaarde van de te vellen boom of houtopstand te storten in het gemeentelijk herplantfonds.' Het college beslist per geval.",
+  "herplant_niet_nakomen": "Een opgelegd voorschrift is wel verplicht: art. 1.1.4 lid 2 'Degene voor wie de toestemming geldt, moet zich zo gedragen dat geen strijd ontstaat met de aan de toestemming verbonden voorschriften.' Art. 4.1.2 lid 1: 'Overtreding van het bij of krachtens Titel 3 van deze Verordening bepaalde en op grond van artikel 1.1.4 ... gegeven voorschriften wordt gestraft met hechtenis van maximaal drie maanden of een geldboete van de tweede categorie.' Dit is een strafbepaling (rechter); de herplantplicht na een kap zonder vergunning (art. 3.10.7) valt onder 'bij of krachtens Titel 3'. Dwangsom of bestuursdwang: niet specifiek geregeld.",
+  "sancties": "Eigen strafbepaling in de regeling: art. 4.1.2 lid 1 (hechtenis maximaal drie maanden of geldboete tweede categorie) voor overtreding van het bepaalde bij of krachtens Titel 3, waaronder hoofdstuk 3.10. Daarnaast kappen zonder vergunning in strijd met het tijdelijk deel omgevingsplan: WED via Ow 5.1 (INTENT stap 1a). Geen bestuurlijke boete en geen vastgelegd handhavingsbeleid voor kap gevonden. S = 1.",
+  "procedure": "Art. 3.10.4: aanvraag wordt 'direct na ontvangst bekend gemaakt in een plaatselijk huis-aan-huisblad en op de gemeentelijke internetpagina' met vier weken voor zienswijzen; besluit wordt bekendgemaakt, bezwaartermijn zes weken; art. 3.10.5: niet kappen voordat de bezwaartermijn is afgelopen; vergunning vervalt na één jaar. Beslistermijn art. 1.1.2. Leges 2026 (CVDR754972_1) art. 2.11.1: € 87,95 en € 90,30 (twee tarieven in de tabel; welk jaar bij welk bedrag hoort is niet vastgesteld).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_telling": "lijst niet ingezien: korte zoekpoging op eijsden-margraten.nl (enkele paden gaven 404) leverde geen bomenlijst of -kaart op",
+  "ontbrekend": "Kaart en 'lijst beschermde bomen' niet gevonden; onbekend of en hoeveel particuliere bomen erop staan (de tekst van art. 3.10.1 lid 3 en het Bomenfonds art. 3 lid 2 wijzen op particuliere eigenaren). Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "Algemene verordening art. 1.1.2, 1.1.4, 1.1.9, 3.10.1 t/m 3.10.7, 4.1.2, 4.4.3",
+    "Omgevingsplan art. 22.299",
+    "Legesverordening 2026 art. 2.11.1",
+    "Bomenfonds Gemeente Margraten 2010 art. 1, 3 (CVDR232719_1)"
+  ],
+  "opmerkingen": [
+    "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus puntschatting D1 en bereik vanaf D0 (INTENT, ONZEKERHEID). Betrouwbaarheid laag. De lijst kan gewoon in het tijdelijk deel omgevingsplan staan als kaart (art. 3.10.1 lid 1).",
+    "W3: 'slechts bij uitzondering verleend' (art. 3.10.3). Dit geldt voor monumentale bomen (zwaarwegend belang) en voor waardevolle bomen (een maatschappelijk belang groter dan het belang van de boom).",
+    "H1: 'Het college kan een herplantplicht met voorschriften opleggen' (art. 3.10.7 lid 1). De storting in het herplantfonds (art. 3.10.6, art. 3.10.7 lid 5) is alleen een 'kan' en verhoogt H niet (INTENT v2.3). Art. 3.10.7 lid 1 noemt als situatie de kap zonder vergunning; dat telt bij S, niet bij H.",
+    "Bomenfonds Gemeente Margraten 2010 (CVDR232719_1, in werking 2012-12-05, in CVDR nog 'geldend'): dit is een subsidieregeling voor het in stand houden van monumentale bomen ('een bijdrage ... maximaal ... €250,- per aanvraag'). Het is geen herplantregeling, legt de eigenaar niets op en beïnvloedt H daarom niet. De Bomenverordening gemeente Margraten 2010, waar art. 1 van het fonds naar verwijst ('artikel 2 lid 6 Bomenverordening gemeente Margraten 2010'), is ingetrokken door art. 4.4.3 van de Algemene verordening; art. 3.10.1 lid 6 van de Algemene verordening voorziet nu zelf in een bomenfonds. Het Bomenfonds zelf noemt het herplantfonds als apart fonds: 'het herplantfonds dat dient om bij het kappen van bestaande beschermde bomen ... voor te schrijven dat het kapitaal geherinvesteerd wordt'.",
+    "Juridische plaats: hoofdstuk 3.10 staat in Titel 3 'Tijdelijk deel omgevingsplan' (Algemene verordening, kopje boven hoofdstuk 3.1 en art. 4.1.2). De strafbepaling art. 4.1.2 geldt dus zowel als eigen strafbepaling als via de Omgevingswet (WED). De oude APV en Bomenverordening 2015 zijn per art. 4.4.3 ingetrokken.",
+    "Bebouwde kom in de zin van deze verordening: alleen gedefinieerd voor geurhinder (art. 3.7.1); hier niet relevant.",
+    "Leges: het tarief voor 'Omgevingsplanactiviteit: kappen van bomen' staat in CVDR754972_1 art. 2.11.1; geen verdere beleidsregel over herplant, compensatie of handhaving voor kap gevonden (VTH-beleid CVDR738314_2 en Integraal Omgevingsbeleidsplan CVDR671037_1 niet volledig nagelopen op kap; geen kapspecifieke sanctie gevonden).",
+    "Boom A en B: beide 'alleen als op lijst'; een gewone tuinboom zonder vermelding op de lijst is vergunningvrij (kennisgeving 'vergunningvrij voor het kappen van een boom', gmb-2026-524261, is hiermee in lijn)."
+  ],
+  "modelsignalen": [
+    "Eijsden-Margraten: strafbepaling (art. 4.1.2) en WED via Ow dekken dezelfde overtreding. S = 1 in beide routes; het model vraagt niet wat te doen als de regeling zowel een strafbepaling als de WED-route kent.",
+    "Een bomenfonds voor instandhouding van monumentale bomen (subsidie) staat in de regeling naast een herplantfonds (storting). INTENT noemt alleen het herplantfonds; ik heb het bomenfonds als niet-H behandeld."
+  ]
+}

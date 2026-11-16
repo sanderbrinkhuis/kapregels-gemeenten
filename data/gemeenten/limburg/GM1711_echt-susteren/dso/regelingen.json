@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1711/2025/2_7",
+    "titel": "Programma Kostenverhaal Echt-Susteren",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1711/2025/2_7/nld@14",
+    "beginGeldigheid": "2025-10-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1711_2025_2_7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:08Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1711/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente echt-susteren",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1711/2025/omgevingsvisie/nld@15",
+    "beginGeldigheid": "2025-10-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1711_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:08Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1711/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Echt-Susteren",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1711/2020/omgevingsplan/nld@2026-08-26;10104742",
+    "beginGeldigheid": "2026-08-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1711_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:08Z"
+  }
+]

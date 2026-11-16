@@ -1,0 +1,81 @@
+{
+  "provincie": "Gelderland",
+  "gm_code": "GM0214",
+  "gemeente": "Buren",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "modelsignalen": [
+    "Het model scoort een lijstsysteem met D1 en W3 (ontheffing alleen bij zwaarwegend belang) als strengheid 17, ook als de lijst niet is ingezien; de puntschatting D1 rust dan niet op feiten over het aantal particuliere bomen. Hier staat in de definitie wel dat de lijst de eigenaar vermeldt, maar dat bewijst niet dat het om burgers gaat.",
+    "Het model heeft geen regel voor een verwijzing in de legesverordening naar een verkeerd artikel (art. 4:11 in plaats van 4:11a); die is hier onder het bestaande besluit (S=1 zonder bereik) gebracht."
+  ],
+  "brondocument": "Algemene plaatselijke verordening gemeente Buren 2025 (CVDR731738_2), afd. 4.3 art. 4:10a, 4:10b, 4:11a, 4:11d, 4:11e, 6:1; Verordening op de heffing en de invordering van leges gemeente Buren 2026 (CVDR755220_2) art. 2.30; Omgevingsplan gemeente Buren (CVDR696220_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR731738/2 ; https://lokaleregelgeving.overheid.nl/CVDR755220/2 ; https://lokaleregelgeving.overheid.nl/CVDR696220/2",
+  "datum_geldigheid": "APV CVDR731738_2 geldend vanaf 2025-10-07 t/m heden; leges CVDR755220_2 vanaf 2026-10-08; omgevingsplan CVDR696220_2 vanaf 2024-05-29 (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 2 per 2025-10-07 (laatste wijziging van de APV; afdeling 4.3 niet apart vergeleken met eerdere versies).",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening gemeente Buren 2025 in samenhang met de Waardevolle Bomenlijst, in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 4 bekendmakingen op titel, waarvan 2 besluiten (beide 'Omgevingsvergunning verleend, kappen ...', waarvan één voor 27 bomen) en 0 weigeringen. De 2 besluiten (gmb-2026-183856, gmb-2026-209662) noemen geen grondslag. Dat het aantal klein is, past bij een lijstsysteem; of de bomen op de lijst stonden is niet vast te stellen. De zoekmethode mist soms besluiten. Herteld 16-11-2026: ook zoeken in de volledige tekst gaf niet meer treffers dan de zoekactie op titel.",
+  "vergunningplicht": "Vergunning/ontheffing (omgevingsvergunning) voor het vellen van houtopstanden die op de 'Lijst van waardevolle bomen gemeente Buren' staan (art. 4:11a lid 1 en 4).",
+  "drempel": "Geen drempel: alleen bomen op de lijst van waardevolle bomen, ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem)",
+  "reikwijdte": "Art. 4:11a lid 1: 'Het is verboden een houtopstand te vellen of te doen vellen, wanneer deze houtopstand voorkomt op de door het college vast te stellen lijst van waardevolle bomen.' Art. 4:10a lid 6: de lijst 'bestaat uit een opsomming van beschermenswaardige houtopstanden, de locatie (kadastraal perceelsnummer), ... de eigenaar en/of zakelijk gerechtigde en de reden van opname'. Geen gebiedsregel, geen regel voor bomen buiten de lijst. Lijst zelf niet ingezien.",
+  "uitzonderingen": "Art. 4:11a lid 2: niet voor een beschermde houtopstand die 'moet worden geveld krachtens de Plantenziektewet of krachtens een aanschrijving van het college of ten behoeve van dunning'; lid 3: toestemming van de burgemeester bij 'een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'; lid 5: ontheffing 'in ieder geval' bij een verplichting op grond van art. 5:42 BW (afstand erfgrens). Bomen die niet op de lijst staan zijn niet beschermd. Geen tuin- of soortuitzondering.",
+  "weigeringsgronden": "Art. 4:11a lid 4: 'Het bevoegd gezag kan van het verbod in het eerste lid van dit artikel ontheffing verlenen als: a. een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade en er geen passend alternatief voorhanden is.' Ontheffing alleen bij zwaarwegend belang: W = 3. Art. 1:8 (weigeringsgronden openbare orde enz.) geldt niet als maatstaf voor de omgevingsvergunning.",
+  "herplantplicht": "Art. 4:11d lid 2: 'Het bevoegd gezag kan aan de ontheffing het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig door het college te geven aanwijzingen moet worden herplant.' Lid 4: 'Indien niet ter plaatse kan worden herplant, kan aan de ontheffing het voorschrift worden verbonden dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk herplantfonds.' Art. 4:11e lid 1 (na kap zonder ontheffing): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'; lid 2: 'Als niet ter plaatse kan worden herplant, wordt een geldelijke bijdrage gestort in het gemeentelijk herplantfonds.' Geen herplantbeleidsregel gevonden.",
+  "herplant_ontsnapping": "Herplant bij ontheffing is een bevoegdheid ('kan'), beslist door het bevoegd gezag per geval. Geen vaste plicht. Storting herplantfonds bij ontheffing alleen 'kan'.",
+  "sancties": "WED via de Omgevingswet: de legesverordening noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (art. 2.30), dus S = 1 zonder bereik. APV art. 6:1 lid 1: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 6:1 lid 2 wijst de WED aan voor 'artikelen 2:10, vijfde lid, 2:11, tweede lid, 2:12, eerste lid en 4:11a, vierde lid' (ontheffing, niet het verbod in lid 1). Geen bestuurlijke boete voor kappen. Verkeerde verwijzing: leges noemen 'artikel 4:11' (bestaat niet; bedoeld is 4:11a).",
+  "procedure": "Leges 2026 art. 2.30: EUR 206,15 voor een omgevingsplanactiviteit kappen. Aanvraag schriftelijk en gemotiveerd door de zakelijk gerechtigde (art. 4:11b). Ontheffing vervalt na 1 jaar zonder gebruik (4:11c). APV art. 1:2 (beslistermijn 8 weken) is niet van toepassing op een omgevingsvergunning. Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets specifieks geregeld. APV art. 4:11d lid 3: 'dan kan daarbij worden bepaald binnen welke termijn en op welke wijze niet aangeslagen herplant moet worden vervangen.' APV art. 1:4 lid 2 ('verplicht de daaraan verbonden voorschriften en beperkingen na te komen') is volgens lid 3 niet van toepassing op een omgevingsvergunning. Alleen algemeen instrumentarium (Awb) en art. 6:1 lid 1.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de 'Lijst van waardevolle bomen gemeente Buren' staat niet in het dossier; een korte zoekpoging op www.buren.nl (drie URL's gaven 404) leverde de lijst niet op. De definitie (art. 4:10a lid 6) vermeldt wel 'de eigenaar en/of zakelijk gerechtigde', dus particuliere eigenaren zijn mogelijk.",
+  "status": "ok",
+  "ontbrekend": "Lijst van waardevolle bomen niet gevonden (aantal en aandeel particulier onbekend). Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen. Geen beleidsregel over herplant/handhaving gevonden in het dossier.",
+  "artikelnummers": [
+    "APV 4:10a",
+    "APV 4:10b",
+    "APV 4:11a",
+    "APV 4:11b",
+    "APV 4:11d",
+    "APV 4:11e",
+    "APV 6:1",
+    "Leges 2.30",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "W: 'een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand' (APV 4:11a lid 4 sub a).",
+    "H: 'Het bevoegd gezag kan aan de ontheffing het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig door het college te geven aanwijzingen moet worden herplant.' (APV 4:11d lid 2).",
+    "Art. 4:11e lid 2 maakt storting in het herplantfonds verplicht als niet ter plaatse kan worden herplant, maar alleen na kap zonder ontheffing (na illegale kap); dat verhoogt H niet. Herplant na illegale kap 'kan' (4:11e lid 1) en telt bij S als kap-specifiek (S=1, sowieso al 1 via WED/omgevingsplanactiviteit).",
+    "Beleidsnota groen- en reststroken (CVDR612957_1) noemt dat een boom op de lijst 'mag niet gekapt worden, tenzij er een omgevingsvergunning wordt verleend'; geen toetsingsregels, telt niet voor W of H.",
+    "APV 4:10a lid 3 definieert 'vellen' ruim (snoeien van meer dan 20 procent van de kroon).",
+    "Bomen niet op de lijst: geen regel; alleen de erfgrensafstand 0,5 m (4:12a) en publieke bomen (4:12c). De 'bebouwde kom' wordt in 4:10a lid 5 nog gedefinieerd via de Wet Natuurbescherming (oude verwijzing), zonder gevolg voor de score."
+  ]
+}

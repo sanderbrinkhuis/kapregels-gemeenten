@@ -1,0 +1,29 @@
+{
+  "gemeente": "Hulst",
+  "gm_code": "GM0677",
+  "provincie": "Zeeland",
+  "zoeknaam_cvdr": "Hulst",
+  "zoeknaam_bekendmakingen": "Hulst",
+  "opgehaald_op": "2026-11-14T13:00:32+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hulst\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 118,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hulst\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 4,
+  "geldende_regelingen": 28,
+  "geldend_met_kapartikelen": [
+    "CVDR602266_8",
+    "CVDR613987_1",
+    "CVDR696378_5",
+    "CVDR707289_1",
+    "CVDR716146_1",
+    "CVDR747625_1",
+    "CVDR749205_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

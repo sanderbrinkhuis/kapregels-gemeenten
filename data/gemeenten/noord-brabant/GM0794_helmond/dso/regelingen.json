@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0794/2024/Regeling4576dcfb0e6a4b5da9eb702bb778d2d2",
+    "titel": "Actieplan geluid 2024-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0794/2024/Regeling4576dcfb0e6a4b5da9eb702bb778d2d2/nld@2025-02-18;09583386",
+    "beginGeldigheid": "2024-09-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0794_2024_Regeling4576dcfb0e6a4b5da9eb702bb778d2d2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0794/2026/Regeling45fb6c7e17544e59aac8fcf3f7b5f5c3",
+    "titel": "Voorbereidingsbesluit EHAD",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0794/2026/Regeling45fb6c7e17544e59aac8fcf3f7b5f5c3/nld@2026-02-02;13335563",
+    "beginGeldigheid": "2026-02-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0794_2026_Regeling45fb6c7e17544e59aac8fcf3f7b5f5c3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0794/2026/Regeling223f97c8cfdb4a3a96e1b5920192acff",
+    "titel": "Programma Geluid & Lucht – Gemeente Helmond 2026-2031",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0794/2026/Regeling223f97c8cfdb4a3a96e1b5920192acff/nld@2026-05-19;06310156",
+    "beginGeldigheid": "2026-05-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0794_2026_Regeling223f97c8cfdb4a3a96e1b5920192acff?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0794/2026/Regeling35a0327836464b659a91e510d683ef61",
+    "titel": "Gebiedsgericht programma Houtse Beemden",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0794/2026/Regeling35a0327836464b659a91e510d683ef61/nld@2026-05-27;12521729",
+    "beginGeldigheid": "2026-05-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0794_2026_Regeling35a0327836464b659a91e510d683ef61?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0794/2026/Regeling2033c179da33429a8b8f7076e8abddfe",
+    "titel": "Voorbereidingsbesluit gemeente Helmond uitsluiting woonzorgfuncties",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0794/2026/Regeling2033c179da33429a8b8f7076e8abddfe/nld@2026-09-24;08280076",
+    "beginGeldigheid": "2026-09-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0794_2026_Regeling2033c179da33429a8b8f7076e8abddfe?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0794/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Helmond",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0794/2020/omgevingsplan/nld@2026-09-24;08123494",
+    "beginGeldigheid": "2026-10-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0794_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:58Z"
+  }
+]

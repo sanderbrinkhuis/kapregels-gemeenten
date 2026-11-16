@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0153",
+  "gemeente": "Enschede",
+  "provincie": "Overijssel",
+  "brondocument": "Verordening kwaliteit leefomgeving gemeente Enschede 2023 (VKL), hoofdstuk 6 art. 6.14 t/m 6.17, art. 14.1, 14.2 en bijlagen 6.14 en 14.2 (CVDR696115_6); Nadere regels bomen(bescherming) (CVDR742000_1); Leges 2026 art. 2.30 (CVDR749450_2); APV 2009 afd. 4.3 art. 4:10 t/m 4:12 (vervallen) (CVDR332923_24)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696115/6 ; https://lokaleregelgeving.overheid.nl/CVDR742000/1 ; https://lokaleregelgeving.overheid.nl/CVDR749450/2 ; https://lokaleregelgeving.overheid.nl/CVDR332923/24",
+  "datum_geldigheid": "VKL versie 6 geldend van 01-04-2026 t/m heden; Nadere regels van 12-07-2025 t/m heden; Leges 2026 versie 2 van 01-10-2026 t/m heden; peildatum scoren 14-11-2026",
+  "laatste_wijziging": "VKL: versie 6 in werking 01-04-2026 (vorige versie 31-01-2026; de kapregels zijn gewijzigd per 12-07-2025, zie overgangsrecht art. 6.20 'wijzigingsverordening die door de raad op 7 juli 2025 is vastgesteld'). Nadere regels: 12-07-2025.",
+  "juridische_plaats": "Verordening kwaliteit leefomgeving (VKL) art. 6.14, met WED-aanwijzing in art. 14.1 lid 3; de legesverordening noemt het vellen een omgevingsplanactiviteit (art. 5.1 lid 1 onder a Ow). APV art. 4:10 t/m 4:12 zijn vervallen. Omgevingsplan art. 1.29: alleen aanvraagvereisten (geen kapverbod; kapverbod elders alleen in werkingsgebieden Agrarisch, Cultuurhistorische structuur en Watersystemen).",
+  "praktijkcontrole": "1163 bekendmakingen sinds 2025: 461 besluiten, 587 aanvragen, 3 weigeringen volgens de titel. Veel kapbesluiten voor losse bomen, ook particuliere bomen (eiken, coniferen, beuken); de besluiten noemen geen grondslag. Dat past bij een breed regime met omtrekdrempel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning van het college)",
+  "drempel": "Binnen de bebouwingscontour houtkap: 'stamomtrek ... gelijk aan of groter dan 100 centimeter op 130 centimeter hoogte boven het maaiveld' (VKL art. 6.14 lid 5, tabel punt 1). Buiten de contour dezelfde drempel van 100 cm (tabel punt 2). Daarnaast individuele bomen op de Bomenkaart, ongeacht omvang. Gemeentelijke bomen in lanen en rode buurten: 50 cm (alleen openbaar gebied).",
+  "omtrek_cm": 100,
+  "meethoogte": "1,30 m (130 cm boven het maaiveld)",
+  "reikwijdte": "Hele grondgebied, particulier en openbaar; binnen en buiten de bebouwingscontour houtkap dezelfde omtrekdrempel van 100 cm. Aanvullend: individuele bomen op de Bomenkaart, houtwallen/houtsingels/bosperceel buiten de contour, en gemeentelijke bomen (50 cm) in aangewezen lanen en rode buurten op openbaar gebied.",
+  "uitzonderingen": "Binnen en buiten de contour: Plantgezondheidswet of aanschrijving, direct gevaar met toestemming van de burgemeester, knotten/kandelaberen als periodiek onderhoud, soorten op de Unielijst Invasieve Exoten. Alleen buiten de contour: populieren/wilgen als wegbeplanting of eenrijige beplanting op of langs landbouwgronden, vruchtbomen en windschermen om boomgaarden, kweekgoed ('kerstbomen, coniferen e.a.'), hakhout en bestendig beheer, dunning tot 20%. Geen uitzondering voor tuinen of conifeer/fruitboom binnen de contour. Houtopstanden uit herplantplicht blijven vergunningplichtig ook onder 100 cm.",
+  "weigeringsgronden": "VKL art. 6.15 lid 2: 'Het college kan nadere regels vaststellen. Hierin worden onder andere opgenomen: beoordelingsregels aan de hand waarvan zij beoordeelt of een omgevingsvergunning kan worden verleend en voorschriften.' Nadere regels art. 1: 'Er wordt in beginsel alleen een omgevingsvergunning verleend in specifieke gevallen van projecten en (bouw)werkzaamheden, overlast en gevaar.' Zonnepanelen zijn geen reden (nadere regels art. 3.3: 'Dit geldt ook voor het verlenen van een omgevingsvergunning voor een particuliere boom.').",
+  "herplantplicht": "VKL art. 6.16 lid 1: 'Het college kan aan de rechthebbende een verplichting opleggen tot herplant, of tot het betalen van een vergoeding: a. als aanvullend voorschrift bij het verlenen van een vergunning; b. als een vergunningplichtige houtopstand zonder vergunning is geveld.' Nadere regels art. 6: 'De afweging of de in dit lid bedoelde herplantplicht daadwerkelijk wordt opgelegd vindt plaats als onderdeel van de beoordeling van de vergunningaanvraag.' Richtlijn: 'Particulier binnen de bebouwde kom: 1 op 1'. Lid 2 onder c: storting van een vergoeding 'aan de hand van de boomwaarde' kan worden opgelegd als herplant ruimtelijk niet mogelijk is of onvoldoende compenseert.",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid van het college ('kan ... opleggen') en wordt per geval afgewogen; de richtlijn 1 op 1 is geen vast voorschrift. Alternatief: betaling van een vergoeding ('kan', lid 1 en lid 2 onder c). Herplant na illegale kap: ook 'kan' (lid 1 onder b).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen aparte regel voor het niet nakomen van een herplantvoorschrift. Wel geldt: art. 14.2 lid 1 'kan worden beboet met een bestuurlijke boete' voor '6.10 tot en met 6.19' (dus ook 6.16 en voorschriften daarbij); bijlage 14.2 noemt alleen '6.14 | Kapverbod | € 469'. Art. 14.1 lid 3: 'artikel 1a van de Wet op de economische delicten is van toepassing op overtreding van het bepaalde bij of krachtens ... artikel 6.14 (kapverbod)'. Art. 14.1 lid 1 (hechtenis of geldboete tweede categorie) voor overtreding 'bij of krachtens deze verordening'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "WED-aanwijzing in de regeling (VKL art. 14.1 lid 3, artikel 6.14); eigen strafbepaling art. 14.1 (hechtenis tot 3 maanden of geldboete tweede categorie); bestuurlijke boete in de regeling: art. 14.2 lid 1 ('6.10 tot en met 6.19') met bijlage 14.2 '6.14 | Kapverbod | € 469' voor een natuurlijk persoon (rechtspersoon: factor vijf, lid 3). Het legesartikel noemt kappen ook een omgevingsplanactiviteit (Ow 5.1). Vastgesteld handhavingsbeleid voor kap (direct opleggen, koppeling aan boomwaarde): niet gevonden in het dossier.",
+  "procedure": "Leges art. 2.30: EUR 181,35 bij 1 boom; EUR 345,75 bij 2 t/m 5; EUR 633,55 bij 6 t/m 10; EUR 920,20 bij 11 of meer. Vergunning geldt één jaar (art. 6.17). Bekendmaking als 'Kennisgeving besluit op aanvraag'. Beslistermijn, bezwaar en beroep: niet apart onderzocht.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Naast het omtrekregime bestaat een Bomenkaart met individuele bomen (art. 6.14 lid 2; CVDR657038_1 verwijst naar een dynamisch overzicht). Kaart niet ingezien en niet nodig voor D, omdat het omtrekregime het breedste regime is.",
+  "status": "ok",
+  "ontbrekend": "Bomenkaart (individuele bomen) niet ingezien; handhavingsbeleid voor kap (relevant voor S3) niet in het dossier gevonden; beslistermijn en bezwaarprocedure niet apart vastgelegd.",
+  "artikelnummers": [
+    "VKL art. 6.14, 6.15, 6.16, 6.17, 6.20, 14.1, 14.2, bijlage 6.14, bijlage 14.2 (CVDR696115_6)",
+    "Nadere regels bomen(bescherming) art. 1, 3.3, 6 (CVDR742000_1)",
+    "Leges 2026 art. 2.30 (CVDR749450_2)",
+    "Omgevingsplan art. 1.29 (CVDR696198_6)",
+    "APV 2009 art. 4:10 t/m 4:12 (vervallen) (CVDR332923_24)"
+  ],
+  "opmerkingen": [
+    "D3: drempel van precies 100 cm omtrek ('gelijk aan of groter dan 100 centimeter') valt in de band 60-100 cm van het model (D3). Een vergunning is dus vanaf 100 cm nodig; boom A (80 cm) en B (40 cm) vallen daaronder. Zie modelsignaal.",
+    "W3: citaat 'Er wordt in beginsel alleen een omgevingsvergunning verleend in specifieke gevallen van projecten en (bouw)werkzaamheden, overlast en gevaar.' (Nadere regels art. 1, CVDR742000_1, vastgesteld door het college en geldend in CVDR). De VKL zelf geeft alleen een delegatie (art. 6.15).",
+    "H1: 'Het college kan aan de rechthebbende een verplichting opleggen tot herplant, of tot het betalen van een vergoeding' (VKL art. 6.16 lid 1). De richtlijn 1 op 1 wordt per geval afgewogen en maakt herplant geen vast voorschrift. De storting 'kan' alleen worden opgelegd en verhoogt H niet.",
+    "S2: bestuurlijke boete voor kappen staat in de regeling zelf (art. 14.2 lid 1 en bijlage 14.2, EUR 469). Maximum 3 omdat vastgesteld handhavingsbeleid niet is gezocht buiten het dossier (niet gevonden). Het bereik blijft binnen categorie 4 Streng.",
+    "Bijlage 14.2 noemt geen bedrag voor art. 6.16 (herplant), terwijl art. 14.2 lid 1 die wel als beboetbaar noemt.",
+    "Kleine of aanvullende regels niet in D: Bomenkaart-individuele bomen, bomenlanen langs stads- en wijkstraten en rode buurten van de kaart Boomkroonbedekking (50 cm, alleen gemeentelijke bomen, pilot), houtwallen en bosgebieden met zeer hoge landschapswaardering. Het breedste regime bepaalt D.",
+    "Particuliere bomen: de voorbeeldbomen A en B hebben een omtrek onder 100 cm en zijn dus vergunningvrij tenzij ze als individuele boom op de Bomenkaart staan (niet gecontroleerd).",
+    "Sanctie en omgevingsplan: het kapverbod staat in de VKL, niet in het omgevingsplan (art. 1.29 bevat alleen aanvraagvereisten). De WED-aanwijzing staat in de regeling zelf (art. 14.1 lid 3); het legesartikel noemt het vellen bovendien een omgevingsplanactiviteit.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 3.6 lid 1 onder a, 7 ('het vellen, rooien, of verwijderen van houtwallen, boomsingels en houtopstanden', werkingsgebied Agrarisch), art. 5.12 (werkingsgebied Cultuurhistorische structuur, alleen zichtbaar vanuit het openbaar gebied) en art. 5.34 (werkingsgebied Watersystemen) zijn gebiedsregels met een ander doel (landschap/aanleg, cultuurhistorie, water) en tellen niet voor D; D blijft 3 op de VKL. Art. 1.29 is alleen aanvraagvereisten. D, W, H en S ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Drempel van precies 100 cm ('gelijk aan of groter dan'): het model plaatst 60-100 in D3 en '> 100' in D2. Een drempel van 100 cm bepaalt dus op de grens D3, terwijl een drempel van 101 cm D2 zou geven.",
+    "Bestuurlijke boete bij een bijlage met een vast bedrag (EUR 469) en WED-aanwijzing tegelijk: het model heeft geen aparte stap voor de hoogte van de boete; S2 vs S3 hangt af van handhavingsbeleid dat buiten CVDR kan staan."
+  ]
+}

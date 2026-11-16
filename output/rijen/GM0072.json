@@ -1,0 +1,77 @@
+{
+  "gm_code": "GM0072",
+  "gemeente": "Harlingen",
+  "provincie": "Fryslân",
+  "brondocument": "Algemene plaatselijke verordening Harlingen 2024 (CVDR712904_2), afdeling 4.3 Het bewaren van houtopstanden, art. 4:10 en 4:11, art. 6:1; Leges 2026 (CVDR753491_1) art. 2.30; Omgevingsplan (CVDR696171_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR712904/2",
+  "datum_geldigheid": "APV CVDR712904_2 geldend van 2025-08-01 t/m heden",
+  "laatste_wijziging": "APV versie 2 per 2025-08-01 (dossier noemt de reden niet; of de kapartikelen zijn gewijzigd is niet nagegaan).",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (art. 22.8 Ow) en omgevingsplan art. 22.299 (aanvraagvereisten)",
+  "praktijkcontrole": "Sinds 2025: 64 bekendmakingen (29 besluiten, 33 aanvragen, 0 geweigerd volgens de titel). De besluiten gaan over 'kappen van een boom/bomen' in Harlingen en Wijnaldum, deels 'met herplantplicht', en over een gemeentebrede vergunning voor 83 zieke of dode bomen (gmb-2026-28292). Dat past bij een breed regime. Geen grondslagcitaat in de besluiten.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het kappen van een boom of vellen van houtopstanden)",
+  "drempel": "Boom: 'een dwarsdoorsnede van de stam ... van 15 centimeter op 1,3 meter hoogte boven het maaiveld' (art. 4:10 lid 1 onder a); vrijgesteld zijn 'bomen met een dwarsdoorsnede van de stam tot maximaal 15 centimeter' (art. 4:11 lid 3 onder d). Houtopstand: 10 are of meer, of rijbeplanting van meer dan twintig bomen.",
+  "omtrek_cm": 47.1,
+  "meethoogte": "1,3 m (diameter 15 cm x 3,14 = 47,1 cm omtrek)",
+  "reikwijdte": "Binnen de bebouwde kom, alle particuliere en openbare bomen boven de drempel. Art. 4:11 lid 1: 'Het is verboden om zonder omgevingsvergunning van het bevoegd gezag een handeling te verrichten als is beschreven in artikel 2.2, eerste lid onder g van de Wet algemene bepalingen omgevingsrecht, zoals die wet luidde direct voorafgaand aan de inwerkingtreding van de Omgevingswet.' Lid 2: 'Het in het eerste lid gestelde verbod geldt niet voor houtopstanden buiten de bebouwde kom in de zin van hoofdstuk 4 van de Wet natuurbescherming.' 'Vellen' omvat 'het snoeien van meer dan twintig procent van de kroon'.",
+  "uitzonderingen": "Art. 4:11 lid 3: onder e 'bomen met een ouderdom van 49 jaar of jonger die zich bevinden op een kadastraal perceel van gelijk of minder dan 300 m2' (oppervlakte 300 m2); onder f dezelfde bomen 'in een tuin behorende bij een verhuurde woning' met een eenheid inclusief tuin van ten hoogste 300 m2; onder g 'het snoeien van de boomkroon voor maximaal veertig procent'; verder gangbare uitzonderingen (Plantgezondheidswet of aanschrijving, hakhout, knotten, kandelaberen) en lid 4 (tweede lid 4): spoedeisend belang met toestemming van de burgemeester.",
+  "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie in het dossier.",
+  "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid van het bevoegd gezag, per geval). Geen betaling in plaats van herplant. Geen regeling voor herplant na illegale kap.",
+  "sancties": "Algemene strafbepaling art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Lid 2 wijst WED alleen aan voor art. 2:10 en 2:11, niet voor art. 4:11. WED via de Omgevingswet: de kapregel werkt als omgevingsplanactiviteit (leges art. 2.30: 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet ... artikel 4:11 van de Algemene plaatselijke verordening'). Geen bestuurlijke boete gevonden.",
+  "procedure": "Omgevingsvergunning. Leges 2026 (CVDR753491_1 art. 2.30): € 266,80. Beslistermijn APV art. 1:2 (acht weken) geldt niet voor omgevingsvergunning. Bezwaar en beroep volgens Awb (niet apart gelezen).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Geen aparte bepaling. Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Art. 1:4 lid 3 zegt dat dat artikel niet geldt voor een omgevingsvergunning; of een herplantvoorschrift onder de strafbepaling valt, is daarom onzeker.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem; breed regime binnen de bebouwde kom.",
+  "status": "ok",
+  "ontbrekend": "Bezwaar en beroep niet apart gelezen. Omgevingsplan in het DSO niet geraadpleegd. Geen beleidsregel over herplant of handhaving in het dossier.",
+  "artikelnummers": [
+    "APV 4:10, 4:11, 4:12, 6:1, 1:2, 1:4, 1:8",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: drempel 15 cm diameter = 47,1 cm omtrek, dus basis D4 (lager dan 60 cm). Correctie -1 voor de uitzondering van art. 4:11 lid 3 onder e: 'bomen met een ouderdom van 49 jaar of jonger die zich bevinden op een kadastraal perceel van gelijk of minder dan 300 m2' (oppervlakte 300 m2; letterlijk toegepast als uitzondering voor percelen tot een bepaalde oppervlakte). De uitzondering geldt alleen voor bomen tot en met 49 jaar; oudere bomen op kleine percelen blijven beschermd. Zonder deze correctie zou D4 gelden.",
+    "W2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ... f. de waarde voor de leefbaarheid van de houtopstand' (art. 4:11 lid 4): belangenafweging met limitatieve waarden.",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften' (art. 4:11 lid 5). Besluiten uit de praktijk noemen soms een 'herplantplicht'; dat is een opgelegd voorschrift, geen regel.",
+    "S1: WED via Ow 5.1 volgens de leges (kapregel als omgevingsplanactiviteit). De APV wijst WED alleen aan voor art. 2:10 en 2:11 (art. 6:1 lid 2); art. 6:1 lid 1 is een algemene strafbepaling en zou alleen S0 geven. Er is geen regel over herplant na illegale kap en geen bestuurlijke boete.",
+    "Voorbeeldboom A (80 cm omtrek, ca. 25 cm diameter) heeft vergunning nodig ('ja'), tenzij de boom 49 jaar of jonger is en op een perceel van ten hoogste 300 m2 staat (lid 3 onder e). Boom B (40 cm, ca. 13 cm) valt onder de drempel van 15 cm.",
+    "Het Uitvoeringsprogramma VTH 2024-2025 (CVDR735189_1) noemt alleen aantallen 'vellen van een houtopstand' (18 aanvragen, 20 geschat); geen handhavingsbeleid voor kap.",
+    "Art. 4:11 kent twee leden met nummer 4 (zoals gepubliceerd). Lid 2 sluit houtopstanden buiten de bebouwde kom 'in de zin van hoofdstuk 4 van de Wet natuurbescherming' uit; die wet is niet meer in werking, de gevolgen daarvan zijn niet nader onderzocht.",
+    "Boom A 'nee': de voorbeeldtuin ligt op een perceel van ca. 300 m², dus geldt lid 3 onder e ('gelijk of minder dan 300 m2'), op voorwaarde dat de boom 49 jaar of jonger is. (Nabewerking 14-11-2026, besluit gebruiker)"
+  ],
+  "modelsignalen": [
+    "Uitzondering met een leeftijdsvoorwaarde (bomen van 49 jaar of jonger op percelen tot 300 m2). De D-correctie kent alleen 'alle percelen tot een oppervlakte'; hier is de uitzondering smaller, omdat oudere bomen beschermd blijven. Toegepast zoals opgedragen: D4 wordt D3.",
+    "Drempel 15 cm diameter (47 cm omtrek) is zeer laag; de score D3 komt hier uitsluitend uit de correctie."
+  ]
+}

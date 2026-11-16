@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1892/2024/2_14",
+    "titel": "Programma Zon op Veld",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1892/2024/2_14/nld@30",
+    "beginGeldigheid": "2024-12-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1892_2024_2_14?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1892/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente zuidplas",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1892/2020/omgevingsplan/nld@39",
+    "beginGeldigheid": "2026-05-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1892_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1892/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente zuidplas 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1892/2024/omgevingsvisie/nld@40",
+    "beginGeldigheid": "2026-06-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1892_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:35Z"
+  }
+]

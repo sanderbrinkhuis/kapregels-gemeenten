@@ -1,0 +1,75 @@
+{
+  "provincie": "Fryslân",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "volledig_gelezen": true,
+  "status": "ok",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "gm_code": "GM0088",
+  "gemeente": "Schiermonnikoog",
+  "brondocument": "Kapverordening Schiermonnikoog 2011, art. 1, 2, 4, 6, 7, 9; APV Schiermonnikoog (CVDR719427_1) art. 4:10 t/m 4:12 'Vervallen', art. 6:1",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR91357/1",
+  "datum_geldigheid": "CVDR91357_1 geldend van 2011-04-04 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "Kapverordening: laatste wijziging in de metadata 2017-06-13 (enige versie CVDR91357_1). APV CVDR719427_1 in werking 2024-05-04.",
+  "juridische_plaats": "Losse kapverordening (CVDR91357_1, 2011). APV art. 4:10 t/m 4:12 zijn 'Vervallen'. De kapregel werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR748203_2, art. 2.30) noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Kapverordening Schiermonnikoog 2011 in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (CVDR696181_3) bevat alleen aanvraagvereisten (art. 22.299). Eigen strafbepaling in art. 9.",
+  "praktijkcontrole": "Sinds 2025: 24 bekendmakingen over kap, 2 besluiten, 11 aanvragen, 0 geweigerd volgens de titel. Bekendmakingen over 'kappen van 1 boom' en 'kappen van bomen in de tuin' met verlenging van de beslistermijn, wat past bij vergunningplicht voor (zichtbare) tuinbomen. Geen grondslagcitaat.",
+  "vergunningplicht": "Vergunning van het bevoegd gezag (art. 2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen').",
+  "drempel": "Boom: 'houtachtig overblijvend gewas met een diameter van de stam van minimaal 10 cm. op 1,30 meter hoogte boven het maaiveld' (art. 1 lid 1 onder a). Hakhout en houtwallen zijn ook houtopstand.",
+  "omtrek_cm": 31.4,
+  "meethoogte": "1,30 m (diameter 10 cm x 3,14 = 31,4 cm omtrek)",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar. Tuinen en erven bij woningen zijn alleen uitgezonderd als de houtopstand 'niet zichtbaar is vanaf de openbare weg en niet voorkomt op de door burgemeester en wethouders opgestelde lijst van waardevolle tuin- of erfbomen' (art. 2 lid 2 onder k). Dus beschermd zijn: tuinbomen die vanaf de openbare weg zichtbaar zijn (voorerf en zichtbare zijtuin) en bomen op de lijst van waardevolle tuin- of erfbomen.",
+  "uitzonderingen": "Art. 2 lid 2: populieren/wilgen langs landbouwgrond (niet-geknot); 'vruchtbomen en windschermen om boomgaarden'; kerstbomen; kweekgoed; dunning; bosbouwondernemingen buiten de bebouwde kom; Plantenziektewet; gemeentelijke vervanging; houtopstand die al door het bestemmingsplan is beschermd; houtopstand in een beschermd natuurmonument; en 'houtopstand in tuinen of erven behorende bij woningen, welke houtopstand niet zichtbaar is vanaf de openbare weg en niet voorkomt op de door burgemeester en wethouders opgestelde lijst van waardevolle tuin- of erfbomen' (onder k). Correctie D: uitzondering voor tuinbomen die niet vanaf de weg zichtbaar zijn (achtertuinen); behandeld als 'alleen voorerf/strook langs de weg', dus D 4 min 1 = 3. Geen oppervlaktegrens. Lijst van waardevolle tuin- of erfbomen niet ingezien.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijst_telling": "Lijst van waardevolle tuin- of erfbomen (art. 2 lid 2 onder k) niet ingezien; telt niet voor D omdat het brede regime bepaalt.",
+  "weigeringsgronden": "Art. 4 lid 1: 'De vergunning kan worden geweigerd op grond van: a. de landschappelijke waarde van de houtopstand; b. de waarde van de houtopstand voor dorpsschoon; c. de beeldbepalende waarde van de houtopstand; d. de cultuurhistorische waarde van de houtopstand; e. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 6 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant.' Art. 7 lid 1: bij kap zonder vergunning 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen fonds of financiële compensatie in de tekst.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren' (art. 6 lid 1) en 'kan het bevoegd gezag ... de verplichting opleggen' (art. 7 lid 1). Het bevoegd gezag beslist per geval. Geen betaling als alternatief. Een herplantbeleidsregel is niet gevonden.",
+  "herplant_niet_nakomen": "Strafbaar, maar niet voor de herplantplicht na illegale kap. Kapverordening art. 9 lid 1 noemt voorschriften 'als bedoeld in artikel 4, eerste lid, of in artikel 6' (herplantvoorschrift bij vergunning) en een verplichting 'als bedoeld in artikel 8' (schadevergoeding, waarschijnlijk typefout voor art. 7); lid 2: 'wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'. Art. 7 (herplant na kap zonder vergunning) wordt niet genoemd. APV art. 6:1 helpt niet: art. 4:10 t/m 4:12 zijn vervallen. Art. 7 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 9 lid 2: 'Hij, die handelt in strijd met artikel 2, eerste lid, dan wel een voorschrift of een verplichting, als bedoeld in het vorige lid, niet nakomt, wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.' (Art. 9 lid 1 verwijst voor de verplichting naar 'artikel 8', dat over schadevergoeding gaat; bedoeld is waarschijnlijk art. 7.)",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "herplant_type": "kan",
+  "sancties": "Eigen strafbepaling in de verordening: art. 9 lid 2 (hechtenis tot 3 maanden of geldboete tweede categorie) en openbaarmaking van de uitspraak (lid 3). Herplant na illegale kap kan worden opgelegd (art. 7 lid 1). APV art. 6:1 lid 2 wijst de WED aan voor 'artikel 4:11, eerste lid', maar dat artikel is vervallen (dode verwijzing); de WED-route loopt via de Omgevingswet (omgevingsplanactiviteit) en is niet nodig voor S1. Geen bestuurlijke boete en geen handhavingsbeleid voor kap gevonden.",
+  "procedure": "Leges art. 2.30 legesverordening 2026 (CVDR748203_2): € 23,40; legesverordening 2027 (CVDR769150_1, in werking 2026-11-13, geldt voor 2027): € 23,90. Schadevergoeding mogelijk (art. 8). Bezwaar en beroep volgens de Awb; beslistermijn is in de bekendmakingen verlengd, de lengte staat niet in de verordening.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "ontbrekend": "Lijst van waardevolle tuin- of erfbomen niet ingezien (bepaalt welke achtertuinbomen beschermd zijn, maar niet het aantal). Omgevingsplan in het DSO niet ingezien. Geen aparte herplant-beleidsregel gevonden in het dossier.",
+  "artikelnummers": [
+    "Kapverordening 2011 art. 1, 2, 4, 6, 7, 9 (CVDR91357_1)",
+    "APV art. 4:10 t/m 4:12 'Vervallen', art. 6:1 (CVDR719427_1)",
+    "Leges 2026 art. 2.30 (CVDR748203_2); Leges 2027 art. 2.30 (CVDR769150_1)",
+    "Omgevingsplan art. 22.299 (CVDR696181_3)"
+  ],
+  "opmerkingen": [
+    "Peildatum 2026-11-14. D: diameter 10 cm = omtrek 31,4 cm voor de hele gemeente = D4, min 1 voor de uitzondering voor tuinbomen die niet vanaf de openbare weg zichtbaar zijn = 3.",
+    "W: 'De vergunning kan worden geweigerd op grond van: a. de landschappelijke waarde van de houtopstand; ...' (art. 4) = W2.",
+    "H: 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten' (art. 7 lid 1) = H1.",
+    "S: eigen strafbepaling art. 9 = S1.",
+    "Boom A en B: een gezonde boom in een particuliere achtertuin is uitgezonderd als hij niet vanaf de openbare weg zichtbaar is en niet op de lijst van waardevolle tuin- of erfbomen staat (art. 2 lid 2 onder k). Is de boom wel zichtbaar vanaf de weg of staat hij op die lijst, dan is vergunning nodig.",
+    "De wettelijke grondslagen in de considerans (Boswet, Wabo art. 2.2 lid 1 onder g) zijn achterhaald; de verordening is niet aangepast aan de Omgevingswet."
+  ],
+  "modelsignalen": [
+    "De tuinuitzondering hangt af van zichtbaarheid vanaf de openbare weg; het model kent alleen 'achtertuin' of 'strook langs de weg'. Ik heb de correctie -1 toegepast als gelijkwaardig aan alleen voorerf. Zichtbare achtertuinen blijven beschermd, dus de dekking kan groter zijn dan D3 suggereert (D4 min 1 is een grove benadering)."
+  ]
+}

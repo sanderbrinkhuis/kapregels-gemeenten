@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0335/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Montfoort",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0335/2020/omgevingsplan/nld@2024-05-14;1",
+    "beginGeldigheid": "2024-05-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0335_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:50Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0335/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Montfoort",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0335/2025/omgevingsvisie/nld@2025-09-25;1",
+    "beginGeldigheid": "2025-09-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0335_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:50Z"
+  }
+]

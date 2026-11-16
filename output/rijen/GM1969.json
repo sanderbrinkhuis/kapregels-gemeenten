@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1969",
+  "gemeente": "Westerkwartier",
+  "provincie": "Groningen",
+  "brondocument": "APV gemeente Westerkwartier 2021 (CVDR646327_6) afd. 4.3 art. 4:10-4:12f en 6:1; Leges 2026 (CVDR754545_1) art. 2.30; Houtsingelhoofdstructuur zuidelijk Westerkwartier 2024 (CVDR720417_1); Omgevingsplan (CVDR696538_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR646327/6 ; https://lokaleregelgeving.overheid.nl/CVDR720417/1",
+  "datum_geldigheid": "APV versie 6 geldend van 07-03-2025 t/m heden; Houtsingelhoofdstructuur geldend van 06-06-2024 t/m heden; omgevingsplan versie 3 geldend van 21-10-2026 t/m heden",
+  "laatste_wijziging": "APV versie 6 in werking 07-03-2025",
+  "juridische_plaats": "APV afd. 4.3; werkt als omgevingsplanactiviteit (legesartikel 2.30: 'artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'); APV art. 6:1 lid 2 bevat bovendien een eigen WED-aanwijzing voor art. 4:11 lid 1. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "388 bekendmakingen sinds 2025: 183 besluiten, 205 aanvragen, 1 weigering volgens titel. Het gaat vrijwel steeds om 'kappen van een boom' op percelen in alle kernen (Leek, Zuidhorn, Marum, Grootegast, Aduard, enz.), wat past bij een regeling die ook particuliere tuinen en erven omvat. Geen grondslag genoemd in de besluiten.",
+  "vergunningplicht": "vergunning (omgevingsvergunning)",
+  "drempel": "Boom: dwarsdoorsnede van minimaal 35 centimeter op 1,3 meter hoogte (art. 4:10 sub a); de 35 cm geldt niet voor bomen in houtsingels in het buitengebied.",
+  "omtrek_cm": 109.9,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder omgevingsvergunning van het college een houtopstand te vellen of te doen vellen anders dan bij wijze van dunning.' Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar; houtopstand = bomen, hakhout, houtsingel, erfbeplanting of wegbeplanting. Aanvullend voor het hele Zuidelijk Westerkwartier: 'Voor alle houtsingels in het Zuidelijk Westerkwartier geldt een verbod op rooien' (CVDR720417_1, onderdeel 1, zonder diameterdrempel).",
+  "uitzonderingen": "Art. 4:11 lid 2: populieren en wilgen als wegbeplanting of eenrijige beplanting langs landbouwgrond/waterwegen; 'b. fruitbomen en windschermen om boomgaarden' (alle fruitbomen, ook in tuinen); kerstbomen (fijnsparren, max. 12 jaar); kweekgoed. Lid 4: Plantenziektenwet of aanschrijving. Lid 5: knotten en kandelaberen. Dunning valt buiten het verbod.",
+  "weigeringsgronden": "Art. 4:12b lid 1: 'kan de vergunning in elk geval worden geweigerd op grond van: a. de natuurwaarde ... b. de landschappelijke waarde ... c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde; e. de cultuurhistorische waarde; f. de recreatieve waarde; g. de waarde voor de leefbaarheid.' Lid 3: 'Een vergunning wordt in elk geval geweigerd' bij onder meer honingdauw, schaduw, allergie, zonnepanelen, uitzicht.",
+  "herplantplicht": "Art. 4:12a lid 3: 'Tot de in het eerste lid bedoelde voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herbeplant.' Art. 4:12e lid 1: 'kan het college ... de verplichting opleggen te herbeplanten.' Boomwaarde mag als motivering dienen (lid 2 van 4:12a en 4:12b), geen verplichte financiele compensatie. Alleen voor houtsingels (CVDR720417_1 onderdeel 2.5): '100% compensatieplicht ... Voor iedere m2 dient een m2 terug te komen.'",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college, per geval); geen 'tenzij'-formulering en geen betaling in plaats van herplant.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12e lid 4: 'Degene aan wie een verplichting ... is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling (APV art. 6:1 lid 2: 'In afwijking van het eerste is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van ... artikel 4:11, eerste lid') en WED via Ow 5.1 (omgevingsplanactiviteit). Eigen strafbepaling art. 6:1 lid 1. Geen bestuurlijke boete gevonden.",
+  "procedure": "Leges art. 2.30: EUR 57,00. Aanvraag schriftelijk gemotiveerd met situatieschets (art. 4:12). Vergunning vervalt na een jaar (art. 4:12c). Beslistermijn art. 1:2 niet van toepassing op omgevingsvergunning. Bezwaar en beroep volgens Awb.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing: geen lijstsysteem",
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan tijdelijk deel en plankaart houtsingelhoofdstructuur (DSO) niet ingezien (DSO-sleutel nog aangevraagd). Grenzen van het Zuidelijk Westerkwartier alleen uit de tekst van CVDR720417_1 bekend, kaart niet beoordeeld.",
+  "artikelnummers": [
+    "APV 2021 art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 4:12e, 6:1 (CVDR646327_6)",
+    "Houtsingelhoofdstructuur 2024, onderdelen 1, 2.1 en 2.5 (CVDR720417_1)",
+    "Leges 2026 art. 2.30 (CVDR754545_1)",
+    "Omgevingsplan art. 22.299 (CVDR696538_3)"
+  ],
+  "opmerkingen": [
+    "D: hele gemeente met drempel 35 cm dwarsdoorsnede = 109,9 cm omtrek (> 100 cm) geeft D = 2. De uitzondering voor alle fruitbomen (art. 4:11 lid 2 sub b) zou D met 1 verlagen tot 1. De Houtsingelhoofdstructuur (CVDR720417_1) beschermt echter alle houtsingels van het Zuidelijk Westerkwartier zonder diameterdrempel; dat is een aangewezen structuur (ruim 1.000 km singels in het gebied, vaak particulier eigendom) en telt als substantieel. Daarom D = 2, bereik 1 tot 2.",
+    "Houtsingelhoofdstructuur: wijst geen losse bomen aan maar een lijnvormige structuur in het hele Zuidelijk Westerkwartier. Tekst: 'De begrenzing van de houtsingelhoofdstructuur is gelijk aan de begrenzing van het Zuidelijk Westerkwartier.' Singels zijn volgens het document 'over het algemeen eigendom van agrariers, particulieren of terreinbeheerders'. De spelregels maken deel uit van het bestemmingsplan buitengebied (nu tijdelijk deel omgevingsplan) en gelden bij een omgevingsvergunningaanvraag; de APV regelt de vergunningplicht zelf (art. 4:10 sub l en 4:11).",
+    "W: 'kan de vergunning in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand' (art. 4:12b lid 1), W = 2.",
+    "H: 'kan het college ... de verplichting opleggen te herbeplanten' (art. 4:12e lid 1), H = 1. Voor houtsingels geldt een strengere compensatieregel (100% per m2); dat is een subregime en verandert H niet; bereik tot 2.",
+    "Voorbeeldbomen: 80 cm omtrek is ca. 25 cm doorsnede en blijft onder de drempel van 35 cm; daarom 'nee' voor beide.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): de uitzondering 'fruitbomen en windschermen om boomgaarden' is een gangbare uitzondering voor boomgaarden en geeft geen −1 en geen bereik: D2 (1-2) → D2 zonder bereik."
+  ],
+  "modelsignalen": [
+    "Houtsingel zonder diameterdrempel binnen een regime met hoge drempel: het model beschrijft een structuur wel (D = 2) maar niet hoe die zich verhoudt tot een gemeentebrede regel met uitzondering voor fruitbomen. Zonder houtsingel zou D = 1 zijn (D = 2 min 1 voor fruitbomen); met houtsingel D = 2.",
+    "Beleidsregel (spelregels) met '100% compensatieplicht' geldt alleen voor een subtype (houtsingels) en wordt volgens 'grootste deel van de gedekte bomen' niet in H meegeteld."
+  ]
+}

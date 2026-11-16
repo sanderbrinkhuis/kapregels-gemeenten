@@ -1,0 +1,25 @@
+{
+  "gemeente": "Echt-Susteren",
+  "gm_code": "GM1711",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Echt-Susteren",
+  "zoeknaam_bekendmakingen": "Echt-Susteren",
+  "opgehaald_op": "2026-11-14T18:00:28+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Echt-Susteren\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 62,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Echt-Susteren\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 48,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR679839_3",
+    "CVDR696489_3",
+    "CVDR751182_1"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 22,
+  "bekendmakingen_geweigerd": 1,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,34 @@
+# Omgevingsplan (DSO) – kapgerelateerde artikelen GM0171
+
+Regeling: Omgevingsplan gemeente Noordoostpolder (/akn/nl/act/gm0171/2020/omgevingsplan), expressie /akn/nl/act/gm0171/2020/omgevingsplan/nld@2026-06-08;07280837, geldig vanaf 2026-06-09. Opgehaald 2026-11-16T12:52:27+00:00 via DSO Presenteren v8.
+Artikelen totaal: 548; met kaptermen (niet vervallen): 6.
+
+## Artikel 9.3 Toepassingsbereik [zwak (alleen boom/bomen)]
+_Hoofdstuk 9 Aanlegactiviteiten > Afdeling 9.2 Bomen en planten aanbrengen > Paragraaf 9.2.1 Bomen en planten aanbrengen - vergunningplicht_
+
+Deze paragraaf is van toepassing op het aanbrengen van bomen en beplanting. Onder het aanbrengen van bomen en beplanting als bedoeld in deze paragraaf wordt verstaan: het aanbrengen van diep wortelende bomen en beplanting.
+
+## Artikel 9.5 Bomen en planten aanbrengen - vergunningplicht [zwak (alleen boom/bomen)]
+_Hoofdstuk 9 Aanlegactiviteiten > Afdeling 9.2 Bomen en planten aanbrengen > Paragraaf 9.2.1 Bomen en planten aanbrengen - vergunningplicht_
+
+Het is verboden zonder omgevingsvergunning bomen en beplanting aan te brengen.
+
+## Artikel 9.6 Toepassingsbereik [zwak (alleen boom/bomen)]
+_Hoofdstuk 9 Aanlegactiviteiten > Afdeling 9.3 Bomen en beplanting verwijderen > Paragraaf 9.3.1 Bomen en beplanting verwijderen - vergunningplicht_
+
+Deze paragraaf is van toepassing op het verwijderen van bomen en beplanting. Onder het verwijderen van bomen en beplanting als bedoeld in deze paragraaf wordt verstaan: het verwijderen van diep wortelende bomen en beplanting.
+
+## Artikel 9.8 Bomen en beplantingen verwijderen - vergunningplicht [zwak (alleen boom/bomen)]
+_Hoofdstuk 9 Aanlegactiviteiten > Afdeling 9.3 Bomen en beplanting verwijderen > Paragraaf 9.3.1 Bomen en beplanting verwijderen - vergunningplicht_
+
+Het is verboden zonder omgevingsvergunning bomen en beplanting te verwijderen.
+
+## Artikel 22.296 Omgevingsplanactiviteit: uitweg [aanvraagvereisten bruidsschat]
+_Hoofdstuk 22 ACTIVITEITEN > Afdeling 22.5 OVERIGE ACTIVITEITEN > Paragraaf 22.5.2 Aanvraagvereisten > Subparagraaf 22.5.2.4 Aanvraagvereisten omgevingsvergunningen vereist op grond van een andere gemeentelijke regeling dan dit omgevingsplan in samenhang met artikel 22.8 van de Omgevingswet_
+
+Bij een aanvraag om een omgevingsvergunning voor het maken, hebben of veranderen van een uitweg of het gebruik daarvan worden de volgende gegevens en bescheiden verstrekt: a.de locatie van de uitweg aan het voor-, zij- of achtererf; b.de afmeting van de nieuwe uitweg of de te veranderen bestaande uitweg en de beoogde verandering daarvan; c.de te gebruiken materialen; en d.de aanwezigheid van obstakels die in de weg staan voor het aanleggen of het gebruik van de uitweg, zoals bomen, lantaarnpalen en nutsvoorzieningen.
+
+## Artikel 22.298 Omgevingsplanactiviteit: vellen van houtopstand [aanvraagvereisten bruidsschat]
+_Hoofdstuk 22 ACTIVITEITEN > Afdeling 22.5 OVERIGE ACTIVITEITEN > Paragraaf 22.5.2 Aanvraagvereisten > Subparagraaf 22.5.2.4 Aanvraagvereisten omgevingsvergunningen vereist op grond van een andere gemeentelijke regeling dan dit omgevingsplan in samenhang met artikel 22.8 van de Omgevingswet_
+
+Bij een aanvraag om een omgevingsvergunning voor het vellen van een houtopstand, identificeert de aanvrager op de aanduiding, bedoeld in artikel 7.3, onder d, van de Omgevingsregeling, iedere houtopstand waarop de aanvraag betrekking heeft met een nummer. Per genummerde houtopstand worden de volgende gegevens en bescheiden verstrekt: a.de soort houtopstand; b.de locatie van de houtopstand op het voor-, zij-, of achtererf; c.de diameter in centimeters, gemeten op 1,30 meter vanaf het maaiveld; en d.de mogelijkheid tot herbeplanten of het voornemen om op een daarbij te vermelden locatie tot herbeplanten van een daarbij te vermelden aantal soorten over te gaan.

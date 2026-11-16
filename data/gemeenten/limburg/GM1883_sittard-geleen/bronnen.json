@@ -1,0 +1,28 @@
+{
+  "gemeente": "Sittard-Geleen",
+  "gm_code": "GM1883",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Sittard-Geleen",
+  "zoeknaam_bekendmakingen": "Sittard-Geleen",
+  "opgehaald_op": "2026-11-14T18:00:32+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Sittard-Geleen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 150,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Sittard-Geleen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 108,
+  "geldende_regelingen": 28,
+  "geldend_met_kapartikelen": [
+    "CVDR229159_1",
+    "CVDR684467_1",
+    "CVDR696510_2",
+    "CVDR730204_1",
+    "CVDR753620_2",
+    "CVDR767707_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

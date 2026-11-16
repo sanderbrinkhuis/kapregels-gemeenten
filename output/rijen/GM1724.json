@@ -1,0 +1,81 @@
+{
+  "provincie": "Noord-Brabant",
+  "gm_code": "GM1724",
+  "gemeente": "Bergeijk",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Waardevolle bomenkaart gemeente Bergeijk 2025 (exb-2026-23638, via de gemeentepagina Bomenkapbeleid 2026-2031) ingezien: genummerde puntbomen (hoogste nummer 443, niet alle nummers leesbaar), plus waardevolle vlakken, boomstructuren en twee bosvillagebieden. De kaart geeft niet aan welke punten particulier zijn; daarom geen telling. Beleid art. 2: 'Particuliere en gemeentelijke bomen die op de Bomenkaart staan en/of binnen een boomvlak of boomstructuur vallen zijn beschermd'.",
+  "brondocument": "Algemene plaatselijke verordening gemeente Bergeijk (CVDR752424_1) afd. 4.3 art. 4:10, 4:11 en art. 6:1; Bomenkapbeleid gemeente Bergeijk 2026-2031 (CVDR763685_1) art. 1, 2 t/m 2.6, 3.1, 4.2, 4.3; Uitvoerings- en handhavingsstrategie VTH 2026-2027 (CVDR754893_1); Verordening op de heffing en invordering van leges 2026 (CVDR752411_1) art. 2.30; Omgevingsplan (CVDR696493_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR752424/1 ; https://lokaleregelgeving.overheid.nl/CVDR763685/1 ; https://lokaleregelgeving.overheid.nl/CVDR752411/1 ; https://lokaleregelgeving.overheid.nl/CVDR754893/1 ; https://repository.officiele-overheidspublicaties.nl/externebijlagen/exb-2026-23638/1/bijlage/exb-2026-23638.pdf",
+  "datum_geldigheid": "APV CVDR752424_1 geldend vanaf 2025-12-25 t/m heden; Bomenkapbeleid CVDR763685_1 vanaf 2026-07-02; leges CVDR752411_1 vanaf 2026-01-01 (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 1 per 2025-12-25 (nieuwe vaststelling, vervangt APV 2024 CVDR710954_1). Bomenkapbeleid: besluit van 17 maart 2026, in werking 2026-07-02. Bomenkaart: 2025.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: leges 2026 (CVDR752411_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. WED-aanwijzing ook in APV art. 6:1 lid 2. Omgevingsplan (CVDR696493_2) art. 22.299: alleen aanvraagvereisten, geen eigen vergunningplicht.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 108 bekendmakingen, waarvan 14 besluiten, 59 aanvragen en 0 weigeringen. In de steekproef van 10 besluiten gaat het steeds om ingetrokken aanvragen voor het kappen van 1 tot 22 bomen (bijv. gmb-2025-241884: 22 bomen; gmb-2025-144894: toestemming ingetrokken voor 8 bomen). De besluiten noemen geen grondslag. Veel aanvragen voor een of twee bomen wijzen erop dat ook gewone kernbomen (vlakken, structuren of bosvillagegebieden, of buiten de kom) onder de regeling vallen; dit is niet vast te stellen uit de titels.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van (a) houtopstanden op de Bomenkaart (individuele bomen, boomvlakken, boomstructuren, bosvillagebieden), (b) houtopstanden geplant in het kader van een herplantplicht en (c) houtopstanden buiten de bebouwde kom vanaf 126 cm stamomtrek (art. 4:11 lid 2). Binnen de bebouwde kom is een gewone tuinboom die niet op de kaart staat vergunningvrij.",
+  "drempel": "Buiten de bebouwde kom: stamomtrek van 126 centimeter of meer gemeten op 1,30 meter, dan wel stamdiameter van 40 centimeter of meer (APV art. 4:11 lid 2 onder c). Bomenkaart: geen omvangsdrempel voor individuele waardevolle bomen; in waardevolle vlakken en boomstructuren geldt de definitie 'boom' van meer dan 47 cm omtrek (ca. 15 cm diameter) uit het beleid.",
+  "omtrek_cm": 126,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Buiten de bebouwde kom: alle houtopstanden vanaf 126 cm omtrek, ook op erven en in tuinen (geen tuinuitzondering in art. 4:11). Binnen de bebouwde kom: alleen bomen op de Bomenkaart, in waardevolle vlakken, boomstructuren en de bosvillagebieden Bergeijk en Riethoven (Walik, deel binnen de kom), en herplantbomen. APV art. 4:11 lid 2: 'houtopstanden buiten de bebouwde kom welke een stamomtrek van 126 centimeter of meer gemeten op 1,30 meter boven maaiveld dan wel een stamdiameter van 40 centimeter of meer hebben.'",
+  "uitzonderingen": "Art. 4:11 lid 4: Plantgezondheidswet, periodiek knotten of kandelaberen bij daarvoor geschikte soorten (mits de boom die cultuurvorm al heeft), spoedeisend belang of direct gevaar (burgemeester). Geen tuin-, soort- of perceeluitzondering. Particuliere bomen die niet op de kaart staan maar aan de vier criteria voldoen zijn 'niet automatisch beschermd' (beleid art. 2).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "APV art. 4:11 lid 3: 'kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of waarde voor de leefbaarheid. Bomenkapbeleid art. 3.1 beperkt de verlening: 'Een omgevingsvergunning voor het (doen) vellen van een beschermde houtopstand wordt slechts verleend als:' (a) slechte conditie of lage toekomstverwachting, (b) onaanvaardbaar veiligheidsrisico, (c) aantoonbare substantiële schade, (d) groter maatschappelijk belang, (e) verkeersveiligheid. Bosvillagebied: buiten de kapvlakken bij de woning wordt 'slechts bij hoge uitzondering vergunning wordt verleend' (beleid art. 2.3).",
+  "herplantplicht": "APV art. 4:11 lid 5: 'Het bevoegd gezag kan aan de omgevingsvergunning een voorschrift verbinden inhoudende een verplichting tot een financiële bijdrage aan het Bomenfonds.' Bomenkapbeleid art. 4.2 (vastgesteld beleid): 'is een financiële bijdrage van de aanvrager verplicht' (EUR 240 per boom, vanaf de vierde boom EUR 150, maximaal EUR 2.000 per aanvraag, jaarlijks geïndexeerd), 'In plaats van een op te leggen herplantplicht'. Herplanten zelf wordt dus niet opgelegd; de storting in het Bomenfonds is de standaardcompensatie. Na illegale kap (beleid art. 4.3): 'kan er een verplichting worden opgelegd' te herplanten.",
+  "herplant_ontsnapping": "Voor de storting in het Bomenfonds geen uitweg in de beleidstekst (alleen 'is een financiële bijdrage van de aanvrager verplicht'); de APV zelf zegt 'kan'. Herplant na illegale kap: 'Het college kan ... de verplichting opleggen te herplanten' (beleid art. 4.3): bevoegdheid, het college beslist per geval.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niet nakomen van de verplichte bijdrage of van een herplantverplichting na illegale kap is nergens apart geregeld. APV art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een omgevingsvergunning.' De algemene strafbepaling art. 6:1 lid 1 spreekt van 'het bij of krachtens deze verordening bepaalde'; een uitdrukkelijke plicht 'is verplicht daaraan te voldoen' staat er niet. Verder alleen het algemene instrumentarium (bestuursdwang of dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid en artikel 4:11, tweede lid.' Ook WED via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Geen bestuurlijke boete voor kappen; in de VTH-strategie (CVDR754893_1) staat alleen 'Kappen zonder vergunning' met risico 6,12 en prioriteit 'Gemiddeld', geen boete of boomwaardekoppeling. Herplant na illegale kap: 'kan' (beleid art. 4.3), wel kap-specifiek.",
+  "procedure": "Omgevingsvergunning via het omgevingsloket (beleid art. 3). Leges 2026 art. 2.30: EUR 113,90. Kappen binnen 12 maanden na onherroepelijk worden van de vergunning (beleid art. 4.1). APV art. 1:2 lid 3 sluit de beslistermijn van 8 weken voor omgevingsvergunningen uit; termijn volgens Omgevingswet/Awb, niet apart gelezen. Bezwaar en beroep via de Awb.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Particuliere versus gemeentelijke bomen op de Bomenkaart niet vast te stellen (kaart geeft alleen punten; het kaartonderschrift spreekt over 'Bomen in eigendom van de gemeente Bergeijk'). Omgevingsplan in het DSO niet ingezien. Bijlage-kaart met de kapvlakken (beleid figuur 1) is een afbeelding en niet gelezen.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 6:1",
+    "Bomenkapbeleid 2026-2031 art. 1, 2, 2.3, 2.5, 3.1, 4.2, 4.3",
+    "Leges 2026 art. 2.30",
+    "VTH-strategie 2026-2027 bijlage B",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D2: art. 4:11 lid 2 onder c beschermt buiten de bebouwde kom alle houtopstanden vanaf 126 cm omtrek, ook op erven en in tuinen (geen uitzondering): hoge drempel, D2 (omtrek > 100 cm), geen correctie. Binnen de kom geldt alleen de Bomenkaart (lijst, kaart, vlakken en structuren; tuinboom niet op de kaart vrij), dus lager; het hoogste deel bepaalt. Voorbeeldbomen A en B staan in de kom en zijn alleen beschermd als ze op de kaart staan of in een vlak of structuur vallen (het rapport laat A en B als feit voorgaan).",
+    "W3: 'wordt slechts verleend als' met een gesloten lijst van gronden (beleid art. 3.1) is weigeren-tenzij. De APV zelf zegt 'kan worden geweigerd' (W2); het vastgestelde beleid (CVDR763685_1, geldend per 2026-07-02, geldt dus op de peildatum) is strenger en telt (besluit 14-11-2026 'Strengere toetsing in beleid'; besluit 15-11-2026 'Gesloten verleningsgronden').",
+    "H3 (bereik 2-3): APV 'kan' een voorschrift tot bijdrage aan het Bomenfonds, maar het vastgestelde beleid maakt de bijdrage verplicht ('is een financiële bijdrage van de aanvrager verplicht', 'In plaats van een op te leggen herplantplicht'). Er is dus verplichte financiële compensatie zonder herplant. H3 omdat de compensatie verplicht is; H2 als alleen herplant als 'standaard herplant' telt. Zie modelsignaal.",
+    "S1: WED-aanwijzing in APV 6:1 lid 2 (en via Ow). Geen bestuurlijke boete en geen vastgelegd boetebeleid. Herplant na illegale kap is 'kan' (kap-specifiek, maar S blijft 1).",
+    "Kleine gebiedsregels: kapvlakken in bosvillagegebieden (binnen 6 m van voor- of zijgevel en 15 m van de achtergevel mag gekapt worden, daarbuiten 'slechts bij hoge uitzondering') zijn onderdeel van de vlakken en tellen niet extra. Bomen in een waardevol vlak, boomstructuur of bosvillagegebied vanaf 47 cm omtrek vergunningplichtig; in een boomstructuur zijn ook bomen kleiner dan 31 cm omtrek beschermd.",
+    "Bergeijk heeft niet de Kempen-lijn van Alphen-Chaam en Baarle-Nassau (tuinen vrij behalve leibomen, knotbomen en een soortenlijst): de APV kent geen tuinuitzondering en geen soortenlijst; het is een Groene-Kaart-model met een buitengebiedregel vanaf 126 cm.",
+    "Bijdrageregeling (beleid hoofdstuk 5): tegemoetkoming in onderhoud tot EUR 500 voor beschermde bomen in particulier eigendom; geen invloed op de score.",
+    "Aangewezen Bomenkaart-gegevens: de kaart (exb-2026-23638, 2025) hoort bij de APV via art. 4:11 lid 1; het CVDR-id van de bijlage is niet opgenomen in het dossier. Geen adressen of perceelnummers overgenomen."
+  ],
+  "modelsignalen": [
+    "H bij verplichte financiële bijdrage zonder herplantplicht: het model kent H3 alleen voor 'standaard herplant plus verplichte financiële compensatie'. Bergeijk legt per beleid alleen een vaste storting in het Bomenfonds op ('in plaats van een op te leggen herplantplicht'). H3 (bereik 2-3) gekozen omdat de compensatie verplicht is; INTENT.md geeft hier geen duidelijk antwoord.",
+    "Bomenkaart waarvan het kaartonderschrift alleen gemeentelijke bomen noemt ('Bomen in eigendom van de gemeente Bergeijk die aan alle vier de criteria voldoen'), terwijl het beleid zegt dat ook particuliere bomen op de kaart staan: het aantal beschermde particuliere bomen kon niet worden vastgesteld.",
+    "Lijst plus buitengebiedregel: D2 komt uit de buitengebiedregel (126 cm, ook tuinen). Voor de kern is de bescherming een lijst; het rapport laat de voorbeeldbomen A en B zien.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: verplichte vaste storting in het Bomenfonds in plaats van herplant, zonder herplantplicht: H2, maximum 3 (was H3, 2-3)."
+  ]
+}

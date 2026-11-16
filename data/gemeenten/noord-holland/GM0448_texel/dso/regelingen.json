@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0448/2024/voorbereidingsbesluit-omgevingsplan-20240226",
+    "titel": "Voorbeschermingsregels locatie Pontweg 226 De Koog",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0448/2024/voorbereidingsbesluit-omgevingsplan-20240226/nld@2024-02-26;1",
+    "beginGeldigheid": "2024-03-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0448_2024_voorbereidingsbesluit_omgevingsplan_20240226?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:21Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0448/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Texel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0448/2020/omgevingsplan/nld@2025-08-01;3",
+    "beginGeldigheid": "2025-09-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0448_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:21Z"
+  }
+]

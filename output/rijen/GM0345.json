@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0345",
+ "gemeente": "Veenendaal",
+ "provincie": "Utrecht",
+ "brondocument": "Omgevingsplan gemeente Veenendaal (CVDR696281_7, in het dossier onder de titel 'Wijzigingsbesluit 4e wijziging Omgevingsplan, deel 1'), art. 4.34 en art. 5.316 t/m 5.321; Verordening op de heffing en invordering van leges 2026 (CVDR752157_1) art. 2.30; APV Veenendaal (CVDR297855_10, art. 4:11 vervallen); Beleidsregel Uitvoerings- en handhavingsstrategie Regio Utrecht (CVDR747503_1) Bijlage P",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR696281/7",
+ "datum_geldigheid": "2026-10-14 t/m heden (peildatum 2026-11-14), versie 7 van CVDR696281; tekst met peildatum 2026-09-15",
+ "laatste_wijziging": "2026-10-14 (versie 7; gmb-2026-431856)",
+ "juridische_plaats": "Omgevingsplan (kapregel in art. 5.318, 'vergunningplicht'). APV art. 4:11 is vervallen (CVDR297855_10: 'Artikel 4:11 [vervallen]'). Legesverordening art. 2.30: 'omgevingsplanactiviteit ... bestaande uit het kappen van een boom'.",
+ "praktijkcontrole": "8 bekendmakingen sinds 2025 (alle 8 besluiten volgens titel, 0 weigeringen volgens titel; februari tot juli 2025; zoekmethode titel); 7 daarvan zijn gebiedsgewijze publicaties 'kappen en herplant bomen' per postcodegebied, 1 een enkele boom; gmb-2025-55088, gmb-2025-55006, gmb-2025-55146, gmb-2025-55117, gmb-2025-55175, gmb-2025-55049, gmb-2025-55237, gmb-2025-314424. Geen grondslag genoemd. Uitvoeringsprogramma 2025: 'Omgevingsplanactiviteit kappen bomen of vellen houtopstand' 30 zaken. Past bij een beperkt stelsel; niet vast te stellen hoeveel bomen particulier zijn.",
+ "vergunningplicht": "Omgevingsvergunning (omgevingsplanactiviteit) voor het kappen van een boom of vellen van een houtopstand, alleen voor gemeentelijke bomen, bomen binnen de locatie 'Beschermde bomen' en binnen zes landschaps- en natuurlocaties (art. 5.318).",
+ "drempel": "Geen stamdrempel in de tekst (alle bomen binnen de aangewezen locaties); geen definitie van 'boom' met minimummaat gevonden in art. 5.316 t/m 5.321.",
+ "omtrek_cm": null,
+ "meethoogte": "niet vermeld",
+ "reikwijdte": "Art. 5.318 lid 1: 'als het om een gemeentelijke boom of houtopstand gaat'. Lid 2: 'binnen de locatie Beschermde bomen'. Lid 3: 'binnen de volgende locaties: a. Coulissenlandschap; b. Karakteristiek verkavelingspatroon; c. Landschapswaarden; d. Bos; e. Natuur; en f. Waarde-ecologie.' Toelichting: 'in 2007 gekozen voor het uitgangspunt dat in beginsel geen kapvergunning vereist is voor het vellen van een boom, tenzij de boom is aangewezen op de waardevolle bomenlijst. Deze waardevolle bomenlijst is vertaald naar de locatie Beschermde bomen.' De kaartlagen (GIO) van deze locaties zijn niet ingezien.",
+ "uitzonderingen": "Art. 5.318 lid 4: 'Het derde lid is niet van toepassing op fruitbomen.' Lid 5: niet voor bomen die moeten worden gekapt op grond van de Plantgezondheidswet of een bevel op grond van de Gemeentewet of Wet veiligheidsregio's (gangbaar, telt niet). Fruitbomen zijn uitgezonderd voor de zes gebiedslocaties (correctie -1 op D voor de gebiedsregel).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien (waardevolle bomenlijst / locatie 'Beschermde bomen' = regdata locaties_waardevollebomen, niet opgehaald; enkele requests naar veenendaal.nl gaven niets; DSO-sleutel niet beschikbaar)",
+ "weigeringsgronden": "Art. 5.320 lid 1: 'Een omgevingsvergunning als bedoeld in artikel 5.318 wordt verleend als: a. de boom of de houtopstand gevaar of ernstige hinder veroorzaakt; of b. een individueel of maatschappelijk belang zwaarder weegt dan het beschermen van: 1°. de waarde van de boom of de houtopstand voor stads- en dorpsschoon; 2°. de beeldbepalende waarde ...; 3°. de cultuurhistorische waarde ...; en 4°. de waarde voor de leefbaarheid ...' Lid 2 voegt landschappelijke en natuurwaarde toe.",
+ "herplantplicht": "Art. 5.321: 'Aan een omgevingsvergunning voor het kappen van bomen of het vellen van houtopstanden die is verleend met toepassing van artikel 5.318 kan in ieder geval als voorschrift een herbeplantingsplicht worden verbonden.' Art. 5.319 sub d: aanvraag bevat 'een toelichting op de mogelijkheid tot herbeplanten of het voornemen om op een daarbij te vermelden locatie tot herbeplanten over te gaan'.",
+ "herplant_ontsnapping": "Bevoegdheid ('kan'), het college beslist per geval; geen betaling in plaats van herplant gevonden; herplant na illegale kap: geen regel gevonden.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Geen eigen regel in het omgevingsplan. Regio Utrecht Bijlage P (CVDR747503_1): 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen' en '(oppervlakte) | Ineens € 600,- per are' (dwangsom, algemeen instrumentarium).",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "sancties": "WED via de Omgevingswet (art. 5.1 lid 1 onder a Ow): legesverordening 2026 art. 2.30: 'een omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het kappen van een boom'. Geen eigen strafbepaling of boete: APV art. 6:1 lid 2 noemt nog 'artikelen 2:11, tweede lid, 2:12, eerste lid, en 4:11, eerste lid' (art. 4:11 is vervallen; foute verwijzing). Handhavingsbeleid: dwangsomrichtlijn (Regio Utrecht Bijlage P). S = 1 zonder bereik.",
+ "procedure": "Leges (art. 2.30, 2026): € 212,00 binnenplanse en € 370,00 buitenplanse omgevingsplanactiviteit; beslistermijn, publicatie, bezwaar: niet in de kapregel zelf vastgelegd (algemene Awb- en Omgevingswetregels).",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "onzeker",
+ "ontbrekend": "KERNBRON ONTBREEKT: de locaties 'Beschermde bomen' (waardevolle bomenlijst; regdata locaties_waardevollebomen) en de zes gebiedslocaties (Coulissenlandschap, Karakteristiek verkavelingspatroon, Landschapswaarden, Bos, Natuur, Waarde-ecologie) zijn kaartlagen (GIO's) die niet in het dossier zitten; niet vast te stellen welke bomen of hoeveel particuliere bomen onder de verbodsregel vallen. Het dossier.md bevat het omgevingsplan niet onder die naam: de artikeltekst staat wel in tekst/CVDR696281_7.md (titel 'Wijzigingsbesluit 4e wijziging Omgevingsplan, deel 1', inhoud 'Omgevingsplan gemeente Veenendaal'). DSO-sleutel nog niet beschikbaar.",
+ "artikelnummers": [
+  "Omgevingsplan (CVDR696281_7) art. 4.34, 5.316, 5.317, 5.318, 5.319, 5.320, 5.321, 22.299 (vervallen)",
+  "Legesverordening 2026 (CVDR752157_1) art. 2.30",
+  "APV (CVDR297855_10) art. 4:11 vervallen, 6:1",
+  "Regio Utrecht Bijlage P (CVDR747503_1)"
+ ],
+ "opmerkingen": [
+  "Waar de kapregel nu staat: in het omgevingsplan (art. 5.318, in werking 2026-10-14). APV art. 4:11 is vervallen en art. 4:10 betreft alleen gevaar door houtopstand.",
+  "D: gebiedsregel (lid 3) is hooguit D2 en krijgt -1 vanwege 'Het derde lid is niet van toepassing op fruitbomen' (alle fruitbomen); lijstregel (lid 2) D1; dus D1. Bereik 0 tot 1: of er particuliere bomen op de lijst staan en hoe groot de gebieden zijn, is niet gecontroleerd. Een hoger D is niet mogelijk door de fruitbomenaftrek.",
+  "W2: art. 5.320 lid 1 'wordt verleend als ... een individueel of maatschappelijk belang zwaarder weegt dan het beschermen van'. Belangenafweging; geen 'in beginsel geen vergunning'.",
+  "H1: 'kan in ieder geval als voorschrift een herbeplantingsplicht worden verbonden'.",
+  "Toelichting art. 5.318: 'Een algemeen kapverbod geeft de gemeente onnodig veel werk omdat er in praktijk meer dan 90% van de aanvragen een kapvergunning wordt verleend.'",
+  "Boom A en B: vergunning alleen als de boom op de lijst of in een aangewezen gebied staat (fruitbomen uitgezonderd in de gebieden); kaarten niet ingezien.",
+  "Veenendaal heeft geen bebouwingscontour houtkap-regel als kapregel; art. 4.32 wijst alleen de locatie bebouwingscontour houtkap aan."
+ ],
+ "modelsignalen": [
+  "Gebiedsregel met fruitbomenuitzondering en een lijst: INTENT zegt D per deel en hoogste, maar lijst en gebiedsregel komen hier beide op D1 uit; of 'alle fruitbomen' een ruime tuinuitzondering is (-1) is niet eenduidig.",
+  "Art. 5.320 'wordt verleend als ... belang zwaarder weegt dan' valt tussen W1 (verlenen tenzij) en W2 (belangenafweging); ik heb W2 gekozen."
+ ]
+}

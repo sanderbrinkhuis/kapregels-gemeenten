@@ -1,0 +1,29 @@
+{
+  "gemeente": "Dijk en Waard",
+  "gm_code": "GM1980",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Dijk en Waard",
+  "zoeknaam_bekendmakingen": "Dijk en Waard",
+  "opgehaald_op": "2026-11-16T14:06:35+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Dijk en Waard\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 40,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Dijk en Waard\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 4,
+  "geldende_regelingen": 25,
+  "geldend_met_kapartikelen": [
+    "CVDR679766_5",
+    "CVDR693658_1",
+    "CVDR696555_3",
+    "CVDR701327_1",
+    "CVDR706881_1",
+    "CVDR741826_2",
+    "CVDR750378_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 1,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

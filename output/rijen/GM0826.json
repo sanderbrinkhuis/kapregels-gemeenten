@@ -1,0 +1,75 @@
+{
+ "provincie": "Noord-Brabant",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "herplant_betalen_als_alternatief": "nee",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "status": "ok",
+ "gm_code": "GM0826",
+ "gemeente": "Oosterhout",
+ "brondocument": "Omgevingsplan gemeente Oosterhout, afd. 6.6 art. 6.20-6.25 (CVDR696417_3); APV gemeente Oosterhout art. 4.10 en 4.11 vervallen (CVDR767223_1); Legesverordening 2026 art. 2.2.13 (CVDR750411_2); Lijst van Monumentale Bomen in Oosterhout 2023 (PDF)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR696417/3 ; https://lokaleregelgeving.overheid.nl/CVDR767223/1 ; https://www.oosterhout.nl/fileadmin/user_upload/lijst_van_monumentale_bomen_Oosterhout_2023.pdf",
+ "datum_geldigheid": "Omgevingsplan CVDR696417_3 geldend vanaf 2026-04-29 t/m heden (peildatum scoren 2026-11-15); APV CVDR767223_1 geldend vanaf 2026-10-02 (art. 4.11 vervallen)",
+ "laatste_wijziging": "Omgevingsplan: versie 3 per 2026-04-29. APV: art. 4.10 en 4.11 vervallen per 2026-10-02 ('Vervallen, opgenomen in omgevingsplan'); de vorige APV (CVDR706289_1, 2023-12-31 t/m 2026-10-02) had art. 4.11 met een lijst van monumentale bomen.",
+ "juridische_plaats": "omgevingsplan (permanente regels, afdeling 6.6 Monumentale boom beschadigen of kappen); de APV-regel is per 2026-10-02 vervallen en 'opgenomen in omgevingsplan'.",
+ "praktijkcontrole": "Sinds 2025: 17 bekendmakingen op titel, 10 aanvragen, 0 besluiten en 0 weigeringen. Geen steekproef van besluiten mogelijk; geen indicatie voor een breder regime.",
+ "vergunningplicht": "Omgevingsvergunning voor het kappen van monumentale bomen, ter plaatse van de locatie monumentale boom (art. 6.21 lid 1).",
+ "drempel": "Geen drempel: alleen aangewezen monumentale bomen (informatieobject 'monumentale boom' bij het omgevingsplan), ongeacht omvang.",
+ "reikwijdte": "Art. 6.20: 'Deze paragraaf is van toepassing op het kappen van bomen die zijn aangewezen als monumentale boom.' Hele gemeente, publiek en particulier, alleen aangewezen bomen. Ook werken en werkzaamheden ter plaatse van een monumentale boom kunnen vergunningplichtig zijn (art. 5.18 lid 5); niet verder onderzocht.",
+ "uitzonderingen": "Art. 6.21 lid 2: verbod niet van toepassing als de burgemeester toestemming verleent bij 'een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen', of als de eigenaar van het naburige erf op basis van art. 5:42 BW heeft gevorderd dat de boom moet worden verwijderd. Bomen die niet zijn aangewezen zijn vrij.",
+ "weigeringsgronden": "Art. 6.23 lid 1: 'De omgevingsvergunning als bedoeld in artikel 6.21 kan worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid van de omgeving.",
+ "herplantplicht": "Art. 6.24 lid 1: 'Het college kan voorschriften aan de omgevingsvergunning als bedoeld in artikel 6.21 verbinden met betrekking tot de herplantplicht, waaronder de termijn waarbinnen en de wijze waarop dat moet gebeuren.' Geen financiele compensatie. Geen vastgestelde beleidsregel herplant in CVDR gevonden.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het college beslist per geval. Geen verplichte storting.",
+ "herplant_type": "kan",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets geregeld in afdeling 6.6 (art. 6.24 lid 2 regelt alleen de vervanging van niet-geslaagde beplanting). Alleen het algemene instrumentarium (bestuursdwang of dwangsom) en WED via de Omgevingswet.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via de Omgevingswet (art. 5.1, omgevingsplanactiviteit): legesverordening art. 2.2.13 noemt 'een omgevingsplanactiviteit, waarvoor het (tijdelijk deel van het) Omgevingsplan een omgevingsvergunning verplicht stelt voor het vellen/ kappen'. Geen eigen strafbepaling, geen bestuurlijke boete. De APV-strafbepaling (art. 6.1 lid 1, 'artikel 3.4 t/m 5.37') verwees voor de vervallen art. 4.11 wel naar kap.",
+ "procedure": "Aanvraag omgevingsvergunning via het Omgevingsloket. Leges EUR 228,00 (art. 2.2.13 leges 2026). Art. 6.25: vergunning vervalt een jaar na onherroepelijk worden; geen gebruik binnen 4 weken na bekendmaking. Bezwaar en beroep niet apart gelezen.",
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 542,
+ "lijst_aantal_particulier": 287,
+ "lijst_telling": "ca. 542 regels op de 'Lijst van Monumentale Bomen in Oosterhout 2023' (PDF op gemeentelijke website, gelinkt vanaf https://www.oosterhout.nl/bouwen-verbouwen-en-wonen/openbare-ruimte/openbaar-groen/bomen/kapvergunning), waarvan ca. 287 met eigendom 'prive' of 'particulier' (inclusief enkele gemengd prive en gemeente), ca. 246 gemeente en 9 overig (SBB, provincie, Brabant Water). Eenheid: regel; een regel kan meerdere bomen omvatten. Telling benaderd door tekstextractie. Of dit dezelfde lijst is als het informatieobject 'monumentale boom' in het omgevingsplan is niet vastgesteld.",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "ontbrekend": "Het informatieobject 'monumentale boom' (aanwijzing in het omgevingsplan) is niet zelf ingezien; de lijst 2023 op de website is als aanwijzing gebruikt. Geen aparte beleidsregel herplant. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "Omgevingsplan art. 6.20, 6.21, 6.22, 6.23, 6.24, 6.25, 5.18 lid 5 (CVDR696417_3)",
+  "APV art. 4.10, 4.11 (vervallen), 6.1 (CVDR767223_1)",
+  "Legesverordening 2026 art. 2.2.13 (CVDR750411_2)"
+ ],
+ "opmerkingen": [
+  "D1: lijstsysteem; de lijst is ingezien en bevat veel particuliere bomen (ca. 287 van ca. 542 regels), ook in achtertuinen.",
+  "W2: 'De omgevingsvergunning als bedoeld in artikel 6.21 kan worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en andere waarden (art. 6.23 lid 1).",
+  "H1: 'Het college kan voorschriften aan de omgevingsvergunning als bedoeld in artikel 6.21 verbinden met betrekking tot de herplantplicht' (art. 6.24 lid 1).",
+  "S1: WED via Ow 5.1; de regel staat in het omgevingsplan zelf en de leges noemt het een omgevingsplanactiviteit.",
+  "Oudere regeling: de APV 2024 (CVDR706289_1) bevatte art. 4.11 met 'een lijst van monumentale bomen' en dezelfde weigeringsgronden en een 'kan'-herplantplicht; die is per 2026-10-02 vervallen en 'opgenomen in omgevingsplan'. Het omgevingsplan (versie 3, 2026-04-29) bevat dezelfde inhoud. De toelichting zegt bij art. 6.21: 'Artikel 4:11 APV'. Geen strengere regel in een oudere regeling.",
+  "De Bijlagenbundel Vergunningen-, Toezicht- en Handhavingsbeleid (CVDR758757_1) noemt alleen 'regels ter bescherming van de groeiplaats van een monumentale boom' en geeft geen herplant- of sanctieregel voor kap.",
+  "Gemeentepagina: 'Staat de boom niet op de lijst, dan gaat het niet om een monumentale boom en heeft u geen vergunning nodig.'"
+ ],
+ "modelsignalen": [
+  "Oosterhout: de kapregel is per 2026-10-02 uit de APV verhuisd naar het (permanente) omgevingsplan. De scoring is gelijk gebleven (lijstsysteem, W2 H1 S1), maar de juridische plaats verschilt van de gemeenten met een APV-regel; de lijst (2023) staat op de website, het informatieobject in het omgevingsplan is niet gecontroleerd."
+ ]
+}

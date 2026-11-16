@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0302/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Nunspeet",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0302/2020/omgevingsplan/nld@2025-02-11;13454473",
+    "beginGeldigheid": "2025-02-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0302_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0302/2025/Regeling4989a4b3500449b0a63aa390f5fc6328",
+    "titel": "Programma gebiedsontwikkeling Nieuw Feithenhof",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0302/2025/Regeling4989a4b3500449b0a63aa390f5fc6328/nld@2025-06-23;11453995",
+    "beginGeldigheid": "2025-06-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0302_2025_Regeling4989a4b3500449b0a63aa390f5fc6328?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:10Z"
+  }
+]

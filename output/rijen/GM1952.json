@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1952",
+  "gemeente": "Midden-Groningen",
+  "provincie": "Groningen",
+  "brondocument": "APV Midden-Groningen 2025 (CVDR735612_1) afd. 4.3 art. 4:10-4:13 en 6:1; Beleidsnotitie waardevolle en monumentale houtopstanden 2020 (CVDR635590_1); Lijst waardevolle en monumentale houtopstanden 2020 (CVDR635593_1); Leges 2026 (CVDR754282_1) art. 2.30; Omgevingsplan (CVDR696533_11) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR735612/1 ; https://lokaleregelgeving.overheid.nl/CVDR635590/1 ; https://lokaleregelgeving.overheid.nl/CVDR635593/1",
+  "datum_geldigheid": "APV geldend van 18-02-2025 t/m heden; beleidsnotitie en lijst geldend van 01-01-2020 t/m heden; omgevingsplan (versie 11) geldend van 24-04-2026 t/m heden",
+  "laatste_wijziging": "APV in werking 18-02-2025 (CVDR735612_1); lijst en beleidsnotitie ongewijzigd sinds 01-01-2020",
+  "juridische_plaats": "APV afd. 4.3; werkt als omgevingsplanactiviteit (legesartikel 2.30 noemt 'artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "112 bekendmakingen sinds 2025: 14 besluiten, 57 aanvragen; geen weigeringen volgens titel, 1 besluit 'deels verlenen en deels weigeren' (gmb-2025-458951, 2 lindebomen). Veel besluiten gaan over meerdere bomen op diverse locaties (bijv. gmb-2025-542074: 214 bomen, gmb-2026-229632: besluit na heroverweging, 81 bomen), wat past bij gemeentelijke bomen in de openbare ruimte. Geen grondslag genoemd in de besluiten. Het Programma Uitvoering en Handhaving 2026 (CVDR763815_1) verwacht ca. 61 kapvergunningen per jaar.",
+  "vergunningplicht": "vergunning (omgevingsvergunning), alleen voor bomen op de Bomenlijst, bomen in de openbare ruimte en bomen met herplantplicht",
+  "drempel": "Geen eigen drempel voor lijstbomen. Definitie 'boom' (art. 4:10 lid 1 sub b): dwarsdoorsnede van minimaal 20 centimeter op 1,3 meter hoogte, of een boom waarvoor een herplant- of instandhoudingsplicht geldt. Deze definitie speelt alleen bij openbare ruimte en herplantbomen.",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (alleen in de definitie van 'boom')",
+  "reikwijdte": "Art. 4:11 lid 2: verbod zonder omgevingsvergunning voor houtopstanden 'a. op de Bomenlijst staan; b. in de openbare ruimte staan, of c. met een herplantplicht zijn geplant.' 'Openbare ruimte' (art. 4:10 lid 1 sub h) is ruimte 'in eigendom van gemeente, provincie, waterschap of rijk'. Particuliere bomen vallen dus alleen onder de regeling als ze op de lijst staan of met herplantplicht zijn geplant. De lijst heeft ca. 1.363 percelen met minstens een geregistreerde boom (beleidsnotitie, actualisatie 2019). Lokale aanvullende regel: groene linten (omgevingsplan art. 21.64, alleen Slochteren, een locatie) telt niet mee als kleine gebiedsregel.",
+  "uitzonderingen": "Art. 4:11 lid 3 (buiten bebouwingscontour): populieren en wilgen als wegbeplanting of langs waterwegen/landbouwgronden, kerstbomen, kweekgoed, dunning, biomassa. Lid 4: Plantenziektewet of last van bevoegd gezag, periodiek hakhout, knotten. Lid 6: spoedeisend belang of direct gevaar. Dit zijn gangbare uitzonderingen en tellen niet voor D.",
+  "weigeringsgronden": "Art. 4:11 lid 5: 'kan de omgevingsvergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde; e. de cultuurhistorische waarde; of f. de waarde voor de leefbaarheid van de omgeving.' Plus art. 1:8 (openbare orde, veiligheid, volksgezondheid, milieu).",
+  "herplantplicht": "Geen herplantartikel in de APV (art. 4:14 t/m 4:16 zijn vervallen). Beleidsnotitie 2020 (CVDR635590_1): 'legt het college in beginsel een herplantplicht op' bij een vergunning voor het vellen van waardevolle en monumentale houtopstanden, maar 'De beslissing om al dan niet een herplantplicht op te leggen kent een grote mate van vrijheid.' Geen verplichte financiele compensatie (wel subsidie voor herplant, CVDR636836_1).",
+  "herplant_ontsnapping": "'Herplant wordt niet als voorschrift opgenomen indien: ... Er voldoende bomen ter compensatie op het perceel aanwezig zijn; Er onvoldoende ruimte op het perceel is ... Bovenstaande is ter beoordeling van het college van B&W.' Daarnaast 'in beginsel' en 'grote mate van vrijheid'. Geen betaling in plaats van herplant.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Beleidsnotitie: 'Bij illegale kap of bij het op natuurlijke wijze teloorgaan van houtopstanden kan een zelfstandige herplant worden opgelegd.' Voor niet nakomen van een opgelegde herplantplicht is in de gelezen teksten niets specifieks geregeld (art. 4:15 APV, de herplantbepaling waar de notitie naar verwijst, is vervallen); alleen het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via Omgevingswet 5.1 (kap werkt als omgevingsplanactiviteit volgens legesartikel 2.30; WED art. 1a onder 2). APV art. 6:1: 'wordt overtreding van de artikelen in deze verordening ... gestraft met hechtenis van ten hoogste 3 maanden of een geldboete van de tweede categorie'; geen WED-aanwijzing en geen bestuurlijke boete in de APV. Herplant na illegale kap kan worden opgelegd (beleidsnotitie).",
+  "procedure": "Leges art. 2.30: EUR 295,00 (zonder noodzaak kappen). Beslistermijn art. 1:2 APV niet van toepassing op omgevingsvergunning (Omgevingswet: 8 weken, niet in de bron gelezen). Bezwaar en beroep volgens Awb. Publicatie in het Gemeenteblad. Aanvraagvereisten omgevingsplan art. 22.299.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 1363,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "percelen met minstens een geregistreerde boom (Beleidsnotitie CVDR635590_1, actualisatie 2019); de lijst CVDR635593_1 telt ca. 1.480 regels met bomen. Het aantal particuliere percelen is niet apart te tellen: de lijst vermeldt geen eigenaar, maar de beleidsnotitie beschermt 'Particuliere waardevolle en monumentale houtopstanden ... op grond van registratie in de Lijst'.",
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan tijdelijk deel (DSO) niet ingezien (DSO-sleutel nog aangevraagd). Aantal particuliere bomen op de lijst niet te splitsen.",
+  "artikelnummers": [
+    "APV 2025 art. 4:10, 4:11, 4:12, 4:13, 6:1 (CVDR735612_1)",
+    "Beleidsnotitie 2020, onderdeel Herplant (CVDR635590_1)",
+    "Lijst 2020 (CVDR635593_1)",
+    "Leges 2026 art. 2.30 (CVDR754282_1)",
+    "Omgevingsplan art. 22.299 (CVDR696533_11)"
+  ],
+  "opmerkingen": [
+    "W: 'In aanvulling op artikel 1:8 kan de omgevingsvergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand' (APV art. 4:11 lid 5), dus belangenafweging, W = 2.",
+    "H: de APV kent geen herplantartikel meer (4:14-4:16 vervallen). De beleidsnotitie zegt 'in beginsel' een herplantplicht, maar laat 'een grote mate van vrijheid'. Daarom H = 1 (bevoegdheid), bereik 0 tot 2.",
+    "D: alleen bomenlijst; bomen in de openbare ruimte zijn volgens art. 4:10 lid 1 sub h van gemeente, provincie, waterschap of rijk en zijn dus niet particulier. Daarom D = 1.",
+    "De lijst vermeldt per straat een nummer en aantal bomen met classificatie (w, m of h); adressen zijn niet overgenomen.",
+    "Kleine gebiedsregel: groene linten Slochteren (omgevingsplan art. 21.64) en een archeologisch gebied (art. 21.23); tellen niet mee."
+  ],
+  "modelsignalen": [
+    "Een beleidsnotitie met 'in beginsel een herplantplicht' waarvan de bijbehorende APV-bepaling is vervallen: model v2.3 geeft geen regel voor beleid zonder verordeningsgrondslag; H = 1 met bereik 0-2 gekozen.",
+    "Gemengde lijst (gemeentelijke en particuliere bomen, zonder eigenaarskolom): lijst_aantal_particulier is niet vast te stellen."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "provincie": "Groningen",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing: geen lijstsysteem",
+  "volledig_gelezen": true,
+  "status": "ok",
+  "herplant_betalen_als_alternatief": "nee",
+  "gm_code": "GM1979",
+  "gemeente": "Eemsdelta",
+  "brondocument": "APV Eemsdelta 2022 afd. 4.3 (CVDR670151_5) art. 4:10, 4:11a, 4:11b, 4:11c, 4:12b, 6:1; Beleidsregels voor houtopstanden gemeente Eemsdelta 2024 (CVDR726245_1) art. 2 en 3; Legesverordening Eemsdelta 2026 (CVDR748607_2) art. 2.30; Omgevingsplan (CVDR696541_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR670151/5 ; https://lokaleregelgeving.overheid.nl/CVDR726245/1",
+  "datum_geldigheid": "APV: geldend van 01-01-2025 t/m heden; beleidsregels: geldend van 04-11-2024 t/m heden (peildatum 14-11-2026)",
+  "laatste_wijziging": "APV in werking 01-01-2025; beleidsregels 04-11-2024; legesverordening 23-01-2026",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit (leges art. 2.30 spreekt van 'vellen van een houtopstand, bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "Slechts 1 bekendmaking sinds 2025 gevonden (titelzoekmethode), geen kapbesluiten of weigeringen. Past bij een smalle regeling (alleen monumentale en potentieel monumentale bomen). Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 17 bekendmakingen sinds 1-1-2025, waarvan 7 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) alleen voor houtopstanden in de openbare ruimte, particuliere monumentale en potentieel monumentale houtopstanden, bomen in het Landelijk Register van Monumentale Bomen en houtopstanden die in het kader van herplantplicht zijn geplant",
+  "drempel": "Particulier: monumentaal = stamdiameter 50 cm of meer; potentieel monumentaal = stamdiameter 35 tot 50 cm (art. 4:10 lid 1 sub 5 en 7); dus beschermd vanaf 35 cm diameter",
+  "omtrek_cm": 110,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Binnen de bebouwde kom: gemeente bevoegd gezag; buiten de bebouwde kom is de provincie bevoegd, maar art. 4:11a lid 2 sub a verklaart de vergunningplicht ook van toepassing 'op erven of in tuinen buiten de bebouwde kom'. Geen uitzondering voor achtertuinen. Particulier en openbaar. De definitie 'boom' (minimaal 20 cm diameter) bepaalt niet de drempel van het verbod; die volgt uit 'monumentaal' en 'potentieel monumentaal'.",
+  "uitzonderingen": "Fruitbomen die bedrijfsmatig worden geexploiteerd en windschermen om boomgaarden; kerstbomen; kweekgoed; bosbouwondernemingen buiten de bebouwde kom; Plantgezondheidswet; periodiek vellen of dunnen, scheren, knotten, kandelaberen (regulier onderhoud); noodkap bij direct gevaar. Alle gangbaar, tellen niet voor D.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11c lid 3: 'kan de omgevingsvergunning voor het vellen van een houtopstand als bedoeld in artikel 4:11a worden geweigerd indien de belangen van verlening niet opwegen tegen de belangen van duurzaam behoud van de houtopstand'; toetsing aan beleidsregels art. 2 op waarde (natuur, landschap, cultuurhistorie, stads- en dorpsschoon, beeldbepalend, dendrologisch), kwaliteit, gevaar, schade en hinder. Lid 1 formuleert strenger ('kan ... worden verleend indien een zwaarwegend ... belang opweegt tegen duurzaam behoud').",
+  "herplantplicht": "APV art. 4:12b lid 1: 'kan behoren het voorschrift dat ... moet worden herplant'. Beleidsregel art. 3 lid 1: 'Het college legt voor iedere gevelde boom waarvoor een omgevingsvergunning nodig is een herplantplicht voor een nieuwe boom op'. Particuliere bomen: minimaal maat 16-18 (art. 3 lid 7). Financiele compensatie: 'kan' (APV 4:11b lid 3 sub c en 4:12b lid 6).",
+  "herplant_ontsnapping": "Art. 3 lid 4 beleidsregels: alleen afwijking van boomgrootte 'gemotiveerd'; voor de herplant zelf geen uitweg in de beleidsregel. APV 4:11b lid 3 sub c: 'het geheel of gedeeltelijk omzetten van de herplantplicht in een financiele compensatie als er niet kan worden voldaan aan de verplichting om te herplanten' (bevoegdheid, per geval).",
+  "herplant_type": "harde plicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV 4:12b lid 4: 'Degene aan wie een verplichting ... is opgelegd ... is verplicht daaraan te voldoen.' Art. 6:1 lid 1: overtreding van het bij of krachtens de verordening bepaalde 'wordt gestraft met hechtenis van ten hoogste drie maanden of met een geldboete van de tweede categorie'; lid 3: WED art. 1a van toepassing bij art. 4:11a.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 3 'is artikel 1a van de Wet op de economische delicten van toepassing bij overtreding van artikel 2:10, 2:11 en 4:11a'; plus eigen strafbepaling art. 6:1 lid 1; herplantplicht na illegale kap (4:12b lid 3, 'kan'); geen bestuurlijke boete gevonden",
+  "procedure": "Leges (CVDR748607_2 art. 2.30): EUR 56,10 voor maximaal 4 bomen, EUR 112,19 voor 5 of meer. Omgevingsvergunning, dus beslistermijn volgens Omgevingswet/Awb (APV 1:2 niet van toepassing op omgevingsvergunning). Bezwaar en beroep volgens Awb.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "ontbrekend": "Omgevingsplan (tijdelijk deel) in het DSO niet ingezien; Landelijk Register van Monumentale Bomen niet ingezien (aantal particuliere bomen onbekend). Bomenlijst of kaart gemeente niet ingezien.",
+  "artikelnummers": [
+    "APV 4:10 lid 1 sub 5, 6, 7",
+    "APV 4:11a",
+    "APV 4:11b lid 3",
+    "APV 4:11c",
+    "APV 4:12b",
+    "APV 6:1",
+    "Beleidsregels houtopstanden 2024 art. 2, 3",
+    "Leges art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): de vastgestelde beleidsregel ('legt voor iedere gevelde boom ... een herplantplicht ... op') gaat voor 'kan' in de APV → H2 zonder bereik.",
+    "D2: kapverbod geldt voor particuliere monumentale (diameter 50 cm of meer) en potentieel monumentale (diameter 35 tot 50 cm) houtopstanden; 35 cm x 3,14 = ca. 110 cm omtrek, dus hoge drempel (>100 cm). Geen aparte uitzondering voor tuinen. Naast de drempel geldt het Landelijk Register van Monumentale Bomen (art. 4:11a lid 1 sub c).",
+    "W2: 'kan de omgevingsvergunning ... worden geweigerd indien de belangen van verlening niet opwegen tegen de belangen van duurzaam behoud van de houtopstand' (art. 4:11c lid 3). Lid 1 is strenger geformuleerd (zwaarwegend belang vereist), daarom max W3.",
+    "H2 via beleidsregel (conform INTENT: beleidsregel gaat voor): 'Het college legt voor iedere gevelde boom waarvoor een omgevingsvergunning nodig is een herplantplicht voor een nieuwe boom op' (beleidsregels art. 3 lid 1); APV zelf zegt 'kan' (H1, vandaar min 1). Compensatie in geld alleen 'kan', dus geen H3.",
+    "S1: WED-aanwijzing in de APV (6:1 lid 3) en eigen strafbepaling; geen bestuurlijke boete. APV is vastgesteld voor 2024 maar werkt als omgevingsplanactiviteit (leges).",
+    "Tuinbomen met omtrek van minder dan ca. 110 cm zijn niet beschermd; voorbeeldbomen A en B vergen geen vergunning.",
+    "Beleidsregels verwijzen in de considerans naar 'Afdeling 3' van de APV; nummering in APV is afdeling 4.3. Geen invloed op de score.",
+    "Bereik loopt over een categoriegrens (Soepel/Soepel-Gemiddeld afhankelijk van W en H); puntschatting 37 (Soepel)."
+  ],
+  "modelsignalen": [
+    "Drempel op het beschermde 'potentieel monumentale' niveau (35 cm diameter) levert een omtrek van ca. 110 cm op, net boven de grens van 100 cm tussen D2 en D3; kleine verschillen in omrekening (35 cm x 3,14 = 109,9) veranderen D niet."
+  ]
+}

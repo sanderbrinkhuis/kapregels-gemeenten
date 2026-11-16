@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1884/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Kaag en Braassem",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1884/2020/omgevingsplan/nld@2025-06-10;11590790",
+    "beginGeldigheid": "2025-06-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1884_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:29Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1884/2025/Regeling0922716de7e1439297c3ddfc7908e2e3",
+    "titel": "Omgevingsvisie Kaag en Braassem",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1884/2025/Regeling0922716de7e1439297c3ddfc7908e2e3/nld@2026-01-26;18532032",
+    "beginGeldigheid": "2026-01-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1884_2025_Regeling0922716de7e1439297c3ddfc7908e2e3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:29Z"
+  }
+]

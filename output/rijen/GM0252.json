@@ -1,0 +1,74 @@
+{
+ "gm_code": "GM0252",
+ "gemeente": "Heumen",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening gemeente Heumen 2025 (CVDR738622_1) art. 4:10, 4:11, 6:1, 1:8; Programma Landschap en Groen (CVDR768422_1); Legesverordening 2026 (CVDR750909_1) art. 2.30; Omgevingsplan (CVDR696242_4) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR738622/1",
+ "datum_geldigheid": "APV CVDR738622_1 geldend vanaf 2025-04-26 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV 2025: versie 1 per 2025-04-26 (nieuwe vaststelling)",
+ "juridische_plaats": "APV, werkt vermoedelijk als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 'Omgevingsplanactiviteit: kappen van bomen of vellen van houtopstanden' (tarief 'Gereserveerd'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. De APV heeft zelf een WED-aanwijzing voor art. 4:11 lid 2 (art. 6:1 lid 2).",
+ "praktijkcontrole": "Sinds 2025: 38 bekendmakingen op titel, waarvan 4 besluiten (alle ingetrokken aanvragen, 0 weigeringen). In de titels staan veel aanvragen en toestemmingen voor kap van 1 tot 60 bomen en enkele 'Geen vergunning nodig'. Die noemen geen grondslag; bij een lijstsysteem is dit aantal opvallend, maar ook gemeentegrond of kap voor een project (bijv. heidecorridor Maaslijn) kan eronder vallen. Niet vast te stellen.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de Bomenlijst staan (art. 4:11 lid 2).",
+ "drempel": "Geen drempel: alleen aangewezen bomen op de Bomenlijst, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.' Geen gebiedsregel. Omgevingsplan art. 21.14 (Zilverbergweg, Agrarisch met waarden - Landschap) beschermt houtgewas alleen in dat ene gebied (klein gebied, telt niet).",
+ "uitzonderingen": "Art. 4:11 lid 4: verbod niet van toepassing 'als de burgemeester toestemming verleent ... in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Verder zijn bomen die niet op de lijst staan niet beschermd.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' (limitatieve belangenafweging, W2)",
+ "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Het Programma Landschap en Groen (CVDR768422_1) bevat geen herplantregel voor particulieren; het noemt alleen herplant bij de compensatie door ProRail.",
+ "herplant_ontsnapping": "Bevoegdheid ('kan'): het bevoegd gezag beslist per geval. Geen betaling als alternatief. Herplant na illegale kap is niet apart geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets specifieks geregeld voor het niet nakomen van de herplantplicht. APV art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Een herplantplicht 'onder nader te stellen voorschriften' is een voorschrift in de zin van art. 1:4 (art. 1:4 niet apart nagelopen op herplant).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, tweede lid'. Daarnaast art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). Geen bestuurlijke boete voor kappen (art. 6:1 lid 3 gaat over de Wet veiligheidsregio's).",
+ "procedure": "Aanvraag omgevingsvergunning; beslistermijn art. 1:2 APV; leges rij 2.30 'Gereserveerd' (geen tarief); bekendmaking als omgevingsvergunning kappen; bezwaar en beroep volgens Awb (niet apart nagegaan).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Bomenlijst niet ingezien en niet gevonden in het dossier of in CVDR. Het Programma Landschap en Groen (CVDR768422_1) noemt een 'beeldbepalende bomenlijst 2013' (ontwerpnota) die herzien wordt; geen aantallen.",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst (APV art. 4:11 lid 1) niet gevonden of ingezien: onbekend hoeveel bomen erop staan en hoeveel daarvan particulier zijn. Ook niet gevonden: het besluit waarmee het college de lijst vaststelde.",
+ "artikelnummers": [
+  "APV 2025 art. 4:10",
+  "APV 2025 art. 4:11 lid 1-5",
+  "APV 2025 art. 6:1",
+  "APV 2025 art. 1:8",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "W2: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (art. 4:11 lid 3). H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 5).",
+  "Programma Landschap en Groen (CVDR768422_1) beschrijft een toekomstig stelsel ('We leggen de structuurbepalende bomen vast in de beeldbepalende bomenlijst in ons omgevingsplan') en telt niet voor W en H; in het omgevingsplan is geen Bomenlijst gevonden.",
+  "Omgevingsplan art. 21.14 (alleen het gebied Zilverbergweg) beschermt houtgewas met 'blijvend onevenredige afbreuk' als weigeringsgrond; kleine gebiedsregel, telt niet voor D."
+ ],
+ "modelsignalen": [
+  "Een vergunningplicht voor een lijstsysteem waarvan de lijst niet te vinden is: de puntschatting D1 geeft strengheid 17 (Zeer soepel) zonder dat bekend is of de lijst particuliere bomen bevat."
+ ]
+}

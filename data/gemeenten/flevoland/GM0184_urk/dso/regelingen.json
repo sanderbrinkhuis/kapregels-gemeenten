@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0184/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Urk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0184/2020/omgevingsplan/nld@1-0",
+    "beginGeldigheid": "2024-01-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0184/2025/Regelinga8a5cd142e204e1691a2d3a3e7c8af46",
+    "titel": "Omgevingsprogramma kostenverhaal en financiële bijdragen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0184/2025/Regelinga8a5cd142e204e1691a2d3a3e7c8af46/nld@2025-06-02;13384377",
+    "beginGeldigheid": "2025-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2025_Regelinga8a5cd142e204e1691a2d3a3e7c8af46?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0184/2025/Regeling8350a8c338004e078fb4b79fb5b2d3d1",
+    "titel": "Omgevingsprogramma Wonen, Zorg en Welzijn",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0184/2025/Regeling8350a8c338004e078fb4b79fb5b2d3d1/nld@2025-11-19;11511325",
+    "beginGeldigheid": "2025-11-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2025_Regeling8350a8c338004e078fb4b79fb5b2d3d1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0184/2026/Regeling58a2a1bd29734480863178086aacd298",
+    "titel": "Programma Wonen 2.0 Gemeente Urk",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0184/2026/Regeling58a2a1bd29734480863178086aacd298/nld@2026-02-24;09440119",
+    "beginGeldigheid": "2026-03-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2026_Regeling58a2a1bd29734480863178086aacd298?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0184/2026/Regeling77b61d1e53e04a6f90bd8173306c963f",
+    "titel": "Omgevingsprogramma Oud Urk",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0184/2026/Regeling77b61d1e53e04a6f90bd8173306c963f/nld@2026-03-18;11330442",
+    "beginGeldigheid": "2026-03-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2026_Regeling77b61d1e53e04a6f90bd8173306c963f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0184/2026/Regeling62185c403beb486fad5a09a250c45bab",
+    "titel": "Omgevingsprogramma Economie",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0184/2026/Regeling62185c403beb486fad5a09a250c45bab/nld@2026-06-09;08165131",
+    "beginGeldigheid": "2025-05-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2026_Regeling62185c403beb486fad5a09a250c45bab?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0184/2025/Regelingcacdd745673c463aa9e9fe7b4035fea1",
+    "titel": "Omgevingsprogramma Toekomstbestendige Bedrijventerreinen Urk 2025-2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0184/2025/Regelingcacdd745673c463aa9e9fe7b4035fea1/nld@2026-10-30;13544768",
+    "beginGeldigheid": "2026-11-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0184_2025_Regelingcacdd745673c463aa9e9fe7b4035fea1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:31Z"
+  }
+]

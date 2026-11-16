@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM0141",
+ "gemeente": "Almelo",
+ "provincie": "Overijssel",
+ "brondocument": "Bomenverordening 2011 (CVDR124878_1) art. 2, 3, 4, 5, 6; Legesverordening 2026 (CVDR750639_3) art. 2.30; APV 2021 (CVDR666357_5) afd. 4.3 en art. 6:1; Omgevingsplan (CVDR696194_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR124878/1",
+ "datum_geldigheid": "Bomenverordening 2011: geldend vanaf 2012-01-01 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Bomenverordening: versie 1, vastgesteld 2011-12-06, in werking 2012-01-01; metadata gewijzigd 2016-06-03. APV 2021 (CVDR666357_5, per 2026-02-02): afdeling 3 'Het bewaren van houtopstanden', art. 4:10 t/m 4:12: 'Vervallen.'",
+ "juridische_plaats": "Losse Bomenverordening 2011, werkt als omgevingsplanactiviteit volgens de legesverordening (CVDR750639_3, art. 2.30: 'bomenverordening 2011 in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 86 bekendmakingen op titel, waarvan 3 besluiten (2 intrekkingen en 1 verlenging beslistermijn voor kap van 15 bomen langs een kanaal) en 51 aanvragen; 0 weigeringen volgens de titel. Geen grondslag genoemd. De steekproef wijst niet op een breder regime dan het lijstsysteem.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van aangewezen (voorlopige) monumentale, bijzondere en structurele houtopstand (art. 3 lid 1).",
+ "drempel": "Geen drempel: alleen houtopstand die op de lijst en kaart staat, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 3 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag te vellen of te doen vellen: a. (voorlopige) monumentale houtopstand; b. (voorlopige) bijzondere houtopstand; c. (voorlopige) structurele houtopstand.' Art. 2: B&W 'wijzen ... aan en registreren die op een lijst en bijbehorende kaart'. Toelichting art. 2: de aanwijzing 'kan betrekking hebben op alle bomen die in de gemeente Almelo staan, dus niet alleen op bomen die eigendom zijn van de gemeente Almelo'. De lijst en kaart zijn niet ingezien.",
+ "uitzonderingen": "Art. 3 lid 2 (aantoonbaar economisch doel, o.a. populieren en wilgen langs landbouwgrond, fruitbomen, kerstbomen, kweekgoed, bosbouwondernemingen buiten de kom) en lid 3 (Plantenziektewet of aanschrijving, acuut gevaar, hakhout, knotten of kandelaberen, dunnen). Gangbare uitzonderingen, geen correctie.",
+ "weigeringsgronden": "Art. 4: 'Het bevoegd gezag kan de vergunning weigeren of onder voorschriften verlenen op grond van: a. de beeldbepalende waarde van de houtopstand; b. de cultuurhistorische waarde van de houtopstand; c. de landschappelijke waarde van de houtopstand; d. de natuurwaarde van de houtopstand; e. de waarde van de houtopstand voor leefbaarheid; f. de waarde van de houtopstand voor stads- of dorpsschoon.'",
+ "herplantplicht": "Art. 5 lid 1: 'Het bevoegd gezag kan aan de omgevingsvergunning ... het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig door het bevoegd gezag te geven aanwijzingen moet worden herplant'. Lid 3: bij onmogelijke herplant 'kan het bevoegd gezag aan de vergunning het voorschrift verbinden dat aan de gemeente een bedrag moet worden betaald van maximaal de hoogte van de boomwaarde'. Art. 6 lid 1 (na kap zonder vergunning): 'kunnen Burgemeester en wethouders ... de verplichting opleggen te herplanten'. Alles 'kan'. Geen beleidsregel over herplant gevonden.",
+ "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan'), het college beslist per geval. Betaling van maximaal de boomwaarde is een alternatief 'Als (voldoende) herplant in de omgeving van de te kappen houtopstand niet mogelijk of wenselijk is' (art. 5 lid 3, 'kan').",
+ "sancties": "Geen eigen strafbepaling of bestuurlijke boete in de Bomenverordening. WED via de Omgevingswet: de legesverordening noemt het vellen een omgevingsplanactiviteit (S1, besluit 14-11-2026). De APV 6:1 lid 2 verwijst voor de WED nog naar 'artikel 4:11, tweede lid' van de vervallen APV-afdeling (foute verwijzing). Herplantplicht na illegale kap: art. 6 lid 1 ('kunnen').",
+ "procedure": "Leges 2026 art. 2.30: EUR 163,00 voor een omgevingsplanactiviteit vellen van houtopstand. Beslistermijn en bezwaar niet apart gelezen. Schadevergoeding: art. 7 (verwijst naar art. 17 Boswet).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niets geregeld in de Bomenverordening over niet nakomen van een opgelegde herplantplicht; alleen het algemene instrumentarium (bestuursdwang of dwangsom) is van toepassing. De verordening bevat geen strafbepaling (zoekopdracht op 'gestraft', 'boete', 'dwangsom' leverde niets op).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de lijst en kaart met monumentale, bijzondere en structurele houtopstand staan niet in CVDR; een korte zoekpoging op de gemeentelijke website leverde ze niet op",
+ "status": "ok",
+ "ontbrekend": "Lijst en kaart met (voorlopige) monumentale, bijzondere en structurele houtopstand niet ingezien; onbekend of en hoeveel particuliere bomen erop staan, en hoe breed 'structurele houtopstand' is aangewezen. Omgevingsplan in het DSO niet ingezien. Beslistermijn en bezwaar niet apart gelezen.",
+ "artikelnummers": [
+  "Bomenverordening 2011 art. 2, 3, 4, 5, 6, 7",
+  "Legesverordening 2026 art. 2.30",
+  "APV 2021 afd. 4.3 (vervallen), art. 6:1",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem, lijst niet ingezien (INTENT, ONZEKERHEID). Maximum 1: ook 'structurele houtopstand' wordt individueel aangewezen en geregistreerd op lijst en kaart; als die aanwijzing hele lanen of structuren dekt, kan D2 gelden (niet vast te stellen).",
+  "W2: 'Het bevoegd gezag kan de vergunning weigeren of onder voorschriften verlenen op grond van: a. de beeldbepalende waarde van de houtopstand;' (art. 4).",
+  "H1: 'kunnen Burgemeester en wethouders ... de verplichting opleggen te herplanten' (art. 6 lid 1) en 'kan het bevoegd gezag aan de vergunning het voorschrift verbinden' (art. 5 lid 1). De storting van maximaal de boomwaarde 'kan' alleen worden opgelegd, dus geen H3.",
+  "S1: WED via de Omgevingswet (omgevingsplanactiviteit volgens legesverordening art. 2.30). Foute verwijzing: APV 6:1 lid 2 noemt 'artikel 4:11, tweede lid', terwijl APV art. 4:10 t/m 4:12 'Vervallen.' zijn.",
+  "Kapregel staat in de Bomenverordening 2011 (CVDR124878_1), niet meer in de APV. De Uitvoerings- en handhavingsstrategie (CVDR755761_1) bevat geen boetebeleid voor kap.",
+  "Regeling is oud (2012) en gebruikt de termen Wabo en Boswet; geen aanwijzing dat er een nieuwer kapstelsel is vastgesteld in de opgehaalde bronnen."
+ ],
+ "modelsignalen": [
+  "Lijstsysteem waarin ook 'structurele houtopstand' (lanen, structuren) wordt aangewezen: het model kent bij D1 geen onderscheid tussen losse bomen en aangewezen structuren; D1 of D2 hangt af van een lijst die niet is ingezien."
+ ]
+}

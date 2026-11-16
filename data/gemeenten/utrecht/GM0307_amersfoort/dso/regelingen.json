@@ -1,0 +1,74 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0307/2025/Regeling54dc0adc617e41a4a3df345d075e975f",
+    "titel": "Omgevingsprogramma Hoogland-West",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0307/2025/Regeling54dc0adc617e41a4a3df345d075e975f/nld@2025-07-01;11425913",
+    "beginGeldigheid": "2025-01-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2025_Regeling54dc0adc617e41a4a3df345d075e975f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regeling351473f42a694160a6eb913e3c1712b8",
+    "titel": "Omgevingsprogramma Volkshuisvesting",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regeling351473f42a694160a6eb913e3c1712b8/nld@2026-01-21;08362596",
+    "beginGeldigheid": "2026-01-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regeling351473f42a694160a6eb913e3c1712b8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regelinga00061544d4844b398e4a2e549e9bd09",
+    "titel": "Voorbereidingsbesluit Bachweg 80, Amersfoort",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regelinga00061544d4844b398e4a2e549e9bd09/nld@2026-02-03;14004445",
+    "beginGeldigheid": "2026-02-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regelinga00061544d4844b398e4a2e549e9bd09?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regeling19d549cb52bc4b638984d513a41f63fe",
+    "titel": "Voorbereidingsbesluit Wind op Isselt",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regeling19d549cb52bc4b638984d513a41f63fe/nld@2026-02-17;10541414",
+    "beginGeldigheid": "2026-02-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regeling19d549cb52bc4b638984d513a41f63fe?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regeling4142717b7ffb42e7a5c97f7afd6c10aa",
+    "titel": "Omgevingsprogramma Circulaire Stad",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regeling4142717b7ffb42e7a5c97f7afd6c10aa/nld@2026-03-09;13093711",
+    "beginGeldigheid": "2026-03-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regeling4142717b7ffb42e7a5c97f7afd6c10aa?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Amersfoort",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0307/2020/omgevingsplan/nld@2026-06-04;12255961",
+    "beginGeldigheid": "2026-07-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regeling79a21ec09ea346898ec01eee7b709d39",
+    "titel": "Omgevingsprogramma Erfgoed 2026-2040",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regeling79a21ec09ea346898ec01eee7b709d39/nld@2026-06-18;13563794",
+    "beginGeldigheid": "2026-06-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regeling79a21ec09ea346898ec01eee7b709d39?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regeling38a0c7a42e2d4195bcba320ff737b859",
+    "titel": "Voorbereidingsbesluit Meridiaan 16a-18a-20a-22a-24a-26a-28a-30a-32a-34a",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regeling38a0c7a42e2d4195bcba320ff737b859/nld@2026-07-14;15340463",
+    "beginGeldigheid": "2026-07-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regeling38a0c7a42e2d4195bcba320ff737b859?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0307/2026/Regeling0450ffb7acb4483d872c8198dd06b964",
+    "titel": "Omgevings- en uitvoeringsprogramma Wij Liendert",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0307/2026/Regeling0450ffb7acb4483d872c8198dd06b964/nld@2026-10-06;14113799",
+    "beginGeldigheid": "2026-10-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0307_2026_Regeling0450ffb7acb4483d872c8198dd06b964?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:44Z"
+  }
+]

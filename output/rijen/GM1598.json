@@ -1,0 +1,75 @@
+{
+  "gm_code": "GM1598",
+  "gemeente": "Koggenland",
+  "provincie": "Noord-Holland",
+  "brondocument": "APV Koggenland 2026 (CVDR754160_1) hoofdstuk 4 'Afdeling 3' ('[Vervallen]'), art. 4:21 en 6:1; Omgevingsplan (CVDR696466_2) art. 22.299; Legesverordening 2026 (CVDR747660_3) art. 2.30; Subsidieverordening onderhoud waardevolle of monumentale particuliere bomen (CVDR42258_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR754160/1",
+  "datum_geldigheid": "APV CVDR754160_1 geldend vanaf 2026-01-01 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV 2026 is een nieuwe vaststelling per 2026-01-01; de afdeling houtopstanden staat daarin als 'Afdeling 3 [Vervallen]'.",
+  "juridische_plaats": "Geen geldende materiele kapregel gevonden: restant bruidsschat (art. 22.299), geen vergunningplicht. De APV 2026 heeft de afdeling over houtopstanden vervallen verklaard ('Afdeling 3 [Vervallen]'); er is geen losse bomenverordening of VFL in CVDR gevonden. De legesrij 2.30 (CVDR747660_3, in werking 2026-09-15) noemt nog 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening', maar dat artikel bestaat niet meer in de APV 2026. Twijfel: zie opmerkingen.",
+  "praktijkcontrole": "Sinds 2025: 3 bekendmakingen op titel, 0 besluiten, 0 aanvragen, 0 weigeringen. De drie treffers gaan over bouwen (een kap als dakkap, geen boomkap). Geen kapbesluiten voor bomen gevonden; dat past bij het ontbreken van een kapregel. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 9 bekendmakingen sinds 1-1-2025, waarvan 0 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Geen: in de geldende teksten is geen vergunningplicht of meldplicht voor het vellen van houtopstanden gevonden.",
+  "drempel": "Niet van toepassing: geen kapregel gevonden.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Geen kapregel voor particuliere bomen gevonden. APV 2026 art. 4:21 gaat alleen over bestrijding van iepziekte en 'planten en bomen ... als deze hinder en/of gevaar vormen of kunnen vormen voor (het gebruik van) de openbare ruimte' (aanschrijving), geen kapverbod.",
+  "uitzonderingen": "Niet van toepassing.",
+  "weigeringsgronden": "Niet van toepassing: geen vergunningplicht gevonden.",
+  "herplantplicht": "Geen grondslag gevonden. Omgevingsplan art. 22.299 lid 2 onder d vraagt in een aanvraag alleen 'de mogelijkheid tot herbeplanten of het voornemen om ... tot herbeplanten ... over te gaan' (aanvraagvereiste).",
+  "herplant_ontsnapping": "geen",
+  "sancties": "Geen kap-specifieke sanctie. APV art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie) is algemeen; lid 2 noemt voor de WED 'artikel 4:11, tweede lid', dat in de APV 2026 niet meer bestaat. Geen bestuurlijke boete voor kappen.",
+  "procedure": "Legesrij 2.30 (EUR 399,25) bestaat nog, maar verwijst naar het niet meer bestaande APV-art. 4:11. Geen procedure vastgesteld.",
+  "herplant_type": "geen grondslag",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets geregeld: geen herplantplicht gevonden.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 0,
+    "min": 0,
+    "max": 2
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "S": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen geldend lijstsysteem gevonden; de bomenlijst 'Waardevolle bomen Koggenland' uit de subsidieverordening (bijlage 1, vastgesteld op grond van art. 4:11 lid 1 APV Koggenland 2008) is niet ingezien",
+  "status": "onzeker",
+  "ontbrekend": "Een kernbron ontbreekt: de bomenlijst 'Waardevolle bomen Koggenland' (bijlage 1 bij de subsidieverordening) staat niet in het dossier en is niet ingezien. Niet vast te stellen of er nog een geldend kapverbod voor die lijst bestaat (bijvoorbeeld in het tijdelijk deel van het omgevingsplan in het DSO, dat niet is ingezien, of in een niet gevonden verordening). De APV-versies 2022 tot en met 2025 zijn niet gelezen, dus het moment waarop de kapregel verviel, is niet vastgesteld. Slechts 3 bekendmakingen sinds 2025, geen kapbesluiten. Nabewerking DSO/RP 16-11-2026: het geldende bestemmingsplan Landelijk Gebied (NL.IMRO.1598.BPLGKoggenland-va01, 2013) is gelezen: alleen aanlegvergunningen voor landschapselementen, natuur en cultuurhistorie in het buitengebied (art. 3.6.1, 23.4.1, 48.3.1); geen algemene kapregel. Niet gelezen: het kernenplan Komplan 2008 (artikel 10-plan, in de API zonder machineleesbare tekst), de beheersverordening Obdam/Hensbroek en de partiële herzieningen.",
+  "artikelnummers": [
+    "APV 2026 hoofdstuk 4 'Afdeling 3 [Vervallen]', art. 4:21, 6:1",
+    "Omgevingsplan art. 22.299",
+    "Legesverordening 2026 art. 2.30",
+    "Subsidieverordening CVDR42258_1 art. 1 tot en met 5"
+  ],
+  "opmerkingen": [
+    "D0 (max 1): Geen geldende kapregel gevonden; afdeling houtopstanden in de APV 2026 is 'Afdeling 3 [Vervallen]'. Het omgevingsplan bevat alleen aanvraagvereisten (art. 22.299): restant bruidsschat, geen vergunningplicht. Maximum D1 omdat de lijst en het DSO niet zijn ingezien.",
+    "W0, H0, S0: geen regime, dus niets te toetsen. Maxima (W2, H1, S1) alleen voor het geval er toch een lijstregime met 'kan weigeren' en 'kan herplant' blijkt te bestaan; bij D0 telt I niet mee.",
+    "Context (geen kapregel): de Subsidieverordening CVDR42258_1 (2009) geeft eigenaren van bomen op de bomenlijst 'Waardevolle bomen Koggenland' 'een financiële bijdrage van maximaal € 250,- per boom' voor onderhoud, eenmaal per acht jaar. Dit gaat over waardevolle particuliere bomen, maar regelt geen kapverbod. De verordening verwijst naar 'artikel 4:11 lid 1 van de Algemene Plaatselijke Verordening Koggenland 2008', dat niet meer geldt.",
+    "Tegenstrijdigheid: legesrij 2.30 (in werking 2026-09-15) bestaat nog en verwijst naar APV-art. 4:11, en APV art. 6:1 lid 2 noemt 'artikel 4:11, tweede lid' voor de WED, terwijl de afdeling is vervallen. Dit wijst op een niet opgeschoond restant, niet op een geldende regel. Raad niet: mogelijk heeft de gemeente de regel bewust geschrapt (deregulering) of ergens anders ondergebracht.",
+    "Open punt: 3 bekendmakingen sinds 2025, geen enkel kapbesluit voor bomen; dit past bij het ontbreken van een regel.",
+    "Nabewerking DSO/RP 16-11-2026: Ruimtelijke plannen API v4, plan NL.IMRO.1598.BPLGKoggenland-va01 (Landelijk Gebied, vastgesteld 2013-07-27, regelStatus geldend; dso/rp_NL.IMRO.1598.BPLGKoggenland-va01_kap.md). Art. 3.6.1 sub a: 'het kappen en/of rooien van structuurbepalende landschapselementen, niet zijnde houtgewas deel uitmakend van een grondgebonden agrarische teelt'; art. 23.4.1 sub b: 'het aanplanten en/of verwijderen van bomen en/of houtgewas' (Natuur - 2); art. 48.3.1 alleen aanbrengen van opgaande beplanting. Dat zijn aanlegvergunningen voor landschap en natuur in het buitengebied en tellen niet voor D (besluit 14-11 en 16-11-2026). Score ongewijzigd: D0 W0 H0 S0."
+  ],
+  "modelsignalen": [
+    "Een legesrij en een strafbepaling die nog naar een vervallen APV-artikel verwijzen: het model heeft geen regel voor een kapregel die ontbreekt maar waarvan sporen in de leges, de strafbepaling en een subsidieverordening achterblijven. Hier D0 gekozen omdat de tekst van de regel ontbreekt; dat is een keuze, geen bewijs van vrije kap."
+  ]
+}

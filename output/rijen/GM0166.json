@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0166",
+  "gemeente": "Kampen",
+  "provincie": "Overijssel",
+  "brondocument": "Algemene plaatselijke verordening gemeente Kampen, afd. 4.3 art. 4:10, 4:11, 4:11b, 4:11d, 4:11e, 6:1; Beleid herplantplicht op grond van APV - bewaren houtopstanden (CVDR116102_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30; Omgevingsplan gemeente Kampen art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR726482/1 ; https://lokaleregelgeving.overheid.nl/CVDR116102/1 ; https://lokaleregelgeving.overheid.nl/CVDR746589/2 ; https://lokaleregelgeving.overheid.nl/CVDR696203/4",
+  "datum_geldigheid": "APV CVDR726482_1 geldend van 2024-11-13 t/m heden; beleid herplantplicht CVDR116102_1 geldend van 2002-12-10 t/m heden; leges CVDR746589_2 geldend van 2025-12-24 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV: versie 1 (nieuwe vaststelling) per 2024-11-13. Leges 2026: versie 2 per 2025-12-24 (wijziging tarieventabel). Beleid herplantplicht: vastgesteld 2002-12-10, nooit gewijzigd.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (CVDR696203_4) bevat alleen aanvraagvereisten (art. 22.299), geen eigen kapregel.",
+  "praktijkcontrole": "Sinds 2025: 502 bekendmakingen op titel, waarvan 245 besluiten, 253 aanvragen en 0 weigeringen volgens de titel. De steekproef van 10 besluiten noemt geen grondslag. Alle besluiten in de steekproef zijn 'Verleende omgevingsvergunning'; veel gaan over essen, eiken en populieren langs wegen of in het buitengebied (waarschijnlijk deels gemeentelijke bomen). Dit past bij een breed regime met een omvangdrempel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand (APV art. 4:11 lid 1).",
+  "drempel": "Art. 4:10 lid 1 sub c: 'boom: een houtachtig, overblijvend gewas met een dwarsdoorsnede van de stam van minimaal 25 centimeter op 1,3 meter hoogte boven het maaiveld.' Het verbod in art. 4:11 lid 1 geldt voor 'houtopstand' (art. 4:10 lid 1 sub a: 'één of meer bomen, hakhout, een houtwal, een grotere (lint)begroeiing van heesters en struiken, een beplanting van bosplantsoen'). Voor houtopstanden zonder boom (heesters, lintbegroeiing) is geen drempel genoemd; D is gescoord op de drempel voor bomen.",
+  "omtrek_cm": 78.5,
+  "meethoogte": "1,30 m boven het maaiveld; bij meerstammigheid de dikste stam (art. 4:10 lid 1 sub c)",
+  "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, particulier en gemeentelijk; geen aanwijzing van bomen of gebieden nodig. Art. 4:11 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.'",
+  "uitzonderingen": "Art. 4:11 lid 3 sub c: het verbod geldt niet voor 'de volgende boomsoorten: berken, coniferen, populieren en wilgen, mits deze voldoen aan onderstaande drie voorwaarden: 1°. de bomen staan binnen de bebouwde kom; 2°. de bomen zijn geen eigendom van de gemeente Kampen; 3°. de bomen maken geen onderdeel uit van houtwal, lintbegroeiing, singelbeplanting, bosplantsoen of bomenrij.' Dit sluit in de kom alle coniferen, populieren en wilgen (en berken) in tuinen uit: ruime soortuitzondering (-1 voor D). Verder lid 2 (bosbouwkundig of bedrijfseconomisch geëxploiteerde houtopstanden: populieren/wilgen langs landbouwgrond, fruitbomen en windschermen om boomgaarden, kerstbomen, kweekgoed), lid 3 sub a (Plantenziektewet of aanschrijving) en sub b (periodiek hakhout). Geen tuin- of perceeluitzondering.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11b lid 1: 'Burgemeester en wethouders kunnen de vergunning weigeren dan wel voorschriften aan de vergunning verbinden in het belang van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid van de houtopstand'. Lid 2: 'tevens de boomwaarde als motivering hanteren'. Beleid CVDR116102_1 zegt: 'De ervaring is dat de meeste kapaanvragen worden verleend.' Geen strengere toets in beleid.",
+  "herplantplicht": "APV art. 4:11d lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant. Een dergelijke herplantplicht wordt in ieder geval zoveel mogelijk opgelegd, indien een gemeentelijk bestemmings-, bomen-, groen- of landschapsplan de te vellen houtopstand direct of indirect als waardevol omschrijft.' Beleid CVDR116102_1 (progressief stelsel op basis van boomwaarde, methode Raad): bij een kapaanvraag 'geen' herplant bij boomwaarde onder € 2.500; vanaf € 2.500 20% tot 40% van de boomwaarde. Het beleid spreekt zelf van 'De eventueel op te leggen herplantplicht'.",
+  "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid van het college, per geval). Beleid: 'Wanneer de herplant plaats moet vinden in het openbaar groen kan de aanvrager dit afkopen door het bedrag van de waarde van de herplant te betalen aan de gemeente' (keuze voor de aanvrager, geen verplichte storting). Na illegale kap: art. 4:11e lid 1 'kunnen burgemeester en wethouders ... de verplichting opleggen te herbeplanten'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV art. 4:11e lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bepaalde bij of krachtens deze verordening ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Voor het herplantvoorschrift bij een vergunning (art. 4:11d) is geen aparte regel gelezen; art. 6:1 geldt algemeen.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet (art. 5.1 lid 1 sub a): de legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Daarnaast algemene APV-strafbepaling art. 6:1 lid 1 (hechtenis tot drie maanden of geldboete tweede categorie). Herplant na illegale kap kan worden opgelegd (art. 4:11e). Geen bestuurlijke boete in de regeling.",
+  "procedure": "Aanvraag omgevingsvergunning; leges 2026 art. 2.30: € 18,75 per boom (singelbeplanting/houtwal € 0,15 per m², minimum € 75,75). Vergunning vervalt na een jaar zonder gebruik (art. 4:11c). Schadevergoeding bij onevenredige schade (art. 4:11f). Beslistermijn: APV art. 1:2 lid 5 sluit omgevingsvergunning uit van de APV-termijn; verdere procedure (bezwaar, beroep, termijn) niet apart gelezen. Bekendmaking van besluiten in het gemeenteblad.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen bomenlijst; algemeen regime",
+  "status": "ok",
+  "ontbrekend": "Bezwaar, beroep en beslistermijn van de omgevingsvergunning niet apart gelezen (alleen vastgelegd, niet gescoord). Omgevingsplan in het DSO niet ingezien; de tekst in CVDR696203_4 bevat alleen aanvraagvereisten voor het vellen (art. 22.299) en een aanlegvergunning voor één gebied (Broekswetering, art. 21.74).",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:11a",
+    "APV 4:11b",
+    "APV 4:11c",
+    "APV 4:11d",
+    "APV 4:11e",
+    "APV 4:11f",
+    "APV 6:1",
+    "APV 1:2",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Beleid herplantplicht CVDR116102_1 (tabel 1 en 2)"
+  ],
+  "opmerkingen": [
+    "D3: boom heeft een drempel van 25 cm doorsnede (omtrek 78,5 cm) = D3 voor het hele grondgebied. Houtopstand heeft geen drempel; volgens de vaste regel scoort D op de drempel voor bomen. De ruime soortuitzondering (berken, coniferen, populieren en wilgen, art. 4:11 lid 3 sub c) geldt alleen binnen de kom. Correctie per deel: binnen de kom D3 - 1 = D2, buiten de kom D3. Het hoogste deel telt: D3. (Besluit gebruiker, 14-11-2026, na Overijssel.)",
+    "W: art. 4:11b lid 1 'kunnen ... weigeren' met natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden: W2.",
+    "H: verordening 'kan'; 'Een dergelijke herplantplicht wordt in ieder geval zoveel mogelijk opgelegd' alleen bij waardevolle houtopstand volgens een plan. Beleid CVDR116102_1 dateert van 2002, verwijst naar 'artikel 4.3.6 van de Algemene Plaatselijke Verordening Kampen 2001' en noemt de herplantplicht 'eventueel op te leggen'; voor normale tuinbomen (boomwaarde onder € 2.500) is bij een kapaanvraag 'geen' herplant nodig. Daarom H1. Maximum 2 als het beleid (toch nog geldend in CVDR) als vast voorschrift telt voor bomen vanaf € 2.500 boomwaarde; ook dan blijft de categorie Soepel. Afkopen is een keuze van de aanvrager, geen verplichte storting.",
+    "S: legesverordening noemt het vellen een omgevingsplanactiviteit, dus S1 zonder bereik (WED via Ow 5.1). Herplant na illegale kap 'kan' (art. 4:11e). Geen bestuurlijke boete.",
+    "Regeling Hinderlijke bomen (CVDR120300_1, CVDR603137_1) gaat alleen over gemeentelijke bomen en telt niet mee.",
+    "Beleid herplantplicht noemt bij illegale kap: herplant 'zwaarder' en voor alle bomen, ook kleine in tuinen (tabel 1, kolom illegaal kappen); dit telt bij S, niet bij H."
+  ],
+  "modelsignalen": [
+    "Soortuitzondering die alleen binnen de bebouwde kom geldt (berken, coniferen, populieren, wilgen, art. 4:11 lid 3 sub c) telt als -1 (de regel noemt 'ongeacht locatie'). Voor tuinbomen in de kom komt het op hetzelfde neer, maar buiten de kom is de soort juist wel beschermd. Het model heeft geen aparte regel voor een soortuitzondering die alleen in de kom geldt; hier is -1 toegepast naar analogie van Zeist.",
+    "Kampen: een beleidsregel uit 2002 bij een inmiddels vervangen APV (2001) staat nog als geldend in CVDR. De regel 'nota bij een ingetrokken verordening telt niet' is hier niet eenduidig toe te passen; H1 met maximum 2."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Herplant bij gewone kap staat in Lingewaard alleen in een beleidsnota (Groenfonds, par. 2.3, die een andere nota uit 2009 beschrijft) en niet in de APV. De APV regelt herplant alleen na illegale kap (art. 4:11a). Het model kent geen duidelijke regel voor 'verordening zwijgt, nota zegt in beginsel'; ik heb H = 2 met minimum 1 gegeven.",
+  "De Bomenlijst bevat ook een categorie (alle gemeentelijke bomen vanaf 30 cm diameter) die niet als regels is opgesomd. Het aantal lijstregels telt dus niet alle beschermde bomen; de lijst telt groepen en rijen als een regel."
+ ],
+ "gm_code": "GM1705",
+ "gemeente": "Lingewaard",
+ "brondocument": "Algemene plaatselijke verordening gemeente Lingewaard 2026, art. 4:10, 4:11, 4:11a, 6:1, 1:8 (CVDR754607_1); Bomenlijst gemeente Lingewaard (CVDR681448_1); Groenfonds (CVDR681503_1, par. 2.3); Leges Lingewaard 2026 (CVDR750444_2) art. 2.30; Omgevingsplan (CVDR696484_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR754607/1 ; https://lokaleregelgeving.overheid.nl/CVDR681448/1 ; https://lokaleregelgeving.overheid.nl/CVDR681503/1",
+ "datum_geldigheid": "APV CVDR754607_1 geldend van 2026-01-01 t/m heden; Bomenlijst CVDR681448_1 geldend van 2018-08-19 t/m heden; Groenfonds CVDR681503_1 geldend van 2015-05-28 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 1 per 2026-01-01 (nieuwe vaststelling, de APV wordt jaarlijks opnieuw vastgesteld). Legesverordening CVDR750444_2 per 2026-10-09. Bomenlijst en Groenfonds ongewijzigd sinds 2018 respectievelijk 2015.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR750444_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (CVDR696484_2) art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 5 bekendmakingen op titel: 0 besluiten, 1 aanvraag omgevingsvergunning kappen van bomen en 3 verlengingen van de beslistermijn voor kappen (waaronder 1 Hollandse linde en 1 kap van populieren), 0 weigeringen. Geen grondslag genoemd. Het lage aantal past bij een lijstsysteem; de zoekmethode kan besluiten missen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Bomenlijst staan (art. 4:11 lid 2) of zijn aangelegd op basis van een herplantplicht (art. 4:11 lid 3).",
+ "drempel": "Geen drempel: alleen bomen op de Bomenlijst. Lijst van derden: diameter vermeld in klassen (<40, 40-60, 60-80 cm, enz.), gemeten op 1,30 m, maar de lijst is per boom of groep aangewezen, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem); diameters op de lijst zijn gemeten op 1,30 m",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen, die vermeld staat op de in het eerste lid genoemde Bomenlijst.' De lijst bevat ook particuliere bomen: monumentale bomen van derden en waardevolle bomen van derden. Hele gemeente, geen gebiedsregel.",
+ "uitzonderingen": "Art. 4:11 lid 5: verbod niet van toepassing 'als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Bomen die niet op de lijst staan zijn niet beschermd. Bomenlijst bijlage 2: 'Voor de overige bomen van derden is het niet meer noodzakelijk een kapvergunning aan te vragen. Dit met uitzondering van bomen in de boomstructuren en de groene vlakken.' (zie opmerkingen).",
+ "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' Bomenlijst: gemeente weegt 'het belang van verwijdering af tegen het belang van behoud van de boom' met een puntentabel.",
+ "herplantplicht": "APV: voor gewone kap met vergunning geen herplantbepaling. Art. 4:11a lid 1 (na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herplanten'. Groenfonds par. 2.3 (beleidsnota over particuliere bomen op de lijst): 'Voor het kappen van een boom die vermeld staat op de overzichtslijst waardevolle bomen is een omgevingsvergunning vereist en in beginsel geldt een herplantplicht.'",
+ "herplant_ontsnapping": "Groenfonds par. 2.3: 'Alleen wanneer herplant niet mogelijk is, kan dit achterwege blijven.' APV art. 4:11a lid 2 (alleen na illegale kap): 'Indien naar oordeel van het college niet ter plaatse kan worden herplant , wordt een financiële bijdrage gestort in een voorziening van de gemeente'. Het college beslist per geval.",
+ "sancties": "Geen WED-aanwijzing voor art. 4:11 in APV art. 6:1 lid 2 (die noemt alleen 2:11, 2:12 en 4:12). Wel: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': WED via Ow 5.1. Daarnaast APV art. 6:1 lid 1: 'hechtenis van ten hoogste drie maanden of geldboete van ten hoogste de tweede categorie'. Herplantplicht na illegale kap (art. 4:11a). Geen bestuurlijke boete in de regeling.",
+ "procedure": "Omgevingsvergunning via het Omgevingsloket; art. 1:2 (beslistermijn APV) niet van toepassing op omgevingsvergunning; aanvraagvereisten omgevingsplan art. 22.299. Leges 2026 (CVDR750444_2) art. 2.30: EUR 441,00. Bekendmaking van aanvragen en besluiten in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "APV art. 4:11a lid 5: 'Degene aan wie een verplichting als bedoeld in dit artikel is opgelegd, alsmede zijn rechtsopvolger is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van ten hoogste de tweede categorie'. Geen bestuurlijke boete of dwangsom in de tekst.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 929,
+ "lijst_aantal_particulier": 911,
+ "lijst_telling": "regels op de Bomenlijst (CVDR681448_1, geldend sinds 2018-08-19): 13 gemeentelijke monumentale bomen, 25 monumentale bomen van derden (waarvan 20 particulieren, 5 stichtingen) en 891 waardevolle bomen van derden (geteld op uniek nummer; de lijst zelf noemt 'ongeveer 700 solitaire waardevolle bomen en boomgroepen van derden'). Een regel kan een groep of rij zijn. Alle gemeentelijke bomen vanaf 30 cm diameter staan als categorie op de lijst en zijn niet geteld. Particulier is hier 'derden' (de 5 stichtingen niet meegeteld; eigenaar van de 891 niet gespecificeerd).",
+ "status": "ok",
+ "ontbrekend": "Beleidsnotitie waardevolle bomen (2009), waarnaar het Groenfonds verwijst, staat niet in het dossier. Groenstructuurplan (kaart huidige groenstructuur) niet ingezien. Bezwaar en beroep niet apart gelezen. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV 2026 art. 4:10, 4:11, 4:11a, 6:1, 1:2, 1:8",
+  "Bomenlijst CVDR681448_1 par. 3 en bijlage 2 en 3",
+  "Groenfonds CVDR681503_1 par. 2.3",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1: alleen de Bomenlijst is beschermd (art. 4:11 lid 2); de lijst is ingezien in CVDR681448_1 en bevat particuliere bomen (monumentale bomen van derden en waardevolle bomen van derden). Het Groenfonds noemt het aantal niet; het aantal komt uit de lijst zelf.",
+  "Bomenlijst bijlage 2: 'Dit met uitzondering van bomen in de boomstructuren en de groene vlakken.' Boomstructuren zijn opgenomen in het groenstructuurplan (kaart niet ingezien). Het artikel verwijst alleen naar de Bomenlijst, dus D blijft 1.",
+  "W2: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11 lid 4): kan-weigering op natuur-, landschaps-, cultuurhistorische en beeldwaarden. De Bomenlijst beschrijft een puntentabel; geen strengere toetsing dan 'kan weigeren'.",
+  "H2 (minimum 1): APV zwijgt over herplant bij vergunde kap. Groenfonds par. 2.3: 'in beginsel geldt een herplantplicht', uitweg 'Alleen wanneer herplant niet mogelijk is, kan dit achterwege blijven.' Dat is een door CVDR als geldend gepubliceerde beleidsnota over particuliere bomen. Het dossier toont niet wie de nota heeft vastgesteld (het addendum is door de raad vastgesteld). Geen verplichte storting bij gewone kap: H niet 3.",
+  "Art. 4:11a lid 2 (storting als herplant ter plaatse niet kan) geldt alleen na kap zonder vergunning en telt niet voor H. Het is wel een kap-specifieke herplant- en compensatieplicht na illegale kap (S1).",
+  "S1: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': WED via Ow 5.1, zonder bereik. APV art. 6:1 lid 2 wijst 4:11 niet aan als WED (alleen 2:11, 2:12 en 4:12; art. 4:12 is vervallen); dat is een verwijzing naar een vervallen artikel. Geen bestuurlijke boete.",
+  "Groenfonds par. 2.6 en het addendum (groennormen voor woningbouwlocaties) gaan over compensatie bij ruimtelijke ontwikkeling en tellen niet voor H.",
+  "Programma Landschap, Natuur en Biodiversiteit (CVDR755144_1, per 2025-11-18) noemt als doel het beschermen van particuliere houtopstanden in woonkernen en buitengebied, maar bevat geen kapregel of herplantregel; telt niet.",
+  "Mandaat: besluiten over houtopstanden zijn gemandateerd aan de Omgevingsdienst Groene Metropool (CVDR754717_1)."
+ ]
+}

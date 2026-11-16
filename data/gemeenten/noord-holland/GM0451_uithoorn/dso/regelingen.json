@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0451/2025/Regeling0d992619061d403cbced23608bd87747",
+    "titel": "Omgevingsvisie Uithoorn 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0451/2025/Regeling0d992619061d403cbced23608bd87747/nld@2026-03-03;13074540",
+    "beginGeldigheid": "2026-03-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0451_2025_Regeling0d992619061d403cbced23608bd87747?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0451/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Uithoorn",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0451/2020/omgevingsplan/nld@2026-09-07;14080008",
+    "beginGeldigheid": "2026-10-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0451_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:33Z"
+  }
+]

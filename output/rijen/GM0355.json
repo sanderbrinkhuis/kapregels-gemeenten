@@ -1,0 +1,81 @@
+{
+  "gm_code": "GM0355",
+  "gemeente": "Zeist",
+  "provincie": "Utrecht",
+  "brondocument": "Bomenverordening Zeist 2024 (art. 1-8, 15; Bijlage Groene Kaart); APV Zeist 2025 afd. 4.3 (vervallen, verwijst naar de Bomenverordening) en art. 6:1; Legesverordening Zeist 2026 art. 2.30; Bomen in Zeist: beleidsnota (CVDR393560_1, 2005); Uitvoerings- en handhavingsstrategie Regio Utrecht 2026 (CVDR749945_1); Omgevingsplan Zeist art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR413756/3",
+  "datum_geldigheid": "Bomenverordening Zeist 2024 (CVDR413756_3): geldend van 2024-01-01 t/m heden",
+  "laatste_wijziging": "CVDR413756_3 in werking 2024-01-01 (wijziging van art. 1, 3, 4, 8, 10, 17, 18 en toelichting; de Groene Kaart in de bijlage is de kaart van oktober 2016); Legesverordening 2026 sinds 2025-12-25; APV 2025 sinds 2025-01-30",
+  "juridische_plaats": "losse bomenverordening, werkt als omgevingsplanactiviteit volgens Legesverordening Zeist 2026 art. 2.30 ('het vellen van een houtopstand, bedoeld in de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'); APV-afdeling houtopstanden is vervallen ('Vervallen, geregeld in de Bomenverordening'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "487 bekendmakingen sinds 2025 (205 besluiten, 266 aanvragen, 13 weigeringen volgens titel). In het dossier genoemde besluiten: 7, waarvan 6 met de titel 'Verleend voor kappen met herplantplichte omgevingsvergunning'; geen enkel besluit noemt de grondslag. Het aantal aanvragen past bij een gebiedsregime dat een groot deel van de bebouwde kom dekt.",
+  "vergunningplicht": "omgevingsvergunning voor vellen van bomen in de 'Groene gebieden' en van gemeentelijke bomen (art. 3 lid 1)",
+  "drempel": "'boom: een levend houtig opgaand en overblijvend gewas met een omtrek van de stam van minimaal 80 cm gemeten op 1,30 meter hoogte boven het maaiveld' (art. 1 onder d); geen minimale omtrek voor herplantbomen (art. 6 en 7)",
+  "omtrek_cm": 80,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Alleen 'bomen die in de Groene gebieden staan, of gemeentelijke bomen' (art. 3 lid 1). De Groene gebieden staan op de Groene Kaart (bijlage; kaart van oktober 2016, bekeken als afbeelding bij CVDR413756_3): een samenhangend gebied dat het grootste deel van de bebouwde kom van Zeist en de bosrijke omgeving beslaat, met enkele uitgespaarde delen (o.a. delen van bedrijventerreinen en een aantal wijken). Particulier en openbaar binnen die gebieden; buiten de bebouwingscontour houtkap alleen in erven en tuinen of bij zelfstandige eenheden groter dan 10 are of rijen van meer dan 20 bomen (art. 3 lid 3 sub e). Geen regel voor het gehele grondgebied.",
+  "uitzonderingen": "Art. 3 lid 2: 'f. berken; g. populieren en wilgen voor zover niet geknot; h. schubconiferen met een stamomtrek tot 150 cm ...' (schijncypres, leylandcypres, Japanse levensboom, levensboom, Hiba cypres), reguliere onderhoudsmaatregelen, dunning bosbeheer, Plantenziektenwet/aanschrijving. Lid 3: wegbeplanting/eenrijige beplanting van populier of wilg langs landbouwgrond, vruchtbomen en windschermen om boomgaarden, kerstbomen, kweekgoed, bomen buiten de bebouwingscontour houtkap tenzij in erven en tuinen of een zelfstandige eenheid. Populieren en wilgen zijn dus overal uitgezonderd (ongeacht locatie): ruime uitzondering (-1) volgens INTENT. Aanvullend: berken en schubconiferen tot 150 cm.",
+  "weigeringsgronden": "Art. 4 lid 2: 'De omgevingsvergunning voor het vellen van een boom als bedoeld in artikel 3 wordt geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de boom op basis van één of meer van de volgende waarden: a. de natuurwaarden van de boom; b. de landschappelijke waarden van de boom; c. de cultuurhistorische waarden van de boom; d. de beeldbepalende waarden van de boom; e. de waarden van de boom voor stads- en dorpsschoon; f. de waarden van de boom voor recreatie.' Lid 3: de vergunning 'wordt verleend indien' o.a. de boom aantoonbaar gevaar of substantiële schade veroorzaakt, de kroonprojectie meer dan 50% van de tuin beslaat of de boom jaarrond gemiddeld ten minste 5 uur per dag daglicht in het woonvertrek ontneemt.",
+  "herplantplicht": "Art. 6 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Lid 4: 'Degene aan wie een voorschrift ... is opgelegd ... is verplicht daaraan te voldoen.' Bomenfonds/financiële compensatie: niet in de verordening; wel in de beleidsnota 2005 (zie opmerkingen). Beleidsnota 'Bomen in Zeist' (CVDR393560_1, college, geldend) par. 3.2.1: 'Het college legt in ieder geval een herplantplicht op in het geval van; a. beschermwaardige bomen; b. in bosachtige tuinen en tuinen met een buitenplaatskarakter, zoals aangegeven op de bij de bomenverordening horende kaart N1, bij een diameter vanaf 20 cm.; c. bomen met een diameter vanaf 35 cm.' en 'Wanneer niet feitelijk kan worden herplant dan moet een compensatiebedrag voor de herplantplichtige boom in het bomenfonds gestort worden.'",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het college beslist per geval. Beleidsnota 2005 par. 3.2.1: 'In de bomenverordening blijft de kan-bepaling gehandhaafd.' Nota par. 3.2.1: 'Op basis van deze richtlijnen kan soms van de hierboven beschreven uitgangspunten worden afgeweken .'",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 6 lid 4 en art. 7 lid 4: 'is verplicht daaraan te voldoen'. De Bomenverordening bevat geen eigen strafbepaling voor herplant (art. 15 noemt alleen art. 12 en 13). Handhavingsbeleid: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom' (dwangsomrichtlijn, CVDR749945_1 bijlage P).",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "Geen WED-aanwijzing of strafbepaling in de Bomenverordening voor het vellen (art. 15 geldt alleen voor art. 12 en 13: 'Hij die handelt in strijd met artikel 12 of 13'). Wel werkt het vellen als omgevingsplanactiviteit volgens leges art. 2.30, dus WED via Ow 5.1 (route Ow). APV 6:1 lid 2 (WED) geldt voor de APV zelf. Geen bestuurlijke boete. Herplant na illegale kap: art. 7 lid 1 'kan het college ... de verplichting opleggen te herplanten'.",
+  "procedure": "Omgevingsvergunning; leges 2026 art. 2.30: '€ 282,90' per vergunning, verhoogd 'per boom' met € 27,85; aanvraag door of met toestemming van de gerechtigde (art. 5), college kan een bomeneffectanalyse eisen; vergunning vervalt na drie jaar zonder gebruik (art. 8); bezwaar en beroep volgens Awb; beslistermijn niet in de verordening gevonden.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 3,
+    "min": 1,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen bomenlijst; gebiedsregime op de Groene Kaart (afbeelding bekeken, niet gemeten)",
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan in het DSO niet ingezien (alleen art. 22.299 aanvraagvereisten en afdeling 12.1 [adres] in het dossier). Groene Kaart is de kaart van 2016 (art. 2 verlangt vaststelling 'in elk geval eens per vijf jaar'); een nieuwere kaart is niet gevonden. De Groene Kaart is niet opgemeten, dus het exacte aandeel particuliere tuinen is niet bepaald. Beleidsnota 2005 (CVDR393560_1) staat als geldend in CVDR maar verwijst naar de oude APV (art. 4.5.5) en oude drempels; het is niet vastgesteld of dit nog beleid is (H-bereik).",
+  "artikelnummers": [
+    "Bomenverordening Zeist 2024: art. 1 (onder a, d, q), 2, 3, 4, 5, 6, 7, 8, 15, Bijlage Groene Kaart",
+    "APV Zeist 2025: afd. 4.3 (vervallen), art. 6:1",
+    "Legesverordening Zeist 2026: art. 2.30",
+    "Beleidsnota Bomen in Zeist (2005): par. 2.7, 3.2.1, 3.3",
+    "U&H-strategie 2026 bijlage P",
+    "Omgevingsplan Zeist: art. 22.299, 12.51 ([adres])"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): de geldende beleidsnota 2005 (college) telt voor H: herplant 'in ieder geval' plus verplichte storting als herplant niet kan → H3. Bereik 1-3 blijft, omdat niet vast te stellen is of de nota (kaart N1, bomen vanaf 35 cm diameter) het grootste deel van de bomen in de huidige Groene gebieden dekt; bomen van 80-110 cm omtrek buiten kaart N1 vallen onder 'kan'.",
+    "D1: aangewezen gebied (Groene gebieden) = D2, min 1 voor de ruime uitzondering: populieren en wilgen zijn ongeacht locatie uitgezonderd (art. 3 lid 2 sub g), plus berken en schubconiferen tot 150 cm (sub f en h). De drempel van 80 cm omtrek geldt alleen in het gebied; een gebiedsregime krijgt maximaal D2.",
+    "W2: 'wordt geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de boom' (art. 4 lid 2). Lid 3 geeft enkele verleengronden (gevaar, schade, kroonprojectie meer dan 50% van de tuin, daglichttoetreding), maar de hoofdregel is belangenafweging.",
+    "H1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat ... moet worden herplant.' (art. 6 lid 1). De Beleidsnota 2005 (par. 3.2.1) zegt 'Het college legt in ieder geval een herplantplicht op' bij bomen met een diameter vanaf 35 cm (omtrek ca. 110 cm) en 'moet een compensatiebedrag ... in het bomenfonds gestort worden' als niet kan worden herplant. De nota is van 2005, verwijst naar de oude APV en de huidige drempel is 80 cm; daarom puntscore H1 en maximum 3 (bereik). Voor bomen van 80 tot ca. 110 cm omtrek volgt uit de nota geen vaste herplantplicht.",
+    "S1: kapregel werkt als omgevingsplanactiviteit volgens leges art. 2.30 (WED via Ow 5.1). Foute/ontbrekende verwijzing: de strafbepaling van de Bomenverordening (art. 15) noemt alleen art. 12 en 13 en niet het velverbod (art. 3); APV 6:1 lid 2 heeft een eigen WED-aanwijzing 'bij of krachtens deze verordening' voor de APV. Geen bestuurlijke boete; dwangsomrichtlijn voor herplant is algemeen instrumentarium.",
+    "Boom A (80 cm): 'minimaal 80 cm' valt onder de definitie van boom; vergunning nodig als de tuin in de Groene gebieden ligt. De Groene Kaart bestrijkt het grootste deel van de bebouwde kom maar niet alles: boom A is dus 'ja' onder die voorwaarde. Boom B (40 cm) is geen 'boom' in de zin van de verordening: geen vergunning.",
+    "Kleine gebiedsregels: omgevingsplan afdeling 12.1 ([adres]) met een eigen kapverbod voor bomen in het gebied Bos telt niet mee voor D.",
+    "Peildatum 2026-11-14: Bomenverordening Zeist 2024 geldt sinds 2024-01-01; Omgevingsplan versie CVDR696287_4 geldt sinds 2026-09-16."
+  ],
+  "modelsignalen": [
+    "Gebiedsregime dat het grootste deel van de bebouwde kom dekt (Groene Kaart) krijgt maximaal D2; bij een ruime uitzondering (populieren en wilgen ongeacht locatie) daalt D naar 1, terwijl de kaart in de praktijk bijna alle gewone tuinbomen vanaf 80 cm omtrek dekt. De voorbeeldboom A is vergunningplichtig (zelfde als in gemeenten met D3).",
+    "Het model heeft geen regel voor een gebiedsregime dat bijna de gehele bebouwde kom omvat: dat telt als 'aangewezen gebied' (D2) in plaats van 'gehele bebouwde kom' met middelmatige drempel (D3).",
+    "Een oude beleidsnota (2005) in CVDR die herplant en bomenfonds standaard maakt voor grote bomen (vanaf diameter 35 cm), terwijl de verordening 'kan' zegt: onduidelijk of dit een 'vastgestelde beleidsregel' is die H bepaalt volgens het besluit over tegenstrijdige teksten; daarom H-bereik 1-3."
+  ]
+}

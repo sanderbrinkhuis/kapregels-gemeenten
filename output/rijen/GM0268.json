@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0268",
+  "gemeente": "Nijmegen",
+  "provincie": "Gelderland",
+  "brondocument": "Algemene plaatselijke verordening gemeente Nijmegen (afd. 4.3 Het bewaren van houtopstanden), CVDR677751_13; Beleidsregels houtopstanden 2024, CVDR726222_2; Verordening leges 2026, CVDR752072_2",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR677751/13",
+  "datum_geldigheid": "CVDR677751_13: geldend van 2026-09-10 t/m heden (peildatum 2026-11-15)",
+  "laatste_wijziging": "2026-09-10 (versie 13). Versie 14 (CVDR677751_14) gaat in op 2026-11-16, status toekomstig; de tekst van afd. 4.3 en art. 6:1 is daarin gelijk aan versie 13 (dossier vergeleken). Beleidsregels CVDR726222_2 per 2025-03-26.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (art. 2.30 leges: vellen van een houtopstand, bedoeld in artikel 4:11 APV, omgevingsplanactiviteit ex art. 5.1 lid 1 aanhef onder a Ow); omgevingsplan bevat alleen aanvraagvereisten (art. 22.299)",
+  "praktijkcontrole": "Bekendmakingen sinds 2025 (zoekmethode: titel): 461 in totaal, 177 besluiten, 233 aanvragen, 1 geweigerd volgens titel. Steekproef van 10 besluiten: geen grondslagcitaat over kap in de besluiten. Titels noemen ook kap in voor- en achtertuinen en kap van een conifeer en een eik; dat past bij een regime voor de hele kom. Het aantal zegt weinig: de zoekmethode mist soms besluiten.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning van het college) voor het vellen van houtopstand; verbod geldt niet voor bomen met stamomtrek < 95 cm (tenzij onderdeel van herplantplicht).",
+  "drempel": "Stamomtrek < 95 cm vrijgesteld (art. 4:11 lid 4 onder b: 'bomen die een stamomtrek hebben van minder dan 95 centimeter, tenzij de boom onderdeel is van een herplantplicht'); dus vergunning vanaf 95 cm",
+  "omtrek_cm": 95,
+  "meethoogte": "1,30 m boven het maaiveld (art. 4:10 lid 3 onder a: 'bij bomen wordt de stamomtrek gemeten op 1.30 m. boven het maaiveld'); bij meerstammigheid de dikste stam",
+  "reikwijdte": "Hele gemeente, particulier en openbaar: 'Het is verboden zonder omgevingsvergunning van het college een houtopstand te vellen of te doen vellen.' (art. 4:11 lid 1). Buiten de bebouwde kom/bebouwingscontour houtkap geldt het verbod niet (lid 4 onder j), tenzij de houtopstand een zelfstandige eenheid vormt tot max. 10 are of een rijbeplanting van niet meer dan 20 bomen. Bosplantsoen (stamomtrek < 95 cm, vanaf 150 m2) is vergunningplichtig; kleiner dan 150 m2 vrijgesteld. Binnen de kom geen tuinuitzondering. Bijzondere bomen (monumentaal/waardevol) vallen onder dezelfde regeling; gemeentelijke bijzondere bomen staan op de groenatlas, niet-gemeentelijke worden per aanvraag beoordeeld.",
+  "uitzonderingen": "Dode bomen; stamomtrek < 95 cm; bosplantsoen < 150 m2; niet-geknotte populieren/wilgen als wegbeplanting of eenrijige beplanting langs landbouwgrond; fruitbomen in bedrijfsmatige exploitatie en windschermen om boomgaarden; kerstbomen; kweekgoed; dunning; Plantenziektenwet of aanschrijving; spoed of direct gevaar. Geen uitzondering voor tuinen, achtertuinen, percelen of soorten bij particulieren, dus geen correctie op D.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11 lid 2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de vitaliteit van de houtopstand; g. de monumentale waarde van de houtopstand; of h. de positieve invloed van de houtopstand op het lokale klimaat.' Beleidsregels (CVDR726222_2 par. 4.1): puntentabel waardering/hinder; 'kan de omgevingsvergunning worden geweigerd'.",
+  "herplantplicht": "APV art. 4:12 lid 1: 'Het college kan aan de vergunning een herplantplicht verbinden.' Lid 2: 'Indien herplant niet tot de mogelijkheden behoort, kan het college aan de vergunning het voorschrift verbinden, dat een financiële compensatie moet worden betaald in het belang van de instandhouding van het bomenbestand.' Beleidsregels: 'Wanneer een kap onvermijdelijk is, geldt een herplantplicht als basisprincipe.' en 'Wordt besloten tot oplegging van een herplantplicht ... dan wordt bij de formulering van het daarop betrekking hebbende vergunningvoorschrift uitgegaan van de aantallen en maten zoals genoemd in de compensatietabel'. Termijn herplant: twee jaar. Bij herplant hoort een instandhoudingsplicht.",
+  "herplant_ontsnapping": "Bevoegdheid van het college (art. 4:12 lid 1 'kan'); beleid: 'basisprincipe'. Uitweg via betaling: 'Is er geen locatie voor een nieuw aan te planten boom te vinden, dan kan een financiële compensatie worden geëist' (beleidsregels par. 5); inleiding beleidsregels: 'Om dit te voorkomen dient de initiatiefnemer van de kap een geldelijke storting te doen.' Beslist het college per geval.",
+  "sancties": "Art. 6:1 lid 1: '... gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.' Lid 3: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op de in dat artikel genoemde overtredingen.' (verwijzing onduidelijk, 'in dat artikel'). Route: WED via Ow 5.1, want leges art. 2.30 noemt het vellen een omgevingsplanactiviteit. Herplantverplichting na illegale kap: art. 4:12A lid 1 'kan'. Bestuurlijke boete alleen in beleid: 'In het geval van kap zonder vergunning kan het college een boete ter compensatie opleggen aan de eigenaar van de boom.' (beleidsregels par. 5) en dus geen bestuurlijke boete in de regeling zelf.",
+  "procedure": "Leges (CVDR752072_2 art. 2.30): € 64,15, plus € 15,95 per boom vanaf de tweede boom, maximum € 228,70. Vergunning geldig drie jaar (art. 4:11a). Beslistermijn en bezwaar/beroep volgens de Omgevingswet en Awb; niet apart in de kapartikelen. Publicatie: kapbesluiten worden bekendgemaakt in het Gemeenteblad.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12A lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Overtreding is strafbaar via art. 6:1 lid 1 ('hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'). Daarnaast algemeen instrumentarium.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem; het verbod geldt voor alle bomen vanaf 95 cm. Gemeentelijke bijzondere bomen staan op de groenatlas, niet-gemeentelijke worden per aanvraag beoordeeld.",
+  "status": "ok",
+  "ontbrekend": "Bijlagen bij de Beleidsregels houtopstanden 2024 (waarderings-, hinder- en compensatietabellen, bijlage 6 en 7) staan als tabel of 'Zie bijlage publicatie' en zijn niet in de tekst opgenomen; of financiële compensatie in de praktijk verplicht is, is daardoor niet vast te stellen.",
+  "artikelnummers": [
+    "APV art. 4:10",
+    "APV art. 4:11",
+    "APV art. 4:11a",
+    "APV art. 4:12",
+    "APV art. 4:12A",
+    "APV art. 6:1",
+    "APV art. 1:8",
+    "Leges art. 2.30",
+    "Beleidsregels houtopstanden 2024 par. 3.1, 4.1, 5",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: hele gemeente, drempel stamomtrek 95 cm (60-100 cm). Binnen de kom geen tuinuitzondering. Buiten de kom geldt een uitzondering (art. 4:11 lid 4 onder j), maar dat deel telt niet hoger dan binnen de kom.",
+    "W2: kan weigeren op waarden. Citaat: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;'. Beleid noemt wel 'bijzondere gevallen', maar niet 'slechts bij uitzondering'; terughoudendheid betreft alleen kap wegens overlast ('is het college terughoudend met het verlenen van een vergunning'). Daarom W2.",
+    "H1 (bereik 1-3): APV 'kan'. Beleidsregels (vastgesteld beleid, in CVDR geldend): 'Wanneer een kap onvermijdelijk is, geldt een herplantplicht als basisprincipe.' (basisprincipe telt als 'in principe': H1, max 2) en in de inleiding 'dient de initiatiefnemer van de kap een geldelijke storting te doen' als herplant niet kan (zou H3 geven), terwijl par. 5 zegt 'kan een financiële compensatie worden geëist'. Tegenstrijdig, daarom maximum 3.",
+    "S1: WED via Ow 5.1 (leges art. 2.30 noemt vellen omgevingsplanactiviteit) plus eigen strafbepaling art. 6:1 lid 1. Geen bestuurlijke boete in de regeling: de 'boete ter compensatie' staat alleen in beleidsregels (par. 5), dus S1 volgens besluit 14-11-2026. Het bereik loopt over een categoriegrens door H.",
+    "Compensatie of herplant alleen bij ruimtelijke projecten (beleidsregels par. 5 onder 5: 'Bij bomen in ruimtelijke projecten/ontwikkeling vindt er altijd een nadere afweging en compensatie plaats') en na illegale kap verhoogt H niet.",
+    "Peildatum: APV-versie 14 (ingang 2026-11-16) niet meegeteld; de kapartikelen zijn daarin gelijk. Omgevingsplan (CVDR696550_6) bevat alleen aanvraagvereisten (art. 22.299), de kapregel staat in de APV.",
+    "Boom A (80 cm) en boom B (40 cm) zijn beide kleiner dan 95 cm en dus vergunningvrij (tenzij onderdeel van een herplantplicht).",
+    "De beleidsregels noemen een toekomstig kaartwerk: 'Het in kaart brengen van alle niet gemeentelijke bijzondere bomen wordt uitgevoerd in het omgevingsplan. Deze moet voor 2032 gereed zijn.' Dat geldt nog niet en telt niet mee.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 2.44 is alleen de aanwijzing van de bebouwingscontour houtkap; art. 3.16 (belemmeringengebied bovengrondse kabel, 'het planten of kappen van een hoogopgaande plant of boom') is een gebiedsregel met een ander doel en telt niet voor D; art. 22.299 bevat alleen aanvraagvereisten. Geen aanvullende kapregel; D3 W2 H1 S1 ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Beleidsregel noemt herplant 'basisprincipe' en spreekt zichzelf tegen over verplichte storting ('dient' versus 'kan ... worden geëist'); het model geeft dan een bereik H1-3 dat de categoriegrens overschrijdt.",
+    "Art. 6:1 lid 3 verwijst voor de WED naar 'de in dat artikel genoemde overtredingen' zonder artikelnummers; de WED-aanwijzing is daardoor niet eenduidig en de route via Ow 5.1 (leges) is gebruikt."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "modelsignalen": [
+  "Meerdere ruime uitzonderingen tegelijk (alle coniferen behalve Douglas, Larix en Grove den; vruchtbomen; woonpercelen kleiner dan 300 m²) geven in het model maar één keer -1. Daardoor scoort Lochem D2, terwijl de drempel in de kom (diameter 30 cm, omtrek ca. 94 cm) al hoog is: de tuinuitzonderingen tellen in feite dubbel mee met de hoge drempel.",
+  "Voorbeeldtuin ca. 300 m² tegenover de grens 'minder dan 300 m²' (art. 5.4 lid 3 sub e): het model zegt niet of een perceel van precies of ca. 300 m² binnen de uitzondering valt. Hier niet doorslaggevend, omdat beide voorbeeldbomen al onder de diameterdrempel van 0,30 m vallen.",
+  "Drempel in de kom is een diameter van 'minder dan 0,30 m'; omgerekend 94,2 cm omtrek (D3), terwijl buiten de kom de grens op 10 cm diameter ligt maar tuinen en kleine bosjes zijn uitgezonderd. Het model heeft geen regel voor een lage drempel die buiten de kom alleen bij eenheden van minimaal 10 are geldt."
+ ],
+ "gm_code": "GM0262",
+ "gemeente": "Lochem",
+ "brondocument": "Verordening Fysieke Leefomgeving 2026 (CVDR765247_1) afd. 5.2 art. 5.4 t/m 5.10 en art. 6.1; APV Lochem (CVDR738193_1) afd. 4.3 grotendeels vervallen met verwijzing naar de VFL; Tarieventabel Leges 2026 art. 2.30 (CVDR766798_2); Omgevingsplan art. 22.299 (CVDR696549_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR765247/1 ; https://lokaleregelgeving.overheid.nl/CVDR766798/2 ; https://lokaleregelgeving.overheid.nl/CVDR738193/1",
+ "datum_geldigheid": "VFL 2026 (CVDR765247_1) geldend vanaf 2026-08-06 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "VFL 2026: versie 1 per 2026-08-06 (nieuwe vaststelling). Leges: versie 2 per 2026-10-01.",
+ "juridische_plaats": "VFL 2026 afd. 5.2, werkt als omgevingsplanactiviteit: leges art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de Verordening fysieke leefomgeving gemeente Lochem 2025 in samenhang met artikel 22.8 van de Omgevingswet'. VFL art. 6.1 lid 3 bevat ook een WED-aanwijzing. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 558 bekendmakingen op titel, waarvan 51 besluiten en 7 geweigerd (volgens titel). Steekproef van 10 besluiten (o.a. gmb-2026-473644, gmb-2026-507990): 'Bekendgemaakte Omgevingsvergunning voor het kappen van ...', vaak 'verleend 1 st. - herplant 1 st.'; sommige besluiten noemen ook 'vergunningsvrij' en 'geweigerd 3 st.' (gmb-2026-452761). Geen grondslag genoemd. Herplant lijkt in de praktijk veel voor te komen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand, art. 5.4 lid 1, met uitzonderingen in lid 3.",
+ "drempel": "Art. 5.4 lid 1: geen algemene drempel ('houtopstand'); lid 3 sub a: vrijgesteld zijn 'bomen met een stamdwarsdoorsnede van minder dan 0,10 m'; sub d: vrijgesteld binnen de bebouwde kom zijn 'bomen met een stamdiameter minder dan 0,30 m op 1,3 m hoogte'. Omgerekend binnen de kom: 0,30 m x 3,14 = ca. 94 cm omtrek.",
+ "omtrek_cm": 94,
+ "meethoogte": "1,3 m boven het maaiveld",
+ "reikwijdte": "Art. 5.4 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Hele gemeente, particulier en openbaar. Binnen de bebouwde kom (kaarten bij de verordening) geldt een diameterdrempel van 0,30 m (sub d) voor bomen die geen groeps-, rij- of singelbeplanting zijn. Buiten de bebouwde kom (sub i): 'houtopstand die gelegen is buiten een bebouwde kom' is vrijgesteld, 'tenzij de houtopstand een zelfstandige eenheid vormt die: ofwel geen grotere oppervlakte beslaat dan 10 are; ofwel bestaat uit rijbeplanting van niet meer dan 20 bomen'. Daarvoor geldt vanaf 10 cm doorsnede ('Boom' in bijlage 1 definities).",
+ "uitzonderingen": "Art. 5.4 lid 3: a. bomen kleiner dan 0,10 m doorsnede; b. niet geknotte populieren en wilgen langs wegen of eenrijige beplanting op of langs landbouwgronden; c. 'vruchtbomen (met consumptiefruit) en windschermen om boomgaarden met uitzondering van walnoten- en kastanjebomen'; d. bomen met stamdiameter minder dan 0,30 m binnen de kom, voorzover geen onderdeel van groeps-, rij- of singelbeplanting en niet aangeplant vanuit een herplantplicht; e. 'bomen op een aaneengesloten stuk grond van minder dan 300 m² gelegen binnen de bebouwde kom, waarop ingevolge de omgevingsplanregels een zelfstandige, bij elkaar behorende woonbebouwing is toegestaan en is aangelegd'; f. 'sparren, dennen, ceder en coniferen met uitzondering van Douglas, Larix en Grove den'; g. kweekgoed; h. dunning; i. houtopstand buiten de kom (zie reikwijdte); j. Plantenziektewet of aanschrijving; k. omgevingsplan; l. binnen agrarisch bouwvlak; m. periodiek knotten of kandelaberen; n. schade, gevaar of spoedeisend belang (noodkap burgemeester).",
+ "weigeringsgronden": "Art. 5.6: 'De vergunning kan in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' Art. 5.4 lid 2: nadere regels mogelijk; geen beleidsregel gevonden.",
+ "herplantplicht": "Art. 5.8 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 5.9 lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen storting of boomwaarde.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 5.8 lid 1); het bevoegd gezag beslist per geval. Geen uitweg via betaling. Na illegale kap eveneens 'kan' (art. 5.9 lid 1).",
+ "sancties": "WED-aanwijzing in de regeling: art. 6.1 lid 3: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens artikel 5.4, eerste lid, artikel 5.11 en artikel 5.14.' Daarnaast art. 6.1 lid 1: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Geen bestuurlijke boete gevonden. Herplant na illegale kap kan worden opgelegd (art. 5.9 lid 1).",
+ "procedure": "Leges 2026 (CVDR766798_2) art. 2.30: EUR 38,30. Beslistermijn: APV art. 1.2 acht weken (de VFL 2026 is niet apart op een eigen beslistermijnartikel doorzocht). Aanvraag: art. 5.5 en omgevingsplan art. 22.299. Publicatie in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "VFL art. 5.9 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6.1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 2.3 gegeven voorschriften en beperkingen wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem; art. 4.12g APV (monumentale bomen) is vervallen.",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien. Handhavings- en herplantbeleid op de gemeentelijke website niet ingezien (niet in het dossier). Bezwaar en beroep niet apart gelezen. Bebouwde-kom-kaarten niet ingezien.",
+ "artikelnummers": [
+  "VFL 2026 art. 5.4, 5.5, 5.6, 5.8, 5.9, 6.1",
+  "APV art. 4.10-4.12j (vervallen), 1.2, 6.1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D2: binnen de kom drempel bij een diameter van 0,30 m = ca. 94 cm omtrek (D3, 60-100 cm); omdat alle vruchtbomen en alle coniferen (behalve Douglas, Larix, Grove den) en kleine woonpercelen zijn uitgezonderd, geldt correctie -1 voor dat deel (D2). Buiten de kom is houtopstand alleen beschermd als zelfstandige eenheid van meer dan 10 are of rijbeplanting; tuinen vallen daar niet onder, dus aangewezen gebied (hooguit D2). Hoogste deel = D2.",
+  "Uitzondering sub e (minder dan 300 m², woonbebouwing, binnen de kom) is niet nodig voor de correctie: de conifeer- en vruchtboomuitzondering volstaan. De voorbeeldtuin ca. 300 m² valt niet duidelijk onder 'minder dan 300 m²'.",
+  "Boom A (omtrek 80 cm, ca. 25 cm doorsnee) en boom B (40 cm, ca. 13 cm) staan beide in een tuin in de kom, zijn kleiner dan 0,30 m en dus vrijgesteld (art. 5.4 lid 3 sub d), mits geen onderdeel van groeps-, rij- of singelbeplanting.",
+  "W2: 'De vergunning kan in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 5.6): kan-weigering op natuur-, landschaps- en andere waarden. Geen strengere beleidsregel gevonden.",
+  "H1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' (art. 5.8 lid 1). Geen beleidsregel met een vaste herplantplicht gevonden. In de bekendmakingen komt herplant vaak voor (bijv. 'verleend 1 st. - herplant 1 st.'), maar dat is geen grondslag.",
+  "S1: WED-aanwijzing in de regeling (art. 6.1 lid 3), ook via de Omgevingswet (leges art. 2.30 noemt art. 22.8 Ow). De WED-aanwijzing verwijst ook naar art. 5.11 en 5.14, die in het dossier niet over kap gaan; de verwijzing naar 5.4 lid 1 klopt. Geen bestuurlijke boete gevonden.",
+  "Leges verwijst naar 'Verordening fysieke leefomgeving gemeente Lochem 2025' (CVDR738203_1, vervallen); de VFL 2026 (CVDR765247_1) is sinds 2026-08-06 geldend en is gescoord.",
+  "De APV (CVDR738193_1) heeft afdeling 4.3 laten vervallen ('staat in artikel 5.4 Verordening fysieke leefomgeving'); alleen art. 4.12h (bescherming openbare houtopstanden) staat nog, niet van belang voor particulier terrein."
+ ]
+}

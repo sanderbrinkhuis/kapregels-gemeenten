@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0361",
+  "gemeente": "Alkmaar",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening fysieke leefomgeving Alkmaar (VFL) hoofdstuk 9 Bomen, art. 9:1-9:7, 9:11, 10:1 (CVDR660526_7); Legesverordening Alkmaar 2026 tarief 2.4.11 en art. 4 onder t (CVDR750123_1); Omgevingsplan art. 22.299 (CVDR696288_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR660526/7",
+  "datum_geldigheid": "VFL: geldend van 2026-01-01 t/m heden (CVDR660526_7); leges: in werking 2025-12-17; omgevingsplan: in werking 2025-10-13",
+  "laatste_wijziging": "VFL versie 7, in werking 2026-01-01",
+  "juridische_plaats": "VFL hoofdstuk 9 (art. 9:3); werkt als omgevingsplanactiviteit volgens Leges 2026 tarief 2.4.11 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "532 bekendmakingen sinds 2025 (229 besluiten, 4 aanvragen, 12 geweigerd volgens titel). Steekproef van 10 besluiten noemt geen grondslag. Veel kapbesluiten voor gewone bomen (waaronder voortuin), vaak met herplant; past bij een breed regime met tuinuitzondering.",
+  "vergunningplicht": "omgevingsvergunning (kapvergunning)",
+  "drempel": "diameter 20 cm op 130 cm boven het maaiveld (art. 9:3 lid 2 onder a); bij meerstammigheid de dikste stam; monumentale en waardevolle bomen zonder drempel",
+  "omtrek_cm": 63,
+  "meethoogte": "130 cm",
+  "reikwijdte": "Hele gemeente, particulier en openbaar: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen (kapvergunning).' (art. 9:3 lid 1). Diameter 20 cm = ca. 63 cm omtrek. Buiten de tuinuitzondering geldt het dus voor bomen vanaf ca. 63 cm omtrek.",
+  "uitzonderingen": "Art. 9:3 lid 2 onder b: 'de stad Alkmaar, zoals aangegeven op kaart die hoort bij deze verordening, voor alle houtopstand in tuinen bij woningen op een perceel van minder dan 200 m², niet zijnde een monumentale of waardevolle boom; voor het overige grondgebied van de gemeente Alkmaar voor alle houtopstand in tuinen bij woningen niet zijnde een monumentale of waardevolle boom'. Dus in de stad zijn tuinen bij woningen tot 200 m² vrij, in de overige kernen en het buitengebied alle tuinen bij woningen. Verder vrij: Plantgezondheidswet of aanschrijving, periodiek knotten of kandelaberen als regulier onderhoud (art. 9:3 lid 2 onder c en d). Spoedeisend belang: toestemming mogelijk (art. 9:11). Bomen die als herplant zijn geplant blijven vergunningplichtig ook onder de maat (lid 3). De kaart van de stad is niet ingezien.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 9:4 lid 1: 'In afwijking van artikel 1:3 kan de kapvergunning worden geweigerd als de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden:' natuur- en milieuwaarden, landschappelijke waarden, cultuurhistorische waarden, waarden van stads- en dorpsschoon, waarden voor recreatie en leefbaarheid. Voor monumentale of waardevolle bomen (art. 9:4 lid 2) 'alleen worden verleend als: a. een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud'.",
+  "herplantplicht": "Art. 9:6 lid 1 onder a: 'Aan de kapvergunning kunnen voorschriften en beperkingen worden verbonden die inhouden dat: a. binnen een bepaalde termijn en op grond van de door het bevoegd gezag te geven aanwijzingen moet worden herplant;'. Dus een bevoegdheid ('kunnen'). Na illegale kap: art. 9:7 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'. Geen financiële compensatie of boomwaarde gevonden.",
+  "herplant_ontsnapping": "geen uitweg opgenomen; herplant is een bevoegdheid van het bevoegd gezag ('kunnen', 'kan'); het bevoegd gezag beslist per geval",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 1:4 lid 2 VFL: 'Degene aan wie een vergunning of ontheffing is verleend, moet de daaraan verbonden voorschriften en beperkingen nakomen.' Dat artikel is volgens lid 3 niet van toepassing op een omgevingsvergunning. De strafbepaling art. 10:1 VFL noemt art. 9:3, 9:6 en 9:7 niet. Voor het niet nakomen is dus niets specifieks geregeld; alleen het algemene instrumentarium (bestuursdwang, dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "S1: WED via Omgevingswet 5.1: de legesverordening noemt het kappen een 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'. Daarnaast herplantplicht na illegale kap (art. 9:7 lid 1). De strafbepaling art. 10:1 noemt art. 9:3 niet (alleen 9:9 lid 2 en 9:10 in lid 3): onjuiste of ontbrekende verwijzing. Geen bestuurlijke boete voor kappen gevonden.",
+  "procedure": "Omgevingsvergunning; leges 243,78 euro voor het kappen van een particuliere boom (tarief 2.4.11), nultarief bij stormschade, ouderdom of ziekte (en op gemeentegrond); vergunningvrije aanvragen zijn vrijgesteld van leges (art. 4 onder t). Beslistermijn: VFL art. 1:2 is niet van toepassing op een omgevingsvergunning (Omgevingswet-termijn geldt). Vergunning vervalt na twee jaar zonder gebruik (art. 9:5). Bezwaar en beroep volgens Awb.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst monumentale en waardevolle bomen (art. 9:2) niet ingezien; naast een breed regime, dus niet bepalend voor D",
+  "status": "ok",
+  "ontbrekend": "Kaart bij art. 9:3 lid 2 onder b (begrenzing 'de stad Alkmaar') en de lijst monumentale en waardevolle bomen (art. 9:2) niet ingezien; geen van beide verandert D. Geen beleidsregel over herplant, compensatie of handhaving van de kap in het dossier gevonden.",
+  "artikelnummers": [
+    "VFL art. 1:2, 1:3, 1:4, 9:1-9:7, 9:11, 10:1",
+    "Leges 2026 tarief 2.4.11, art. 4 onder e en t",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D: hele gemeente, diameter 20 cm = ca. 63 cm omtrek, drempel 60-100 cm geeft D3. Tuinuitzondering: in de stad 'tuinen bij woningen op een perceel van minder dan 200 m²', daarbuiten alle tuinen bij woningen. Dat is een ruime uitzondering (-1) voor beide delen, dus D = 3 - 1 = 2. Het gebied buiten de tuinen (voorbeeld: tuinen bij bedrijven, erven zonder woning, openbare grond) blijft D3, maar de correctie geldt voor het deel dat de tuinbomen vormt.",
+    "Voorbeeldbomen: boom A (80 cm omtrek, ca. 25 cm doorsnee) in een achtertuin bij een woning op 300 m²: in de stad Alkmaar vergunningplichtig (perceel niet kleiner dan 200 m²); in de overige kernen en het buitengebied vrij, want alle tuinen bij woningen zijn daar uitgezonderd. Gescoord voor de stad. Boom B (40 cm omtrek, ca. 13 cm doorsnee) is onder de drempel van 20 cm, dus vrij.",
+    "W: 'kan de kapvergunning worden geweigerd als de belangen van verlening niet opwegen tegen de belangen van behoud' met de gebruikelijke waarden: W2 zonder bereik (besluit gebruiker). Strenger voor monumentale en waardevolle bomen (alleen bij zwaarwegend maatschappelijk belang), alleen vermeld.",
+    "H: 'Aan de kapvergunning kunnen voorschriften en beperkingen worden verbonden die inhouden dat: a. ... moet worden herplant' = H1. Praktijk: veel besluiten vermelden herplant (bijv. gmb-2026-507122, gmb-2026-496130), maar dat maakt het in de regeling geen vast voorschrift.",
+    "S: Omgevingsplanactiviteit volgens de legesverordening geeft S1 zonder bereik (besluit gebruiker). Foute of ontbrekende verwijzing: art. 10:1 lid 1 VFL noemt art. 9:3 niet; art. 9:7 ook niet.",
+    "Rekenvoorbeeld: D2, I = 2+1+1 = 4, strengheid = 2/4 x (40 + 60 x 4/9) = 33.",
+    "Het begrip vellen omvat ook 'snoeien van meer dan 30 procent van de kroon' (art. 9:1 onder i); dat maakt het regime strenger voor snoeiwerk, maar verandert de score niet.",
+    "Praktijk: de bekendmakingen noemen de grondslag niet. 229 besluiten sinds 2025 is een indicatie van een breed regime, geen bewijs voor de grondslag. Een besluit voor 'een hoge boom (voortuin)' (gmb-2026-525245) past bij de tuinuitzondering voor percelen vanaf 200 m² in de stad of bij een voortuin; de tekst noemt geen grondslag.",
+    "Open punt: de kaart bij art. 9:3 lid 2 onder b is niet ingezien; de bomenlijst (art. 9:2) is niet ingezien.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D2 → D3. D per deel: stad (tuinen < 200 m² vrij, geen −1) D3; overig grondgebied (alle tuinen bij woningen vrij, −1) D2; hoogste telt."
+  ],
+  "modelsignalen": [
+    "Alkmaar: de tuinuitzondering verschilt per gebied (stad tot 200 m², overig grondgebied alle tuinen). De uitzondering geldt op beide delen, dus D-1 voor beide; het model kent geen aparte afweging als de voorbeeldboom (300 m²) in het ene deel wel en in het andere deel niet vergunningplichtig is. Het rapport laat A en B als feit voorgaan.",
+    "Art. 10:1 VFL noemt art. 9:3 en 9:7 niet in de strafbepaling; S1 komt hier alleen uit de leges (omgevingsplanactiviteit)."
+  ]
+}

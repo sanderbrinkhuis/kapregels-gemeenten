@@ -1,0 +1,80 @@
+{
+ "provincie": "Gelderland",
+ "gm_code": "GM0197",
+ "gemeente": "Aalten",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Waardevolle Bomenlijst (art. 14) is een aanvulling op het brede regime; lijst en kaart niet ingezien en niet geteld. Bijlage 3 spreekt wel over 'Beschermde houtopstanden van particulieren', dus er staan particuliere bomen op.",
+ "modelsignalen": [
+  "Het artikel zegt 'Bomen met een stamomvang van minstens 0,90 m', terwijl de toelichting spreekt van 'groter dan 0,90 m' (bij 'Belangrijkste wijzigingen' vergunningplichtig bij 'een grotere stamomvang dan 0,90 m'). Gescoord op het artikel (omtrek 90 cm); het verschil verandert D niet.",
+  "De verordening is geschreven in 'je'-vorm en mengt toelichting en norm ('Dit betekent dat...'). Dat maakt het lastig om te bepalen wat bindende tekst is; het model heeft geen regel voor verordeningen waarin uitleg en artikel door elkaar staan.",
+  "Naast de omtrekdrempel geldt een aparte oppervlaktenorm voor houtopstanden en bomengroepen (meer dan 100 m2 binnen de bebouwingscontour) zonder omtrekdrempel; het model vangt dat alleen via de regel 'houtopstand zonder drempel naast boom met drempel'."
+ ],
+ "brondocument": "Kapverordening gemeente Aalten 2026 (CVDR758309_1), art. 1, 2, 3, 7, 10, 11, 14 en bijlage 3; Verordening op de heffing en de invordering van leges 2026 (CVDR751427_1) art. 2.30; Omgevingsplan (CVDR696211_2) art. 22.289; APV 2015 (CVDR374289_6) art. 4:10 t/m 4:12 en 6:1",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR758309/1 ; https://lokaleregelgeving.overheid.nl/CVDR751427/1 ; https://lokaleregelgeving.overheid.nl/CVDR696211/2 ; https://lokaleregelgeving.overheid.nl/CVDR374289/6",
+ "datum_geldigheid": "Kapverordening CVDR758309_1 geldend vanaf 2026-03-19 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "Versie 1 per 2026-03-19 (nieuwe vaststelling; vervangt de Kapverordening gemeente Aalten 2011, CVDR107409_1, die per 2026-03-19 is uitgewerkt).",
+ "juridische_plaats": "Losse Kapverordening gemeente Aalten 2026; werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('het vellen van een houtopstand, bedoeld in de Kapverordening gemeente Aalten in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.289 bevat alleen aanvraagvereisten. APV art. 4:10 t/m 4:12: 'Vervallen.'",
+ "praktijkcontrole": "Sinds 2025: 118 bekendmakingen op volledige tekst (benadering, kan niet-kapbesluiten bevatten), waarvan 58 besluiten en 0 weigeringen volgens titel. De titels zijn algemeen ('Kennisgeving besluit op omgevingsvergunning') en de steekproef van 10 noemt geen grondslag; er is niet vast te stellen hoeveel besluiten kap betreffen. De zoekmethode mist mogelijk besluiten.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) van het gemeentelijk bevoegd gezag: art. 2 'Je mag geen bomen of houtopstanden kappen, zwaar snoeien of verwijderen zonder een vergunning van het gemeentelijk bevoegd gezag.' Daarnaast een meldplicht voor o.a. singelbeplanting op een erf buiten de bebouwingscontour, dode bomen en kap op bouwplaatsen (art. 4), waarbij het bevoegd gezag toestemming geeft of weigert.",
+ "drempel": "Art. 2 lid 1: 'Bomen met een stamomvang van minstens 0,90 m (gemeten op 1,30 meter hoogte van de grond).' Omtrek 90 cm, geen omrekening nodig. Daarnaast art. 2 lid 2: 'Bomengroepen, houtopstanden of percelen met bomen groter dan 100 m2 binnen de bebouwingscontour houtkap' zonder omtrekdrempel.",
+ "omtrek_cm": 90,
+ "meethoogte": "1,30 m boven de grond",
+ "reikwijdte": "Hele gemeente, particulier en openbaar, binnen en buiten de bebouwingscontour houtkap: 'Binnen de bebouwde kom gelden voor het kappen van houtopstanden de gemeentelijke regels ... Buiten de bebouwde kom gelden deze regels ook.' Buiten de contour gelden vanaf 21 bomen in een rij of 1.000 m2 bos de provinciale regels (art. 2 lid 3 en 4, art. 3 lid 5 en 6; Bal), dat valt buiten de gemeentelijke regels. Geen uitzondering voor tuinen of erven in de verordening zelf (bijlage 1 geeft alleen de Bal-uitzonderingen weer). Ook bomen van de Waardevolle Bomenlijst (art. 2 lid 6, art. 14) en herplantbomen (art. 2 lid 5) zijn vergunningplichtig.",
+ "uitzonderingen": "Art. 3: onderhoud (dunnen, periodiek afzetten, snoei van knot- en kandelaberbomen), kerstbomen, kweekgoed, bossen groter dan 1.000 m2 en rijen van 21 bomen of meer buiten de contour (provinciale regels), 'Bomen die gekapt moet worden vanwege gevaar, ziekte of een opdracht van de gemeente Aalten' (wel melden), dode bomen (wel melden). Geen tuin-, soort- of oppervlakte-uitzondering voor particuliere tuinen: geen correctie.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 7 lid 1: 'Het gemeentelijk bevoegd gezag geeft de vergunning voor het kappen van bomen of struiken alleen (of voorwaarden stellen) als de bomen of struiken geen belangrijke waarde hebben.' Waarden: natuur en milieu, landschap, cultuur en geschiedenis, 'Het behoud van een mooie omgeving', leefklimaat (o.a. hittestress), straatbeeld, toekomstwaarde, Waardevolle Bomenlijst. Lid 3: 'Het gemeentelijk bevoegd gezag van kijkt ook naar de waarde van de boom zelf'. Art. 14 lid 2 voor lijstbomen: 'geeft het gemeentelijk bevoegd gezag geen omgevingsvergunning, behalve' bij gevaar of zwaarwegende belangen (alleen lijstbomen). W = 2, maximaal 3.",
+ "herplantplicht": "Art. 11 lid 1: 'Als je een vergunning krijgt om een boom te kappen, moet je twee nieuwe bomen terugplanten.' Art. 10 lid 1 sub a: 'Als je een omgevingsvergunning krijgt voor het kappen van een boom, moet je na het kappen twee nieuwe bomen planten.' Art. 10 lid 1 sub e: 'Als er geen plek is om een nieuwe boom te planten, verplicht het gemeentelijk bevoegd gezag tot betaling van een geldbedrag. Dit wordt per vergunningsaanvraag beoordeeld aan de hand van de boomwaarde (zie artikel 17).' Standaard herplant plus verplichte financiele compensatie: H = 3. Art. 10 lid 1 zegt wel dat het bevoegd gezag 'mag' extra regels aan de vergunning verbinden; de artikelen 10 sub a en 11 formuleren de plicht zelf als 'moet'.",
+ "herplant_ontsnapping": "Uitweg via betaling: 'Als er geen plek is om een nieuwe boom te planten, verplicht het gemeentelijk bevoegd gezag tot betaling van een geldbedrag' (art. 10 lid 1 sub e; art. 13 lid 4 voor kap bij bouw). Het college beslist per vergunning over soort, maat, termijn en plek (art. 11 lid 3). Geen 'tenzij'- of 'in beginsel'-clausule.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Art. 11 lid 7: 'Iedereen die van het gemeentelijk bevoegd gezag een verplichting krijgt op basis van dit artikel (ook een nieuwe eigenaar), moet zich aan deze regels houden.' Art. 11 lid 8: 'Deze aanwijzingen moeten worden opgevolgd.' De verordening bevat geen strafbepaling en geen bestuurlijke boete; APV art. 6:1 geldt voor de artikelen van de APV. Alleen het algemene instrumentarium (bestuursdwang, dwangsom). Of de WED via Ow 5.1 ook een voorschrift raakt, is niet in de bron vastgesteld.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via Ow 5.1 (omgevingsplanactiviteit, leges art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'). Geen eigen strafbepaling in de Kapverordening, geen bestuurlijke boete. Vergunning intrekken bij niet naleven voorschriften of kappen voor onherroepelijk (art. 8 lid 3). Beleidsplan VTH (CVDR726401_1) noemt controle op kapvergunningen en herplant, zonder norm of boete. S = 1.",
+ "procedure": "Leges 2026 art. 2.30: EUR 89,00 per aanvraag. Aanvraag via het Omgevingsloket (art. 5); besluit binnen acht weken, eenmaal te verlengen met zes weken (art. 6 lid 2 en 3); bekendmaking in het lokale huis-aan-huisblad; bezwaar binnen zes weken; kappen pas na onherroepelijk worden (art. 6 lid 5 en 6). Melding zes weken vooraf (art. 4 lid 2). Vergunning vervalt een jaar na onherroepelijk worden (art. 9).",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "De Waardevolle Bomenlijst en de bijbehorende kaart staan niet in het dossier en zijn niet ingezien; het aantal (particuliere) lijstbomen is onbekend. Gecombineerd systeem: het brede regime bepaalt D, dus de score verandert niet. Genoemd maar niet in het dossier: Groenbeleidsplan, Regeling Waardevolle bomen Gemeente Aalten 2006 (bijlage 3) en de Klimaatadaptatiestrategie en het Biodiversiteitsplan (2023); of een beleidsregel over herplant bestaat is niet gecontroleerd. Gemeentelijke website en DSO niet geraadpleegd. Herplant na illegale kap: de tekst noemt alleen 'erfbeplanting ... is gekapt' (art. 11 lid 2), niet expliciet illegale kap.",
+ "artikelnummers": [
+  "Kapverordening 2026 art. 1, 2, 3, 4, 6, 7, 8, 10, 11, 13, 14, 17 en bijlage 1 t/m 3",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.289",
+  "APV 2015 art. 4:10 t/m 4:12 en 6:1"
+ ],
+ "opmerkingen": [
+  "W: 'Het gemeentelijk bevoegd gezag geeft de vergunning voor het kappen van bomen of struiken alleen (of voorwaarden stellen) als de bomen of struiken geen belangrijke waarde hebben.' (art. 7 lid 1). Behandeld als 'wordt slechts verleend als geen afbreuk wordt gedaan aan de waarden': W2, maximum 3.",
+  "H: 'Als je een vergunning krijgt om een boom te kappen, moet je twee nieuwe bomen terugplanten.' (art. 11 lid 1) plus verplichte betaling als er geen plek is (art. 10 lid 1 sub e): H3.",
+  "Drempel: artikel 2 lid 1 noemt een stamomvang van minstens 0,90 m; de definitie van boom (art. 1 sub e) noemt 'een stamomtrek van minstens 0,30 m' maar dat is de definitie, niet de vergunningdrempel. De toelichting ('Belangrijkste wijzigingen') zegt: 'Bomen binnen de bebouwingscontour houtkap tot een stamomvang van 0,90 m zijn omgevingsvergunningvrij. Bomen met een grotere stamomvang dan 0,90 m zijn vergunningplichtig.' Gescoord op het artikel.",
+  "Houtopstanden zonder omtrekdrempel: art. 2 lid 2 maakt 'Bomengroepen, houtopstanden of percelen met bomen groter dan 100 m2 binnen de bebouwingscontour houtkap' vergunningplichtig. Gescoord op de drempel voor bomen (90 cm), zoals het model voorschrijft.",
+  "Voorbeeldbomen: boom A (80 cm) en B (40 cm) liggen onder de drempel van 90 cm en zijn in een tuin van ca. 300 m2 vrij; er is geen tuinuitzondering, dus geen correctie.",
+  "Provinciaal regime: buiten de bebouwingscontour houtkap gelden vanaf 21 bomen in een rij of 1.000 m2 bos de provinciale regels (kapmelding en herplant, Bal 11.111 e.v.); dat deel valt buiten de score.",
+  "Waardevolle Bomenlijst (art. 14): 'geeft het gemeentelijk bevoegd gezag geen omgevingsvergunning, behalve' bij gevaar of zwaarwegende belangen. Strenger regime voor lijstbomen, alleen vermeld; het brede regime bepaalt D en I.",
+  "Compensatie of herplant bij kap voor bouw- of aanlegplannen (art. 13 lid 3 en 4) telt niet voor H; de compensatie in art. 10 sub e telt wel omdat die bij gewone vergunningverlening geldt.",
+  "Boomwaarde (art. 17) wordt volgens NVTB-rekenmodel vastgesteld voor schadevergoeding; in art. 10 sub e als maatstaf voor het geldbedrag bij compensatie."
+ ]
+}

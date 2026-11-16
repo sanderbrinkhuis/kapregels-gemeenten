@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0777/2025/Regelingfe0cca1a6b7c4c1cb1941c4430c8e97f",
+    "titel": "Voorbereidingsbesluit huisvesting arbeidsmigranten en overige personen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0777/2025/Regelingfe0cca1a6b7c4c1cb1941c4430c8e97f/nld@2025-03-11;11030181",
+    "beginGeldigheid": "2025-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0777_2025_Regelingfe0cca1a6b7c4c1cb1941c4430c8e97f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0777/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Etten-Leur",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0777/2020/omgevingsplan/nld@2026-06-26;09440547",
+    "beginGeldigheid": "2026-09-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0777_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:10Z"
+  }
+]

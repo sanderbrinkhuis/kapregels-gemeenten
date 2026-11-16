@@ -1,0 +1,27 @@
+{
+  "gemeente": "Papendrecht",
+  "gm_code": "GM0590",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Papendrecht",
+  "zoeknaam_bekendmakingen": "Papendrecht",
+  "opgehaald_op": "2026-11-16T10:35:41+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Papendrecht\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 95,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Papendrecht\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 21,
+  "geldende_regelingen": 28,
+  "geldend_met_kapartikelen": [
+    "CVDR467643_3",
+    "CVDR643926_5",
+    "CVDR696356_4",
+    "CVDR724392_1",
+    "CVDR749995_3"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 10,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

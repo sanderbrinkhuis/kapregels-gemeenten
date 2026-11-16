@@ -1,0 +1,27 @@
+{
+  "gemeente": "Schiermonnikoog",
+  "gm_code": "GM0088",
+  "provincie": "Fryslân",
+  "zoeknaam_cvdr": "Schiermonnikoog",
+  "zoeknaam_bekendmakingen": "Schiermonnikoog",
+  "opgehaald_op": "2026-11-14T14:45:57+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Schiermonnikoog\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 42,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Schiermonnikoog\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 24,
+  "geldende_regelingen": 10,
+  "geldend_met_kapartikelen": [
+    "CVDR696181_3",
+    "CVDR719427_1",
+    "CVDR748203_2",
+    "CVDR769150_1",
+    "CVDR91357_1"
+  ],
+  "bekendmakingen_besluiten": 2,
+  "bekendmakingen_aanvragen": 11,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

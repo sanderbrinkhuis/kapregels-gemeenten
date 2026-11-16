@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0415",
+  "gemeente": "Landsmeer",
+  "provincie": "Noord-Holland",
+  "brondocument": "Algemene plaatselijke verordening gemeente Landsmeer 2024 (CVDR735333_1) afd. 4.3 art. 4:10, 4:11, 6:1; Verordening leges 2026 (CVDR753080_1) art. 2.30; Beleidsplan groenbeheer (CVDR734836_1) par. 3.2; Omgevingsplan (CVDR696309_2) art. 22.299 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR735333/1 ; https://lokaleregelgeving.overheid.nl/CVDR753080/1 ; https://lokaleregelgeving.overheid.nl/CVDR734836/1",
+  "datum_geldigheid": "APV: geldend van 19-02-2025 t/m heden; leges: geldend van 30-12-2025 t/m heden; Beleidsplan groenbeheer: geldend van 31-01-2025 t/m heden",
+  "laatste_wijziging": "APV in werking 19-02-2025 (CVDR735333_1, eerste versie van de APV 2024)",
+  "juridische_plaats": "APV (art. 4:11), werkt als omgevingsplanactiviteit volgens de legesverordening art. 2.30 ('in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "1 bekendmaking sinds 2025 (gmb-2025-250711); die gaat over het veranderen van een dakkap (bouwactiviteit) en niet over het kappen van een boom. Geen kapbesluiten voor bomen gevonden; dat past bij een stelsel met alleen een bomenlijst. Open punt: de zoekactie vond maar 1 bekendmaking, dus de praktijk is niet te toetsen. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 10 bekendmakingen sinds 1-1-2025, waarvan 1 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Bomenlijst staan; alle andere bomen vrij",
+  "drempel": "geen omtrekdrempel; alleen bomen op de door het college vastgestelde Bomenlijst. Definitie boom: 'een houtig opgaand gewas met een stamdiameter van minimaal 10 centimeter op 130 centimeter hoogte boven het maaiveld'.",
+  "omtrek_cm": null,
+  "meethoogte": "130 cm (definitie boom, art. 4:10 onder d)",
+  "reikwijdte": "Alleen individuele houtopstanden op de Bomenlijst: 'een door het college vastgestelde lijst van particuliere waardevolle bomen' (art. 4:10 onder e) en art. 4:11 lid 1: 'waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld'. Hele gemeente. Een 'gebiedenkaart' wordt wel gedefinieerd (art. 4:10 onder i) maar in art. 4:11 niet gebruikt.",
+  "uitzonderingen": "Art. 4:11 lid 4: 'Het verbod is niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Gangbare uitzonderingen.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien; het Beleidsplan groenbeheer noemt ca. 150 waardevolle bomen op een 'niet vastgestelde' lijst (gemeentelijke en particuliere bomen samen, niet uit te splitsen)",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' (W2, belangenafweging)",
+  "herplantplicht": "APV art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleidsplan groenbeheer par. 3.2: 'Bomen die op de lijst van Waardevolle Bomen staan zijn vergunningsplichtig en kennen een herplantplicht.' en 'bij de bescherming ... waarbij in principe herplant en compensatie plaatsvindt'. Het plan beschrijft het stelsel en is geen beleidsregel die herplant tot vast voorschrift maakt; de regeling zelf zegt 'kan' (H1, max 2).",
+  "herplant_ontsnapping": "Bevoegdheid ('kan'), per geval door het bevoegd gezag; verder geen uitweg geformuleerd. Geen betaling als alternatief gevonden.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niets specifieks over herplant geregeld. Voor de APV geldt art. 6:1 lid 1: 'Behoudens het bepaalde in de Wet economische delicten wordt overtreding van de artikelen van deze verordening en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'; art. 1:4 lid 3 zegt echter 'Dit artikel is niet van toepassing op een omgevingsvergunning'. Voor een omgevingsvergunning geldt dus het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Art. 6:1 lid 1 APV: 'Behoudens het bepaalde in de Wet economische delicten wordt overtreding van de artikelen van deze verordening ... gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. De legesverordening (art. 2.30) noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': WED via Ow 5.1 (S = 1, besluit gebruiker). Geen bestuurlijke boete in de regeling.",
+  "procedure": "Leges art. 2.30: EUR 429 (tarief 2026, tweede kolom EUR 441 in de tabel). Beslistermijn APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning (Omgevingswet-termijn geldt). Publicatie in het Gemeenteblad niet vastgesteld uit de tekst.",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "onzeker",
+  "ontbrekend": "De Bomenlijst zelf is niet gevonden (website landsmeer.nl kort doorzocht, geen lijst of kaart). Het Beleidsplan groenbeheer (CVDR734836_1, par. 3.2) zegt dat de lijsten 'niet vastgesteld' zijn: 'Voor particuliere bomen is er ook een niet vastgestelde lijst.' Als er geen vastgestelde lijst bestaat, beschermt art. 4:11 geen enkele boom (D = 0). Of het college de lijst na het plan heeft vastgesteld, blijkt niet uit de bronnen. Het omgevingsplan in het DSO is niet ingezien. Slechts 1 bekendmaking sinds 2025 gevonden, en die gaat niet over bomen.",
+  "artikelnummers": [
+    "APV 2024 art. 4:10, 4:11 lid 1-5, 6:1, 1:2, 1:4, 1:8",
+    "Leges 2026 art. 2.30",
+    "Beleidsplan groenbeheer par. 3.2",
+    "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D1 (alleen individuele bomen op de Bomenlijst), bereik vanaf D0 omdat de lijst niet is ingezien en volgens het Beleidsplan groenbeheer niet is vastgesteld.",
+    "W2: art. 4:11 lid 3 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; ...'. Art. 1:8 (openbare orde, veiligheid, volksgezondheid, milieu) komt daar nog bij.",
+    "H1: art. 4:11 lid 5 'kan een herplantplicht opleggen'. Het Beleidsplan groenbeheer zegt 'in principe herplant en compensatie'; dat is een beschrijving van het stelsel en geen vast voorschrift, daarom maximum 2.",
+    "Het Beleidsplan groenbeheer gaat grotendeels over gemeentelijk groen; alleen par. 3.2 beschrijft het APV-stelsel voor de lijst. De 'Regeling bomen niet openbare schoolpleinen' (CVDR761460_1) is een subsidieregeling en telt niet.",
+    "De APV noemt de lijst een 'lijst van particuliere waardevolle bomen' (art. 4:10 onder e), terwijl art. 4:11 lid 1 spreekt over 'monumentale en andere beschermenswaardige bomen in de gemeente'. Het is daarom niet zeker dat alleen particuliere bomen op de lijst staan.",
+    "Het kapverbod art. 4:12 is vervallen. Art. 4:11 lid 5 en lid 3 gelden sinds 19-02-2025 in de APV 2024.",
+    "Het Beleidsplan noemt een drempel van 60 cm stamdiameter als aanwijscriterium voor waardevolle bomen bij de inspectie van 2019; dat is geen kapdrempel."
+  ],
+  "modelsignalen": [
+    "Een bomenlijst waarvan het beleidsplan zegt dat ze nog niet formeel is vastgesteld: het model kent geen D-regel voor een lijstverplichting zonder vastgestelde lijst; hier D = 1 met min 0."
+  ]
+}

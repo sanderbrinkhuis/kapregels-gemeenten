@@ -1,0 +1,91 @@
+{
+  "gm_code": "GM0503",
+  "gemeente": "Delft",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Bomenverordening Delft 2025 (CVDR757551_1) art. 1.2, 2.1, 2.2, 3.2-3.7, 3.9, 3.11, 4.1, 4.2, 5.1 en bijlagen 1, 4 en 5; Verordening op de heffing en de invordering van leges Delft 2026 art. 2.30 (CVDR749246_3); Omgevingsplan art. 22.299 (CVDR696334_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR757551/1 ; https://lokaleregelgeving.overheid.nl/CVDR749246/3 ; https://lokaleregelgeving.overheid.nl/CVDR696334/2",
+  "datum_geldigheid": "Bomenverordening CVDR757551_1 geldend vanaf 2026-02-25 t/m heden (peildatum scoren 2026-11-16); leges CVDR749246_3 vanaf 2026-07-15",
+  "laatste_wijziging": "Bomenverordening: eerste versie (CVDR757551_1), in werking 2026-02-25, vervangt de Bomenverordening gemeente Delft 2013; bijlage 4 (lijst) vastgesteld bij raadsbesluit van 29-01-2026. Leges: versie 3 per 2026-07-15.",
+  "juridische_plaats": "Losse bomenverordening die als omgevingsplanactiviteit werkt: art. 3.2 vereist een 'omgevingsvergunning omgevingsplanactiviteit' en de legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit in samenhang met artikel 22.8 van de Omgevingswet. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 262 bekendmakingen op titel, waarvan 106 besluiten en 5 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. Veel verleningen voor een enkele boom met herplant of wegens ziekte en enkele weigeringen passen bij een breed regime binnen de bebouwingscontour.",
+  "vergunningplicht": "Omgevingsvergunning (omgevingsplanactiviteit 'vellen houtopstand'), art. 3.2: 'Het is verboden om binnen de bebouwingscontour houtkap, zonder een omgevingsvergunning omgevingsplanactiviteit ‘vellen houtopstand’, een houtopstand te vellen, te doen vellen of te laten vellen.'",
+  "drempel": "Art. 3.3 lid 1: vergunningplicht geldt niet voor 'Een houtopstand met een stamomtrek kleiner dan 63 cm, gemeten op 130 cm boven maaiveld.' Dus vergunning vanaf 63 cm omtrek. Bij meerstammigheid telt de dikste stam.",
+  "omtrek_cm": 63,
+  "meethoogte": "130 cm boven maaiveld",
+  "reikwijdte": "Alleen binnen de bebouwingscontour houtkap (art. 1.2 lid 2 en 2.1; kaart in bijlage 3, niet als tekst ingezien). Particulier en openbaar: de toelichting zegt 'Er is hierbij geen onderscheid gemaakt tussen houtopstand in privaat- respectievelijk publiek eigendom.' Binnen de contour geen onderscheid per gebied. Buiten de contour geldt deze verordening niet. Daarnaast een lijst met beschermde houtopstanden (art. 2.2, bijlage 4) waarvoor de uitzonderingen van art. 3.3 niet gelden (art. 3.4).",
+  "uitzonderingen": "Art. 3.3: 'Een houtopstand op percelen met een totaal oppervlakte van minder dan 200 m' (lid 2; ook voor afzonderlijk verhuurde tuindelen, lid 3); houtopstand 'minder dan 2 meter vanaf de gevel van een hoofdgebouw' (lid 5); dunning, hakhout, snoeien bij achterstallig onderhoud, periodiek knotten (lid 4 en 6); krachtens besluit van het college of de burgemeester (lid 7). Perceelgrens 200 m2 ligt onder de voorbeeldtuin van ca. 300 m2: de voorbeeldtuin is niet vrijgesteld, dus geen correctie. De gevelstrook van 2 m is smal: voorbeeldboom in de achtertuin niet vrij. Geen soortuitzondering. Noodkap: art. 3.11.",
+  "weigeringsgronden": "Art. 3.5: 'Een omgevingsvergunning als bedoeld in artikel 3.2 van deze verordening kan worden geweigerd als: a. de belangen van het vellen van de houtopstand niet opwegen tegen de belangen voor het behouden van de houtopstand.' Afweging via een puntenscore (bijlage 5) met waarden natuur en milieu, hittestress, landschap, cultuurhistorie, stads- en dorpsschoon, recreatie en leefbaarheid. Bijlage 5: 'wordt eveneens niet verleend wanneer geen positieve score' is behaald. Voor beschermde houtopstanden (art. 3.6) 'alleen verleend indien alternatieven voor behoud zijn onderzocht' en een zwaarwegend belang aanwezig is.",
+  "herplantplicht": "Art. 3.9 lid 1: 'stelt het college van burgemeester en wethouders voorschriften, zoals' onder a: 'dat binnen een bepaalde termijn en overeenkomstig de door het college van burgemeester en wethouders te geven aanwijzingen moet worden herplant'. Lid 2: 'kan het college van burgemeester en wethouders aan een omgevingsvergunning het voorschrift verbinden dat door de aanvrager van de omgevingsvergunning een geldelijke bijdrage moet worden gestort in het gemeentelijke Herplantfonds. Deze geldelijke bijdrage wordt vastgesteld op grond van de boomwaarde.' Bijlage 5 onder E (onderdeel van de verordening): 'wordt aan de omgevingsvergunning het voorschrift verbonden dat de houtopstand niet mag worden geveld alvorens een geldelijke bijdrage is gestort in het gemeentelijk herplantfonds'; 'Houtopstand in particuliere tuinen' krijgt als financiële compensatie 'de kosten van de aanplant van een nieuwe boom in de maat 18-20' (vastgesteld op € 150,--).",
+  "herplant_ontsnapping": "Herplant per voorschrift 'zoals' (voorbeeldlijst, het college beslist per geval). Uitweg: 'Indien de in het eerste lid onder a. genoemde herplantplicht ter plaatse niet mogelijk is' kan het college een storting in het Herplantfonds opleggen (art. 3.9 lid 2); bijlage 5 E: 'Indien aannemelijk is gemaakt dat herplant niet mogelijke/wenselijk'. Geen 'tenzij'-clausule voor het niet opleggen van herplant.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Art. 3.10 onder c: het college kan de vergunning intrekken of wijzigen 'indien aan de omgevingsvergunning verbonden voorschriften niet zijn of worden nageleefd'. Art. 5.1 lid 1 straft 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij gegeven voorschriften' met 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Die bepaling noemt het herplantartikel (3.9) niet en er is geen bepaling 'is verplicht daaraan te voldoen': volgens de vaste regel dus 'niets geregeld' voor dit veld. Bestuursdwang voor het niet nakomen van een herplantvoorschrift staat niet in de tekst (alleen voor boomziekten, art. 4.4 lid 2).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Eigen strafbepaling art. 5.1 lid 1: 'gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Geen eigen WED-aanwijzing. WED via Ow 5.1: de legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Geen bestuurlijke boete in de regeling. Bijlage 5 E: bij 'een illegale velling (zonder de vereiste omgevingsvergunning)' bestaat de financiële compensatie uit de getaxeerde boomwaarde (compensatie, geen boete).",
+  "procedure": "Aanvraag omgevingsvergunning (art. 3.7 aanvraagvereisten, o.a. omtrek en herplantmogelijkheid). Leges 2026 art. 2.30: € 151,85. Bekendmaking in het gemeenteblad. Bezwaar, beroep en beslistermijn: niet in de verordening geregeld (Awb). Hardheidsclausule art. 8.1. Het college kan nadere regels stellen (art. 7.1).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 1137,
+  "lijst_aantal_particulier": 170,
+  "lijst_telling": "regels (bomen) in bijlage 4 Lijst van beschermde houtopstanden van CVDR757551_1 (raadsbesluit 29-01-2026); eigendom 'Particulier' in 170 regels, 'Gemeente Delft' in 916 en overige rechtspersonen (o.a. TU Delft, DUWO, bedrijf) in 51; telling van tabelregels, inclusief 'niet aanwezig' en 'nieuwe aanplant'",
+  "status": "ok",
+  "ontbrekend": "Kaart bebouwingscontour houtkap (bijlage 3) niet als tekst ingezien. Beleidsregel 'cultuurhistorisch waardevolle groengebieden 2013' (genoemd in bijlage 5 A 3.2) niet in dossier. Omgevingsplan in het DSO niet ingezien. Geen nadere regels (art. 7.1) in het dossier gevonden.",
+  "artikelnummers": [
+    "Bomenverordening Delft 2025 art. 1.2",
+    "art. 2.1",
+    "art. 2.2",
+    "art. 3.2",
+    "art. 3.3",
+    "art. 3.4",
+    "art. 3.5",
+    "art. 3.6",
+    "art. 3.9",
+    "art. 3.10",
+    "art. 4.1",
+    "art. 4.2",
+    "art. 5.1",
+    "bijlage 4",
+    "bijlage 5",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: vergunning vanaf stamomtrek 63 cm ('kleiner dan 63 cm' is vrij), middelmatige drempel (60-100 cm), binnen de bebouwingscontour houtkap, particulier en openbaar. Uitzondering voor percelen kleiner dan 200 m2 laat de voorbeeldtuin (ca. 300 m2) onder de regel: geen correctie. Gevelstrook van 2 m is smal: geen correctie. Lijst beschermde houtopstanden (170 particuliere bomen) valt onder het brede regime; zonder drempel en zonder perceeluitzondering (art. 3.4), alleen vermeld.",
+    "W: 'kan worden geweigerd als: a. de belangen van het vellen van de houtopstand niet opwegen tegen de belangen voor het behouden van de houtopstand' (art. 3.5) is een belangenafweging, W2. De puntenscore in bijlage 5 (verlenen bij ≥50 verleningspunten en <30 weigeringspunten, weigeren bij <50 en ≥30) en 'positieve score' als aanvraagvereiste kunnen strenger uitpakken; verleningsgronden zijn een gesloten lijst gegronde redenen (bouw, ruimtelijke ontwikkeling, schade, ouderdom/ziekte) plus overlast: maximum W3. Voor beschermde houtopstanden geldt een strenger regime (art. 3.6): alleen vermeld.",
+    "H: art. 3.9 lid 1 'stelt het college van burgemeester en wethouders voorschriften, zoals' een herplantvoorschrift (voorbeeldlijst, dus niet een vast voorschrift); lid 2 storting in het Herplantfonds 'kan'. Bijlage 5 E (deel van de verordening) maakt de storting verplicht ('wordt ... het voorschrift verbonden') als herplant niet mogelijk of wenselijk is, met vaste bedragen (€ 150,-- voor particuliere tuinen). Puntschatting H2 (herplant als standaardvoorschrift, storting als achtervang onzeker); minimum 1, maximum 3. Vergelijk modelsignaal.",
+    "Herplant bij ruimtelijke ontwikkeling en na illegale velling (boomwaarde-compensatie, bijlage 5 E) verhoogt H niet. De regeling zegt niet dat herplant na illegale kap verplicht is; bijlage 5 noemt alleen de compensatie naar boomwaarde bij 'illegale velling'.",
+    "S: eigen strafbepaling (art. 5.1) en WED via Ow 5.1 (leges art. 2.30 noemt omgevingsplanactiviteit in samenhang met art. 22.8 Ow): S1 zonder bereik. De legesverordening verwijst naar 'artikel 1 van de Bomenverordening Delft 2013', die per art. 9.1 van de Bomenverordening Delft 2025 is ingetrokken: foute verwijzing, geen invloed op S.",
+    "De bekendmakingen noemen geen grondslag; weigeringen sinds 2025 zijn schaars (5 volgens titel) maar komen voor bij particuliere bomen.",
+    "Voorbeeldbomen: A (omtrek 80 cm, perceel ca. 300 m2) vergunningplichtig; B (omtrek 40 cm) vrij onder de drempel van 63 cm.",
+    "Nabewerking 16-11-2026: H2 (1-3) → H3 (min 2): bijlage 5 E hoort bij de verordening en maakt storting verplicht als herplant niet kan; art. 3.9 'stelt ... voorschriften, zoals' herplant (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Delft H: art. 3.9 lid 1 zegt 'stelt ... voorschriften, zoals' herplant (voorbeeld, geen vaste plicht) en lid 2 zegt 'kan' storting; bijlage 5 E van dezelfde verordening zegt 'wordt ... verbonden' (verplichte storting als herplant niet kan). Het model kent geen regel voor een bijlage binnen de verordening die strenger is dan het artikel. Advies: H2 (min 1, max 3) laten staan; of bijlage-tekst als vaste regel (verplichte storting als achtervang) aanmerken en dan H3 toekennen als herplant als standaard geldt.",
+    "Delft herplant_niet_nakomen: art. 5.1 straft overtreding van 'de daarbij gegeven voorschriften' maar noemt het herplantartikel niet. Volgens de veldregel van 16-11 'niets geregeld'; eerdere gemeenten kregen in zo'n geval vaak 'strafbaar (rechter)'. Advies: de veldregel eenduidig maken (algemene strafbepaling voor voorschriften telt wel of niet)."
+  ]
+}

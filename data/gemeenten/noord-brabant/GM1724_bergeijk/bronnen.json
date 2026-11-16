@@ -1,0 +1,27 @@
+{
+  "gemeente": "Bergeijk",
+  "gm_code": "GM1724",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Bergeijk",
+  "zoeknaam_bekendmakingen": "Bergeijk",
+  "opgehaald_op": "2026-11-15T21:05:18+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Bergeijk\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 55,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Bergeijk\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 108,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR696493_2",
+    "CVDR752411_1",
+    "CVDR752424_1",
+    "CVDR754893_1",
+    "CVDR763685_1"
+  ],
+  "bekendmakingen_besluiten": 14,
+  "bekendmakingen_aanvragen": 59,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

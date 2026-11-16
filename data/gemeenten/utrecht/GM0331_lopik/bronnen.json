@@ -1,0 +1,31 @@
+{
+  "gemeente": "Lopik",
+  "gm_code": "GM0331",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Lopik",
+  "zoeknaam_bekendmakingen": "Lopik",
+  "opgehaald_op": "2026-11-14T18:22:23+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Lopik\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 43,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Lopik\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 25,
+  "geldende_regelingen": 17,
+  "geldend_met_kapartikelen": [
+    "CVDR673398_1",
+    "CVDR673399_1",
+    "CVDR696274_2",
+    "CVDR712478_1",
+    "CVDR718561_1",
+    "CVDR723328_1",
+    "CVDR749600_1",
+    "CVDR752515_1",
+    "CVDR92094_2"
+  ],
+  "bekendmakingen_besluiten": 8,
+  "bekendmakingen_aanvragen": 16,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 3
+}

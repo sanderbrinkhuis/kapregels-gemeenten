@@ -1,0 +1,86 @@
+{
+  "gm_code": "GM0402",
+  "gemeente": "Hilversum",
+  "provincie": "Noord-Holland",
+  "brondocument": "Algemene plaatselijke verordening Hilversum 2010, hoofdstuk 4 afdeling 5 'Het in stand houden en vellen van bomen' (art. 4.5.1 t/m 4.5.6), art. 6.1 (CVDR58873_13; dezelfde kaptekst staat in het raadsbesluit CVDR711398_1); Beleidsregels voor de beoordeling van de aanvraag omgevingsvergunning voor het vellen van bomen (Velbeleid Hilversum 2017-2030, CVDR662245_1); legesverordening 2026 art. 2.30 (CVDR751165_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR58873/13 ; https://lokaleregelgeving.overheid.nl/CVDR711398/1 ; https://lokaleregelgeving.overheid.nl/CVDR662245/1 ; https://lokaleregelgeving.overheid.nl/CVDR751165/1",
+  "datum_geldigheid": "APV CVDR58873_13 en CVDR711398_1: geldend van 2024-01-01 t/m heden; beleidsregels CVDR662245_1: geldend van 2017-10-10 t/m heden; leges 2026 CVDR751165_1: geldend van 2026-01-01",
+  "laatste_wijziging": "Kapartikelen APV laatst gewijzigd bij wijzigingsbesluit CVDR693631_1 (in werking 2023-03-28, onderdeel XVII: art. 4.5.2 lid 2 sub a en nieuw sub l: drempel 30 cm diameter en Noordwestelijk Villagebied); daarna alleen technische aanpassing aan de Omgevingswet per 2024-01-01 (CVDR711398_1, art. 4.5.1 met definitie bebouwde kom). Beleidsregels ongewijzigd sinds 2017-10-10.",
+  "juridische_plaats": "APV (afdeling 4.5, art. 4.5.2); de kapregel werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30.1 noemt 'het vellen van een houtopstand, bedoeld in artikel 4.5.2 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan (CVDR696304_6) bevat alleen aanvraagvereisten (art. 22.299), geen eigen kapverbod. Er staan twee gelijkluidende APV-versies als geldend in CVDR (CVDR58873_13 en CVDR711398_1); de kaptekst is identiek.",
+  "praktijkcontrole": "Sinds 2025: 321 besluiten en 339 aanvragen over kap op officielebekendmakingen.nl (totaal 690 treffers), waarvan 53 geweigerd volgens de titel. Geen grondslagverwijzing in de 10 opgehaalde besluiten. Het aantal past bij een regime voor de hele bebouwde kom.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen van bomen), art. 4.5.2 lid 1",
+  "drempel": "Verbod geldt niet voor 'bomen met een stamdiameter tot 30 centimeter gemeten op 1.30 meter boven de voet van de boom' (art. 4.5.2 lid 2 sub a), dus vergunning vanaf 30 cm diameter; meerstammig: 'In geval van meerstammigheid geldt de stamdiameter van elke stam apart.'",
+  "omtrek_cm": 94.2,
+  "meethoogte": "1,30 m (diameter 30 cm x 3,14 = 94,2 cm omtrek)",
+  "reikwijdte": "Art. 4.5.2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag bomen te vellen of te doen vellen.' Binnen de bebouwde kom alle bomen vanaf 30 cm diameter, particulier en openbaar (beleidsregels 2.1: 'Dit geldt zowel voor bomen op particulier terrein als voor bomen in de openbare ruimte.'). Buiten de bebouwde kom vrijgesteld, tenzij de bomen een zelfstandige eenheid vormen groter dan 10 are of rijbeplanting van meer dan 20 bomen (lid 2 sub h). Geen uitzondering voor tuinen of erven.",
+  "uitzonderingen": "Art. 4.5.2 lid 2: bomen onder 30 cm diameter (niet als herplantboom; niet in het beschermd stadsgezicht Noordwestelijk Villagebied, waar onder 30 cm alleen bij regulier onderhoud vrij is, sub l); dode bomen en Amerikaanse vogelkers (melden 4 weken vooraf); populieren/wilgen als wegbeplanting langs landbouwgrond; 'vruchtbomen en windschermen om boomgaarden'; kerstbomen; kweekgoed; Plantgezondheidswet of aanschrijving; goedgekeurd beheerplan (5 jaar); sub k: bomen niet in gemeentelijk eigendom in het 'pilot velbeleid'-gebied die niet op de vastgestelde lijst van beschermde bomen staan (klein gebied; kaart en lijst niet in het dossier). Dit zijn gangbare of kleine uitzonderingen; coniferen, fruitbomen in tuinen en tuinen zelf zijn niet uitgezonderd.",
+  "weigeringsgronden": "Art. 4.5.4 lid 1: 'Het bevoegd gezag kan de vergunning onder verwijzing naar door het bevoegd gezag vast te stellen beleidsregels weigeren dan wel onder voorschriften verlenen in het belang van: a. natuur- en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van dorps-/stadsschoon; e. andere redenen van milieubeheer.' Lid 2: 'Het bevoegd gezag kan bij het weigeren of onder voorschriften verlenen van een vergunning tevens de boomwaarde als motivering gebruiken.' Beleidsregels hoofdstuk 4: 'In beginsel wordt terughoudend omgegaan met het verlenen van omgevingsvergunningen voor het vellen van bomen.'; bij gelijk belang 'prevaleert het belang van het behoud van de boom'.",
+  "herplantplicht": "APV art. 4.5.5 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Beleidsregels 5.1.1: 'Een compensatie in de vorm van een herplantplicht wordt altijd opgelegd bij een omgevingsvergunning voor het vellen van bomen. Voor elke boom die wordt geveld moet een nieuwe boom worden herplant.' Financieel: herplantfonds op basis van de herplantwaarde (richtlijn 261 tot 785 euro, prijspeil 2017).",
+  "herplant_ontsnapping": "APV: 'kan' (bevoegdheid). Beleidsregels 5.1.1: drie uitzonderingen (afbouwstraat: herplant uitgesteld; dunning: 'zal geen herplantverplichting (ook niet financieel) worden opgelegd'; grootschalige herinrichting: kwalitatieve herplant). Uitweg via betaling: 'krijgt de aanvrager de keuze tussen compensatie in de vorm van het herplanten van een nieuwe boom of storting van een geldelijke bijdrage in het gemeentelijke herplantfonds' (niet in de uitzonderingsgebieden, daar beslist de vergunning). Beslist het college per vergunning.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Beleidsregels 5.3: 'Wanneer de vergunninghouder niet binnen de gestelde termijn van herplant reageert wordt een dwangsom opgelegd om de herplant alsnog af te dwingen.' Bij illegale velling: 'dan wordt een herplantplicht met dwangsom opgelegd'. Verder 5.1.2: 'Als bij nacontrole blijkt dat de herplant om welke reden dan ook teniet is gegaan dan wordt dat als (illegale) velling beschouwd'.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "WED via de Omgevingswet (art. 5.1 lid 1 onder a Ow; omgevingsplanactiviteit volgens leges art. 2.30.1 in samenhang met art. 22.8 Ow). APV art. 6.1 lid 1: 'Overtreding van de in deze verordening opgenomen artikelen ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Herplantplicht of storting na illegale kap: APV art. 4.5.6 lid 1 en 2 en beleidsregels 5.2. Geen bestuurlijke boete in de regeling; het beleid noemt alleen een 'boete ... in de vorm van een storting in het herplantfonds' bij illegale snoei.",
+  "procedure": "Leges 2026 art. 2.30.1: 228,20 euro per boom; legalisatie van illegale velling 456,40 euro per boom of houtopstand. Publicatie twee keer (aanvraag en besluit) in de Gooi- en Eembode en op de gemeentesite; 'binnen zes weken na publicatie bezwaar' (beleidsregels 6). Beslistermijn: APV art. 1.2 niet van toepassing op omgevingsvergunning; Ow-regels.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "",
+  "status": "ok",
+  "ontbrekend": "Niet in het dossier: de kaart van de bebouwde kom (APV-bijlage en beleidsregels bijlage 1), de kaart met uitzonderingsgebieden herplantplicht (beleidsregels bijlage 5), de 'lijst van beschermde bomen' en het aangewezen 'pilot velbeleid'-gebied (art. 4.5.2 lid 2 sub k), en het VTH-beleid 2017-2020 waarnaar de beleidsregels verwijzen. Omgevingsplan in het DSO niet ingezien (API-key aangevraagd); alleen CVDR-tekst CVDR696304_6 gelezen.",
+  "artikelnummers": [
+    "APV 4.5.1",
+    "APV 4.5.2",
+    "APV 4.5.4",
+    "APV 4.5.5",
+    "APV 4.5.6",
+    "APV 6.1",
+    "Beleidsregels 2.1",
+    "Beleidsregels 4",
+    "Beleidsregels 5.1",
+    "Beleidsregels 5.2",
+    "Beleidsregels 5.3",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "W (art. 4.5.4 lid 1): 'Het bevoegd gezag kan de vergunning onder verwijzing naar door het bevoegd gezag vast te stellen beleidsregels weigeren dan wel onder voorschriften verlenen in het belang van:' natuur-, landschaps-, cultuurhistorische en stadsschoonwaarden. W = 2; beleid 'In beginsel wordt terughoudend omgegaan' is geen 'slechts bij uitzondering', daarom maximum 3.",
+    "H (beleidsregels 5.1.1): 'Een compensatie in de vorm van een herplantplicht wordt altijd opgelegd bij een omgevingsvergunning voor het vellen van bomen.' Verplichte storting als herplant niet kan: 'Indien herplant ruimtelijk niet mogelijk is, wordt de vergunningaanvrager een financiële compensatie opgelegd ter grootte van de herplantwaarde'. De aanvrager heeft buiten de uitzonderingsgebieden de keuze tussen herplant en storting (alternatief); daarom H = 3 met minimum 2. APV zelf zegt 'kan' (art. 4.5.5), beleid maakt het vast voorschrift.",
+    "D: drempel 30 cm diameter is 94,2 cm omtrek, dus D = 3. Boom A (80 cm omtrek, ca. 25 cm) en boom B (40 cm) zijn vrij, omdat ze onder de drempel vallen. Buiten de kom geldt een ander, smaller regime (sub h), dat telt niet voor D.",
+    "S: WED-route via Ow 5.1, bewijs in leges art. 2.30.1; S = 1 zonder bereik. APV 6.1 geldboete en herplant na illegale kap zijn ook kap-specifiek maar geven geen hogere S.",
+    "Kleine gebiedsregels, vermeld en niet meegeteld: pilotgebied velbeleid (sub k) en Noordwestelijk Villagebied (sub l, onder 30 cm alleen vrij bij regulier onderhoud). Herplant na illegale kap: art. 4.5.6 lid 1 'kan', lid 2 'legt het bevoegd gezag een financiële bijdrage op'; beleidsregels 5.2: 'wordt een herplantverplichting opgelegd'.",
+    "Nog te controleren: de kaart van de bebouwde kom (art. 1.1 APV verwijst naar kaart; art. 4.5.1 verwijst naar de Wnb-kom) is niet gelezen.",
+    "Legesverordeningen 2018 t/m 2025 staan ook als geldend in CVDR; de leges 2026 is de laatste. Praktijk: 53 weigeringen volgens titel."
+  ],
+  "modelsignalen": [
+    "Twee gelijkluidende APV-versies staan tegelijk als geldend in CVDR (CVDR58873_13 en CVDR711398_1); het model kent geen regel voor dubbele geldende versies.",
+    "Beleidsregels maken herplant standaard ('altijd opgelegd') met vrije keuze voor storting in het herplantfonds: of dat H3 is (storting als alternatief) of H2 is niet eenduidig in het model; gekozen H3 met min 2 omdat storting verplicht is als herplant niet kan."
+  ]
+}

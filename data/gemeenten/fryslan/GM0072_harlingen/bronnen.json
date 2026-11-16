@@ -1,0 +1,26 @@
+{
+  "gemeente": "Harlingen",
+  "gm_code": "GM0072",
+  "provincie": "Fryslân",
+  "zoeknaam_cvdr": "Harlingen",
+  "zoeknaam_bekendmakingen": "Harlingen",
+  "opgehaald_op": "2026-11-14T14:45:55+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Harlingen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 75,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Harlingen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 64,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR696171_3",
+    "CVDR712904_2",
+    "CVDR735189_1",
+    "CVDR753491_1"
+  ],
+  "bekendmakingen_besluiten": 29,
+  "bekendmakingen_aanvragen": 33,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

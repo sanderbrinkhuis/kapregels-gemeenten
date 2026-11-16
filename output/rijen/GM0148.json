@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0148",
+  "gemeente": "Dalfsen",
+  "provincie": "Overijssel",
+  "brondocument": "Algemene plaatselijke verordening gemeente Dalfsen 2026 (afdeling 4.3, art. 4:10-4:11.13, 6:1); Beleidsregels kappen houtopstanden gemeente Dalfsen 2018 (art. I-V); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299; Chw bestemmingsplannen Kernen 2016 (NL.IMRO.0148.Kernen2016-vs01) art. 50.2, Kernen 2022 (NL.IMRO.0148.Kernen2022-vs01) art. 58.2 en 3e Verzamelplan Buitengebied (NL.IMRO.0148.3eVerzamelplanBG-vs01) art. 45 (Ruimtelijke plannen API v4; dso/rp_*_kap.md)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR751007/1 ; https://lokaleregelgeving.overheid.nl/CVDR611192/1 ; https://lokaleregelgeving.overheid.nl/CVDR750709/1 ; https://lokaleregelgeving.overheid.nl/CVDR696195/3",
+  "datum_geldigheid": "APV CVDR751007_1 geldend vanaf 2026-01-01 t/m heden; beleidsregels CVDR611192_1 vanaf 2018-07-04 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV: versie 1 per 2026-01-01 (nieuwe vaststelling). Beleidsregels: ongewijzigd sinds 2018-07-04.",
+  "juridische_plaats": "omgevingsplan (tijdelijk deel): Chw-bestemmingsplannen Kernen 2016/2022 (art. 50.2 / 58.2) en Buitengebied 3e verzamelplan (art. 45) met dezelfde kapregel als de APV; APV afd. 4.3 geldt volgens art. 4:10 buiten die plangebieden en werkt als omgevingsplanactiviteit (leges art. 2.30 met art. 22.8 Ow)",
+  "praktijkcontrole": "Sinds 2025: 131 bekendmakingen op titel, 63 besluiten, 68 aanvragen, 0 geweigerd (volgens titel). Veel verleende vergunningen voor het kappen van eiken, lindes en elzen in Dalfsen, Nieuwleusen en Lemelerveld; dat past bij een breed regime buiten de kom. De steekproef noemt geen grondslag.",
+  "vergunningplicht": "Vergunning: art. 4:11.2 lid 1 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen' en art. 4:11.1 voor monumentale bomen. Maar art. 4:10 lid 1 zet de afdeling (art. 4:10a en 4:11.1 tot en met 4:11.8) buiten werking in bestemmingsplangebieden Kernen 2016 en Buitengebied (3e verzamelplan) voor zover vastgesteld en herzien na 26 juni 2017; de kapregels daar staan in het bestemmingsplan (nu tijdelijk deel van het omgevingsplan), dat niet is opgehaald. Nabewerking: de plannen bevatten dezelfde regel: Kernen 2022 art. 58.2.1 'Het is verboden om zonder omgevingsvergunning een houtopstand te vellen of te doen vellen die: a. staan vermeld in de Lijst monumentale en waardevolle bomen ...; b. eigendom zijn van de gemeente Dalfsen; c. die liggen buiten de bebouwde kom'; 3e verzamelplan art. 45.1: verbod voor alle houtopstand, met uitzondering van 'Houtopstanden die liggen binnen de bebouwde kom ... en de houtopstand niet is aangemerkt als waardevolle boom/houtopstand'.",
+  "drempel": "Art. 4:10a sub a: boom is 'een houtachtig, opgaand gewas ... met een dwarsdoorsnede van de stam van minimaal 30 centimeter op 1,3 meter hoogte boven het maaiveld'. Houtopstand heeft 'de onder sub a genoemde minimale dwarsdoorsnede'.",
+  "omtrek_cm": 94,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Binnen de bebouwde kom (art. 4:10a sub g: art. 4.1 sub a Wet natuurbescherming): art. 4:11.2 lid 3 sub a 'Bomen binnen de bebouwde kom voor zover ze niet voorkomen op de door het college vastgestelde lijst' zijn uitgezonderd; dus alleen lijstbomen (beleidsregel art. I: 'In deze lijst zijn particuliere bomen opgenomen binnen de bebouwde kom'). Buiten de bebouwde kom: alle houtopstanden vanaf 30 cm doorsnee, ook op erven. Let op art. 4:10 (zie vergunningplicht).",
+  "uitzonderingen": "Art. 4:11.2 lid 3 sub b: 'Coniferen, dennen, ceders, larixen, niet-geknotte wilgen, niet geknotte populieren, lijsterbessen, sierkersen, sierappels en sierperen buiten de bebouwde kom'; sub c: berken, elzen en meidoorns buiten de kom (tenzij rij of singel). Lid 4: Plantenziektenwet, hakhout, knotten, dunnen. Ruime uitzondering (coniferen, wilgen en populieren): correctie -1.",
+  "weigeringsgronden": "Art. 4:11.5 lid 1: 'Bevoegd gezag kan de omgevingsvergunning om te vellen weigeren dan wel onder voorschriften of beperkingen verlenen.' Lid 2: 'geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van ... a. natuur en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads en dorpsschoon; e. waarden voor recreatie en leefbaarheid.' Het lid noemt art. 4:11.1 lid 1 en '4:11. Lid 12' (verschrijving).",
+  "herplantplicht": "Art. 4:11.8 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' Lid 3: bij onmogelijke herplant 'kan' een bijdrage in het gemeentelijk herplantfonds worden voorgeschreven (art. 4:11.9 lid 2 'wordt een financiele bijdrage gestort' bij kap zonder vergunning). Beleidsregels art. III: 'De bomen, genoemd in tabel 1, zijn herplantplichtig' (particulier: lijst van waardevolle bomen binnen de kom; buiten de kom karakteristieke landschapselementen (LOP)); 'In situaties waarin herplant niet mogelijk of gewenst is wordt een vergoeding geëist' (EUR 200 tot EUR 300). Voor gewone houtopstanden buiten de kom geldt dus 'kan'.",
+  "herplant_ontsnapping": "Voor houtopstanden buiten tabel 1: 'kan' (art. 4:11.8 lid 1), college beslist per geval. Voor tabel 1: 'herplantplichtig', met vergoeding als 'herplant niet mogelijk of gewenst is'; 'De wijkbeheerder bepaalt waar wordt herplant'.",
+  "sancties": "Art. 6:1 lid 3: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11.1, eerste lid en 4:11.2 eerste lid' (WED-aanwijzing in regeling; ook omgevingsplanactiviteit volgens leges art. 2.30). Beleidsregels art. V: 'Indien er sprake is van illegale kap wordt er een herplantplicht of herplantvergoeding opgelegd' en 'Er kan een boete opgelegd worden ... bepaald mbv de Rekenmethode NVTB'. Dat is een boete in beleid zonder dat de regeling een bestuurlijke boete noemt: S1.",
+  "procedure": "Omgevingsvergunning; aanvraag schriftelijk en gemotiveerd (art. 4:11.5 / 4:11.4); vergunning vervalt na een jaar (art. 4:11.7). Leges art. 2.30: EUR 145,20. Noodkap: toestemming wijkbeheerder (beleidsregel VI).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Art. 6:1 lid 2: overtreding van 'het bij of krachtens de overige artikelen ... bepaalde' wordt gestraft 'met een geldboete van de eerste categorie' (art. 4:11.8 en 4:11.9 vallen onder lid 2). Beleidsregels art. V: 'Er kan een boete opgelegd worden'. Artikel 4:11.9 bevat geen zin dat degene 'verplicht is' te voldoen.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de lijst van waardevolle en monumentale bomen (art. 4:11.3, beleidsregel art. I) staat niet in de CVDR-tekst; de gemeentelijke website was niet bereikbaar (403).",
+  "status": "ok",
+  "ontbrekend": "Niet ingezien: de lijst van waardevolle en monumentale bomen (bijlage 3 bij Kernen 2016, bijlage 33 bij Kernen 2022; binnen de kom) en de 'Notitie Beoordeling aanvraag kappen houtopstanden'. Ook niet nagegaan welke andere Chw-plannen (o.a. Oosterdalfsen Noord, recreatieterreinen) een afwijkende kapregel hebben; de gelezen plannen geven dezelfde regel als de APV. Het aantal lijstbomen is onbekend.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:10a, 4:10b, 4:11.1, 4:11.2, 4:11.3, 4:11.5, 4:11.8, 4:11.9, 6:1",
+    "Beleidsregels art. I, II, III, V",
+    "Legesverordening art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D2 (bereik 0-3, onzeker): op de gelezen APV-tekst geldt binnen de kom alleen een lijst (D1) en buiten de kom elke houtopstand vanaf 30 cm doorsnee (94 cm omtrek; D3), min 1 voor coniferen, wilgen en populieren = 2. Art. 4:10 schakelt de afdeling echter uit voor gebieden binnen de bestemmingsplannen Kernen 2016 en Buitengebied voor zover vastgesteld en herzien na 26 juni 2017. Welk deel van de gemeente dat is en wat de plannen daar regelen, is niet vast te stellen. Minimum 0 omdat ook de lijst niet is ingezien.",
+    "Leges art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de Algemene plaatselijke verordening gemeente Dalfsen 2026 in samenhang met artikel 22.8 van de Omgevingswet'. Daaruit volgt dat de APV-afdeling vandaag wel als omgevingsplanactiviteit werkt.",
+    "W2: art. 4:11.5 lid 2 'geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud' op basis van natuur, landschap, cultuurhistorie, dorpsschoon en leefbaarheid; beleidsregels art. II koppelen dit aan boomwaarden.",
+    "H1 (bereik 1-3): verordening 'kan' (art. 4:11.8 lid 1). Beleidsregel art. III maakt herplant verplicht ('herplantplichtig') met vergoeding van EUR 200-300 ('wordt een vergoeding geëist'), maar alleen voor lijstbomen binnen de kom en karakteristieke landschapselementen (LOP) buiten de kom. Voor gewone houtopstanden buiten de kom blijft het 'kan'. De lijstbomen binnen de kom (D1-deel) zouden H3 krijgen.",
+    "S1: WED-aanwijzing in art. 6:1 lid 3. Beleidsregel art. V 'Er kan een boete opgelegd worden' staat alleen in beleid en noemt geen bestuurlijke boete: S1.",
+    "Drempel: dwarsdoorsnede 30 cm x 3,14 = 94,2 cm omtrek, dus D3 voor het deel buiten de kom. Boom A en B (25 en 13 cm doorsnee) zijn kleiner dan 30 cm en staan binnen de kom: alleen als op lijst.",
+    "Art. 4:11.2 lid 3 sub a en beleidsregel art. I: de lijst bevat 'particuliere bomen ... binnen de bebouwde kom', maar het aantal is onbekend.",
+    "Art. 4:11.5 lid 2 verwijst naar 'artikel 4:11.1 lid 1 en 4:11. Lid 12': kennelijk een verschrijving; art. 4:11.2 lijkt bedoeld.",
+    "Nabewerking DSO/RP 16-11-2026: de kapregels in de bestemmingsplannen waar APV art. 4:10 naar verwijst zijn gelezen (Ruimtelijke plannen API v4; opgeslagen als dso/rp_NL.IMRO.0148.Kernen2016-vs01_kap.md, rp_..Kernen2022-vs01_kap.md en rp_..3eVerzamelplanBG-vs01_kap.md). Ze zijn inhoudelijk gelijk aan APV art. 4:11.2: binnen de kom alleen lijstbomen, buiten de kom elke houtopstand met een dwarsdoorsnede van minimaal 30 cm (94 cm omtrek) op 1,3 m. D2 blijft staan; het bereik 0-3 vervalt (D 2-2).",
+    "Uitzondering in de plannen: 'coniferen, dennen, ceders, lariksen, niet geknotte wilgen, niet geknotte populieren, lijsterbessen, sierkersen, sierappels, sierperen' (-1 op de drempel D3); 'vruchtbomen en windschermen om boomgaarden' (geen correctie).",
+    "W2 bevestigd: Kernen 2022 art. 58.2.2 'wordt geweigerd als de belangen van de verlening niet opwegen tegen het belang van behoudt van de houtopstand op basis van één of meer van de volgende waarden'. H1 bevestigd: art. 58.2.4 'Het bevoegd gezag kan bij de omgevingsvergunning ... een herplantplicht en/of vergoeding van de Boomwaarde volgens de “Beleidsregels houtopstanden gemeente Dalfsen 2017” en diens rechtsopvolger opleggen'; sub b: 'Deze herplant- of vergoedingsverplichting kan ook worden gesteld als het vellen al zonder de benodigde vergunning ... is uitgevoerd' (kan, dus geen verplichting na illegale kap in het plan; de beleidsregel art. V 'wordt ... een herplantplicht of herplantvergoeding opgelegd' blijft gelden). Plan noemt een beleidsregel van 2017, de gescoorde beleidsregel is die van 2018 (CVDR611192_1): mogelijk andere naam voor dezelfde regeling; niet nagegaan.",
+    "De APV zelf (art. 4:11) bleef in de eerdere score de basis; de plannen veranderen de scores niet."
+  ],
+  "modelsignalen": [
+    "Een APV-afdeling die buiten werking is verklaard in gebieden waar een bestemmingsplan (nu omgevingsplan, tijdelijk deel) eigen kapregels heeft, laat zich niet scoren zonder die plannen. Het model heeft geen manier om 'regel bestaat, inhoud niet opgehaald' anders te scoren dan met een breed bereik.",
+    "Herplant-beleidsregel die alleen voor lijstbomen en landschapselementen verplicht is (H3-achtig) terwijl de verordening 'kan' zegt voor de rest: de regel 'grootste deel van gedekte bomen' is hier lastig toe te passen."
+  ]
+}

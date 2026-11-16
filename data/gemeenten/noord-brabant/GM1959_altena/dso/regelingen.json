@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1959/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Altena",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1959/2020/omgevingsplan/nld@2024-03-07;2",
+    "beginGeldigheid": "2024-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1959_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1959/2024/Regeling3b64ee34bb2547cca2eadfb2eee3eb44",
+    "titel": "Voorbereidingsbesluit Biesboschhavens Werkendam",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1959/2024/Regeling3b64ee34bb2547cca2eadfb2eee3eb44/nld@2024-07-03;07435439",
+    "beginGeldigheid": "2024-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1959_2024_Regeling3b64ee34bb2547cca2eadfb2eee3eb44?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1959/2025/Regelingf319c565a73541d88665757627324fcd",
+    "titel": "Programma Woudrichem-Zuid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1959/2025/Regelingf319c565a73541d88665757627324fcd/nld@2025-10-08;07052621",
+    "beginGeldigheid": "2025-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1959_2025_Regelingf319c565a73541d88665757627324fcd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1959/2026/Regeling733face3d8c2448fba65c5dcec0f1094",
+    "titel": "Programma Werkendam Noord",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1959/2026/Regeling733face3d8c2448fba65c5dcec0f1094/nld@2026-11-04;08395459",
+    "beginGeldigheid": "2026-03-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1959_2026_Regeling733face3d8c2448fba65c5dcec0f1094?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1959/2026/Regelingb700ea2e06db4f39a53e01bdb316d53c",
+    "titel": "Programma Veense Put",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1959/2026/Regelingb700ea2e06db4f39a53e01bdb316d53c/nld@2026-11-04;08395753",
+    "beginGeldigheid": "2026-10-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1959_2026_Regelingb700ea2e06db4f39a53e01bdb316d53c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:28Z"
+  }
+]

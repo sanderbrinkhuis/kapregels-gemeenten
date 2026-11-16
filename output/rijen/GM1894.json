@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1894",
+  "gemeente": "Peel en Maas",
+  "provincie": "Limburg",
+  "brondocument": "Algemene Plaatselijke Verordening Gemeente Peel en Maas, art. 4:10-4:11 (CVDR725003_2); leges: Legesverordening Peel en Maas 2026 (CVDR751732_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR725003/2",
+  "datum_geldigheid": "2026-07-11 t/m heden (CVDR725003_2)",
+  "laatste_wijziging": "APV-versie 2 per 2026-07-11; of art. 4:11 daarbij is gewijzigd, is niet vastgesteld.",
+  "juridische_plaats": "APV art. 4:11, werkt als omgevingsplanactiviteit volgens leges art. 2.30 (\"omgevingsplanactiviteit ... bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet\") en APV art. 6:1 lid 3; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 41 bekendmakingen via titelzoekopdracht, waarvan 23 aanvragen en 0 besluiten of weigeringen. Grondslag niet te toetsen.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning vellen houtopstand) voor houtopstanden op de lijst en voor alle houtopstanden met een diameter boven 80 cm.",
+  "drempel": "Diameter > 80 cm doorsnede, gemeten 130 cm boven het maaiveld (art. 4:11 lid 3); lijstbomen ongeacht omvang (lid 2).",
+  "omtrek_cm": 251,
+  "meethoogte": "130 cm boven maaiveld",
+  "reikwijdte": "Hele gemeente, geen onderscheid binnen of buiten de bebouwde kom, particulier en openbaar. Art. 4:11 lid 3: \"Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstanden te vellen of te doen vellen die een diameter hebben van > 80 cm doorsnede, gemeten 130 cm boven het maaiveld.\" Daarnaast lid 2: lijst met monumentale en andere beschermenswaardige houtopstanden.",
+  "uitzonderingen": "Art. 4:11 lid 7: spoedeisend belang voor de openbare orde of direct gevaar voor personen of goederen (toestemming burgemeester). Geen tuin-, soort- of oppervlakte-uitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:11 lid 6: \"In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.\"",
+  "herplantplicht": "Alleen voor de lijst met waardevolle houtopstanden, art. 4:11 lid 5: \"Voor deze lijst geldt een instandhoudingsplicht en kan een herplantplicht worden opgelegd.\" Voor de houtopstanden boven 80 cm diameter is geen herplantgrondslag gevonden. Art. 4:11 lid 4: \"Het college stelt nadere regels op voor waardevolle houtopstanden en kapbeleid\"; die nadere regels zijn niet in de bronnen aangetroffen.",
+  "herplant_ontsnapping": "\"kan\" (lijst); het college beslist per geval; voor het algemene regime (> 80 cm) geen herplantregel: geen.",
+  "herplant_type": "geen grondslag",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niet geregeld in de APV-tekst. Art. 4:11 is niet opgenomen in art. 6:1 lid 1 of 2; art. 6:1 lid 3 noemt alleen \"artikel 4:11, tweede lid\" voor de WED. Art. 1:4 (voorschriften) is \"niet van toepassing op een omgevingsvergunning\".",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED volgens APV art. 6:1 lid 3: \"artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... en artikel 4:11, tweede lid\" (alleen de lijst). Voor het verbod in lid 3 (> 80 cm) staat geen WED-aanwijzing; omdat de regel als omgevingsplanactiviteit werkt (leges 2.30), geldt mogelijk WED via Ow 5.1. Geen bestuurlijke boete voor kap.",
+  "procedure": "Leges (CVDR751732_1, art. 2.30): € 148,00. Beslistermijn: APV art. 1:2 lid 3 \"Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.\" Publicatie en bezwaar: niet in de kapregels geregeld.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst niet ingezien: op https://www.peelenmaas.nl/vergunning-of-toestemming/bomen-kappen staat geen lijst of kaartlink; de pagina noemt een inventarisatie van bijzondere bomen in de bebouwde kom.",
+  "status": "ok",
+  "ontbrekend": "Lijst met monumentale en waardevolle houtopstanden niet ingezien (aantal en particulier aandeel onbekend). Nadere regels voor waardevolle houtopstanden en kapbeleid (art. 4:11 lid 4-5) niet gevonden. De gemeentelijke website (niet-primair, mogelijk verouderd) zegt dat in de bebouwde kom geen kapvergunning nodig is behalve voor bijzondere bomen; dat botst met de tekst van art. 4:11 lid 3.",
+  "artikelnummers": [
+    "APV (CVDR725003_2): art. 4:10, 4:11 lid 1-7, 1:2, 1:4, 1:8, 6:1 lid 3",
+    "Legesverordening Peel en Maas 2026 (CVDR751732_1): art. 2.30",
+    "Omgevingsplan (CVDR696515_2): art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D: art. 4:11 lid 3 geldt voor de hele gemeente en bepaalt de drempel op een diameter > 80 cm; omgerekend 80 x 3,14 = 251 cm omtrek (hoge drempel, D2). Minimum D1 omdat de website (https://www.peelenmaas.nl/vergunning-of-toestemming/bomen-kappen) zegt dat in de bebouwde kom \"geen kapvergunning nodig\" is behalve voor bijzondere bomen; de APV-tekst zelf maakt dat onderscheid niet.",
+    "W: lid 6 \"kan de vergunning worden geweigerd op grond van\" natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden = belangenafweging (W2).",
+    "H: voor het regime dat de meeste bomen dekt (> 80 cm) geen herplantgrondslag (H0); voor lijstbomen \"kan een herplantplicht worden opgelegd\" (H1, vermeld als maximum).",
+    "S: WED-aanwijzing geldt alleen voor lid 2 (lijst); S1 uitgaand van de omgevingsplanroute, minimum 0.",
+    "Website noemt het criterium: bijzonder als de boom 55 punten of meer scoort (puntensysteem); niet in een regeling gevonden.",
+    "S1 zonder bereik: de legesverordening noemt het vellen een omgevingsplanactiviteit, dus WED via Ow 5.1. (Nabewerking 14-11-2026, besluit gebruiker)",
+    "Nabewerking 16-11-2026: D2 (1-2) → D1 (max 2): drempel diameter > 80 cm (ca. 251 cm omtrek; zeer hoge drempel, 250 cm of meer) (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Houtopstand-drempel in diameter (> 80 cm) op de hele gemeente naast een lijst: INTENT.md noemt dit gecombineerde systeem; D is bepaald door het breedste regime (D2).",
+    "APV-strafbepaling dekt het algemene verbod (lid 3) niet, wel de lijst (lid 2); S wijkt daardoor af van de route via de omgevingsplanactiviteit."
+  ]
+}

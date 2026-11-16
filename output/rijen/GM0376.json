@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0376",
+  "gemeente": "Blaricum",
+  "provincie": "Noord-Holland",
+  "brondocument": "Omgevingsplan gemeente Blaricum, par. 5.2.22 Kappen van beschermde bomen, art. 5.124-5.132 en 4.33 (CVDR696294_5); Beleidsplan kapaanvragen Blaricum (CVDR743926_1); Nadere regels financiële herplantplicht (CVDR743930_1); Sanctiebeleid bomenkap Blaricum (CVDR743927_1); Verordening op de heffing en invordering van leges 2026 art. 2.30 (CVDR753005_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696294/5 ; https://lokaleregelgeving.overheid.nl/CVDR743926/1 ; https://lokaleregelgeving.overheid.nl/CVDR743927/1 ; https://lokaleregelgeving.overheid.nl/CVDR743930/1",
+  "datum_geldigheid": "Omgevingsplan CVDR696294_5 geldend vanaf 2026-08-05 t/m heden; beleidsplan, sanctiebeleid en nadere regels geldend vanaf 2025-09-10 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "Omgevingsplan: versie 5 per 2026-08-05. VFL Blaricum 2023 (CVDR711166_4) per 2026-04-03: alle kapartikelen (3.70-3.78) vervallen. APV 2025 (CVDR740402_1): afdeling 4.3 houtopstanden vervallen. Beleidsplan door de raad vastgesteld op 2024-03-26; sanctiebeleid en nadere regels door het college op 2025-05-27.",
+  "juridische_plaats": "Omgevingsplan (art. 5.127, par. 5.2.22). De kapregels in de APV en in de VFL zijn vervallen en overgeheveld naar het omgevingsplan. De legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 5.127 van het omgevingsplan in samenhang met artikel 22.8 van de Omgevingswet'.",
+  "praktijkcontrole": "Sinds 2025: 251 bekendmakingen op titel, waarvan 127 aanvragen en 9 besluiten in de steekproef. 6 van de 9 steekproefbesluiten bevatten een (gedeeltelijke) weigering (bijv. gmb-2026-242470: 1 boom verleend, 7 bomen geweigerd; gmb-2026-97206: 3 verleend, 5 geweigerd; gmb-2026-24426: 3 van 9 geweigerd) en alle noemen 'herplantplicht' in de titel. Geen enkel besluit noemt een grondslag. Dat past bij een regime voor alle bomen boven de drempel waarbij daadwerkelijk wordt geweigerd.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning, omgevingsplanactiviteit) voor het kappen van een boom. Daarnaast een meldplicht (4 weken vooraf) voor dunnen, noodkap, besmettelijke boomziekte en invasieve exoten (art. 5.130); die melding is geen toestemmingsplicht voor gewone kap.",
+  "drempel": "Art. 5.127 lid 2 onder a: vrij zijn 'bomen met een omtrek van 95 cm of minder;'. Het verbod geldt dus voor bomen met een omtrek van meer dan 95 cm (ca. 30 cm diameter). Voorheen 63 cm.",
+  "omtrek_cm": 95,
+  "meethoogte": "1,30 m boven het maaiveld; bij een meerstammige boom geldt de omtrek van de dikste stam (art. 5.126)",
+  "reikwijdte": "Art. 5.127 lid 1: 'Het is verboden zonder omgevingsvergunning een boom te kappen.' Hele gemeente, particulier en openbaar. Binnen de bebouwingscontour houtkap (art. 4.33) geldt het verbod voor alle bomen boven de drempel. Buiten die contour geldt het verbod alleen voor erven en tuinen, hoogstamfruitbomen die niet bedrijfsmatig worden gehouden en wegbeplanting langs waterwegen of geknotte populieren/wilgen: '... zich bevindt op een erf of in de tuin;'. De artikelsgewijze toelichting bevestigt: 'bomen op of erven of in tuinen vallen wel onder de vergunningplicht'. Geen strook- of voorerfbeperking. De kaart van de bebouwingscontour houtkap is niet ingezien (DSO).",
+  "uitzonderingen": "Art. 5.127 lid 2: vrij zijn bomen van 95 cm omtrek of minder; houtopstand buiten de bebouwingscontour houtkap (behalve erf/tuin enz.); niet-geknotte populieren/wilgen als wegbeplanting of eenrijige beplanting bij landbouwgrond; bedrijfsmatige fruitbomen, windschermen en kweekgoed; bedrijfsmatig geteelde kerstbomen tot 20 jaar; soorten van de Europese Unielijst invasieve exoten; Prunus serotina; dunnen. Art. 5.129 lid 4: onmiddellijk dreigend gevaar of besmettelijke boomziekte. Coniferen en fruitbomen in tuinen zijn sinds het beleidsplan niet meer vrijgesteld. Geen tuin-, perceel- of aantaluitzondering voor gewone tuinbomen: geen correctie op D.",
+  "weigeringsgronden": "Art. 5.129 lid 1: 'De omgevingsvergunning wordt alleen geweigerd als de belangen, bedoeld in Artikel 5.125 , onevenredig worden geschaad.' Art. 5.125 noemt natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, levensverwachting en waarde voor klimaatadaptatie. Het beleidsplan werkt dit uit in een afwegingskader (boomwaarde tegenover verwijderingsbelang): 'Een kapaanvraag wordt geweigerd als de boomwaarde hoger is dan het verwijderingsbelang.'",
+  "herplantplicht": "Omgevingsplan art. 5.129 lid 2: 'Bij vergunningvoorschrift kan een herplantplicht worden opgelegd.' Lid 3: 'Als herbeplanten binnen het perceel van kap niet mogelijk is, kan het bevoegd gezag bij vergunningvoorschrift bepalen dat de boom niet wordt gekapt voordat een bedrag is gestort in het gemeentelijk herplantfonds.' Beleidsplan hoofdstuk 3: 'Bij een kapvergunning leggen we doorgaans herplantplicht op om zo het bomenbestand op peil te houden.' en 'Als herplant op eigen terrein niet mogelijk is moet de eigenaar een financiële vergoeding betalen die in verhouding staat tot de waarde van de te herplanten boom'. De nadere regels (CVDR743930_1) bevatten de Bomencompensatietabel (EUR 500 tot EUR 4.500 per boom).",
+  "herplant_ontsnapping": "Geen harde plicht: de verordening zegt 'kan' (college beslist per geval, bij vergunningvoorschrift). Het beleidsplan zegt 'doorgaans' en 'Bij het opleggen van herplantplicht kijken we naar de plaatselijke situatie.' Als fysieke herplant niet mogelijk is, volgt een financiële bijdrage (nadere regels art. 1 lid 1: 'specifiek bedoeld om compensatie te bieden ... in situaties waarbij fysieke herplant op het perceel niet mogelijk is'). Herplant na illegale kap: art. 5.132 lid 1 'kan het college bij maatwerkvoorschrift de verplichting opleggen'.",
+  "herplant_niet_nakomen": "Dwangsom/bestuursdwang: er is geen strafbepaling die de herplantplicht dekt. De kapregels staan in het omgevingsplan; de kapartikelen in de VFL en de APV zijn vervallen ('(Vervallen; opgenomen in de Verordening fysieke leefomgeving Blaricum 2023)' en in de VFL 'Artikel 3.75 Herplant-/instandhoudingsplicht' is '[vervallen]'). Het omgevingsplan (art. 5.132) kent geen strafbepaling. Art. 3 lid 1 van het sanctiebeleid is een beleidsregel, geen strafbepaling: 'Het illegaal kappen van een boom of het handelen in strijd met de voorschriften van een omgevingsvergunning wordt beschouwd als een economisch delict'. Blijft over: sanctiebeleid art. 2 lid 1: 'Het college kan een last onder dwangsom opleggen, indien: ... een anderszins opgelegde herplantplicht niet binnen de gestelde termijn en/of in overeenstemming met de daarbij gegeven voorschriften is uitgevoerd.' Tabel: niet naleven herplantplicht omgevingsvergunning 'Aantal te herplanten bomen x 4.500 euro'. Lid 3: 'Het college kan ervoor kiezen om in plaats van een last onder dwangsom een last onder bestuursdwang op te leggen.' Twijfelgeval: eerder als 'meerdere' beoordeeld op grond van art. 3 van het sanctiebeleid (WED).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "sancties": "WED via de Omgevingswet (art. 5.1 lid 1 onder a, omgevingsplanactiviteit): de legesverordening noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Geen eigen strafbepaling voor kap en geen bestuurlijke boete in de regeling. Sanctiebeleid: dwangsom (illegale kap: 'Aantal gekapte bomen x 5.000 euro'), bestuursdwang, kapstop, preventieve dwangsom, en herplantplicht na illegale kap; art. 3 verwijst voor het strafrecht naar 'artikel 1a, onder 3, van de Wet op de economische delicten' (wijkt af van onder 2 voor omgevingsplanactiviteiten: mogelijk foute verwijzing, S niet beïnvloed).",
+  "procedure": "Leges 2026 art. 2.30: EUR 205,00 per boom voor het vellen, EUR 405,00 per boom voor legalisatie van een illegale velling. Beslistermijn en bezwaar/beroep niet apart gelezen (algemeen: Awb en Omgevingswet). Kapbesluiten worden bekendgemaakt in het gemeenteblad (Gemeenteblad, bijv. gmb-2026-97206).",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem (regime voor alle bomen boven de omtrekdrempel)",
+  "status": "ok",
+  "ontbrekend": "Kaart van de bebouwingscontour houtkap (omgevingsplan art. 4.33, DSO) niet ingezien; heeft geen effect op de score omdat tuinen en erven buiten de contour ook onder het verbod vallen. Het volledige afwegingskader (bijlage 1 beleidsplan) alleen op kernpunten gelezen. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "Omgevingsplan CVDR696294_5 art. 4.33, 5.124, 5.125, 5.126, 5.127, 5.128, 5.129, 5.130, 5.132, 22.299",
+    "Beleidsplan kapaanvragen CVDR743926_1 hoofdstuk 2 en 3",
+    "Nadere regels financiële herplantplicht CVDR743930_1 art. 1 en 2",
+    "Sanctiebeleid bomenkap CVDR743927_1 art. 1, 2, 3",
+    "Legesverordening 2026 CVDR753005_2 art. 2.30"
+  ],
+  "opmerkingen": [
+    "D3: art. 5.127 lid 2 onder a 'bomen met een omtrek van 95 cm of minder;' is vrij; hele gemeente inclusief erven en tuinen, dus omtrek 60-100 cm. Geen tuinuitzondering (art. 5.131 gaat alleen over de erfgrensafstand uit het BW).",
+    "Boom A (80 cm) en boom B (40 cm) liggen onder de drempel van 95 cm: geen vergunning nodig.",
+    "W2: 'De omgevingsvergunning wordt alleen geweigerd als de belangen, bedoeld in Artikel 5.125 , onevenredig worden geschaad.' (besluit 14-11-2026: W2 zonder bereik).",
+    "H1 (max 2): verordening zegt 'kan' (art. 5.129 lid 2). Beleidsplan: 'leggen we doorgaans herplantplicht op' is geen 'altijd' of 'wordt' en wordt per geval beoordeeld (uitgangspunt per geval, dus geen vast voorschrift). De zin 'moet de eigenaar een financiële vergoeding betalen' geldt alleen als herplant op eigen terrein niet mogelijk is; de verordening en de nadere regels zeggen voor die storting 'kan'. Daarom H1 met maximum 2 en geen H3.",
+    "S1: WED via Ow 5.1 (omgevingsplanactiviteit, bewezen door de legesverordening); geen bestuurlijke boete in de regeling; herplant na illegale kap 'kan' (art. 5.132). Sanctiebeleid kent alleen dwangsom en bestuursdwang.",
+    "Herplant of compensatie bij kap voor een ruimtelijke ontwikkeling of na illegale kap telt niet voor H (financiële herplantplicht bij illegale kap: taxatiewaarde of Bomencompensatietabel, nadere regels art. 2 lid 2).",
+    "Beleidsregels (sanctiebeleid, nadere regels) verwijzen nog naar de inmiddels vervallen VFL-artikelen 3.71, 3.74 en 3.75 en naar 'artikel 4.16 APV'. Het omgevingsplan (art. 5.129, 5.132) heeft de inhoud overgenomen. Of de beleidsregels nog worden aangepast, is niet vastgesteld.",
+    "Blaricum en Laren: vrijwel gelijke regelingen. Verschil Blaricum: drempel 95 cm (Laren 63 cm), nadere regels en sanctiebeleid van 2025 (Laren 2022), dwangsom EUR 5.000 per gekapte boom (Laren EUR 1.500 per week gedurende 6 weken), Bomencompensatietabel andere klassen.",
+    "Het Beleidsplan Groenbeheer 2023-2035 (CVDR724164_1) kondigt een nog vast te stellen 'groene' bebouwde komgrens aan; dat is geen geldende kapregel."
+  ],
+  "modelsignalen": [
+    "Een beleidsplan dat zegt 'doorgaans herplantplicht' en 'moet de eigenaar een financiële vergoeding betalen' (als herplant niet kan), terwijl de verordening 'kan' zegt: het model geeft geen duidelijke regel voor 'doorgaans'. Gescoord als H1 (max 2)."
+  ]
+}

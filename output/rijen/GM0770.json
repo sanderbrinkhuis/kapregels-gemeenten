@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0770",
+  "gemeente": "Eersel",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem voor het hele grondgebied: buiten de bebouwde kom geldt een breed regime, binnen de kom alleen de lijst. De lijst met monumentale bomen (art. 4:11e) en de lijst met beschermwaardige bomen (art. 4:11f) staan niet in CVDR of in tekst/ en zijn niet ingezien. Het Bomenbeleidsplan CVDR667435_2 noemt particuliere eigenaren van monumentale bomen ('Voor plaatsing op de lijst worden de particuliere boomeigenaren op de hoogte gesteld') en 'een kleine 1% van de bomen in de gemeente Eersel is monumentaal', maar geeft geen aantal. De lijst bepaalt D niet.",
+  "brondocument": "Algemene Plaatselijke Verordening Eersel 2025, afdeling 4.3 (art. 4:10, 4:11a t/m 4:11g, 4:12a) en art. 6:1 (CVDR734023_1); Legesverordening Eersel 2026 art. 2.30 (CVDR751940_1); Bomenbeleidsplan gemeente Eersel 2023-2033 (CVDR667435_2) par. 6 en 6.4; Omgevingsplan art. 22.299 (CVDR696399_2, alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR734023/1 ; https://lokaleregelgeving.overheid.nl/CVDR751940/1 ; https://lokaleregelgeving.overheid.nl/CVDR667435/2 ; https://lokaleregelgeving.overheid.nl/CVDR696399/2",
+  "datum_geldigheid": "APV CVDR734023_1 geldend vanaf 2025-01-24 t/m heden (peildatum scoren 2026-11-15); leges CVDR751940_1 vanaf 2026-01-01; Bomenbeleidsplan CVDR667435_2 vanaf 2023-06-01",
+  "laatste_wijziging": "APV: versie 1 per 2025-01-24 (nieuwe APV 2025); leges 2026 per 2026-01-01; omgevingsplan versie 2 per 2024-08-19",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR751940_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de artikelen 4:11a, 4:11b, 4:11c van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 75 bekendmakingen, waarvan 0 als besluit en 41 als aanvraag gemarkeerd, 0 weigeringen volgens de titel. Steekproef: geen besluiten opgehaald, dus geen grondslag te controleren. Weinig besluiten sinds 2025 past bij een regime dat binnen de kom alleen lijstbomen beschermt; het zegt niets over de buitenkom.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstand (art. 4:11c lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.'). Binnen de bebouwde kom alleen voor monumentale bomen (art. 4:11a) en beschermwaardige bomen (art. 4:11b) op de lijst (art. 4:11c lid 2 onder i). Buiten de kom geldt het verbod voor alle houtopstand, behalve solitaire bomen of een groepje bomen in tuinen of erven met een omtrek kleiner dan 95 cm.",
+  "drempel": "Buiten de bebouwde kom in tuinen en erven: omtrek kleiner dan 95 cm vrij ('met een omtrek kleiner dan 95 centimeter, gemeten op een hoogte van 1,30 meter boven het maaiveld'). Overige houtopstand buiten de kom: geen omtrekdrempel; 'boom' is een gewas met een dwarsdoorsnede van minimaal 10 cm op 1,3 m (art. 4:10 lid 1 onder a) = omtrek ca. 31 cm. Binnen de kom: geen drempel, alleen lijst.",
+  "omtrek_cm": 95,
+  "meethoogte": "130 cm boven het maaiveld",
+  "reikwijdte": "Hele grondgebied, particulier en openbaar, maar verschillend binnen en buiten de bebouwde kom. Binnen de kom: alleen houtopstand op de bomenlijst: 'houtopstand binnen de bebouwde kom, die niet voorkomt op de door het college vastgestelde bomenlijst (monumentale en beschermwaardige bomen), als bedoeld in artikelen 4:11e en 4:11f' is uitgezonderd (art. 4:11c lid 2 onder i). Buiten de kom: verbod voor alle houtopstand, ook in tuinen en erven vanaf 95 cm omtrek. Bebouwde kom: Wegenverkeerswet (art. 1:1 onder a).",
+  "uitzonderingen": "Art. 4:11c lid 2: kerstbomen (fijnsparren tot 12 jaar), vruchtbomen en windschermen om boomgaarden, kweekgoed, bosbouwondernemingen buiten de kom, Plantenziektewet, knotten/kandelaberen/dunnen als regulier onderhoud, spoedeisend belang of direct gevaar mits het college toestemming geeft, solitaire bomen of een groepje bomen buiten de kom in tuinen of erven met een omtrek kleiner dan 95 cm, houtopstand binnen de kom die niet op de bomenlijst staat, en Bal-bospercelen groter dan 10 are. Geen correctie -1: de tuinvrijstelling is een omtrekdrempel (95 cm), en de vrijstelling voor de kom geldt voor het hele regime binnen de kom en wordt als apart deel gescoord.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:11d lid 1: 'Het college kan een omgevingsvergunning weigeren dan wel onder voorschriften verlenen.' Lid 2: 'kan worden geweigerd op grond van' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of waarde voor leefbaarheid en recreatie. Alleen voor lijstbomen strenger: monumentale bomen 'slechts bij hoge uitzondering verleend' (art. 4:11a lid 2), beschermwaardige bomen 'bij uitzondering' (art. 4:11b lid 2).",
+  "herplantplicht": "Art. 4:11g lid 1: 'Tot de aan de (omgevings-)vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen, moet worden herplant.' Lid 2: 'Er wordt een herplantplicht opgelegd indien een van de waarden, zoals genoemd in de weigeringsgronden, aangetast wordt. De herplant dient als compensatie van die aantasting.' Lid 4: bij niet ter plaatse herplanten 'kan' een financiële herplantplicht worden opgelegd 'conform het bomenbeleidsplan paragraaf 8.3.2'. Bomenbeleidsplan par. 6.4: 'Vanuit het plan Bos & Boom is vastgesteld om voor iedere gekapte boom, drie bomen terug te planten.' Na illegale kap: art. 4:12a lid 1 'kan' het college herplant opleggen; lid 3 'wordt een financiële herplantplicht opgelegd' als niet ter plaatse kan worden herplant.",
+  "herplant_ontsnapping": "Art. 4:11g lid 1 'kan' (bevoegdheid) naast lid 2 'wordt een herplantplicht opgelegd indien een van de waarden ... aangetast wordt' (voorwaarde: aantasting van de waarden). Het bevoegd gezag (college) beslist per geval. Als herplant ter plaatse niet kan: lid 4 'kan ... het voorschrift dat een financiële herplantplicht wordt opgelegd'. Een verwijzing naar 'paragraaf 8.3.2' van het bomenbeleidsplan, maar die paragraaf (8.3.2 Levensverwachting) gaat niet over compensatie.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Art. 4:11g lid 9: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht hieraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie, hetzij een geldboete van de eerste categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet: de kapregel werkt als omgevingsplanactiviteit (legesverordening art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'), dus WED art. 1a onder 2 via Ow 5.1. De APV-WED-aanwijzing (art. 6:1 lid 2) noemt alleen artikelen 2:10, 2:11 en 4:15; voor art. 4:11c geldt de algemene strafbepaling art. 6:1 lid 1 (hechtenis tot drie maanden of geldboete tweede categorie). Geen bestuurlijke boete voor kappen. Herplant na illegale kap: art. 4:12a (kan), Bomenbeleidsplan 6.4 'wordt eveneens een herplantplicht opgelegd'.",
+  "procedure": "Omgevingsvergunning. Leges 2026 art. 2.30: EUR 104,40. Beslistermijn: APV art. 1:2 lid 4: 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning'. Art. 1:9: positieve fictieve beslissing (Awb 4.1.3.3) is 'wel van toepassing' op 'artikel 4:11a,b en c omgevingsvergunning vellen van houtopstanden'. Bezwaar en beroep via de Awb.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "De lijst met monumentale bomen (art. 4:11e) en de lijst met beschermwaardige bomen (art. 4:11f) staan niet in het dossier, in CVDR of in tekst/ en zijn niet ingezien; ze bepalen D niet (D volgt uit het regime buiten de kom), maar zijn nodig voor voorbeeldbomen A en B binnen de kom. Bomenbeleidsplan: bijlage 5 (structuurkaart) en 11 niet ingezien. De verwijzing in art. 4:11g lid 4 en 4:12a lid 3 naar 'bomenbeleidsplan paragraaf 8.3.2' klopt niet met de inhoud van die paragraaf (Levensverwachting): de financiële herplantplicht is dus nergens uitgewerkt, behalve in par. 6.4 (boomwaarde, Bos & Boom). Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV Eersel 2025 art. 1:2, 1:9, 4:10, 4:11a, 4:11b, 4:11c, 4:11d, 4:11e, 4:11f, 4:11g, 4:12a, 6:1 (CVDR734023_1)",
+    "Legesverordening Eersel 2026 art. 2.30 (CVDR751940_1)",
+    "Bomenbeleidsplan gemeente Eersel 2023-2033 par. 6 en 6.4 (CVDR667435_2)",
+    "Omgevingsplan art. 22.299 (CVDR696399_2)"
+  ],
+  "opmerkingen": [
+    "D3: de APV scheidt binnen en buiten de bebouwde kom. Binnen de kom is alleen houtopstand op de lijst beschermd (D1, lijst niet ingezien). Buiten de kom geldt het verbod voor alle houtopstand, ook in tuinen en erven vanaf 95 cm omtrek ('met een omtrek kleiner dan 95 centimeter' is vrij): lage-middelmatige drempel 60-100 cm = D3. Regel 'verschillende regels binnen en buiten de kom': hoogste deel telt; de buitenkomregel dekt ook tuinen en erven, dus D op de drempel van 95 cm. Het Bomenbeleidsplan zegt hetzelfde: 'Buiten de bebouwde kom geldt de Wet natuurbescherming en de APV.Bomen met een omtrek groter dan 95 cm op een hoogte van 1,30 meter en monumentale bomen zijn hierbij extra beschermd.'",
+    "Voorbeeldbomen A (80 cm) en B (40 cm) in een achtertuin binnen de kom: alleen een vergunning als de boom op de lijst staat (art. 4:11c lid 2 onder i). Het Bomenbeleidsplan bevestigt: 'Voor het kappen van bomen binnen de bebouwde kom is enkel de APV van toepassing. Bomen mogen worden gekapt, zolang dit geen monumentale bomen zijn.' Zouden dezelfde bomen buiten de kom staan, dan zijn beide vrij (omtrek kleiner dan 95 cm).",
+    "W2 zonder bereik: 'Het college kan een omgevingsvergunning weigeren dan wel onder voorschriften verlenen.' (art. 4:11d lid 1), met gronden natuur, landschap, stads- en dorpsschoon, beeld, cultuurhistorie en leefbaarheid (lid 2). Het strengere regime voor monumentale bomen ('slechts bij hoge uitzondering', art. 4:11a lid 2) en beschermwaardige bomen ('bij uitzondering', art. 4:11b lid 2) geldt alleen voor lijstbomen en staat hier alleen als opmerking.",
+    "H2 (min 1): de verordening zegt zowel 'kan' (art. 4:11g lid 1) als 'Er wordt een herplantplicht opgelegd indien een van de waarden, zoals genoemd in de weigeringsgronden, aangetast wordt' (lid 2), en het vastgestelde Bomenbeleidsplan (CVDR667435_2, geldend) zegt in par. 6.4 'Vanuit het plan Bos & Boom is vastgesteld om voor iedere gekapte boom, drie bomen terug te planten.' Lid 2 en beleidsplan samen: H2. Min 1 omdat lid 2 voorwaardelijk is (alleen bij aantasting van de waarden) en lid 1 'kan' zegt. Betalen blijft 'kan' (lid 4), dus geen H3.",
+    "Herplant na illegale kap: de verordening zegt 'kan' (art. 4:12a lid 1: 'kan het college ... de verplichting opleggen te herbeplanten'), maar het vastgestelde Bomenbeleidsplan par. 6.4 zegt 'Als een boom of houtopstand illegaal wordt gekapt of te rigoureus gesnoeid, ernstig beschadigd of ontsierd, wordt eveneens een herplantplicht opgelegd.' Art. 4:12a lid 3: 'Indien niet ter plaatse kan worden herplant wordt een financiële herplantplicht opgelegd conform het bomenbeleidsplan paragraaf 8.3.2.' Volgens de regel 'tegenstrijdige teksten' telt het beleid: herplant na illegale kap verplicht. Beleidsplan par. 6.4 noemt ook aangifte bij de politie en verhaal van de schade (boomwaarde). Telt voor S1, niet voor H.",
+    "S1: WED via de Omgevingswet (legesverordening 2.30 noemt de APV-artikelen 4:11a, 4:11b en 4:11c een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'); herplant na illegale kap is verplicht volgens het beleid. Geen bestuurlijke boete voor kappen, dus geen S2 of S3. De beleidsregel 'Groen loont!' (CVDR643272_1) noemt 'Verloren gegane boomwaarden ... De berekende schade wordt verhaald op de veroorzaker' (civielrechtelijke schadeverhaal bij illegale kap, geen boete in de regeling).",
+    "Bomenbeleidsplan en beleidsregel Groen loont! gaan voor een deel over gemeentelijke bomen; de passages in par. 6.4 gelden uitdrukkelijk ook voor 'het aanvragen van een kapverzoek' en 'boomeigenaren'. Groen loont! 6.2.2 bevat een bestemmingsplanbeleid (aanlegvergunning) dat vervalt met het omgevingsplan en niet is gescoord.",
+    "Open punt: 'houtopstand' is gedefinieerd als bomen 'die onderdeel uitmaken van een houtwal, een grotere (lint)begroeiing van heesters en struiken of een beplanting van bosplantsoen' (art. 4:10 lid 1 onder b), terwijl art. 4:11c lid 2 onder h solitaire bomen in tuinen buiten de kom uitzondert. Dat wijst erop dat solitaire bomen onder het verbod vallen en dat de kapregel breder is dan de definitie. Gescoord op de verbodstekst en de uitzonderingen, niet op de definitie.",
+    "Alleen het regime voor bomen op particulier terrein; Wnb-houtopstand (Bal) valt onder de provincie (art. 4:11c lid 2 onder j)."
+  ],
+  "modelsignalen": [
+    "Eersel heeft geen tuinuitzondering in de kom, maar een lijstsysteem binnen de kom en een breed regime (met tuin-omtrekdrempel 95 cm) buiten de kom. Het model laat hier D op de buitenkomregel gelden (D3), terwijl voorbeeldbomen A en B (in de kom) 'alleen als op lijst' zijn. Dat volgt uit INTENT ('D per deel, hoogste telt'; 'rapport laat A en B als feit voorgaan'), maar maakt de D-score van Eersel weinig representatief voor een achtertuin in de kom, de gebruikelijke situatie.",
+    "Definitie van 'houtopstand' (art. 4:10 lid 1 onder b) is smaller dan het gebruik in art. 4:11c; model heeft geen regel voor een verbod dat breder is dan de eigen definitie (opdracht: score op de verbodstekst).",
+    "Herplant: lid 1 'kan', lid 2 'wordt ... indien waarden aangetast', beleidsplan 'drie bomen terug'. Model heeft geen regel voor een voorwaardelijk 'wordt' binnen dezelfde bepaling als 'kan'; H2 met min 1 gekozen."
+  ]
+}

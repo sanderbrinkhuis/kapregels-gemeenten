@@ -1,0 +1,71 @@
+{
+ "gm_code": "GM1940",
+ "gemeente": "De Fryske Marren",
+ "provincie": "Fryslân",
+ "brondocument": "Algemene Plaatselijke Verordening De Fryske Marren, afdeling 4.3 (CVDR709843_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR709843/1",
+ "datum_geldigheid": "Geldend van 2024-01-01 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2024-01-01 (CVDR709843_1, enige versie in het dossier)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (CVDR755541_1 art. 2.30: \"vellen van een houtopstand; als bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet\") en WED-aanwijzing in APV 6:1 lid 3; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+ "praktijkcontrole": "110 bekendmakingen sinds 2025, waarvan 47 besluiten en 1 weigering (volgens titel). Alleen twee kapbesluiten voor bomen zichtbaar in de lijst (5 bomen, 2 bomen); de rest gaat over daken ('kap'). Past bij een beperkt lijstsysteem. Geen grondslag in besluiten genoemd.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) alleen voor een beschermde houtopstand op de door het college vastgestelde lijst (art. 4:10b lid 1)",
+ "drempel": "Geen drempel voor lijstbomen. Een 'boom' is een gewas met een stamomtrek van minimaal 65 cm op 1,3 m (art. 4:10 onder a)",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Alleen beschermde houtopstand op de lijst (art. 4:10c: \"een houtopstand die is vastgelegd op een door het college vastgestelde lijst\"); ook gemeentelijke bomen (art. 4:14a).",
+ "uitzonderingen": "Art. 4:10b lid 3: spoedeisend belang of direct gevaar, met toestemming van de burgemeester. Geen soortuitzonderingen in de APV-tekst.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 4:10b lid 2: \"Een vergunning, zoals bedoeld in lid 1, wordt verleend, indien: a. een zwaarwegend maatschappelijk belang opweegt tegen het duurzaam behoud van de beschermde houtopstand; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of ernstige schade.\" Dat betekent in feite weigeren tenzij.",
+ "herplantplicht": "Art. 4:11 lid 1: \"Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegde gezag te geven aanwijzingen moet worden herplant.\" Na illegale kap art. 4:12 lid 1: \"kan het bevoegd gezag ... de verplichting opleggen te herplanten\".",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid (\"kan\"), geen plicht. Het college beslist per geval. Geen betaling als alternatief in de tekst gevonden. De Groenvisie 2023-2027 (CVDR718477_1) noemt 1,1 nieuwe boom per gekapte boom, maar dat is een visie over gemeentelijk groen en geen vast voorschrift.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:11 lid 6: \"Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.\" Art. 4:12 lid 4 idem. Art. 4:12 staat in art. 6:1 lid 1 (\"hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie\"). Handhavingsbeleid (CVDR700318_1, bijlage C): \"Na illegaal kappen niet herplanten | Beperkt | Dwangsom | €750 p.w. max. 10X\" en bij veel bomen \"1500 p.w. Max 10X\".",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 3: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:10b, eerste lid\". Ook eigen strafbepaling (art. 6:1 lid 1, 4:10b en 4:12). Bestuurlijke boete in de regeling: art. 6:1a lid 1 noemt 4:10b en de bijlage geeft \"4:10b | Kapverbod | 140\" (€ 140). Geen verder vastgelegd boetebeleid voor kap gevonden (handhavingsbeleid noemt alleen dwangsom bij niet herplanten).",
+ "procedure": "Leges (CVDR755541_1 en CVDR756625_1, art. 2.30): vellen van een houtopstand € 176,65. Bij niet tijdig beslissen geldt een positieve fictieve beschikking (art. 4:10b lid 4, afdeling 4.1.3.3 Awb). Schadevergoeding mogelijk (art. 4:13).",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien (twee pogingen op de gemeentelijke website leverden niets op)",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "status": "onzeker",
+ "ontbrekend": "Bomenlijst niet ingezien en niet bekend of er particuliere bomen op staan; de lijst wordt in de Groenvisie 2023-2027 wel genoemd (\"Monumentale bomen ... staan vermeld op de gemeentelijke bomenlijst\"), maar die tekst zegt niets over eigendom.",
+ "artikelnummers": [
+  "APV art. 4:10, 4:10a, 4:10b, 4:11, 4:12, 6:1, 6:1a en bijlage 1 (CVDR709843_1)",
+  "Leges art. 2.30 (CVDR755541_1)",
+  "Omgevingsplan art. 22.299 (CVDR696523_5)"
+ ],
+ "opmerkingen": [
+  "Doorslaggevende citaten: W: \"wordt verleend, indien: a. een zwaarwegend maatschappelijk belang opweegt tegen het duurzaam behoud van de beschermde houtopstand\" (art. 4:10b lid 2); H: \"Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.\" (art. 4:11 lid 1).",
+  "Lijstsysteem: puntschatting D1, bereik vanaf D0 omdat niet bekend is of er particuliere bomen op de lijst staan.",
+  "S2: bestuurlijke boete van € 140 voor kap in strijd met art. 4:10b staat in de APV (bijlage bij art. 6:1a). Dat is een vast bedrag; boetebeleid dat de boete koppelt aan boomwaarde of direct opleggen is niet gevonden, dus geen S3.",
+  "Omgevingsplan (CVDR696523_5, geldend vanaf 2026-11-06): alleen aanvraagvereisten (art. 22.299), geen eigen kapregel.",
+  "De Groenvisie 2023-2027 noemt een bomenbeleidsplan 'in de toekomst'; er is geen vastgestelde beleidsregel over herplant of compensatie gevonden."
+ ],
+ "modelsignalen": []
+}

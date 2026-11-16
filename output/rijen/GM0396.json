@@ -1,0 +1,79 @@
+{
+  "provincie": "Noord-Holland",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "modelsignalen": [
+    "De Groene Kaart bevat ook 'lichtgroene vlakken' met alle bomen van niet-particuliere eigenaren op grotere percelen; dat is een gebiedsregel die buiten het begrip 'particulier terrein' (perceel van een burger) valt en dus niet meetelt voor D.",
+    "Bij een lijstsysteem waarvan de kaart niet is ingezien, geeft het model een bereik vanaf D0, ook als de beleidsregel zelf vastlegt dat particuliere bomen op de kaart staan.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst niet ingezien, maar vastgestelde regeling of beleid bevestigt dat er particuliere bomen op staan: D-minimum 1 (was 0)."
+  ],
+  "gm_code": "GM0396",
+  "gemeente": "Heemskerk",
+  "brondocument": "Apv Heemskerk 2023-II art. 4:10, 4:11, 6:1, 1:4, 1:8; Beleidsregel groene kaart (CVDR641493_1); Uitvoerings- en Handhavingsstrategie VTH 2024-2027 (CVDR712297_1); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR702435/1 ; https://lokaleregelgeving.overheid.nl/CVDR641493/1",
+  "datum_geldigheid": "Apv CVDR702435_1 geldend vanaf 2024-01-01 t/m heden; Beleidsregel groene kaart CVDR641493_1 geldend vanaf 2020-06-26 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "Apv: versie 1 per 2024-01-01 (geen latere versie). Beleidsregel groene kaart: vastgesteld 2020-04-21, in werking 2020-06-26.",
+  "juridische_plaats": "APV (art. 4:11); volgens de VTH-strategie CVDR712297_1 hoort art. 4:11 'na de overgangstermijn' bij het omgevingsplan. De legesverordening 2026 art. 2.30 (kappen) is 'Gereserveerd', dus geen bewijs uit de leges dat het als omgevingsplanactiviteit werkt. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten. Scoring van S op de APV-tekst zelf (WED-aanwijzing).",
+  "praktijkcontrole": "Sinds 2025: 37 bekendmakingen op titel, waarvan 3 besluiten, 22 aanvragen en 0 weigeringen (volgens titel). De steekproef van 3 besluiten noemt geen grondslag; 2 daarvan zijn intrekkingen van een aanvraag, 1 is een verleende vergunning voor een project (11 bomen). Weinig kapbesluiten, passend bij een lijstsysteem.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de groene kaart zijn vermeld (art. 4:11 lid 1).",
+  "drempel": "Geen omtrekdrempel: alleen bomen op de groene kaart. Een 'boom' is een gewas 'met een dwarsdoorsnede van de stam van minimaal 10 centimeter op 1,3 meter hoogte' (art. 4:10).",
+  "omtrek_cm": null,
+  "meethoogte": "1,3 m (alleen begripsbepaling 'bomen', geen drempel voor de vergunningplicht)",
+  "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die zijn vermeld op de groene kaart.' Beleidsregel art. 3 lid 1: 'Op de groene kaart zijn alle waardevolle bomen van particuliere eigenaren opgenomen.' Lid 4: bomen van andere eigenaren (niet burger, niet gemeente) zijn niet individueel beoordeeld; op grotere percelen staan ze in 'lichtgroen gekleurde vlakken', 'afzonderlijke (solitaire) bomen zijn als waardevolle boom op de groene kaart opgenomen'. Toelichting: 'Bomen die niet of als niet waardevol op de groene kaart staan mogen zonder vergunning worden geveld.' Hele grondgebied, particulier en gemeentelijk, alleen aangewezen bomen.",
+  "uitzonderingen": "Art. 4:11 lid 2: niet van toepassing op gemeentelijke 'overige gemeente boom' bij beheer en op goedgekeurd meerjarenonderhoud; lid 3: spoedeisend belang of direct gevaar (burgemeester); lid 4: geen vergunning bij boomziekte met melding 'vijftien werkdagen voor de voorgenomen velling'. Bomen die niet op de kaart staan zijn vrij.",
+  "weigeringsgronden": "Art. 4:11 lid 6: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (t/m f: landschap, stads- en dorpsschoon, beeldbepalend, cultuurhistorie, leefbaarheid). Lid 7: alsnog verlenen 'als het maatschappelijk belang ... zwaarder weegt dan het belang dat is gediend met het behoud'. Lid 8: 'Het bevoegd gezag verleent alleen een omgevingsvergunning voor het vellen van een houtopstand als alternatieven voor het behoud van de houtopstand zijn onderzocht'. Beleidsregel toelichting: 'Als een boom als waardevol op de groene kaart is opgenomen houdt dat in dat er zwaarwegende redenen moeten zijn om tot het vellen van deze boom over te gaan.'",
+  "herplantplicht": "Art. 4:11 lid 9: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleidsregel toelichting bij straat- en laanbomen (gemeentebomen): 'Waar mogelijk zal herplant plaatsvinden.' Geen financiele compensatie.",
+  "herplant_ontsnapping": "Geen uitweg genoemd; de Apv geeft een bevoegdheid ('kan'). Het bevoegd gezag (college) beslist per geval. Herplant na illegale kap niet geregeld.",
+  "sancties": "Apv art. 6:1 lid 3: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, eerste lid' (WED-aanwijzing in de regeling). Ook lid 1 noemt 4:11 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie), maar lid 3 gaat voor. Geen bestuurlijke boete voor kappen (lid 4 betreft alleen de Wet veiligheidsregio's). Handhavingsstrategie noemt geen kap-specifiek boetebeleid.",
+  "procedure": "Beslistermijn: art. 1:2 lid 3 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning' (dus Omgevingswet-termijn). Leges 2026 art. 2.30 kappen: 'Gereserveerd' (geen tarief gevonden in dossier). Bekendmaking van besluiten in het gemeenteblad (ODIJ-zaaknummers). Advies van groendeskundige (VTH-strategie). Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niet specifiek geregeld. Art. 1:4 lid 2 Apv: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen', maar lid 3 zegt: 'Dit artikel is niet van toepassing op een omgevingsvergunning.' Alleen algemeen instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Groene Kaart niet ingezien: de gemeentelijke website gaf bij korte zoekpogingen 404. Particuliere bomen staan wel op de kaart volgens de beleidsregel (art. 3 lid 1); aantallen onbekend",
+  "status": "ok",
+  "ontbrekend": "De Groene Kaart zelf (aantal bomen en aantal particuliere bomen) is niet gevonden. Leges voor kappen (art. 2.30 'Gereserveerd'): tarief niet gevonden. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "Apv 2023-II art. 4:10, 4:11, 6:1, 1:2, 1:4, 1:8",
+    "Beleidsregel groene kaart art. 3, 13 en toelichting",
+    "VTH-strategie CVDR712297_1 par. 4.5",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (min 0): lijstsysteem (groene kaart); kaart niet ingezien, dus bereik vanaf D0 (INTENT, ONZEKERHEID). De beleidsregel zegt dat 'alle waardevolle bomen van particuliere eigenaren' op de kaart staan, dus D0 is onwaarschijnlijk.",
+    "Lichtgroene vlakken op grotere percelen (bomen van eigenaren anders dan burgers of gemeente) zijn een gebiedsregel voor niet-particuliere eigenaren; voor 'particulier terrein' (perceel van een burger) telt alleen D1.",
+    "W2 (max 3): 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11 lid 6). De beleidsregel noemt 'zwaarwegende redenen' voor kap van waardevolle bomen en lid 8 verlangt onderzoek naar alternatieven; dat kan op W3 wijzen, maar lid 7 laat een gewone afweging van belangen toe. Daarom W2 met max 3.",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 9); 'Waar mogelijk zal herplant plaatsvinden' staat alleen bij gemeentelijke straatbomen en maakt geen vast voorschrift.",
+    "S1: WED-aanwijzing in Apv art. 6:1 lid 3 voor 4:11 lid 1. Geen bestuurlijke boete voor kappen.",
+    "Boom A en B: alleen vergunningplichtig als de boom als waardevol op de groene kaart staat.",
+    "Praktijk: slechts 3 kapbesluiten sinds 2025 en geen weigeringen; consistent met alleen een kaart van waardevolle bomen."
+  ]
+}

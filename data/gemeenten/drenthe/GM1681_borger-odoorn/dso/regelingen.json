@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1681/2024/Regelingad9e95d2d1794314aeca52a1e2ec87fe",
+    "titel": "Omgevingsprogramma Exloo",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1681/2024/Regelingad9e95d2d1794314aeca52a1e2ec87fe/nld@2025-06-24;09370026",
+    "beginGeldigheid": "2025-06-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1681_2024_Regelingad9e95d2d1794314aeca52a1e2ec87fe?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:55Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1681/2026/Regelingadc35beb352549978c3a283498240ac9",
+    "titel": "Omgevingsvisie Gemeente Borger-Odoorn",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1681/2026/Regelingadc35beb352549978c3a283498240ac9/nld@2026-07-27;09541617",
+    "beginGeldigheid": "2023-11-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1681_2026_Regelingadc35beb352549978c3a283498240ac9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:55Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1681/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Borger-Odoorn",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1681/2020/omgevingsplan/nld@2024-11-19;15234343",
+    "beginGeldigheid": "2024-11-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1681_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:55Z"
+  }
+]

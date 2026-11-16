@@ -1,0 +1,27 @@
+{
+  "gemeente": "Hellendoorn",
+  "gm_code": "GM0163",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Hellendoorn",
+  "zoeknaam_bekendmakingen": "Hellendoorn",
+  "opgehaald_op": "2026-11-14T21:47:55+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hellendoorn\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 85,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hellendoorn\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 256,
+  "geldende_regelingen": 17,
+  "geldend_met_kapartikelen": [
+    "CVDR683501_2",
+    "CVDR696199_12",
+    "CVDR696856_1",
+    "CVDR743312_1",
+    "CVDR751241_1"
+  ],
+  "bekendmakingen_besluiten": 116,
+  "bekendmakingen_aanvragen": 127,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

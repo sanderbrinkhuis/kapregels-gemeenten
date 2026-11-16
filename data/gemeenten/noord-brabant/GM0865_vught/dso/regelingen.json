@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0865/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Vught",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0865/2020/omgevingsplan/nld@2024-07-05;1",
+    "beginGeldigheid": "2024-07-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0865_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0865/2023/Omgevingsvisie",
+    "titel": "Omgevingsvisie Vught",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0865/2023/Omgevingsvisie/nld@2025-08-07;1",
+    "beginGeldigheid": "2025-08-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0865_2023_Omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:22Z"
+  }
+]

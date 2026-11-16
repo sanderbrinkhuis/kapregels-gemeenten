@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0820/2025/actieplan_geluid",
+    "titel": "Actieplan Geluid 2024-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0820/2025/actieplan_geluid/nld@2025-08-04;1",
+    "beginGeldigheid": "2025-08-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0820_2025_actieplan_geluid?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0820/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Nuenen c.a.",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0820/2020/omgevingsplan/nld@2025-12-09;1",
+    "beginGeldigheid": "2026-01-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0820_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0820/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Nuenen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0820/2025/omgevingsvisie/nld@2026-01-06;1",
+    "beginGeldigheid": "2026-01-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0820_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:52Z"
+  }
+]

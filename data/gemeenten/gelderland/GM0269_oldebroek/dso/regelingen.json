@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0269/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oldebroek",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0269/2020/omgevingsplan/nld@2024-04-02;2",
+    "beginGeldigheid": "2024-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0269_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0269/2025/Regeling6de4831ca56f41328ef581bd49d43c47",
+    "titel": "Kleine windturbines gemeente Oldebroek",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0269/2025/Regeling6de4831ca56f41328ef581bd49d43c47/nld@2025-12-02;13133507",
+    "beginGeldigheid": "2025-11-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0269_2025_Regeling6de4831ca56f41328ef581bd49d43c47?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0269/2025/Regelingef9331811a8c4c9bb5dd5721b7d189cf",
+    "titel": "Wezep Oost",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0269/2025/Regelingef9331811a8c4c9bb5dd5721b7d189cf/nld@2026-03-26;15233299",
+    "beginGeldigheid": "2026-04-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0269_2025_Regelingef9331811a8c4c9bb5dd5721b7d189cf?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0269/2025/Regelingf04eeb77724648aabee7041e25ae81b1",
+    "titel": "Oldebroek Oost",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0269/2025/Regelingf04eeb77724648aabee7041e25ae81b1/nld@2026-03-26;15011289",
+    "beginGeldigheid": "2026-04-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0269_2025_Regelingf04eeb77724648aabee7041e25ae81b1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0269/2026/Regeling60c3cafd3cad474f914e0a82d13fee5c",
+    "titel": "Broeklanden III",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0269/2026/Regeling60c3cafd3cad474f914e0a82d13fee5c/nld@2026-04-03;10340408",
+    "beginGeldigheid": "2026-04-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0269_2026_Regeling60c3cafd3cad474f914e0a82d13fee5c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0269/2026/Regeling388cb8eab3014260acc80a55917be0e3",
+    "titel": "Stationsomgeving Wezep",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0269/2026/Regeling388cb8eab3014260acc80a55917be0e3/nld@2026-06-26;12360478",
+    "beginGeldigheid": "2026-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0269_2026_Regeling388cb8eab3014260acc80a55917be0e3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:15Z"
+  }
+]

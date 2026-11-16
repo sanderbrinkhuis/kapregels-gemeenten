@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM1708",
+  "gemeente": "Steenwijkerland",
+  "provincie": "Overijssel",
+  "brondocument": "Verordening Fysieke Leefomgeving Steenwijkerland 2023 (CVDR712314_1), hoofdstuk 8 (art. 8:1 tot en met 8:5), art. 25:1; APV 2009 (CVDR63065_20) afdeling 4.3 art. 4:11 tot en met 4:12 '[vervallen]'; legesverordening 2026 (CVDR751219_2) art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR712314/1",
+  "datum_geldigheid": "2024-01-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "Geen wijziging: alleen versie 1 (2024-01-01). Het omgevingsplan (CVDR696486_2, 2024-05-29) bevat alleen aanvraagvereisten (art. 22.299).",
+  "juridische_plaats": "VFL Steenwijkerland 2023, hoofdstuk 8. De APV (CVDR63065_20) heeft art. 4:11 tot en met 4:12 laten vervallen ('[vervallen]'). De legesverordening 2026 art. 2.30 noemt het vellen 'een omgevingsplanactiviteit ... bedoeld in hoofdstuk 8 van de Verordening Fysieke Leefomgeving Steenwijkerland, in samenhang met artikel 22.8 van de Omgevingswet': de regel werkt als omgevingsplanregel. Omgevingsplan art. 22.299 geeft alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 216 bekendmakingen met kapterm in de titel (titelzoekmethode): 111 besluiten, 104 aanvragen, 6 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag; daarin 2 keer 'Besluit vergunningsvrij aanvraag omgevingsvergunning' (gmb-2026-518874, gmb-2026-529211), 5 verleende vergunningen en 1 weigering (gmb-2026-528222). Veel vergunningen voor bomen in de kernen (Giethoorn, Blokzijl, Willemsoord, Steenwijk). Past bij een stelsel met een hoge omtrekdrempel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen). Art. 8:1 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.'",
+  "drempel": "Art. 8:1 lid 2 onder j: vrijstelling voor bomen 'waarvan de stam gemeten met schors op een hoogte van 1,30 m. boven het maaiveld een kleinere stamomtrek dan 155 cm. heeft'. Binnen de beschermde stads- en dorpsgezichten Blokzijl, Vollenhove, Giethoorn, Jonen en Dwarsgracht: 'een kleinere stamomtrek dan 100 cm.'. Laanbeplantingen, houtwallen, houtsingels en bospercelen: geen drempel.",
+  "omtrek_cm": 155,
+  "meethoogte": "1,30 m boven het maaiveld, gemeten met schors",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. Buiten de bebouwde kom (art. 8:1 lid 2 onder f) is houtopstand vrijgesteld, 'tenzij de houtopstand gelegen is op erven en in tuinen of een zelfstandige eenheid vormt' van meer dan 10 are of een rij van meer dan 20 bomen; in tuinen en op erven geldt de drempel van 155 cm dus ook buiten de kom. Kleine gebiedsregel (omtrek 100 cm in vijf beschermde dorpsgezichten) telt niet mee voor D; vermeld in de opmerkingen.",
+  "uitzonderingen": "Art. 8:1 lid 2 onder i: 'bomen die staan op percelen kleiner dan of gelijk aan 400 m² binnen de bebouwde kom ingevolge de Wegenverkeerswet 1994 en die niet staan in/op houtwallen'. Verder: niet-geknotte populieren of wilgen als wegbeplanting of eenrijige beplanting langs landbouwgrond, vruchtbomen en windschermen om boomgaarden, kerstbomen (fijnsparren tot 12 jaar), kweekgoed, dunning tot 40 cm doorsnee, Plantgezondheidswet of aanschrijving, hakhout, beschermd natuurmonument, spoed en gevaar (lid 3). Perceelgrens van 400 m2 is een ruime uitzondering (-1).",
+  "weigeringsgronden": "Art. 8:2 lid 1: 'Onverminderd het bepaalde in artikel 1:8 kan de vergunning in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand; g. de vitaliteit van de houtopstand.' Lid 2: 'De weigeringsgronden genoemd in het eerste lid worden uitgewerkt in nadere regels. Deze nadere regels worden vastgesteld door het college.'",
+  "herplantplicht": "Art. 8:4 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Geen financiële compensatie, geen herplantfonds, geen boomwaarde in de regeling.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan behoren het voorschrift'); het bevoegd gezag beslist per geval. Geen uitweg via betaling. Na illegale kap (art. 8:5 lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 8:5 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 25:1 lid 1: 'Overtreding van het bij of krachtens deze artikelen en de daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Art. 1:4 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet: de legesverordening noemt het vellen een omgevingsplanactiviteit (art. 2.30), dus S = 1 zonder bereik. Daarnaast art. 25:1 lid 3 (WED-aanwijzing) en lid 1 (hechtenis of geldboete tweede categorie). Foute verwijzing: art. 25:1 lid 3 noemt 'artikel 8:1, tweede lid' (de uitzonderingen) in plaats van lid 1; APV 6:1 lid 3 verwijst nog naar het vervallen art. 4:11. Geen bestuurlijke boete voor kappen in de regeling; geen handhavingsbeleid over kap in het dossier.",
+  "procedure": "Aanvraag omgevingsvergunning (aanvraagvereisten omgevingsplan art. 22.299). Leges 2026 (CVDR751219_2 art. 2.30): € 145,45. Beslistermijn 'acht weken', te verlengen met 'ten hoogste acht weken' (VFL art. 1:2). Vergunning vervalt na drie jaar (art. 8:3). Vergunning onder voorwaarde van feitelijk niet-gebruik tot onherroepelijk (art. 8:4 lid 3). Bezwaar en beroep: niet in de verordening vastgesteld.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem.",
+  "status": "onzeker",
+  "ontbrekend": "De 'nadere regels' voor de weigeringsgronden (art. 8:2 lid 2, vast te stellen door het college) staan niet in de opgehaalde CVDR-regelingen (geen beleidsregel over bomen of herplant gevonden); W kan daardoor hoger uitvallen (max 3). Of de vijf beschermde dorpsgezichten (omtrek 100 cm) samen een substantieel deel van de gemeente beslaan, is niet vastgesteld (D max 2).",
+  "artikelnummers": [
+    "VFL art. 8:1",
+    "VFL art. 8:2",
+    "VFL art. 8:3",
+    "VFL art. 8:4",
+    "VFL art. 8:5",
+    "VFL art. 8:6",
+    "VFL art. 1:2, 1:4, 1:8",
+    "VFL art. 25:1",
+    "APV art. 4:10 en art. 4:11-4:12 (vervallen)",
+    "APV art. 6:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D: de drempel 155 cm omtrek (hoge drempel) geeft D2; de perceelgrens van 400 m2 binnen de bebouwde kom (art. 8:1 lid 2 onder i) is een ruime uitzondering: D1. Voor de vijf beschermde dorpsgezichten geldt een drempel van 100 cm. Dat is een kleine gebiedsregel en telt niet mee; telt het toch, dan is D3 min 1 = D2 (max).",
+    "W: citaat 'kan de vergunning in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand' (art. 8:2 lid 1) = belangenafweging, W2. De nadere regels van het college zijn niet gevonden.",
+    "H: 'kan behoren het voorschrift' (art. 8:4 lid 1) = H1.",
+    "S: WED via Ow door de legesverordening (S1 zonder bereik). De WED-aanwijzing en de strafbepaling in VFL art. 25:1 verwijzen naar 'artikel 8:1, tweede lid' (de uitzonderingen) in plaats van lid 1; APV 6:1 lid 3 verwijst naar het vervallen 4:11.",
+    "VFL art. 8:6 noemt 'artikel 4:11, artikel 4:11e of artikel 4:11f' (vervallen APV-artikelen). Geen invloed op de score.",
+    "Boom A en B: 'nee'. Beide blijven onder 155 cm omtrek; bij een perceel van ca. 300 m2 geldt bovendien de vrijstelling voor percelen tot en met 400 m2 binnen de bebouwde kom.",
+    "Het Uitgiftebeleid Groenstroken (CVDR761582_1) gaat over verkoop van gemeentegrond en telt niet voor W of H."
+  ],
+  "modelsignalen": [
+    "Drempel van 155 cm omtrek met in vijf beschermde dorpsgezichten 100 cm: het model telt alleen het hoofdregime; het verschil per gebied zit in de opmerkingen.",
+    "WED-aanwijzing verwijst naar 'artikel 8:1, tweede lid' (de uitzonderingen) in plaats van het verbod in lid 1: S1 volgens de regel voor foute verwijzingen bij een omgevingsplanactiviteit in de leges."
+  ]
+}

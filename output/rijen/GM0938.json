@@ -1,0 +1,86 @@
+{
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "status": "ok",
+  "gm_code": "GM0938",
+  "gemeente": "Meerssen",
+  "brondocument": "Verordening fysieke leefomgeving gemeente Meerssen 2025 (VFL), afdeling 8.1 art. 8.1-8.10 en art. 9.2; Verordening leges Meerssen 2026 art. 2.30; Omgevingsplan art. 22.299; Groenbeleidsplan (CVDR741771_1) en Beleidsplan VTH (CVDR742674_1) als context",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR757704/1",
+  "datum_geldigheid": "CVDR757704_1 geldend vanaf 2026-02-27 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "Versie 1 per 2026-02-27 (nieuwe regeling; art. 9.3: 'wordt de Verordening Fysieke Leefomgeving gemeente Meerssen 2024 ingetrokken'). Geen latere wijziging gevonden.",
+  "juridische_plaats": "VFL (gemeentelijke verordening), werkt als omgevingsplanactiviteit: leges art. 2.30 (CVDR750906_1) noemt 'het vellen van een houtopstand, bedoeld in 8.3 van de Verordening Fysieke Leefomgeving gemeente Meerssen in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 152 bekendmakingen op titel, waarvan 67 besluiten, 80 aanvragen en 2 weigeringen (volgens titel). De steekproef van 10 besluiten (verleende vergunningen voor o.a. populieren, een berk, een beuk, zieke bomen, coniferen en gewone bomen bij woningen in verschillende kernen) noemt geen grondslag. Dit past bij een breed vergunningregime.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning van het college) voor het vellen van houtopstanden, art. 8.3 lid 1.",
+  "drempel": "Een 'boom' heeft 'een dwarsdoorsnede van de stam van minimaal 25 cm op 1,3 meter hoogte' (art. 8.2 onder a); doorsnede 25 cm. Houtopstand: 'zelfstandige eenheid van één of meer bomen, boomvormers, struiken, hakhout of griend' (art. 8.2 onder b), zonder aparte drempel voor struiken.",
+  "omtrek_cm": 78.5,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Art. 8.3 lid 1: 'Het is verboden zonder vergunning van het college een houtopstand binnen de gemeente Meerssen te vellen of te doen vellen.' Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar, geen tuinuitzondering en geen strook langs de weg. Omgerekend: 25 cm x 3,14 = 78,5 cm omtrek (middelmatige drempel, D3). Buiten de bebouwde kom is naast de gemeente ook de provincie/Bal bevoegd voor grote houtopstanden (zie Groenbeleidsplan 4.1.1); dat telt niet mee.",
+  "uitzonderingen": "Art. 8.3 lid 2: 'a. vruchtbomen voor zover betreft laagstamfruitbomen; b. het dunnen van een houtopstand; c. het vellen van kweekgoed; d. ... een melding aan gedeputeerde staten op grond van artikel 4.2 lid 1 van de Wet natuurbescherming nodig is, met uitzondering van hoogstamfruitbomen; e. ... Plantgezondheidswet of krachtens een aanschrijving op last van het college; f. het periodiek vellen van griend- of hakhout ter uitvoering van het reguliere onderhoud; g. het periodiek knotten of kandelaberen als cultuurmaatregel bij daarvoor geschikte boomsoorten; h. uit populieren, wilgen, essen of elzen bestaande beplantingen die kennelijk zijn bedoeld voor de productie van houtige biomassa ...' (onder voorwaarden). Alleen laagstamfruit is een ruime-uitzonderingscategorie, maar dat is geen substantieel deel van de tuinbomen; geen correctie. Spoed: art. 8.10 (college kan toestemming geven tot direct vellen).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 8.5 lid 1: 'Het college kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van: a. natuur- en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads- en dorpsschoon; e. beeldbepalende waarden; f. monumentale waarden; g. waarden voor recreatie en leefbaarheid; h. waarden voor volksgezondheid; i. waarden van groot maatschappelijk belang.' Lid 2: boomwaarde mag als motivering dienen. Belangenafweging, W2.",
+  "herplantplicht": "Art. 8.6 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en in overeenstemming met de door het college te geven aanwijzingen moet worden herplant.' Alleen voor als waardevol omschreven houtopstand: 'wordt zo vaak mogelijk een herplantplicht opgelegd'. Art. 8.7 lid 1 (na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herplanten'. Art. 8.8: compensatieplan hoort bij de vergunning of melding (inhoud; ruimtelijke ontwikkeling apart). Beleidsplan: Groenbeleidsplan 4.1.2 beschrijft een toekomstig quoteringssysteem met 'altijd herplantplicht' voor particulieren, maar dat is een plan voor een nieuwe regeling en geen vastgestelde beleidsregel die de VFL-bevoegdheid vast voorschrift maakt. Geen financiele compensatie (boomwaarde alleen als motivering van weigering). H1.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren' (art. 8.6 lid 1); college beslist per geval. Geen uitweg via betaling in plaats van herplant gevonden.",
+  "sancties": "Eigen strafbepaling art. 9.2 lid 1: 'hechtenis van ten hoogste drie maanden; of geldboete van ten hoogste de tweede categorie'; lid 2: 'Dit artikel is niet van toepassing als in het onderwerp is voorzien door de Wet economische delicten.' Via leges art. 2.30 is de kap een omgevingsplanactiviteit (Ow 5.1 lid 1 aanhef en onder a, in samenhang met 22.8): WED via Ow 5.1. Geen bestuurlijke boete in de regeling. Herplant na illegale kap: art. 8.7 'kan'. S1.",
+  "procedure": "Leges art. 2.30: EUR 117,35 (CVDR750906_1). Art. 8.4: schriftelijk gemotiveerde aanvraag met situatieschets. Beslistermijn art. 1.17: acht weken (verlenging eenmaal met maximaal zes weken). Kennisgeving op grond van de Bekendmakingswet (art. 1.17 lid 4). Uitgestelde inwerkingtreding na de bezwaartermijn voor kappen (Beleidsplan VTH A.4). Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 8.7 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid van dit artikel is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Overtreding is strafbaar via art. 9.2 ('Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij gegeven voorschriften en beperkingen ... gestraft met: a. hechtenis van ten hoogste drie maanden; of b. geldboete van ten hoogste de tweede categorie'); eventueel WED.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_telling": "niet van toepassing: geen lijstsysteem in de VFL (alle houtopstanden). Het Groenbeleidsplan noemt een voorgenomen lijst 'groene parels'; die staat niet in de geldende VFL en is niet ingezien.",
+  "ontbrekend": "Omgevingsplan in het DSO niet ingezien. Het Groenbeleidsplan kondigt een nieuwe regeling met lijst van beschermingswaardige bomen aan; deze is niet in de geldende tekst gevonden. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "VFL 8.1",
+    "VFL 8.2",
+    "VFL 8.3",
+    "VFL 8.4",
+    "VFL 8.5",
+    "VFL 8.6",
+    "VFL 8.7",
+    "VFL 8.8",
+    "VFL 8.10",
+    "VFL 9.2",
+    "VFL 1.17",
+    "Leges 2.30",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): het Groenbeleidsplan beschrijft een voorgenomen stelsel en is geen geldende regel voor kap; H volgt de verordening ('kan') → H1 zonder bereik.",
+    "Doorslaggevend W: 'Het college kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van: a. natuur- en milieuwaarden;' (art. 8.5 lid 1).",
+    "Doorslaggevend H: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' (art. 8.6 lid 1). Bereik H 1-2 omdat het Groenbeleidsplan 'altijd herplantplicht' noemt voor een toekomstig systeem; als niet vastgesteld beleid geteld als H1.",
+    "Beleidsplan VTH (CVDR742674_1, in werking 2025-07-24) beschrijft een eerdere VFL-versie ('vergunning nodig voor bomen die beeldbepalend zijn op percelen aan vastgelegde wegen en voor bomen buiten de bebouwde kom in tuinen kleiner dan 2.000 m2'). De huidige VFL 2025 (in werking 2026-02-27) kent dat onderscheid niet meer; de VFL-tekst gaat voor.",
+    "Drempel: de vergunningplicht geldt voor een 'houtopstand'; een 'boom' is pas vanaf 25 cm doorsnede. Struiken en hakhout vallen ook onder 'houtopstand' zonder drempel; D is gescoord op de drempel voor bomen (omtrek 78,5 cm).",
+    "Compensatieplan (art. 8.8) is gekoppeld aan de vergunning; de verplichtingen voor een ruimtelijke ontwikkeling verhogen H niet.",
+    "Legesverordening 2026 vermeldt 'Variant 1 (regeling in de Algemene plaatselijke verordening / overgangsrecht Omgevingswet)'; de kapregel staat feitelijk in de VFL."
+  ],
+  "modelsignalen": [
+    "Houtopstand (art. 8.2 onder b, ook struiken en hakhout zonder drempel) tegenover boom (min. 25 cm doorsnede): INTENT.md zegt niet welke drempel telt voor D als de verbodsbepaling 'houtopstand' gebruikt en een aparte definitie van 'boom' bestaat. Gekozen: drempel van de boom.",
+    "Groenbeleidsplan beschrijft een voorgenomen herplantstelsel ('altijd herplantplicht') in een plan dat nog niet als regeling is ingevoerd; INTENT.md regelt dit alleen voor 'uitgangspunt per geval' (H1). Gekozen: H1 met bereik tot 2."
+  ]
+}

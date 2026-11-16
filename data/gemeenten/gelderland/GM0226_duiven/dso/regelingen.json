@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0226/2025/Regelingc5189f41743845c993350a59b000cca5",
+    "titel": "Regionale Energie Strategie gemeente Duiven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0226/2025/Regelingc5189f41743845c993350a59b000cca5/nld@2026-03-12;09062582",
+    "beginGeldigheid": "2026-04-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0226_2025_Regelingc5189f41743845c993350a59b000cca5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0226/2026/Regeling0b488dc8c7c44354a3d0dd2d92baf5e3",
+    "titel": "Voorbereidingsbesluit supermarkten Duiven",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0226/2026/Regeling0b488dc8c7c44354a3d0dd2d92baf5e3/nld@2026-09-10;10563911",
+    "beginGeldigheid": "2026-09-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0226_2026_Regeling0b488dc8c7c44354a3d0dd2d92baf5e3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0226/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Duiven",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0226/2020/omgevingsplan/nld@2026-04-24;11572643",
+    "beginGeldigheid": "2026-04-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0226_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:13Z"
+  }
+]

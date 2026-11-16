@@ -1,0 +1,72 @@
+{
+ "gm_code": "GM0114",
+ "gemeente": "Emmen",
+ "provincie": "Drenthe",
+ "brondocument": "Bomenverordening gemeente Emmen 2011 (CVDR118862_1), art. 1, 2, 3, 6, 7, 14; leges CVDR753749_1 art. 2.30; Omgevingsplan CVDR696190_2 art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR118862/1",
+ "datum_geldigheid": "2012-01-01 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "Geen wijziging: CVDR118862 kent alleen versie 1 (2012-01-01)",
+ "juridische_plaats": "Bomenverordening 2011; werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('bedoeld in artikel 3.1 van de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. Geen geldende APV of VFL met kapregel in het dossier.",
+ "praktijkcontrole": "Bekendmakingen sinds 2025 (titelzoekopdracht): 378 totaal, 4 besluiten, 191 aanvragen, 1 geweigerd volgens titel (gmb-2026-35606). Steekproef van vier besluiten: geen grondslag genoemd; drie daarvan gaan niet over bomenkap. Weinig kapbesluiten in verhouding tot het aantal aanvragen; niet te beoordelen.",
+ "vergunningplicht": "Ontheffing van het college voor het vellen van houtopstand die in het register van monumentale of waardevolle bomen of op het overzicht van waardevolle houtopstanden staat (art. 3 lid 1).",
+ "drempel": "Geen drempel voor beschermde bomen op het register; voor 'boom' in algemene zin minimaal 30 cm doorsnede op 1,30 m (art. 1 sub a)",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Alleen bomen en houtopstanden in het register of overzicht (boomstructuren, bomen uit het landelijk Register van monumentale bomen, aangewezen lokale monumentale en waardevolle bomen), particulier en openbaar. Het hele grondgebied, maar alleen aangewezen bomen.",
+ "uitzonderingen": "Art. 3 lid 2-3: Planteziektenwet of aanschrijving, periodiek knotten of kandelaberen, dunning met maximaal 30% stamtalreductie. Art. 13: spoed.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 6 lid 1: 'Een ontheffing ... kan worden verleend, indien: a. een zwaar maatschappelijk belang opweegt tegen duurzaam behoud van de monumentale boom, en alternatieven voldoende zijn onderzocht, of b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.'",
+ "herplantplicht": "Art. 7 lid 2: 'De eigenaar van grond, waarop een houtopstand, anders dan bij wijze van dunning, is geveld of op andere wijze tenietgegaan, is verplicht binnen een tijdvak van drie jaren na de velling ... te herbeplanten.' Lid 3: vervangingsplicht bij niet aangeslagen beplanting binnen drie jaar. Lid 1: na illegale kap 'kan het college ... de verplichting opleggen te herplanten'. Geen verplichte financiële compensatie; boomwaarde is alleen gedefinieerd (art. 1 sub l).",
+ "herplant_ontsnapping": "Geen uitweg in lid 2 en 3; lid 1 is een bevoegdheid van het college ('kan'). Geen betaling in plaats van herplant geregeld.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Art. 14 lid 1: 'Hij die handelt in strijd met artikel 3, een voorschrift onderscheidenlijk een verplichting als bedoeld in, artikel 5, vierde lid, artikel 7, eerste lid en/of derde lid ... wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Artikel 7 lid 2 wordt in art. 14 niet genoemd.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Eigen strafbepaling art. 14 lid 1 (hechtenis tot twee maanden of geldboete tweede categorie). Via de legesrij werkt de regel als omgevingsplanactiviteit, dus WED via Ow 5.1. Geen bestuurlijke boete.",
+ "procedure": "Leges CVDR753749_1 art. 2.30: EUR 80,20 per aanvraag. Verzoek om opname in register: beslissing binnen drie maanden (art. 2 lid 4 sub c), te verlengen met drie maanden.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Register en overzicht niet ingezien (gemeentewebsite gaf een 403-foutmelding).",
+ "status": "onzeker",
+ "ontbrekend": "Register van monumentale en waardevolle bomen en overzicht van waardevolle houtopstanden niet ingezien; niet bekend of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "Bomenverordening 2011 art. 1, 2, 3, 6, 7, 14",
+  "Leges CVDR753749_1 art. 2.30",
+  "Omgevingsplan CVDR696190_2 art. 22.299"
+ ],
+ "opmerkingen": [
+  "Lijstsysteem (register): D = 1 als puntschatting zolang de lijst niet is ingezien; bereik vanaf 0.",
+  "W = 3: ontheffing 'kan worden verleend' alleen bij zwaar maatschappelijk belang met onderzochte alternatieven, of als instandhouding niet verantwoord is voor letsel of schade (weigeren tenzij).",
+  "H = 2: art. 7 lid 2 'is verplicht ... te herbeplanten' binnen drie jaar na velling van 'een houtopstand'; de tekst verwijst in lid 2 niet naar het verbod, maar de reikwijdte binnen een lijstsysteem is niet zeker, daarom minimum 1 (lid 1: 'kan').",
+  "S = 1: eigen strafbepaling art. 14; art. 7 lid 2 valt niet onder die strafbepaling."
+ ],
+ "modelsignalen": [
+  "Art. 7 lid 2 van de Bomenverordening Emmen legt een herplantplicht op voor elke velling van een houtopstand, ook buiten het register, zonder strafbepaling voor lid 2. Het model kent geen onderscheid tussen een herplantplicht zonder sanctie en met sanctie."
+ ]
+}

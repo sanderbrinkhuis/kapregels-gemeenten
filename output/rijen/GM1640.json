@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM1640",
+  "gemeente": "Leudal",
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de 'door het college vastgestelde bomenlijst' (art. 3.7.3.1) staat niet in de CVDR-tekst; de bijlage 'Lijst van monumentale bomen' bij CVDR16550_1 is niet als tekst beschikbaar; enkele zoekpogingen op leudal.nl leverden de lijst niet op",
+  "brondocument": "Algemene verordening gemeente Leudal (CVDR664816_6), par. 3.7.3 art. 3.7.3.1 en art. 4.1.1/4.1.2, art. 1.1.4, 1.1.8, 1.1.9; Uitvoeringsregels (CVDR668129_5: geen kapregels); Beleidsnotitie kappen gemeentebomen (CVDR637409_1); Legesverordening 2026 (CVDR754735_2) art. 2.30; Omgevingsplan (CVDR696467_4) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR664816/6 ; https://lokaleregelgeving.overheid.nl/CVDR637409/1 ; https://lokaleregelgeving.overheid.nl/CVDR754735/2 ; https://lokaleregelgeving.overheid.nl/CVDR696467/4",
+  "datum_geldigheid": "CVDR664816_6 geldend vanaf 2024-12-21 t/m heden (peildatum scoren 2026-11-14); beleidsnotitie CVDR637409_1 geldend vanaf 2020-02-20",
+  "laatste_wijziging": "Algemene verordening: versie 6 per 2024-12-21. Uitvoeringsregels versie 5 per 2026-01-01 (bevat geen kapregels).",
+  "juridische_plaats": "Algemene verordening (APV-achtig), titel 'Omgevingsvergunning voor vellen houtopstanden'; werkt als omgevingsplanactiviteit volgens legesverordening 2026 art. 2.30 ('vellen van een houtopstand, bedoeld in de Algemene verordening gemeente Leudal in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 16 bekendmakingen op titel (6 besluiten, 10 aanvragen), 0 weigeringen volgens de titel. De 6 gecontroleerde besluiten (o.a. gmb-2026-88679, gmb-2026-238924, gmb-2026-422290, gmb-2025-401516, gmb-2025-175596) zijn kapvergunningen voor losse bomen, waaronder bomen op particuliere percelen; geen grondslag genoemd. Dit past bij een lijstsysteem met enkele tientallen vergunningen per jaar; het wijst niet op een breder regime.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de door het college vastgestelde bomenlijst staan (art. 3.7.3.1 lid 1). Bomen buiten de lijst: geen regel.",
+  "drempel": "Geen drempel: alleen bomen op de bomenlijst, ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem)",
+  "reikwijdte": "Art. 3.7.3.1 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te (laten) vellen die staan vermeld op de door het college vastgestelde bomenlijst.' Beleidsnotitie: 'Deze geldt alleen voor bomen die zijn opgenomen op de gemeentelijke Bomenlijst (waardevolle en monumentale bomen en landschapselementen).' Bomen buiten de lijst 'vallen buiten het nieuwe kapbeleid en kunnen dus zonder kapvergunning geveld worden'. Geen onderscheid binnen/buiten de bebouwde kom.",
+  "uitzonderingen": "Art. 3.7.3.1 lid 3: 'Het eerste lid is niet van toepassing als de burgemeester vergunning verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' (gangbare uitzondering, telt niet).",
+  "weigeringsgronden": "Art. 3.7.3.1 lid 2: 'kan de vergunning worden geweigerd op grond van de: a. natuurwaarde van de houtopstand; b. landschappelijke waarde van de houtopstand; c. waarde van de houtopstand voor stads- en dorpsschoon; d. beeldbepalende waarde van de houtopstand; e. cultuurhistorische waarde van de houtopstand, of f. waarde voor de leefbaarheid van de houtopstand.' Beleidsnotitie (beschrijving bomenbeleidsplan): 'Kapvergunning wordt dan alleen verleend als: a. de boom dood is en een direct gevaar vormt ...'.",
+  "herplantplicht": "Art. 3.7.3.1 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen en daaraan voorschriften verbinden.' Beleidsnotitie CVDR637409_1: 'Wordt een kapvergunning verleend voor het vellen van een waardevolle of monumentale boom of houtopstand, dan wordt altijd herplantplicht of compensatie opgelegd.'",
+  "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid, bevoegd gezag beslist per geval). Beleidsnotitie: 'altijd herplantplicht of compensatie'; 'Is herplant echter niet mogelijk dan moet een bedrag ... gestort worden in het gemeentelijk Groenfonds' (dit staat in de passage over gemeentebomen op de lijst, niet over particuliere bomen).",
+  "sancties": "Strafbepaling art. 4.1.2 (Titel 3): 'wordt gestraft met hechtenis van maximaal drie maanden of geldboete van de tweede categorie' (lid 1 verwijst letterlijk naar 'Titel 2', waarschijnlijk een verschrijving). Kapregel werkt daarnaast als omgevingsplanactiviteit (leges art. 2.30), dus WED via Ow 5.1 (stap 1a). Geen bestuurlijke boete voor kap.",
+  "procedure": "Leges 2026 (CVDR754735_2) art. 2.30: lijstbomen EUR 113,30; na illegale kap (legalisatie) EUR 348,85. Aanvraagvereisten omgevingsplan art. 22.299. Beslistermijn, publicatie en bezwaar: niet in de kapartikelen vastgelegd; besluiten verschijnen in het Gemeenteblad.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "onbekend",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Art. 1.1.4 lid 2 (voorschriften): 'Degene voor wie de toestemming geldt, moet zich zo gedragen dat geen strijd ontstaat met de aan de toestemming verbonden voorschriften.' (art. 1.1.4 lid 3: 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.') Art. 4.1.2 lid 1: 'wordt gestraft met hechtenis van maximaal drie maanden of geldboete van de tweede categorie'. Een opgelegde herplantplicht is een vergunningvoorschrift; of art. 4.1.2 dit dekt is door de verschrijving ('Titel 2') niet eenduidig.",
+  "herplant_niet_nakomen_type": "onbekend",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Bomenlijst niet ingezien: onbekend of en hoeveel particuliere bomen erop staan (de praktijkbesluiten en de beleidsnotitie, die 'waardevolle en monumentale bomen van derden' noemt, wijzen op particuliere bomen). Bomenbeleids- en beheerplan 2009-2018 (CVDR16550_1) bevat in de opgehaalde tekst alleen het raadsbesluit, geen plantekst.",
+  "artikelnummers": [
+    "Algemene verordening art. 3.7.3.1, 4.1.1, 4.1.2, 1.1.4, 1.1.8, 1.1.9",
+    "Beleidsnotitie kappen gemeentebomen CVDR637409_1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): de geldende Beleidsnotitie (CVDR637409_1, college) telt voor W en H: vergunning 'alleen verleend als' → W3; 'wordt altijd herplantplicht of compensatie opgelegd' → H2; bereik vervalt.",
+    "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus puntschatting D1 en bereik vanaf D0 (INTENT, ONZEKERHEID). Andere kapregels in de Uitvoeringsregels (CVDR668129_5) zijn niet gevonden; die tekst bevat alleen 'boom' in andere zin (verkiezingsborden, terrasinrichting).",
+    "Juridische plaats: de kapregel staat in de Algemene verordening, niet in een APV of VFL. Legesverordening art. 2.30 noemt het vellen 'bedoeld in de Algemene verordening gemeente Leudal in samenhang met artikel 22.8 van de Omgevingswet': de regel werkt dus als omgevingsplanactiviteit. Het Omgevingsplan (CVDR696467_4) bevat alleen aanvraagvereisten (art. 22.299), geen eigen verbod.",
+    "W2: 'kan de vergunning worden geweigerd op grond van de: a. natuurwaarde van de houtopstand' (art. 3.7.3.1 lid 2); limitatieve belangenafweging. Max 3: de Beleidsnotitie zegt voor lijstbomen 'Kapvergunning wordt dan alleen verleend als: a. de boom dood is en een direct gevaar vormt ...'. Die tekst beschrijft het Bomenbeleidsplan 2009 in een notitie over gemeentebomen; onzeker of het ook particuliere lijstbomen bindt. Daarom puntschatting W2.",
+    "H2 (min 1, max 2): verordening zegt 'Het bevoegd gezag kan een herplantplicht opleggen' (H1). Beleidsnotitie CVDR637409_1, in werking 2020-02-20: 'Wordt een kapvergunning verleend voor het vellen van een waardevolle of monumentale boom of houtopstand, dan wordt altijd herplantplicht of compensatie opgelegd.' Volgens de regel over tegenstrijdige teksten telt de beleidsregel, als die ook particuliere lijstbomen raakt; de passage gaat over waardevolle en monumentale bomen van de Bomenlijst (de notitie noemt elders 'bomen van derden'), maar de notitie heet 'kappen gemeentebomen'. Daarom puntschatting H2 met min 1. Geen verplichte financiële compensatie voor particuliere bomen vastgesteld, dus geen H3.",
+    "S1: WED via Ow 5.1 (leges art. 2.30 maakt het een omgevingsplanactiviteit) en eigen strafbepaling art. 4.1.2. Let op: art. 4.1.2 lid 1 verwijst naar 'Titel 2' terwijl de kapregel in Titel 3 staat; lid 5 noemt art. 3.7.3.1 niet. Geen bestuurlijke boete.",
+    "Beleidsnotitie kappen gemeentebomen (CVDR637409_1) regelt vooral gemeentebomen ('Hinder is in eerste instantie géén argument om een gemeenteboom te kappen'); alleen de passages over lijstbomen/waardevolle bomen zijn meegewogen.",
+    "Herplant na illegale kap: niet gevonden in de verordening; de notitie noemt alleen herplant bij vergunning en bij gekapte gemeentebomen. Leges art. 2.30 kent wel een tarief 'als gevolg van legalisatie na illegale kap'.",
+    "Afstandsregel art. 3.7.3.2 (0,5 m tot erfgrens) is een burenrechtregel en telt niet."
+  ],
+  "modelsignalen": [
+    "Beleidsnotitie over gemeentebomen die in een samenvattend deel het beleid voor 'waardevolle of monumentale' lijstbomen beschrijft ('wordt altijd herplantplicht of compensatie opgelegd', 'alleen verleend als'): INTENT geeft geen eenduidig antwoord of dat als vastgestelde beleidsregel voor particuliere bomen telt. Hier H2 (min 1) en W2 (max 3) gekozen.",
+    "Strafbepaling die naar het verkeerde titelnummer verwijst (art. 4.1.2 lid 1 'Titel 2' in de strafbepaling Titel 3): de WED-route via Ow 5.1 vangt het, maar de eigen strafbepaling is niet eenduidig; daarom herplant_niet_nakomen_type 'onbekend'."
+  ]
+}

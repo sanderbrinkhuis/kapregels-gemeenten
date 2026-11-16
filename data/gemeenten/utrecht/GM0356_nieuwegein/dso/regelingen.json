@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0356/2025/Regeling079ebe2c4eb4452aa9b88b44fc00d60a",
+    "titel": "Omgevingsprogramma Circulaire Stad 2025-2028",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0356/2025/Regeling079ebe2c4eb4452aa9b88b44fc00d60a/nld@2025-04-17;12162457",
+    "beginGeldigheid": "2025-04-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0356_2025_Regeling079ebe2c4eb4452aa9b88b44fc00d60a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0356/2025/Regeling078c10b1a9764c279c3562b9bc63e0ab",
+    "titel": "Omgevingsprogramma Energietransitie 2025",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0356/2025/Regeling078c10b1a9764c279c3562b9bc63e0ab/nld@2025-09-24;08070423",
+    "beginGeldigheid": "2025-07-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0356_2025_Regeling078c10b1a9764c279c3562b9bc63e0ab?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0356/2025/Regeling3371157d61af41c391b5004a213c263c",
+    "titel": "Omgevingsprogramma Bodem en Ondergrond 2025 - 2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0356/2025/Regeling3371157d61af41c391b5004a213c263c/nld@2025-10-23;13032129",
+    "beginGeldigheid": "2025-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0356_2025_Regeling3371157d61af41c391b5004a213c263c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0356/2026/Regeling00fff21ccdb34d74bfdd55710f11cbcd",
+    "titel": "Gebiedsgericht omgevingsprogramma Rijnhuizen noord",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0356/2026/Regeling00fff21ccdb34d74bfdd55710f11cbcd/nld@2026-01-15;09200934",
+    "beginGeldigheid": "2025-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0356_2026_Regeling00fff21ccdb34d74bfdd55710f11cbcd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0356/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Nieuwegein",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0356/2020/omgevingsplan/nld@2026-01-12;14162606",
+    "beginGeldigheid": "2026-03-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0356_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0356/2026/Regeling63f6e4e9ba4d436691d508f369ae3be9",
+    "titel": "Voorbereidingsbesluit Vreeswijk",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0356/2026/Regeling63f6e4e9ba4d436691d508f369ae3be9/nld@2026-02-25;15135003",
+    "beginGeldigheid": "2026-03-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0356_2026_Regeling63f6e4e9ba4d436691d508f369ae3be9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:56Z"
+  }
+]

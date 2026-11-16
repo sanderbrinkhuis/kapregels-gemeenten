@@ -1,0 +1,29 @@
+{
+  "gemeente": "Delft",
+  "gm_code": "GM0503",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Delft",
+  "zoeknaam_bekendmakingen": "Delft",
+  "opgehaald_op": "2026-11-16T10:35:35+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Delft\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 122,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Delft\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 262,
+  "geldende_regelingen": 22,
+  "geldend_met_kapartikelen": [
+    "CVDR210528_1",
+    "CVDR210531_1",
+    "CVDR210533_1",
+    "CVDR692965_2",
+    "CVDR696334_2",
+    "CVDR749246_3",
+    "CVDR757551_1"
+  ],
+  "bekendmakingen_besluiten": 106,
+  "bekendmakingen_aanvragen": 125,
+  "bekendmakingen_geweigerd": 5,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,83 @@
+{
+ "gm_code": "GM1581",
+ "gemeente": "Utrechtse Heuvelrug",
+ "provincie": "Utrecht",
+ "brondocument": "Bomenverordening gemeente Utrechtse Heuvelrug 2022, versie per 2026-01-01 (CVDR674803_2), art. 1, 2, 4, 7, 8, 12; legesverordening 2026 art. 2.30 (CVDR751461_1) en 2025 (CVDR732208_1); Uitvoeringsprogramma Vergunningen, Toezicht en Handhaving 2026 (CVDR764780_1); Uitvoerings- en handhavingsstrategie 2025-2028 (CVDR764785_1); Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht (CVDR747553_1); omgevingsplan art. 22.299 (CVDR696463_2)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR674803/2",
+ "datum_geldigheid": "2026-01-01 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2026-01-01 (1e wijzigingsverordening, bekendgemaakt gmb-2025-404398; eerdere versie CVDR674803_1 van 2022-03-29 tot 2026-01-01)",
+ "juridische_plaats": "bomenverordening (losse verordening zonder omgevingsplanstatus in de tekst, 'Omgevingswet-regeling: nee'); de legesverordening noemt het vellen een omgevingsplanactiviteit 'als bedoeld in de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "477 bekendmakingen sinds 2025 (296 aanvragen, 172 besluiten, 14 geweigerd; titelzoekmethode). Steekproef van 10 besluiten: vrijwel allemaal verleende vergunningen voor kap van een of enkele bomen (o.a. coniferen, palmbomen, berken, een douglasspar in een voortuin geweigerd), vaak 'met herplantplicht' (o.a. gmb-2026-495664, gmb-2026-506949). De besluiten noemen de grondslag niet. Dit past bij een breed regime met tuinbomen en coniferen. Uitvoeringsprogramma 2026: 'de vergunningplicht nu geldt voor alle soorten bomen (eerder waren bijvoorbeeld coniferen en berken uitgezonderd) en voor alle bomen met een stamdoorsnede van minimaal 20 cm (eerder was dat 30 cm)'.",
+ "vergunningplicht": "Omgevingsvergunning (art. 2 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een boom of een houtopstand te vellen of te doen vellen.'). Voor dode bomen en dunning geldt een 'informatieplicht kap' (melding vier weken vooraf, art. 2 lid 2 sub e).",
+ "drempel": "Art. 1 sub d: 'een houtachtig, overblijvend gewas met een dwarsstamomtrek van minimaal 63 centimeter (stamdiameter 20 cm) op 1,3 meter hoogte boven het maaiveld.' Herplantbomen zijn ook beschermd als ze kleiner zijn.",
+ "omtrek_cm": 63,
+ "meethoogte": "1,3 m boven het maaiveld",
+ "reikwijdte": "Art. 2 lid 1: het verbod geldt voor 'alle bomen en houtopstanden binnen de bebouwingscontour houtkap'; 'alle bomen en houtopstanden op erven en in tuinen buiten de bebouwingscontour houtkap'; 'fruitbomen en struiken die niet specifiek voor het oogsten van fruit, noten of vruchten worden geteeld'; 'boomrijen van 20 of minder bomen buiten de bebouwingscontour houtkap'; 'houtopstanden van minder dan 10 are buiten erven en tuinen buiten de bebouwingscontour houtkap'; en 'knotpopulieren en knotwilgen buiten de bebouwingscontour houtkap'. Particulier en openbaar, hele gemeente.",
+ "uitzonderingen": "Art. 2 lid 2: Plantgezondheidswet of aanschrijving, periodiek vellen van hakhout, periodiek knotten of kandelaberen, productiebeplantingen van biomassa, dode boom of dunning (met informatieplicht). Art. 2 lid 3 (buiten de bebouwingscontour houtkap): geteelde fruit- en notenbomen, windschermen om boomgaarden, kerstbomen, kweekgoed, niet geknotte populieren of wilgen langs wegen en water, houtopstanden groter dan 10 are of rijen van meer dan 20 bomen. Binnen de contour en in tuinen geen uitzondering voor coniferen, fruit-, populier- of wilgenbomen (sinds 2026-01-01). Geen tuin- of aantalsuitzondering; geen correctie op D.",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen lijstsysteem",
+ "weigeringsgronden": "Art. 4 lid 2: 'Een omgevingsvergunning voor het vellen van een boom of een houtopstand wordt geweigerd, indien de belangen tot verlening niet opwegen tegen de belangen van behoud van de boom of de houtopstand op basis van één of meer van de volgende waarden: a. natuurwaarden en waarden voor de biodiversiteit; b. milieuwaarden en waarden voor klimaatverandering; c. landschappelijke waarden; d. cultuurhistorische waarden; e. waarden van stads - en dorpsschoon; f. waarden voor gezondheid, recreatie en leefbaarheid.' Lid 4: verleend 'als: a. de houtopstand ernstig gevaar of onrechtmatige hinder veroorzaakt'. Lid 5: geweigerd bij 'lichte tot matige hinder'. Lid 3 sub a: bomen in de hoofdgroenstructuur 'worden in beginsel niet gekapt'.",
+ "herplantplicht": "Art. 7 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 8 lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'. Art. 8 lid 2 (financiële bijdrage, in de context van lid 1): 'Alleen in uitzonderlijke gevallen waarin niet ter plaatse kan worden herplant, wordt een financiële bijdrage gestort in het gemeentelijk herplantfonds.' Het Herplantbeleid 2010 (CVDR83910_1) is per 2025-07-17 vervallen; de toelichting verwijst naar 'het bomenbeleid van de gemeente Utrechtse Heuvelrug', dat niet in het dossier zit.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan behoren'); het bevoegd gezag (college) beslist per geval. Betaling in plaats van herplant: art. 8 lid 2 'Alleen in uitzonderlijke gevallen waarin niet ter plaatse kan worden herplant'.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 7 lid 4: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 12 lid 2: 'Hij die handelt in strijd met artikel 2, eerste lid ... dan wel een voorschrift of een verplichting als bedoeld in het vorige lid niet na komt, wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Daarnaast de dwangsomrichtlijn CVDR747553_1 onderdeel P: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'. Uitvoeringsprogramma 2026: 'treden wij handhavend op wanneer niet wordt voldaan aan een herplantplicht uit een verleende kapvergunning'.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "Eigen strafbepaling in de Bomenverordening (art. 12 lid 2: hechtenis van ten hoogste twee maanden of geldboete tweede categorie, ook voor het niet nakomen van herplantvoorschriften). Geen bestuurlijke boete voor kap: de handhavingsstrategie zegt 'De bestuurlijke boete wordt in de gemeente Utrechtse Heuvelrug hoofdzakelijk gebruikt voor de handhaving van de Alcoholwet.' De legesverordening noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow, dus ook WED via Ow 5.1. Handhavingsbeleid: illegale kap in de bebouwde kom heeft prioriteit 'Zeer hoog' (CVDR764780_1).",
+ "procedure": "Leges 2026 art. 2.30: € 379,85 plus € 10,35 per boom (CVDR751461_1); bij aanvraag na aanvang 60% verhoging. Beslistermijn: niet uit de verordening vastgesteld (volgens APV art. 1:2 niet gecontroleerd). Publicatie en bezwaar: omgevingsvergunning volgens de Ow; niet verder uitgewerkt.",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "status": "ok",
+ "ontbrekend": "Het bomenbeleid van de gemeente (genoemd in de toelichting bij art. 8) is niet gevonden; het kan herplant tot vast voorschrift maken (H tot 2). Het Herplantbeleid 2010 is vervallen.",
+ "artikelnummers": [
+  "Bomenverordening art. 1",
+  "Bomenverordening art. 2",
+  "Bomenverordening art. 4",
+  "Bomenverordening art. 7",
+  "Bomenverordening art. 8",
+  "Bomenverordening art. 12",
+  "legesverordening 2026 art. 2.30",
+  "CVDR747553_1 onderdeel P",
+  "CVDR764780_1 par. 2.4 en 3.2",
+  "omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D3: gehele bebouwingscontour houtkap én erven en tuinen daarbuiten, drempel 63 cm omtrek (60-100 cm). Geen ruime uitzondering: fruitbomen, coniferen, populieren en wilgen zijn sinds 2026-01-01 binnen de contour beschermd. Buiten erven en tuinen gelden aanvullende categorieën (boomrijen, houtopstanden kleiner dan 10 are).",
+  "W2: art. 4 lid 2 'wordt geweigerd, indien de belangen tot verlening niet opwegen tegen de belangen van behoud ... natuurwaarden ...'. Lid 5 weigert ook bij lichte hinder; dat blijft W2.",
+  "H1 (bereik 1-2): art. 7 lid 1 'kan behoren het voorschrift ... herplant'. Financiële bijdrage (art. 8 lid 2 'wordt een financiële bijdrage gestort') geldt alleen na kap zonder vergunning en verhoogt H niet. Bomenbeleid niet gevonden, daarom max 2.",
+  "S1 zonder bereik: eigen strafbepaling art. 12 lid 2 en de legesverordening noemt het vellen een omgevingsplanactiviteit (art. 22.8 Ow).",
+  "Boom B (40 cm omtrek): niet beschermd, want 'boom' vraagt minimaal 63 cm en een 'houtopstand' is volgens de toelichting een 'aaneengesloten groep bomen'. Boom A (80 cm): vergunning nodig.",
+  "Wijziging per 2026-01-01 trekt het regime strenger (alle soorten, 20 cm diameter in plaats van 30 cm). Eerdere versie telt niet.",
+  "APV Utrechtse Heuvelrug 2019 bevat geen kapregels voor houtopstanden (zoektermen alleen in algemene bepalingen); de kapregels staan in de Bomenverordening."
+ ],
+ "modelsignalen": [
+  "Utrechtse Heuvelrug: 'houtopstand' (incl. struiken en hagen) is beschermd zonder omvangdrempel, terwijl 'boom' 63 cm omtrek vraagt; het model scoort D op de drempel van bomen (D3) en kent geen regel voor deze combinatie.",
+  "Utrechtse Heuvelrug: een storting 'wordt' gedaan bij kap zonder vergunning als ter plaatse niet kan worden herplant; het model behandelt dit als illegale kap en telt het niet bij H."
+ ]
+}

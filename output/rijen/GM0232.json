@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0232",
+  "gemeente": "Epe",
+  "provincie": "Gelderland",
+  "brondocument": "Verordening fysieke leefomgeving gemeente Epe 2026 (VFL), afdeling 7.3, CVDR751556_1; legesverordening/tarieventabel 2026 CVDR749618_1 (art. 2.30); beleidsregel dwangsomhoogte CVDR609637_1",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR751556/1",
+  "datum_geldigheid": "2026-01-02 t/m heden (VFL CVDR751556_1)",
+  "laatste_wijziging": "2026-01-02 (VFL 2026, eerste versie; APV 2026 CVDR751558_1 art. 4:10 t/m 4:12 vervallen, opgenomen in VFL afd. 7.3)",
+  "juridische_plaats": "VFL (afd. 7.3); werkt als omgevingsplanactiviteit volgens leges art. 2.30 in samenhang met art. 22.8 Ow; omgevingsplan CVDR696234_5 bevat alleen aanvraagvereisten (art. 8.23)",
+  "praktijkcontrole": "Dossier: 486 bekendmakingen sinds 2025, waarvan 219 besluiten en 17 geweigerd volgens titel (zoekmethode op titel, aantal zegt weinig). Veel verleende kapvergunningen voor 1 tot 9 bomen in Epe, Vaassen, Emst en Oene, o.a. gmb-2026-482501, gmb-2026-508403 (geweigerd). Geen grondslag in de besluiten genoemd.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning). Buiten de bebouwingscontour houtkap: voor houtopstanden boven de drempel. Binnen de contour alleen voor bomen op de bomenlijst en bomen in bosrijke wijken en boomrijke percelen in Epe en Vaassen.",
+  "drempel": "Buiten de contour: 'diameter > 20 cm en snelgroeiende soorten met een diameter > 30 cm, gemeten op 1,30 m hoogte'. Binnen de contour geen drempel (lijst en gebieden).",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 7.10a lid 1: 'buiten de bebouwingscontour houtkap' (houtwallen, houtsingels, hakhoutbosjes; overige houtopstanden boven de drempel; bomen geplant in het kader van een herplantplicht), geen uitzondering voor tuinen of erven. Lid 2: 'binnen de bebouwingscontour houtkap': 'beschermde particuliere bomen die zijn opgenomen in de bomenlijst', 'bomen in bosrijke wijken en boomrijke percelen in Epe en Vaassen' (bomenkaart op de gemeentelijke website) en herplantbomen. Lid 3: recreatieterreinen. Particulier en openbaar.",
+  "uitzonderingen": "Buiten de contour: 'tenzij deze houtopstanden een zelfstandige eenheid vormen en een grotere oppervlakte beslaan dan 10 are' (bos, geen tuinuitzondering). Lid 5: niet van toepassing 'als het college toestemming verleent voor noodkap'. Geen uitzondering voor achter- of zijtuinen, fruitbomen of coniferen buiten de contour.",
+  "weigeringsgronden": "Art. 7.10a lid 4: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- of dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "VFL art. 7.10c lid 1: 'Het college kan aan de omgevingsvergunning het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag gegeven aanwijzingen moet worden herplant.' Art. 7.10d lid 1 (na illegale kap): 'kan het bevoegd gezag de verplichting tot herplant opleggen.' Geen beleidsregel over herplant gevonden.",
+  "herplant_ontsnapping": "Geen herplantplicht als standaard: bevoegdheid ('kan'), per geval door het college. Geen financiele uitweg in de tekst.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Beleidsregel dwangsomhoogte CVDR609637_1: '1) Niet naleven herplantplicht, zoals gesteld in de omgevings-vergunning | Aantal te herplanten bomen x kostprijs boom per stuk o.b.v. taxatie extern bureau | Per week, over gedurende max. 5 weken'. Ook VFL art. 9.1 lid 1: 'gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "WED via Ow 5.1 (kap is omgevingsplanactiviteit volgens leges art. 2.30). VFL art. 9.1 lid 1: 'Behoudens het bepaalde in de Wet economische delicten worden overtredingen van de artikelen van deze verordening ... gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Lid 2 wijst alleen art. 7.1, 7.3, 7.4 en 7.11 aan voor art. 1a WED, niet 7.10a. Beleidsregel dwangsomhoogte noemt dwangsom bij illegale kap en 'beboeting voor de onherstelbare schade van illegale kap' (alleen handhavingsbeleid, telt niet voor S2). Geen bestuurlijke boete voor kappen in de regeling zelf gevonden.",
+  "procedure": "Leges: tarieventabel 2026 art. 2.30: '€ 52,45 , vermeerderd met € 29,80 per boom tot een maximumbedrag van € 982,00'. Beslistermijn, bezwaar en beroep: niet apart onderzocht (APV art. 1:2 beslistermijn). APV art. 4:12 vergunning van rechtswege is vervallen.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bomenlijst en bomenkaart op de gemeentelijke website niet ingezien; telt niet voor D, want het buitengebied bepaalt D.",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst en bomenkaart (ligging contour, bosrijke wijken) niet ingezien; beleidsregel herplant/compensatie niet gevonden in het dossier.",
+  "artikelnummers": [
+    "VFL 7.10 (begrippen)",
+    "VFL 7.10a",
+    "VFL 7.10c",
+    "VFL 7.10d",
+    "VFL 9.1",
+    "APV 4:10-4:12 (vervallen)",
+    "Tarieventabel 2026 art. 2.30",
+    "Omgevingsplan art. 8.23 en 22.299 (aanvraagvereisten)",
+    "Beleidsregel dwangsomhoogte CVDR609637_1"
+  ],
+  "opmerkingen": [
+    "D per deel: buiten de bebouwingscontour houtkap geldt een omtrekdrempel van ca. 62,8 cm (diameter > 20 cm) zonder tuinuitzondering: D = 3. Snelgroeiende soorten: diameter > 30 cm (ca. 94 cm omtrek). Binnen de contour alleen lijst en aangewezen wijken (hooguit D = 2). Hoogste deel telt: D = 3.",
+    "Boom A en B in een gewone achtertuin binnen de bebouwde kom: alleen vergunningplichtig als de boom op de bomenlijst staat of in een bosrijke wijk/boomrijk perceel in Epe of Vaassen ligt (kaart niet ingezien). Daarom 'alleen als op lijst' voor beide; het rapport laat A en B als feit voorgaan.",
+    "Doorslaggevend W: 'De vergunning kan worden geweigerd op grond van:' met natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (W = 2).",
+    "Doorslaggevend H: 'Het college kan aan de omgevingsvergunning het voorschrift verbinden dat ... moet worden herplant.' (H = 1). Herplant na illegale kap: 'kan' (art. 7.10d lid 1), telt bij S.",
+    "Juridische plaats: APV 2026 art. 4:10 t/m 4:11b zijn vervallen en 'opgenomen in de Vfl'. De leges noemt de kap een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': S = 1 zonder bereik. De leges verwijst naar 'Verordening fysieke leefomgeving gemeente Epe 2024', de geldende versie heet 2026 (artikelnummer 7.10a gelijk): oude verwijzing in de leges. Tarieventabel niet in het dossier; apart opgehaald uit CVDR (CVDR749618_1).",
+    "Het omgevingsplan (CVDR696234_5, in werking 2026-10-26) bevat voor kap alleen aanvraagvereisten (art. 8.23; art. 22.299 zonder tekst) en geen eigen kapverbod; afdeling 5.2.16 Kappen en vellen is leeg. Gebiedsregels in het omgevingsplan voor houtsingels en houtwallen (art. 5.288, 21.65) tellen niet mee als kleine gebiedsregels.",
+    "Recreatieterreinen (art. 7.10a lid 3): hele vergunningplicht zonder drempel; klein gebied, telt niet voor D.",
+    "Handhavingsbeleid (HUP, dwangsombeleid) noemt dat bij illegale kap 'zowel bestuursrechtelijk als strafrechtelijk opgetreden' wordt; geen boete in de regeling, dus S niet hoger dan 1.",
+    "Peildatum 2026-11-15.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 5.288 (beschermingszone natte landnatuur) en 21.65 (dekzandruggen Kerkenland, transitiefase) beschermen alleen houtsingels en houtwallen in een landschaps- of natuurgebied en tellen niet voor D; art. 8.23 (en 22.297/22.299) bevat alleen aanvraagvereisten ('Bij een aanvraag om een omgevingsvergunning voor het vellen van een houtopstand, identificeert de aanvrager ...'). Geen aanvullende kapregel; D3 W2 H1 S1 ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Hybride systeem: buiten de contour alle houtopstanden boven een drempel (ook in tuinen), binnen de contour alleen lijst en wijken. Het model scoort het hoogste deel (D = 3), terwijl de voorbeeldbomen A en B in de kom niet vergunningplichtig zijn zolang ze niet op lijst of in een aangewezen wijk staan. D en voorbeeldbomen lopen daardoor uiteen.",
+    "Legesverordening wijst naar een oudere naam van de VFL (2024) terwijl 2026 geldt."
+  ],
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst"
+}

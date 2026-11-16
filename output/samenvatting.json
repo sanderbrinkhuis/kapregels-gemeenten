@@ -1,0 +1,1661 @@
+{
+ "aantal": 342,
+ "categorie": {
+  "3 Gemiddeld": 78,
+  "1 Zeer soepel": 139,
+  "2 Soepel": 92,
+  "4 Streng": 31,
+  "5 Zeer streng": 2
+ },
+ "categorie_per_provincie": {
+  "Groningen": {
+   "3 Gemiddeld": 4,
+   "2 Soepel": 4,
+   "4 Streng": 1,
+   "1 Zeer soepel": 1
+  },
+  "Fryslân": {
+   "3 Gemiddeld": 7,
+   "2 Soepel": 5,
+   "1 Zeer soepel": 6
+  },
+  "Drenthe": {
+   "2 Soepel": 7,
+   "3 Gemiddeld": 2,
+   "1 Zeer soepel": 3
+  },
+  "Overijssel": {
+   "1 Zeer soepel": 3,
+   "2 Soepel": 11,
+   "3 Gemiddeld": 5,
+   "4 Streng": 6
+  },
+  "Flevoland": {
+   "1 Zeer soepel": 4,
+   "3 Gemiddeld": 2
+  },
+  "Gelderland": {
+   "4 Streng": 4,
+   "3 Gemiddeld": 12,
+   "1 Zeer soepel": 19,
+   "2 Soepel": 15,
+   "5 Zeer streng": 1
+  },
+  "Utrecht": {
+   "4 Streng": 3,
+   "3 Gemiddeld": 6,
+   "2 Soepel": 6,
+   "1 Zeer soepel": 11
+  },
+  "Noord-Holland": {
+   "1 Zeer soepel": 25,
+   "3 Gemiddeld": 9,
+   "5 Zeer streng": 1,
+   "4 Streng": 5,
+   "2 Soepel": 4
+  },
+  "Zuid-Holland": {
+   "3 Gemiddeld": 9,
+   "1 Zeer soepel": 22,
+   "2 Soepel": 14,
+   "4 Streng": 5
+  },
+  "Zeeland": {
+   "3 Gemiddeld": 1,
+   "2 Soepel": 3,
+   "1 Zeer soepel": 9
+  },
+  "Noord-Brabant": {
+   "3 Gemiddeld": 13,
+   "1 Zeer soepel": 19,
+   "2 Soepel": 18,
+   "4 Streng": 6
+  },
+  "Limburg": {
+   "3 Gemiddeld": 8,
+   "1 Zeer soepel": 17,
+   "4 Streng": 1,
+   "2 Soepel": 5
+  }
+ },
+ "betrouwbaarheid": {
+  "middel": 33,
+  "hoog": 161,
+  "laag": 148
+ },
+ "status": {
+  "ok": 292,
+  "onzeker": 50
+ },
+ "strengst": [
+  [
+   "Harderwijk",
+   "Gelderland",
+   80,
+   "73-80"
+  ],
+  [
+   "Amsterdam",
+   "Noord-Holland",
+   80,
+   "80-80"
+  ],
+  [
+   "'s-Gravenhage",
+   "Zuid-Holland",
+   73,
+   "73-80"
+  ],
+  [
+   "Eindhoven",
+   "Noord-Brabant",
+   73,
+   "73-80"
+  ],
+  [
+   "Utrecht",
+   "Utrecht",
+   73,
+   "73-73"
+  ],
+  [
+   "Haarlem",
+   "Noord-Holland",
+   73,
+   "73-80"
+  ],
+  [
+   "Hof van Twente",
+   "Overijssel",
+   73,
+   "73-73"
+  ],
+  [
+   "Gilze en Rijen",
+   "Noord-Brabant",
+   73,
+   "18-73"
+  ],
+  [
+   "Haaksbergen",
+   "Overijssel",
+   73,
+   "67-73"
+  ],
+  [
+   "Wormerland",
+   "Noord-Holland",
+   67,
+   "67-67"
+  ]
+ ],
+ "soepelst": [
+  [
+   "Almere",
+   "Flevoland",
+   0,
+   "0-0"
+  ],
+  [
+   "Duiven",
+   "Gelderland",
+   0,
+   "0-0"
+  ],
+  [
+   "Bunschoten",
+   "Utrecht",
+   0,
+   "0-17"
+  ],
+  [
+   "IJsselstein",
+   "Utrecht",
+   0,
+   "0-10"
+  ],
+  [
+   "Uitgeest",
+   "Noord-Holland",
+   0,
+   "0-0"
+  ],
+  [
+   "Albrandswaard",
+   "Zuid-Holland",
+   0,
+   "0-0"
+  ],
+  [
+   "Zoeterwoude",
+   "Zuid-Holland",
+   0,
+   "0-40"
+  ],
+  [
+   "Koggenland",
+   "Noord-Holland",
+   0,
+   "0-17"
+  ],
+  [
+   "Hollands Kroon",
+   "Noord-Holland",
+   0,
+   "0-0"
+  ],
+  [
+   "Molenlanden",
+   "Zuid-Holland",
+   0,
+   "0-0"
+  ]
+ ],
+ "score_nul": [
+  "Albrandswaard",
+  "Almere",
+  "Bunschoten",
+  "Duiven",
+  "Hollands Kroon",
+  "IJsselstein",
+  "Koggenland",
+  "Molenlanden",
+  "Uitgeest",
+  "Zoeterwoude"
+ ],
+ "gemiddelde_per_provincie": {
+  "Groningen": 42.7,
+  "Fryslân": 31.7,
+  "Drenthe": 30,
+  "Overijssel": 42.8,
+  "Flevoland": 22,
+  "Gelderland": 33.4,
+  "Utrecht": 30.4,
+  "Noord-Holland": 30.7,
+  "Zuid-Holland": 30.4,
+  "Zeeland": 21.7,
+  "Noord-Brabant": 32.9,
+  "Limburg": 29
+ },
+ "systeem": {
+  "hele kom of gemeente, met drempel": 149,
+  "geen vergunningplicht voor particuliere bomen": 10,
+  "hele kom of gemeente, zonder drempel": 6,
+  "kaart met gebieden of structuren": 31,
+  "alleen bomen op een lijst of kaart": 146
+ },
+ "systeem_per_provincie": {
+  "Groningen": {
+   "hele kom of gemeente, met drempel": 7,
+   "hele kom of gemeente, zonder drempel": 1,
+   "kaart met gebieden of structuren": 1,
+   "alleen bomen op een lijst of kaart": 1
+  },
+  "Fryslân": {
+   "hele kom of gemeente, zonder drempel": 1,
+   "alleen bomen op een lijst of kaart": 7,
+   "hele kom of gemeente, met drempel": 9,
+   "kaart met gebieden of structuren": 1
+  },
+  "Drenthe": {
+   "hele kom of gemeente, met drempel": 7,
+   "alleen bomen op een lijst of kaart": 3,
+   "kaart met gebieden of structuren": 2
+  },
+  "Overijssel": {
+   "alleen bomen op een lijst of kaart": 2,
+   "hele kom of gemeente, met drempel": 20,
+   "hele kom of gemeente, zonder drempel": 3
+  },
+  "Flevoland": {
+   "geen vergunningplicht voor particuliere bomen": 1,
+   "alleen bomen op een lijst of kaart": 3,
+   "hele kom of gemeente, met drempel": 2
+  },
+  "Gelderland": {
+   "hele kom of gemeente, met drempel": 26,
+   "alleen bomen op een lijst of kaart": 20,
+   "geen vergunningplicht voor particuliere bomen": 1,
+   "kaart met gebieden of structuren": 3,
+   "hele kom of gemeente, zonder drempel": 1
+  },
+  "Utrecht": {
+   "hele kom of gemeente, met drempel": 10,
+   "kaart met gebieden of structuren": 2,
+   "geen vergunningplicht voor particuliere bomen": 2,
+   "alleen bomen op een lijst of kaart": 12
+  },
+  "Noord-Holland": {
+   "alleen bomen op een lijst of kaart": 23,
+   "hele kom of gemeente, met drempel": 16,
+   "geen vergunningplicht voor particuliere bomen": 3,
+   "kaart met gebieden of structuren": 2
+  },
+  "Zuid-Holland": {
+   "hele kom of gemeente, met drempel": 20,
+   "alleen bomen op een lijst of kaart": 21,
+   "kaart met gebieden of structuren": 6,
+   "geen vergunningplicht voor particuliere bomen": 3
+  },
+  "Zeeland": {
+   "kaart met gebieden of structuren": 1,
+   "alleen bomen op een lijst of kaart": 10,
+   "hele kom of gemeente, met drempel": 2
+  },
+  "Noord-Brabant": {
+   "hele kom of gemeente, met drempel": 18,
+   "alleen bomen op een lijst of kaart": 26,
+   "kaart met gebieden of structuren": 12
+  },
+  "Limburg": {
+   "hele kom of gemeente, met drempel": 12,
+   "alleen bomen op een lijst of kaart": 18,
+   "kaart met gebieden of structuren": 1
+  }
+ },
+ "drempel": {
+  "aantal": 149,
+  "min": 30.0,
+  "max": 361.0,
+  "mediaan": 80.0,
+  "kwartielen": [
+   62.8,
+   80.0,
+   100.0
+  ],
+  "klassen": {
+   "onder 60 cm": 29,
+   "60 tot 100 cm": 90,
+   "boven 100 cm": 30
+  }
+ },
+ "drempel_laagst": [
+  [
+   "Opsterland",
+   30
+  ],
+  [
+   "Harderwijk",
+   30
+  ],
+  [
+   "'s-Gravenhage",
+   30
+  ],
+  [
+   "Noordoostpolder",
+   31
+  ],
+  [
+   "Amsterdam",
+   31
+  ]
+ ],
+ "drempel_hoogst": [
+  [
+   "Rotterdam",
+   361
+  ],
+  [
+   "Nissewaard",
+   219.8
+  ],
+  [
+   "Heerlen",
+   180
+  ],
+  [
+   "Ooststellingwerf",
+   160
+  ],
+  [
+   "Huizen",
+   157
+  ]
+ ],
+ "boom_a_80cm": {
+  "ja": 49,
+  "nee": 101,
+  "alleen als op lijst": 181,
+  "onbekend": 10,
+  "melden": 1
+ },
+ "boom_a_80cm_per_provincie": {
+  "Groningen": {
+   "ja": 4,
+   "alleen als op lijst": 2,
+   "nee": 4
+  },
+  "Fryslân": {
+   "nee": 10,
+   "alleen als op lijst": 7,
+   "ja": 1
+  },
+  "Drenthe": {
+   "nee": 7,
+   "alleen als op lijst": 4,
+   "onbekend": 1
+  },
+  "Overijssel": {
+   "alleen als op lijst": 5,
+   "nee": 16,
+   "ja": 3,
+   "onbekend": 1
+  },
+  "Flevoland": {
+   "nee": 2,
+   "alleen als op lijst": 3,
+   "melden": 1
+  },
+  "Gelderland": {
+   "nee": 15,
+   "ja": 8,
+   "alleen als op lijst": 26,
+   "onbekend": 2
+  },
+  "Utrecht": {
+   "ja": 7,
+   "alleen als op lijst": 15,
+   "nee": 3,
+   "onbekend": 1
+  },
+  "Noord-Holland": {
+   "alleen als op lijst": 22,
+   "ja": 9,
+   "nee": 12,
+   "onbekend": 1
+  },
+  "Zuid-Holland": {
+   "onbekend": 2,
+   "alleen als op lijst": 28,
+   "ja": 7,
+   "nee": 13
+  },
+  "Zeeland": {
+   "alleen als op lijst": 12,
+   "nee": 1
+  },
+  "Noord-Brabant": {
+   "ja": 5,
+   "onbekend": 2,
+   "alleen als op lijst": 38,
+   "nee": 11
+  },
+  "Limburg": {
+   "nee": 7,
+   "alleen als op lijst": 19,
+   "ja": 5
+  }
+ },
+ "boom_b_40cm": {
+  "nee": 151,
+  "ja": 8,
+  "alleen als op lijst": 178,
+  "onbekend": 5
+ },
+ "boom_b_40cm_per_provincie": {
+  "Groningen": {
+   "nee": 7,
+   "ja": 1,
+   "alleen als op lijst": 2
+  },
+  "Fryslân": {
+   "nee": 11,
+   "alleen als op lijst": 7
+  },
+  "Drenthe": {
+   "nee": 7,
+   "alleen als op lijst": 4,
+   "onbekend": 1
+  },
+  "Overijssel": {
+   "alleen als op lijst": 5,
+   "nee": 19,
+   "onbekend": 1
+  },
+  "Flevoland": {
+   "nee": 2,
+   "alleen als op lijst": 4
+  },
+  "Gelderland": {
+   "nee": 25,
+   "alleen als op lijst": 26
+  },
+  "Utrecht": {
+   "ja": 1,
+   "nee": 9,
+   "alleen als op lijst": 15,
+   "onbekend": 1
+  },
+  "Noord-Holland": {
+   "alleen als op lijst": 22,
+   "nee": 20,
+   "ja": 2
+  },
+  "Zuid-Holland": {
+   "nee": 19,
+   "alleen als op lijst": 28,
+   "ja": 3
+  },
+  "Zeeland": {
+   "alleen als op lijst": 9,
+   "nee": 4
+  },
+  "Noord-Brabant": {
+   "nee": 15,
+   "onbekend": 2,
+   "alleen als op lijst": 38,
+   "ja": 1
+  },
+  "Limburg": {
+   "nee": 13,
+   "alleen als op lijst": 18
+  }
+ },
+ "lijst": {
+  "lijstsystemen": 181,
+  "ingezien": 58,
+  "niet_ingezien": 123,
+  "met_aantal_particulier": 47
+ },
+ "lijst_aantallen": [
+  [
+   "Zwolle",
+   "Overijssel",
+   6947,
+   1339,
+   true
+  ],
+  [
+   "Sint-Michielsgestel",
+   "Noord-Brabant",
+   2184,
+   1107,
+   true
+  ],
+  [
+   "Nunspeet",
+   "Gelderland",
+   3037,
+   1101,
+   true
+  ],
+  [
+   "Kaag en Braassem",
+   "Zuid-Holland",
+   4304,
+   986,
+   true
+  ],
+  [
+   "Lingewaard",
+   "Gelderland",
+   929,
+   911,
+   true
+  ],
+  [
+   "Leeuwarden",
+   "Fryslân",
+   2444,
+   694,
+   true
+  ],
+  [
+   "Goes",
+   "Zeeland",
+   2292,
+   676,
+   true
+  ],
+  [
+   "Alphen aan den Rijn",
+   "Zuid-Holland",
+   1478,
+   637,
+   false
+  ],
+  [
+   "Medemblik",
+   "Noord-Holland",
+   630,
+   630,
+   true
+  ],
+  [
+   "Nieuwkoop",
+   "Zuid-Holland",
+   1406,
+   548,
+   true
+  ],
+  [
+   "Middelburg (Z.)",
+   "Zeeland",
+   588,
+   533,
+   true
+  ],
+  [
+   "Helmond",
+   "Noord-Brabant",
+   1797,
+   533,
+   true
+  ],
+  [
+   "Hulst",
+   "Zeeland",
+   608,
+   527,
+   true
+  ],
+  [
+   "Hoeksche Waard",
+   "Zuid-Holland",
+   null,
+   475,
+   true
+  ],
+  [
+   "Teylingen",
+   "Zuid-Holland",
+   1407,
+   402,
+   true
+  ],
+  [
+   "Haarlemmermeer",
+   "Noord-Holland",
+   815,
+   362,
+   false
+  ],
+  [
+   "De Ronde Venen",
+   "Utrecht",
+   579,
+   358,
+   true
+  ],
+  [
+   "Dijk en Waard",
+   "Noord-Holland",
+   648,
+   332,
+   true
+  ],
+  [
+   "Zaanstad",
+   "Noord-Holland",
+   331,
+   331,
+   true
+  ],
+  [
+   "Oosterhout",
+   "Noord-Brabant",
+   542,
+   287,
+   true
+  ],
+  [
+   "Loon op Zand",
+   "Noord-Brabant",
+   238,
+   233,
+   true
+  ],
+  [
+   "Voorschoten",
+   "Zuid-Holland",
+   1059,
+   227,
+   true
+  ],
+  [
+   "Oudewater",
+   "Utrecht",
+   1233,
+   224,
+   true
+  ],
+  [
+   "Heemstede",
+   "Noord-Holland",
+   466,
+   220,
+   true
+  ],
+  [
+   "Barendrecht",
+   "Zuid-Holland",
+   211,
+   183,
+   false
+  ],
+  [
+   "Lisse",
+   "Zuid-Holland",
+   379,
+   181,
+   true
+  ],
+  [
+   "Moerdijk",
+   "Noord-Brabant",
+   185,
+   150,
+   true
+  ],
+  [
+   "Gorinchem",
+   "Zuid-Holland",
+   1014,
+   148,
+   true
+  ],
+  [
+   "Opmeer",
+   "Noord-Holland",
+   176,
+   143,
+   true
+  ],
+  [
+   "Gennep",
+   "Limburg",
+   240,
+   127,
+   true
+  ],
+  [
+   "Geertruidenberg",
+   "Noord-Brabant",
+   null,
+   126,
+   false
+  ],
+  [
+   "Oisterwijk",
+   "Noord-Brabant",
+   370,
+   125,
+   true
+  ],
+  [
+   "Veere",
+   "Zeeland",
+   118,
+   115,
+   true
+  ],
+  [
+   "Texel",
+   "Noord-Holland",
+   415,
+   108,
+   true
+  ],
+  [
+   "Etten-Leur",
+   "Noord-Brabant",
+   324,
+   99,
+   true
+  ],
+  [
+   "Woensdrecht",
+   "Noord-Brabant",
+   113,
+   93,
+   true
+  ],
+  [
+   "Ridderkerk",
+   "Zuid-Holland",
+   145,
+   47,
+   false
+  ],
+  [
+   "Wijchen",
+   "Gelderland",
+   437,
+   45,
+   true
+  ],
+  [
+   "Vlieland",
+   "Fryslân",
+   215,
+   33,
+   true
+  ],
+  [
+   "Westervoort",
+   "Gelderland",
+   null,
+   16,
+   false
+  ],
+  [
+   "Krimpenerwaard",
+   "Zuid-Holland",
+   709,
+   11,
+   true
+  ],
+  [
+   "Schouwen-Duiveland",
+   "Zeeland",
+   32,
+   6,
+   true
+  ],
+  [
+   "Beesel",
+   "Limburg",
+   37,
+   5,
+   true
+  ],
+  [
+   "Bunschoten",
+   "Utrecht",
+   64,
+   0,
+   true
+  ],
+  [
+   "Albrandswaard",
+   "Zuid-Holland",
+   null,
+   0,
+   false
+  ],
+  [
+   "Zoeterwoude",
+   "Zuid-Holland",
+   51,
+   0,
+   true
+  ],
+  [
+   "Hollands Kroon",
+   "Noord-Holland",
+   null,
+   0,
+   true
+  ]
+ ],
+ "herplant_type": {
+  "in beginsel/tenzij": 34,
+  "geen grondslag": 15,
+  "kan": 254,
+  "harde plicht": 39
+ },
+ "herplant_betalen_als_alternatief": {
+  "kan": 108,
+  "nee": 186,
+  "verplicht": 41,
+  "onbekend": 7
+ },
+ "herplant_na_illegale_kap": {
+  "verplicht": 37,
+  "nee": 66,
+  "kan": 212,
+  "onbekend": 27
+ },
+ "herplant_niet_nakomen_type": {
+  "strafbaar (rechter)": 149,
+  "niets geregeld": 118,
+  "onbekend": 10,
+  "meerdere": 40,
+  "dwangsom/bestuursdwang": 25
+ },
+ "herplant_type_per_provincie": {
+  "Groningen": {
+   "in beginsel/tenzij": 2,
+   "kan": 6,
+   "harde plicht": 2
+  },
+  "Fryslân": {
+   "kan": 16,
+   "harde plicht": 2
+  },
+  "Drenthe": {
+   "kan": 10,
+   "harde plicht": 2
+  },
+  "Overijssel": {
+   "kan": 20,
+   "harde plicht": 1,
+   "in beginsel/tenzij": 4
+  },
+  "Flevoland": {
+   "geen grondslag": 1,
+   "kan": 4,
+   "harde plicht": 1
+  },
+  "Gelderland": {
+   "harde plicht": 5,
+   "kan": 42,
+   "geen grondslag": 1,
+   "in beginsel/tenzij": 3
+  },
+  "Utrecht": {
+   "kan": 15,
+   "in beginsel/tenzij": 7,
+   "harde plicht": 2,
+   "geen grondslag": 2
+  },
+  "Noord-Holland": {
+   "kan": 30,
+   "in beginsel/tenzij": 5,
+   "geen grondslag": 4,
+   "harde plicht": 5
+  },
+  "Zuid-Holland": {
+   "harde plicht": 6,
+   "kan": 35,
+   "in beginsel/tenzij": 5,
+   "geen grondslag": 4
+  },
+  "Zeeland": {
+   "kan": 12,
+   "in beginsel/tenzij": 1
+  },
+  "Noord-Brabant": {
+   "kan": 39,
+   "geen grondslag": 2,
+   "harde plicht": 10,
+   "in beginsel/tenzij": 5
+  },
+  "Limburg": {
+   "kan": 25,
+   "in beginsel/tenzij": 2,
+   "harde plicht": 3,
+   "geen grondslag": 1
+  }
+ },
+ "H": {
+  "2": 57,
+  "0": 18,
+  "1": 240,
+  "3": 27
+ },
+ "W": {
+  "2": 242,
+  "0": 8,
+  "3": 91,
+  "1": 1
+ },
+ "S": {
+  "1": 322,
+  "0": 9,
+  "3": 2,
+  "2": 9
+ },
+ "D": {
+  "3": 73,
+  "0": 10,
+  "2": 75,
+  "1": 161,
+  "4": 23
+ },
+ "variabelen": {
+  "omtrekdrempel (stamdikte)": {
+   "totaal": 187,
+   "Groningen": 7,
+   "Fryslân": 10,
+   "Drenthe": 10,
+   "Overijssel": 21,
+   "Flevoland": 2,
+   "Gelderland": 30,
+   "Utrecht": 14,
+   "Noord-Holland": 22,
+   "Zuid-Holland": 25,
+   "Zeeland": 6,
+   "Noord-Brabant": 26,
+   "Limburg": 14
+  },
+  "lijst of kaart met aangewezen bomen": {
+   "totaal": 177,
+   "Groningen": 2,
+   "Fryslân": 8,
+   "Drenthe": 5,
+   "Overijssel": 2,
+   "Flevoland": 3,
+   "Gelderland": 23,
+   "Utrecht": 14,
+   "Noord-Holland": 25,
+   "Zuid-Holland": 27,
+   "Zeeland": 11,
+   "Noord-Brabant": 38,
+   "Limburg": 19
+  },
+  "tuin- of perceeluitzondering": {
+   "totaal": 110,
+   "Groningen": 5,
+   "Fryslân": 7,
+   "Drenthe": 4,
+   "Overijssel": 8,
+   "Flevoland": 1,
+   "Gelderland": 19,
+   "Utrecht": 13,
+   "Noord-Holland": 12,
+   "Zuid-Holland": 14,
+   "Zeeland": 1,
+   "Noord-Brabant": 17,
+   "Limburg": 9
+  },
+  "soortuitzondering (bijv. coniferen, populieren, fruitbomen)": {
+   "totaal": 156,
+   "Groningen": 9,
+   "Fryslân": 10,
+   "Drenthe": 4,
+   "Overijssel": 19,
+   "Flevoland": 2,
+   "Gelderland": 26,
+   "Utrecht": 11,
+   "Noord-Holland": 17,
+   "Zuid-Holland": 17,
+   "Zeeland": 6,
+   "Noord-Brabant": 22,
+   "Limburg": 13
+  },
+  "weigeringsgrond natuur of ecologie": {
+   "totaal": 257,
+   "Groningen": 7,
+   "Fryslân": 13,
+   "Drenthe": 10,
+   "Overijssel": 22,
+   "Flevoland": 3,
+   "Gelderland": 36,
+   "Utrecht": 19,
+   "Noord-Holland": 33,
+   "Zuid-Holland": 36,
+   "Zeeland": 11,
+   "Noord-Brabant": 43,
+   "Limburg": 24
+  },
+  "weigeringsgrond landschap": {
+   "totaal": 242,
+   "Groningen": 7,
+   "Fryslân": 13,
+   "Drenthe": 10,
+   "Overijssel": 23,
+   "Flevoland": 2,
+   "Gelderland": 37,
+   "Utrecht": 15,
+   "Noord-Holland": 31,
+   "Zuid-Holland": 29,
+   "Zeeland": 11,
+   "Noord-Brabant": 42,
+   "Limburg": 22
+  },
+  "weigeringsgrond cultuurhistorie": {
+   "totaal": 251,
+   "Groningen": 8,
+   "Fryslân": 13,
+   "Drenthe": 10,
+   "Overijssel": 22,
+   "Flevoland": 3,
+   "Gelderland": 36,
+   "Utrecht": 18,
+   "Noord-Holland": 33,
+   "Zuid-Holland": 34,
+   "Zeeland": 11,
+   "Noord-Brabant": 42,
+   "Limburg": 21
+  },
+  "weigeringsgrond beeld (stads- en dorpsschoon, beeldbepalend)": {
+   "totaal": 242,
+   "Groningen": 8,
+   "Fryslân": 13,
+   "Drenthe": 10,
+   "Overijssel": 21,
+   "Flevoland": 2,
+   "Gelderland": 34,
+   "Utrecht": 16,
+   "Noord-Holland": 30,
+   "Zuid-Holland": 33,
+   "Zeeland": 11,
+   "Noord-Brabant": 41,
+   "Limburg": 23
+  },
+  "weigeringsgrond leefbaarheid of recreatie": {
+   "totaal": 218,
+   "Groningen": 6,
+   "Fryslân": 10,
+   "Drenthe": 9,
+   "Overijssel": 18,
+   "Flevoland": 3,
+   "Gelderland": 31,
+   "Utrecht": 16,
+   "Noord-Holland": 26,
+   "Zuid-Holland": 29,
+   "Zeeland": 11,
+   "Noord-Brabant": 38,
+   "Limburg": 21
+  },
+  "weigeringsgrond boomwaarde of monumentaliteit": {
+   "totaal": 137,
+   "Groningen": 2,
+   "Fryslân": 10,
+   "Drenthe": 7,
+   "Overijssel": 7,
+   "Flevoland": 0,
+   "Gelderland": 12,
+   "Utrecht": 8,
+   "Noord-Holland": 23,
+   "Zuid-Holland": 25,
+   "Zeeland": 3,
+   "Noord-Brabant": 23,
+   "Limburg": 17
+  },
+  "weigeringsgrond klimaat": {
+   "totaal": 21,
+   "Groningen": 0,
+   "Fryslân": 0,
+   "Drenthe": 1,
+   "Overijssel": 4,
+   "Flevoland": 0,
+   "Gelderland": 5,
+   "Utrecht": 2,
+   "Noord-Holland": 3,
+   "Zuid-Holland": 3,
+   "Zeeland": 0,
+   "Noord-Brabant": 2,
+   "Limburg": 1
+  },
+  "herplant (kan of moet)": {
+   "totaal": 322,
+   "Groningen": 10,
+   "Fryslân": 18,
+   "Drenthe": 12,
+   "Overijssel": 25,
+   "Flevoland": 5,
+   "Gelderland": 50,
+   "Utrecht": 23,
+   "Noord-Holland": 40,
+   "Zuid-Holland": 43,
+   "Zeeland": 12,
+   "Noord-Brabant": 54,
+   "Limburg": 30
+  },
+  "financiële compensatie of boomwaarde": {
+   "totaal": 261,
+   "Groningen": 8,
+   "Fryslân": 10,
+   "Drenthe": 7,
+   "Overijssel": 24,
+   "Flevoland": 4,
+   "Gelderland": 35,
+   "Utrecht": 19,
+   "Noord-Holland": 33,
+   "Zuid-Holland": 37,
+   "Zeeland": 11,
+   "Noord-Brabant": 51,
+   "Limburg": 22
+  },
+  "bestuurlijke boete in de regeling": {
+   "totaal": 11,
+   "Groningen": 0,
+   "Fryslân": 3,
+   "Drenthe": 1,
+   "Overijssel": 3,
+   "Flevoland": 0,
+   "Gelderland": 1,
+   "Utrecht": 1,
+   "Noord-Holland": 0,
+   "Zuid-Holland": 0,
+   "Zeeland": 0,
+   "Noord-Brabant": 2,
+   "Limburg": 0
+  },
+  "apart vastgesteld beleid naast de regeling": {
+   "totaal": 123,
+   "Groningen": 5,
+   "Fryslân": 4,
+   "Drenthe": 2,
+   "Overijssel": 6,
+   "Flevoland": 2,
+   "Gelderland": 15,
+   "Utrecht": 17,
+   "Noord-Holland": 18,
+   "Zuid-Holland": 15,
+   "Zeeland": 2,
+   "Noord-Brabant": 27,
+   "Limburg": 10
+  }
+ },
+ "met_kapregel": 332,
+ "juridische_plaats": {
+  "APV": 170,
+  "geen vergunningplicht voor particuliere bomen": 10,
+  "omgevingsplan": 18,
+  "losse bomen- of kapverordening": 78,
+  "verordening fysieke leefomgeving (VFL)": 65,
+  "omgevingsplan (tijdelijk deel: bestemmingsplan)": 1
+ },
+ "restant_bruidsschat": [
+  "Almere",
+  "Duiven",
+  "Koggenland",
+  "Molenlanden",
+  "Uitgeest"
+ ],
+ "s_via_omgevingswet": 301,
+ "apv_na_2024": 170,
+ "volledig_gelezen": {
+  "true": 338,
+  "false": 4
+ },
+ "grensoverschrijdend_bereik": 129,
+ "buren_grootste_verschil": [
+  [
+   73,
+   "Utrecht",
+   73,
+   "ja",
+   47,
+   "IJsselstein",
+   0,
+   "onbekend",
+   null
+  ],
+  [
+   67,
+   "Hoorn",
+   67,
+   "nee",
+   47.1,
+   "Koggenland",
+   0,
+   "nee",
+   null
+  ],
+  [
+   67,
+   "Amersfoort",
+   67,
+   "ja",
+   35,
+   "Bunschoten",
+   0,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   63,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Wijdemeren",
+   17,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   63,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Landsmeer",
+   17,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   63,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "De Ronde Venen",
+   17,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   63,
+   "Amstelveen",
+   17,
+   "alleen als op lijst",
+   null,
+   "Amsterdam",
+   80,
+   "ja",
+   31
+  ],
+  [
+   62,
+   "Zeewolde",
+   18,
+   "alleen als op lijst",
+   null,
+   "Harderwijk",
+   80,
+   "alleen als op lijst",
+   30
+  ],
+  [
+   62,
+   "Harderwijk",
+   80,
+   "alleen als op lijst",
+   30,
+   "Nunspeet",
+   18,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   62,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Waterland",
+   18,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   62,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Haarlemmermeer",
+   18,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   60,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Zaanstad",
+   20,
+   "alleen als op lijst",
+   31
+  ],
+  [
+   58,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Stichtse Vecht",
+   22,
+   "alleen als op lijst",
+   31
+  ],
+  [
+   56,
+   "Montfoort",
+   17,
+   "alleen als op lijst",
+   null,
+   "Utrecht",
+   73,
+   "ja",
+   47
+  ],
+  [
+   56,
+   "Gilze en Rijen",
+   73,
+   "nee",
+   100.0,
+   "Oosterhout",
+   17,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   56,
+   "Eindhoven",
+   73,
+   "ja",
+   45,
+   "Oirschot",
+   17,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   56,
+   "Eindhoven",
+   73,
+   "ja",
+   45,
+   "Nuenen, Gerwen en Nederwetten",
+   17,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   56,
+   "Almelo",
+   17,
+   "alleen als op lijst",
+   null,
+   "Hof van Twente",
+   73,
+   "nee",
+   94.2
+  ],
+  [
+   55,
+   "Utrecht",
+   73,
+   "ja",
+   47,
+   "Woerden",
+   18,
+   "alleen als op lijst",
+   null
+  ],
+  [
+   55,
+   "IJsselstein",
+   0,
+   "onbekend",
+   null,
+   "Nieuwegein",
+   55,
+   "nee",
+   90
+  ]
+ ],
+ "buren_boom_a_ja_nee": [
+  [
+   50,
+   "Maassluis",
+   67,
+   "ja",
+   31.4,
+   "Rotterdam",
+   17,
+   "nee",
+   361
+  ],
+  [
+   50,
+   "Alkmaar",
+   50,
+   "ja",
+   63,
+   "Uitgeest",
+   0,
+   "nee",
+   null
+  ],
+  [
+   50,
+   "Alkmaar",
+   50,
+   "ja",
+   63,
+   "Koggenland",
+   0,
+   "nee",
+   null
+  ],
+  [
+   49,
+   "Maastricht",
+   67,
+   "ja",
+   47,
+   "Valkenburg aan de Geul",
+   18,
+   "nee",
+   126
+  ],
+  [
+   43,
+   "Delft",
+   60,
+   "ja",
+   63,
+   "Rotterdam",
+   17,
+   "nee",
+   361
+  ],
+  [
+   43,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Ouder-Amstel",
+   37,
+   "nee",
+   62.8
+  ],
+  [
+   38,
+   "Wageningen",
+   55,
+   "ja",
+   60,
+   "Neder-Betuwe",
+   17,
+   "nee",
+   125.6
+  ],
+  [
+   38,
+   "Rotterdam",
+   17,
+   "nee",
+   361,
+   "Pijnacker-Nootdorp",
+   55,
+   "ja",
+   78.5
+  ],
+  [
+   38,
+   "Groningen",
+   55,
+   "ja",
+   62.8,
+   "Tynaarlo",
+   17,
+   "nee",
+   126
+  ],
+  [
+   37,
+   "Heusden",
+   18,
+   "nee",
+   150,
+   "Tilburg",
+   55,
+   "ja",
+   65
+  ],
+  [
+   34,
+   "Doesburg",
+   67,
+   "ja",
+   45,
+   "Bronckhorst",
+   33,
+   "nee",
+   95
+  ],
+  [
+   33,
+   "Smallingerland",
+   50,
+   "ja",
+   63,
+   "Tytsjerksteradiel",
+   17,
+   "nee",
+   150
+  ],
+  [
+   33,
+   "Rotterdam",
+   17,
+   "nee",
+   361,
+   "Vlaardingen",
+   50,
+   "ja",
+   62.8
+  ],
+  [
+   33,
+   "Raalte",
+   17,
+   "nee",
+   110,
+   "Olst-Wijhe",
+   50,
+   "ja",
+   65
+  ],
+  [
+   33,
+   "Deventer",
+   50,
+   "ja",
+   75,
+   "Raalte",
+   17,
+   "nee",
+   110
+  ],
+  [
+   32,
+   "Meerssen",
+   50,
+   "ja",
+   78.5,
+   "Valkenburg aan de Geul",
+   18,
+   "nee",
+   126
+  ],
+  [
+   30,
+   "Leeuwarden",
+   20,
+   "nee",
+   63,
+   "Smallingerland",
+   50,
+   "ja",
+   63
+  ],
+  [
+   30,
+   "Amsterdam",
+   80,
+   "ja",
+   31,
+   "Oostzaan",
+   50,
+   "nee",
+   94
+  ],
+  [
+   27,
+   "Pekela",
+   60,
+   "ja",
+   62.8,
+   "Westerwolde",
+   33,
+   "nee",
+   125.6
+  ],
+  [
+   24,
+   "Leiden",
+   43,
+   "nee",
+   157,
+   "Wassenaar",
+   67,
+   "ja",
+   31.4
+  ]
+ ]
+}

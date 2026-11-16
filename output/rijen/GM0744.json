@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0744",
+  "gemeente": "Baarle-Nassau",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem (regime voor de hele gemeente met een erven-en-tuinenuitzondering). Er is wel een 'Waardevolle bomen- en structurenlijst Baarle' (aanwijzingsbesluit CVDR638223_1) die de tuinuitzondering opheft; de lijst zelf is niet ingezien en bepaalt D niet.",
+  "brondocument": "Algemene plaatselijke verordening gemeente Baarle-Nassau 2024, afdeling 4.3 (art. 4:10, 4:11, 4:11a, 4:11d, 4:11e, 4:11h) en art. 6:1; Besluit aanwijzing waardevolle houtopstand (CVDR638223_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30; Beleidsplan Vergunningen, Toezicht & Handhaving 2020-2024",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR725050/1 ; https://lokaleregelgeving.overheid.nl/CVDR638223/1 ; https://lokaleregelgeving.overheid.nl/CVDR757658/1 ; https://lokaleregelgeving.overheid.nl/CVDR640698/1",
+  "datum_geldigheid": "APV CVDR725050_1 geldend vanaf 2024-10-04 t/m heden (peildatum scoren 2026-11-15); leges CVDR757658_1 vanaf 2026-02-26; aanwijzingsbesluit CVDR638223_1 vanaf 2020-03-17",
+  "laatste_wijziging": "APV: versie 1 per 2024-10-04 (nieuwe APV 2024); leges 2026 per 2026-02-26",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR757658_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening gemeente Alphen-Chaam in samenhang met artikel 22.8 van de Omgevingswet' (foute verwijzing naar de APV van Alphen-Chaam). WED-aanwijzing ook in APV art. 6:1 lid 3. Omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 55 bekendmakingen, waarvan 26 besluiten en 29 aanvragen, 0 weigeringen. Steekproef: verleende kapvergunningen, meerdere met herplantplicht (bijv. gmb-2026-385466, gmb-2025-395329); een aanvraag voor het kappen van 5 bomen in de tuin is ingetrokken (gmb-2026-285515). Besluiten noemen geen grondslag.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand (art. 4:11 lid 1), met uitzondering van houtopstand op erven en in tuinen, behalve leibomen, knotbomen en 11 soorten (lid 2), en van Wnb-houtopstand buiten de bebouwde kom (lid 4).",
+  "drempel": "Houtopstand zonder drempel in art. 4:11; 'boom' heeft een stamdiameter van minimaal 10 cm op 130 cm (art. 4:10 onder a) = omtrek ca. 31 cm.",
+  "omtrek_cm": 31.4,
+  "meethoogte": "130 cm boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. 'Het is verboden zonder vergunning van het college houtopstand te vellen of te doen vellen.' (art. 4:11 lid 1). Het verbod geldt 'niet voor houtopstanden op erven en in tuinen met uitzondering van:' leibomen of knotbomen en esdoorn, paardenkastanje, haagbeuk, tamme kastanje, beuk, plataan, linde, iep, meidoorn, Chinese moerascipres en eik (lid 2). Het college kan houtopstand aanwijzen waarvoor lid 2 niet geldt (lid 6; aanwijzingsbesluit 'Waardevolle bomen- en structurenlijst Baarle'); lid 2 geldt ook niet voor monumentale bomen (lid 5). Bebouwde kom: Wnb 4.1-kom van voor de Omgevingswet (art. 4:10 onder i). Alleen de Nederlandse gemeentelijke regels: het aanwijzingsbesluit geldt 'uitsluitend' voor houtopstand 'gelegen op grondgebied van de gemeente Baarle-Nassau'.",
+  "uitzonderingen": "Art. 4:11 lid 2: alle houtopstand op erven en in tuinen, behalve leibomen, knotbomen en 11 soorten. Lid 3: Plantgezondheidswet of aanschrijving, periodiek vellen van hakhout, scheren/knotten/kandelaberen van vormbomen, snoeien bij achterstallig onderhoud, dunning. Lid 4: houtopstand buiten de bebouwde kom die onder de Wnb (provincie) valt. Lid 6: college kan houtopstand aanwijzen waarvoor de tuinuitzondering niet geldt.",
+  "weigeringsgronden": "Art. 4:11a lid 1: 'kan een vergunning om te vellen ... weigeren dan wel onder voorschriften of beperkingen verlenen'. Lid 2: 'wordt de vergunning voor het vellen van een houtopstand als bedoeld in artikel 4:11 geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' op basis van natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of leefbaarheid.",
+  "herplantplicht": "Art. 4:11d lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: bij niet kunnen herplanten kan een geldelijke bijdrage in het Bomencompensatiefonds worden opgelegd. Na illegale kap (art. 4:11e lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'; lid 2: 'Indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort in het Bomencompensatiefonds.' Geen beleidsregel over herplant of compensatie gevonden.",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Art. 4:11d lid 2: 'Indien niet ter plaatse kan worden herplant, kan het voorschrift worden opgelegd dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk Bomencompensatiefonds.' Herplant na illegale kap: kan (art. 4:11e lid 1).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11d lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot en met het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' De strafbepaling art. 6:1 lid 1 noemt 'artikelen 3:1 t/m 4:9; en' 'artikelen 4:12 t/m 5:37', dus niet art. 4:11d of 4:11e; lid 3 (WED) noemt alleen 'artikel 4:11, eerste lid'. Verder alleen het algemene instrumentarium (bestuursdwang of dwangsom); niets specifieks geregeld.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "onbekend",
+  "boom_b_40cm": "onbekend",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 3 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en artikel 4:11, eerste lid.' Ook via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Geen bestuurlijke boete voor kappen; geen eigen strafbepaling anders dan WED. Herplant na illegale kap: 'kan' (art. 4:11e).",
+  "procedure": "Omgevingsvergunning via het Omgevingsloket, gemotiveerd (art. 4:11b); vergunning vervalt na drie jaar zonder gebruik (art. 4:11c); noodkap: besluit kan direct in werking treden (art. 4:11 lid 7). Leges 2026 art. 2.30: EUR 228,85. Bezwaar en beroep via de Awb; beslistermijn: APV art. 1:2 is niet van toepassing op een omgevingsvergunning (lid 3); niet apart vastgesteld.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan in het DSO niet ingezien. De 'Waardevolle bomen- en structurenlijst Baarle' (bijlage bij CVDR638223_1, met plattegrond) staat niet in het dossier of in tekst/ en is niet ingezien; ze heft de tuinuitzondering op voor aangewezen bomen maar bepaalt D niet. Het Landelijk Register voor Monumentale Bomen is niet ingezien. Geen beleidsregel of nadere regel over herplant, compensatie of het Bomencompensatiefonds gevonden.",
+  "artikelnummers": [
+    "APV 2024 art. 4:10, 4:11, 4:11a, 4:11b, 4:11d, 4:11e, 6:1",
+    "Besluit aanwijzing waardevolle houtopstand (CVDR638223_1)",
+    "Legesverordening 2026 art. 2.30 (CVDR757658_1)",
+    "Beleidsplan VTH 2020-2024 (CVDR640698_1)"
+  ],
+  "opmerkingen": [
+    "D3: houtopstand zonder drempel (art. 4:11), terwijl 'boom' een stamdiameter van minimaal 10 cm heeft (art. 4:10 onder a); regel 'houtopstand zonder drempel naast boom met drempel' toegepast: omtrek ca. 31 cm = lage drempel (D4). Correctie -1: het verbod geldt niet voor alle houtopstand op erven en in tuinen, behalve leibomen, knotbomen en 11 soorten (positieve soortenlijst voor tuinen, altijd -1). Buiten de kom vallen Wnb-houtopstanden onder de provincie en gelden dezelfde tuinuitzondering voor erven en tuinen. Zelfde tekst als Alphen-Chaam (GM1723), maar met een lagere drempel (10 cm in plaats van 30 cm).",
+    "Boom A (omtrek 80 cm) en B (omtrek 40 cm) in een achtertuin: afhankelijk van de soort. Vergunning nodig als het esdoorn, paardenkastanje, haagbeuk, tamme kastanje, beuk, plataan, linde, iep, meidoorn, Chinese moerascipres of eik is (beide bomen zijn dikker dan 10 cm doorsnee); andere soorten zijn vrij. Daarom 'onbekend'.",
+    "W2 zonder bereik: 'wordt de vergunning voor het vellen van een houtopstand als bedoeld in artikel 4:11 geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (art. 4:11a lid 2).",
+    "H1: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant' (art. 4:11d lid 1). Geen beleidsregel die herplant verplicht. De verplichte storting in het Bomencompensatiefonds geldt alleen na illegale kap (art. 4:11e lid 2) en verhoogt H niet. Wel noemen veel besluiten sinds 2025 een herplantplicht (praktijk, geen grondslag).",
+    "S1: WED-aanwijzing in art. 6:1 lid 3 en herplant na illegale kap ('kan'). Het Beleidsplan VTH 2020-2024 noemt kappen zonder vergunning als hoge prioriteit ('Kappen bomen / houtopstand zonder omgevingsvergunning | HOOG') maar bevat geen boete of boomwaarde-koppeling.",
+    "Belgische enclaves: alleen de Nederlandse gemeentelijke regels zijn gescoord. Het aanwijzingsbesluit zegt zelf dat het 'uitsluitend' betrekking heeft op houtopstand 'gelegen op grondgebied van de gemeente Baarle-Nassau'.",
+    "Fout in de legesverordening 2026 art. 2.30: verwijst naar 'de Algemene plaatselijke verordening gemeente Alphen-Chaam' in plaats van die van Baarle-Nassau. Geen invloed op S: de WED-aanwijzing in art. 6:1 lid 3 noemt art. 4:11 lid 1 wel. De APV art. 6:1 lid 1 (algemene strafbepaling) noemt art. 4:11 niet; art. 4:11 lid 1 loopt via lid 3 (WED).",
+    "Het aanwijzingsbesluit 'Waardevolle bomen- en structurenlijst Baarle' (art. 4:11 lid 6) maakt voor aangewezen bomen 'te allen tijde' een vergunning nodig, ook in tuinen; dat verandert D niet omdat het brede regime al bepaalt."
+  ],
+  "modelsignalen": [
+    "Houtopstand zonder drempel naast 'boom' met drempel (zie Alphen-Chaam): strikt gelezen is een jonge boom van een lijstsoort in een tuin vergunningplichtig; dan zouden voorbeeldbomen A en B afhankelijk zijn van de soort (hier 'onbekend', zoals besloten na Gelderland).",
+    "Tuinuitzondering met positieve uitzonderingslijst (tuinen vrij, behalve 11 soorten): als 'positieve soortenlijst' behandeld (-1). 'D per deel' kan strikt gelezen D4 geven voor niet-tuingrond met het hele regime; dat is niet toegepast omdat het model particulier terrein als het perceel van een burger leest.",
+    "Legesverordening 2026 van Baarle-Nassau (en Gilze en Rijen) verwijst letterlijk naar de APV van Alphen-Chaam: kennelijk een kopieerfout; het model heeft hier geen regel voor, de WED-aanwijzing in de APV zelf voert uiteindelijk."
+  ]
+}

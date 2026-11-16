@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0158",
+ "gemeente": "Haaksbergen",
+ "provincie": "Overijssel",
+ "brondocument": "Algemene plaatselijke verordening Haaksbergen (CVDR751943_1) afd. 4.3 art. 4:10, 4:11, 4:11a, 4:11b, 6:1; APV regeling (CVDR751942_1) art. 4.3 en 4.4; Legesverordening 2026 (CVDR753068_2) art. 2.29; Omgevingsplan (CVDR696197_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR751943/1 ; https://lokaleregelgeving.overheid.nl/CVDR751942/1",
+ "datum_geldigheid": "APV CVDR751943_1 en APV regeling CVDR751942_1 geldend vanaf 2026-01-01 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "APV en APV regeling: versie 1 per 2026-01-01 (nieuwe vaststelling). Legesverordening: versie 2 per 2026-11-04. Omgevingsplan: versie 2 per 2025-06-04.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.29 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 81 bekendmakingen op titel, waarvan 3 besluiten, 52 aanvragen en 2 weigeringen volgens de titel. De 3 opgehaalde besluiten (gmb-2026-355872, gmb-2026-495216, gmb-2026-343773) zijn alle weigeringen van kap; geen grondslag genoemd. Past bij een breed regime met weigeringspraktijk.",
+ "vergunningplicht": "Omgevingsvergunning van het college (art. 4:11 lid 1). Binnen de bebouwde kom: bomen met omtrek > 100 cm. Buiten de bebouwde kom: alle houtopstanden. Meldplicht (lid 3) alleen voor uitzonderingen als dunnen en afzetten (niet scorend).",
+ "drempel": "Binnen de bebouwde kom: 'omtrek van meer dan 100 centimeter op 1 meter hoogte' (Tabel 1). Buiten de bebouwde kom: geen drempel, 'alle houtopstanden' (Tabel 2).",
+ "omtrek_cm": null,
+ "meethoogte": "1 m (binnen kom; wijkt af van 1,30 m, niet omgerekend); buiten kom geen drempel",
+ "reikwijdte": "Hele grondgebied, particulier en openbaar. Art. 4:11 lid 5, Tabel 1: 'Het vellen van houtopstanden met een omtrek van meer dan 100 centimeter op 1 meter hoogte, behalve de hieronder genoemde uitzonderingen.' Tabel 2: 'Het vellen van alle houtopstanden, behalve de in de hieronder genoemde uitzonderingen.' Ook aangeplant vanuit herplantplicht of landschappelijke inpassing (beide tabellen). Bebouwde kom = borden H1/H2 RVV 1990 (art. 1:1).",
+ "uitzonderingen": "Alleen gangbare uitzonderingen (kweekgoed, afzetten van hakhout, dunnen, knotten, Plantenziektewet of aanschrijving, direct gevaar met toestemming burgemeester, bescherming Wet natuurbescherming). Geen tuin-, erf-, perceel- of soortuitzondering.",
+ "weigeringsgronden": "Art. 4:11a: 'In afwijking van artikel 1:8 van deze verordening kan de omgevingsvergunning worden geweigerd op grond van: a. de landschappelijke waarde van de houtopstand; b. de waarde van de houtopstand voor stads- en dorpsschoon; c. de beeldbepalende waarde van de houtopstand; d. de cultuurhistorische waarde van de houtopstand of; e. de waarde voor de leefbaarheid van de houtopstand.' APV regeling art. 4.3 lid 2 (door het college vastgesteld): 'Indien een houtopstand over een of meer van bovengenoemde waarden beschikt, wordt geen omgevingsvergunning voor het kappen verleend, tenzij de belangen van aanvrager zwaarder wegen dan de belangen die ten grondslag liggen aan de weigeringsgronden.' Zwaarwegend maatschappelijk of algemeen belang of 'andere dringende redenen' (art. 4.3 lid 2). Herplante bomen: 'zeer terughoudend' (lid 3).",
+ "herplantplicht": "APV art. 4:11b lid 1: 'Het college kan een herplantplicht of herplantvergoeding opleggen als: a. aanvullend voorschrift bij het verlenen van een omgevingsvergunning; b. een vergunningplichtige houtopstand zonder omgevingsvergunning is geveld.' Lid 3: 'Het bevoegde gezag kan een verplichting opleggen tot het betalen van een bedrag per gevelde boom (vervangingswaarde), indien herplant in ruimtelijke zin niet mogelijk is ...' (kan). Regeling art. 4.4 lid 2: 'Als het bevoegd gezag een herplantplicht oplegt dan wordt standaard de maat 12-14 opgelegd.'",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan'), geen plicht; het college beslist per geval. Regeling art. 4.4 lid 1: 'In de volgende situaties ziet het bevoegd gezag af van het opleggen van herplantplicht: a. door de kap wordt het natuurlijk evenwicht ter plaatse niet verstoord; b. in de omgeving van de gekapte houtopstand is voldoende jonge aanplant aanwezig; ...'. Herplant na illegale kap: 'kan' (art. 4:11b lid 1 onder b).",
+ "herplant_niet_nakomen": "Niet nakomen van een opgelegde herplantplicht: APV art. 6:1 lid 1: 'Overtreding van alle verbodsbepalingen, gegeven voorschriften en beperkingen in de hoofdstukken 2 tot en met 5 ... worden gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Lid 2: WED van toepassing op 'artikelen 2:12, eerste lid, 4:11, eerste lid en 4:11b'. Regeling art. 4.4 lid 3: 'Bij het niet slagen van de opgelegde herplantplicht, legt het bevoegd gezag opnieuw een herplantplicht op.' Art. 1:4 lid 3 (voorschriften) is niet van toepassing op een omgevingsvergunning.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de regeling zelf: APV art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:12, eerste lid, 4:11, eerste lid en 4:11b'; en legesverordening art. 2.29 noemt het vellen een omgevingsplanactiviteit (art. 22.8 Ow), dus ook WED via Ow 5.1. Art. 6:1 lid 1: hechtenis tot drie maanden of geldboete tweede categorie. Geen bestuurlijke boete gevonden (grep op 'bestuurlijke boete' in tekst/ levert niets). S = 1.",
+ "procedure": "Aanvraag omgevingsvergunning; art. 4:11 lid 2: 'is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing'. Leges (art. 2.29): EUR 46,45. Melding minimaal 15 werkdagen vooraf (art. 4:11d). Vervaltermijn 1 jaar mogelijk (art. 4:11c). Bezwaar en beroep niet apart gelezen.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 4,
+  "min": 4,
+  "max": 4
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem: breed regime. Er is geen bomenlijst als beschermingsgrond.",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien (het dossier toont alleen art. 22.299, aanvraagvereisten). Bezwaar en beroep niet apart gelezen. Beleidsregel herplant/handhaving op de gemeentelijke website niet gezocht; geen aparte beleidsregel in CVDR gevonden.",
+ "artikelnummers": [
+  "APV art. 1:1, 4:10, 4:11, 4:11a, 4:11b, 4:11c, 4:11d, 6:1",
+  "APV regeling art. 4.3, 4.4",
+  "Legesverordening 2026 art. 2.29",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D4: per deel, hoogste geldt (INTENT). Binnen de kom omtrek > 100 cm (D2). Buiten de kom 'alle houtopstanden' zonder drempel en zonder tuin- of erfuitzondering (D4); dat deel is het hele buitengebied en dus substantieel. Aangenomen: tuinen en erven buiten de kom vallen onder de regel.",
+  "W3 (min 2): APV art. 4:11a zegt 'kan worden geweigerd' (W2), maar de APV regeling art. 4.3 lid 2 (college, geldend) zegt: 'wordt geen omgevingsvergunning voor het kappen verleend, tenzij de belangen van aanvrager zwaarder wegen' en noemt alleen een 'zwaarwegend maatschappelijk of algemeen belang' of 'andere dringende redenen'. Behandeld als strengere toetsing in beleid; onzeker of een nadere regeling als 'beleid' telt, daarom min 2.",
+  "H1: 'Het college kan een herplantplicht of herplantvergoeding opleggen'. Vervangingswaarde (boomwaarde-indextabel) alleen 'kan'. Regeling art. 4.4 lid 1 geeft situaties waarin van herplant wordt afgezien: geen vast voorschrift.",
+  "S1: WED-aanwijzing in APV 6:1 lid 2 en omgevingsplanactiviteit volgens leges art. 2.29. Herplant na illegale kap alleen 'kan'.",
+  "Boom A en B: nee. Beide binnen de kom en omtrek 80 resp. 40 cm is niet 'meer dan 100 centimeter'. Meethoogte 1 m in de bron.",
+  "Praktijk: 3 van 3 opgehaalde besluiten zijn weigeringen; geen grondslag in de besluiten.",
+  "Notitie: APV art. 4:11 lid 4 spoed met toestemming van de burgemeester (gangbare uitzondering)."
+ ],
+ "modelsignalen": [
+  "Een regel zonder drempel buiten de bebouwde kom (inclusief erven en tuinen) bij een hoge drempel (100 cm) binnen de kom geeft D4, terwijl de gewone woonwijk (de kom) alleen boven 100 cm is beschermd. Voor een particulier in de kom (de voorbeeldbomen) is de regel soepel, maar D4 en strengheid 73 zeggen 'Streng'. De regel 'hoogste deel geldt' vangt dit slecht; overweeg D te wegen naar bebouwde kom (waar de meeste particuliere bomen staan).",
+  "Een college-regeling (nadere regels op de APV) die een 'kan weigeren' omzet in 'wordt geen vergunning verleend, tenzij': het model noemt alleen 'beleid' met voorwaarden; onduidelijk of een bindende nadere regeling hieronder valt."
+ ]
+}

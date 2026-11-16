@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0626",
+  "gemeente": "Voorschoten",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene plaatselijke verordening Voorschoten 2020 (CVDR640781_9) art. 4:10, 4:11, 6:1; Beschermde bomenlijst gemeente Voorschoten (CVDR301578_1, besluit 6-12-2011); Verordening leges Voorschoten 2026 (CVDR747591_1) art. 2.30; Klimaatadaptatiebeleid 2023 (CVDR697371_1); Richtlijn niet beschermwaardige bomen 2013 (CVDR324142_1, alleen gemeentebomen); Omgevingsplan (CVDR696365_3) art. 22.299 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR640781/9 ; https://lokaleregelgeving.overheid.nl/CVDR301578/1",
+  "datum_geldigheid": "APV versie 9 geldend van 25-03-2025 t/m heden; bomenlijst geldend van 16-12-2011 t/m heden (peildatum 16-11-2026)",
+  "laatste_wijziging": "APV versie 9 in werking 25-03-2025 (wijziging raakt art. 4:11 niet); bomenlijst ongewijzigd sinds 16-12-2011",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges 2026 art. 2.30 en WED-aanwijzing in APV art. 6:1 lid 2; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "19 bekendmakingen sinds 2025, waarvan 8 verleende kapbesluiten, 0 aanvragen, 0 weigeringen volgens titel. De titels noemen kap van 1 tot 6 bomen of 'diverse bomen', deels in openbaar gebied (singel, vlietoevers, park); geen grondslag genoemd. Past bij een lijstsysteem met weinig besluiten.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) alleen voor houtopstanden op de door het college vastgestelde lijst met waardevolle bomen en houtopstanden; overige bomen vrij",
+  "drempel": "geen drempel; alleen bomen op de lijst",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, maar alleen individueel aangewezen bomen op de lijst (art. 4:11 lid 1). Houtopstand (art. 4:10): 'hakhout, een houtwal, één of meer bomen of een (lint)begroeiing van heesters en struiken'. Het besluit bij de lijst: 'gekozen heeft voor deregulering waarbij de bescherming met een vergunningstelsel wordt geconcentreerd op de op een lijst geplaatste waardevolle bomen en houtopstanden'.",
+  "uitzonderingen": "Art. 4:11 lid 3: spoedeisend belang of direct gevaar met toestemming van de burgemeester; lid 11: noodkap bij direct dreigend omvalgevaar.",
+  "weigeringsgronden": "Art. 4:11 lid 2: 'De vergunning kan worden geweigerd:' a. 'indien het door de aanvrager gesteld maatschappelijk belang bij het vellen van de waardevolle boom of houtopstand niet opweegt tegen het belang bij behoud van de monumentale boom op grond van de natuurwaarde, de landschappelijke, cultuurhistorische of beeldbepalende waarde van die boom of houtopstand' en b. 'op grond van de gezondheidstoestand van de boom'.",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan als voorwaarde bij een vergunning een herplantplicht opleggen.' Na illegale kap lid 6: 'kan het college' een herbeplantingsplicht opleggen. Klimaatadaptatiebeleid 2023: 'Uitgangspunt voor de herplantplicht bij beschermwaardige bomen is de boomwaardetaxatie (monetaire waarde) van de te kappen boom.'",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het college beslist per geval. Geen betaling in plaats van herplant geregeld in de APV; het Klimaatadaptatiebeleid kondigt alleen onderzoek aan naar een bomencompensatiefonds (2023).",
+  "sancties": "WED-aanwijzing in APV art. 6:1 lid 2 (art. 4:11 lid 1) en legesverordening: omgevingsplanactiviteit in samenhang met art. 22.8 Ow; eigen strafbepaling art. 6:1 lid 1; herbeplantingsplicht na illegale kap (art. 4:11 lid 6). Geen bestuurlijke boete.",
+  "procedure": "Leges art. 2.30 (2026): EUR 125,05 voor het vellen van een houtopstand. Beslistermijn acht weken (APV art. 1:2). Bij aanvraag kunnen boomeffectanalyse of boomwaardetaxatie worden gevraagd (art. 4:11 lid 12).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11 lid 9: 'Degene aan wie een verplichting als bedoeld in het derde tot en met zevende lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bepaalde bij of krachtens de artikelen van deze verordening en de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 1059,
+  "lijst_aantal_particulier": 227,
+  "lijst_telling": "ca. 1.059 regels (bomen) op de beschermde bomenlijst, CVDR301578_1 (besluit 6-12-2011); kolom Eigenaar: ca. 227 'Particulier', rest gemeente. Boomnummers lopen tot 1076; 25 nummers ontbreken in de CVDR-tekst, dus 'ca.'; eigenaarsschrijfwijzen zijn gecorrigeerd voor tikfouten",
+  "status": "ok",
+  "ontbrekend": "Richtlijn beoordeling kapaanvragen voor lijstbomen (genoemd in de Richtlijn 2013) niet in CVDR gevonden. Lijst dateert van 2011; een nieuwere lijst is niet gevonden. Omgevingsplan niet in het DSO ingezien.",
+  "artikelnummers": [
+    "APV 2020 art. 4:10, 4:11, 6:1, 1:2",
+    "Beschermde bomenlijst (CVDR301578_1)",
+    "Leges 2026 art. 2.30",
+    "Klimaatadaptatiebeleid 2023 par. 3.2",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1: alleen individueel aangewezen bomen. Doorslaggevend (APV art. 4:11 lid 1): 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstanden te vellen of de doen vellen die staan vermeld op een door het college vastgestelde lijst met waardevolle bomen en houtopstanden'. De lijst is ingezien in CVDR: ca. 1.059 regels, waarvan ca. 227 met eigenaar 'Particulier'. Dus particuliere bomen staan er wel op; D1 zonder bereik.",
+    "W2: art. 4:11 lid 2 onder a is een belangenafweging op natuur-, landschappelijke, cultuurhistorische of beeldbepalende waarden ('niet opweegt tegen het belang bij behoud'). Maximum 3 omdat de Richtlijn beoordeling kapaanvragen voor lijstbomen, die de Richtlijn 2013 noemt, niet is gevonden.",
+    "H1: 'Het bevoegd gezag kan als voorwaarde bij een vergunning een herplantplicht opleggen.' Het Klimaatadaptatiebeleid is een uitgangspunt per geval en maakt herplant geen vast voorschrift; maximum 2 omdat de formulering ('Uitgangspunt voor de herplantplicht bij beschermwaardige bomen is de boomwaardetaxatie') ook als compensatie gelezen kan worden.",
+    "S1 zonder bereik: leges art. 2.30 noemt het vellen 'bedoeld in artikel 4:11 van de Algemene Plaatselijke Verordening Voorschoten 2020 in samenhang met artikel 22.8 van de Omgevingswet' (omgevingsplanactiviteit, WED via Ow) en APV art. 6:1 lid 2 wijst art. 4:11 lid 1 aan in de WED. De WED-aanwijzing noemt art. 2:10, 2:11 en 2:12 ook, maar die zijn voor dit onderwerp niet relevant. Herbeplanting na illegale kap is een 'kan'-bevoegdheid (lid 6), geen bestuurlijke boete.",
+    "APV art. 6:1 lid 2 begint met 'In afwijking van het eerste en tweede lid', terwijl het artikel maar twee leden heeft; dit is een tekstfout zonder gevolg voor de score.",
+    "Herplant na illegale kap: 'kan' (art. 4:11 lid 6); geen vast beleid met vaste plicht gevonden.",
+    "De Richtlijn 2013 (CVDR324142_1) en de overlastcriteria daarin gelden alleen voor bomen in eigendom en beheer van de gemeente en tellen niet mee.",
+    "Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten; de materiële regel staat in de APV."
+  ],
+  "modelsignalen": [
+    "Het Klimaatadaptatiebeleid zegt 'Uitgangspunt voor de herplantplicht bij beschermwaardige bomen is de boomwaardetaxatie (monetaire waarde) van de te kappen boom.' Onduidelijk of dit herplant of betaling bedoelt en of het alleen voor nieuwbouw geldt (de zin staat onder 'Uitgangspunten (nieuwbouw)'). Gescoord als geen verhoging van H (H = 1, max 2). Advies: zo laten; het valt onder uitgangspunt per geval en onder ruimtelijke ontwikkeling.",
+    "Een lijst uit 2011 in CVDR waarvan de tekst door OCR-fouten in de eigenaarskolom ('ParticuJier', 'Gem. Voorscholen') is verstoord: aantallen zijn dus 'ca.'. Advies: aantallen als 'ca.' publiceren."
+  ]
+}

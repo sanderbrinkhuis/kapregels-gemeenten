@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0753",
+  "gemeente": "Best",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "brondocument": "Algemene Plaatselijke Verordening Best 2023 (CVDR648568_5), afdeling 4.3 art. 4:10, 4:11, 4:11a, 4:11b, art. 1:2, 1:4, 6:1; Lijst bijzondere bomen gemeente Best december 2022 (CVDR721028_1); Legesverordening 2026 art. 2.17 (CVDR746814_2); Uitvoerings- en Handhavingsstrategie 2025-2029 (CVDR737872_1); Omgevingsplan art. 22.299 (CVDR696395_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR648568/5 ; https://lokaleregelgeving.overheid.nl/CVDR721028/1 ; https://lokaleregelgeving.overheid.nl/CVDR746814/2",
+  "datum_geldigheid": "APV CVDR648568_5 geldend vanaf 2024-04-10 t/m heden; lijst CVDR721028_1 geldend vanaf 2024-06-18 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 5 per 2024-04-10 (afdeling 4.3 zelf niet recent gewijzigd). Lijst: vastgesteld december 2022, in CVDR per 2024-06-18. Legesverordening CVDR746814_2 geldt t/m 2026-12-31 (uitwerkingtreding 2027-01-01 volgens regelingen.jsonl).",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR746814_2) art. 2.17 noemt het vellen van een houtopstand 'in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 3 bekendmakingen op titel, alle 3 besluiten (verleende kapvergunningen, o.a. voor 82 bomen in gmb-2025-550105) en 0 weigeringen. Geen besluit noemt de grondslag. Weinig besluiten, in lijn met een beperkt regime. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 67 bekendmakingen sinds 1-1-2025, waarvan 27 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) voor bomen op de lijst bijzondere bomen en voor houtopstanden 'op of aan een openbare plaats' met stamomtrek > 63 cm",
+  "drempel": "Stamomtrek op 1,30 m hoogte meer dan 63 cm (alleen voor houtopstanden op of aan een openbare plaats); lijstbomen ongeacht omvang",
+  "omtrek_cm": 63,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen: a. die staan vermeld op de in het eerste lid genoemde lijst bijzondere bomen; b. op of aan een openbare plaats indien de stamomtrek van de houtopstand op 1,30 meter hoogte meer is dan 63 centimeter.' Een gewone boom in een achtertuin die niet aan een openbare plaats staat en niet op de lijst staat, is vrij. De regel voor onderdeel b werkt dus als strook langs openbare plaatsen (wegen, pleinen e.d.), met een middelmatige drempel.",
+  "uitzonderingen": "Art. 4:11a lid 1: geen vergunning voor uit populieren of wilgen bestaande wegbeplantingen, beplantingen langs waterwegen en eenrijige beplantingen langs landbouwgronden (tenzij geknot), dunning, Plantenziektenwet, en houtopstanden buiten de bebouwde kom waarop hoofdstuk 4 Wnb van toepassing is. Lid 2: niet van toepassing als het omgevingsplan een aanlegvergunning vereist. Lid 3: spoed of direct gevaar (burgemeester). Gangbare uitzonderingen; geen tuinuitzondering behalve de beperking tot 'op of aan een openbare plaats'.",
+  "weigeringsgronden": "Art. 4:11b: 'In afwijking van artikel 1:8 kan de vergunning als bedoeld in artikel 4:11 worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' (W2, belangenafweging, limitatieve opsomming)",
+  "herplantplicht": "Art. 4:11 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie gevonden. Art. 22.299 omgevingsplan vraagt alleen om 'de mogelijkheid tot herbeplanten of het voornemen' te vermelden bij de aanvraag (aanvraagvereiste, geen plicht).",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval; geen verplichting tot betalen in plaats van herplant",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Art. 1:4 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van tweede categorie.' Een opgelegd herplantvoorschrift is dus verplicht en strafbaar via de rechter.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "WED via twee routes: (1) APV art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit en artikel 4:11, tweede lid.' (de zin is slecht leesbaar, maar noemt art. 4:11 lid 2); (2) legesverordening art. 2.17 noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow, dus WED via Ow 5.1. Daarnaast art. 6:1 lid 1 (hechtenis of geldboete tweede categorie). Geen bestuurlijke boete voor kappen. Handhavingsstrategie 2025-2029: houtopstanden prioriteit 'Zeer laag'.",
+  "procedure": "Leges omgevingsplanactiviteit kappen: EUR 389,40 (CVDR746814_2 art. 2.17). Beslistermijn: art. 1:2 lid 3 verwijst naar art. 3.9 Wabo (acht weken, verdagen met zes weken). Art. 4:11 lid 5: positieve fictieve beschikking (par. 4.1.3.3 Awb). Aanvrager: rechthebbende (lid 3). Bezwaar en beroep: niet in de kapartikelen geregeld (Awb).",
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": 144,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "bomen op de Lijst bijzondere bomen december 2022 (CVDR721028_1): 144 bomen in 71 regels; eigendom (particulier of gemeente) staat niet op de lijst, het aantal particuliere bomen is niet vast te stellen",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Eigendom van de lijstbomen is niet vast te stellen (alleen adres of kavelnummer). Geen herplant- of compensatiebeleid gevonden in CVDR. Geen kaart van openbare plaatsen: reikwijdte van 'op of aan een openbare plaats' is een uitleggingskwestie.",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:11a",
+    "APV 4:11b",
+    "APV 1:2 lid 3",
+    "APV 1:4",
+    "APV 6:1",
+    "Leges 2.17",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "D2 (bereik 1-2): twee delen. (1) Lijstbomen (144 bomen in 71 regels, ongeacht omvang) is D1. (2) Art. 4:11 lid 2 onder b: bomen 'op of aan een openbare plaats' vanaf 63 cm omtrek (middelmatige drempel, D3); dat is een strook langs openbare plaatsen en geen hele bebouwde kom, dus uitzondering van achtertuinen: D3 min 1 = D2 (INTENT, strook langs de weg). Minimum 1 omdat 'aan een openbare plaats' ook zo gelezen kan worden dat alleen bomen op of direct langs openbaar gebied bedoeld zijn en de lijst dan het enige particuliere deel is, met onbekend aandeel particulier.",
+    "Boom A (80 cm) en B (40 cm) in een gewone achtertuin die niet aan een openbare plaats grenst: alleen vergunningplichtig als de boom op de lijst staat. Een voorerf- of zijtuinboom van meer dan 63 cm die aan de openbare weg staat, valt wel onder art. 4:11 lid 2 onder b.",
+    "W2: 'kan worden geweigerd' op natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden. Beleidsregel over strengere toetsing niet gevonden.",
+    "H1: alleen 'kan' (art. 4:11 lid 4). Het college-uitgangspunt 'Uitgangspunten bomen versus zonnepanelen' (CVDR623446_1, 2014) zegt 'In alle gevallen waarbij sprake is van een reeds ingerichte openbare ruimte inclusief een bestaand bomenbestand prevaleert de boom', maar gaat over verzoeken in de openbare ruimte en bevat geen herplantregel; telt niet voor H of W.",
+    "S1: WED-aanwijzing in de APV (art. 6:1 lid 2) en omgevingsplanactiviteit volgens de legesverordening. Foute verwijzing in de leges: art. 2.17 noemt 'artikel 4:11a van de Algemene Plaatselijke Verordening' (dat is de uitzonderingsbepaling) in plaats van art. 4:11. Noteer dit; S blijft 1 (INTENT, bewijs omgevingsplanactiviteit).",
+    "Twee lijsten geldend in CVDR: 'Lijst beschermde bomen gemeente Best' augustus 2018 (CVDR623445_1, tekst bevat geen bomen) en de lijst december 2022 (CVDR721028_1, 'Na vaststelling van de Lijst Bijzondere bomen 2022 vervalt de Lijst Bijzondere bomen 2021'). Gescoord op de lijst 2022; de lijst 2018 zonder inhoud telt niet.",
+    "Leges art. 2.17 geldt t/m 2026-12-31; een volgende legesverordening kan ingaan per 2027-01-01 (niet gelezen, telt niet mee).",
+    "De APV is de enige plaats van de materiele kapregel; het omgevingsplan (CVDR696395_3) bevat alleen aanvraagvereisten (art. 22.299). Niet in DSO gecontroleerd (API-key nog niet beschikbaar); mogelijk heeft het tijdelijk deel of een deelplan eigen houtopstandregels."
+  ],
+  "modelsignalen": [
+    "'Op of aan een openbare plaats' (art. 4:11 lid 2 onder b): het model kent geen regel voor een kapverbod dat bomen langs openbaar gebied dekt, ook als die op particulier terrein staan. Behandeld als strook langs de weg (D3 min 1 = D2, bereik 1-2). Zou 'aan' strikt als 'op openbare grond' worden gelezen, dan is er alleen een lijstsysteem (D1) en is de uitkomst 17 in plaats van 33.",
+    "Bij lijstsystemen zonder eigendomsinformatie op de lijst (Best, Veldhoven): lijst_aantal_particulier is niet vast te stellen, hoewel de lijst met adressen waarschijnlijk veel particuliere bomen bevat."
+  ]
+}

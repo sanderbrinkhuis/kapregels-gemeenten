@@ -1,0 +1,27 @@
+{
+  "gemeente": "Aa en Hunze",
+  "gm_code": "GM1680",
+  "provincie": "Drenthe",
+  "zoeknaam_cvdr": "Aa en Hunze",
+  "zoeknaam_bekendmakingen": "Aa en Hunze",
+  "opgehaald_op": "2026-11-14T13:47:41+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Aa en Hunze\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 56,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Aa en Hunze\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 145,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR444144_1",
+    "CVDR696477_4",
+    "CVDR704619_1",
+    "CVDR736107_1",
+    "CVDR747165_2"
+  ],
+  "bekendmakingen_besluiten": 15,
+  "bekendmakingen_aanvragen": 73,
+  "bekendmakingen_geweigerd": 14,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

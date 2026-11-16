@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0397/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Heemstede",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0397/2020/omgevingsplan/nld@2024-05-23;13105718",
+    "beginGeldigheid": "2024-05-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0397_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0397/2025/Regeling9c8841a1c23f47a29c9eef2848256d6a",
+    "titel": "Voorbereidingsbesluit Staalslakken en grondstabilisatie gemeente Heemstede",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0397/2025/Regeling9c8841a1c23f47a29c9eef2848256d6a/nld@2025-11-20;10135291",
+    "beginGeldigheid": "2025-06-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0397_2025_Regeling9c8841a1c23f47a29c9eef2848256d6a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0397/2025/Regelingfe20bf7d0a7f410499bca969bf57ecb9",
+    "titel": "Voorbereidingsbesluit ’t Groot Clooster Heemstede",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0397/2025/Regelingfe20bf7d0a7f410499bca969bf57ecb9/nld@2025-12-01;14265148",
+    "beginGeldigheid": "2025-12-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0397_2025_Regelingfe20bf7d0a7f410499bca969bf57ecb9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0397/2025/Regeling0d64446103f746f997b935b3b41e4028",
+    "titel": "Omgevingsvisie Heemstede 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0397/2025/Regeling0d64446103f746f997b935b3b41e4028/nld@2025-12-04;15383764",
+    "beginGeldigheid": "2025-11-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0397_2025_Regeling0d64446103f746f997b935b3b41e4028?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:45Z"
+  }
+]

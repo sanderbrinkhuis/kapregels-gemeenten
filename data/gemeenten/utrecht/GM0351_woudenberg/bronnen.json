@@ -1,0 +1,28 @@
+{
+  "gemeente": "Woudenberg",
+  "gm_code": "GM0351",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Woudenberg",
+  "zoeknaam_bekendmakingen": "Woudenberg",
+  "opgehaald_op": "2026-11-14T18:22:28+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Woudenberg\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 36,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Woudenberg\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 33,
+  "geldende_regelingen": 9,
+  "geldend_met_kapartikelen": [
+    "CVDR696283_2",
+    "CVDR706623_3",
+    "CVDR711958_1",
+    "CVDR717214_1",
+    "CVDR721413_1",
+    "CVDR753153_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 19,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

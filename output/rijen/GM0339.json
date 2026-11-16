@@ -1,0 +1,77 @@
+{
+  "gm_code": "GM0339",
+  "gemeente": "Renswoude",
+  "provincie": "Utrecht",
+  "brondocument": "Algemene Plaatselijke Verordening Renswoude 2024 (afd. 4.3 art. 4:10, 4:11, 6:1); Omgevingsplan gemeente Renswoude (art. 22.299); Verordening op de heffing en invordering van leges 2026 (art. 2.23); Beleidsplan VTH (bijlage 5); Uniforme uitvoering- en handhavingsstrategie 2022-2023 (bijlage 8)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR720018/2",
+  "datum_geldigheid": "APV 2024 (CVDR720018_2): geldend van 2024-05-07 t/m heden; omgevingsplan (CVDR696277_2): 2024-11-27 t/m heden; leges 2026 (CVDR754872_1): 2026-01-01 t/m heden",
+  "laatste_wijziging": "APV 2024 versie 2 in werking 2024-05-07 (vervangt APV 2022, CVDR680298_1); de tekst van art. 4:11 is gelijk aan die in de APV 2022. Leges 2026 in werking 2026-01-01.",
+  "juridische_plaats": "APV (art. 4:11), werkt als omgevingsplanactiviteit volgens Legesverordening 2026 art. 2.23 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het kappen van een boom'); aanvraagvereisten in omgevingsplan art. 22.299",
+  "praktijkcontrole": "48 bekendmakingen sinds 2025 (22 besluiten, 0 aanvragen, 1 weigering volgens titel). Steekproef van 10 besluiten (o.a. gmb-2026-153798, gmb-2026-140552: 'het kappen van een boom in de tuin') noemt geen grondslag. Kappen van tuinbomen wordt dus vergund; dat past bij een regime voor de hele gemeente.",
+  "vergunningplicht": "omgevingsvergunning (verbod om zonder vergunning te vellen)",
+  "drempel": "omtrek van de stam op een hoogte van 130 centimeter meer dan 85 centimeter; daarnaast bomen op een door het college vastgestelde Bomenlijst (lijst niet gevonden)",
+  "omtrek_cm": 85,
+  "meethoogte": "130 cm",
+  "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar; geen beperking tot gebieden of tuinen. Daarnaast bomen op de Bomenlijst van het college (ongeacht omvang).",
+  "uitzonderingen": "Alleen spoed: 'Het eerste lid is niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Geen uitzondering voor tuinen, achtertuinen, soorten of een aantal bomen per jaar.",
+  "weigeringsgronden": "Art. 4:11 lid 2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen herplantbeleidsregel of boomwaarderegeling gevonden.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Geen betaling als alternatief.",
+  "sancties": "WED via de Omgevingswet (art. 5.1 lid 1 onder a): Legesverordening 2026 art. 2.23 noemt het kappen een omgevingsplanactiviteit. APV 6:1 lid 1: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'; APV 6:1 lid 2 wijst de WED alleen aan voor art. 2:10 (niet voor 4:11). Geen bestuurlijke boete. Handhavingsbeleid: dwangsom, 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht.' per week 5.000, begunstigingstermijn 4 weken (bijlage 8 Uniforme uitvoering- en handhavingsstrategie).",
+  "procedure": "Omgevingsvergunning; leges EUR 200,00 (Legesverordening 2026 art. 2.23); positieve fictieve beschikking: 'Op de vergunning is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing.' (4:11 lid 5); bezwaar en beroep volgens Awb; beslistermijn volgens de Omgevingswet/Wabo (APV 1:2 lid 3: niet van toepassing op omgevingsvergunning).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Geen specifieke regel in de APV. Wel handhavingsbeleid: dwangsom 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht.' per week 5.000 (Uniforme uitvoering- en handhavingsstrategie 2022-2023, bijlage 8) en 'Na illegaal kappen niet herplanten' EUR 3.000 per maand, max. 6 keer (Beleidsplan VTH, bijlage 5). APV 6:1 lid 1 straft 'overtreding van het bij of krachtens deze verordening bepaalde'; of een herplantvoorschrift daaronder valt, is niet getoetst.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bomenlijst van het college niet gevonden; telling niet mogelijk",
+  "status": "ok",
+  "ontbrekend": "De Bomenlijst die het college vaststelt (art. 4:11 lid 1 onder b) is niet gevonden; zij verandert D niet, want het brede regime (omtrek > 85 cm) bepaalt D. Omgevingsplan in het DSO niet ingezien (alleen CVDR-tekst, die alleen aanvraagvereisten 22.299 bevat).",
+  "artikelnummers": [
+    "APV 2024: art. 4:10, 4:11, 4:12 (vervallen), 1:2, 1:4, 6:1",
+    "Legesverordening 2026: art. 2.23",
+    "Omgevingsplan: art. 22.299 (aanvraagvereisten)",
+    "Beleidsplan VTH: bijlage 5",
+    "Uniforme uitvoering- en handhavingsstrategie 2022-2023: bijlage 8"
+  ],
+  "opmerkingen": [
+    "D3: hele gemeente, omtrek 'meer dan 85 centimeter' op 130 cm (middelmatige drempel 60-100 cm). Geen tuinuitzondering. Boom A (80 cm) is dus niet vergunningplichtig; boom B ook niet.",
+    "W2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (4:11 lid 2).",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (4:11 lid 4). Geen beleidsregel gevonden die herplant verplicht stelt.",
+    "S1 zonder bereik: Legesverordening 2026 art. 2.23 noemt het kappen een omgevingsplanactiviteit (Ow 5.1 lid 1 onder a), dus WED via de Omgevingswet. APV 6:1 lid 2 verwijst voor de WED naar het verkeerde artikel (2:10 in plaats van 4:11); die verkeerde verwijzing verandert S niet. Geen bestuurlijke boete.",
+    "De APV 4:11 verwijst nog naar 'artikel 2.2, lid 1, onder g van de Wet algemene bepalingen omgevingsrecht' (niet bijgewerkt na 1-1-2024). Het omgevingsplan (CVDR696277_2) bevat alleen aanvraagvereisten (22.299), geen eigen kapregel.",
+    "Oudere legesverordeningen 2017, 2019 en 2023 staan nog als geldend in CVDR; de legesverordening 2026 is de meest recente en is gebruikt.",
+    "Strengheid 50 (Gemiddeld)."
+  ],
+  "modelsignalen": [
+    "De APV noemt in 4:11 lid 1 onder b ook een Bomenlijst die niet is gevonden. Bij een breed regime met aanvullende lijst bepaalt het brede regime D (model v2.3), maar de lijst kan strenger zijn; dit is niet beoordeeld."
+  ]
+}

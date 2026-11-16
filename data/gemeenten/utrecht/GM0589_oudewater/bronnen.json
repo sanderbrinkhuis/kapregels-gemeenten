@@ -1,0 +1,30 @@
+{
+  "gemeente": "Oudewater",
+  "gm_code": "GM0589",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Oudewater",
+  "zoeknaam_bekendmakingen": "Oudewater",
+  "opgehaald_op": "2026-11-14T18:22:24+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Oudewater\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 68,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Oudewater\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 5,
+  "geldende_regelingen": 15,
+  "geldend_met_kapartikelen": [
+    "CVDR487631_2",
+    "CVDR612265_1",
+    "CVDR612266_1",
+    "CVDR696358_3",
+    "CVDR745890_1",
+    "CVDR748338_1",
+    "CVDR750664_1",
+    "CVDR755675_3"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

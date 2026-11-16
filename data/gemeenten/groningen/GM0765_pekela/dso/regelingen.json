@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0765/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Pekela",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0765/2020/omgevingsplan/nld@10",
+    "beginGeldigheid": "2024-07-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0765_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0765/2026/2_7",
+    "titel": "Omgevingsprogramma Heeresmeer",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0765/2026/2_7/nld@13",
+    "beginGeldigheid": "2026-05-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0765_2026_2_7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0765/2026/2_8",
+    "titel": "Programma  Grondbeleid  Gemeente  Pekela",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0765/2026/2_8/nld@15",
+    "beginGeldigheid": "2026-08-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0765_2026_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:25Z"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "gemeente": "Haarlem",
+  "gm_code": "GM0392",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Haarlem",
+  "zoeknaam_bekendmakingen": "Haarlem",
+  "opgehaald_op": "2026-11-14T22:02:33+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Haarlem\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 129,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Haarlem\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 697,
+  "geldende_regelingen": 20,
+  "geldend_met_kapartikelen": [
+    "CVDR281055_25",
+    "CVDR622008_1",
+    "CVDR632401_1",
+    "CVDR670344_1",
+    "CVDR696299_7",
+    "CVDR752883_3",
+    "CVDR757665_1",
+    "CVDR763952_3"
+  ],
+  "bekendmakingen_besluiten": 295,
+  "bekendmakingen_aanvragen": 328,
+  "bekendmakingen_geweigerd": 68,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

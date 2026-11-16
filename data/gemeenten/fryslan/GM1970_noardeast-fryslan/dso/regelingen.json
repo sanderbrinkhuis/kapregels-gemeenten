@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1970/2024/2_27",
+    "titel": "Gemeentelijk Mobiliteitsprogramma gemeente Noardeast-Fryslân",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1970/2024/2_27/nld@55",
+    "beginGeldigheid": "2024-11-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1970_2024_2_27?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1970/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Noardeast-Fryslân",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1970/2020/omgevingsplan/nld@2025-09-11;6",
+    "beginGeldigheid": "2025-09-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1970_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1970/2025/programma-20251022-132451",
+    "titel": "Omgevingsprogramma Landbouw gemeente Noardeast-Fryslân",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1970/2025/programma-20251022-132451/nld@2026-01-20;3",
+    "beginGeldigheid": "2026-01-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1970_2025_programma_20251022_132451?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1970/2025/programma-20250324-145644",
+    "titel": "Laadbeleid gemeente Noardeast-Fryslân",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1970/2025/programma-20250324-145644/nld@2026-02-25;2",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1970_2025_programma_20250324_145644?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1970/2025/programma-20250812-085041",
+    "titel": "Omgevingsprogramma Erfgoed gemeente Noardeast-Fryslân",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1970/2025/programma-20250812-085041/nld@2026-03-09;1",
+    "beginGeldigheid": "2026-03-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1970_2025_programma_20250812_085041?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1970/2026/programma-20260119-143600",
+    "titel": "Water en Rioleringsprogramma gemeente Noardeast-Fryslân",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1970/2026/programma-20260119-143600/nld@2026-07-01;3",
+    "beginGeldigheid": "2026-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1970_2026_programma_20260119_143600?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:31Z"
+  }
+]

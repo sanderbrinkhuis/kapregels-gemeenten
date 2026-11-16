@@ -1,0 +1,29 @@
+{
+  "gemeente": "Borsele",
+  "gm_code": "GM0654",
+  "provincie": "Zeeland",
+  "zoeknaam_cvdr": "Borsele",
+  "zoeknaam_bekendmakingen": "Borsele",
+  "opgehaald_op": "2026-11-16T14:06:37+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Borsele\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 58,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Borsele\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 11,
+  "geldende_regelingen": 14,
+  "geldend_met_kapartikelen": [
+    "CVDR693737_1",
+    "CVDR696376_3",
+    "CVDR710446_1",
+    "CVDR751131_2",
+    "CVDR755729_1",
+    "CVDR762132_1",
+    "CVDR762133_1"
+  ],
+  "bekendmakingen_besluiten": 3,
+  "bekendmakingen_aanvragen": 1,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

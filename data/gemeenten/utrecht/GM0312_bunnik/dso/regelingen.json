@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0312/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Bunnik",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0312/2020/omgevingsplan/nld@19",
+    "beginGeldigheid": "2024-07-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0312/2025/2_4",
+    "titel": "Omgevingsprogramma Kerken naar de Toekomst",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0312/2025/2_4/nld@22",
+    "beginGeldigheid": "2025-12-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2025_2_4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0312/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Bunnik 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0312/2025/omgevingsvisie/nld@24",
+    "beginGeldigheid": "2026-02-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0312/2026/2_8",
+    "titel": "Omgevingsprogramma Mobiliteit: Bunnik geeft ruimte",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0312/2026/2_8/nld@1026",
+    "beginGeldigheid": "2026-03-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2026_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0312/2025/2_5",
+    "titel": "Omgevingsprogramma RES regio Utrecht Herijking: Onderweg naar 2050",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0312/2025/2_5/nld@23",
+    "beginGeldigheid": "2026-03-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2025_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0312/2024/2_3",
+    "titel": "Omgevingsprogramma Groen 2024 - 2040: Groene Koers van Bunnik",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0312/2024/2_3/nld@20",
+    "beginGeldigheid": "2026-03-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2024_2_3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0312/2026/2_7",
+    "titel": "Omgevingsprogramma Zon-op-land",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0312/2026/2_7/nld@1027",
+    "beginGeldigheid": "2026-03-31",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0312_2026_2_7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:56Z"
+  }
+]

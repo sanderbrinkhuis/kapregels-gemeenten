@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1581/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Utrechtse Heuvelrug",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1581/2020/omgevingsplan/nld@2024-08-22;14103917",
+    "beginGeldigheid": "2024-08-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1581_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1581/2026/Regelingaf3c87ce5cd44d2a927883c332d6d55a",
+    "titel": "Warmteprogramma 2026-2035 gemeente Utrechtse Heuvelrug",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1581/2026/Regelingaf3c87ce5cd44d2a927883c332d6d55a/nld@2026-02-23;10564972",
+    "beginGeldigheid": "2026-02-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1581_2026_Regelingaf3c87ce5cd44d2a927883c332d6d55a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:38Z"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "gemeente": "Helmond",
+  "gm_code": "GM0794",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Helmond",
+  "zoeknaam_bekendmakingen": "Helmond",
+  "opgehaald_op": "2026-11-15T21:05:23+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Helmond\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 104,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Helmond\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 149,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR679115_3",
+    "CVDR690582_1",
+    "CVDR696409_5",
+    "CVDR716611_3",
+    "CVDR718649_1",
+    "CVDR750969_2"
+  ],
+  "bekendmakingen_besluiten": 6,
+  "bekendmakingen_aanvragen": 83,
+  "bekendmakingen_geweigerd": 2,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

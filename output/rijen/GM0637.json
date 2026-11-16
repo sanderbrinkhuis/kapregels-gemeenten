@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0637",
+ "gemeente": "Zoetermeer",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Algemene plaatselijke verordening Zoetermeer (CVDR129535_31) afd. 4.3 art. 4:9-4:12 en 6:1; Bomenbeleid (CVDR695562_2); overzicht monumentale en herdenkingsbomen en aanwijzing beschermde gebieden niet in dossier",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR129535/31",
+ "datum_geldigheid": "2025-10-17 t/m heden (versie 31); peildatum 2026-11-16",
+ "laatste_wijziging": "2025-10-17 (CVDR129535_31); Bomenbeleid in werking 2025-08-14",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.8.1.1 (in samenhang met art. 22.8 Ow) en WED-aanwijzing in APV art. 6:1 lid 3",
+ "praktijkcontrole": "Titelzoekactie 2025-2026: 524 bekendmakingen (235 besluiten, 284 aanvragen, 5 geweigerd volgens titel); steekproef van 10 besluiten noemt geen grondslag. Veel titels gaan over bosplantsoen, recreatiegebieden, wijk- en stadsbomen en projecten (gemeentebomen, die ook vergunningplichtig zijn), niet aantoonbaar over particuliere tuinbomen.",
+ "vergunningplicht": "vergunning (APV art. 4:10 lid 1) voor houtopstanden op het overzicht monumentale en herdenkingsbomen, in door het college aangewezen beschermde gebieden, en gemeentelijke houtopstanden",
+ "drempel": "geen drempel",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Alleen (a) bomen op het door het college vastgestelde overzicht monumentale en herdenkingsbomen, (b) bomen in door het college aangewezen beschermde gebieden en (c) bomen van de gemeente. Bomenbeleid 7.1: \"Particuliere bomen zijn niet vergunningsplichtig, met uitzondering van de particuliere monumentale en herdenkingsbomen en de particuliere bomen in de beschermde gebieden.\" Buurtgroen is vrijgesteld (art. 4:10 lid 2 onder f). Overzicht en aanwijzing van de gebieden niet ingezien.",
+ "uitzonderingen": "Art. 4:10 lid 2: acuut gevaar, dunning, Plantenziektewet of aanschrijving, hakhout, knotten of kandelaberen (gangbaar). Lid 2 onder f: \"houtopstanden die behoren tot de categorie buurtgroen zoals aangegeven op de kaart in de met dit artikel verbonden bijlage 'Groenkaart' en niet staan\" op de lijst of in beschermde gebieden.",
+ "weigeringsgronden": "APV art. 4:10 lid 3: \"De vergunning kan worden geweigerd op grond van:\" natuurbeschermingsregelgeving of \"het onvoldoende aannemelijk maken van een verwijderingsbelang\". Bomenbeleid 7.1.1: \"Het belang van verwijderen van de monumentale en herdenkingsbomen kan alleen in geval van gevaar, einde levensduur, ziekte en veiligheid.\" en voor bomen in beschermde gebieden: gevaar, veiligheid, afnemende kwaliteit of zwaarwegend maatschappelijk belang.",
+ "herplantplicht": "APV art. 4:10 lid 4: \"Het bevoegd gezag kan een herplantplicht en/of een andere vorm van groencompensatie opleggen onder nader te stellen voorschriften.\" Bomenbeleid 7.3: voorwaarden kunnen \"De herplantplicht en/of instandhoudingsverplichting\" betreffen. Groencompensatie in de Groenkaart (3-1) geldt voor ontwikkelingen, niet voor gewone kap. Geen verplichte betaling bij gewone kap.",
+ "herplant_ontsnapping": "\"kan\" (bevoegdheid van het bevoegd gezag); Bomenbeleid 7.3: \"herplant alleen mogelijk is waar zowel boven- als ondergronds voldoende ruimte is en/of gecreëerd kan worden\". Geen betaling in plaats van herplant bij gewone kap.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "APV art. 4:12 lid 3: \"Degene aan wie een verplichting als bedoeld in het eerste en tweede lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.\" Overtreding is strafbaar via art. 6:1 lid 1 (\"geldboete van de tweede categorie of met hechtenis van ten hoogste drie maanden\").",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de regeling zelf: APV art. 6:1 lid 3 \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... en 4:10, eerste lid.\" Daarnaast strafbepaling art. 6:1 lid 1. Geen bestuurlijke boete voor kappen (lid 4 betreft alleen Wet veiligheidsregio's). Na illegale kap: art. 4:12 lid 1 \"kan\" herplant of storting van de getaxeerde monetaire waarde opleggen.",
+ "procedure": "Leges (CVDR753799_1, art. 2.8.1.1): 1 t/m 5 bomen EUR 126,77; 6 t/m 10 EUR 190,14; toeslag EUR 316,91 bij advies bomencommissie. Beslistermijn acht weken, te verdagen met acht weken (APV art. 1:2). Aanvraag door zakelijk gerechtigde (art. 4:11).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Overzicht monumentale en herdenkingsbomen Zoetermeer 2015 niet ingezien en niet in CVDR; aanwijzing van de beschermde gebieden niet gevonden; geen aantallen in het Bomenbeleid",
+ "status": "onzeker",
+ "ontbrekend": "Kernbronnen ontbreken: (1) het college-overzicht monumentale en herdenkingsbomen (2015), (2) het collegebesluit dat de 'beschermde gebieden' aanwijst (en welk deel van de stad dat is), (3) bijlagen van het Bomenbeleid (bijlage 4 schema verwijderingsbelang). Daardoor onbekend hoeveel particuliere bomen beschermd zijn.",
+ "artikelnummers": [
+  "APV art. 1:2, 4:9, 4:10, 4:11, 4:12, 6:1",
+  "Bomenbeleid 7.1, 7.1.1, 7.1.2, 7.2, 7.3",
+  "Leges art. 2.8.1.1",
+  "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+ ],
+ "opmerkingen": [
+  "Kern APV art. 4:10 lid 1: \"Het is verboden zonder vergunning van het bevoegd gezag houtopstanden te vellen of te doen vellen die vermeld staan op het door het college vastgestelde overzicht monumentale en herdenkingsbomen Zoetermeer, en/of staan in door het college aangewezen beschermde gebieden, alsmede houtopstanden die eigendom zijn van de gemeente.\"",
+  "D = 2 met min 1: de verbodstekst beschermt zelf aangewezen gebieden naast een lijst (regel 'kaart niet ingezien', besluit 16-11-2026); particuliere bomen in die gebieden bevestigd door het Bomenbeleid. Grootte en ligging van de gebieden onbekend; als ze een klein deel van de stad vormen telt alleen de lijst (D = 1).",
+  "W = 3: Bomenbeleid (vastgesteld, geldend): monumentale bomen \"mogen uitsluitend in geval van gevaar, einde levensduur, ziekte en veiligheid worden gekapt.\" en \"in principe niet mogelijk\". De APV zegt alleen \"kan worden geweigerd\" (zou W2 zijn); daarom min 2. Gangbare reden gevaar telt niet als versoepeling.",
+  "Raadsbesluit in het Bomenbeleid: \"Het laten vervallen van de gelimiteerde weigeringsgronden bij de vergunningverlening voor het kappen van bomen.\" De APV (versie 31, 2025-10-17) bevat de gronden in art. 4:10 lid 3 nog steeds; gescoord op de geldende APV.",
+  "Kernbron ontbreekt: overzicht monumentale en herdenkingsbomen en aanwijzing beschermde gebieden niet in dossier of tekst/. Niet op gemeentelijke website gevonden met enkele requests.",
+  "Omgevingsplan (CVDR696369_2): alleen art. 22.299 (aanvraagvereisten) en toelichting; geen aparte kapregel.",
+  "Boom A en B (gewone achtertuin, buurtgroen vrijgesteld): alleen vergunningplichtig als op het overzicht of in een aangewezen gebied; niet te controleren."
+ ],
+ "modelsignalen": [
+  "Combinatie van een lijst met niet-ingezien overzicht en door het college aangewezen gebieden waarvan de aanwijzing ontbreekt. INTENT.md geeft D = 2 min 1 (kaart met gebieden), maar zegt niet hoe te scoren als nergens vaststaat hoe groot het gebied is. Advies: bij onbekende omvang D = 1 met max 2 (dus puntschatting 1), of de regel 'kaart niet ingezien' uitbreiden met de voorwaarde dat het gebied substantieel moet zijn (kleine-gebiedsregel).",
+  "APV zegt 'kan worden geweigerd' op beperkte gronden; vastgesteld beleid sluit de kapgronden voor monumentale bomen strikt. Regel 'strengere toetsing in beleid' dekt dit (W3), maar er is geen regel voor beleid dat enerzijds weigeringsgronden wil laten vervallen (raadsbesluit) terwijl de APV ze nog heeft. Advies: scoor op de geldende APV plus geldend beleid, en vermeld het raadsbesluit alleen als opmerking."
+ ]
+}

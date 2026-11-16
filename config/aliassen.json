@@ -1,0 +1,9 @@
+{
+  "_toelichting": "Zoeknamen voor CVDR en officielebekendmakingen waar de CBS-naam geen treffers geeft. Gecontroleerd met 'python -m bomen namen' op 2026-11-14.",
+  "GM0888": {"cvdr": "Beek", "bekendmakingen": "Beek"},
+  "GM0164": {"cvdr": "Hengelo", "bekendmakingen": "Hengelo"},
+  "GM0417": {"cvdr": "Laren", "bekendmakingen": "Laren"},
+  "GM0687": {"cvdr": "Middelburg", "bekendmakingen": "Middelburg"},
+  "GM0603": {"cvdr": "Rijswijk", "bekendmakingen": "Rijswijk"},
+  "GM0971": {"cvdr": "Stein", "bekendmakingen": "Stein"}
+}

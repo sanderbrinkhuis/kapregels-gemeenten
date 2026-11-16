@@ -1,0 +1,28 @@
+{
+  "gemeente": "Zuidplas",
+  "gm_code": "GM1892",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Zuidplas",
+  "zoeknaam_bekendmakingen": "Zuidplas",
+  "opgehaald_op": "2026-11-16T10:35:46+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Zuidplas\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 81,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Zuidplas\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 6,
+  "geldende_regelingen": 20,
+  "geldend_met_kapartikelen": [
+    "CVDR386407_8",
+    "CVDR696509_4",
+    "CVDR705994_1",
+    "CVDR725511_2",
+    "CVDR745761_1",
+    "CVDR752413_2"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 6,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

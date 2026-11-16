@@ -1,0 +1,30 @@
+{
+  "gemeente": "Midden-Groningen",
+  "gm_code": "GM1952",
+  "provincie": "Groningen",
+  "zoeknaam_cvdr": "Midden-Groningen",
+  "zoeknaam_bekendmakingen": "Midden-Groningen",
+  "opgehaald_op": "2026-11-14T14:42:29+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Midden-Groningen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 52,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Midden-Groningen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 112,
+  "geldende_regelingen": 20,
+  "geldend_met_kapartikelen": [
+    "CVDR635590_1",
+    "CVDR635592_1",
+    "CVDR635593_1",
+    "CVDR636836_1",
+    "CVDR696533_11",
+    "CVDR735612_1",
+    "CVDR754282_1",
+    "CVDR763815_1"
+  ],
+  "bekendmakingen_besluiten": 14,
+  "bekendmakingen_aanvragen": 57,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

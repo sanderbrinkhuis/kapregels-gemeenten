@@ -1,0 +1,89 @@
+{
+  "gm_code": "GM0484",
+  "gemeente": "Alphen aan den Rijn",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene Plaatselijke Verordening Alphen aan den Rijn 2014, afdeling 3 'Het bewaren van bomen' (art. 4:10 t/m 4:12a) en art. 6:1 (CVDR733345_1); Beleidsnotitie Beschermwaardige bomen 2019-2029 (CVDR642634_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30 (CVDR751029_1); Omgevingsplan art. 22.299 (CVDR696329_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR733345/1 ; https://lokaleregelgeving.overheid.nl/CVDR642634/1 ; https://lokaleregelgeving.overheid.nl/CVDR751029/1 ; https://lokaleregelgeving.overheid.nl/CVDR696329/2",
+  "datum_geldigheid": "APV CVDR733345_1 geldend vanaf 2025-01-01 t/m heden; beleidsnotitie CVDR642634_1 vanaf 2020-07-18; leges CVDR751029_1 vanaf 2025-12-19; omgevingsplan CVDR696329_2 vanaf 2025-06-17 (peildatum scoren 2026-11-16)",
+  "laatste_wijziging": "APV: CVDR733345_1 is versie 1 per 2025-01-01 (daarna geen nieuwe versie in het dossier); beleidsnotitie vastgesteld door het college op 16 juli 2019, in CVDR geldend per 2020-07-18",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. APV art. 6:1 lid 2 wijst bovendien art. 4:11 lid 1 aan voor de WED. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 104 bekendmakingen op titel, waarvan 24 besluiten, 54 aanvragen en 1 geweigerd volgens titel (gmb-2026-225665). Steekproef van 10 besluiten noemt geen grondslag. Veel kapbesluiten betreffen een boom zonder de aanduiding 'beschermwaardig' in de titel (bijv. gmb-2026-522674 Robinia, gmb-2026-135421 naaldboom, gmb-2025-561986 beuk); drie titels noemen wel 'beschermwaardige' bomen (gmb-2025-371247, gmb-2025-119808). Dit is slechts een indicatie: het kan om bomen op de kaart gaan of om een breder regime; de titels zeggen dat niet. Titels zijn niet overgenomen.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van een 'beschermwaardige boom, die voorkomt op één van de kaarten beschermwaardige bomen' (APV art. 4:11 lid 1). Volgens de beleidsnotitie geldt voor potentieel beschermwaardige bomen een meldplicht, maar die staat niet in de APV-tekst.",
+  "drempel": "Geen omtrekdrempel in de APV: de bescherming volgt uit opname op de kaarten beschermwaardige bomen. De definitie 'boom' in art. 4:10 lid 1 onder c noemt 'een dwarsdoorsnede van de stam van minimaal 15 centimeter op 1,3 meter hoogte' (ca. 47 cm omtrek), maar de verbodsbepaling geldt alleen voor bomen op de kaarten.",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (alleen de definitie van boom; geen drempel voor het verbod)",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, maar alleen bomen die op de kaarten beschermwaardige bomen staan (art. 4:11 lid 1). Aanwijscriteria (art. 4:10 lid 3): beeldbepalende, cultuurhistorische, ecologische of natuurwaarde, dendrologische waarde of unieke verschijningsvorm, herdenkingsboom. Het college stelt de lijst periodiek vast (art. 4:10 lid 4). De beleidsnotitie zegt: 'Alle gemeentelijke en particuliere (potentieel) beschermwaardige bomen staan in een bestand en zijn op een digitale kaart vermeld.'",
+  "uitzonderingen": "Art. 4:11 lid 2: Plantenziektenwet; bevel van de burgemeester bij spoedeisend belang; terugzetten van knotbomen, gekandelaberde bomen of leibomen; dunnen als beheermaatregel. Alleen gangbare uitzonderingen; geen tuin-, soort- of aantalsuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "APV art. 4:11 lid 3: 'In afwijking van artikel 1.8 kan de vergunning in het eerste lid worden geweigerd op grond van: a. de beeldbepalende waarde van de boom; b. de cultuurhistorische waarde van de boom;' enz. (ecologische of natuurwaarde, dendrologische of unieke waarde, herdenkingsboom). Beleidsnotitie: 'Gemeente Alphen aan den Rijn hanteert een zeer terughoudend kapbeleid voor beschermwaardige en potentieel beschermwaardige bomen.' Redenen voor een vergunning zijn bijvoorbeeld ernstig verminderde stabiliteit, ziekte, schade of 'een zwaarwegend maatschappelijk belang'.",
+  "herplantplicht": "APV art. 4:12 lid 1: 'Het college verbindt aan een vergunning voor het vellen van een boom in het openbare gebied in ieder geval als voorschrift dat ... wordt herplant, tenzij zwaarwegende redenen zich daartegen verzetten.' Dit geldt dus alleen voor het openbare gebied. Voor particuliere bomen: lid 4 'Het college kan eisen dat de monetaire waarde van een boom, inclusief de kosten voor aanleg van die boom, bij kap als compensatie in het bomenfonds moet worden gestort.' en lid 3 (na illegale kap): 'kan het college de verplichting opleggen dat ... wordt herplant'. Beleidsnotitie: 'In beginsel geldt voor iedere gekapte (potentieel) beschermwaardige boom een herplantplicht' maar 'Particuliere eigenaren zijn vrijgesteld van deze herplantplicht.'",
+  "herplant_ontsnapping": "APV art. 4:12 lid 1: 'tenzij zwaarwegende redenen zich daartegen verzetten' (alleen openbaar gebied). Lid 3 en lid 4 zijn bevoegdheden ('kan'); het college beslist per geval. Lid 4 onder b: 'indien herplant op hetzelfde perceel of in de directe omgeving kan geschieden, wordt er een bedrag in mindering gebracht op het (eventueel) te storten bedrag in het bomenfonds'. Beleidsnotitie: 'Particuliere eigenaren zijn vrijgesteld van deze herplantplicht.'",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit, legesverordening art. 2.30) en WED-aanwijzing in de APV: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10, 2:11 en 4:11, eerste lid, als sprake is van een omgevingsvergunning plichtige activiteit'. Art. 6:1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Geen bestuurlijke boete in de APV. De beleidsnotitie noemt wel een boete van 'minimaal € 2.500,- tot maximaal 25 procent van de monetaire boomwaarde' bij kap zonder vergunning, maar dat staat alleen in beleid. Herplantverplichting na illegale kap: art. 4:12 lid 3 (kan).",
+  "procedure": "Leges 2026 art. 2.30: EUR 52,30 voor het vellen van een houtopstand als omgevingsplanactiviteit. De APV-beslistermijn (art. 1:2) geldt niet voor een omgevingsvergunning (lid 3). Publicatie in de gemeentelijke bekendmakingen op overheid.nl. Bezwaar en beroep volgens de Awb. Particuliere eigenaren krijgen vooraf bericht en kunnen bezwaar maken tegen opname van hun boom in het bestand (beleidsnotitie).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets in de APV over het niet nakomen van een herplantvoorschrift. Art. 6:1 lid 1 noemt 'het bij of krachtens verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen', maar art. 1:4 lid 3 zegt 'Dit artikel is niet van toepassing op een omgevingsvergunning' en het herplantartikel wordt niet genoemd.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 1478,
+  "lijst_aantal_particulier": 637,
+  "lijst_telling": "bomen in het bestand (potentieel) beschermwaardige bomen volgens de inventarisatie van 2019 in de beleidsnotitie CVDR642634_1: 1327 beschermwaardige (748 gemeentelijk, 579 particulier) plus 151 potentieel beschermwaardige (93 gemeentelijk, 58 particulier). Het bestand wordt jaarlijks bijgewerkt; de huidige lijst of kaart is niet ingezien. Voor de vergunningplicht tellen volgens de beleidsnotitie alleen de 1327 beschermwaardige bomen (579 particulier)",
+  "status": "ok",
+  "ontbrekend": "Lijst of digitale kaart beschermwaardige bomen niet ingezien (niet in CVDR; zoek op overheid.nl en de gemeentelijke website leverde de kaart niet op); aantallen komen uit de beleidsnotitie (stand 2019). Omgevingsplan in het DSO niet ingezien (VTH-plan noemt 'karakteristieke landschapselementen (waaronder bomen)' in het omgevingsplan; inhoud onbekend). Bijlage C bij de beleidsnotitie (Herplant, compensatie en boete) niet apart in het dossier; hoofdtekst gebruikt.",
+  "artikelnummers": [
+    "APV 1:1",
+    "APV 1:4",
+    "APV 1:8",
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:12",
+    "APV 4:12a",
+    "APV 6:1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Beleidsnotitie Beschermwaardige bomen 2019-2029 (Kapbeleid; Compensatieplicht en herplantplicht; Boete)"
+  ],
+  "opmerkingen": [
+    "Beslissend voor D: 'Het is verboden een beschermwaardige boom, die voorkomt op één van de kaarten beschermwaardige bomen zonder omgevingsvergunning te vellen of te doen vellen.' (APV 4:11 lid 1). Lijstsysteem met individuele bomen: D = 1. Particuliere bomen staan erop: beleidsnotitie 'In het bomenbestand maken we geen onderscheid in gemeentelijke of particuliere bomen.' en 579 particuliere beschermwaardige bomen. Minimum 1 omdat vastgesteld beleid bevestigt dat particuliere bomen op de lijst staan. Maximum 2 omdat de kaarten niet zijn ingezien (regel: kaart die niet is ingezien, losse objecten: D = 1 met maximum 2).",
+    "Beslissend voor W: 'kan de vergunning ... worden geweigerd op grond van: a. de beeldbepalende waarde van de boom' (APV 4:11 lid 3): belangenafweging, W = 2. Maximum 3 omdat het vastgestelde beleid 'een zeer terughoudend kapbeleid' noemt; dat is geen letterlijk 'slechts bij uitzondering', dus niet als W3 gescoord.",
+    "Beslissend voor H: 'Het college kan eisen dat de monetaire waarde van een boom ... bij kap als compensatie in het bomenfonds moet worden gestort.' (APV 4:12 lid 4) en 'kan ... de verplichting opleggen' (lid 3, na illegale kap): bevoegdheid, H = 1. De verplichte herplant in lid 1 geldt alleen voor het openbare gebied. De beleidsnotitie maakt herplant 'in beginsel' verplicht, maar zegt 'Particuliere eigenaren zijn vrijgesteld van deze herplantplicht' en 'Particuliere eigenaren zijn vrijgesteld van deze compensatieplicht.' Minimum 0 omdat vastgesteld beleid de bevoegdheid voor particulieren niet gebruikt. Herplant na illegale kap telt bij S, niet bij H.",
+    "Beslissend voor S: WED via de Omgevingswet (legesverordening art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet') en WED-aanwijzing in APV 6:1 lid 2: S = 1. De boete (EUR 2.500 tot 25 procent van de boomwaarde) staat alleen in de beleidsnotitie en niet in de APV: geen S = 2. Maximum 3 voor het geval dat het vastgestelde beleid ('wordt er een boete opgelegd') als boete met handhavingsbeleid zou tellen.",
+    "Potentieel beschermwaardige bomen: de beleidsnotitie kent daarvoor alleen een meldplicht; die staat niet in de APV-tekst. Zij zijn daarom niet apart gescoord. Particuliere potentieel beschermwaardige bomen zijn volgens de notitie vrijgesteld van herplant, compensatie en boete.",
+    "Structuurbomen (48 procent van het bomenbestand) en functionele bomen zijn niet beschermd door de APV.",
+    "Gebiedsregels in het omgevingsplan (cultuurhistorische waarden voor beeldbepalend groen zoals boerengeriefbosjes, boomgaarden, houtakkers, bomenrijen, volgens het VTH-beleidsplan CVDR720573_1) zijn niet ingezien in het DSO. Zij hebben een cultuurhistorisch doel en tellen volgens het model niet voor D.",
+    "Leges 2022 (CVDR671031_1) is nog opgenomen in het dossier als geldend, maar de Verordening 2026 (CVDR751029_1, vanaf 2025-12-19) is de actuele versie; scoring volgt de APV.",
+    "Nabewerking 16-11-2026: S-maximum van 3 naar 1, omdat de boete alleen in de beleidsnota staat en S2 een bestuurlijke boete in de regeling zelf vraagt (besluit gebruiker 14-11-2026, na Utrecht).",
+    "Nabewerking 16-11-2026: H1 (0-1) → H0 (max 1): de Beleidsnotitie stelt particulieren uitdrukkelijk vrij van herplant (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Beleid dat particulieren uitdrukkelijk vrijstelt van herplant en compensatie, terwijl de verordening een 'kan'-bevoegdheid geeft (APV 4:12 lid 3 en 4). Het model kent alleen beleid dat de verordening aanscherpt. Puntschatting H = 1 met minimum 0. Advies: leg vast dat een vastgestelde vrijstelling van particulieren voor herplant H = 0 geeft, omdat 'particulier terrein' het criterium is.",
+    "Boete uit vastgesteld beleid zonder bestuurlijke boete in de regeling (beleidsnotitie: 'wordt er een boete opgelegd', EUR 2.500 tot 25 procent van de boomwaarde). Volgens de regels is dat S = 1 (alleen in beleid). Advies: bevestig dat S = 1 blijft zolang de APV geen bestuurlijke boete noemt; de gemeente kan geen bestuurlijke boete opleggen zonder wettelijke grondslag.",
+    "'Zeer terughoudend kapbeleid' in vastgesteld beleid bij een verordening met 'kan worden geweigerd'. Het model noemt 'alleen in bijzondere gevallen' of 'bij hoge uitzondering' als W3 uit beleid, maar niet 'zeer terughoudend'. Puntschatting W = 2, maximum 3. Advies: laat 'zeer terughoudend' W2 met maximum 3 geven, tenzij het beleid zelf een lijst van enige toegestane redenen bevat.",
+    "Lijstsysteem met twee statussen: beschermwaardig (vergunning) en potentieel beschermwaardig (meldplicht alleen in beleid, niet in de APV). Advies: scoor alleen op de APV-tekst en vermeld de beleidsmelding in de opmerkingen (zoals nu gedaan)."
+  ]
+}

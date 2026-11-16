@@ -1,0 +1,33 @@
+{
+  "gemeente": "Waalwijk",
+  "gm_code": "GM0867",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Waalwijk",
+  "zoeknaam_bekendmakingen": "Waalwijk",
+  "opgehaald_op": "2026-11-16T14:06:22+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Waalwijk\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 119,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Waalwijk\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 113,
+  "geldende_regelingen": 25,
+  "geldend_met_kapartikelen": [
+    "CVDR663406_1",
+    "CVDR696432_2",
+    "CVDR710910_1",
+    "CVDR711109_1",
+    "CVDR724106_1",
+    "CVDR735649_1",
+    "CVDR742150_1",
+    "CVDR746927_1",
+    "CVDR752256_1",
+    "CVDR752611_1",
+    "CVDR762559_1"
+  ],
+  "bekendmakingen_besluiten": 93,
+  "bekendmakingen_aanvragen": 14,
+  "bekendmakingen_geweigerd": 2,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

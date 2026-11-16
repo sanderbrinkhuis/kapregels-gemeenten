@@ -1,0 +1,30 @@
+{
+  "gemeente": "Leiden",
+  "gm_code": "GM0546",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Leiden",
+  "zoeknaam_bekendmakingen": "Leiden",
+  "opgehaald_op": "2026-11-16T10:35:38+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Leiden\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 112,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Leiden\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 179,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR484799_1",
+    "CVDR645163_21",
+    "CVDR696352_3",
+    "CVDR714932_1",
+    "CVDR751716_2",
+    "CVDR758293_1",
+    "CVDR763082_1",
+    "CVDR768402_1"
+  ],
+  "bekendmakingen_besluiten": 82,
+  "bekendmakingen_aanvragen": 97,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,86 @@
+{
+  "provincie": "Gelderland",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "modelsignalen": [
+    "Het model heeft geen duidelijke regel voor een lijst die in de bijlage bij een verordening staat en waarvan de toelichting zegt dat die uit particuliere bomen en herplantbomen bestaat, maar waarvan niet te zien is welke regels particulier zijn. Dit blijft D1 met lijst_aantal_particulier = null.",
+    "Een toestemmingsstelsel waarin vergunning alleen kan worden verleend bij een van enkele limitatieve gronden (instandhouding niet langer verantwoord, zwaarwegende maatschappelijke reden) valt tussen W2 (limitatieve gronden) en W3 (weigeren tenzij); gescoord als W3 met minimum 2."
+  ],
+  "gm_code": "GM0269",
+  "gemeente": "Oldebroek",
+  "brondocument": "Verordening voor de fysieke leefomgeving gemeente Oldebroek 2024 (VFL), hoofdstuk 3 Houtopstanden: art. 3.1 t/m 3.4, 3.6, 3.7, 3.13, 10.1; Bomenverordening Oldebroek 2019 (alleen nog art. 1, 8, 15 en Bijlage 1 Bomenlijst); Legesverordening Oldebroek 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR703813/2 ; https://lokaleregelgeving.overheid.nl/CVDR626127/2 ; https://lokaleregelgeving.overheid.nl/CVDR751682/2 ; https://lokaleregelgeving.overheid.nl/CVDR696247/2",
+  "datum_geldigheid": "VFL CVDR703813_2 geldend vanaf 2025-04-30 t/m heden; Bomenverordening CVDR626127_2 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "VFL: versie 2 per 2025-04-30 (oorspronkelijk in werking 2024-01-01). Bomenverordening 2019: versie 2 per 2024-01-01 (art. 3, 4, 6, 7 en 13 vervallen).",
+  "juridische_plaats": "VFL (werkt als omgevingsplanactiviteit): legesverordening 2026 (CVDR751682_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten. De APV-afdeling 'Het bewaren van houtopstanden' is vervallen.",
+  "praktijkcontrole": "Maar 1 bekendmaking gevonden sinds 2025 (op titel, 0 besluiten, 0 aanvragen); de zoekmethode mist waarschijnlijk besluiten en zegt weinig. De Nota Handhaving fysieke leefomgeving (jaarverslag 2025, CVDR756219_1) meldt: 'In 2025 zijn er zijn er 28 omgevingsvergunningen voor het onderdeel kappen ingediend' (2024: 43). Dat zijn aanvragen voor kap in het algemeen en zeggen niet of het lijst-, gemeente- of andere bomen betreft; geen grondslag genoemd. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 3 bekendmakingen sinds 1-1-2025, waarvan 1 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning van het college voor het vellen van houtopstanden die op de Bomenlijst staan, en van gemeentelijke houtopstanden (VFL art. 3.4 lid 1). Verder geen toestemmingsplicht voor particuliere bomen.",
+  "drempel": "Geen omvangdrempel: alleen bomen op de Bomenlijst Oldebroek, ongeacht omvang. (Definitie 'boom' in art. 3.1 onder b: 'een dwarsdoorsnede van de stam van minimaal 10 centimeter op 1,3 meter hoogte boven het maaiveld'; die drempel werkt niet als algemeen kapverbod.)",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem); definitie boom op 1,3 m",
+  "reikwijdte": "VFL art. 3.2: 'Deze verordening is van toepassing op houtopstanden: a. die gelegen zijn binnen de bebouwde kom als bedoeld in artikel 4.1, onderdeel a, van de Wet Natuurbescherming, en: b. die niet gelegen zijn binnen de bebouwde kom, voor zover het gaat om houtopstanden als bedoeld in artikel 4.1, onderdelen b (houtopstanden op erven of in tuinen)'. Het verbod (art. 3.4 lid 1) geldt alleen voor 'a. ... benoemd op de in artikel 3.3, eerste lid genoemde lijst, of b. het een gemeentelijke houtopstand betreft'. Ook een boom die is geplant 'op grond van de verplichting die voortvloeit uit de herplantplicht' na kap van een lijstboom valt eronder (lid 3).",
+  "uitzonderingen": "Art. 3.4 lid 2: verbod niet voor vellen krachtens de Plantenziektewet, op bevel van de burgemeester of op grond van een door het college opgelegde verplichting, knotten als noodzakelijke beheermaatregel, en 'het periodiek vellen van hakhout of uitvoeren van een dunning in een houtopstand ter uitvoering van het reguliere onderhoud'. Gangbare uitzonderingen; geen tuinuitzondering.",
+  "weigeringsgronden": "VFL art. 3.4 lid 4: 'Het college kan een vergunning voor vellen verlenen indien sprake is van: a. instandhouding niet langer verantwoord is; b. het verplanten van een houtopstand, waarbij dit geen bedreiging vormt voor het duurzaam behoud van deze houtopstand; c. een zwaarwegende maatschappelijke reden voor kap van een houtopstand, waarbij alle redelijke alternatieven zijn onderzocht; d. een gemeentelijke houtopstand ...'. Bij grond a of b is een advies van een boomtechnisch deskundige nodig. Vergunning is dus alleen mogelijk bij een van deze gronden.",
+  "herplantplicht": "VFL art. 3.6 lid 1: 'Onverminderd het bepaalde in artikel 1.6 verbindt het college aan een vergunning in ieder geval als voorschrift dat binnen een door het college te bepalen termijn en overeenkomstig door het college te geven aanwijzingen wordt herplant, tenzij omstandigheden zich daartegen verzetten.' Na illegale kap (art. 3.7 lid 1): 'kan het college de verplichting opleggen ... dat ... wordt herplant'. Geen beleidsregel over herplant gevonden.",
+  "herplant_ontsnapping": "'tenzij omstandigheden zich daartegen verzetten' (art. 3.6 lid 1); het college bepaalt termijn en aanwijzingen per geval. Bij illegale kap: art. 3.7 lid 2 'Indien herplant niet in redelijkheid op hetzelfde perceel of in de directe omgeving kan geschieden, kan in plaats van de in het eerste lid bedoelde verplichting worden opgelegd dat een door het college te bepalen bedrag, dat gelijk is aan de herplantwaarde ter compensatie wordt gestort in het Bomenfonds'. Herplant na illegale kap is een bevoegdheid ('kan'), geen plicht.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "VFL art. 3.13: 'Degene aan wie een voorschrift als bedoeld in artikel 3.6, eerste lid, of in artikel 3.7 is gegeven ... alsmede diens rechtsopvolger, is gehouden dienovereenkomstig te handelen.' Art. 10.1 lid 1: 'Behoudens het bepaalde in de Wet economische delicten wordt overtreding van het bepaalde bij of krachtens deze verordening gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Daarnaast het algemene instrumentarium (bestuursdwang, dwangsom). Het opleggen van herplant na vellen zonder vergunning is in het ondermandaatbesluit (CVDR750726_1, nr. 19) bij het college belegd.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling in VFL art. 10.1 lid 1 (hechtenis max. 3 maanden of geldboete tweede categorie, 'Behoudens het bepaalde in de Wet economische delicten'). WED via de Omgevingswet: legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow (WED art. 1a onder 2 via Ow 5.1). Art. 10.1 lid 2 wijst WED-feiten aan voor 'artikelen 8.4, 8.6, 8.8 tot en met 8.10 en 8.12 tot en met 8.19' en dus niet voor hoofdstuk 3 (zie opmerkingen). Geen bestuurlijke boete voor kappen gevonden. Herplant na illegale kap: 'kan' (art. 3.7).",
+  "procedure": "Omgevingsvergunning voor een omgevingsplanactiviteit; leges art. 2.30 legesverordening 2026: EUR 141,90 (tarief voor vellen van houtopstand; ook voor aanlegstelsel). Beslistermijn, bezwaar en beroep niet apart gelezen (APV art. 1:2 lid 3 sluit omgevingsvergunning uit).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 530,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "regels (bomen) in Bijlage 1 Bomenlijst bij de Bomenverordening Oldebroek 2019 (CVDR626127_2, geldend); particulier aantal niet vast te stellen uit de lijst (kolommen: nummer, straat, huisnummer, kern, soort), maar de toelichting zegt dat de lijst bestaat uit 'Individuele particuliere bomen, die van grote waarde zijn' en herplantbomen",
+  "status": "ok",
+  "ontbrekend": "Niet vast te stellen hoeveel van de 530 lijstregels particulier zijn. Niet te controleren of de bijlage in CVDR de laatste door het college vastgestelde lijst is (VFL art. 3.3 lid 1: 'Het college stelt de lijst van waardevolle houtopstanden vast'; art. 10.4 lid 1 laat de bomenlijst gelden). Geen beleidsregel over herplant of handhaving van kap gevonden. Omgevingsplan in het DSO niet ingezien. Beslistermijn en bezwaar niet apart gelezen.",
+  "artikelnummers": [
+    "VFL 3.1",
+    "VFL 3.2",
+    "VFL 3.3",
+    "VFL 3.4",
+    "VFL 3.6",
+    "VFL 3.7",
+    "VFL 3.13",
+    "VFL 10.1",
+    "VFL 10.4",
+    "Bomenverordening 2019 art. 1, 8, Bijlage 1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Citaat W: 'Het college kan een vergunning voor vellen verlenen indien sprake is van: a. instandhouding niet langer verantwoord is' (VFL art. 3.4 lid 4); alleen bij zwaarwegende maatschappelijke reden of als instandhouding niet langer verantwoord is, dus W3 met minimum 2.",
+    "Citaat H: 'verbindt het college aan een vergunning in ieder geval als voorschrift ... dat ... wordt herplant, tenzij omstandigheden zich daartegen verzetten' (VFL art. 3.6 lid 1): H2. Betaling in het Bomenfonds is alleen mogelijk na illegale kap (art. 3.7 lid 2, 'kan') en verhoogt H niet.",
+    "De hele gemeente (binnen en buiten de bebouwde kom, ook tuinen en erven) valt onder hetzelfde lijststelsel; D is daarom 1. Voor de voorbeeldbomen A en B geldt: geen vergunning tenzij op de lijst.",
+    "De Bomenverordening 2019 (CVDR626127_2) staat nog als geldend in CVDR, maar art. 3, 4, 6, 7 en 13 zijn vervallen; de VFL (art. 10.5 lid 3 sub c) heeft ze overgenomen. Alleen Bijlage 1 (lijst) en art. 8 (Bomenfonds) werken door. De VFL verwijst in art. 3.7 lid 2 naar 'het Bomenfonds als genoemd in de Bomenverordening'.",
+    "Verkeerde verwijzing: VFL art. 10.1 lid 2 wijst als WED-feit aan 'artikelen 8.4, 8.6, 8.8 tot en met 8.10 en 8.12 tot en met 8.19' en niet hoofdstuk 3. S = 1 komt via de legesverordening (omgevingsplanactiviteit) en de strafbepaling in art. 10.1 lid 1.",
+    "Naast particuliere lijstbomen valt ook elke gemeentelijke houtopstand onder het verbod (art. 3.4 lid 1 onder b); die tellen niet voor D op particulier terrein.",
+    "Handhavingsnota's (CVDR756219_1, CVDR756216_1, CVDR735285_1) noemen kappen alleen als taak en geven aantallen aanvragen; ze bevatten geen herplant- of boetebeleid en tellen niet voor H of S.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+  ]
+}

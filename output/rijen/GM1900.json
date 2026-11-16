@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM1900",
+ "gemeente": "Súdwest-Fryslân",
+ "provincie": "Fryslân",
+ "brondocument": "APV 2021 Súdwest-Fryslân afd. 4.3 (CVDR619964_6, art. 4:10-4:12c, 6:1); Bomenbeleidsplan en bomenregister niet in het dossier; leges CVDR754199_1",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR619964/6",
+ "datum_geldigheid": "2026-07-08 t/m heden (CVDR619964_6, geldend op 2026-11-14)",
+ "laatste_wijziging": "2026-07-08 (CVDR619964_6)",
+ "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (verwijst naar art. 22.8 Ow) en APV 6:1 lid 2 (WED-aanwijzing). Omgevingsplan (CVDR696512_4) bevat alleen art. 22.299 aanvraagvereisten.",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 135 (64 besluiten, 71 aanvragen), 7 geweigerd volgens titel (o.a. gmb-2026-356611, gmb-2026-284963, gmb-2026-100299, gmb-2026-14925). Er zijn verleningen voor kap van een boom en van meerdere bomen (o.a. 23 bomen, gmb-2026-272656), ook vergunningen voor enkele bomen. Grondslag staat niet in de besluiten: niet vast te stellen of dat register- of clusterbomen zijn. Het aantal weigeringen wijst op toetsing van individuele bomen.",
+ "vergunningplicht": "vergunning, voor houtopstand die onderdeel is van een groencluster of is opgenomen in het bomenregister",
+ "drempel": "geen omtrekdrempel in art. 4:11; wel aanwijzing via bomenregister of groencluster. 'Boom' is gedefinieerd als dwarsdoorsnede van minimaal 20 cm op 1,3 m hoogte (art. 4:10 lid 1 onder a), ca. 63 cm omtrek; 'houtopstand' omvat ook bomenvormers en andere houtachtige gewassen.",
+ "omtrek_cm": null,
+ "meethoogte": "1,3 m (alleen in definitie boom)",
+ "reikwijdte": "\"Het is verboden een houtopstand die onderdeel uitmaakt van een groencluster of ís opgenomen in het bomenregister, zoals vastgesteld in het bomenbeleidsplan, zonder vergunning van het bevoegd gezag te vellen of te doen veilen.\" (art. 4:11 lid 1). Begrenzing van groenclusters en inhoud van het bomenregister staan in het Bomenbeleidsplan, dat niet in het dossier zit.",
+ "uitzonderingen": "Art. 4:11 lid 2: Plantenziektewet/plotselinge gevaarzetting/aanschrijving; periodiek vellen van hakhout en bosplantsoen; periodiek knotten of kandelaberen. Lid 3: toestemming burgemeester bij spoed of direct gevaar.",
+ "weigeringsgronden": "Art. 4:12a lid 1: \"Het bevoegd gezag kan de vergunning weigeren op één of meer van de volgende gronden: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde\". Lid 2: voor bomenregisterbomen vergunning \"mits alternatieven voor behoud zijn onderzocht\" alleen bij algemeen maatschappelijk belang, onverantwoord behoud of voorkomen van letsel of schade.",
+ "herplantplicht": "Art. 4:11 lid 4: \"Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.\" Lid 5: \"De voorschriften kunnen ook betrekking hebben op een financiële compensatie als directe herplant niet mogelijk is.\"",
+ "herplant_ontsnapping": "Geen verplichting zonder besluit: \"kan\" (bevoegdheid, per geval). Financiële compensatie is een mogelijkheid (\"kunnen\"), geen plicht.",
+ "sancties": "WED-aanwijzing in de regeling: APV 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... en 4:11, eerste lid.\" Geen bestuurlijke boete gevonden. Voor herplant na illegale kap geen bepaling gevonden in de APV.",
+ "procedure": "Leges art. 2.30: EUR 242,50 (CVDR754199_1, in werking 2026-01-01). Art. 4:11 lid 6: positieve fictieve beschikking (Awb 4.1.3.3). Art. 4:12b: geldigheidsduur vergunning beperkbaar. Aanvraagvereisten omgevingsplan art. 22.299.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Geen specifieke bepaling over niet nakomen van een herplantvoorschrift in art. 4:11-4:12c. Art. 1:4 lid 2 (voorschriften nakomen) \"is niet van toepassing op een omgevingsvergunning\" (lid 3); de algemene strafbepaling art. 6:1 lid 1 geldt voor \"het bij of krachtens deze verordening bepaalde\". Het Bomenbeleidsplan is niet gelezen.",
+ "herplant_niet_nakomen_type": "onbekend",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": false,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "bomenregister en groenclusters niet ingezien: het Bomenbeleidsplan waarnaar art. 4:11 verwijst staat niet in het dossier en is niet gevonden in de CVDR-zoekdienst of op sudwestfryslan.nl (enkele requests)",
+ "status": "onzeker",
+ "ontbrekend": "Kernbron ontbreekt: het Bomenbeleidsplan (met bomenregister en begrenzing van groenclusters) zit niet in het dossier en is niet gevonden. Daardoor onbekend hoeveel particuliere bomen onder het regime vallen (D tussen 0 en 2) en of het bomenbeleidsplan herplant of handhaving verder regelt.",
+ "artikelnummers": [
+  "APV 4:10, 4:11, 4:12, 4:12a, 4:12b, 4:12c, 6:1 (CVDR619964_6)",
+  "leges art. 2.30 (CVDR754199_1)",
+  "omgevingsplan art. 22.299 (CVDR696512_4, alleen aanvraagvereisten)",
+  "Vaststelling Bebouwde kom Wnb (CVDR693772_1, alleen kaartverwijzing)"
+ ],
+ "opmerkingen": [
+  "Peildatum 2026-11-14. Puntschatting D1: het verbod geldt alleen voor het bomenregister (individuele bomen) en groenclusters (begrensde gebieden). Bereik D0-D2: omdat het bomenbeleidsplan niet is gelezen is niet vast te stellen of er particuliere bomen op het register staan (D0) of dat de groenclusters een substantieel deel van de gemeente beslaan (D2).",
+  "W: \"Het bevoegd gezag kan de vergunning weigeren op één of meer van de volgende gronden: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand;\" (art. 4:12a lid 1) = W2; voor registerbomen is lid 2 strenger (alleen bij maatschappelijk belang, mits alternatieven onderzocht), vandaar max W3.",
+  "H: \"Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.\" (art. 4:11 lid 4) = H1.",
+  "S1: WED-aanwijzing in APV 6:1 lid 2 voor art. 4:11 lid 1.",
+  "Boom A en B: alleen vergunningplichtig als de boom op het register staat of in een groencluster valt; dat is voor een achtertuin niet vast te stellen, daarom 'alleen als op lijst'."
+ ],
+ "modelsignalen": [
+  "Verbod gekoppeld aan 'groencluster' (begrensd gebied, begrenzing in beleidsplan) naast een register: past niet netjes in D1 (individuele bomen) of D2 (aangewezen gebieden) zolang de omvang niet bekend is.",
+  "Regime verwijst voor de reikwijdte naar een beleidsplan (niet in CVDR-dossier): kernbron ontbreekt."
+ ]
+}

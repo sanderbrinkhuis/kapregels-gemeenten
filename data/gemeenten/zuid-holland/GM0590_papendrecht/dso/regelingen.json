@@ -1,0 +1,66 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0590/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Papendrecht",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0590/2025/omgevingsvisie/nld@2025-06-05",
+    "beginGeldigheid": "2025-06-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2025/000023",
+    "titel": "Actieplan Geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0590/2025/000023/nld@2025-09-08",
+    "beginGeldigheid": "2025-09-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2025_000023?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2025/000009",
+    "titel": "Water- en rioleringsprogramma 2025-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0590/2025/000009/nld@2025-10-21",
+    "beginGeldigheid": "2025-10-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2025_000009?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie",
+    "titel": "Programma Klimaatadaptatie gemeente Papendrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie/nld@2025-11-20",
+    "beginGeldigheid": "2025-11-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2025_PrgKlimaatadaptatie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2025/Warmteprogramma",
+    "titel": "Warmteprogramma Papendrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0590/2025/Warmteprogramma/nld@2025-12-12",
+    "beginGeldigheid": "2025-12-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2025_Warmteprogramma?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2026/ProgrammaLaden",
+    "titel": "Programma Laden gemeente Papendrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0590/2026/ProgrammaLaden/nld@2026-02-26;1",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2026_ProgrammaLaden?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2026/ProgrammaCentrum",
+    "titel": "Programma Centrum gemeente Papendrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0590/2026/ProgrammaCentrum/nld@2026-09-03;1",
+    "beginGeldigheid": "2026-09-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2026_ProgrammaCentrum?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0590/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Papendrecht",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0590/2020/omgevingsplan/nld@2026-10-08",
+    "beginGeldigheid": "2026-11-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0590_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:05Z"
+  }
+]

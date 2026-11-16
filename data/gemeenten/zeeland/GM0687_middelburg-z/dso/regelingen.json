@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0687/2024/Regeling76c01d80372f43369798d6bba6323f7c",
+    "titel": "Voorbeschermingsregels gemeente Middelburg",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0687/2024/Regeling76c01d80372f43369798d6bba6323f7c/nld@2024-08-07;13280914",
+    "beginGeldigheid": "2024-08-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0687_2024_Regeling76c01d80372f43369798d6bba6323f7c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0687/2025/Regeling5159894ead2642d8b8e072b815f3ccee",
+    "titel": "Voorbeschermingsregels gemeente Middelburg",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0687/2025/Regeling5159894ead2642d8b8e072b815f3ccee/nld@2025-02-11;15033022",
+    "beginGeldigheid": "2025-02-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0687_2025_Regeling5159894ead2642d8b8e072b815f3ccee?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0687/2025/Regeling90eaf184cb334d3da1543254374aa9bd",
+    "titel": "Voorbeschermingsregels Omgevingsplan gemeente Middelburg",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0687/2025/Regeling90eaf184cb334d3da1543254374aa9bd/nld@2025-02-25;14572157",
+    "beginGeldigheid": "2025-02-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0687_2025_Regeling90eaf184cb334d3da1543254374aa9bd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0687/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Middelburg",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0687/2020/omgevingsplan/nld@2025-05-26;13243319",
+    "beginGeldigheid": "2025-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0687_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0687/2025/Regelingad21eaad71824b4797db43ae1eb55f02",
+    "titel": "Voorbeschermingsregels gemeente Middelburg",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0687/2025/Regelingad21eaad71824b4797db43ae1eb55f02/nld@2025-11-20;14033421",
+    "beginGeldigheid": "2025-11-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0687_2025_Regelingad21eaad71824b4797db43ae1eb55f02?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0687/2026/Regelingbb62654bead440d1ba87bbe4d541e612",
+    "titel": "Voorbeschermingsregels bedrijventerrein Arnestein en enkele percelen bedrijventerrein Mortiere",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0687/2026/Regelingbb62654bead440d1ba87bbe4d541e612/nld@2026-10-15;11440208",
+    "beginGeldigheid": "2026-10-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0687_2026_Regelingbb62654bead440d1ba87bbe4d541e612?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:13Z"
+  }
+]

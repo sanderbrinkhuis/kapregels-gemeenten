@@ -1,0 +1,88 @@
+{
+ "gm_code": "GM0546",
+ "gemeente": "Leiden",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Verordening voor de fysieke leefomgeving Leiden 2020 (VFL), art. 2.4.1.1, 2.4.1.2, 3.6.1.1, 3.6.1.2, 3.6.1.6, 3.6.1.9, 3.6.1.10, 5.1.1.1, 7.1.2.2 en bijlage 1 (begrippenlijst), CVDR645163_21; Beleidsregel houtopstanden Leiden 2023 (art. 6), CVDR714932_1; leges 2026 art. 2.29, CVDR751716_2; omgevingsplan art. 22.299 (alleen aanvraagvereisten), CVDR696352_3.",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR645163/21",
+ "datum_geldigheid": "VFL CVDR645163_21 geldend van 2026-02-07 t/m heden; Beleidsregel CVDR714932_1 geldend van 2024-02-06 t/m heden; leges CVDR751716_2 geldend van 2026-10-01 t/m heden; omgevingsplan CVDR696352_3 geldend van 2026-04-16 t/m heden",
+ "laatste_wijziging": "VFL versie 21 per 2026-02-07 (of de kapartikelen in die versie zijn gewijzigd is niet nagegaan); beleidsregel ongewijzigd sinds 2024-02-06",
+ "juridische_plaats": "VFL (paragraaf 3.6.1), werkt als omgevingsplanactiviteit: leges art. 2.29 spreekt van 'het kappen van een boom, bedoeld in artikel 3.6.1.2 e.v. van de Verordening voor de fysieke leefomgeving Leiden 2020 in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan bevat alleen aanvraagvereisten (art. 22.299).",
+ "praktijkcontrole": "179 bekendmakingen sinds 2025 (zoekmethode titel): 82 besluiten, 97 aanvragen, 0 geweigerd volgens titel. Steekproef van 10 besluiten: geen grondslag genoemd. Een deel van de verleende vergunningen gaat over kap van een of enkele bomen op een particuliere locatie (tel niet gedaan), de meeste over openbare ruimte of projecten. Past bij een regime met aanvraagplicht voor waardevolle bomen, geen indicatie van een breder regime.",
+ "vergunningplicht": "Vergunning van het college voor het vellen van een 'waardevolle houtopstand' in de niet-openbare ruimte (art. 3.6.1.2 lid 1). Een houtopstand is waardevol als die aan de criteria van de Groene Norm voldoet (art. 2.4.1.1 lid 3) of onderdeel is van een waardevolle boomstructuur op de kaart (art. 2.4.1.2).",
+ "drempel": "Art. 2.4.1.1 lid 3: monumentaal 'minimale leeftijd van 80 jaar of minimale stamdiameter van 80 centimeter gemeten op 1,3 meter boven het maaiveld (gelijk aan 250 centimeter stamomtrek)'; ecologisch 'minimaal drie punten en een minimale leeftijd van 50 jaar of minimale stamdiameter van 50 centimeter gemeten op 1,3 meter boven het maaiveld (gelijk aan 157 centimeter stamomtrek)'; bijzondere waarde: een boomsoort 'waarvan maximaal tien exemplaren, met een minimale stamdiameter van 14 centimeter op 1,3 meter hoogte, voorkomen binnen de gemeente Leiden'. Een houtopstand begint bij 45 cm omtrek (bijlage 1: 'stamomtrek van minimaal 45 centimeter, gelijkstaand aan een diameter van 14 centimeter').",
+ "omtrek_cm": 157,
+ "meethoogte": "1,30 m (laagste omtrekdrempel voor gewone soorten: 50 cm diameter = 157 cm omtrek; voor de leeftijdscriteria (80 resp. 50 jaar) is geen omtrek gegeven)",
+ "reikwijdte": "Hele gemeente, alleen niet-openbare ruimte (particulier terrein), art. 3.6.1.2 lid 1: 'Het is niet toegestaan om zonder vergunning van het college een houtopstand die voldoet aan de criteria voor waardevolle houtopstanden, waaronder begrepen een houtopstand die onderdeel is van een waardevolle boomstructuur, in de niet-openbare ruimte te vellen of te doen vellen.' Er is geen bomenlijst met losse bomen: alle houtopstanden worden getoetst aan de criteria (art. 2.4.1.1 lid 2). Waardevolle boomstructuren staan op een kaart (beleidsregel art. 8: structuren 'in de openbare ruimte in eigendom van de gemeente'). Voor de openbare ruimte geldt een vergunningplicht voor alle houtopstanden (art. 3.6.1.4).",
+ "uitzonderingen": "Art. 3.6.1.2 lid 2: 'Het verbod als bedoeld in het eerste lid geldt niet voor een houtopstand die moet worden geveld krachtens de Plantgezondheidswet of krachtens een last onder bestuursdwang van het college.' Art. 3.6.1.12: noodkap of sterk dreigend gevaar. Beheerkap (art. 3.6.1.4 lid 5) is alleen voor publiekrechtelijke rechtspersonen in de openbare ruimte. Geen tuin-, perceel- of soortuitzondering voor particulieren, dus geen correctie.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen bomenlijst met losse bomen; criteriastelsel (Groene Norm). De Kaart met Waardevolle boomstructuren (https://kaart.leiden.nl/waardevolle-boomstructuren) bevat volgens de beleidsregel structuren in de openbare ruimte van de gemeente; niet ingezien. Het Register Ecologische Bomen is een lijst van boomsoorten, geen bomenregister.",
+ "weigeringsgronden": "VFL art. 3.6.1.9 lid 1: 'De vergunning kan in ieder geval worden geweigerd als het maatschappelijk belang waarvoor de houtopstand moet wijken onvoldoende is aangetoond of als de onveiligheid of gevaarzetting onvoldoende is aangetoond.' Lid 3: weigering kan als naar boomtechnisch deskundige maatstaven alternatieven niet voldoende zijn onderzocht, gevaar of overlast niet voldoende is aangetoond of de compensatieboom niet voldoende bijdraagt aan ecologie, klimaat en beeldkwaliteit. Beleidsregel art. 6 (vastgesteld beleid): 'Waardevolle houtopstanden mogen in principe alleen gekapt worden als sprake is van een aantoonbaar risico (voor omgeving en/of verkeer) wat niet duurzaam met boomsparende maatregelen weggenomen kan worden of bij een groot maatschappelijk belang.' W3 (beleid), minimum 2 (verordening: belangenafweging).",
+ "herplantplicht": "VFL art. 3.6.1.6 lid 1: 'Tenzij in deze verordening of de vergunning van het college anders is bepaald, is de vergunninghouder verplicht een te vellen houtopstand te verplanten op hetzelfde perceel of in de nabije omgeving'. Lid 2: bij onmogelijk verplanten 'wordt in afwijking van het vorige lid aan de vergunninghouder de verplichting opgelegd een compensatieboom aan te planten'. Lid 4: 'Als uit de bij de aanvraag gevoegde en door het college goedgekeurde alternatievenstudie blijkt dat het aanplanten van een compensatieboom niet mogelijk is, moet een financiële compensatie plaatsvinden.' De storting gaat naar het Bomenfonds en is gelijk aan 'de actuele vervangingskosten' (art. 5.1.1.1 lid 2). H3.",
+ "herplant_ontsnapping": "Art. 3.6.1.6 lid 7: 'Het college kan bepalen dat van de verplichtingen als opgenomen in dit artikel mag worden afgeweken als de redelijkheid zich tegen nakoming van deze verplichtingen verzet.' Daarnaast 'Tenzij in deze verordening of de vergunning van het college anders is bepaald' (lid 1). Betalen in plaats van herplanten is verplicht als aanplant niet mogelijk is (lid 4). Beslist het college, per geval. Na illegale kap: zie art. 3.6.1.10 lid 2 ('kan').",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Strafbepaling art. 7.1.2.2 lid 1: 'Degene die handelt in strijd met het bij of krachtens artikel 3.6.1.2 tot en met artikel 3.6.1.6, en artikel 3.6.1.11 tweede lid bepaalde kan worden gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Het herplantartikel 3.6.1.6 wordt genoemd.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED via de Omgevingswet (route: leges art. 2.29 noemt het kappen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'). Daarnaast eigen strafbepaling art. 7.1.2.2 lid 1: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie', waarbij 'rekening worden gehouden met de actuele vervangingskosten'. Herplant na illegale kap: art. 3.6.1.10 lid 2: 'kan het college door middel van een herstelsanctie de verplichting opleggen om te compenseren'; bij onmogelijkheid storting van de vervangingskosten in het Bomenfonds. Geen bestuurlijke boete in de regeling. S1.",
+ "procedure": "Leges 2026 art. 2.29: € 80,85 voor 1 waardevolle boom, € 404,25 voor 2-10, € 808,50 voor meer dan 10 (CVDR751716_2). Aanvraagvereisten in art. 3.6.1.7 en omgevingsplan art. 22.299. Bezwaar en beroep: algemene Awb-procedure. Beslistermijn niet in de kapartikelen geregeld.",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "status": "ok",
+ "ontbrekend": "Kaart met Waardevolle boomstructuren niet ingezien (volgens de beleidsregel alleen structuren in gemeentelijk eigendom). Leeftijd (80 of 50 jaar) en ecologische waardering van een individuele boom zijn niet uit de tekst af te leiden.",
+ "artikelnummers": [
+  "VFL 1.4",
+  "VFL 2.4.1.1",
+  "VFL 2.4.1.2",
+  "VFL 3.6.1.1",
+  "VFL 3.6.1.2",
+  "VFL 3.6.1.6",
+  "VFL 3.6.1.9",
+  "VFL 3.6.1.10",
+  "VFL 3.6.1.12",
+  "VFL 5.1.1.1",
+  "VFL 7.1.2.2",
+  "VFL bijlage 1 (houtopstand, niet-openbare ruimte)",
+  "Beleidsregel houtopstanden Leiden 2023 art. 6, 8, 9",
+  "Leges 2.29",
+  "Omgevingsplan 22.299"
+ ],
+ "opmerkingen": [
+  "D2, bereik 2-3: heel Leiden, particulier terrein, alleen 'waardevolle' houtopstanden. De drempels in omtrek zijn hoog (250 cm monumentaal, 157 cm ecologisch, dus boven 100 cm = D2). Het criterium 'minimale leeftijd van 80 jaar' (monumentaal) en 'bijzondere waarde' (zeldzame soort vanaf 14 cm diameter = ca. 44 cm omtrek) kent geen of een lage omtrekdrempel; omdat dat maar een beperkte groep bomen betreft is D2 de puntschatting, met maximum 3 vanwege de onzekerheid.",
+  "W3 (min 2): verordening art. 3.6.1.9 'kan ... worden geweigerd' is een belangenafweging (W2); de vastgestelde beleidsregel (CVDR714932_1, in werking 2024-02-06, geldend) zegt 'in principe alleen gekapt' bij aantoonbaar risico of groot maatschappelijk belang. Volgens het besluit over strengere toetsing in beleid telt dat als W3.",
+  "H3 (min 2): art. 3.6.1.6 is geschreven voor 'de vergunninghouder' van vergunningen in paragraaf 3.6.1; ook voor een vergunning op grond van art. 3.6.1.2. Lid 5 (waarborgsom) geldt alleen bij ruimtelijke ontwikkeling en telt niet mee. Minimum 2 omdat het artikel niet uitdrukkelijk zegt dat het ook voor particuliere waardevolle bomen geldt.",
+  "S1: WED via Omgevingswet (leges 2.29) en eigen strafbepaling. Beide leiden tot S1. Herplant na illegale kap is 'kan', zonder bestuurlijke boete.",
+  "Boom A (80 cm omtrek, ca. 25 cm doorsnee) en boom B (40 cm omtrek, ca. 13 cm doorsnee): beide 'nee'. A is te klein voor het monumentale (250 cm) en het ecologische (157 cm) criterium. Alleen een boom van een uiterst zeldzame soort (maximaal tien exemplaren in Leiden) of een herdenkingsboom of een boom in een monumentaal ensemble zou beschermd zijn; dat is soort- of situatiegebonden. B is kleiner dan 45 cm omtrek en daarmee geen 'houtopstand' (bijlage 1).",
+  "Beheerkap (art. 3.6.1.4 lid 5) is vergunningvrij maar alleen voor publiekrechtelijke rechtspersonen in de openbare ruimte; telt niet voor particulieren.",
+  "Voor houtopstanden in de openbare ruimte geldt een vergunningplicht zonder criteria (art. 3.6.1.4); die regel gaat niet over particulier terrein en telt niet voor D.",
+  "Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten; de kapregel staat in de VFL."
+ ],
+ "modelsignalen": [
+  "Leiden: criteriastelsel in plaats van lijst of omtrekdrempel. Het regime beschermt alleen 'waardevolle' bomen (hoge omtrekdrempel, leeftijdscriterium zonder omtrek, zeldzame soort vanaf 44 cm omtrek), maar niet via een bomenlijst. INTENT.md kent geen regel voor criteriastelsels. Advies: scoren als hele gemeente met hoge drempel (D2, bereik tot 3) en in het rapport als apart type 'criteriastelsel' benoemen."
+ ]
+}

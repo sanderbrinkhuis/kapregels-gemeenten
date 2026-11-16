@@ -1,0 +1,78 @@
+{
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "modelsignalen": [
+    "Kerkrade: de uitzondering 'achtertuinen behorende bij woningen met een perceeloppervlakte kleiner dan 250 m2' is gescoord als ruime tuinuitzondering (-1). Voor de voorbeeldbomen (achtertuin, perceelgrootte niet gegeven) geeft INTENT.md geen eenduidig antwoord: boom A (omtrek 80 cm, ca. 25,5 cm doorsnede) valt onder het verbod, tenzij het perceel kleiner is dan 250 m2. Gescoord als 'ja'.",
+    "Kerkrade: de regels staan in een Bomenverordening uit 2012 die nog naar de Wabo verwijst en geen eigen strafbepaling voor het kapverbod heeft (de toelichting zegt dat Wabo art. 2.3 en WED het kapverbod strafbaar stellen). De geldende APV 2026 art. 6:1 lid 2 wijst de kapregel niet aan voor de WED. De WED-route loopt alleen via Ow 5.1 en art. 22.8 Ow (leges art. 2.30). INTENT.md zegt niet zeker of een losse verordening die nog Wabo-taal gebruikt als omgevingsplanregel telt; gescoord als S1.",
+    "Kerkrade: drempel is een 'doorsnede groter dan 25 centimeter' zonder meethoogte-afwijking (1,3 m); omgerekend omtrek ca. 78,5 cm (D3 voor de correctie). Als de doorsnede 25 cm exact is, valt de boom net buiten het verbod; boom A met 80 cm omtrek (ca. 25,5 cm) valt er net binnen."
+  ],
+  "gm_code": "GM0928",
+  "gemeente": "Kerkrade",
+  "brondocument": "Bomenverordening Kerkrade 2012 (art. 1, 2, 4-7, 12); Legesverordening 2026 art. 2.30; Omgevingsplan gemeente Kerkrade art. 22.299; APV gemeente Kerkrade 2026 art. 6:1 (gecontroleerd)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR233231/1 ; https://lokaleregelgeving.overheid.nl/CVDR753806/1 ; https://lokaleregelgeving.overheid.nl/CVDR696445/2 ; https://lokaleregelgeving.overheid.nl/CVDR753819/1",
+  "datum_geldigheid": "Bomenverordening CVDR233231_1 geldend vanaf 2012-11-22 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "Bomenverordening: enige versie (2012-11-22); op lokaleregelgeving.overheid.nl laatst bijgewerkt 2017-09-19 (alleen technisch). APV 2026 (CVDR753819_1) per 2026-01-01.",
+  "juridische_plaats": "Bomenverordening (losse verordening). Werkt als omgevingsplanactiviteit: Legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in een provinciale verordening of de Bomenverordening Kerkrade 2012 in samenhang met artikel 22.8 van de Omgevingswet en artikel 2.1a van het Omgevingsbesluit'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 1 bekendmaking op titel, een herstelbesluit voor het kappen van vier bomen (gmb-2026-501811); geen grondslag genoemd. Geen weigeringen gevonden. Te weinig om iets over het regime af te leiden. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 207 bekendmakingen sinds 1-1-2025, waarvan 49 besluiten en 3 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van de houtopstanden in art. 2 lid 1: bomen op de lijst van waardevolle en monumentale bomen, bomen met een doorsnede groter dan 25 cm, en houtopstanden in de hoofdgroenstructuur of bomenstructuur/boomzone.",
+  "drempel": "Doorsnede groter dan 25 cm, gemeten op 1,3 m boven het maaiveld (art. 2 lid 1 sub c; art. 1 sub a); bij meerstammigheid de dikste stam",
+  "omtrek_cm": 78.5,
+  "meethoogte": "1,3 m boven het maaiveld",
+  "reikwijdte": "Art. 2 lid 1: 'c. bomen met een doorsnede groter dan 25 centimeter;' naast lijstbomen (sub a en b) en groenstructuur (sub d). Geen beperking tot de bebouwde kom: hele gemeente, particulier en openbaar. Uitzondering voor achtertuinen: zie uitzonderingen.",
+  "uitzonderingen": "Art. 2 lid 2: 'Het in het eerste lid gestelde verbod geldt niet voor houtopstand: a. in achtertuinen behorende bij woningen met een perceeloppervlakte kleiner dan 250 m 2 , tenzij de houtopstand voorkomt op de door het college vastgestelde lijst van waardevolle en monumentale bomen; b. die aantoonbaar op bedrijfseconomische wijze worden geëxploiteerd ...'. Lid 3: Plantenziektenwet of aanschrijving, periodiek hakhout, knotten/kandelaberen (gangbaar). Tuinuitzondering: achtertuinen van percelen kleiner dan 250 m2: -1 op D. Art. 4 lid 9: acuut gevaar met toestemming van de burgemeester.",
+  "weigeringsgronden": "Art. 4 lid 2: 'Een omgevingsvergunning wordt geweigerd indien het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van houtopstand: esthetische waarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; ecologische waarden; waarden voor recreatie en leefbaarheid; vitaliteitswaarde.' Lid 1: 'Bevoegd gezag kan de vergunning om te vellen weigeren dan wel onder voorschriften verlenen.' Voor lijstbomen (lid 3): 'In beginsel wordt geen omgevingsvergunning verleend'; dat is een strenger regime voor een klein deel van de bomen en telt niet voor W.",
+  "herplantplicht": "Art. 6 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een vergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in een gemeentelijk herplantfonds/herplantvoorziening.' Geen beleidsregel over herplant of compensatie gevonden onder de geldende regelingen.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren het voorschrift' (art. 6 lid 1); het bevoegd gezag beslist per geval. Betalen in plaats van planten 'kan' alleen als voorschrift worden opgelegd (art. 6 lid 2). Na illegale kap: art. 7 lid 1 'kan ... de verplichting opleggen te herbeplanten'; art. 7 lid 2 'wordt een financiële bijdrage gestort gelijk aan de boomwaarde' als niet ter plaatse kan worden herplant (alleen bij illegale kap of teniet gaan).",
+  "sancties": "Eigen strafbepaling voor het kapverbod: geen. Art. 12 lid 2 (hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie) geldt alleen voor art. 10 (iepenziekte) en art. 11 (publieke houtopstand). De APV Kerkrade 2026 art. 6:1 lid 2 wijst voor de WED alleen art. 2:10, 2:11, 2:12 lid 1 en 4:11 lid 2 aan, niet de kapregel; de APV bevat geen kapregel (geen treffer op houtopstand of Bomenverordening). WED via Omgevingswet art. 5.1 (leges art. 2.30 behandelt het kapverbod als omgevingsplanactiviteit in samenhang met art. 22.8 Ow). Herplant na illegale kap 'kan' worden opgelegd (art. 7 lid 1) en boomwaarde-storting bij onmogelijke herplant (art. 7 lid 2). Geen bestuurlijke boete.",
+  "procedure": "Leges 2026 (CVDR753806_1) art. 2.30: € 77,30. Schriftelijke gemotiveerde aanvraag met situatieschets (art. 3 lid 1). Publicatie, bezwaar en beroep en beslistermijn: verordening verwijst naar de Wabo-procedure (inleiding); niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 6 lid 7: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd is verplicht daaraan te voldoen.' Art. 7 lid 5: idem. Een strafbepaling voor het niet nakomen ontbreekt: art. 12 lid 1 en 2 noemen alleen de voorschriften van art. 10 en art. 11. De inleiding zegt: 'Strafbaarstelling van overtreding van het kapverbod of voorschriften ... zijn eveneens verwijderd.' Alleen het algemene instrumentarium (Awb) blijft.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing voor D: het regime is een omvangdrempel voor de hele gemeente; de lijst van waardevolle en monumentale bomen is niet ingezien (korte zoekpoging op de gemeentelijke website leverde niets op) en bepaalt D niet",
+  "status": "ok",
+  "ontbrekend": "Lijst van waardevolle en monumentale bomen en Groenstructuur-/Bomenstructuurplan niet ingezien (bepalen D niet). Omgevingsplan (DSO) niet ingezien; het CVDR-omgevingsplan bevat alleen aanvraagvereisten (art. 22.299). Procedure (bezwaar, beslistermijn) niet apart gelezen.",
+  "artikelnummers": [
+    "Bomenverordening Kerkrade 2012 art. 1, 2, 3, 4, 5, 6, 7, 12",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "APV 2026 art. 6:1 (geen kapregel)"
+  ],
+  "opmerkingen": [
+    "Peildatum 2026-11-14. Geldende tekst: Bomenverordening Kerkrade 2012 (CVDR233231_1), enige versie, nog geldend.",
+    "Strafbepaling nagegaan: het dossier meldt terecht 'geen geldende APV of VFL' in de treffers. Via SRU gevonden: de geldende APV is 'Algemene plaatselijke verordening gemeente Kerkrade 2026' (CVDR753819_1, per 2026-01-01). Deze bevat geen kapregel; art. 6:1 lid 2 wijst de kapregel niet aan voor de WED. De Bomenverordening zelf straft alleen art. 10 en 11 (art. 12). De inleiding van de verordening zegt dat de Wabo (art. 2.3) en de WED het kapverbod strafbaar stellen; onder de Omgevingswet loopt dat via art. 5.1 Ow en art. 22.8 Ow (leges art. 2.30).",
+    "D: omtrek ca. 78,5 cm (25 cm x 3,14), hele gemeente: D3; correctie -1 voor achtertuinen bij woningen op percelen kleiner dan 250 m2: D2.",
+    "W: 'wordt geweigerd indien het belang van verlening niet opweegt tegen ... waarden' is een belangenafweging (W2). Lijstbomen (W3) vormen een klein deel van de bomen.",
+    "H: alleen 'kan'-voorschriften; geen beleidsregel. H1. Herplant en storting na illegale kap (art. 7) verhogen H niet; die tellen bij S.",
+    "Strengheid: D2 W2 H1 S1, I = 4, 33 (Soepel). Boom A (omtrek 80 cm): vergunning nodig tenzij het een achtertuin op een perceel kleiner dan 250 m2 is; boom B (omtrek 40 cm, ca. 12,7 cm): geen vergunning (onder 25 cm en onder de 20 cm van de definitie van boom).",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D2 → D3."
+  ]
+}

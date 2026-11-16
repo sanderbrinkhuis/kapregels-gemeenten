@@ -1,0 +1,31 @@
+{
+  "gemeente": "Lingewaard",
+  "gm_code": "GM1705",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Lingewaard",
+  "zoeknaam_bekendmakingen": "Lingewaard",
+  "opgehaald_op": "2026-11-15T14:09:52+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Lingewaard\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 73,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Lingewaard\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 5,
+  "geldende_regelingen": 24,
+  "geldend_met_kapartikelen": [
+    "CVDR662934_1",
+    "CVDR681448_1",
+    "CVDR681479_1",
+    "CVDR681503_1",
+    "CVDR696484_2",
+    "CVDR750444_2",
+    "CVDR754607_1",
+    "CVDR754717_1",
+    "CVDR755144_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 1,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

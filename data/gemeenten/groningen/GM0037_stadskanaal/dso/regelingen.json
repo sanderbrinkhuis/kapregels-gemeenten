@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0037/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Stadskanaal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0037/2020/omgevingsplan/nld@2026-06-30;15065177",
+    "beginGeldigheid": "2026-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0037_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0037/2025/Regeling2bd1152a2ed4428e874827b315b28aef",
+    "titel": "Omgevingsvisie gemeente Stadskanaal",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0037/2025/Regeling2bd1152a2ed4428e874827b315b28aef/nld@2026-07-07;21012002",
+    "beginGeldigheid": "2026-07-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0037_2025_Regeling2bd1152a2ed4428e874827b315b28aef?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:19Z"
+  }
+]

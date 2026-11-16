@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0363/2024/Regeling89953f93f43f4ad59f58333d8ca80cfd",
+    "titel": "Programma Windenergie Amsterdam 2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0363/2024/Regeling89953f93f43f4ad59f58333d8ca80cfd/nld@2025-02-26;13054161",
+    "beginGeldigheid": "2025-03-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0363_2024_Regeling89953f93f43f4ad59f58333d8ca80cfd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0363/2025/Regeling81d5443889bb441faf72e7b81383e5b8",
+    "titel": "Omgevingsvisie gemeente Amsterdam",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0363/2025/Regeling81d5443889bb441faf72e7b81383e5b8/nld@2026-02-25;10250176",
+    "beginGeldigheid": "2026-02-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0363_2025_Regeling81d5443889bb441faf72e7b81383e5b8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0363/2025/Regeling93690de7859f4cd9ae9bd20856a69d13",
+    "titel": "Actieplan geluid 2025-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0363/2025/Regeling93690de7859f4cd9ae9bd20856a69d13/nld@2026-03-19;14054204",
+    "beginGeldigheid": "2026-03-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0363_2025_Regeling93690de7859f4cd9ae9bd20856a69d13?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0363/2026/Regelingb20fbb0f52f544d98fb166de26883c14",
+    "titel": "Voorbereidingsbesluit hotels in Buiksloterham en Hamerkwartier",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0363/2026/Regelingb20fbb0f52f544d98fb166de26883c14/nld@2026-05-19;08422816",
+    "beginGeldigheid": "2026-05-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0363_2026_Regelingb20fbb0f52f544d98fb166de26883c14?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0363/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Amsterdam",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0363/2020/omgevingsplan/nld@2026-09-07;13035940",
+    "beginGeldigheid": "2026-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0363_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0363/2026/Regeling5eb3efc453e84a43a88a6d6f1089d671",
+    "titel": "Gebiedsgericht omgevingsprogramma Nieuw-West",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0363/2026/Regeling5eb3efc453e84a43a88a6d6f1089d671/nld@2026-10-28;14034436",
+    "beginGeldigheid": "2026-10-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0363_2026_Regeling5eb3efc453e84a43a88a6d6f1089d671?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:09Z"
+  }
+]

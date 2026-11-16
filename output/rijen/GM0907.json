@@ -1,0 +1,81 @@
+{
+  "gm_code": "GM0907",
+  "gemeente": "Gennep",
+  "provincie": "Limburg",
+  "brondocument": "Verordening beschermde houtopstanden Gennep (CVDR639897_1) art. 1 t/m 12; Vaststelling geactualiseerde lijst waardevolle bomen 2026 (CVDR760420_1, gmb-2026-172366) met kaart en lijst; Besluit grens bebouwde kom houtopstanden (CVDR609224_1); APV Gennep 2020 afd. 4.3 vervallen (CVDR636301_6); legesverordening 2026 (CVDR750990_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR639897/1",
+  "datum_geldigheid": "2020-05-01 t/m heden (verordening); lijst en kaart 2026: 2026-04-14 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "Verordening: 2020-05-01 (CVDR639897_1, nooit gewijzigd); lijst: 2026-04-14 (actualisatie)",
+  "juridische_plaats": "Bomenverordening (Verordening beschermde houtopstanden Gennep) met eigen strafbepaling; APV 4:10 t/m 4:12f zijn vervallen. Legesrij art. 2.30 noemt een omgevingsplanactiviteit in samenhang met art. 22.8 Omgevingswet; omgevingsplan art. 22.289 bevat aanvraagvereisten. Of de verordening als omgevingsplanregel werkt, beinvloedt S niet.",
+  "praktijkcontrole": "1 bekendmaking sinds 2025 volgens de zoekactie (titel), 0 besluiten, 0 aanvragen, 0 weigeringen. Past bij een kleine lijst; de zoekmethode (alleen titels) is beperkt. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 32 bekendmakingen sinds 1-1-2025, waarvan 12 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van een beschermde houtopstand (art. 2 lid 1)",
+  "drempel": "Geen drempel: individueel aangewezen bomen en houtopstanden, ongeacht omvang (art. 3 lid 1).",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Alleen 'houtopstand aangewezen op grond van artikel 3 eerste lid' (art. 1 sub a): het college wijst aan; bomen kunnen worden aangewezen op o.a. beeldkwaliteit, herdenkingsboom, cultuurhistorie, bijzondere waarde (lid 2), overige houtopstanden op landschaps-, stedenbouwkundige of ecologische gronden (lid 3). Kaart en lijst 2026: particuliere, gemeentelijke en andere eigenaren. Hele gemeente. De grens 'bebouwde kom houtopstanden' (raadsbesluit 2018) speelt alleen bij de Wet natuurbescherming en maakt in de verordening geen onderscheid.",
+  "uitzonderingen": "Art. 2 lid 2: vellen op grond van aanschrijving Plantenziektenwet of aanschrijving art. 10 lid 1, periodiek dunnen van hakhout, knotten of kandelaberen als regulier onderhoud. Geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": 240,
+  "lijst_aantal_particulier": 127,
+  "lijst_telling": "ca. 240 regels (1 regel per boom) op de lijst waardevolle bomen, vastgesteld 2026-04-07 (bijlage 2b bij gmb-2026-172366, op de website van de bekendmaking als afbeeldingen); ca. 127 daarvan met 'Soort eigendom: Particulier, bedrijf of stichting' (waarvan 1 regel 'Particulier / Gemeente Gennep'); de rest gemeente, RWS, waterschap, 'overige overheden' of 'Terrein beherende organisatie'. Telling met de hand uit afbeeldingen, dus 'ca.'.",
+  "weigeringsgronden": "Art. 4 lid 1: 'Een vergunning wordt uitsluitend verleend indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen het belang dat gediend is met behoud van de houtopstand; b. een zwaarwegend individueel belang opweegt ...; c. instandhouding van de houtopstand niet langer verantwoord is vanwege gevaar voor de omgeving of de volksgezondheid; of d. het vellen plaatsvindt om te voldoen aan de verplichting van artikel 42 van Boek 5 van het Burgerlijk Wetboek.'",
+  "herplantplicht": "Art. 4 lid 2: 'Het bevoegd gezag kan aan de vergunning voorschriften verbinden. Tot deze voorschriften kunnen behoren het opleggen van een herplantplicht of het verrichten van een storting in het gemeentelijk Fonds kwaliteitsverbetering buitengebied.' Art. 8 lid 1 (na illegale kap): 'kan het bevoegd gezag ... een herplantplicht opleggen.'",
+  "herplant_ontsnapping": "Bevoegdheid ('kan'), per geval door het bevoegd gezag. Art. 8 lid 2: 'Als herplant redelijkerwijs niet mogelijk is kan het bevoegd gezag ... de verplichting opleggen een bijdrage te storten in het gemeentelijk Fonds kwaliteitsverbetering buitengebied.'",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets geregeld voor een opgelegde herplantplicht: art. 12 lid 2 stelt alleen strafbaar 'het bij of krachtens artikel 2, eerste lid, bepaalde' (het vellen zonder vergunning) en lid 1 het Plantenziektenwet-voorschrift. Algemeen instrumentarium (Awb) blijft over.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Eigen strafbepaling in de verordening: art. 12 lid 2 'Degene die handelt in strijd met het bij of krachtens artikel 2, eerste lid, bepaalde wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.' Geen bestuurlijke boete. APV 6:1 lid 3 (WED) noemt art. 4:11 lid 2, dat vervallen is. Of de WED via de Omgevingswet geldt, is niet vastgesteld; S = 1 in beide gevallen.",
+  "procedure": "Leges art. 2.30: EUR 122,00 (legesverordening 2026, CVDR750990_1). Vergunning vervalt na 2 jaar (art. 6 lid 2). Publicatie, bezwaar en beslistermijn niet in de verordening geregeld (APV art. 1:2 beslistermijn geldt niet voor een omgevingsvergunning).",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Telling uit afbeeldingen met de hand (ca.). De kaart is niet geteld.",
+  "artikelnummers": [
+    "Verordening beschermde houtopstanden art. 1",
+    "art. 2",
+    "art. 3",
+    "art. 4",
+    "art. 6",
+    "art. 8",
+    "art. 12",
+    "lijst 2026 CVDR760420_1 (bijlage 2a kaart, 2b lijst)",
+    "APV art. 4:10-4:12f (vervallen), 6:1",
+    "legesverordening 2026 art. 2.30"
+  ],
+  "opmerkingen": [
+    "W3: art. 4 lid 1 'Een vergunning wordt uitsluitend verleend indien' een zwaarwegend belang opweegt (weigeren tenzij). H1: art. 4 lid 2 'Tot deze voorschriften kunnen behoren het opleggen van een herplantplicht'; storting 'kan' en verhoogt H niet. S1: eigen strafbepaling art. 12 lid 2.",
+    "D1: lijst met ca. 127 particuliere van ca. 240 bomen (regels): particuliere bomen staan er dus op. Betrouwbaarheid hoog.",
+    "Besluit grens bebouwde kom houtopstanden 2018 (CVDR609224_1) verwijst naar de Wet natuurbescherming; geen invloed op de gemeentelijke kapregel.",
+    "Verordening groenonderhoud Gennep 2008 (CVDR76346_1) gaat over werkvoorziening, niet over kap.",
+    "De lijst is in 2026 vastgesteld als beleidsregel van het college (CVDR760420_1); de verordening spreekt van 'aanwijzing' door het college (art. 3 lid 1). De lijst is de aanwijzing die hier is gebruikt."
+  ],
+  "modelsignalen": [
+    "Gennep: een lijst bestaat uit regels per boom met een kolom eigendom; INTENT.md zegt niet hoe je een regel met gemengde eigendom ('Particulier / Gemeente') telt (hier bij particulier gerekend).",
+    "Gennep: een lijst op de bekendmaking staat als afbeeldingen, niet als doorzoekbare tekst; tellen kan alleen met de hand (ca.)."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "gemeente": "Zwartewaterland",
+  "gm_code": "GM1896",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Zwartewaterland",
+  "zoeknaam_bekendmakingen": "Zwartewaterland",
+  "opgehaald_op": "2026-11-14T21:47:58+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Zwartewaterland\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 50,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Zwartewaterland\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 38,
+  "geldende_regelingen": 12,
+  "geldend_met_kapartikelen": [
+    "CVDR300137_6",
+    "CVDR696513_2",
+    "CVDR747704_1"
+  ],
+  "bekendmakingen_besluiten": 20,
+  "bekendmakingen_aanvragen": 18,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

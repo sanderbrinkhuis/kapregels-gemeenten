@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0164/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hengelo",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0164/2020/omgevingsplan/nld@2024-01-11;2",
+    "beginGeldigheid": "2024-01-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0164/2024/Regeling47d9e14c9cf841b387eff67d89768528",
+    "titel": "Programma gemeente Hengelo, Actieplan Geluid 2024-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0164/2024/Regeling47d9e14c9cf841b387eff67d89768528/nld@2024-09-19;06362061",
+    "beginGeldigheid": "2024-09-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2024_Regeling47d9e14c9cf841b387eff67d89768528?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0164/2024/Regelingbf3efd959826409487fcda0d44e05a10",
+    "titel": "Programma gemeente Hengelo, KMS-locatie",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0164/2024/Regelingbf3efd959826409487fcda0d44e05a10/nld@2024-10-29;09525903",
+    "beginGeldigheid": "2024-10-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2024_Regelingbf3efd959826409487fcda0d44e05a10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0164/2024/Regeling427ecb1f9dfa4e1c9432d279ea11c38b",
+    "titel": "Omgevingsvisie gemeente Hengelo ",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0164/2024/Regeling427ecb1f9dfa4e1c9432d279ea11c38b/nld@2025-06-05;11090855",
+    "beginGeldigheid": "2025-05-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2024_Regeling427ecb1f9dfa4e1c9432d279ea11c38b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0164/2026/Regelingb350910f403f411ead9f78004dce2162",
+    "titel": "Omgevingsprogramma gemeente Hengelo; Toekomstbestendige Bedrijventerreinen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0164/2026/Regelingb350910f403f411ead9f78004dce2162/nld@2026-01-28;08261861",
+    "beginGeldigheid": "2026-02-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2026_Regelingb350910f403f411ead9f78004dce2162?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0164/2026/Regelingfd763563693746d5b25a970fa8c56aef",
+    "titel": "Omgevingsprogramma gemeente Hengelo; Sport, spelen en bewegen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0164/2026/Regelingfd763563693746d5b25a970fa8c56aef/nld@2026-03-03;09233298",
+    "beginGeldigheid": "2026-03-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2026_Regelingfd763563693746d5b25a970fa8c56aef?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0164/2026/Regelingcb8df2bd1db443e29cf1f671ff90c984",
+    "titel": "Omgevingsprogramma gemeente Hengelo, Kunst en Cultuur 2027-2031",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0164/2026/Regelingcb8df2bd1db443e29cf1f671ff90c984/nld@2026-05-27;08283712",
+    "beginGeldigheid": "2026-05-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0164_2026_Regelingcb8df2bd1db443e29cf1f671ff90c984?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:15Z"
+  }
+]

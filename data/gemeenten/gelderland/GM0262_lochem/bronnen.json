@@ -1,0 +1,27 @@
+{
+  "gemeente": "Lochem",
+  "gm_code": "GM0262",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Lochem",
+  "zoeknaam_bekendmakingen": "Lochem",
+  "opgehaald_op": "2026-11-15T14:09:52+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Lochem\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 62,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Lochem\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 558,
+  "geldende_regelingen": 14,
+  "geldend_met_kapartikelen": [
+    "CVDR696549_3",
+    "CVDR738193_1",
+    "CVDR749696_1",
+    "CVDR765247_1",
+    "CVDR766798_2"
+  ],
+  "bekendmakingen_besluiten": 51,
+  "bekendmakingen_aanvragen": 316,
+  "bekendmakingen_geweigerd": 7,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

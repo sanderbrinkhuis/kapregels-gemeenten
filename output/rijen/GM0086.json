@@ -1,0 +1,82 @@
+{
+  "provincie": "Fryslân",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen bomenlijst; regime op omvang/leeftijd, niet op een lijst",
+  "status": "ok",
+  "gm_code": "GM0086",
+  "gemeente": "Opsterland",
+  "brondocument": "Algemene plaatselijke verordening Opsterland 2025 (CVDR742938_1), afdeling 4.3 Het bewaren van bomen; Verordening leges 2026 (CVDR753908_1) art. 2.30; Omgevingsplan (CVDR696180_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR742938/1",
+  "datum_geldigheid": "Geldend vanaf 2025-09-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2025-09-01 (inwerkingtreding APV 2025, CVDR742938_1; geen latere versie in het dossier)",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (verwijst naar art. 4:11 APV in samenhang met art. 22.8 Ow) en WED-aanwijzing in APV art. 6:1 lid 2. Omgevingsplan art. 22.299: aanvraagvereisten.",
+  "praktijkcontrole": "52 bekendmakingen sinds 2025 gevonden op volledige tekst (43 besluiten, 0 aanvragen); in de steekproef van 10 noemt geen enkel besluit een kapgrondslag of weigering. Geen conclusie over kapbesluiten mogelijk.",
+  "vergunningplicht": "vergunning (omgevingsvergunning/vergunning van het college)",
+  "drempel": "Binnen de bebouwde kom of in een tuin: alleen eik of beuk met stamomtrek van minimaal 60 cm, of waardevolle boom met stamomtrek van minimaal 190 cm. Buiten de bebouwde kom en buiten een tuin: solitaire boom met stamomtrek van minimaal 30 cm (of boom in bosje, houtwal of houtsingel van minder dan 20 bomen of 10 are).",
+  "omtrek_cm": 30,
+  "meethoogte": "1,3 m boven maaiveld (art. 4:10 onder c en art. 4:11)",
+  "reikwijdte": "Hele gemeente, particulier en openbaar: binnen de bebouwde kom of in een tuin alleen eik/beuk (art. 4:11 lid 1 onder a, drempel 60 cm) en waardevolle bomen (lid 1 onder b, 190 cm); buiten bebouwde kom en buiten een tuin elke solitaire boom vanaf 30 cm (lid 2). Tuin: \"stuk grond, gelegen op hetzelfde perceel als een woning, waar planten groeien met een recreatief doel\".",
+  "uitzonderingen": "Binnen kom/tuin zijn alle andere soorten dan eik en beuk vrijgesteld (ruime uitzondering; D-correctie). Onderhoud (\"niet zijnde onderhoud\"; velling als verzorgingsmaatregel). Spoed/gevaar via burgemeester (lid 4). Geen oppervlakte-uitzondering.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11 lid 3: \"De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de boom; b. de landschappelijke waarde van de boom; c. de waarde van de boom voor stads- en dorpsschoon; d. de beeldbepalende waarde van de boom; e. de cultuurhistorische waarde van de boom; of f. de waarde voor de leefbaarheid van de boom.\"",
+  "herplantplicht": "Art. 4:11b lid 1: \"Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herbeplant.\" Art. 4:11c lid 1: bij kap zonder vergunning \"kan het college ... de verplichting opleggen te herplanten\".",
+  "herplant_ontsnapping": "Geen uitweg in de tekst: herplant is een bevoegdheid (\"kan\"), het college beslist per geval; betalen in plaats van herplanten niet geregeld. Herplant na illegale kap: \"kan het college ... de verplichting opleggen te herplanten\" (art. 4:11c lid 1).",
+  "herplant_niet_nakomen": "Art. 4:11c lid 4: \"Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.\" Art. 6:1 lid 1: \"Overtreding van het bij of krachtens deze verordening ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.\" Algemeen instrumentarium (bestuursdwang/dwangsom) niet in de verordening opgenomen.",
+  "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... 2:12, eerste lid en 4:11\"; lid 1 hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Geen bestuurlijke boete voor kap. Via de leges (omgevingsplanactiviteit) ook WED via Ow 5.1.",
+  "procedure": "Leges omgevingsplanactiviteit kappen: 102 euro (CVDR753908_1 art. 2.30). Beslistermijn APV art. 1:2: acht weken, verdagen met ten hoogste acht weken (niet van toepassing op omgevingsvergunning, lid 3a). Art. 4:11 lid 5: positieve fictieve beschikking niet van toepassing. Art. 4:11a: geen gebruik voor onherroepelijk.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "artikelnummers": [
+    "APV 2025 art. 4:10 (c, g, i)",
+    "4:11 lid 1-5",
+    "4:11a",
+    "4:11b",
+    "4:11c",
+    "6:1 lid 1-2",
+    "1:2",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "W2 (doorslaggevend, art. 4:11 lid 3): \"De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de boom;\"",
+    "H1 (art. 4:11b lid 1): \"kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herbeplant\". Bomenbeleidsplan Opsterland (raadsbesluit CVDR658484_1, 2020) staat alleen als vaststellingsbesluit in het dossier; het plan zelf is niet gedownload, dus niet vast te stellen of daarin herplant of compensatie vaststaat. Puntschatting H1; H kan hoger zijn.",
+    "D3 (2-4): buiten bebouwde kom en tuin geldt een lage drempel (30 cm omtrek, D4), maar binnen kom en tuin alleen eik/beuk vanaf 60 cm (D3, ruime soortuitzondering, dus min 2). Puntschatting: D4 met 1 aftrek voor de soortuitzondering en de tuinuitsluiting = D3.",
+    "Boom A/B: alleen vergunningplichtig als het een eik of beuk is (A wel bij 80 cm >= 60 cm; B niet); soort niet vastgelegd in de vaste voorbeeldbomen, daarom 'nee'.",
+    "Waardevolle bomen (art. 4:10 onder i) zijn geen lijst maar een definitie; geen bomenlijst of -register in het dossier.",
+    "Oude APV 2013 (CVDR299640_1) staat nog als 'geldend' in de bronnen maar is vervangen door APV 2025 (art. 4:10 drempel daar 90 cm, ook eik/beuk). Niet gescoord.",
+    "Omgevingsplan (CVDR696180_3, in werking 2026-10-21) bevat alleen aanvraagvereisten (art. 22.299), geen eigen kapverbod; verbod staat in de APV.",
+    "D per deel (besluit gebruiker 14-11-2026): binnen kom en tuin alleen eik en beuk vanaf 60 cm omtrek (D3, min 1 voor de beperking tot twee soorten = D2); buiten kom én tuin alle solitaire bomen vanaf 30 cm = aangewezen gebied (D2). Hoogste = D2."
+  ],
+  "modelsignalen": [
+    "Soortgebonden verbod (alleen eik/beuk): D-correctie noemt dit niet expliciet; toegepast als ruime uitzondering."
+  ],
+  "ontbrekend": "Bomenbeleidsplan Opsterland (inhoud; alleen vaststellingsbesluit CVDR658484_1 in het dossier); omgevingsplan in DSO niet geraadpleegd; geen handhavingsbeleid op gemeentelijke site gecontroleerd."
+}

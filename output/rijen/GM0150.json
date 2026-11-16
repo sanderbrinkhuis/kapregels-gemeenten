@@ -1,0 +1,72 @@
+{
+ "gm_code": "GM0150",
+ "gemeente": "Deventer",
+ "provincie": "Overijssel",
+ "brondocument": "Verordening fysieke leefomgeving Deventer (CVDR642794_7) art. 5.1.1 t/m 5.1.5, 5.2.1, 5.2.2, 5.3.1, 10.1.1 en bijlage 1 art. 1.5; Legesverordening 2026 (CVDR748764_2) art. 2.20; APV (CVDR665128_7) art. 4:1; Omgevingsplan (CVDR696196_5) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR642794/7",
+ "datum_geldigheid": "VFL CVDR642794_7: geldend vanaf 2026-01-01 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "VFL versie 7 in werking 2026-01-01 (vastgesteld 2025-10-15). Omgevingsplan versie 5 per 2026-11-04 (alleen aanvraagvereisten).",
+ "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit volgens de legesverordening (CVDR748764_2, art. 2.20: 'het vellen van een houtopstand, bedoeld in artikel 5.1.1 van de Verordening fysieke leefomgeving in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 658 bekendmakingen op titel, waarvan 316 besluiten, 326 aanvragen en 7 geweigerd (volgens de titel). Steekproef van 10 besluiten: kap van een of enkele bomen op diverse percelen in de kernen; geen grondslag genoemd. Veel besluiten past bij een breed regime met omtrekdrempel.",
+ "vergunningplicht": "Omgevingsvergunning (art. 5.1.1 lid 1 onder a).",
+ "drempel": "'een houtopstand te vellen met een stamomtrek van 75 cm of meer, gemeten op 130 cm boven het maaiveld'; daarnaast geen drempel voor houtopstand aangelegd ter uitvoering van een herplant- of instandhoudingsplicht of overeenkomst met een bestuursorgaan (onder b en c).",
+ "omtrek_cm": 75,
+ "meethoogte": "1,30 m (130 cm boven het maaiveld)",
+ "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar; geen beperking tot tuinen, erven of een strook. 'Vellen' omvat ook 'het snoeien van meer dan 20 procent van de kroon of het wortelgestel' (bijlage 1 art. 1.5).",
+ "uitzonderingen": "Art. 5.1.1 lid 2: Plantgezondheidswet of aanschrijving, iepen aangetast door iepziekte, periodiek vellen van hakhout, dunning in aaneengesloten houtopstand van ten minste 100 m2, bedrijfseconomisch geexploiteerde houtopstanden, Bal-houtopstanden; art. 5.3.1 noodkap op bevel van de burgemeester. Gangbare uitzonderingen, geen tuinuitzondering: geen correctie.",
+ "weigeringsgronden": "Art. 5.1.2: 'Vergunning voor het vellen van een houtopstand ... wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden:' natuur-, milieu- en ecologische, landschappelijke, beeldbepalende, cultuurhistorische waarden, beschermd stads- en dorpsschoon en/of historische laan, recreatieve waarde, leeftijd, zeldzaamheid en dendrologie, beplantingsvorm/structuur, toekomstverwachting en klimaatadaptieve waarden.",
+ "herplantplicht": "Art. 5.1.4 lid 1: 'kan bij de vergunning ... worden voorgeschreven dat ... moet worden herplant.' Lid 3: 'Als herplanting niet mogelijk is, kan bij de vergunning worden voorgeschreven dat een geldelijke bijdrage, maximaal gelijk aan de boomwaarde van de te vellen houtopstand, gestort moet worden in het gemeentelijke groencompensatiefonds.' Art. 5.2.2 lid 1 (na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herplanten'. Geen beleidsregel over herplant gevonden.",
+ "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan'), het college beslist per geval. Betaling in het groencompensatiefonds 'Als herplanting niet mogelijk is' kan worden voorgeschreven (art. 5.1.4 lid 3, 'kan').",
+ "sancties": "WED: VFL art. 10.1.1 lid 2 'Het bepaalde in het eerste lid geldt niet voor zover de Wet op de economische delicten voorziet in strafbaarstelling'; toelichting: strafbaarstelling 'is geregeld in de Wet op de economische delicten (artikel 1a, aanhef en onder 3)'. Legesverordening noemt het vellen een omgevingsplanactiviteit (WED via Ow 5.1, S1). Eigen strafbepaling art. 10.1.1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). Geen bestuurlijke boete voor kap (APV 6:1a alleen carbidschieten).",
+ "procedure": "Leges 2026 art. 2.20: tot en met 2 bomen EUR 110,00; 3 bomen EUR 223,00; EUR 42,00 per volgende boom, maximaal EUR 4.530,00; 85% restitutie bij weigering. Beslistermijn en bezwaar: VFL art. 9.2.1 lid 3 en Awb (omgevingsvergunning); niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 5.2.2 lid 3: 'Degene aan wie een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Overtreding is strafbaar via art. 10.1.1 lid 1 ('gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie') of de WED (lid 2). Voor een herplantvoorschrift bij een vergunning (art. 5.1.4) geldt art. 9.2.3 lid 2 niet ('Dit artikel is niet van toepassing op een omgevingsvergunning'); niet verder uitgezocht.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "niet van toepassing (geen lijstsysteem)",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen. Geen beleidsregel over herplant of handhaving gevonden in de geldende CVDR-regelingen.",
+ "artikelnummers": [
+  "VFL art. 5.1.1, 5.1.2, 5.1.4, 5.2.1, 5.2.2, 5.3.1, 10.1.1, bijlage 1 art. 1.5",
+  "Legesverordening 2026 art. 2.20",
+  "APV art. 4:1, 6:1, 6:1a",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D3: hele gemeente, drempel 75 cm omtrek (60-100 cm): 'een houtopstand te vellen met een stamomtrek van 75 cm of meer, gemeten op 130 cm boven het maaiveld'. De toelichting zegt dat 'houtopstand' zonder omtrek is gedefinieerd, maar dat 'Een stamomtrek is opgenomen in artikel 5.1.1'.",
+  "W2: 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden' (art. 5.1.2): belangenafweging, geen 'weigeren tenzij'.",
+  "H1: 'kan bij de vergunning ... worden voorgeschreven dat ... moet worden herplant' (art. 5.1.4 lid 1). De storting in het groencompensatiefonds 'kan' alleen worden voorgeschreven: geen H3.",
+  "S1: WED (art. 10.1.1 lid 2 en legesverordening art. 2.20, omgevingsplanactiviteit). Geen bestuurlijke boete voor kap.",
+  "Voorbeeldbomen: A (80 cm) is vergunningplichtig (>= 75 cm), B (40 cm) niet. Geen tuinuitzondering."
+ ],
+ "modelsignalen": []
+}

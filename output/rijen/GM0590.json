@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0590",
+  "gemeente": "Papendrecht",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Bomenverordening Gemeente Papendrecht 2017 (art. 1 t/m 5, 7 t/m 9, 13), CVDR467643_3; leges 2026 art. 2.30, CVDR749995_3; omgevingsplan art. 22.299 (alleen aanvraagvereisten), CVDR696356_4; APV Papendrecht afdeling 4.3 (art. 4:10 en 4:12 [gereserveerd]), CVDR643926_5. Niet in het dossier en niet gevonden: de Groene Kaart Papendrecht (boomzones, monumentale en waardevolle houtopstand, belevingsbomen) en de gemeentelijke criteria voor monumentale en waardevolle houtopstand.",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR467643/3",
+  "datum_geldigheid": "Bomenverordening CVDR467643_3 geldend van 2024-01-01 t/m heden; leges CVDR749995_3 geldend van 2026-04-29 t/m heden; omgevingsplan CVDR696356_4 geldend van 2026-11-05 t/m heden",
+  "laatste_wijziging": "Bomenverordening: versie 3 per 2024-01-01 (inhoud van de kapartikelen in die versie niet vergeleken met eerdere versies); omgevingsplan versie 4 per 2026-11-05",
+  "juridische_plaats": "Bomenverordening, werkt als omgevingsplanactiviteit: leges art. 2.30 spreekt van 'het vellen van een houtopstand, bedoeld in de Bomenverordening, in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan bevat alleen aanvraagvereisten (art. 22.299).",
+  "praktijkcontrole": "21 bekendmakingen sinds 2025 (zoekmethode titel): 4 besluiten, 10 aanvragen, 0 weigeringen volgens titel. Van de besluiten zijn er vier opgehaald (gmb-2026-278714, gmb-2025-421384, gmb-2026-253520, gmb-2025-474721): allemaal verleend, geen grondslag genoemd. Weinig kapbesluiten past bij een regime voor aangewezen bomen en zones.",
+  "vergunningplicht": "Omgevingsvergunning (art. 3 lid 2: ontheffing in een omgevingsvergunning) voor het vellen van Beschermde houtopstand op de Groene Kaart: monumentale en waardevolle houtopstand, belevingsbomen en bomen of hakhout in boomzones",
+  "drempel": "Art. 3 lid 1: 'bomen (indien groter of gelijk aan 20cm stamdiameter)' in boomzones; monumentale en waardevolle houtopstand en belevingsbomen: geen drempel. Art. 1 onder e: boom is 'een stamdwarsdoorsnede van minimaal 20 cm gemeten op 1,30 meter hoogte'.",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,30 m. Omgerekend: 20 cm x 3,14 = 62,8 cm omtrek (alleen voor bomen in boomzones).",
+  "reikwijdte": "Art. 2 lid 1: de Groene Kaart bevat 'binnen de bebouwde kom staande Beschermde houtopstanden'; lid 4: monumentale houtopstanden, waardevolle houtopstanden, belevingsbomen en boomzones. Monumentale en waardevolle houtopstand staat 'in particulier of gemeentelijk eigendom' (art. 1 onder r en u); belevingsbomen alleen in gemeentelijke eigendom (onder b). Boomzone: 'aangewezen begrensd gebied met Beschermde houtopstand die tezamen een functioneel geheel vormen zoals boomstructuren of boomgroepen' (onder g). Bomen buiten de Groene Kaart zijn niet beschermd. De Groene Kaart is niet ingezien.",
+  "uitzonderingen": "Art. 3 lid 3 en 4: Plantenziektenwet of aanschrijving, periodiek snoeien van hakhout, scheren, knotten en kandelaberen als regulier onderhoud, snoeiwerk bij achterstallig onderhoud, dunning in boomzones, populieren of wilgen als wegbeplanting of eenrijige beplanting op of langs landbouwgronden, 'vruchtbomen en windschermen om boomgaarden', kerstbomen, kweekgoed, en houtopstand buiten de bebouwde kom (behalve in erven of tuinen of een zelfstandige eenheid tot 10 are of een rij van ten hoogste 20; de kaart bevat alleen houtopstand binnen de bebouwde kom). Art. 3 lid 5: direct gevaar (noodkap). Geen tuin-, soort- of coniferuitzondering, dus geen correctie.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Groene Kaart Papendrecht niet ingezien (niet op papendrecht.nl gevonden, drie pagina's gaven een 404) en niet in het dossier. De verordening bevestigt wel dat monumentale en waardevolle houtopstand in particulier eigendom op de kaart kan staan (art. 1 onder r en u). Aantallen onbekend.",
+  "weigeringsgronden": "Art. 4 lid 2: de vergunning 'kan, slechts bij uitzondering worden verleend': a. monumentale houtopstand bij een 'zeer zwaarwegend algemeen maatschappelijk belang'; b. waardevolle houtopstand bij 'een algemeen maatschappelijk belang of zwaarwegend individueel belang van niet tijdelijke aard'; c. belevingsboom of boom of hakhout in een boomzone 'als een algemeen belang zwaarder weegt dan het duurzaam behoud ... of sprake is van ernstige overlast'. Art. 4 lid 3: 'kan tevens worden verleend indien' levensduur korter dan 5 jaar, instandhouding niet verantwoord wegens letsel of schade, of een reconstructieplan (W3).",
+  "herplantplicht": "Art. 8 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Geen beleidsregel over herplant in het dossier. Na illegale kap art. 9 lid 1: 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'.",
+  "herplant_ontsnapping": "Geen herplantplicht zolang het college niets oplegt ('kan', art. 8 lid 1 en art. 9 lid 1; het college beslist per geval). Geen regeling voor betaling in plaats van herplant.",
+  "sancties": "WED via de Omgevingswet: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Eigen strafbepaling art. 13 lid 1 geldt alleen voor art. 11 en 12 ('Hij die handelt in strijd met artikel 11 of 12') en niet voor het velverbod art. 3; lid 2: 'Bij de eis tot strafmaatbepaling kan rekening worden gehouden met de boomwaarde.' APV art. 6:1 lid 2 (WED) noemt de bomenartikelen niet. Herplant na illegale kap 'kan' worden opgelegd (art. 9). Geen bestuurlijke boete.",
+  "procedure": "Leges art. 2.30: € 257,13 voor de eerste boom (CVDR749995_3). Aanvraag schriftelijk en gemotiveerd (art. 5); vergunning vervalt na drie jaar (art. 7). Aanvraagvereisten omgevingsplan art. 22.299. APV art. 4:12 (vergunning van rechtswege) is gereserveerd. Beslistermijn en bezwaar en beroep staan niet in de kapartikelen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets geregeld: de strafbepaling noemt het herplantartikel niet. Bomenverordening art. 8 lid 4: 'Degene aan wie de verplichting als bedoeld in het eerste tot het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 13 lid 1: 'Hij die handelt in strijd met artikel 11 of 12, wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Dat zijn artikel 11 en 12, niet artikel 8 en 9 (herplant). De APV (CVDR643926_5) bevat geen kapregels meer; art. 6:1 daarvan dekt dus ook geen herplantartikel.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "status": "ok",
+  "ontbrekend": "Groene Kaart (boomzones, monumentale en waardevolle houtopstand, belevingsbomen) niet ingezien; aantal en omvang van de particuliere beschermde bomen en zones onbekend. Gemeentelijke criteria voor monumentale en waardevolle houtopstand niet gevonden. Lijstsysteem met niet-ingeziene kaart.",
+  "artikelnummers": [
+    "Bomenverordening 1, 2, 3, 4, 5, 7, 8, 9, 13",
+    "Leges 2.30",
+    "Omgevingsplan 22.299",
+    "APV 4:10 en 4:12 [gereserveerd], 6:1"
+  ],
+  "opmerkingen": [
+    "D2 (min 1): de verbodstekst beschermt 'in Boomzones staand hakhout of bomen (indien groter of gelijk aan 20cm stamdiameter)'; boomzones zijn aangewezen gebieden of structuren. Omdat de kaart niet is ingezien is de puntschatting D2 met minimum 1 (regel kaart met gebieden of structuren die niet is ingezien). De regeling bevestigt dat particuliere monumentale en waardevolle houtopstand op de kaart kan staan.",
+    "Voorbeeldbomen: geen enkele boom is beschermd als hij niet op de Groene Kaart staat. Boom A (ca. 25,5 cm doorsnede) valt alleen onder het verbod als hij in een boomzone staat (drempel 20 cm) of als monumentale of waardevolle houtopstand is aangewezen; boom B (ca. 12,7 cm) alleen als hij individueel is aangewezen.",
+    "W3: 'Een omgevingsvergunning voor het vellen van een Beschermde houtopstand kan, slechts bij uitzondering worden verleend' (art. 4 lid 2), ook voor een boom in een boomzone (onder c).",
+    "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 8 lid 1). Geen beleid dat herplant tot vast voorschrift maakt (geen beleidsregel gevonden bij de geldende documenten).",
+    "S1: WED via Ow door de leges (omgevingsplanactiviteit). De eigen strafbepaling art. 13 verwijst alleen naar art. 11 en 12 (boomziekten en publieke houtachtigen) en niet naar het velverbod art. 3: foute of beperkte verwijzing, volgens het besluit over WED toch S1 zonder bereik. Herplant na illegale kap 'kan' (art. 9).",
+    "De definitie van boom (art. 1 onder e) noemt 'In geval van meerstammigheid geldt de omtrek van de dikste stam' bij een diameter: kleine tegenstrijdigheid in de bron, geen effect op de score.",
+    "Praktijkcontrole: besluiten verleend voor gemeentelijke bomen en bomen langs rijkswegen kunnen meetellen; grondslag niet genoemd. Het tweede besluit (gmb-2025-421384) betreft 10 bomen op verschillende locaties."
+  ],
+  "modelsignalen": [
+    "Papendrecht: boomzones met een drempel van 20 cm diameter zonder kaart. Het model geeft D2 met minimum 1 (aangewezen gebieden). Advies: zo laten; maar de zones kunnen vooral openbaar groen zijn, dan is D1 reeel.",
+    "Papendrecht: de eigen strafbepaling (art. 13) dekt het velverbod niet, terwijl de leges kappen wel een omgevingsplanactiviteit noemen. Advies: S1 via de Omgevingswet (zoals het besluit voorschrijft); het rapport kan de beperkte verwijzing als feit vermelden.",
+    "Papendrecht: art. 8 lid 4 en 9 lid 4 'is verplicht daaraan te voldoen' staan in de regeling, maar de strafbepaling noemt die artikelen niet. De veldregel zegt 'strafbaar (rechter)' bij 'is verplicht daaraan te voldoen'. Advies: zo invullen maar de beperking noemen (gedaan); eventueel de veldregel verduidelijken."
+  ]
+}

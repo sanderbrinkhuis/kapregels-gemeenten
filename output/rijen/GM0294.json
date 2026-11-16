@@ -1,0 +1,80 @@
+{
+ "provincie": "Gelderland",
+ "gm_code": "GM0294",
+ "gemeente": "Winterswijk",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "niet van toepassing (geen lijstsysteem; art. 7 lid 1 van de oorspronkelijke verordening over een lijst monumentale bomen is volgens de considerans vervallen)",
+ "modelsignalen": [
+  "Tuinen en erven hebben een eigen drempel (omtrek maximaal 100 cm vrijgesteld), terwijl voor de rest van de bebouwingscontour een lagere drempel geldt (diameter 20 cm, omgerekend 62,8 cm). Volgens de regel 'D per deel, hoogste telt' krijgt Winterswijk D3 door het niet-tuindeel, terwijl de voorbeeldbomen A (80 cm) en B (40 cm) allebei vrij zijn. Een burger heeft zijn bomen vrijwel altijd in een tuin of op een erf; het model geeft hier een D die niet bij de ervaring van een gewone eigenaar past.",
+  "De drempel is een dwarsdoorsnede in de definitie van boom (artikel) en een omtrek in de tuinuitzondering (artikel 2 lid 2 sub c). Het model rekent diameter om naar omtrek, maar vergelijkt twee verschillende maten binnen een regeling.",
+  "Een omgevingsplanactiviteit zonder eigen strafbepaling in de verordening: de herplantplicht na illegale kap (artikel 5) heeft geen eigen sanctie in de regeling. Het model kent geen aparte plek voor het gevolg van niet nakomen buiten S."
+ ],
+ "brondocument": "Bomenverordening 2017 (CVDR443870_2), art. 1, 2, 3, 4, 5; Verordening op de heffing en invordering van leges 2026 (CVDR746474_3) en 2027 (CVDR768891_1), art. 2.30; Omgevingsplan (CVDR696257_4) art. 22.299; APV 2019 (CVDR628672_6) afd. 4.3 en art. 6.1",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR443870/2 ; https://lokaleregelgeving.overheid.nl/CVDR746474/3 ; https://lokaleregelgeving.overheid.nl/CVDR768891/1 ; https://lokaleregelgeving.overheid.nl/CVDR696257/4 ; https://lokaleregelgeving.overheid.nl/CVDR628672/6",
+ "datum_geldigheid": "Bomenverordening CVDR443870_2 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-15). Legesverordening 2027 (CVDR768891_1) geldend vanaf 2026-11-07.",
+ "laatste_wijziging": "Bomenverordening: versie 2 per 2024-01-01 (betreft artikel 1 en 2; vastgesteld 2023-12-21, kenmerk 2023 nr. XII-09).",
+ "juridische_plaats": "Losse Bomenverordening 2017; werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. APV afd. 4.3 (4.10 t/m 4.12): 'Niet opgenomen - zie Bomenverordening 2017'.",
+ "praktijkcontrole": "Sinds 2025: 225 bekendmakingen op titel, waarvan 204 besluiten, 15 aanvragen en 3 weigeringen volgens de titel. Steekproef van 10 besluiten noemt geen grondslag. Veel besluiten gaan over 1 tot enkele bomen in de bebouwde kom en over erfbeplanting in het buitengebied; dat past bij een breed regime. De zoekmethode op titel mist mogelijk besluiten.",
+ "vergunningplicht": "Vergunning: art. 2 lid 1 'Het is verboden zonder vergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.'",
+ "drempel": "Boom: 'een houtachtig, opgaand gewas, met een dwarsdoorsnede van de stam van minimaal 20 centimeter op 1,3 meter hoogte boven het maaiveld' (art. 1 lid 1 sub b). Bomen op erven en in tuinen: vrijgesteld bij een omtrek 'van maximaal 100 cm' (art. 2 lid 2 sub c).",
+ "omtrek_cm": 62.8,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Hele gemeente voor 'houtopstand' (boom, hakhout, houtwal, bosplantsoen) binnen de bebouwingscontour houtkap ('het stedelijk gebied van de gemeente en het gebied dat daaraan grenst'), particulier en openbaar. Buiten de contour alleen: 'houtopstanden op erven en in tuinen', 'houtopstanden die een zelfstandige eenheid met een oppervlakte van minder dan 10 are vormen' en 'houtopstanden die uit een rijbeplanting van maximaal 20 bomen, gerekend over het totaal aantal rijen, bestaan' (art. 2 lid 2 sub b). Scoring per deel: bebouwingscontour buiten tuinen en erven omtrek 62,8 cm = D3; tuinen en erven omtrek boven 100 cm = D2 (tuinuitzondering geldt alleen voor dit deel); buiten contour en buiten tuinen en erven = aangewezen gebied (hooguit D2). Hoogste deel: D3.",
+ "uitzonderingen": "Art. 2 lid 2 sub c: 'bomen op erven en in tuinen waarvan de stam op een hoogte van 1.30 meter boven het maaiveld een omtrek heeft van maximaal 100 cm' (vrijgesteld, met uitzondering van herplantbomen en 'erfbeplanting met eiken, beuken, lindes, kastanjes en walnootbomen op erven buiten de bebouwingscontour houtkap'). Verder: wegbeplanting/eenrijige beplanting van populieren of wilgen op of langs landbouwgrond; 'vruchtbomen en windschermen om boomgaarden'; kerstbomen; kweekgoed; dunning; Plantgezondheidswet/aanschrijving; zieke of dode bomen bij kennisgeving 3 weken vooraf (lid 3). Geen aparte uitzondering voor coniferen of fruitbomen in tuinen. De tuinuitzondering (omtrek tot 100 cm) is alleen van het deel tuinen en erven afgetrokken, niet van het deel binnen de bebouwingscontour buiten tuinen.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 3 lid 1: 'De vergunning kan worden geweigerd dan wel onder voorschriften worden verleend in het belang van onder meer de volgende waarden van de houtopstand: a. natuurwaarde; b. landschappelijke waarde; c. waarden van stads- en dorpsschoon; d. beeldbepalende waarde; e. cultuurhistorische waarde, en f. waarde voor de leefbaarheid van de omgeving.' Lid 2: 'Bij de beoordeling van een vergunningsaanvraag hanteert het bevoegde gezag als criterium de boomwaarde'. W = 2.",
+ "herplantplicht": "Art. 4 lid 1: 'Het bevoegd gezag kan aan een vergunning het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegde gezag te geven aanwijzingen in het belang van de in artikel 3 genoemde waarden moet worden herbeplant.' Art. 5 lid 1 (na illegale kap of tenietgaan): 'kan het bevoegde gezag aan de eigenaar of zakelijk gerechtigde ... de verplichting opleggen te herbeplanten'. Geen beleidsregel over herplant gevonden in het dossier. Beheerplan Laanbomen (CVDR727029_1) gaat over gemeentelijke laanbomen en telt niet. H = 1.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan ... het voorschrift verbinden' (art. 4 lid 1); het college beslist per geval. Geen betaling in plaats van herplant. Herplant na illegale kap is eveneens een bevoegdheid ('kan ... de verplichting opleggen', art. 5 lid 1).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 5 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' De verordening bevat geen strafbepaling of boete. APV art. 6.1 lid 1 geldt voor 'de artikelen van deze verordening' (de APV) en noemt de Bomenverordening niet. Alleen het algemene instrumentarium (bestuursdwang, dwangsom). Of de WED via Ow 5.1 ook het niet nakomen van een voorschrift raakt, is niet in de bron vastgesteld.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via Ow 5.1 (omgevingsplanactiviteit, leges art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'). Geen eigen strafbepaling in de Bomenverordening; geen bestuurlijke boete. Herplantplicht na illegale kap is mogelijk (art. 5). Uitvoeringsprogramma VTH 2026 (CVDR755326_1) noemt controle op illegale kap en naleving herplantplicht, maar bevat geen norm. S = 1.",
+ "procedure": "Leges 2026 art. 2.30: 1 tot en met 10 bomen EUR 47,00; meer dan 10 bomen EUR 77,00. Leges 2027 (in werking 2026-11-07): EUR 48,00 en EUR 79,00. Intrekking of wijziging vergunning art. 6; vergunning vervalt na 2 jaar zonder gebruik. Beslistermijn, bezwaar en beroep: niet in de verordening, niet onderzocht.",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Geen kernbron ontbreekt. Niet gevonden: beleidsregel over herplant of compensatie van particuliere bomen. Gemeentelijke website en DSO (omgevingsplan, nieuw deel) niet geraadpleegd. De definitie 'bebouwingscontour houtkap' verwijst naar een kaart die niet in het dossier staat. Gevolg van niet nakomen van herplant via de WED niet vast te stellen.",
+ "artikelnummers": [
+  "Bomenverordening 2017 art. 1, 2, 3, 4, 5, 6, 8",
+  "Leges 2026 en 2027 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "APV 2019 afd. 4.3 en art. 6.1"
+ ],
+ "opmerkingen": [
+  "W: 'De vergunning kan worden geweigerd dan wel onder voorschriften worden verleend in het belang van onder meer de volgende waarden van de houtopstand' (Bomenverordening art. 3 lid 1).",
+  "H: 'Het bevoegd gezag kan aan een vergunning het voorschrift verbinden dat ... moet worden herbeplant.' (art. 4 lid 1).",
+  "Drempel: diameter 20 cm x 3,14 = 62,8 cm omtrek voor de houtopstand binnen de bebouwingscontour; in tuinen en op erven geldt een omtrekgrens van 100 cm. Boom A (80 cm) en boom B (40 cm) zijn in de voorbeeldtuin vrij; D3 komt van het deel van de bebouwingscontour buiten tuinen en erven (bijv. bos en weiland van burgers, en terrein van bedrijven).",
+  "Binnen de contour geldt in tuinen en op erven dus een drempel van meer dan 100 cm (D2); buiten de contour in tuinen en erven eveneens meer dan 100 cm, en eiken, beuken, lindes, kastanjes en walnootbomen op erven buiten de contour zonder drempel (alleen dat deel). Het niet-tuindeel buiten de contour (zelfstandige eenheid kleiner dan 10 are, rijbeplanting tot 20 bomen) telt als aangewezen gebied.",
+  "Considerans: 'de Bomenverordening hoofdzakelijk van toepassing is op houtopstanden in de bebouwde kom en daarnaast op bomen op erven en in tuinen buiten de bebouwde kom'.",
+  "Art. 7 (bescherming openbare bomen) en lijst monumentale bomen: de lijstbepaling is volgens de considerans vervallen; geen lijstsysteem.",
+  "Beleidsregels: Beheerplan Laanbomen (CVDR727029_1) en Beleidsvisie landschap en biodiversiteit (CVDR727974_1) gaan over gemeentelijke laanbomen respectievelijk landschapsbeleid en leggen geen herplant of weigering voor particuliere bomen vast; ze tellen niet voor W en H.",
+  "Leges 2027 geldt per 2026-11-07 en verandert alleen de tarieven.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): naar analogie van 'drempel per soort eigenaar' telt de regel voor tuinen en erven van burgers. Daar is een boom tot 100 cm omtrek vrij (D2). De erfbeplanting buiten de contour (alleen eik, beuk, linde, kastanje en walnoot, drempel 20 cm doorsnede = ca. 63 cm omtrek) is D3 −1 voor de soortenlijst = D2. D3 → D2."
+ ]
+}

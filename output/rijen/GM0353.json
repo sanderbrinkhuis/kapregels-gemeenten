@@ -1,0 +1,74 @@
+{
+  "gm_code": "GM0353",
+  "gemeente": "IJsselstein",
+  "provincie": "Utrecht",
+  "brondocument": "APV gemeente IJsselstein 2023 afd. 4.3, art. 4:10-4:12 (CVDR692171_6); Omgevingsplan art. 22.299 (CVDR696285_3); Leges 2026 art. 2.30 (CVDR750759_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR692171/6",
+  "datum_geldigheid": "APV: geldend van 2025-10-21 t/m heden (CVDR692171_6); omgevingsplan: geldend van 2026-07-08",
+  "laatste_wijziging": "APV versie 6, in werking 2025-10-21; omgevingsplan versie 3, in werking 2026-07-08",
+  "juridische_plaats": "onzeker: in CVDR geen gemeentelijke kapregel (APV afd. 4.3 '(Gereserveerd)', omgevingsplan alleen art. 22.299). In het DSO-omgevingsplan en in de gelezen geldende bestemmingsplannen (Ruimtelijke plannen API v4) geen algemene kapregel voor particuliere bomen gevonden",
+  "praktijkcontrole": "17 bekendmakingen sinds 2025 (5 besluiten, 9 aanvragen, 0 geweigerd volgens titel). Steekproef van 5 besluiten noemt geen grondslag. Kennisgevingen gaan over kap van bomen op gemeentegrond en over ingetrokken aanvragen; een provinciale of andere grondslag is niet vastgesteld. Nabewerking: twee aanvragen uit 2026 (gmb-2026-279307, gmb-2026-279220) gaan over een boom in een particuliere achtertuin en noemen als activiteit 'Boom kappen of houtopstand vellen'. De provinciale regels gelden niet voor een losse tuinboom binnen de kom; een gemeentelijke grondslag buiten CVDR is daarom waarschijnlijk.",
+  "vergunningplicht": "onzeker: geen kapregel gevonden in CVDR, maar particulieren vragen een omgevingsvergunning aan voor 'Boom kappen of houtopstand vellen', ook voor een boom in een achtertuin (gmb-2026-279307, gmb-2026-279220); omvang en drempel niet vast te stellen",
+  "drempel": "niet gevonden (grondslag buiten CVDR niet gelezen)",
+  "omtrek_cm": null,
+  "meethoogte": "niet gevonden (grondslag buiten CVDR niet gelezen)",
+  "reikwijdte": "Geen gemeentelijke kapregel voor particuliere bomen: APV art. 4:10 en 4:11 zijn '(Gereserveerd)', art. 4:12 '(Vervallen)'. Ook de APV-versies 2016, 2023 versie 1 en 5 hebben deze afdeling gereserveerd. Leges art. 2.30 noemt alleen vellen 'waarvoor op grond van een bepaling in een provinciale verordening een vergunning of ontheffing is vereist'; dat valt buiten dit model (provincie bevoegd).",
+  "uitzonderingen": "niet gevonden (grondslag buiten CVDR niet gelezen)",
+  "boom_a_80cm": "onbekend",
+  "boom_b_40cm": "onbekend",
+  "weigeringsgronden": "niet gevonden (grondslag buiten CVDR niet gelezen)",
+  "herplantplicht": "geen grondslag gevonden (art. 22.299 lid 2 onder d vraagt alleen naar 'de mogelijkheid tot herbeplanten' in de aanvraag)",
+  "herplant_ontsnapping": "geen",
+  "herplant_type": "geen grondslag",
+  "herplant_betalen_als_alternatief": "onbekend",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niets geregeld voor een gemeentelijke herplantplicht. De handhavingsstrategie (CVDR759438_1, Regio Utrecht CVDR757353_1) heeft wel een dwangsomrichtlijn: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'; geen grondslag in de gemeentelijke regels.",
+  "herplant_niet_nakomen_type": "onbekend",
+  "sancties": "geen kap-specifieke sanctie: APV 6:1 lid 3 wijst alleen 2:10 en 2:12 aan voor de WED; art. 4:11 is gereserveerd. S = 0.",
+  "procedure": "Geen gemeentelijke procedure voor particuliere kap; leges art. 2.30 € 345,65 geldt alleen voor provinciaal vereiste vergunningen.",
+  "D": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "S": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "volledig_gelezen": false,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet vast te stellen (regime onbekend)",
+  "status": "onzeker",
+  "ontbrekend": "Geen algemene kapregel voor particuliere bomen gevonden in CVDR, in het DSO-omgevingsplan (alleen art. 20.46 archeologie en 22.299 aanvraagvereisten) en in de gelezen geldende bestemmingsplannen: Landelijk Gebied noord en zuid (2015), Noordoost (2013), Binnenstad (2013) en Achterveld en omgeving (2020). Niet gelezen: de overige geldende plannen, met name Zuidoost (artikel 10-plan 2009, in de API zonder machineleesbare tekst) en de ca. 70 partiële herzieningen en projectplannen. De praktijk (twee aanvragen in 2026 voor een achtertuinboom, activiteit 'Boom kappen of houtopstand vellen') kan wijzen op een regel die niet is gevonden; de grondslag is in geen enkel besluit vermeld. Gemeentelijke website niet geraadpleegd. Kapregels van de provincie vallen buiten het model.",
+  "artikelnummers": [
+    "APV 2023: art. 4:10, 4:11, 4:12, 6:1 lid 3",
+    "Omgevingsplan: art. 20.46, 22.299",
+    "Leges 2026: art. 2.30"
+  ],
+  "opmerkingen": [
+    "Nabewerking (zelfde aanpak als Stadskanaal): de scorer gaf D0 W0 H0 S0 met betrouwbaarheid hoog. Omdat particulieren wel een omgevingsvergunning aanvragen voor een tuinboom, is de rij op 'onzeker' gezet met D1 (0-4), W0 (0-3), H0 (0-3), S1 (0-3) tot de grondslag via het DSO is gelezen.",
+    "Restant bruidsschat (art. 22.299), geen vergunningplicht: 'Bij een aanvraag om een omgevingsvergunning voor het vellen van een houtopstand, identificeert de aanvrager ...'. Erfgoedverordening 2013 (CVDR285099_1) is vervallen per 2024-01-01 en is niet gelezen.",
+    "Praktijkcontrole: de bekendmakingen noemen geen grondslag; enkele kennisgevingen betreffen kap van bomen. Dat bewijst geen gemeentelijke plicht.",
+    "Nabewerking DSO/RP 16-11-2026: in de Ruimtelijke plannen API v4 zijn de teksten gelezen van de geldende plannen Landelijk Gebied noord en zuid (NL.IMRO.0353.201203Lgebied-VG02, art. 3.6 e.a.: aanlegvergunning voor het 'vellen of rooien van houtgewassen' op agrarische en natuurgronden), Noordoost (NL.IMRO.0353.201202Noordoost-vg01, alleen agrarisch aanlegverbod), Binnenstad (NL.IMRO.0353.201201Binnenstad-vg01, art. 17.4.1 sub g: 'het kappen en/of rooien van beplantings- en landschapselementen' in de zone beschermd stadsgezicht) en Achterveld en omgeving (alleen archeologie). Geen daarvan is een kapregel die gewone tuinbomen raakt: aanlegvergunningen voor landschap en natuur in het buitengebied tellen niet (besluit 14-11 en 16-11-2026), Binnenstad is een kleine gebiedsregel. Opgeslagen: dso/rp_NL.IMRO.0353.201203Lgebied-VG02_kap.md en rp_NL.IMRO.0353.201201Binnenstad-vg01_kap.md.",
+    "Puntschatting daarom D0 (maximum 1, vanwege de praktijk en omdat niet alle plannen zijn gelezen), W0, H0, S0. De eerdere onzekere puntschatting D1 W0 H0 S1 is vervallen."
+  ],
+  "modelsignalen": [
+    "IJsselstein: de legesregel verwijst voor kap naar een provinciale verordening; zulke gevallen zijn volgens het model buiten bereik, maar voor een burger kan er toch een vergunningplicht gelden buiten de bebouwde kom.",
+    "Gemeente met alleen oude bestemmingsplannen (2009-2020) en een DSO-omgevingsplan zonder kapregel: de praktijk toont toch kapvergunningen voor tuinbomen. Zonder inzicht in de grondslag blijft D0 met bereik; advies: in het rapport als aparte groep 'praktijk wijst op regel die niet is gevonden' noemen."
+  ]
+}

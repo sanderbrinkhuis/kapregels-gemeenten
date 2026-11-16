@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1949/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Waadhoeke",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1949/2020/omgevingsplan/nld@2024-09-06;2",
+    "beginGeldigheid": "2024-09-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1949_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1949/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Waadhoeke",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1949/2025/omgevingsvisie/nld@2025-12-02;1",
+    "beginGeldigheid": "2025-12-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1949_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1949/2026/programma_waddenkust",
+    "titel": "Omgevingsprogramma gemeente Waadhoeke - Perspectief op de Waddenkust",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1949/2026/programma_waddenkust/nld@2026-04-16;1",
+    "beginGeldigheid": "2026-04-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1949_2026_programma_waddenkust?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1949/2026/programma-wrp",
+    "titel": "Omgevingsprogramma gemeente Waadhoeke - Water- en Rioleringsprogramma 2026-2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1949/2026/programma-wrp/nld@2026-04-24;1",
+    "beginGeldigheid": "2026-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1949_2026_programma_wrp?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1949/2025/programma-logiesaccommodaties",
+    "titel": "Omgevingsprogramma gemeente Waadhoeke - Logiesaccommodaties",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1949/2025/programma-logiesaccommodaties/nld@2026-09-10;1",
+    "beginGeldigheid": "2026-09-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1949_2025_programma_logiesaccommodaties?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1949/2026/programma-accommodaties-swc",
+    "titel": "Omgevingsprogramma gemeente Waadhoeke - Accommodaties voor sport, welzijn en cultuur",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1949/2026/programma-accommodaties-swc/nld@2026-11-05;1",
+    "beginGeldigheid": "2026-11-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1949_2026_programma_accommodaties_swc?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:25Z"
+  }
+]

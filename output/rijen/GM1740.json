@@ -1,0 +1,78 @@
+{
+  "provincie": "Gelderland",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "modelsignalen": [
+    "Neder-Betuwe heeft een breed regime met een drempel van 40 cm doorsnede (ca. 126 cm omtrek, D2) en een ruime uitzondering voor alle naaldbomen en alle fruitbomen (correctie -1). Daardoor wordt D = 1, het niveau van een lijstsysteem, terwijl de voorbeeldbomen A en B allebei vergunningvrij zijn. Het model maakt geen verschil tussen 'bijna niets beschermd' (D1 via correctie) en 'alleen lijstbomen' (D1 via lijst).",
+    "Het omgevingsplan (tijdelijk deel en overgenomen bestemmingsplanregels) kent daarnaast gebiedsgebonden kapvergunningplichten zonder diameterdrempel (waterkering, natuur, landschappelijke eenheden). Of zo'n gebiedsregel een substantieel deel van de gemeente bestrijkt, is zonder de plankaarten niet vast te stellen; het model heeft hier geen toets voor."
+  ],
+  "gm_code": "GM1740",
+  "gemeente": "Neder-Betuwe",
+  "brondocument": "Algemene Plaatselijke Verordening Neder-Betuwe 2026, art. 4:10, 4:11, 4:11A, 4:11B, 4:11C, 6:1, 1:2, 1:4 (CVDR751707_2); Leges 2026 art. 2.30 (CVDR750531_4); Omgevingsplan Neder-Betuwe art. 7.11, 7.18, 7.25, 7.45, 22.299 (CVDR696499_4)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR751707/2 ; https://lokaleregelgeving.overheid.nl/CVDR750531/4 ; https://lokaleregelgeving.overheid.nl/CVDR696499/4",
+  "datum_geldigheid": "APV CVDR751707_2 geldend van 2026-07-28 t/m heden (peildatum scoren 2026-11-15); legesverordening CVDR750531_4 geldend van 2026-11-11 t/m heden",
+  "laatste_wijziging": "APV: versie 2 per 2026-07-28 (wat er precies is gewijzigd is niet vergeleken). Legesverordening: versie 4 per 2026-11-11. Omgevingsplan: versie 4 per 2026-08-19.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR750531_4) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; daarnaast gebiedsregels in het omgevingsplan (art. 7.11, 7.18, 7.25, 7.45).",
+  "praktijkcontrole": "Sinds 2025: 86 bekendmakingen op titel, waarvan 28 besluiten, 19 aanvragen en 4 geweigerde vergunningen kappen (volgens titel; o.a. een treurwilg, een boom en vier essen). Veel verleende kapvergunningen in alle kernen, ook een groot besluit over 46 essen. Geen grondslag genoemd. Past bij een breed regime met drempel; het aantal zegt niet alles, omdat de zoekmethode besluiten kan missen.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand, tenzij uitzondering (art. 4:11 lid 1 en 2).",
+  "drempel": "Doorsnede 40 cm: 'bomen met een doorsnede kleiner dan 40 centimeter gemeten op 1.30 m hoogte gerekend vanaf het maaiveld' zijn uitgezonderd (art. 4:11 lid 2 onder a).",
+  "omtrek_cm": 125.6,
+  "meethoogte": "1,30 m vanaf het maaiveld",
+  "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Hele gemeente, particulier en openbaar, binnen en buiten de bebouwde kom, geen onderscheid tussen tuinen en andere gronden.",
+  "uitzonderingen": "Art. 4:11 lid 2: 'a. bomen met een doorsnede kleiner dan 40 centimeter gemeten op 1.30 m hoogte gerekend vanaf het maaiveld; b. coniferen en andere naaldbomen; ... i. fruitbomen en windschermen om boomgaarden;' (fruitbomen volgens art. 4:10: 'appel-, peren-, pruimen- en kersenbomen'). Verder: wegbeplantingen en eenrijige beplantingen langs landbouwgronden van populieren of wilgen (c), kweekgoed (h), dunning (g), Plantenziektewet of aanschrijving (f), spoed of direct gevaar (j), houtopstand waarvoor het omgevingsplan al een vergunning eist (d) of die onder Wet natuurbescherming of provinciale verordening valt (lid 3). Geen aparte uitzondering voor achtertuinen, geen oppervlaktegrens.",
+  "weigeringsgronden": "Art. 4:11A: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11B lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Na illegale kap art. 4:11C lid 1: 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen beleidsregel over herplant of compensatie gevonden. Geen financiele compensatie.",
+  "herplant_ontsnapping": "geen (bevoegdheid, geen plicht: 'kan behoren'; het college beslist per geval)",
+  "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 4: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, 4:9A tot en met 4:9G en 4:11.' Lid 2: de strafbepaling van lid 1 is niet van toepassing op 4:11. Ook leges art. 2.30 (omgevingsplanactiviteit in samenhang met art. 22.8 Ow): WED via Ow 5.1. Herplantplicht na illegale kap (art. 4:11C). Geen bestuurlijke boete voor kappen.",
+  "procedure": "Omgevingsvergunning via het Omgevingsloket; art. 1:2 (beslistermijn APV) is niet van toepassing op omgevingsvergunning; aanvraagvereisten omgevingsplan art. 22.299. Art. 4:11B lid 3: vergunning wordt verleend onder de standaardvoorwaarde dat van de vergunning geen gebruik mag worden gemaakt zolang de bezwaartermijn plus een week loopt. Leges 2026 (CVDR750531_4) art. 2.30: EUR 39,20. Bekendmaking in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11C lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Voor een herplantvoorschrift in de vergunning zelf (art. 4:11B) is dit onzeker, want art. 1:4 lid 3 sluit de omgevingsvergunning uit.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem: de vergunningplicht geldt voor alle houtopstand vanaf 40 cm doorsnede",
+  "status": "ok",
+  "ontbrekend": "Plankaarten van de gebiedsregels in het omgevingsplan (art. 7.11, 7.18, 7.25, 7.45) niet ingezien, dus de omvang van die gebieden is onbekend. Geen beleidsregel over herplant, compensatie of handhaving gevonden. Bezwaar en beroep niet apart gelezen. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV 2026 art. 1:2, 1:4, 4:10, 4:11, 4:11A, 4:11B, 4:11C, 6:1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 7.11 onder c, 7.18 onder a, 7.25 onder a, 7.45 onder f, 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (min 1, max 2): art. 4:11 geldt voor de hele gemeente met een drempel van 40 cm doorsnede. Omgerekend: 40 x 3,14 = 125,6 cm omtrek, dus boven 100 cm: D2. Correctie -1 voor een ruime uitzondering: 'b. coniferen en andere naaldbomen' en 'i. fruitbomen en windschermen om boomgaarden'. Het resultaat is D1. Eén correctie, ook al vallen twee uitzonderingen onder de regel.",
+    "Het maximum is D2: het omgevingsplan kent gebiedsregels met een kapvergunningplicht zonder diameterdrempel ('c. het vellen of rooien van beplanting en/of bomen ter plaatse van de landschappelijke eenheden en elementen', art. 7.11; 'a. het vellen en/of rooien van houtgewas', waterkering art. 7.18; 'a. het kappen van bomen', natuur art. 7.25; leidingstrook art. 7.45). De omvang van die gebieden is niet vastgesteld, dus ze tellen niet als substantieel gebied (kleine gebiedsregels); vermeld voor de volledigheid.",
+    "W2: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11A): kan-weigering op natuur-, landschaps-, cultuurhistorische en beeldwaarden.",
+    "H1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' (art. 4:11B lid 1). Geen beleidsregel gevonden die herplant verplicht.",
+    "S1: WED-aanwijzing in de regeling zelf (APV art. 6:1 lid 4 noemt 4:11) en bovendien omgevingsplanactiviteit volgens leges art. 2.30. Geen bestuurlijke boete voor kappen (art. 6:1 lid 5 gaat over de Wet veiligheidsregio's). Kap-specifiek: herplantplicht na illegale kap (art. 4:11C).",
+    "Art. 4:12 (grenslijn bomen, heesters en heggen) is een erfafscheidingsregel en geen kapregel.",
+    "Boom A (omtrek 80 cm, ca. 25 cm doorsnee) en boom B (omtrek 40 cm, ca. 13 cm doorsnee) liggen onder de drempel van 40 cm doorsnee: geen vergunning nodig.",
+    "Praktijk: veel verleende kapvergunningen en vier weigeringen sinds 2025; de bekendmakingen noemen geen grondslag.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 7.11 (landschappelijke eenheden, integraal ensemble), 7.18 (waterkering), 7.25 (natuur) en 7.45 (rioolleiding) zijn gebiedsregels met een ander doel of voor een klein of onbepaald gebied en tellen niet voor D (zie ook de opmerking over het maximum hierboven); art. 22.297 en 22.299 zijn alleen aanvraagvereisten. Geen aanvullende kapregel; D1 W2 H1 S1 ongewijzigd."
+  ]
+}

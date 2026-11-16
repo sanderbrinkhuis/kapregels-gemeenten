@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1924/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Goeree-Overflakkee",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1924/2020/omgevingsplan/nld@2025-06-24;12284983",
+    "beginGeldigheid": "2025-07-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1924_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1924/2025/Regelinga4325f1ef0eb4db2b77b1f433f030c4a",
+    "titel": "Omgevingsvisie Goeree-Overflakkee",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1924/2025/Regelinga4325f1ef0eb4db2b77b1f433f030c4a/nld@2026-02-04;07570615",
+    "beginGeldigheid": "2026-02-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1924_2025_Regelinga4325f1ef0eb4db2b77b1f433f030c4a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:46Z"
+  }
+]

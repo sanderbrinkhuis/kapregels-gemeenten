@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0344",
+  "gemeente": "Utrecht",
+  "provincie": "Utrecht",
+  "brondocument": "Omgevingsplan gemeente Utrecht, hoofdstuk 8 afdeling 8.1 (CVDR696280_7); Beleidsregel Herplant naar waarde (CVDR728346_1); Beleidsregel Handhaving illegaal vellen of beschadigen van bomen (CVDR728344_1); Verordening leges omgevingsvergunning 2026 (CVDR747204_1); Verordening tot vaststelling van de bebouwde kom Houtopstanden 2018 (CVDR608790_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696280/7",
+  "datum_geldigheid": "Omgevingsplan versie CVDR696280_7: in werking 2026-09-18 t/m heden (peildatum 2026-11-14); beleidsregels CVDR728346_1 en CVDR728344_1 in werking 2025-02-01",
+  "laatste_wijziging": "2026-09-18 (omgevingsplan, versie 7). Welke wijziging de kapregels raakte is niet nagegaan.",
+  "juridische_plaats": "omgevingsplan (hoofdstuk 8, afdeling 8.1, Aantasten van bomen of andere houtopstanden); APV afdeling 4.3 bevat alleen nog begrippen, afstand tot erfgrens (4:10) en boomziekten (4:12), geen kapverbod",
+  "praktijkcontrole": "Zoekvraag op titels (kappen, vellen, houtopstand, rooien) sinds 2025-01-01: 555 bekendmakingen, waarvan 219 besluiten, 313 aanvragen en 1 weigering volgens de titel. Van 10 recent opgehaalde besluiten noemt geen enkel de grondslag. Het grote aantal kapbesluiten past bij een regime voor de hele gemeente.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen van een houtopstand, omgevingsplanactiviteit) voor het gehele grondgebied, met uitzonderingen",
+  "drempel": "Diameter 15 cm op 1,30 m (art. 8.2 lid 3 onder a: \"het kappen van een boom met een diameter kleiner dan 15 centimeter, gemeten op 1,30 meter boven het maaiveld\")",
+  "omtrek_cm": 47,
+  "meethoogte": "1,30 m (conform model)",
+  "reikwijdte": "Art. 1.1: \"De regels in dit omgevingsplan gelden voor het gehele grondgebied van de gemeente Utrecht\". Art. 8.2 lid 1: \"Het is verboden zonder omgevingsvergunning een houtopstand te vellen, zoals het kappen van een of meer bomen.\" Particulier en openbaar, binnen en buiten de bebouwingscontour houtkap (art. 8.1; dezelfde contour als CVDR608790_1). Geen onderscheid in drempel binnen en buiten de kom.",
+  "uitzonderingen": "Art. 8.2 lid 3: \"b. het kappen van een boom jonger dan 50 jaar: 1. op een kadastraal perceel van 250 m 2 of kleiner; of 2. die in een tuin staat op een huurperceel dat inclusief tuin kleiner is dan 250 m 2\" (tuinuitzondering op perceeloppervlakte van 250 m2, telt als -1; de toelichting noemt bij 300 m2 een eerdere grens die door motie M31 naar 250 m2 ging). Verder: periodiek kappen van hakhout, periodiek knotten of kandelaberen, Plantgezondheidswet of aanschrijving (APV 4:12), aanschrijving van burgemeester en wethouders (gangbaar, telt niet). Het voorbeeldperceel van ca. 300 m2 valt boven de 250 m2 en dus niet onder de uitzondering. Beheervergunning voor tijdelijke natuur, botanische tuinen en bosplantsoenen (lid 4) is een bijzonder geval.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 8.4 lid 1: \"Burgemeester en wethouders kunnen de omgevingsvergunning weigeren: a. als de Utrechtse hoofdbomenstructuur onevenredig wordt geschaad; b. als een van de volgende waarden onevenredig worden geschaad: 1. de ecologische waarde van de houtopstand; 2. de cultuurhistorische waarde van de houtopstand; 3. de ruimtelijke waarde van de houtopstand; of 4. de milieuwaarde.\" Lid 2: \"Burgemeester en wethouders kunnen ook in verband met de boomwaarde de omgevingsvergunning weigeren.\" Belangenafweging, dus W = 2.",
+  "herplantplicht": "Art. 8.5 lid 1: \"Bij vergunningvoorschrift wordt in ieder geval bepaald dat herplant: ... c. volgens aanwijzingen van burgemeester en wethouders op basis van de 'Beleidsregel Herplant naar waarde Gemeente Utrecht' ... plaatsvindt\". Toelichting: \"Voor elke boom die op grond van een omgevingsvergunning wordt gekapt, moet een nieuwe boom worden geplant.\" Beleidsregel CVDR728346_1 art. 4 lid 1: \"Het is niet mogelijk om minder bomen te herplanten dan gekapt worden.\" Art. 3 lid 2: standaard een-op-eenherplant voor natuurlijke personen bij maximaal 5 bomen op eigen perceel.",
+  "herplant_ontsnapping": "Art. 8.5 lid 3: \"Als blijkt dat herplant niet mogelijk is, kan, in afwijking van het eerste lid, worden bepaald dat de gevelde houtopstand financieel wordt gecompenseerd.\" Lid 2: herplant op de kaplocatie, anders dichtbij, anders \"moet de herplant elders plaatsvinden\". Financiele compensatie is dus een bevoegdheid ('kan'). Daarnaast een formele inconsistentie: art. 8.2 lid 2 zegt \"Burgemeester en wethouders kunnen voorschriften aan de omgevingsvergunning verbinden ... in verband met de regels in paragraaf 8.1.2 over het vervangen (herplant)\", terwijl art. 8.5 lid 1 \"wordt in ieder geval bepaald\" gebruikt. College beslist per geval over de aanwijzingen.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Beleidsregel CVDR728344_1 art. 4 onder b: \"Het niet uitvoeren van de herplantplicht is in beide gevallen tevens een economisch delict.\" Art. 7: bij herplantplicht niet uitvoeren \"Opstellen proces verbaal/ verzoeken O.M. om te vervolgen\" en \"Opleggen last onder dwangsom\"; art. 8 lid 3: \"De herplantplicht gaat altijd gepaard met een last onder dwangsom, die wordt verbeurd als de herplantplicht niet, of niet op tijd, wordt uitgevoerd.\"",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit): legesverordening art. 2.18 noemt \"Omgevingsplanactiviteit: kappen van bomen of vellen van houtopstanden\" als bedoeld in \"artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet\"; beleidsregel CVDR728344_1 art. 4 onder a: \"Het zonder vergunning vellen van een vergunningplichtige boom is tevens een economisch delict (... Wet economische delicten, artikel 1a, 3e tranche).\" Bestuursrechtelijk: herplantplicht en last onder dwangsom (art. 7), proces-verbaal. Geen bestuurlijke boete voor kappen in de regeling of beleidsregel gevonden. Herplantplicht na illegale kap: art. 8.6 lid 1 omgevingsplan (maatwerkvoorschrift, 'kunnen'). APV art. 6:1 strafbepaling dekt het kapverbod niet (dat staat niet meer in de APV).",
+  "procedure": "Leges art. 2.18 Verordening leges omgevingsvergunning 2026: tarief 735,85 euro voor maximaal vijf bomen (levend), 167,60 euro voor maximaal vijf dode bomen, 74,60 euro extra per boom boven vijf. Aanvraagvereisten art. 8.3 (kaart, soort, diameter, herplantoverzicht). Beslistermijn, publicatie en bezwaar niet apart onderzocht (algemene Awb-regels).",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Niet van toepassing: regime voor de hele gemeente, geen bomenlijst. De 'gemeentelijke vellijst' in art. 8.5 lid 1 onder a bepaalt alleen de herplanttermijn (14 maanden).",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Niets wezenlijks. Niet nagegaan: wanneer en hoe precies de kapregels in het omgevingsplan zijn gewijzigd (raadsbesluit 14-11-2024 volgens beleidsregel), beslistermijn en bezwaarprocedure.",
+  "artikelnummers": [
+    "Omgevingsplan art. 1.1, 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7",
+    "Beleidsregel Herplant naar waarde art. 3, 4",
+    "Beleidsregel Handhaving illegaal vellen art. 4, 7, 8",
+    "Legesverordening 2026 art. 2.18",
+    "APV 4:6, 4:10, 4:12, 6:1"
+  ],
+  "opmerkingen": [
+    "D: drempel diameter 15 cm = ca. 47 cm omtrek (15 x 3,14), dus D = 4. Daarvan -1 voor de tuinuitzondering (boom jonger dan 50 jaar op een kadastraal perceel van 250 m2 of kleiner), dus D = 3. Binnen en buiten de kom dezelfde regel.",
+    "W: art. 8.4 lid 1: \"Burgemeester en wethouders kunnen de omgevingsvergunning weigeren\" op onevenredige schade aan hoofdbomenstructuur of ecologische, cultuurhistorische, ruimtelijke of milieuwaarde. W = 2.",
+    "H: art. 8.5 lid 1: \"Bij vergunningvoorschrift wordt in ieder geval bepaald dat herplant\" plaatsvindt (H2). Financiele compensatie alleen als herplant niet mogelijk is en dan 'kan' (art. 8.5 lid 3), dus geen H3. Herplant na illegale kap (art. 8.6 'kunnen') verhoogt H niet en telt bij S.",
+    "S: leges art. 2.18 noemt het vellen een omgevingsplanactiviteit, dus WED via Ow 5.1 en S = 1 zonder bereik. Dwangsom en proces-verbaal zijn de bestuursrechtelijke en strafrechtelijke vervolgstappen volgens de beleidsregel; geen bestuurlijke boete voor kappen gevonden.",
+    "De provinciale Omgevingsverordening (o.a. art. 6.13 tot 6.19, houtopstanden buiten de bebouwde kom) en de provinciale handhavingsstrategie tellen niet als gemeentelijke kapregel en zijn niet gescoord.",
+    "Beleidsregel Handhaving CVDR728344_1 art. 2 beperkt zich tot bomen binnen de bebouwingscontour houtkap; art. 11 noemt inwerkingtreding 1 februari 2024, het CVDR vermeldt 2025-02-01. Beide zijn niet van invloed op de score.",
+    "Beleidsregel Herplant naar waarde art. 3 lid 2: natuurlijke personen met maximaal 5 bomen op eigen perceel krijgen een standaard een-op-eenherplant zonder extra voorwaarden over omtrek, soort en grootteklasse.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D3 → D4."
+  ],
+  "modelsignalen": [
+    "Het omgevingsplan zegt in art. 8.2 lid 2 dat burgemeester en wethouders herplantvoorschriften 'kunnen' verbinden, terwijl art. 8.5 lid 1 zegt dat het voorschrift 'wordt in ieder geval bepaald'. INTENT.md zegt niet welke formulering telt; gescoord op art. 8.5 (specifieke bepaling) als H2.",
+    "De tuinuitzondering geldt alleen voor bomen jonger dan 50 jaar op percelen van 250 m2 of kleiner. Het model telt dat als -1 ongeacht dat veel oudere bomen en grotere percelen wel onder de plicht vallen; voor de voorbeeldtuin van ca. 300 m2 geldt de uitzondering feitelijk niet (boom A: ja), maar D wordt toch verlaagd."
+  ]
+}

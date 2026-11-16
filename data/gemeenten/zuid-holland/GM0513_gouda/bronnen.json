@@ -1,0 +1,33 @@
+{
+  "gemeente": "Gouda",
+  "gm_code": "GM0513",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Gouda",
+  "zoeknaam_bekendmakingen": "Gouda",
+  "opgehaald_op": "2026-11-16T10:35:36+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Gouda\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 125,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Gouda\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 79,
+  "geldende_regelingen": 42,
+  "geldend_met_kapartikelen": [
+    "CVDR311931_2",
+    "CVDR624891_1",
+    "CVDR647242_1",
+    "CVDR649263_8",
+    "CVDR650995_8",
+    "CVDR674497_1",
+    "CVDR696342_5",
+    "CVDR727703_2",
+    "CVDR727707_2",
+    "CVDR749805_1",
+    "CVDR757451_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 79,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

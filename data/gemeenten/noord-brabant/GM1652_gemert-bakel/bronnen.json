@@ -1,0 +1,29 @@
+{
+  "gemeente": "Gemert-Bakel",
+  "gm_code": "GM1652",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Gemert-Bakel",
+  "zoeknaam_bekendmakingen": "Gemert-Bakel",
+  "opgehaald_op": "2026-11-15T21:05:22+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Gemert-Bakel\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 34,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Gemert-Bakel\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 131,
+  "geldende_regelingen": 15,
+  "geldend_met_kapartikelen": [
+    "CVDR612549_1",
+    "CVDR623428_1",
+    "CVDR624143_1",
+    "CVDR696556_2",
+    "CVDR747362_1",
+    "CVDR749107_1",
+    "CVDR750511_2"
+  ],
+  "bekendmakingen_besluiten": 2,
+  "bekendmakingen_aanvragen": 64,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

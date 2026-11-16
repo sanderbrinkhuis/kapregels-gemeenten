@@ -1,0 +1,29 @@
+{
+  "gemeente": "Hoorn",
+  "gm_code": "GM0405",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Hoorn",
+  "zoeknaam_bekendmakingen": "Hoorn",
+  "opgehaald_op": "2026-11-16T14:06:31+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hoorn\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 111,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hoorn\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 2,
+  "geldende_regelingen": 23,
+  "geldend_met_kapartikelen": [
+    "CVDR679532_1",
+    "CVDR696308_2",
+    "CVDR708919_1",
+    "CVDR709229_3",
+    "CVDR709239_3",
+    "CVDR752663_1",
+    "CVDR756493_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

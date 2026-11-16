@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0327/2025/Regeling55bc72668e4c4d1c957fcb6a26680a91",
+    "titel": "Voorbereidingsbesluit medische plint De Hank",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0327/2025/Regeling55bc72668e4c4d1c957fcb6a26680a91/nld@2026-01-15;13295051",
+    "beginGeldigheid": "2026-01-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0327_2025_Regeling55bc72668e4c4d1c957fcb6a26680a91?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0327/2025/Regeling2929c14e4ab44f8ea1eee671c7e006ab",
+    "titel": "Omgevingsvisie Gemeente Leusden",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0327/2025/Regeling2929c14e4ab44f8ea1eee671c7e006ab/nld@2026-02-06;08490026",
+    "beginGeldigheid": "2026-02-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0327_2025_Regeling2929c14e4ab44f8ea1eee671c7e006ab?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0327/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Leusden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0327/2020/omgevingsplan/nld@2026-05-19;13375444",
+    "beginGeldigheid": "2026-06-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0327_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0327/2026/Regelingaa31cc1ce1bb433aab1d5b1534edb286",
+    "titel": "Omgevingsprogramma Vrijkomende (Agrarische) Bebouwing",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0327/2026/Regelingaa31cc1ce1bb433aab1d5b1534edb286/nld@2026-05-26;11325428",
+    "beginGeldigheid": "2026-05-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0327_2026_Regelingaa31cc1ce1bb433aab1d5b1534edb286?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0327/2026/Regelinga68e3ffb8e5740e1a0003cc004449ce0",
+    "titel": "Omgevingsprogramma van afval naar grondstof",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0327/2026/Regelinga68e3ffb8e5740e1a0003cc004449ce0/nld@2026-10-05;09572185",
+    "beginGeldigheid": "2026-10-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0327_2026_Regelinga68e3ffb8e5740e1a0003cc004449ce0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:38Z"
+  }
+]

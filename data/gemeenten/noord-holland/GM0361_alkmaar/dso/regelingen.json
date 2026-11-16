@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0361/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Alkmaar",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0361/2020/omgevingsplan/nld@2025-10-10;1",
+    "beginGeldigheid": "2025-10-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0361_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0361/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Alkmaar",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0361/2025/omgevingsvisie/nld@2026-02-04;1",
+    "beginGeldigheid": "2026-02-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0361_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:57Z"
+  }
+]

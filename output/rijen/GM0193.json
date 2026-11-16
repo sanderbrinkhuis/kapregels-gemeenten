@@ -1,0 +1,81 @@
+{
+ "gm_code": "GM0193",
+ "gemeente": "Zwolle",
+ "provincie": "Overijssel",
+ "brondocument": "Bomenverordening 2021 gemeente Zwolle (CVDR671257_2): art. 1, 5, 9, 11, 12, 14, 16, 17 en toelichting; Lijst bijzondere bomen 2024 (CVDR757712_1); Verordening op de heffing en de invordering van leges 2026 (CVDR751052_1) art. 2.30; Omgevingsplan gemeente Zwolle (CVDR696214_5) art. 22.299; APV Zwolle 2024 (CVDR712941_4) afdeling 4.3",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR671257/2 ; https://lokaleregelgeving.overheid.nl/CVDR757712/1 ; https://lokaleregelgeving.overheid.nl/CVDR751052/1 ; https://lokaleregelgeving.overheid.nl/CVDR696214/5",
+ "datum_geldigheid": "Bomenverordening CVDR671257_2 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-14); Lijst bijzondere bomen CVDR757712_1 vanaf 2026-02-27; leges CVDR751052_1 vanaf 2025-12-19; omgevingsplan CVDR696214_5 vanaf 2026-11-09",
+ "laatste_wijziging": "Bomenverordening: versie 2 per 2024-01-01 (wijziging art. 1, 3 en 17). Lijst bijzondere bomen: besluit in werking 2026-02-27.",
+ "juridische_plaats": "Losse Bomenverordening 2021, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 12 van de Bomenverordening Zwolle 2021 in samenhang met artikel 22.8 van de Omgevingswet'. De APV-afdeling 'Het bewaren van houtopstanden' is gereserveerd ('Artikel 4:10 tot en met artikel 4:12 gereserveerd'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten (aangepast aan de stamomtrek van de Bomenverordening).",
+ "praktijkcontrole": "Sinds 2025: 222 bekendmakingen op titel, waarvan 95 besluiten, 108 aanvragen en 1 weigering (volgens titel). Steekproef van 10 besluiten: verleende en ingetrokken aanvragen, enkele 'Besluit vergunningsvrij' voor bomen; geen grondslag genoemd. Past bij een stelsel met beschermde gebieden en vergunningvrije witte gebieden.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van beschermde houtopstand: houtopstand op de Groene Kaart (art. 12 lid 1 onder a) en herplant kleiner dan 30 cm omtrek (lid 1 onder b). Wat niet op de Groene Kaart staat is vergunningvrij.",
+ "drempel": "Begrip boom: 'een houtig opgaand gewas ... met een stamomtrek van minimaal 30 centimeter op 130 centimeter hoogte boven het maaiveld' (art. 1 onder e). Binnen de Groene Kaart geldt dus omtrek vanaf 30 cm; bijzondere bomen (puntelementen) zijn beschermd ongeacht omvang.",
+ "omtrek_cm": 30,
+ "meethoogte": "1,30 m boven het maaiveld (art. 5)",
+ "reikwijdte": "Alleen beschermde houtopstand op de Groene Kaart (art. 9): a. bijzondere houtopstand: 'een op de Groene Kaart als punten aangegeven bijzondere boom of houtopstand (gemeentelijk of particulier)'; b. hoofdgroenstructuur en c. nevengroenstructuur: 'een op de Groene Kaart als vlak of lijn aangewezen structuur waarbinnen houtopstanden staan'. Toelichting: wit gebied op de kaart is 'kapvergunningvrij'. Binnen en buiten de bebouwde kom (bebouwingscontour houtkap in art. 3 betreft de bebouwde kom voor Bal-regels). De Groene Kaart zelf (GIO) is niet ingezien.",
+ "uitzonderingen": "Art. 12 lid 2: 'a. houtopstand op erven en in tuinen kleiner dan 400m2, tenzij aangewezen als bijzondere boom of houtopstand;' verder Plantenziektenwet of ernstige boomziekten, aanschrijving, noodkap bij acuut gevaar (met advies boomdeskundige en melding), dunnen, afgestorven gemeentelijke houtopstand, periodiek vormsnoeien of knotten, bedrijfsmatig geteelde fruit-, noot- en kerstbomen en kwekerijbomen. Tuinuitzondering (erven en tuinen < 400 m2) telt als ruime uitzondering: correctie -1.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijst_aantal_totaal": 6947,
+ "lijst_aantal_particulier": 1339,
+ "lijst_telling": "bomen (regels) op de Lijst bijzondere bomen 2024 (CVDR757712_1, besluit in werking 2026-02-27): 6.947 in totaal, waarvan 545 'Monumentaal Particulier' en 794 'Waardevol Particulier' (samen 1.339 particulier); de rest is gemeentelijk (3.170 monumentaal, 1.919 waardevol, 519 herinneringsbomen). Adressen niet overgenomen.",
+ "weigeringsgronden": "Art. 14 lid 1: 'De omgevingsvergunning voor het vellen van beschermde houtopstand wordt geweigerd indien de belangen van het vellen van de houtopstand niet opwegen tegen de belangen van behoud van de houtopstand.' Lid 2: afweging met de oogmerken van art. 11 (natuur, gezondheid en klimaat, landschappelijke en stedenbouwkundige waarden, beeldbepalende waarde, cultuurhistorische waarde, kwalitatief goed bomenbestand). Lid 5 (bijzondere houtopstand): 'wordt geweigerd, tenzij: a. de houtopstand ernstig gevaar of ernstige hinder veroorzaakt; en/of b. een groot maatschappelijk belang zwaarder weegt dan de oogmerken van artikel 11.' Lid 6: weigering mogelijk bij aanvraag vanwege lichte tot matige hinder, zonnepanelen of hinderlijke dieren.",
+ "herplantplicht": "Art. 16 lid 1: 'Bij vergunningvoorschrift voor het vellen van een houtopstand wordt in beginsel een : a. verplantingsplicht; en/of b. een herbeplantingsplicht, en/of c. een financiële bijdrage voor herbeplanting op een nieuwe locatie opgelegd.' Toelichting: 'In beginsel wordt altijd een herplantplicht of verplantingsplicht of financiële herplant opgelegd.' Bij herplant na vellen zonder vergunning (art. 17 lid 2) 'kan' een financiële compensatie op basis van de boomwaarde of herbeplanting worden opgelegd; dat telt niet voor H.",
+ "herplant_ontsnapping": "'in beginsel' (art. 16 lid 1); toelichting: 'Bij hoge uitzondering kan hiervan worden afgeweken, bijvoorbeeld als er al ruim voldoende bomen aanwezig zijn en niet eenvoudig ter plaatse of in de nabijheid herplant kan worden.' Betaling is een alternatief ('en/of een financiële bijdrage'). Het college beslist per vergunning. Herplant na illegale kap: 'kan' (art. 17 lid 2).",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 17 lid 4: 'Indien sprake is van vellen zonder omgevingsvergunning of in strijd met vergunningvoorschriften kan, eventueel naast een plicht tot herbeplanten of het in rekening brengen van de boomwaarde een bestuurlijke boete opgelegd worden.' Een voorschrift in strijd met de vergunning is dus met een bestuurlijke boete te sanctioneren; de toelichting noemt daarnaast de WED en Awb-bestuursdwang of dwangsom.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "Bestuurlijke boete in de regeling zelf: art. 17 lid 4 (zie hiervoor), dus S = 2. Route WED: legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit; de toelichting op art. 17 noemt WED art. 1a onder 3 (Wabo) en zegt: 'Om die reden vervallen de strafbepalingen uit gemeentelijke regels/Bomenverordening.' Herplant of financiële compensatie na illegale kap: art. 17 lid 2 ('kan'). Geen vastgesteld handhavingsbeleid (beleidsregel boete of boomwaarde) gevonden, dus niet S = 3. APV art. 6:1 lid 1 dekt de Bomenverordening niet (alleen 'artikelen in deze verordening').",
+ "procedure": "Aanvraag omgevingsvergunning met bijzondere aanvraagvereisten (art. 13: identificatie, stamomtrek, reden, eventueel bomen-effectanalyse of rapport boomdeskundige, herplantvoorstel). Leges 2026 art. 2.30: EUR 147,00 voor de eerste boom en EUR 48,00 voor elke volgende boom. Art. 15: college kan een Adviescommissie houtopstand instellen. Groene Kaart en lijst worden driejaarlijks door het college bijgewerkt (art. 9 lid 2). Bezwaar, beroep en beslistermijn niet apart gelezen.",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "status": "ok",
+ "ontbrekend": "De Groene Kaart (geometrisch informatieobject met hoofd- en nevengroenstructuur) is niet ingezien, dus onbekend welk deel van de particuliere percelen groter dan 400 m2 daarin valt. D blijft 1: ook zonder de kaart is D = 1 door de 1.339 particuliere lijstbomen en de tuinuitzondering. Bezwaar en beroep niet apart gelezen. Gebiedsregels in omgevingsplan (art. 23.21 en 23.26, Breecamp West) zijn klein en niet meegeteld.",
+ "artikelnummers": [
+  "Bomenverordening 2021 art. 1, 3, 5, 9, 10, 11, 12, 13, 14, 15, 16, 17 en toelichting",
+  "Lijst bijzondere bomen 2024 (CVDR757712_1)",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "APV 2024 afdeling 4.3 (gereserveerd)"
+ ],
+ "opmerkingen": [
+  "D1: aangewezen gebieden (hoofd- en nevengroenstructuur, D2 op drempel 30 cm) minus 1 vanwege de tuinuitzondering 'houtopstand op erven en in tuinen kleiner dan 400m2, tenzij aangewezen als bijzondere boom of houtopstand' (art. 12 lid 2 onder a). Minimum 1 omdat er 1.339 particuliere bomen beschermd zijn.",
+  "W2: 'wordt geweigerd indien de belangen van het vellen van de houtopstand niet opwegen tegen de belangen van behoud van de houtopstand' (art. 14 lid 1): belangenafweging. Bereik 2-3: voor bijzondere houtopstand (art. 14 lid 5: 'wordt geweigerd, tenzij') geldt W3, en de toelichting zegt dat voor de hoofdgroenstructuur 'enkel bij zwaarwegende redenen' een vergunning wordt afgegeven. Niet vast te stellen welk regime voor het grootste deel van de beschermde particuliere bomen geldt (kaart niet ingezien).",
+  "H2, bereik 2-3: 'wordt in beginsel een: a. verplantingsplicht; en/of b. een herbeplantingsplicht, en/of c. een financiële bijdrage voor herbeplanting' (art. 16 lid 1). De bijdrage is een alternatief, geen extra plicht, dus H2 met maximum 3 (besluit 14-11-2026). Compensatie op boomwaarde bij illegale kap (art. 17 lid 2) 'kan' alleen en telt niet.",
+  "S2: bestuurlijke boete voor vellen zonder vergunning staat in de regeling zelf (art. 17 lid 4). Geen vastgelegd handhavingsbeleid, dus geen S3. Route WED/omgevingsplanactiviteit via leges art. 2.30 geeft S1 als ondergrens; de boete bepaalt S.",
+  "Bomenverordening bevat zelf geen strafbepaling; de toelichting zegt dat die vervalt vanwege de WED.",
+  "Bijzondere bomen op de lijst: W3 en 'in beginsel geen vergunning' (toelichting bij art. 9); dit strengere regime geldt alleen voor de 1.339 particuliere lijstbomen en staat hier alleen als opmerking.",
+  "Beleidsnota Uitgifte groen- en reststroken (CVDR710660_1) gaat over gemeentegrond en telt niet.",
+  "Zeer kleine gebiedsregels in het omgevingsplan (art. 23.21 en 23.26, Breecamp West) zijn niet meegeteld.",
+  "Boom A en B: tuin van ca. 300 m2 valt onder de uitzondering voor tuinen kleiner dan 400 m2, tenzij de boom als bijzondere boom is aangewezen; daarom 'alleen als op lijst'."
+ ],
+ "modelsignalen": [
+  "Zwolle: een kaart met beschermde gebieden (Groene Kaart) plus een lijst met particuliere bomen en een tuinuitzondering (< 400 m2) past niet goed in D. Het model telt de gebieden als D2 min 1 voor de tuinuitzondering. Welk deel van de gemeente de gebieden bestrijken wordt niet gemeten.",
+  "Zwolle: W kent drie niveaus in één verordening (bijzondere houtopstand 'wordt geweigerd, tenzij'; hoofd- en nevengroenstructuur belangenafweging). Het model vraagt het regime voor het grootste deel van de gedekte bomen, maar dat aandeel is zonder kaart niet vast te stellen.",
+  "Zwolle: de toelichting is gelijk aan beleid ('In beginsel wordt altijd een herplantplicht ... opgelegd'), maar is geen aparte beleidsregel; het model zegt niet hoe zwaar een toelichting bij een verordening telt."
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "provincie": "Limburg",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Simpelveld: lijstsysteem met 29 bekendmakingen sinds 2025 (16 aanvragen) in een kleine gemeente. INTENT.md noemt dit als mogelijk teken van een breder regime, maar de VFL beperkt het verbod expliciet tot de Bomenlijst. Gescoord op de tekst (D1); de bekendmakingen kunnen ook gemeentelijke bomen betreffen."
+ ],
+ "gm_code": "GM0965",
+ "gemeente": "Simpelveld",
+ "brondocument": "Verordening fysieke leefomgeving 2021 (art. 1.2, 1.4, 1.8, 2.25, 7.1); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR660525/2 ; https://lokaleregelgeving.overheid.nl/CVDR751570/1 ; https://lokaleregelgeving.overheid.nl/CVDR696453/2",
+ "datum_geldigheid": "VFL CVDR660525_2 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "VFL 2021: versie 2 per 2024-01-01 (eerste versie CVDR660525_1 vervallen). Omgevingsplan versie 2 per 2026-03-03.",
+ "juridische_plaats": "VFL (Verordening fysieke leefomgeving). Werkt als omgevingsplanactiviteit: Legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2.25 van de Verordening fysieke leefomgeving in samenhang met artikel 22.8 van de Omgevingswet'; VFL art. 7.1 lid 2 wijst art. 2.25 aan voor de WED. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 29 bekendmakingen op titel, 0 besluiten, 16 aanvragen, 0 weigeringen (op titel); geen besluiten opgehaald, dus geen grondslag bekend. Voor een lijstsysteem is dit aantal opvallend; het kan gemeentelijke bomen betreffen. Niet vast te stellen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Bomenlijst staan (art. 2.25 lid 2).",
+ "drempel": "Geen omvangdrempel: alleen bomen op de Bomenlijst, ongeacht omvang",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 2.25 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de door het college vastgestelde Bomenlijst.' Geen gebiedsregel. Het omgevingsplan (CVDR) bevat geen eigen kapregel.",
+ "uitzonderingen": "Art. 2.25 lid 4: lid 2 'is niet van toepassing als de burgemeester vergunning verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen' (gangbaar). Bomen die niet op de lijst staan zijn niet beschermd.",
+ "weigeringsgronden": "Art. 2.25 lid 3: 'In aanvulling op artikel 1.8 van deze verordening kan de vergunning worden geweigerd op grond van de: a. natuurwaarde ...; b. landschappelijke waarde ...; c. waarde ... voor stads en dorpsschoon; d. beeldbepalende waarde ...; e. cultuurhistorische waarde ...; f. waarde voor de leefbaarheid van de houtopstand.' Art. 1.8 lid 1: 'De toestemming kan worden geweigerd vanwege strijd met de goede fysieke leefomgeving.'",
+ "herplantplicht": "Art. 2.25 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie gevonden onder de geldende regelingen. Geen financiële compensatie.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan een herplantplicht opleggen' (art. 2.25 lid 5); het bevoegd gezag beslist per geval. Betalen in plaats van planten: niet geregeld.",
+ "sancties": "Eigen strafbepaling en WED-aanwijzing in de regeling: art. 7.1 lid 1 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie' en lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen artikel 2.1, artikel 2.2, of artikel 2.25.' Geen bestuurlijke boete. Geen herplant- of compensatieplicht na illegale kap geregeld.",
+ "procedure": "Leges 2026 (CVDR751570_1) art. 2.30: € 175,00 (2025), € 177,65 (2026). Beslistermijn: art. 1.2 lid 1 acht weken, verlengbaar met zes weken; voor art. 2.25 geldt art. 16.64 Omgevingswet (lid 4). Publicatie, bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Art. 1.4 lid 2: 'Degene voor wie de toestemming geldt, moet zich zo gedragen dat geen strijd met de toestemmingsvoorschriften ontstaat.' Art. 7.1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1.4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: korte zoekpoging op de gemeentelijke website (directe pagina's en zoekfunctie) leverde de lijst niet op.",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst niet gevonden; onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan (DSO) niet ingezien; het CVDR-omgevingsplan bevat alleen aanvraagvereisten (art. 22.299). Bezwaar en beroep en publicatie niet apart gelezen.",
+ "artikelnummers": [
+  "VFL 2021 art. 1.2, 1.4, 1.8, 2.25, 7.1",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Peildatum 2026-11-14. Kernbron compleet: VFL 2021 afd. 2 par. 3 'Handelingen met houtopstanden'; er is geen losse bomenverordening en geen APV-kapregel in de data.",
+  "W: 'kan worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden is belangenafweging (W2).",
+  "H: 'kan een herplantplicht opleggen' (H1). Geen beleidsregel.",
+  "S: eigen strafbepaling en WED-aanwijzing in art. 7.1 lid 2 (S1); daarnaast WED via Ow 5.1 volgens leges art. 2.30.",
+  "Strengheid: D1 W2 H1 S1, I = 4, 17 (puntschatting); bereik 0-17 omdat de lijst niet is ingezien."
+ ]
+}

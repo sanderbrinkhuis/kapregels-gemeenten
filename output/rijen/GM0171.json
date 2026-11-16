@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0171",
+  "gemeente": "Noordoostpolder",
+  "provincie": "Flevoland",
+  "brondocument": "Verordening fysieke leefomgeving gemeente Noordoostpolder, hoofdstuk 2 par. 2.1 (art. 2.1.1-2.1.4), art. 11.1.3, art. 12.1.2 lid 5; Beleidsregel instandhouding landschappelijke beplantingen Noordoostpolder (CVDR248796_1); Verordening op de heffing en de invordering van leges 2026 art. 2.27",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR709098/3",
+  "datum_geldigheid": "geldend van 2026-10-07 t/m heden (CVDR709098_3)",
+  "laatste_wijziging": "versie 3, in werking 2026-10-07; beleidsregel CVDR248796_1 in werking 2013-01-09",
+  "juridische_plaats": "VFL; werkt als omgevingsplanactiviteit volgens Legesverordening 2026 art. 2.27 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand, bedoeld in artikel 2.1.2.1 van de Verordening fysieke leefomgeving'; het genoemde artikelnummer 2.1.2.1 komt niet voor, bedoeld is waarschijnlijk 2.1.2) en omgevingsplan art. 22.298",
+  "praktijkcontrole": "150 bekendmakingen sinds 2025 over kappen (66 besluiten, 84 aanvragen, 0 weigeringen volgens titel). Steekproef van 10 besluiten noemt geen grondslag. De titels betreffen vooral buitengebied en dorpen (o.a. Ens, Rutten, Bant, Nagele, Marknesse, Emmeloord); of dit erfsingels zijn of bomen binnen de kernen, is niet vast te stellen.",
+  "vergunningplicht": "omgevingsvergunning voor het vellen van een erfsingel of wegbeplanting buiten de bebouwingscontour houtkap",
+  "drempel": "boom = houtachtig gewas met stamdoorsnede minimaal 10 cm op 1,3 m (art. 2.1.1 onder d); geen verdere drempel",
+  "omtrek_cm": 31,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Alleen erfsingels (houtopstand langs de rand van een erf buiten de bebouwde kom) en wegbeplanting (houtopstand langs een weg) buiten de bebouwingscontour houtkap, die zolang die niet is vastgesteld gelijk is aan de bebouwde kom. Particulier (erfsingels) en openbaar (wegbeplanting). Niets binnen de bebouwde kom.",
+  "uitzonderingen": "Art. 2.1.2 lid 2: niet voor dunnen; wegbeplanting en eenrijige beplanting op of langs landbouwgronden van populieren of wilgen; Italiaanse populieren, lindes, paardenkastanjes en treurwilgen; vruchtbomen en windschermen om boomgaarden; Plantgezondheidswet.",
+  "weigeringsgronden": "Art. 2.1.3 lid 1: 'wordt de omgevingsvergunning voor het vellen van een erfsingel of wegbeplanting of een deel daarvan, alleen verleend als:' geen afbreuk aan cultuurhistorische waarde, uiterlijk en groenbescherming, en de kap nodig is voor een bouwwerk of weg, of vanwege boomziekte of veroudering, en de aanvraag ruimte biedt voor een vervangende erfsingel. Beleidsregel art. 3 lid 1: 'wordt uitsluitend verleend, als'.",
+  "herplantplicht": "VFL 2.1.3 lid 2: 'Het bevoegd gezag kan voorschriften aan de omgevingsvergunning verbinden over het aanplanten van een nieuwe erfsingel.' Beleidsregel art. 3 lid 2: 'Een vergunning ... wordt uitsluitend verleend, als het beplantingsplan uit de aanvraag voorziet in de realisatie van een nieuwe erfsingel' (minimaal 5 rijen, drie zijden van het erf); art. 6 lid 1: 'Aan een herplantplicht voor een erfsingel worden voorschriften verbonden'. Geen financiele compensatie.",
+  "herplant_ontsnapping": "Beleidsregel art. 6 lid 2: 'Slechts in gevallen waarin op het erf te weinig ruimte is ... kan in de herplantplicht een afwijkende maatvoering worden opgelegd.' Geen uitweg via betaling.",
+  "sancties": "Bij kap zonder vergunning kan het bevoegd gezag herplant verplichten (VFL 2.1.4 lid 1, 'kan'). Beleidsregel art. 8-10: last onder dwangsom als vast handhavingsmiddel (€ 6 per m2 per week, tweede keer € 12). Strafbepaling VFL 11.1.3 lid 1 (algemeen, hechtenis tot drie maanden of geldboete tweede categorie). Geen WED-aanwijzing in de VFL; WED via Ow 5.1 volgt uit de leges-omschrijving als omgevingsplanactiviteit. Geen bestuurlijke boete.",
+  "procedure": "Omgevingsvergunning; leges € 203 (Legesverordening 2026 art. 2.27); aanvraag alleen in behandeling met beplantingsplan (beleidsregel art. 2); vergunning voor maximaal drie jaar (beleidsregel art. 3 lid 6); bezwaar en beroep volgens Awb.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Beleidsregel art. 8: 'In gevallen waarin de rechthebbende van een beplanting in strijd handelt met de verordening, een vergunning of een herplantplicht of instandhoudingsplicht, hanteert de gemeente Noordoostpolder als handhavingsmiddel de last onder dwangsom.' VFL 11.1.3 lid 1: 'niet-nakoming van een opgelegde verplichting ... wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "meerdere",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "status": "ok",
+  "ontbrekend": "Praktijkcontrole: onduidelijk hoeveel van de 150 bekendmakingen bomen binnen de kernen betreffen (zou op een breder regime kunnen wijzen; in de regeltekst en het omgevingsplan niet gevonden). Beleidsregel CVDR248796_1 (2013) verwijst nog naar de ingetrokken Bomenverordening 2005, maar VFL art. 12.1.2 lid 5 onder b laat haar uitdrukkelijk doorgelden. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "VFL: art. 1.1.1, 1.1.3, 2.1.1, 2.1.2, 2.1.3, 2.1.4, 11.1.3, 12.1.1, 12.1.2 lid 5",
+    "Beleidsregel instandhouding landschappelijke beplantingen (CVDR248796_1): art. 1-10",
+    "Beleidsregel gemeentelijke bomen (CVDR83734_1): alleen gemeentelijke bomen",
+    "Legesverordening 2026: art. 2.27",
+    "Omgevingsplan: art. 22.298 (aanvraagvereisten); art. 9.5 en 9.8 (alleen transitiefase-gebied)"
+  ],
+  "opmerkingen": [
+    "D2: aangewezen structuren (erfsingels en wegbeplanting buiten de bebouwingscontour); het hele buitengebied valt eronder, de bebouwde kom niet. Boom A en B in een achtertuin binnen de bebouwde kom: geen vergunning nodig.",
+    "W3: 'wordt ... alleen verleend als' (VFL 2.1.3 lid 1); beleidsregel: 'wordt uitsluitend verleend, als' kap nodig is voor een bouwwerk/uitweg of vanwege boomziekte of veroudering.",
+    "H2: VFL zelf 'kan voorschriften aan de omgevingsvergunning verbinden' (art. 2.1.3 lid 2) (H1), maar de vastgestelde beleidsregel maakt herplant tot voorwaarde voor de vergunning ('uitsluitend verleend, als het beplantingsplan ... voorziet in de realisatie van een nieuwe erfsingel'). Volgens de regel over tegenstrijdige teksten telt de beleidsregel.",
+    "S1: herplant na illegale kap (VFL 2.1.4 lid 1) en dwangsombeleid; geen bestuurlijke boete.",
+    "Omgevingsplan art. 9.5 en 9.8 (vergunning voor verwijderen van diep wortelende bomen) geldt alleen binnen 'transitiefase Noordoostpolder' en beschermt rioolpersleiding, hoogspanningsverbinding en ecologische waarden: kleine gebiedsregel, telt niet mee.",
+    "Strengheid 40 ligt precies op de grens Soepel/Gemiddeld."
+  ],
+  "modelsignalen": [
+    "Het model kent geen goede plaats voor een regime dat alleen erfsingels en wegbeplanting buiten de kom beschermt. D2 ('aangewezen structuren') is gekozen; in een polder met veel erven kan de dekking in het buitengebied groot zijn, terwijl de bebouwde kom vrij blijft.",
+    "Een beleidsregel die hoort bij een ingetrokken verordening (Bomenverordening 2005) blijft door een overgangsbepaling (VFL 12.1.2 lid 5) gelden.",
+    "Strengheid 40 valt precies op de categoriegrens; een kleine wijziging in W of H verandert de categorie."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijst"
+}

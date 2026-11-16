@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0352/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Wijk bij Duurstede",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0352/2020/omgevingsplan/nld@2026-06-22;1",
+    "beginGeldigheid": "2026-07-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0352_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0352/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Wijk bij Duurstede",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0352/2025/omgevingsvisie/nld@2026-08-31;1",
+    "beginGeldigheid": "2026-08-31",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0352_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:56Z"
+  }
+]

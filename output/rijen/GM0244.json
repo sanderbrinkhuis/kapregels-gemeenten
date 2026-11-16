@@ -1,0 +1,84 @@
+{
+  "provincie": "Gelderland",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "modelsignalen": [
+    "De uitzondering 'vruchtbomen en windschermen om boomgaarden' (APV 4:11 lid 3 onder b) is dubbelzinnig: ofwel alle vruchtbomen, ofwel alleen die bij boomgaarden. Het model telt 'alle fruitbomen in tuinen' als -1; hier is dat niet vast te stellen en dat levert een D-bereik 2-3 op dat over de categoriegrens loopt.",
+    "Een beleidsregel die een verwijzing naar het verkeerde artikel bevat (boete 'op grond van artikel 6:1, lid 2' terwijl dat lid de WED-aanwijzing is en geen bestuurlijke boete) kan een bestuurlijke boete suggereren die in de regeling zelf niet bestaat; gescoord als S1 volgens het besluit dat een boete alleen in beleid niet telt.",
+    "De drempel (65 cm) geldt alleen voor 'een alleenstaande boom'; boomgroepen, bomenrijen en houtsingels vallen zonder drempel onder het verbod. Het model kent geen regel voor die mengvorm; D is gescoord op de drempel voor de alleenstaande (tuin)boom."
+  ],
+  "gm_code": "GM0244",
+  "gemeente": "Hattem",
+  "brondocument": "Algemene plaatselijke verordening gemeente Hattem 2021 (APV) art. 4:10, 4:11, 4:11a, 4:12, 6:1; Beleidsregels houtopstanden gemeente Hattem (CVDR758596_1) art. 3, 4, 6, 7 en bijlage 2; Verordening op de heffing en invordering van leges 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR655911/7 ; https://lokaleregelgeving.overheid.nl/CVDR758596/1 ; https://lokaleregelgeving.overheid.nl/CVDR751493/2 ; https://lokaleregelgeving.overheid.nl/CVDR696238/2",
+  "datum_geldigheid": "APV CVDR655911_7 geldend vanaf 2026-03-13 t/m heden; beleidsregels CVDR758596_1 geldend vanaf 2026-03-13 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 7 per 2026-03-13. Beleidsregels: vastgesteld door het college op 21 oktober 2025, versie 1 in CVDR per 2026-03-13.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR751493_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de bodemverordening in samenhang met artikel 22.8 van de Omgevingswet' (kennelijke tikfout voor bomenverordening/APV). APV art. 6:1 lid 2 bevat zelf een WED-aanwijzing voor 4:11 lid 1. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 56 bekendmakingen op titel, waarvan 0 als besluit herkend, 1 aanvraag en 0 weigeringen volgens titel. De zoekmethode mist waarschijnlijk besluiten; het aantal zegt weinig. Geen grondslag genoemd.",
+  "vergunningplicht": "Omgevingsvergunning van het college voor het vellen van elke houtopstand (APV art. 4:11 lid 1), met uitzonderingen in lid 3. Bomen op de Bomenlijst: art. 4:11a lid 2 'wordt geen vergunning voor velling afgegeven, tenzij sprake is van een ernstige bedreiging van de openbare veiligheid, noodtoestand of andere uitzonderlijke situatie'.",
+  "drempel": "Omtrek 65 cm of minder op 1,30 m is vrijgesteld, maar alleen voor 'een alleenstaande boom' (art. 4:11 lid 3 onder e). Houtopstanden die geen alleenstaande boom zijn (boomgroep, houtwal, houtsingel, bosje) hebben geen drempel. Definitie boom in beleidsregels bijlage 1: omtrek minimaal 65 cm.",
+  "omtrek_cm": 65,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. Art. 4:11 lid 3 onder h: verbod niet van toepassing op 'houtopstand buiten de bebouwingscontour houtkap, met uitzondering van houtopstanden op de grond waarop op basis van het omgevingsplan een bestemming ‘wonen’, ‘bedrijf’, ‘agrarisch’, ‘horeca’, ‘detailhandel’ of ‘kantoor’ rust.' Binnen en buiten de kom vallen tuinen en erven dus onder het verbod; D is voor beide delen gelijk (3). Beleidsregels art. 1: van toepassing 'zowel op particuliere grond als op gemeentegrond'.",
+  "uitzonderingen": "Art. 4:11 lid 3: a. wegbeplantingen/eenrijige beplantingen langs landbouwgrond van niet-geknotte populieren of wilgen; b. 'vruchtbomen en windschermen om boomgaarden' (dubbelzinnig: alle vruchtbomen of alleen bij boomgaarden); c. kerstbomen; d. kweekgoed; e. alleenstaande boom met omtrek 65 cm of minder (niet als geplant uit herplantplicht); f. Plantgezondheidswet of aanschrijving; g. bestendig beheer/dunning; h. houtopstand buiten bebouwingscontour houtkap, behalve op grond met bestemming wonen, bedrijf, agrarisch, horeca, detailhandel of kantoor. Lid 4: noodkap met toestemming van de burgemeester. Geen uitzondering voor achtertuinen of tuinen tot een oppervlakte.",
+  "weigeringsgronden": "APV art. 4:11 lid 2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. De waarde voor het leefklimaat van de houtopstand.' Beleidsregels art. 4: 'Heeft de houtopstand geen hoge waarde, waarbij geen weigeringsgronden van toepassing zijn, dan wordt een kapvergunning verleend, inclusief herplantplicht'; vergunning ook niet 'voor het vellen van de eigen houtopstand als sprake is van een beperkte mate van overlast'. Bomenlijstbomen: art. 4:11a lid 2 (vrijwel geen vergunning).",
+  "herplantplicht": "APV art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften. Indien herplant redelijkerwijs niet mogelijk is, wordt een financiële compensatie gedaan in het compensatiefonds van de gemeente.' Beleidsregels art. 7: 'In alle gevallen waarbij een vergunningplichtige houtopstand wordt geveld of geschaad, wordt een herplantplicht opgelegd volgens de compensatietabel in Bijlage 2.' Na illegale kap: APV art. 4:12 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'.",
+  "herplant_ontsnapping": "Beleidsregels art. 7: 'Indien redelijkerwijs mogelijk, dient herplant plaats te vinden in de directe omgeving van de gevelde houtopstand. Indien dit redelijkerwijs niet mogelijk is, wordt in overleg met Kring groen gemeente Hattem elders gecompenseerd.' APV art. 4:11 lid 5: 'Indien herplant redelijkerwijs niet mogelijk is, wordt een financiële compensatie gedaan in het compensatiefonds van de gemeente.' Dus geen ontsnapping van de plicht; de uitweg is financiële compensatie. Het college beslist per geval over voorschriften.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV art. 4:12 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met het derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens de in deze verordening opgenomen artikelen ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Daarnaast het algemene instrumentarium (bestuursdwang, dwangsom) dat niet apart is geregeld.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... en artikel 4:11, eerste lid'. Ook strafbepaling art. 6:1 lid 1 en omgevingsplanactiviteit volgens de legesverordening (WED via Ow 5.1). Geen bestuurlijke boete voor kappen in de APV; beleidsregels art. 7 noemt alleen: 'In geval van illegale velling kan een boete bovenop de herplantplicht opgelegd worden op grond van artikel 6:1, lid 2 van de Algemene Plaatselijke Verordening' (lid 2 is de WED-aanwijzing en geen boetegrondslag).",
+  "procedure": "Omgevingsvergunning; leges art. 2.30 legesverordening 2026 (in werking 2026-10-21): EUR 59,00. Vergunning vervalt na drie jaar zonder gebruik (art. 4:11 lid 6). Beslistermijn, bezwaar en beroep niet apart gelezen. Vaststelling van de Bomenlijst volgens afdeling 3.4 Awb (art. 4:11a lid 4).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem: de Bomenlijst (APV art. 4:11a) is een aanvullende bescherming naast het brede regime en bepaalt D niet; lijst niet ingezien, aantal niet vastgesteld",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst (art. 4:11a) staat niet in het dossier en is niet ingezien; heeft geen invloed op D. Beslistermijn, bezwaar en beroep niet apart gelezen. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:11a",
+    "APV 4:12",
+    "APV 6:1",
+    "Beleidsregels houtopstanden art. 3, 4, 6, 7, bijlage 2",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: hele gemeente, drempel omtrek 65 cm voor een alleenstaande boom (art. 4:11 lid 3 onder e), dus middelmatig (60-100 cm). Boomgroepen en andere houtopstanden hebben geen drempel. Buiten de kom vallen alleen houtopstanden op grond met bestemming wonen, bedrijf, agrarisch, horeca, detailhandel of kantoor onder het verbod; tuinen en erven zijn dus gedekt en D is voor beide delen 3.",
+    "D-bereik 2-3: 'vruchtbomen en windschermen om boomgaarden' is dubbelzinnig. Als alle vruchtbomen zijn vrijgesteld, geldt correctie -1 (alle fruitbomen) en is D2. De puntschatting volgt de letterlijke tekst niet als -1, omdat 'om boomgaarden' ook op vruchtbomen kan slaan.",
+    "Citaat W: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11 lid 2): kan-weigering op natuur-, landschaps-, cultuurhistorische en leefklimaatwaarden, W2. Beleidsregels art. 4 zeggen dat zonder hoge waarde 'een kapvergunning verleend' wordt en dat bij hoge waarde een zwaarwegend maatschappelijk belang nodig is; daarom maximum 3. Voor bomen op de Bomenlijst geldt weigeren-tenzij (art. 4:11a lid 2), alleen in opmerkingen.",
+    "Citaat H: 'In alle gevallen waarbij een vergunningplichtige houtopstand wordt geveld of geschaad, wordt een herplantplicht opgelegd volgens de compensatietabel in Bijlage 2.' (beleidsregels art. 7, geldend; de APV zegt 'kan', dus telt de beleidsregel). Verplichte financiele compensatie: 'Indien herplant redelijkerwijs niet mogelijk is, wordt een financiële compensatie gedaan in het compensatiefonds van de gemeente.' (APV art. 4:11 lid 5): H3.",
+    "S1: WED-aanwijzing in de APV (art. 6:1 lid 2). De boete in beleidsregels art. 7 staat alleen in beleid en verwijst naar een verkeerd lid: telt als S1 (geen bestuurlijke boete in de regeling zelf). Het enige bestuurlijke boete-lid in de APV (6:1 lid 3) gaat over Wet veiligheidsregio's.",
+    "De legesverordening 2026 noemt 'de bodemverordening' (kennelijke tikfout). De oude legesverordeningen 2018 en 2019 staan nog als geldend in CVDR maar verwijzen naar de Wabo en zijn vervangen door de legesverordening 2026.",
+    "Beleidsregels bijlage 1 definieert boom als 'omtrek heeft van minimaal 65 centimeter' en schrijft '1,30 centimeter' (tikfout voor meter); de APV zelf zegt 1,30 meter.",
+    "Bijlage 2 beleidsregels: 'Herbeplanting vindt plaats binnen 2 jaar na de kap, niet geslaagde herbeplanting moet binnen 1 jaar vervangen worden.'",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): de uitzondering 'vruchtbomen en windschermen om boomgaarden' is een gangbare uitzondering voor boomgaarden en geeft geen −1 en geen bereik: D3 (2-3) → D3 zonder bereik."
+  ]
+}

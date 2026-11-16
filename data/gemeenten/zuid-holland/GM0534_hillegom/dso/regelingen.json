@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0534/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Hillegom",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0534/2025/omgevingsvisie/nld@28",
+    "beginGeldigheid": "2025-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0534_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:17Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0534/2025/2_8",
+    "titel": "Programma Landelijk Gebied en Duurzame Greenport Duin en Bollenstreek gemeente Hillegom",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0534/2025/2_8/nld@2026-01-22",
+    "beginGeldigheid": "2026-01-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0534_2025_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:17Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0534/2020/omgevingsplan",
+    "titel": "Technisch in beheer nemen van de bruidsschat in het Omgevingsplan gemeente Hillegom",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0534/2020/omgevingsplan/nld@2026-04-30;V4",
+    "beginGeldigheid": "2026-05-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0534_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:17Z"
+  }
+]

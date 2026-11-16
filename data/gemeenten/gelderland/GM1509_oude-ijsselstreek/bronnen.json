@@ -1,0 +1,29 @@
+{
+  "gemeente": "Oude IJsselstreek",
+  "gm_code": "GM1509",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Oude IJsselstreek",
+  "zoeknaam_bekendmakingen": "Oude IJsselstreek",
+  "opgehaald_op": "2026-11-15T14:09:55+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Oude IJsselstreek\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 54,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Oude IJsselstreek\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 28,
+  "geldende_regelingen": 17,
+  "geldend_met_kapartikelen": [
+    "CVDR24977_26",
+    "CVDR684533_1",
+    "CVDR692745_1",
+    "CVDR696460_3",
+    "CVDR713040_1",
+    "CVDR739305_1",
+    "CVDR753699_1"
+  ],
+  "bekendmakingen_besluiten": 11,
+  "bekendmakingen_aanvragen": 16,
+  "bekendmakingen_geweigerd": 1,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

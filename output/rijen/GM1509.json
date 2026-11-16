@@ -1,0 +1,88 @@
+{
+  "gm_code": "GM1509",
+  "gemeente": "Oude IJsselstreek",
+  "provincie": "Gelderland",
+  "brondocument": "Verordening Bomen en Landschap Oude IJsselstreek, art. 1-8, 10 (CVDR692745_1); APV 2025 art. 6:13 en 6:14 (CVDR753699_1); Uitvoerings- en handhavingsstrategie 2025 e.v. (CVDR739305_1); Verordening op de heffing en de invordering van leges 2018 art. 2.3.10 (CVDR24977_26); Omgevingsplan art. 22.299 (CVDR696460_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR692745/1 ; https://lokaleregelgeving.overheid.nl/CVDR753699/1 ; https://lokaleregelgeving.overheid.nl/CVDR739305/1",
+  "datum_geldigheid": "Verordening Bomen en Landschap CVDR692745_1 geldend vanaf 2023-02-08 t/m heden (peildatum scoren 2026-11-15); APV 2025 CVDR753699_1 vanaf 2025-12-24",
+  "laatste_wijziging": "Verordening Bomen en Landschap: enige versie, in werking 2023-02-08 (vastgesteld 24 november 2022); geen wijzigingen gevonden.",
+  "juridische_plaats": "Losse Verordening Bomen en Landschap (CVDR692745_1). APV 2025 art. 6:13 en 6:14 zeggen: 'De verordening bomen en landschap Oude IJsselstreek is van overeenkomstige toepassing op afdeling 3 van de APV'. Geen bewijs dat de regel als omgevingsplanactiviteit werkt: de geldende legesverordening 2018 (art. 2.3.10) verwijst nog naar 'artikel 2.2, eerste lid, aanhef en onder g, van de Wabo'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. De verordening is vastgesteld in de Wabo-tijd; of zij sinds 2024 als omgevingsplanregel werkt is niet vastgesteld, maar dat verandert S niet (eigen strafbepaling).",
+  "praktijkcontrole": "Sinds 2025: 28 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 11 besluiten en 1 geweigerd volgens titel (gmb-2026-198384, een esdoorn). De steekproef van 10 besluiten (gmb-2026-66356, gmb-2026-158927, gmb-2026-158808, gmb-2025-453684, gmb-2026-158759, gmb-2026-158835, gmb-2026-70442, gmb-2025-348014, gmb-2025-453654, gmb-2026-198384) noemt geen grondslag. Negen daarvan betreffen verlenging van de beslistermijn voor de kap van een of meer bomen: dat past bij een regime voor de hele gemeente.",
+  "vergunningplicht": "Vergunning (Verordening art. 3 lid 1): 'Het is verboden om zonder vergunning van het bevoegd gezag een boom, houtopstand of landschapselement te vellen of te laten vellen en te kandelaberen of te laten kandelaberen.'",
+  "drempel": "Art. 3 lid 3 onder a: verbod geldt niet voor 'een boom die een stamomtrek heeft van minder dan 0,90 meter op 1,30 meter hoogte boven het maaiveld. Als een boom meerstammig is, is de omtrek van de dikste stam doorslaggevend'. Dus vergunning vanaf stamomtrek van 90 cm.",
+  "omtrek_cm": 90,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar; geen onderscheid binnen en buiten de bebouwde kom in de kapregel (art. 3 lid 1). Landschapselementen zijn alleen buiten de kom ('landschapselement : ... op een locatie buiten de bebouwde kom'). Daarnaast individueel aangewezen Bijzondere Bomen (art. 6, ongeacht omvang): 'minimale omtrek van 2,50 meter' of cultuurhistorisch, dendrologisch of ecologisch waardevol, 'zichtbaar vanaf de openbare weg'.",
+  "uitzonderingen": "Art. 2: niet van toepassing op a. niet-geknotte eenrijige populieren en wilgen langs wegen, watergangen en landbouwpercelen; b. 'fruitbomen' (definitie: 'appel (Malus) en peer (Pyrus)'); c. kerstbomen; d. kweekgoed; e. bossen van bosbouwondernemingen; f. 'houtopstanden die groter zijn dan 1000m2'; g. rijbeplanting van meer dan 20 bomen. Art. 3 lid 3: Plantgezondheidswet of aanschrijving, storm of calamiteit (op voorwaarde van herplant), periodiek hakhout, knotten, dunnen; lid 4: direct vellen bij ernstige bedreiging. Alle fruitbomen (appel, peer) zijn overal uitgezonderd, dus ook in tuinen: ruime uitzondering (-1). Geen oppervlakte-, tuin- of aantalsuitzondering.",
+  "weigeringsgronden": "Art. 4 lid 1: 'Het bevoegd gezag weigert de vergunning voor het vellen van een boom, houtopstand of landschapselement, als bij de beoordeling blijkt dat de boom, houtopstand of landschapselement in goede gezondheid is en een levensverwachting heeft van meer dan 10 jaar.' Lid 2: 'kan het bevoegd gezag een vergunning ... verlenen als er sprake is van zwaarwegend maatschappelijk belang.' Bijzondere Boom: art. 6 lid 5, levensverwachting minder dan 5 jaar.",
+  "herplantplicht": "Art. 5 lid 1: 'Het bevoegd gezag heeft als uitgangspunt dat bij het verlenen van de vergunning herplant, van bij voorkeur inheemse bomen/struiken wordt opgelegd als vergunningvoorschrift. Hierbij wordt uitgegaan van minimaal eenzelfde aantal nieuw te planten bomen/struiken als waarvoor de vergunning wordt verleend.' Geen verplichte financiële compensatie bij gewone kap; boomwaarde alleen bij illegale kap (art. 7 lid 3, 'kan').",
+  "herplant_ontsnapping": "Art. 5 lid 2: 'Hiervan kan gemotiveerd worden afgeweken als blijkt dat er sprake is van onvoldoende groeiruimte voor de nieuwe herplant in het volwassen stadium.' Het bevoegd gezag (college) beslist per geval. Betalen in plaats van herplant: niet gevonden. Na illegale kap: art. 7 lid 3 'het bevoegd gezag kan bij overtreding van artikel 3 ... herplant opleggen volgens artikel 5'.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 10: 'De persoon die handelt in strijd met de artikelen 3, 5 en 7 van deze verordening kan worden gestraft met een geldboete van de tweede categorie.' Art. 5 is het herplantvoorschrift. Het algemene instrumentarium (bestuursdwang of dwangsom) staat niet in de verordening.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling art. 10: 'kan worden gestraft met een geldboete van de tweede categorie. Of er kan gebruik gemaakt worden van het toepassen van de taxatie van de boomwaarde om het boetebedrag te bepalen. Daarnaast kan worden gestraft met de mogelijkheid van het doorzetten van de strafbare feiten naar politie of de Officier van Justitie.' Geen WED-aanwijzing gevonden (APV 5:1 noemt 6:13 en 6:14 niet). Geen bestuurlijke boete genoemd. Herplant bij illegale kap: art. 7 lid 3. Handhavingsstrategie CVDR739305_1: 'Zo kan bijvoorbeeld een herplantplicht worden opgelegd wanneer er sprake is van illegale kap.'",
+  "procedure": "Aanvraag omgevingsvergunning; leges legesverordening 2018 art. 2.3.10: € 65,00 (tarief verwijst nog naar de Wabo). APV 1:2 lid 3: de APV-beslistermijn geldt niet voor een omgevingsvergunning. Bijzondere Boom: aanwijzing wordt aan de eigenaar bekendgemaakt en gepubliceerd (art. 6 lid 2). Bezwaar en beroep niet apart gelezen.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "",
+  "status": "ok",
+  "ontbrekend": "De toelichting waarnaar art. 4 lid 2 verwijst ('Zie de toelichting onderaan deze Verordening') staat niet in de CVDR-tekst. Art. 9 (waarnaar art. 6 lid 4 verwijst) ontbreekt in de gepubliceerde tekst (nummering gaat van art. 8 naar art. 10). Geen geldende legesverordening met omgevingsplanactiviteit gevonden (alleen leges 2018 met Wabo-verwijzing). Register of kaart van Bijzondere Bomen niet ingezien (niet nodig voor D). Gemeentelijke website niet geraadpleegd; geen beleidsregel over herplant of compensatie gevonden.",
+  "artikelnummers": [
+    "Verordening Bomen en Landschap art. 1",
+    "art. 2",
+    "art. 3",
+    "art. 4",
+    "art. 5",
+    "art. 6",
+    "art. 7",
+    "art. 10",
+    "APV 2025 art. 6:13",
+    "APV 2025 art. 6:14",
+    "Leges 2018 art. 2.3.10"
+  ],
+  "opmerkingen": [
+    "D = 2: hele gemeente, drempel 'minder dan 0,90 meter' stamomtrek (vergunning vanaf 90 cm; D = 3 voor 60-100 cm), minus 1 omdat art. 2 onder b alle 'fruitbomen' uitzondert, ook in tuinen. De definitie beperkt fruitbomen tot appel en peer; dat is gelezen als 'alle fruitbomen'. Wordt de uitzondering te beperkt gevonden voor een correctie, dan is D = 3 (strengheid dan 60 in plaats van 40; categorie Streng). Dat is hier niet als bereik opgenomen. Populieren en wilgen zijn alleen uitgezonderd als eenrijige beplanting langs wegen, watergangen en landbouwpercelen en tellen niet.",
+    "'Houtopstand' (definitie: 'een zelfstandige eenheid van voornamelijk inheemse bomen ...') heeft in art. 3 lid 3 geen eigen drempel; de drempel van 90 cm geldt voor 'een boom'. Per besluit gebruiker is D gescoord op de drempel voor bomen. Houtopstanden groter dan 1000 m2 zijn uitgezonderd (art. 2 onder f).",
+    "W = 3: 'Het bevoegd gezag weigert de vergunning ... als ... in goede gezondheid is en een levensverwachting heeft van meer dan 10 jaar.' Verlenen kan alleen bij 'zwaarwegend maatschappelijk belang' (art. 4 lid 2).",
+    "H = 2, minimum 1: 'Het bevoegd gezag heeft als uitgangspunt dat bij het verlenen van de vergunning herplant ... wordt opgelegd als vergunningvoorschrift.' Staat in de verordening zelf en is in beginsel standaard; afwijken kan gemotiveerd bij onvoldoende groeiruimte. Het woord 'uitgangspunt' kan ook als per-geval beoordeling worden gelezen (dan H = 1).",
+    "S = 1, maximum 2: art. 10 is een eigen strafbepaling ('geldboete van de tweede categorie'), dus kap-specifiek. De zin 'Of er kan gebruik gemaakt worden van het toepassen van de taxatie van de boomwaarde om het boetebedrag te bepalen' is onduidelijk: dat kan een bestuurlijke boete in de regeling zelf betekenen (dan S = 2 of meer). De tekst noemt geen bestuurlijke boete; daarom punt 1, maximum 2.",
+    "Bijzondere Bomen (art. 6) zijn alleen een extra bescherming binnen het brede regime en zijn niet apart gescoord; de criteria zijn streng ('minimale omtrek van 2,50 meter').",
+    "APV 2025 art. 6:13 en 6:14 (afdeling 'het bewaren van houtsopstanden') hebben geen eigen kapregel en verwijzen naar de verordening. Oude Bomenverordening is ingetrokken (art. 11 lid 3).",
+    "Beleidsregels: de Subsidieregeling Landschap en Biodiversiteit en het Landschapsfonds sluiten 'herplant na een verleende kapvergunning' uit van subsidie; dat is geen herplantregel. Geen compensatie of boomwaarde bij gewone kap.",
+    "Aantal bekendmakingen (28 op titel, 11 besluiten) zegt weinig: de zoekmethode mist soms besluiten.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een uitzondering voor alleen bepaalde fruitbomen (hier alleen appel en peer) is niet 'alle fruitbomen in tuinen' en geeft geen −1: D2 → D3."
+  ],
+  "modelsignalen": [
+    "Art. 2 onder b van de verordening beperkt 'fruitbomen' tot appel en peer. Het model telt 'alle fruitbomen in tuinen' als ruime uitzondering (-1). Het is onduidelijk of een uitzondering voor alleen appel en peer die correctie rechtvaardigt; hier is wel -1 toegepast en het verschil is een categorie (40 tegenover 60).",
+    "Een strafbepaling met 'of ... de taxatie van de boomwaarde om het boetebedrag te bepalen' (art. 10) valt niet duidelijk onder 'bestuurlijke boete' of 'strafrechtelijke geldboete'. Het model kent geen regel voor een boete die in een gemeentelijke verordening aan de boomwaarde is gekoppeld zonder dat de tekst 'bestuurlijk' zegt.",
+    "Een legesverordening die nog naar de Wabo verwijst (leges 2018) levert geen bewijs voor 'werkt als omgevingsplanactiviteit'; het model heeft geen regel voor gemeenten zonder bijgewerkte leges en zonder WED-aanwijzing."
+  ]
+}

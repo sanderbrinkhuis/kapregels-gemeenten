@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0512/2025/vbb-omgevingsplan-20250702-124956",
+    "titel": "Voorbereidingsbesluit omgevingsplan bodemregels van de gemeente Gorinchem",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0512/2025/vbb-omgevingsplan-20250702-124956/nld@2025-07-18;1",
+    "beginGeldigheid": "2025-07-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0512_2025_vbb_omgevingsplan_20250702_124956?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0512/2025/Gebiedspaspoort-WoonwijkenWest",
+    "titel": "Gebiedspaspoort Woonwijken West",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0512/2025/Gebiedspaspoort-WoonwijkenWest/nld@2026-04-16;1",
+    "beginGeldigheid": "2026-04-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0512_2025_Gebiedspaspoort_WoonwijkenWest?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0512/2026/programma-stadsnatuur-26",
+    "titel": "Programma Stadsnatuur Gorinchem",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0512/2026/programma-stadsnatuur-26/nld@2026-07-22;1",
+    "beginGeldigheid": "2026-07-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0512_2026_programma_stadsnatuur_26?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0512/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Gorinchem",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0512/2020/omgevingsplan/nld@2026-08-04;1",
+    "beginGeldigheid": "2026-09-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0512_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:53Z"
+  }
+]

@@ -1,0 +1,83 @@
+{
+ "provincie": "Noord-Holland",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "modelsignalen": [
+  "Twee verordeningen over hetzelfde onderwerp staan in CVDR als geldend: de Bomenverordening (2023) en de Kapverordening (1996/2009, op basis van de Boswet). De Bomenverordening trekt alleen de Bomenverordening 2014 in (art. 17 lid 2), niet de Kapverordening. Het model heeft geen regel voor een niet formeel ingetrokken oudere verordening; D loopt daardoor van 2 tot 4 en de betrouwbaarheid wordt laag.",
+  "Bijlage X van het Groenbeleid noemt kap alleen toegestaan om 'twee redenen' (zwaarwegend maatschappelijk belang of weinig waarde via puntentelling), maar de verordening zegt 'geweigerd indien de belangen van verlening niet opwegen'. Het model kent geen regel voor beleid dat de toetsing mogelijk verscherpt zonder de formulering 'alleen in bijzondere gevallen'; W is daarom 2 met maximum 3.",
+  "Achtertuinuitzondering geldt hier ook voor bomen buiten de bebouwde kom (art. 3 lid 3 sub d zonder beperking); het model beschrijft die combinatie niet apart."
+ ],
+ "gm_code": "GM0437",
+ "gemeente": "Ouder-Amstel",
+ "brondocument": "Bomenverordening Ouder-Amstel (CVDR706004_1), art. 1, 2, 3, 4, 6, 9, 10, 11, 17; Verordening tot het bewaren van houtopstanden (Kapverordening, CVDR53776_1), art. 2, 6, 9 (status onzeker, zie opmerkingen); APV Ouder-Amstel 2024 (CVDR712910_1) art. 4.10-4.12 vervallen, art. 6:1; Groenbeleid Ouder-Amstel (CVDR754949_1) bijlage X; Legesverordening 2026 art. 30 (CVDR753631_1); Omgevingsplan art. 22.299 (CVDR696315_7)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR706004/1 ; https://lokaleregelgeving.overheid.nl/CVDR53776/1 ; https://lokaleregelgeving.overheid.nl/CVDR754949/1",
+ "datum_geldigheid": "Bomenverordening CVDR706004_1 geldend vanaf 2023-12-12 t/m heden; Kapverordening CVDR53776_1 staat in CVDR als geldend vanaf 2009-04-03 (zonder uitwerkingtreding); Groenbeleid CVDR754949_1 geldend vanaf 2026-01-03 (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "Bomenverordening: versie 1 (nieuwe regeling, vervangt Bomenverordening 2014), vastgesteld 2023-11-30, in werking 2023-12-12. Kapverordening: laatste wijziging in CVDR 2018-12-05 (art. 5 lid 3 toegevoegd). APV: kapartikelen 4.10-4.12 vervallen bij APV 2024 (in werking 2024-01-01).",
+ "juridische_plaats": "Bomenverordening (losse verordening, art. 149 Gemeentewet); werkt als omgevingsplanactiviteit volgens leges art. 30 ('bedoeld in artikel 4:11 van de Algemene plaatselijke verordening of in de geldende Bomenverordening Ouder-Amstel in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. Kapverordening 1996: status onzeker (zie opmerkingen).",
+ "praktijkcontrole": "Sinds 2025: 83 bekendmakingen op titel (51 aanvragen, 25 besluiten, 1 weigering volgens de titel). De steekproef van 10 besluiten noemt geen grondslag (o.a. gmb-2026-321592 over 2 monumentale bomen). Er zijn meerdere ingetrokken of buiten behandeling gestelde aanvragen voor een boom in een tuin (o.a. gmb-2025-249552, een achtertuin), wat past bij burgers die onzeker zijn over de plicht; niet vast te stellen welke verordening is toegepast. Veel besluiten betreffen gemeentelijke of projectkap (A9, De Nieuwe Kern).",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) van het college voor het vellen van houtopstand of kappen van een boom binnen en buiten de bebouwde kom (art. 3 lid 1 sub a en b), en voor bomen op de Monumentale Bomenlijst (art. 3 lid 1 sub c, art. 4).",
+ "drempel": "Art. 3 lid 3 sub a: geen vergunning voor 'Een boom met een stamdiameter van minder dan 20 centimeter op 1.30 meter boven het maaiveld' (diameter 20 cm = omtrek ca. 62,8 cm). Publiekrechtelijk lichaam als eigenaar: 10 cm. Een 'boom' is gedefinieerd met stamdiameter van minimaal 10 cm (art. 1 sub e).",
+ "omtrek_cm": 62.8,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Art. 2 lid 2: 'van toepassing binnen de bebouwde kom en ook van toepassing buiten de bebouwde kom voor zover afdeling 11.3 van Besluit activiteiten leefomgeving (hierna: Bal) niet van toepassing is.' Particulier en openbaar, hele grondgebied. Daarnaast een Monumentale Bomenlijst (art. 4: 'Monumentale bomen en bijzondere bomen kunnen binnen en buiten de bebouwde kom staan'); die lijst is niet ingezien en bepaalt D niet (breder regime geldt).",
+ "uitzonderingen": "Art. 3 lid 3 sub d: 'Een houtopstand of boom in een achtertuin van een woning.' (ruime tuinuitzondering, D min 1). Verder: bomen onder 20 cm diameter, Plantgezondheidswet of aanschrijving, hakhout, knotten, dunning (max 30%), heggen en klimplanten onder de maat, kleine (lint)begroeiing en bosplantsoen onder 100 m2, sierplantsoen (sub e t/m l). Noodvergunning bij acuut gevaar (lid 4). Fruitbomen, coniferen, populieren en wilgen zijn niet uitgezonderd.",
+ "weigeringsgronden": "Art. 6 lid 1: 'De omgevingsvergunning voor het vellen van een boom als bedoeld in artikel 3 wordt onder verwijzing naar beleid en/of beheer geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand of boom.' Lid 2: natuur- en milieuwaarden, landschappelijke, cultuurhistorische, stads- en dorpsschoon, recreatie en leefbaarheid, leeftijd, toekomstverwachting, ruimtelijke structuur. Monumentale boom (art. 4 lid 2): 'slechts bij uitzondering worden verleend'. Groenbeleid bijlage X: 'Het beleid gaat ervan uit dat zoveel mogelijk bomen te behouden.'",
+ "herplantplicht": "Art. 10 lid 1: 'Het college verbindt aan de omgevingsvergunning het voorschrift dat binnen een door het college te bepalen termijn en overeenkomstig door het college te geven aanwijzingen wordt herplant, tenzij zwaarwegende argumenten zich daartegen verzetten.' Art. 10 lid 3: 'Als herplant niet tot de mogelijkheden behoort, kan aan de omgevingsvergunning het voorschrift worden verbonden dat de monetaire boomwaarde van de gevelde houtopstand of boom wordt gestort in het bomencompensatiefonds van de gemeente.' Art. 9 lid 4: voorschrift herplant 'of een geldelijke bijdrage' 'overeenkomstig vastgesteld beleid'.",
+ "herplant_ontsnapping": "'tenzij zwaarwegende argumenten zich daartegen verzetten' (art. 10 lid 1); het college beslist per geval. Herplant na illegale kap: art. 10 lid 5 'kan', art. 11 lid 1 'schrijft ... aan'. Betaling in plaats van planten: 'kan' (art. 10 lid 3).",
+ "sancties": "Bomenverordening bevat geen eigen strafbepaling of WED-aanwijzing en geen bestuurlijke boete (art. 14 gaat alleen over toezichthouders). Route: leges art. 30 noemt het vellen een omgevingsplanactiviteit (art. 5.1 lid 1 onder a Ow, in samenhang met art. 22.8) en WED art. 1a onder 2 dekt de Omgevingswet; S1 zonder bereik. Foute verwijzing: APV art. 6:1 lid 2 noemt 'artikel 4:11, tweede lid' van de APV, dat vervallen is. Kapverordening art. 9: hechtenis tot drie maanden of geldboete tweede categorie voor overtreding van art. 2, 6 en 8. Herplantaanschrijving na illegale kap: art. 11 lid 1.",
+ "procedure": "Aanvraag via het Omgevingsloket. Leges 2026 art. 30: EUR 129,70. Art. 7: beschikking treedt in werking na afloop van de bezwaartermijn (art. 6.7 Awb); art. 8: vergunning vervalt na twee jaar zonder gebruik. Bezwaar en beroep volgens Awb. Beslistermijn niet apart gelezen. Geen positieve fictieve beschikking gevonden.",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Bomenverordening: niets geregeld voor niet-nakomen. Kapverordening art. 6 lid 4 (indien van kracht): 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' en art. 9: strafbaar met hechtenis of geldboete tweede categorie.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 4
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Monumentale Bomenlijst niet ingezien (volgens Groenbeleid bijlage V 'op de website van de gemeente gepubliceerd', met bomen op particuliere grond mogelijk); geen lijstsysteem, dus bepaalt D niet",
+ "status": "onzeker",
+ "ontbrekend": "Status van de Kapverordening (CVDR53776_1): staat als geldend in CVDR zonder intrekking, terwijl de Bomenverordening hetzelfde regelt; geen intrekkingsbesluit gevonden. Monumentale Bomenlijst niet ingezien. Nadere regels bomencompensatiefonds (art. 9 lid 6) en 'beleidsnotitie (ongepubliceerd)' uit Groenbeleid bijlage X niet in het dossier. Beslistermijn niet gelezen. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 3, 4, 6, 9, 10, 11, 17",
+  "Kapverordening art. 2, 6, 9",
+  "APV 2024 art. 4.10-4.12 (vervallen), 6:1",
+  "Groenbeleid bijlage X",
+  "Legesverordening 2026 art. 30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Welke tekst geldt: de Bomenverordening (in werking 2023-12-12; 'Deze regeling vervangt de Bomenverordening 2014') is volgens APV 4.10-4.12 ('De hierop betrekking hebbende regelgeving is te vinden in de Bomenverordening Ouder-Amstel'), leges art. 30 en Groenbeleid ('In de gemeente geldt een bomenverordening') de actuele regeling. De Kapverordening uit 1996 (Boswet, CVDR53776_1) is niet in CVDR ingetrokken en regelt hetzelfde gebied; beide gelden voor het hele grondgebied, niet voor verschillende delen. Gescoord is op de Bomenverordening; de Kapverordening is als maximum meegenomen (verbod zonder drempel, ook voor tuinen: D4, voorbeeldbomen A en B dan 'ja'). Open punt voor de gemeente.",
+  "D2 (min 2, max 4): drempel diameter 20 cm = omtrek ca. 62,8 cm (D3), min 1 voor de ruime tuinuitzondering 'achtertuin van een woning' (art. 3 lid 3 sub d): D2. Maximum 4 alleen als de Kapverordening nog geldt. Monumentale Bomenlijst (art. 4) bepaalt D niet.",
+  "Voorbeeldbomen: A (omtrek 80 cm, achtertuin) en B (omtrek 40 cm, achtertuin): 'nee' volgens Bomenverordening art. 3 lid 3 sub d. Boom A (diameter ca. 25 cm) valt boven de drempel maar in de achtertuinuitzondering.",
+  "W2: 'wordt onder verwijzing naar beleid en/of beheer geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand of boom.' (art. 6 lid 1), zonder bereik volgens besluit. Maximum 3 omdat Groenbeleid bijlage X (raad, geldend vanaf 2026-01-03) kap alleen toestaat bij 'twee redenen' (zwaarwegend maatschappelijk belang of weinig waarde) maar niet 'alleen in bijzondere gevallen' zegt; het beoordelingsformulier is 'geen onderdeel van het groenbeleid'.",
+  "H2: 'wordt herplant, tenzij zwaarwegende argumenten zich daartegen verzetten.' (art. 10 lid 1). Maximum 3: de storting is volgens art. 10 lid 3 'kan' en het Groenbeleid 4.6 zegt 'Indien het niet mogelijk is om de boom te vervangen, wordt er een bedrag in het bomencompensatiefonds gestort', maar die passage gaat mogelijk over gemeentebomen en nadere regels voor het fonds (art. 9 lid 6) zijn niet gevonden.",
+  "S1: leges art. 30 noemt het vellen van een houtopstand 'bedoeld in ... de geldende Bomenverordening Ouder-Amstel in samenhang met artikel 22.8 van de Omgevingswet'; daarmee omgevingsplanactiviteit en WED via Ow (S1 zonder bereik). Geen bestuurlijke boete. Foute verwijzing: APV art. 6:1 lid 2 verwijst naar 'artikel 4:11, tweede lid', dat vervallen is.",
+  "Herplant na illegale kap: art. 11 lid 1 'Het college schrijft de zakelijk gerechtigde ... aan om tot herplant over te gaan.' (verplicht); art. 10 lid 5 zegt 'kan'. Telt niet voor H.",
+  "Geen lijstsysteem: de lijst (Monumentale Bomenlijst) is een aanvulling op een breed regime. Art. 3 lid 2 beschermt ook bomen die op grond van een herplantplicht zijn aangeplant.",
+  "Beleidsregel Groenbeleid bijlage X (raad, 2025-11-27, in werking 2026-01-03) is meegewogen voor W en H; de bijlage verwijst naar 'de beleidsnotitie (ongepubliceerd)' die in de overgangsperiode 'van kracht' is: niet beschikbaar.",
+  "Bomenverordening wordt volgens het Groenbeleid 'in de toekomst geactualiseerd en beleidsarm gemaakt'; en kapregels worden 'voor 2032 in het omgevingsplan verwerkt'. Beide nog niet geldend en niet meegeteld."
+ ]
+}

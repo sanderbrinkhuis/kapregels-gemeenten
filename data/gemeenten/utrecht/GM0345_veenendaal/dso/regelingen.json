@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0345/2025/VB000011TijdelijkDeel000011",
+    "titel": "Voorbeschermingsregels Het Ambacht 2025",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0345/2025/VB000011TijdelijkDeel000011/nld@2025-12-16",
+    "beginGeldigheid": "2025-12-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0345_2025_VB000011TijdelijkDeel000011?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0345/2020/omgevingsplan",
+    "titel": "Wijzigingsbesluit 4e wijziging Omgevingsplan, deel 1",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0345/2020/omgevingsplan/nld@2026-09-15",
+    "beginGeldigheid": "2026-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0345_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:44Z"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "gemeente": "IJsselstein",
+  "gm_code": "GM0353",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "IJsselstein",
+  "zoeknaam_bekendmakingen": "IJsselstein",
+  "opgehaald_op": "2026-11-14T18:22:23+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"IJsselstein\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 41,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"IJsselstein\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 17,
+  "geldende_regelingen": 10,
+  "geldend_met_kapartikelen": [
+    "CVDR647099_1",
+    "CVDR673758_1",
+    "CVDR692171_6",
+    "CVDR696285_3",
+    "CVDR750759_1",
+    "CVDR757353_1",
+    "CVDR759438_1"
+  ],
+  "bekendmakingen_besluiten": 5,
+  "bekendmakingen_aanvragen": 9,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

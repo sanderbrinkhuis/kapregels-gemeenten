@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0597/2024/Regeling6106388c1fe34271aa36e4b12693e336",
+    "titel": "Programma Geluid en Lucht 2025 - 2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0597/2024/Regeling6106388c1fe34271aa36e4b12693e336/nld@2024-10-23;08394786",
+    "beginGeldigheid": "2024-11-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0597_2024_Regeling6106388c1fe34271aa36e4b12693e336?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:17Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0597/2025/Regelingfa7514b5570445cb8c75aa5d1f994162",
+    "titel": "Omgevingsvisie Ridderkerk",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0597/2025/Regelingfa7514b5570445cb8c75aa5d1f994162/nld@2025-09-15;10540675",
+    "beginGeldigheid": "2025-09-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0597_2025_Regelingfa7514b5570445cb8c75aa5d1f994162?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:17Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0597/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Ridderkerk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0597/2020/omgevingsplan/nld@2026-10-06;13535028",
+    "beginGeldigheid": "2026-11-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0597_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:17Z"
+  }
+]

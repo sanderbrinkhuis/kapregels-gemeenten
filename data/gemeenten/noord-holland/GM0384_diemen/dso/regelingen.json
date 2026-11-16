@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0384/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Diemen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0384/2020/omgevingsplan/nld@2024-07-22;14070534",
+    "beginGeldigheid": "2024-08-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0384_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0384/2024/Regeling5391976fdd6746deac4c596f0c8c06ce",
+    "titel": "Actieplan geluid gemeente Diemen 2024 - 2028",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0384/2024/Regeling5391976fdd6746deac4c596f0c8c06ce/nld@2024-10-17;21203440",
+    "beginGeldigheid": "2024-10-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0384_2024_Regeling5391976fdd6746deac4c596f0c8c06ce?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:51Z"
+  }
+]

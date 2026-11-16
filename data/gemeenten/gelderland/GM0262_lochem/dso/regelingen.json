@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0262/2024/Regelingafc0c6a68c684c5190bc3924b2c99adc",
+    "titel": "Omgevingsvisie Lochem 2040 “Krachtig en in balans”",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0262/2024/Regelingafc0c6a68c684c5190bc3924b2c99adc/nld@2024-10-10;14210083",
+    "beginGeldigheid": "2024-10-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0262_2024_Regelingafc0c6a68c684c5190bc3924b2c99adc?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0262/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Lochem",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0262/2020/omgevingsplan/nld@2025-09-17;09270834",
+    "beginGeldigheid": "2025-09-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0262_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0262/2026/Regeling891f5fee56e8439bbae95df3eed19b9a",
+    "titel": "Sierteelt van niet-biologische bloemgewassen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0262/2026/Regeling891f5fee56e8439bbae95df3eed19b9a/nld@2026-03-05;10084496",
+    "beginGeldigheid": "2026-03-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0262_2026_Regeling891f5fee56e8439bbae95df3eed19b9a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:33Z"
+  }
+]

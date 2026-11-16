@@ -1,0 +1,27 @@
+{
+  "gemeente": "Bernheze",
+  "gm_code": "GM1721",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Bernheze",
+  "zoeknaam_bekendmakingen": "Bernheze",
+  "opgehaald_op": "2026-11-15T21:05:18+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Bernheze\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 34,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Bernheze\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 7,
+  "geldende_regelingen": 13,
+  "geldend_met_kapartikelen": [
+    "CVDR464114_2",
+    "CVDR663111_2",
+    "CVDR668492_1",
+    "CVDR696491_4",
+    "CVDR753446_2"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

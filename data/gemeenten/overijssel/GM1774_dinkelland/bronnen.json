@@ -1,0 +1,31 @@
+{
+  "gemeente": "Dinkelland",
+  "gm_code": "GM1774",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Dinkelland",
+  "zoeknaam_bekendmakingen": "Dinkelland",
+  "opgehaald_op": "2026-11-14T21:47:54+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Dinkelland\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 65,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Dinkelland\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 255,
+  "geldende_regelingen": 22,
+  "geldend_met_kapartikelen": [
+    "CVDR328597_2",
+    "CVDR661307_1",
+    "CVDR672550_1",
+    "CVDR676355_1",
+    "CVDR676356_1",
+    "CVDR696504_2",
+    "CVDR712547_1",
+    "CVDR738530_1",
+    "CVDR753336_1"
+  ],
+  "bekendmakingen_besluiten": 97,
+  "bekendmakingen_aanvragen": 158,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

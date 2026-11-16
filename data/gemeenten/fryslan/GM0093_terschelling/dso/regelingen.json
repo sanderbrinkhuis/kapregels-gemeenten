@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0093/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Terschelling",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0093/2020/omgevingsplan/nld@5",
+    "beginGeldigheid": "2024-05-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0093_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0093/2026/10_4",
+    "titel": "Voorbereidingsbesluit Boddelenweg 5 te Hoorn",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm0093/2026/10_4/nld@8",
+    "beginGeldigheid": "2026-04-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0093_2026_10_4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:07Z"
+  }
+]

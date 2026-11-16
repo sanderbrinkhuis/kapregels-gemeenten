@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0622/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Vlaardingen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0622/2020/omgevingsplan/nld@2026-01-22;11311374",
+    "beginGeldigheid": "2026-01-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0622/2026/Regeling7affcda60b6d49b382c21579aa0014b0",
+    "titel": "Thematisch omgevingsprogramma maatschappelijke voorzieningen – 2025",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0622/2026/Regeling7affcda60b6d49b382c21579aa0014b0/nld@2026-04-23;14460780",
+    "beginGeldigheid": "2026-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2026_Regeling7affcda60b6d49b382c21579aa0014b0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0622/2026/Regelingba29f6c55ebb4ab39888235a37bddc96",
+    "titel": "Deelomgevingsprogramma ‘Integrale gebiedsontwikkeling Nieuwe Binnenstad’",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0622/2026/Regelingba29f6c55ebb4ab39888235a37bddc96/nld@2026-05-05;11003550",
+    "beginGeldigheid": "2026-05-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2026_Regelingba29f6c55ebb4ab39888235a37bddc96?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0622/2026/Regelingace6881d752e481990c70de66e7e135c",
+    "titel": "Deelomgevingsprogramma Parkeernormen Vlaardingen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0622/2026/Regelingace6881d752e481990c70de66e7e135c/nld@2026-07-20;13452541",
+    "beginGeldigheid": "2026-07-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2026_Regelingace6881d752e481990c70de66e7e135c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0622/2026/Regeling65d4cb42d22648cf928e377a83f8c023",
+    "titel": "Deelomgevingsprogramma Parkeerregulering Vlaardingen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0622/2026/Regeling65d4cb42d22648cf928e377a83f8c023/nld@2026-07-21;13474686",
+    "beginGeldigheid": "2026-07-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2026_Regeling65d4cb42d22648cf928e377a83f8c023?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0622/2026/Regelingef733ab4e8b84d5db28ee50a8e83d174",
+    "titel": "Deelomgevingsprogramma Duurzame Mobiliteit Vlaardingen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0622/2026/Regelingef733ab4e8b84d5db28ee50a8e83d174/nld@2026-07-22;13352812",
+    "beginGeldigheid": "2026-07-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2026_Regelingef733ab4e8b84d5db28ee50a8e83d174?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0622/2026/Regeling45970cdce3604cf086afc5a9d5e2763d",
+    "titel": "Thematisch omgevingsprogramma Klimaatadaptatie Vlaardingen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0622/2026/Regeling45970cdce3604cf086afc5a9d5e2763d/nld@2026-09-14;11444794",
+    "beginGeldigheid": "2026-09-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0622_2026_Regeling45970cdce3604cf086afc5a9d5e2763d?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:47Z"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "gemeente": "Ridderkerk",
+  "gm_code": "GM0597",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Ridderkerk",
+  "zoeknaam_bekendmakingen": "Ridderkerk",
+  "opgehaald_op": "2026-11-16T14:06:44+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Ridderkerk\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 81,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Ridderkerk\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 47,
+  "geldende_regelingen": 29,
+  "geldend_met_kapartikelen": [
+    "CVDR305685_2",
+    "CVDR671903_1",
+    "CVDR674333_1",
+    "CVDR696361_5",
+    "CVDR713827_1",
+    "CVDR750371_2",
+    "CVDR763521_1"
+  ],
+  "bekendmakingen_besluiten": 40,
+  "bekendmakingen_aanvragen": 3,
+  "bekendmakingen_geweigerd": 1,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

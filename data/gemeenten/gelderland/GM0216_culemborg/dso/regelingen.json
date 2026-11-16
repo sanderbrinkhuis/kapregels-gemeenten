@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0216/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Culemborg",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0216/2020/omgevingsplan/nld@12",
+    "beginGeldigheid": "2024-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0216_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0216/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Culemborg",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0216/2024/omgevingsvisie/nld@10",
+    "beginGeldigheid": "2024-12-31",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0216_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:15Z"
+  }
+]

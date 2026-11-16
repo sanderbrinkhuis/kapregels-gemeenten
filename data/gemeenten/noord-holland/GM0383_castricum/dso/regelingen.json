@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0383/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Castricum",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0383/2020/omgevingsplan/nld@18",
+    "beginGeldigheid": "2024-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0383_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0383/2026/2_5",
+    "titel": "Warmteprogramma",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0383/2026/2_5/nld@22",
+    "beginGeldigheid": "2026-10-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0383_2026_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:39Z"
+  }
+]

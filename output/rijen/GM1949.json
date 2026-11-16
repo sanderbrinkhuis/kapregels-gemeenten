@@ -1,0 +1,76 @@
+{
+ "gm_code": "GM1949",
+ "gemeente": "Waadhoeke",
+ "provincie": "Fryslân",
+ "brondocument": "Bomenverordening gemeente Waadhoeke (CVDR724908_1), art. 1-7; Aanwijzingsbesluit waardevolle en monumentale bomen (CVDR742333_1) met Bijlage Bomenlijst; Leges 2026 (CVDR752488_1) art. 2.30; Omgevingsplan (CVDR696531_4) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR724908/1 ; https://lokaleregelgeving.overheid.nl/CVDR742333/1",
+ "datum_geldigheid": "Bomenverordening CVDR724908_1 geldend van 2024-10-03 t/m heden; aanwijzingsbesluit CVDR742333_1 geldend van 2025-07-16 t/m heden",
+ "laatste_wijziging": "Bomenverordening ongewijzigd sinds 2024-10-03 (versie 1). Aanwijzingsbesluit met de bomenlijst per 2025-07-16 (bekendmaking gmb-2025-310057).",
+ "juridische_plaats": "Bomenverordening; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (art. 22.8 Ow) en omgevingsplan art. 22.299 (aanvraagvereisten)",
+ "praktijkcontrole": "Sinds 2025: 8 bekendmakingen gevonden bij een volledigetekstzoekopdracht, waarvan 4 besluiten. Daaronder zijn alleen het ontwerp-aanwijzingsbesluit (gmb-2025-164828) en het aanwijzingsbesluit (gmb-2025-310057) en twee mandaatbesluiten; geen enkel kapbesluit en geen weigering. Dat past bij een lijstsysteem waarbij kapvergunningen zeldzaam zijn.",
+ "vergunningplicht": "Vergunning of ontheffing van het kapverbod, alleen voor bomen op de lijst met waardevolle en monumentale bomen",
+ "drempel": "Geen drempel in omvang voor lijstbomen. Alleen aangewezen bomen. (Definitie 'boom': 'stamomtrek van minimaal 10 centimeter op 130 centimeter hoogte', art. 1 onder a.)",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m (definitie boom)",
+ "reikwijdte": "Alleen bomen op de door het college vastgestelde lijst. Art. 2 lid 1: 'Het college stelt een lijst vast met waardevolle en monumentale bomen waarop de vergunningplichtige bomen zijn aangewezen.' Art. 3 lid 1: 'Het is verboden een waardevolle of monumentale boom te vellen of te doen vellen.' Geen regel voor niet-aangewezen bomen.",
+ "uitzonderingen": "Art. 3 lid 3: bomen die moeten worden geveld 'op grond van de Plantgezondheidswet of op grond van een aanschrijving van het college', 'dode bomen', periodiek knotten of kandelaberen. Lid 4: spoedeisend belang of direct gevaar met toestemming van de burgemeester. Dit zijn gangbare uitzonderingen.",
+ "weigeringsgronden": "Art. 4 lid 1: 'Voor het vellen van een waardevolle of monumentale boom wordt alleen ontheffing verleend als er sprake is van een of meer van de volgende criteria: a. de alternatieven om de waardevolle of monumentale boom te behouden zijn uitputtend onderzocht en gebleken is dat die niet aanwezig zijn; b. er is sprake van een zwaarwegend algemeen maatschappelijk belang ...; c. uit een boomdeskundig rapport blijkt dat instandhouding niet langer verantwoord is'. Art. 3 lid 2: ontheffing bij onveilige situaties of 'zwaarwegend algemeen belang'.",
+ "herplantplicht": "Art. 3 lid 6: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 5 lid 2: 'De aanvraag is voorzien van een herplant plan dat aantoont op welke wijze de aanvrager zorgdraagt voor herplant.' Art. 6 lid 1: bij kap zonder ontheffing 'kan het college de verplichting opleggen te herplanten'.",
+ "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid van het college, per geval; art. 3 lid 6 en art. 6 lid 1). Geen betaling in plaats van herplant. Een herplantplan is wel een aanvraagvereiste (art. 5 lid 2).",
+ "sancties": "Eigen strafbepaling: art. 7 'Overtreding van het bij of krachtens deze verordening bepaalde wordt gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie en kan bovendien worden gestraft met openbaarmaking van de rechterlijke uitspraak.' Daarnaast WED via Ow 5.1 (leges art. 2.30). Herplant na illegale kap: art. 6 lid 1 'kan'. Geen bestuurlijke boete gevonden.",
+ "procedure": "Omgevingsvergunning of ontheffing. Leges 2026 (CVDR752488_1 art. 2.30): € 0,00. Aanwijzing via zienswijzenprocedure (afdeling 3:4 Awb); beroep bij de rechtbank Noord-Nederland binnen zes weken. Beslistermijn niet apart vastgelegd.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Geen aparte bepaling over niet nakomen van een herplantplicht. Art. 7 (strafbepaling) 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'; art. 6 lid 2: 'beplanting die niet is aangeslagen moet worden vervangen'. Een opgelegde herplantplicht geldt als 'krachtens deze verordening' bepaald.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": 2708,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Regels (bomen) in de Bijlage Bomenlijst bij het aanwijzingsbesluit CVDR742333_1 (2025): 2.708, waarvan 1.777 'waardevol' en 931 'monumentaal'. De lijst heeft alleen kolommen Boomid, X, Y, Status, Latijnse naam en Nederlandse naam; geen eigendomskolom, dus het aantal particuliere bomen is niet vast te stellen.",
+ "status": "onzeker",
+ "ontbrekend": "Lijst ingezien (bijlage bij CVDR742333_1, 2.708 bomen), maar zonder eigendomsgegevens. Of er particuliere bomen op staan is niet vast te stellen; kaart of kadasterkoppeling niet gevonden. Daarom D 1 met bereik 0-1.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 3, 4, 5, 6, 7",
+  "Aanwijzingsbesluit CVDR742333_1 (bijlage bomenlijst)",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (bereik 0-1): lijstsysteem. Alleen bomen op de lijst zijn beschermd (art. 2 en 3). Het kapverbod richt zich op 'de eigenaar' (art. 3 lid 5) en 'de rechthebbende' (art. 5 lid 1), wat op particuliere bomen wijst, maar de lijst bevat geen eigendomsgegevens. Daarom niet vast te stellen of er particuliere bomen op staan; zijn het alleen gemeentelijke bomen, dan D0.",
+  "W3: 'Voor het vellen van een waardevolle of monumentale boom wordt alleen ontheffing verleend als er sprake is van een of meer van de volgende criteria' (art. 4 lid 1), waaronder uitputtend onderzocht alternatief of 'zwaarwegend algemeen maatschappelijk belang': weigeren tenzij.",
+  "H1 (bereik 1-2): 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften' (art. 3 lid 6). Het herplantplan als aanvraagvereiste (art. 5 lid 2) maakt herplant geen vast voorschrift; daarom H1, bereik tot 2.",
+  "S1: eigen strafbepaling (art. 7) en WED via Ow 5.1; herplant na illegale kap 'kan'. Geen bestuurlijke boete.",
+  "Peildatum 2026-11-14: de bomenlijst is vastgesteld per 2025-07-16 en geldt dus. Beleidsregel Gardenierslandschap (CVDR680526_1) is landschapsbeleid voor een klein gebied (Marsum-Wier) en geen kapregel; telt niet.",
+  "Kernbron aanwezig: de bomenlijst staat als bijlage in tekst/CVDR742333_1.md (niet in het dossier zelf, daar staat 'geen tekst onder deze kop')."
+ ],
+ "modelsignalen": [
+  "Lijst ingezien maar zonder eigendomsgegevens: particulier versus gemeentelijk niet vast te stellen. Het model kent geen tussenstand tussen 'lijst niet ingezien' en 'particuliere bomen aanwezig'; D1 met bereik 0-1 en betrouwbaarheid laag.",
+  "Een boom wordt hier gedefinieerd met een omvangdrempel (10 cm omtrek) die in de praktijk geen werking heeft, omdat alleen lijstbomen beschermd zijn."
+ ]
+}

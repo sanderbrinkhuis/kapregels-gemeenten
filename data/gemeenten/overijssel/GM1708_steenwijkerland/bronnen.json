@@ -1,0 +1,27 @@
+{
+  "gemeente": "Steenwijkerland",
+  "gm_code": "GM1708",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Steenwijkerland",
+  "zoeknaam_bekendmakingen": "Steenwijkerland",
+  "opgehaald_op": "2026-11-14T21:47:58+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Steenwijkerland\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 134,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Steenwijkerland\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 216,
+  "geldende_regelingen": 31,
+  "geldend_met_kapartikelen": [
+    "CVDR63065_20",
+    "CVDR696486_2",
+    "CVDR712314_1",
+    "CVDR751219_2",
+    "CVDR761582_1"
+  ],
+  "bekendmakingen_besluiten": 111,
+  "bekendmakingen_aanvragen": 104,
+  "bekendmakingen_geweigerd": 6,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

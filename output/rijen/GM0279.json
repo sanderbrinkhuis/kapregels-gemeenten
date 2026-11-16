@@ -1,0 +1,78 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Groene Kaart met zowel losse monumentale bomen als boomstructuren: het model kent geen D voor 'kaart die mogelijk alleen gemeentegrond bevat'. Zonder kaart is D 0 tot 2 even onzeker als het verschil tussen een lijst zonder particuliere bomen en een gebiedsregel.",
+  "Legesverordening verwijst voor de omgevingsplanactiviteit naar 'artikel 2 van de bomenverordening' (de Groene Kaart), terwijl het kapverbod in art. 3 staat; de Bomenverordening heeft geen eigen strafbepaling voor art. 3 (art. 13 betreft alleen gemeentebomen). S = 1 rust hier alleen op het bewijs voor een omgevingsplanactiviteit in de leges.",
+  "Ontheffing 'kan worden verleend indien' (limitatieve lijst van verleengronden) naast 'kan weigeren': de tekst past tussen W2 en W3 van het model."
+ ],
+ "gm_code": "GM0279",
+ "gemeente": "Scherpenzeel",
+ "brondocument": "Bomenverordening 2022 'Groene Kaart Model' (CVDR676997_1) art. 1, 2, 3, 5, 8, 9, 13; APV 2025 (CVDR733660_1) afd. 4.3 (verwijst naar de Bomenverordening) en art. 6:1; Legesverordening 2026 (CVDR750470_1) tarief 2.30; Omgevingsplan (CVDR696253_3) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR676997/1 ; https://lokaleregelgeving.overheid.nl/CVDR733660/1 ; https://lokaleregelgeving.overheid.nl/CVDR750470/1 ; https://lokaleregelgeving.overheid.nl/CVDR696253/3",
+ "datum_geldigheid": "Bomenverordening CVDR676997_1 geldend vanaf 2022-05-25 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "Bomenverordening: versie 1 per 2022-05-25 (geen latere versie). APV 2025 per 2025-01-01. Leges per 2026-01-01. Omgevingsplan versie 3 per 2026-08-25.",
+ "juridische_plaats": "Bomenverordening (losse verordening, APV afd. 4.3 zegt: 'Bomenverordening, zoals vastgesteld door de raad op 12 mei 2022, voorziet hierin.'). Werkt als omgevingsplanactiviteit: legesverordening tarief 2.30 noemt het vellen van houtopstand 'bedoeld in artikel 2 van de bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 19 bekendmakingen op titel, waarvan 0 besluiten, 10 aanvragen en 0 weigeringen; geen steekproef van besluiten opgehaald, geen grondslag bekend. Weinig besluiten, wat past bij een regime met alleen kaartbomen of -structuren (maar de zoekmethode kan besluiten missen).",
+ "vergunningplicht": "Ontheffing (omgevingsvergunning) voor het vellen van beschermde houtopstand op de Groene Kaart (art. 3 lid 1 en 2).",
+ "drempel": "Geen omvangsdrempel voor de beschermde houtopstand zelf: alleen wat op de Groene Kaart staat (boomstructuren en monumentale bomen). De definitie van 'boom' (art. 1 onder a) kent een 'dwarsdoorsnede van de stam van minimaal 15 centime­ter op 1,3 meter hoogte boven het maaiveld'; daar gaat het om bomen binnen de beschermde structuur.",
+ "omtrek_cm": null,
+ "meethoogte": "1,3 m (alleen voor de definitie van boom)",
+ "reikwijdte": "Art. 3 lid 1: 'Het is verboden beschermde houtopstand te vellen of te doen vellen.' Art. 1 onder d: 'beschermde houtopstand: een houtopstand dat is vastgelegd op de Groene Kaart.' Art. 2 lid 1: de kaart bevat 'Beschermde boomstructuren; Monumentale bomen.' Boomstructuur: 'lijnvormige beplanting of boomzone van houtopstanden die tezamen een functioneel geheel vormen'. Er geldt dus geen regel voor de rest van de bebouwde kom of het buitengebied. Gebiedsdekking en eigendom (particulier of gemeentelijk) van de kaart niet ingezien.",
+ "uitzonderingen": "Art. 3 lid 4: verbod niet voor beschermde houtopstand die moet worden geveld krachtens de Plantenziektenwet of aanschrijving; periodiek vellen van hakhout; periodiek knotten of kandelaberen (reguliere onderhoud). Art. 5 lid 3: direct vellen bij acuut gevaar of spoedeisend belang. Art. 5 lid 4: 'zal toestemming geven tot het vellen of snoeien' bij schaduw op zonnepanelen. Art. 3 lid 3: verbod geldt ook voor houtopstand aangelegd op grond van herplantplicht of overeenkomst met een bestuursorgaan.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 5 lid 1: 'Het bevoegd gezag kan de ontheffing om te vellen weigeren dan wel onder voorschriften verlenen.' Lid 2: 'Een ontheffing voor het vellen van een beschermde houtopstand kan worden verleend indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade; ...' (verder c tot en met g: bouwwerk volgens bestemmingsplan, infrastructureel werk, dunning, groentechnisch renovatieplan, noodtoestand).",
+ "herplantplicht": "Art. 8 lid 1: 'Tot aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk herplantfonds.' Na illegale kap art. 9 lid 1: 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'.",
+ "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan behoren'), het bevoegd gezag beslist per geval. Betalen in het herplantfonds is een mogelijk voorschrift als herplant ter plaatse niet kan (art. 8 lid 2, 'kan'). Na illegale kap (art. 9 lid 2): 'indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort in het gemeentelijk herplantfonds.'",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niets geregeld voor niet nakomen van een herplantvoorschrift. Art. 13 lid 2 stelt alleen strafbaar 'het bij of krachtens artikel 12, tweede lid, artikel 13, eerste en tweede lid bepaalde' (gemeentebomen). Bestuursdwang staat alleen bij aanschrijving boomziekten (art. 11 lid 3). Alleen algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Geen eigen strafbepaling en geen WED-aanwijzing voor het kapverbod (art. 3) in de Bomenverordening; APV art. 6:1 lid 3 wijst WED alleen aan voor 2:10 en 2:11. Route via Ow 5.1: de legesverordening (tarief 2.30) noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (wel met verwijzing naar art. 2 van de bomenverordening in plaats van art. 3). Herplant na illegale kap: art. 9 lid 1 ('kan'). Geen bestuurlijke boete voor kappen.",
+ "procedure": "Aanvraag schriftelijk en gemotiveerd (art. 4 lid 1); aanvraag en besluit worden gepubliceerd (art. 4 lid 2 en 4); zienswijzen twee weken; bezwaartermijn zes weken. Leges tarief 2.30: EUR 74,90 voor 1 tot en met 3 bomen, EUR 16,20 per volgende boom. Beslistermijn niet gevonden in de kapartikelen. Vergunning vervalt na een jaar (art. 7).",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Groene Kaart niet ingezien: de kaart staat niet in de CVDR-tekst; de gemeentelijke website was bij een korte poging niet bereikbaar. Aantal bomen en structuren en aandeel particulier onbekend.",
+ "status": "ok",
+ "ontbrekend": "Groene Kaart (beschermde boomstructuren en monumentale bomen) niet gevonden: onbekend of er particuliere bomen of structuren op staan, en hoeveel. Gemeentelijke website (beleidsregel herplant, handhaving) niet bereikt. Omgevingsplan in het DSO niet ingezien. Beslistermijn niet vastgesteld.",
+ "artikelnummers": [
+  "Bomenverordening 2022 art. 1, 2, 3, 4, 5, 7, 8, 9, 13",
+  "APV 2025 afd. 4.3 en art. 6:1",
+  "Leges 2026 tarief 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (punt), bereik 0-2: kaartsysteem met losse monumentale bomen (D1) en boomstructuren (D2, 'aangewezen gebieden of structuren'). Zonder inzage in de kaart is niet vast te stellen of daarop particuliere bomen staan; puntschatting D1 volgens model, minimum D0. Een 'waardevolle potentiele groeiplaats' (art. 1 onder f) is per definitie gemeentegrond.",
+  "W3 (bereik 2-3): art. 5 lid 1 'kan ... weigeren' maar art. 5 lid 2 noemt limitatief de gronden waarop ontheffing 'kan worden verleend' ('een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud'), wat een weigeren-tenzij is. Maximum 3, minimum 2.",
+  "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 8 lid 1). Geen beleidsregel gevonden. Herplant na illegale kap ('kan', art. 9) telt bij S.",
+  "S1: bewijs omgevingsplanactiviteit in leges tarief 2.30 (met afwijkende artikelverwijzing) en herplantplicht na illegale kap.",
+  "Bomenverordening 2016 (CVDR403169_1) is per 2022-05-25 ingetrokken; de oudere Bomenverordening (CVDR74098) is vervallen.",
+  "Voorbeeldbomen: de regel geldt alleen voor bomen op de Groene Kaart; voor een gewone tuinboom is geen vergunning nodig tenzij die op de kaart staat. Boom B (ca. 13 cm doorsnee) is bovendien kleiner dan de 15 cm uit de definitie van 'boom'.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "provincie": "Noord-Holland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "De lijst is niet ingezien. Art. 4:11 lid 1 zegt dat de lijst 'beschermingswaardige particuliere bomen' bevat, maar het aantal is onbekend. Het model scoort bij niet-ingeziene lijst D1 (min 0); de strengheid 17 rust dan op een niet getelde dekking.",
+  "Het Bomenplan (raadsbesluit CVDR735108_1) en de kaart bij de Waardevolle bomenlijst (CVDR759674_1) staan in CVDR alleen als bijlage of verwijzing, zonder tekst. Het model kan een beleidsnota met herplantregels dan niet toetsen, terwijl het wel als beleidsregel zou tellen voor H."
+ ],
+ "gm_code": "GM0362",
+ "gemeente": "Amstelveen",
+ "brondocument": "Algemene Plaatselijke Verordening Amstelveen, afd. 4.3 (art. 4:10, 4:11) en art. 6:1, 1:8; Besluit B&W Waardevolle bomenlijst 2026 (CVDR759674_1); Bomenplan 'Amstelveen Bomenstad' (CVDR735108_1); Legesverordening 2026 art. 2.31 (CVDR751012_2); Omgevingsplan art. 22.299 (CVDR696289_5)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR416039/10 ; https://lokaleregelgeving.overheid.nl/CVDR759674/1 ; https://lokaleregelgeving.overheid.nl/CVDR735108/1",
+ "datum_geldigheid": "APV CVDR416039_10 geldend vanaf 2026-01-07 t/m heden; Waardevolle bomenlijst 2026 CVDR759674_1 geldend vanaf 2026-03-30; Bomenplan CVDR735108_1 geldend vanaf 2025-02-06 (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "APV: versie 10 per 2026-01-07. Waardevolle bomenlijst: vastgesteld door B&W op 2026-03-24, in werking 2026-03-30.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.31 noemt 'het vellen van een houtopstand, op grond van de Algemene plaatselijke verordening, in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten; afd. 6.10 'Kappen en vellen van bomen en houtopstanden' heeft geen tekst.",
+ "praktijkcontrole": "Sinds 2025: 41 bekendmakingen op titel (37 aanvragen, 4 besluiten, waarvan 2 weigeringen volgens de titel). Twee weigeringen betroffen een boom in een voortuin en 2 moerascypressen; de steekproef noemt geen grondslag (gmb-2025-21427, gmb-2026-146332). Aantal is bescheiden en past bij een lijstsysteem; niet vast te stellen of de bomen op de lijst staan.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Waardevolle Bomenlijst staan (art. 4:11 lid 2).",
+ "drempel": "Geen omtrekdrempel: alleen bomen op de Waardevolle Bomenlijst. Criteria voor plaatsing (besluit lijst 2026): onder meer minimale leeftijd 50 jaar en 'meer dan 1 meter dik' als een van de bijzondere waarden.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Waardevolle Bomenlijst vast waarop de beschermingswaardige particuliere bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de lijst'. De lijst is een kaart (bijlage 1 Waardevolle bomenkaart) met gemeentelijke en particuliere bomen. Hele gemeente, particulier en openbaar, alleen aangewezen bomen.",
+ "uitzonderingen": "Art. 4:11 lid 4: verbod 'niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Alleen bomen op de lijst zijn beschermd.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de afmetingen van de houtopstand; b. de ecologische waarde van de houtopstand; c. de cultuurhistorische waarde van de houtopstand; d. de dendrologische waarde van de houtopstand; e. de beeldbepalende waarde van de houtopstand; of f. de verschijningsvorm van de houtopstand.' Besluit lijst 2026: aanvragen 'worden door de gemeente getoetst op basis van de omschreven drempelcriteria'.",
+ "herplantplicht": "APV art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen financiele compensatie in de APV. Bomenplan-tekst met herplantregels niet in het dossier (alleen toelichting in CVDR; bijlage niet beschikbaar).",
+ "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan'); het bevoegd gezag (college) beslist per geval. Betaling in plaats van planten is niet geregeld.",
+ "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... en artikel 4:11, tweede lid.' Daarnaast route via Omgevingswet (leges art. 2.31 noemt omgevingsplanactiviteit in samenhang met art. 22.8 Ow). Art. 6:1 lid 1: hechtenis tot drie maanden of geldboete tweede categorie. Geen bestuurlijke boete gevonden. Handhavingsbeleid voor kap niet gevonden.",
+ "procedure": "Aanvraag via het Omgevingsloket. Leges 2026 art. 2.31: EUR 250,00. Art. 4:11 lid 6: positieve fictieve beschikking (Awb 4.1.3.3) bij niet tijdig beslissen (procedureregel, geen W0). Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Niet specifiek geregeld in APV afd. 4.3; art. 4:11 lid 5 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Alleen algemeen instrumentarium (art. 6:1 lid 1 strafbepaling).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de Waardevolle bomenkaart 2026 (bijlage deel 1 en deel 2, 'op de gemeentelijke website geplaatst') staat niet in de CVDR-tekst; korte zoekpoging op amstelveen.nl leverde de kaart niet op",
+ "status": "onzeker",
+ "ontbrekend": "Waardevolle bomenkaart/lijst 2026 (deel 1 en 2) niet ingezien: aantal en particulier aandeel onbekend. Tekst van het Bomenplan 'Amstelveen Bomenstad' (bijlage) niet beschikbaar: onbekend of herplant of compensatie voor particuliere bomen als vast voorschrift is vastgelegd. Handhavingsbeleid voor kap niet gevonden. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV art. 4:10, 4:11, 6:1, 1:8",
+  "Besluit Waardevolle bomenlijst 2026 (CVDR759674_1)",
+  "Bomenplan (CVDR735108_1)",
+  "Legesverordening 2026 art. 2.31",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; lijst niet ingezien. Art. 4:11 lid 1 noemt 'beschermingswaardige particuliere bomen' en het besluit van 24 maart 2026 zegt dat 'de gemeentelijke en particuliere waardevolle bomen' op de kaart staan; het aantal is onbekend (INTENT, ONZEKERHEID).",
+  "W2: 'kan de vergunning worden geweigerd op grond van: ... b. de ecologische waarde van de houtopstand;' (art. 4:11 lid 3): kan-weigering op ecologische, cultuurhistorische en beeldbepalende waarden.",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 5). Maximum 2 omdat de tekst van het Bomenplan niet is ingezien.",
+  "S1: WED-aanwijzing in art. 6:1 lid 2 voor art. 4:11 lid 2, en leges art. 2.31 noemt het vellen een omgevingsplanactiviteit (S1 zonder bereik). Geen bestuurlijke boete.",
+  "Geen aparte Bomenverordening: de regels staan in de APV. Het Bomenplan is een beleidsnota (raad, 2025-02-06) en de lijst een besluit van B&W (2026-03-30); beide gelden op de peildatum. Het Bomenplan bevat ook de 'bomenstructuurkaart' en beleidsklassen voor gemeentelijke bomen; die vallen buiten particulier terrein.",
+  "Art. 4:11A (iepziekte): op aanschrijving verplichte herbeplanting 'tot herbeplanting over te gaan overeenkomstig de daarbij gegeven aanwijzingen'; ziektebestrijding, telt niet voor H.",
+  "Legesverordening art. 2.31 noemt de omgevingsplanactiviteit 'op grond van de Algemene plaatselijke verordening'; de APV is bij de peildatum de materiele kapregel."
+ ]
+}

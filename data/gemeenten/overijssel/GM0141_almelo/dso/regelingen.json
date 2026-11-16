@@ -1,0 +1,74 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0141/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Almelo",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0141/2020/omgevingsplan/nld@2024-01-18;2",
+    "beginGeldigheid": "2024-01-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2024/Regeling8ba703108e2b47479b42e8a20c8884d6",
+    "titel": "Programma Actieplan Omgevingsgeluid 2024-2029 ",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0141/2024/Regeling8ba703108e2b47479b42e8a20c8884d6/nld@2025-03-11;10211778",
+    "beginGeldigheid": "2025-03-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2024_Regeling8ba703108e2b47479b42e8a20c8884d6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2025/Regeling85d8fdcb93934ad1b600f429705ae04f",
+    "titel": "Programma Warmte 2026-2035",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0141/2025/Regeling85d8fdcb93934ad1b600f429705ae04f/nld@2025-11-25;08440063",
+    "beginGeldigheid": "2025-12-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2025_Regeling85d8fdcb93934ad1b600f429705ae04f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2026/Regeling981948674adc4b9facf90998d1d393fe",
+    "titel": "Voorbereidingsbesluit Aalanderveld",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0141/2026/Regeling981948674adc4b9facf90998d1d393fe/nld@2026-02-10;10124457",
+    "beginGeldigheid": "2026-02-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2026_Regeling981948674adc4b9facf90998d1d393fe?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2026/Regeling8774101601204412992684f54b044b02",
+    "titel": "Programma Kostenverhaal en Financiële bijdragen gemeente Almelo",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0141/2026/Regeling8774101601204412992684f54b044b02/nld@2026-03-02;08522975",
+    "beginGeldigheid": "2026-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2026_Regeling8774101601204412992684f54b044b02?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2026/Regeling566d1eee47a34bd78367932df26508fe",
+    "titel": "Volkshuisvestingsprogramma Almelo",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0141/2026/Regeling566d1eee47a34bd78367932df26508fe/nld@2026-04-16;09565116",
+    "beginGeldigheid": "2026-03-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2026_Regeling566d1eee47a34bd78367932df26508fe?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2025/Regeling93c1b2f0ff064c908485d433919678a8",
+    "titel": "Omgevingsprogramma Achter de Molen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0141/2025/Regeling93c1b2f0ff064c908485d433919678a8/nld@2026-04-20;07544099",
+    "beginGeldigheid": "2026-03-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2025_Regeling93c1b2f0ff064c908485d433919678a8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2025/Regeling177602a0681c4c7793520f9d4a9dd890",
+    "titel": "Omgevingsprogramma Westerdok",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0141/2025/Regeling177602a0681c4c7793520f9d4a9dd890/nld@2026-04-20;07461094",
+    "beginGeldigheid": "2026-03-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2025_Regeling177602a0681c4c7793520f9d4a9dd890?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0141/2026/Regeling8135b9ae04044285887a8340d7d5bc92",
+    "titel": "Voorbereidingsbesluit Aadorp Noord",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0141/2026/Regeling8135b9ae04044285887a8340d7d5bc92/nld@2026-11-02;09411469",
+    "beginGeldigheid": "2026-11-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0141_2026_Regeling8135b9ae04044285887a8340d7d5bc92?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:20Z"
+  }
+]

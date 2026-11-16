@@ -1,0 +1,78 @@
+{
+ "gm_code": "GM0882",
+ "gemeente": "Landgraaf",
+ "provincie": "Limburg",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen lijstsysteem als hoofdregel; de monumentale-bomenlijst (art. 2.1) en de 'vergunningplichtige lijst' (art. 1.2 lid 5) zijn niet ingezien; een zoekpoging op landgraaf.nl leverde niets op",
+ "brondocument": "Bomenverordening Landgraaf 2004 (CVDR52450_1), art. 1.1, 1.2, 1.5, 1.6, 1.9, 2.1, 3.1; Legesverordening 2026 (CVDR752675_1) art. 2.30; Omgevingsplan (CVDR696437_2) art. 22.299; APV Landgraaf 2023 (CVDR701856_2) art. 4:11 en 6:1",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR52450/1 ; https://lokaleregelgeving.overheid.nl/CVDR752675/1 ; https://lokaleregelgeving.overheid.nl/CVDR696437/2 ; https://lokaleregelgeving.overheid.nl/CVDR701856/2",
+ "datum_geldigheid": "CVDR52450_1 geldend vanaf 2004-11-17 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Geen wijzigingsversie: alleen versie 1 (2004); CVDR-metadata 'modified' 2018-05-29 (technische bijwerking).",
+ "juridische_plaats": "Losse bomenverordening (Bomenverordening Landgraaf 2004); sinds 2024 van rechtswege tijdelijk deel omgevingsplan. Legesverordening 2026 art. 2.30 behandelt het vellen als omgevingsplanactiviteit. De APV 2023 bevat geen kapregel: art. 4:11 is 'gereserveerd'.",
+ "praktijkcontrole": "Sinds 2025: 277 bekendmakingen op titel (129 besluiten, 146 aanvragen), 0 weigeringen volgens de titel. Veel besluiten gaan over dode of zieke bomen, vaak op openbaar terrein (kadastrale aanduiding), maar ook over bomen bij woningen, o.a. gmb-2026-487754 ('kappen van een lariks in de voortuin') en gmb-2026-524494 (garage en 1 boom). Bij beide staat als activiteit 'vellen van houtopstand'; geen grondslag genoemd. Dit past slecht bij de uitzondering voor tuinen tot 2000 m2 (art. 1.2 lid 4 onder b) en blijft onverklaard.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand in de hele gemeente (art. 1.2 lid 1), met uitzondering van o.a. tuinen en erven bij woningen tot 2000 m2.",
+ "drempel": "Boom = dwarsdoorsnede van de stam van minimaal 10 cm op 1,3 m hoogte (art. 1.1 lid 1).",
+ "omtrek_cm": 31.4,
+ "meethoogte": "1,3 m boven het maaiveld",
+ "reikwijdte": "Art. 1.2 lid 1: 'Het is, behoudens het bepaalde in de volgende leden en het bepaalde in artikel 1.3, verboden zonder of in afwijking van een vergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.' Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar. Art. 1.2 lid 5: het college kan via een 'vergunningplichtige lijst' extra houtopstanden onder het verbod brengen (lijst niet ingezien).",
+ "uitzonderingen": "Art. 1.2 lid 4 onder b: 'Het in het eerste lid gestelde verbod geldt verder niet voor: ... b. houtopstanden: - in tuinen en erven behorende bij woningen, niet zijnde gestapelde woningen, waarvan de perceelsoppervlakte niet groter is dan 2000 m2; - op het industrieterrein Strijthagen; - op het industrieterrein Abdissenbosch' (ruime tuinuitzondering: alle tuinen en erven bij woningen tot 2000 m2). Lid 4 onder a: herstructureringsplan. Lid 2: populieren en wilgen, laagstamfruit, kerstbomen en bosbouwondernemingen (alleen bij bosbouwkundige of bedrijfseconomische exploitatie). Lid 3: Plantenziektewet, hakhout, knotten, dunning (gangbaar).",
+ "weigeringsgronden": "Art. 1.5 lid 1: 'Het bevoegd gezag kan de vergunning voor het vellen van een houtopstand weigeren dan wel onder voorschriften verlenen in het belang van: - natuur- en milieuwaarden; - natuurwetenschappelijke, landschappelijke en ecologische waarden; - de cultuurhistorische waarden; - waarden voor stads- en dorpsschoon, - waarden voor recreatie en leefbaarheid; - de beeldbepalende waarde; - monumentale waarden.' Lid 2: 'tevens de boomwaarde als motivering'.",
+ "herplantplicht": "Art. 1.6 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn een bepaalde boomsoort met een bepaalde omvang op een bepaalde lokatie op hetzelfde kadastrale perceel ... moet worden herplant. Indien het gemeentelijk beleid ... de te vellen houtopstand direct of indirect als waardevol omschrijft, wordt in ieder geval een herplantplicht opgelegd.' Lid 6: 'kan aan een vergunning een voorschrift worden verbonden dat ... een door het bevoegd gezag vast te stellen financiële bijdrage wordt voldaan' (alleen als herplant niet uitvoerbaar is).",
+ "herplant_ontsnapping": "Art. 1.6 lid 1: 'kan' (bevoegdheid van het bevoegd gezag per geval); verplicht alleen voor als waardevol omschreven houtopstand. Art. 1.6 lid 6: bij niet-uitvoerbare herplant 'kan' een financiële bijdrage worden gevraagd.",
+ "sancties": "Eigen strafbepaling art. 3.1 lid 2: 'wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie' (o.a. kappen zonder vergunning, schending voorschrift of herplantverplichting). Als omgevingsplanactiviteit ook WED via Ow 5.1. Herplant na illegale kap: art. 1.9 lid 1. Geen bestuurlijke boete.",
+ "procedure": "Leges 2026 (CVDR752675_1) art. 2.30.1: EUR 111,50. Aanvraagvereisten omgevingsplan art. 22.299 (soort, locatie voor-, zij- of achtererf, diameter, herbeplanting). Art. 1.7 (inwerkingtreding vergunning) en 1.8 (vervaltermijn): 'Vervallen.' Ontheffing door de burgemeester bij 'grote gevaarzetting' (art. 1.3).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 1.9 lid 5: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede, derde of vierde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 3.1 lid 1 verbiedt te handelen in strijd met 'de op grond van artikel 1.6, lid 1 t/m lid 6 gegeven voorschriften en beperkingen alsmede een verplichting als bedoeld in artikel 1.9, lid 1 t/m 4'; lid 2: 'wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 4
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Vergunningplichtige lijst (art. 1.2 lid 5) en monumentale-bomenlijst (art. 2.1) niet ingezien. Onverklaard: de bekendmakingen sinds 2025 tonen vergunningen voor bomen in voortuinen, wat niet past bij de tuinuitzondering tot 2000 m2; daarom D-bereik 3-4.",
+ "artikelnummers": [
+  "Bomenverordening 2004 art. 1.1, 1.2, 1.3, 1.5, 1.6, 1.9, 2.1, 3.1",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "APV 2023 art. 4:11 (gereserveerd), 6:1"
+ ],
+ "opmerkingen": [
+  "Waar staat de regel? De APV Landgraaf 2023 (CVDR701856_2, geldend vanaf 2025-03-04) bevat geen kapregel: art. 4:11 luidt 'Artikel 4:11 t/m 4:12 (gereserveerd)'. De legesverordening 2026 verwijst nog wel naar 'artikel 4:11 van de Algemene plaatselijke verordening' (verouderde verwijzing). Het dossier meldt terecht 'geen geldende APV of VFL' met kapregel; de strafbepaling staat in de Bomenverordening zelf (art. 3.1). APV art. 6:1 lid 2 noemt art. 4:11 lid 2 voor de WED, maar dat artikel is leeg.",
+  "D3 (min 3, max 4): hele gemeente, boom vanaf 10 cm doorsnede = 31,4 cm omtrek (lage drempel, D4). Min 1 voor de ruime uitzondering: 'houtopstanden: - in tuinen en erven behorende bij woningen, niet zijnde gestapelde woningen, waarvan de perceelsoppervlakte niet groter is dan 2000 m2'. Binnen en buiten de kom dezelfde drempel; D per deel hetzelfde. Max 4 omdat bekendmakingen (gmb-2026-487754, gmb-2026-524494) vergunning voor bomen bij woningen tonen en de vergunningplichtige lijst (lid 5) niet is ingezien.",
+  "W2: 'kan de vergunning ... weigeren dan wel onder voorschriften verlenen in het belang van: - natuur- en milieuwaarden;' (art. 1.5 lid 1).",
+  "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 1.6 lid 1). De tweede volzin ('wordt in ieder geval een herplantplicht opgelegd') geldt alleen voor als waardevol omschreven houtopstand; dat is niet het grootste deel. Financiële bijdrage alleen als 'kan' (lid 6): verhoogt H niet. Max 2 als het gemeentelijk beleid veel bomen als waardevol aanwijst (niet gevonden).",
+  "S1: eigen strafbepaling art. 3.1 en herplantverplichting na illegale kap (art. 1.9); WED via Ow 5.1 als omgevingsplanactiviteit. Geen bestuurlijke boete.",
+  "Kapverbod valt buiten de bebouwde kom niet onder de tuinuitzondering; erven buiten de kom bij woningen vallen er wel onder, dus geen apart gebied.",
+  "Boom A en B (achtertuin, particulier, binnen de kom): 'nee' omdat tuinen en erven bij woningen (niet gestapeld) tot 2000 m2 zijn uitgezonderd; beide bomen liggen boven de drempel van 31,4 cm omtrek, dus bij een perceel groter dan 2000 m2 zou vergunning nodig zijn."
+ ],
+ "modelsignalen": [
+  "Uitzondering 'tuinen en erven bij woningen tot 2000 m2' is een zeer grote tuinuitzondering; het model geeft -1 voor elke tuinuitzondering, ongeacht de oppervlakte. Zo krijgt Landgraaf (bijna alle woningtuinen vrij, maar elke boom van 31 cm omtrek daarbuiten beschermd) D3, gelijk aan gemeenten met drempel 60-100 cm voor alle tuinen.",
+  "Praktijk (vergunningen voor voortuinbomen) wijkt af van de tekst van de uitzondering; INTENT geeft niet aan hoe zo'n afwijking in D te verwerken. Hier gekozen: D-bereik 3-4 met puntschatting op de tekst.",
+  "Gemeentelijke regels die in het CVDR op 'geldend' staan maar uit 2004 stammen en nog naar Wabo/Boswet verwijzen: het model kent geen scoreverschil, maar de reële toepasbaarheid is onduidelijk."
+ ]
+}

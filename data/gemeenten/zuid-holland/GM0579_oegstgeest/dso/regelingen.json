@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0579/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oegstgeest",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0579/2020/omgevingsplan/nld@2024-12-18;08273262",
+    "beginGeldigheid": "2024-12-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0579_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0579/2025/Regeling6ba82232f8934375827680602da80863",
+    "titel": "Actieplan geluid gemeente Oegstgeest 2024-2028",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0579/2025/Regeling6ba82232f8934375827680602da80863/nld@2025-02-05;06533279",
+    "beginGeldigheid": "2024-12-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0579_2025_Regeling6ba82232f8934375827680602da80863?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0579/2026/Regeling830b51e68071429cac44bdfe25a81bd8",
+    "titel": "Programma Mobiliteit en Bereikbaarheid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0579/2026/Regeling830b51e68071429cac44bdfe25a81bd8/nld@2026-08-11;15374737",
+    "beginGeldigheid": "2026-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0579_2026_Regeling830b51e68071429cac44bdfe25a81bd8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:59Z"
+  }
+]

@@ -1,0 +1,343 @@
+gm_code;gemeente;zoeknaam;provincie_code;provincie
+GM0518;'s-Gravenhage;'s-Gravenhage;PV28;Zuid-Holland
+GM0796;'s-Hertogenbosch;'s-Hertogenbosch;PV30;Noord-Brabant
+GM1680;Aa en Hunze;Aa en Hunze;PV22;Drenthe
+GM0358;Aalsmeer;Aalsmeer;PV27;Noord-Holland
+GM0197;Aalten;Aalten;PV25;Gelderland
+GM0059;Achtkarspelen;Achtkarspelen;PV21;Fryslân
+GM0482;Alblasserdam;Alblasserdam;PV28;Zuid-Holland
+GM0613;Albrandswaard;Albrandswaard;PV28;Zuid-Holland
+GM0361;Alkmaar;Alkmaar;PV27;Noord-Holland
+GM0141;Almelo;Almelo;PV23;Overijssel
+GM0034;Almere;Almere;PV24;Flevoland
+GM0484;Alphen aan den Rijn;Alphen aan den Rijn;PV28;Zuid-Holland
+GM1723;Alphen-Chaam;Alphen-Chaam;PV30;Noord-Brabant
+GM1959;Altena;Altena;PV30;Noord-Brabant
+GM0060;Ameland;Ameland;PV21;Fryslân
+GM0307;Amersfoort;Amersfoort;PV26;Utrecht
+GM0362;Amstelveen;Amstelveen;PV27;Noord-Holland
+GM0363;Amsterdam;Amsterdam;PV27;Noord-Holland
+GM0200;Apeldoorn;Apeldoorn;PV25;Gelderland
+GM0202;Arnhem;Arnhem;PV25;Gelderland
+GM0106;Assen;Assen;PV22;Drenthe
+GM0743;Asten;Asten;PV30;Noord-Brabant
+GM0744;Baarle-Nassau;Baarle-Nassau;PV30;Noord-Brabant
+GM0308;Baarn;Baarn;PV26;Utrecht
+GM0489;Barendrecht;Barendrecht;PV28;Zuid-Holland
+GM0203;Barneveld;Barneveld;PV25;Gelderland
+GM0888;Beek (L.);Beek (L);PV31;Limburg
+GM1954;Beekdaelen;Beekdaelen;PV31;Limburg
+GM0889;Beesel;Beesel;PV31;Limburg
+GM1945;Berg en Dal;Berg en Dal;PV25;Gelderland
+GM1724;Bergeijk;Bergeijk;PV30;Noord-Brabant
+GM0893;Bergen (L.);Bergen (L);PV31;Limburg
+GM0373;Bergen (NH.);Bergen (NH);PV27;Noord-Holland
+GM0748;Bergen op Zoom;Bergen op Zoom;PV30;Noord-Brabant
+GM1859;Berkelland;Berkelland;PV25;Gelderland
+GM1721;Bernheze;Bernheze;PV30;Noord-Brabant
+GM0753;Best;Best;PV30;Noord-Brabant
+GM0209;Beuningen;Beuningen;PV25;Gelderland
+GM0375;Beverwijk;Beverwijk;PV27;Noord-Holland
+GM1728;Bladel;Bladel;PV30;Noord-Brabant
+GM0376;Blaricum;Blaricum;PV27;Noord-Holland
+GM0377;Bloemendaal;Bloemendaal;PV27;Noord-Holland
+GM1901;Bodegraven-Reeuwijk;Bodegraven-Reeuwijk;PV28;Zuid-Holland
+GM0755;Boekel;Boekel;PV30;Noord-Brabant
+GM1681;Borger-Odoorn;Borger-Odoorn;PV22;Drenthe
+GM0147;Borne;Borne;PV23;Overijssel
+GM0654;Borsele;Borsele;PV29;Zeeland
+GM0757;Boxtel;Boxtel;PV30;Noord-Brabant
+GM0758;Breda;Breda;PV30;Noord-Brabant
+GM1876;Bronckhorst;Bronckhorst;PV25;Gelderland
+GM0213;Brummen;Brummen;PV25;Gelderland
+GM0899;Brunssum;Brunssum;PV31;Limburg
+GM0312;Bunnik;Bunnik;PV26;Utrecht
+GM0313;Bunschoten;Bunschoten;PV26;Utrecht
+GM0214;Buren;Buren;PV25;Gelderland
+GM0502;Capelle aan den IJssel;Capelle aan den IJssel;PV28;Zuid-Holland
+GM0383;Castricum;Castricum;PV27;Noord-Holland
+GM0109;Coevorden;Coevorden;PV22;Drenthe
+GM1706;Cranendonck;Cranendonck;PV30;Noord-Brabant
+GM0216;Culemborg;Culemborg;PV25;Gelderland
+GM0148;Dalfsen;Dalfsen;PV23;Overijssel
+GM1891;Dantumadiel;Dantumadiel;PV21;Fryslân
+GM0310;De Bilt;De Bilt;PV26;Utrecht
+GM1940;De Fryske Marren;De Fryske Marren;PV21;Fryslân
+GM0736;De Ronde Venen;De Ronde Venen;PV26;Utrecht
+GM1690;De Wolden;De Wolden;PV22;Drenthe
+GM0503;Delft;Delft;PV28;Zuid-Holland
+GM0400;Den Helder;Den Helder;PV27;Noord-Holland
+GM0762;Deurne;Deurne;PV30;Noord-Brabant
+GM0150;Deventer;Deventer;PV23;Overijssel
+GM0384;Diemen;Diemen;PV27;Noord-Holland
+GM1980;Dijk en Waard;Dijk en Waard;PV27;Noord-Holland
+GM1774;Dinkelland;Dinkelland;PV23;Overijssel
+GM0221;Doesburg;Doesburg;PV25;Gelderland
+GM0222;Doetinchem;Doetinchem;PV25;Gelderland
+GM0766;Dongen;Dongen;PV30;Noord-Brabant
+GM0505;Dordrecht;Dordrecht;PV28;Zuid-Holland
+GM0498;Drechterland;Drechterland;PV27;Noord-Holland
+GM1719;Drimmelen;Drimmelen;PV30;Noord-Brabant
+GM0303;Dronten;Dronten;PV24;Flevoland
+GM0225;Druten;Druten;PV25;Gelderland
+GM0226;Duiven;Duiven;PV25;Gelderland
+GM1711;Echt-Susteren;Echt-Susteren;PV31;Limburg
+GM0385;Edam-Volendam;Edam-Volendam;PV27;Noord-Holland
+GM0228;Ede;Ede;PV25;Gelderland
+GM0317;Eemnes;Eemnes;PV26;Utrecht
+GM1979;Eemsdelta;Eemsdelta;PV20;Groningen
+GM0770;Eersel;Eersel;PV30;Noord-Brabant
+GM1903;Eijsden-Margraten;Eijsden-Margraten;PV31;Limburg
+GM0772;Eindhoven;Eindhoven;PV30;Noord-Brabant
+GM0230;Elburg;Elburg;PV25;Gelderland
+GM0114;Emmen;Emmen;PV22;Drenthe
+GM0388;Enkhuizen;Enkhuizen;PV27;Noord-Holland
+GM0153;Enschede;Enschede;PV23;Overijssel
+GM0232;Epe;Epe;PV25;Gelderland
+GM0233;Ermelo;Ermelo;PV25;Gelderland
+GM0777;Etten-Leur;Etten-Leur;PV30;Noord-Brabant
+GM0779;Geertruidenberg;Geertruidenberg;PV30;Noord-Brabant
+GM1771;Geldrop-Mierlo;Geldrop-Mierlo;PV30;Noord-Brabant
+GM1652;Gemert-Bakel;Gemert-Bakel;PV30;Noord-Brabant
+GM0907;Gennep;Gennep;PV31;Limburg
+GM0784;Gilze en Rijen;Gilze en Rijen;PV30;Noord-Brabant
+GM1924;Goeree-Overflakkee;Goeree-Overflakkee;PV28;Zuid-Holland
+GM0664;Goes;Goes;PV29;Zeeland
+GM0785;Goirle;Goirle;PV30;Noord-Brabant
+GM1942;Gooise Meren;Gooise Meren;PV27;Noord-Holland
+GM0512;Gorinchem;Gorinchem;PV28;Zuid-Holland
+GM0513;Gouda;Gouda;PV28;Zuid-Holland
+GM0014;Groningen;Groningen;PV20;Groningen
+GM1729;Gulpen-Wittem;Gulpen-Wittem;PV31;Limburg
+GM0158;Haaksbergen;Haaksbergen;PV23;Overijssel
+GM0392;Haarlem;Haarlem;PV27;Noord-Holland
+GM0394;Haarlemmermeer;Haarlemmermeer;PV27;Noord-Holland
+GM1655;Halderberge;Halderberge;PV30;Noord-Brabant
+GM0160;Hardenberg;Hardenberg;PV23;Overijssel
+GM0243;Harderwijk;Harderwijk;PV25;Gelderland
+GM0523;Hardinxveld-Giessendam;Hardinxveld-Giessendam;PV28;Zuid-Holland
+GM0072;Harlingen;Harlingen;PV21;Fryslân
+GM0244;Hattem;Hattem;PV25;Gelderland
+GM0396;Heemskerk;Heemskerk;PV27;Noord-Holland
+GM0397;Heemstede;Heemstede;PV27;Noord-Holland
+GM0246;Heerde;Heerde;PV25;Gelderland
+GM0074;Heerenveen;Heerenveen;PV21;Fryslân
+GM0917;Heerlen;Heerlen;PV31;Limburg
+GM1658;Heeze-Leende;Heeze-Leende;PV30;Noord-Brabant
+GM0399;Heiloo;Heiloo;PV27;Noord-Holland
+GM0163;Hellendoorn;Hellendoorn;PV23;Overijssel
+GM0794;Helmond;Helmond;PV30;Noord-Brabant
+GM0531;Hendrik-Ido-Ambacht;Hendrik-Ido-Ambacht;PV28;Zuid-Holland
+GM0164;Hengelo (O.);Hengelo (O);PV23;Overijssel
+GM1966;Het Hogeland;Het Hogeland;PV20;Groningen
+GM0252;Heumen;Heumen;PV25;Gelderland
+GM0797;Heusden;Heusden;PV30;Noord-Brabant
+GM0534;Hillegom;Hillegom;PV28;Zuid-Holland
+GM0798;Hilvarenbeek;Hilvarenbeek;PV30;Noord-Brabant
+GM0402;Hilversum;Hilversum;PV27;Noord-Holland
+GM1963;Hoeksche Waard;Hoeksche Waard;PV28;Zuid-Holland
+GM1735;Hof van Twente;Hof van Twente;PV23;Overijssel
+GM1911;Hollands Kroon;Hollands Kroon;PV27;Noord-Holland
+GM0118;Hoogeveen;Hoogeveen;PV22;Drenthe
+GM0405;Hoorn;Hoorn;PV27;Noord-Holland
+GM1507;Horst aan de Maas;Horst aan de Maas;PV31;Limburg
+GM0321;Houten;Houten;PV26;Utrecht
+GM0406;Huizen;Huizen;PV27;Noord-Holland
+GM0677;Hulst;Hulst;PV29;Zeeland
+GM0353;IJsselstein;IJsselstein;PV26;Utrecht
+GM1884;Kaag en Braassem;Kaag en Braassem;PV28;Zuid-Holland
+GM0166;Kampen;Kampen;PV23;Overijssel
+GM0678;Kapelle;Kapelle;PV29;Zeeland
+GM0537;Katwijk;Katwijk;PV28;Zuid-Holland
+GM0928;Kerkrade;Kerkrade;PV31;Limburg
+GM1598;Koggenland;Koggenland;PV27;Noord-Holland
+GM0542;Krimpen aan den IJssel;Krimpen aan den IJssel;PV28;Zuid-Holland
+GM1931;Krimpenerwaard;Krimpenerwaard;PV28;Zuid-Holland
+GM1659;Laarbeek;Laarbeek;PV30;Noord-Brabant
+GM1982;Land van Cuijk;Land van Cuijk;PV30;Noord-Brabant
+GM0882;Landgraaf;Landgraaf;PV31;Limburg
+GM0415;Landsmeer;Landsmeer;PV27;Noord-Holland
+GM1621;Lansingerland;Lansingerland;PV28;Zuid-Holland
+GM0417;Laren (NH.);Laren (NH);PV27;Noord-Holland
+GM0080;Leeuwarden;Leeuwarden;PV21;Fryslân
+GM0546;Leiden;Leiden;PV28;Zuid-Holland
+GM0547;Leiderdorp;Leiderdorp;PV28;Zuid-Holland
+GM1916;Leidschendam-Voorburg;Leidschendam-Voorburg;PV28;Zuid-Holland
+GM0995;Lelystad;Lelystad;PV24;Flevoland
+GM1640;Leudal;Leudal;PV31;Limburg
+GM0327;Leusden;Leusden;PV26;Utrecht
+GM1705;Lingewaard;Lingewaard;PV25;Gelderland
+GM0553;Lisse;Lisse;PV28;Zuid-Holland
+GM0262;Lochem;Lochem;PV25;Gelderland
+GM0809;Loon op Zand;Loon op Zand;PV30;Noord-Brabant
+GM0331;Lopik;Lopik;PV26;Utrecht
+GM0168;Losser;Losser;PV23;Overijssel
+GM0263;Maasdriel;Maasdriel;PV25;Gelderland
+GM1641;Maasgouw;Maasgouw;PV31;Limburg
+GM1991;Maashorst;Maashorst;PV30;Noord-Brabant
+GM0556;Maassluis;Maassluis;PV28;Zuid-Holland
+GM0935;Maastricht;Maastricht;PV31;Limburg
+GM0420;Medemblik;Medemblik;PV27;Noord-Holland
+GM0938;Meerssen;Meerssen;PV31;Limburg
+GM1948;Meierijstad;Meierijstad;PV30;Noord-Brabant
+GM0119;Meppel;Meppel;PV22;Drenthe
+GM0687;Middelburg (Z.);Middelburg (Z);PV29;Zeeland
+GM1842;Midden-Delfland;Midden-Delfland;PV28;Zuid-Holland
+GM1731;Midden-Drenthe;Midden-Drenthe;PV22;Drenthe
+GM1952;Midden-Groningen;Midden-Groningen;PV20;Groningen
+GM1709;Moerdijk;Moerdijk;PV30;Noord-Brabant
+GM1978;Molenlanden;Molenlanden;PV28;Zuid-Holland
+GM1955;Montferland;Montferland;PV25;Gelderland
+GM0335;Montfoort;Montfoort;PV26;Utrecht
+GM0944;Mook en Middelaar;Mook en Middelaar;PV31;Limburg
+GM1740;Neder-Betuwe;Neder-Betuwe;PV25;Gelderland
+GM0946;Nederweert;Nederweert;PV31;Limburg
+GM0356;Nieuwegein;Nieuwegein;PV26;Utrecht
+GM0569;Nieuwkoop;Nieuwkoop;PV28;Zuid-Holland
+GM0267;Nijkerk;Nijkerk;PV25;Gelderland
+GM0268;Nijmegen;Nijmegen;PV25;Gelderland
+GM1930;Nissewaard;Nissewaard;PV28;Zuid-Holland
+GM1970;Noardeast-Fryslân;Noardeast-Fryslân;PV21;Fryslân
+GM1695;Noord-Beveland;Noord-Beveland;PV29;Zeeland
+GM1699;Noordenveld;Noordenveld;PV22;Drenthe
+GM0171;Noordoostpolder;Noordoostpolder;PV24;Flevoland
+GM0575;Noordwijk;Noordwijk;PV28;Zuid-Holland
+GM0820;Nuenen, Gerwen en Nederwetten;Nuenen, Gerwen en Nederwetten;PV30;Noord-Brabant
+GM0302;Nunspeet;Nunspeet;PV25;Gelderland
+GM0579;Oegstgeest;Oegstgeest;PV28;Zuid-Holland
+GM0823;Oirschot;Oirschot;PV30;Noord-Brabant
+GM0824;Oisterwijk;Oisterwijk;PV30;Noord-Brabant
+GM1895;Oldambt;Oldambt;PV20;Groningen
+GM0269;Oldebroek;Oldebroek;PV25;Gelderland
+GM0173;Oldenzaal;Oldenzaal;PV23;Overijssel
+GM1773;Olst-Wijhe;Olst-Wijhe;PV23;Overijssel
+GM0175;Ommen;Ommen;PV23;Overijssel
+GM1586;Oost Gelre;Oost Gelre;PV25;Gelderland
+GM0826;Oosterhout;Oosterhout;PV30;Noord-Brabant
+GM0085;Ooststellingwerf;Ooststellingwerf;PV21;Fryslân
+GM0431;Oostzaan;Oostzaan;PV27;Noord-Holland
+GM0432;Opmeer;Opmeer;PV27;Noord-Holland
+GM0086;Opsterland;Opsterland;PV21;Fryslân
+GM0828;Oss;Oss;PV30;Noord-Brabant
+GM1509;Oude IJsselstreek;Oude IJsselstreek;PV25;Gelderland
+GM0437;Ouder-Amstel;Ouder-Amstel;PV27;Noord-Holland
+GM0589;Oudewater;Oudewater;PV26;Utrecht
+GM1734;Overbetuwe;Overbetuwe;PV25;Gelderland
+GM0590;Papendrecht;Papendrecht;PV28;Zuid-Holland
+GM1894;Peel en Maas;Peel en Maas;PV31;Limburg
+GM0765;Pekela;Pekela;PV20;Groningen
+GM1926;Pijnacker-Nootdorp;Pijnacker-Nootdorp;PV28;Zuid-Holland
+GM0439;Purmerend;Purmerend;PV27;Noord-Holland
+GM0273;Putten;Putten;PV25;Gelderland
+GM0177;Raalte;Raalte;PV23;Overijssel
+GM0703;Reimerswaal;Reimerswaal;PV29;Zeeland
+GM0274;Renkum;Renkum;PV25;Gelderland
+GM0339;Renswoude;Renswoude;PV26;Utrecht
+GM1667;Reusel-De Mierden;Reusel-De Mierden;PV30;Noord-Brabant
+GM0275;Rheden;Rheden;PV25;Gelderland
+GM0340;Rhenen;Rhenen;PV26;Utrecht
+GM0597;Ridderkerk;Ridderkerk;PV28;Zuid-Holland
+GM1742;Rijssen-Holten;Rijssen-Holten;PV23;Overijssel
+GM0603;Rijswijk (ZH.);Rijswijk (ZH);PV28;Zuid-Holland
+GM1669;Roerdalen;Roerdalen;PV31;Limburg
+GM0957;Roermond;Roermond;PV31;Limburg
+GM1674;Roosendaal;Roosendaal;PV30;Noord-Brabant
+GM0599;Rotterdam;Rotterdam;PV28;Zuid-Holland
+GM0277;Rozendaal;Rozendaal;PV25;Gelderland
+GM0840;Rucphen;Rucphen;PV30;Noord-Brabant
+GM0441;Schagen;Schagen;PV27;Noord-Holland
+GM0279;Scherpenzeel;Scherpenzeel;PV25;Gelderland
+GM0606;Schiedam;Schiedam;PV28;Zuid-Holland
+GM0088;Schiermonnikoog;Schiermonnikoog;PV21;Fryslân
+GM1676;Schouwen-Duiveland;Schouwen-Duiveland;PV29;Zeeland
+GM0965;Simpelveld;Simpelveld;PV31;Limburg
+GM0845;Sint-Michielsgestel;Sint-Michielsgestel;PV30;Noord-Brabant
+GM1883;Sittard-Geleen;Sittard-Geleen;PV31;Limburg
+GM0610;Sliedrecht;Sliedrecht;PV28;Zuid-Holland
+GM1714;Sluis;Sluis;PV29;Zeeland
+GM0090;Smallingerland;Smallingerland;PV21;Fryslân
+GM0342;Soest;Soest;PV26;Utrecht
+GM0847;Someren;Someren;PV30;Noord-Brabant
+GM0848;Son en Breugel;Son en Breugel;PV30;Noord-Brabant
+GM0037;Stadskanaal;Stadskanaal;PV20;Groningen
+GM0180;Staphorst;Staphorst;PV23;Overijssel
+GM0532;Stede Broec;Stede Broec;PV27;Noord-Holland
+GM0851;Steenbergen;Steenbergen;PV30;Noord-Brabant
+GM1708;Steenwijkerland;Steenwijkerland;PV23;Overijssel
+GM0971;Stein (L.);Stein (L);PV31;Limburg
+GM1904;Stichtse Vecht;Stichtse Vecht;PV26;Utrecht
+GM1900;Súdwest-Fryslân;Súdwest-Fryslân;PV21;Fryslân
+GM0715;Terneuzen;Terneuzen;PV29;Zeeland
+GM0093;Terschelling;Terschelling;PV21;Fryslân
+GM0448;Texel;Texel;PV27;Noord-Holland
+GM1525;Teylingen;Teylingen;PV28;Zuid-Holland
+GM0716;Tholen;Tholen;PV29;Zeeland
+GM0281;Tiel;Tiel;PV25;Gelderland
+GM0855;Tilburg;Tilburg;PV30;Noord-Brabant
+GM0183;Tubbergen;Tubbergen;PV23;Overijssel
+GM1700;Twenterand;Twenterand;PV23;Overijssel
+GM1730;Tynaarlo;Tynaarlo;PV22;Drenthe
+GM0737;Tytsjerksteradiel;Tytsjerksteradiel;PV21;Fryslân
+GM0450;Uitgeest;Uitgeest;PV27;Noord-Holland
+GM0451;Uithoorn;Uithoorn;PV27;Noord-Holland
+GM0184;Urk;Urk;PV24;Flevoland
+GM0344;Utrecht;Utrecht;PV26;Utrecht
+GM1581;Utrechtse Heuvelrug;Utrechtse Heuvelrug;PV26;Utrecht
+GM0981;Vaals;Vaals;PV31;Limburg
+GM0994;Valkenburg aan de Geul;Valkenburg aan de Geul;PV31;Limburg
+GM0858;Valkenswaard;Valkenswaard;PV30;Noord-Brabant
+GM0047;Veendam;Veendam;PV20;Groningen
+GM0345;Veenendaal;Veenendaal;PV26;Utrecht
+GM0717;Veere;Veere;PV29;Zeeland
+GM0861;Veldhoven;Veldhoven;PV30;Noord-Brabant
+GM0453;Velsen;Velsen;PV27;Noord-Holland
+GM0983;Venlo;Venlo;PV31;Limburg
+GM0984;Venray;Venray;PV31;Limburg
+GM1961;Vijfheerenlanden;Vijfheerenlanden;PV26;Utrecht
+GM0622;Vlaardingen;Vlaardingen;PV28;Zuid-Holland
+GM0096;Vlieland;Vlieland;PV21;Fryslân
+GM0718;Vlissingen;Vlissingen;PV29;Zeeland
+GM0986;Voerendaal;Voerendaal;PV31;Limburg
+GM1992;Voorne aan Zee;Voorne aan Zee;PV28;Zuid-Holland
+GM0626;Voorschoten;Voorschoten;PV28;Zuid-Holland
+GM0285;Voorst;Voorst;PV25;Gelderland
+GM0865;Vught;Vught;PV30;Noord-Brabant
+GM1949;Waadhoeke;Waadhoeke;PV21;Fryslân
+GM0866;Waalre;Waalre;PV30;Noord-Brabant
+GM0867;Waalwijk;Waalwijk;PV30;Noord-Brabant
+GM0627;Waddinxveen;Waddinxveen;PV28;Zuid-Holland
+GM0289;Wageningen;Wageningen;PV25;Gelderland
+GM0629;Wassenaar;Wassenaar;PV28;Zuid-Holland
+GM0852;Waterland;Waterland;PV27;Noord-Holland
+GM0988;Weert;Weert;PV31;Limburg
+GM1960;West Betuwe;West Betuwe;PV25;Gelderland
+GM0668;West Maas en Waal;West Maas en Waal;PV25;Gelderland
+GM1969;Westerkwartier;Westerkwartier;PV20;Groningen
+GM1701;Westerveld;Westerveld;PV22;Drenthe
+GM0293;Westervoort;Westervoort;PV25;Gelderland
+GM1950;Westerwolde;Westerwolde;PV20;Groningen
+GM1783;Westland;Westland;PV28;Zuid-Holland
+GM0098;Weststellingwerf;Weststellingwerf;PV21;Fryslân
+GM0189;Wierden;Wierden;PV23;Overijssel
+GM0296;Wijchen;Wijchen;PV25;Gelderland
+GM1696;Wijdemeren;Wijdemeren;PV27;Noord-Holland
+GM0352;Wijk bij Duurstede;Wijk bij Duurstede;PV26;Utrecht
+GM0294;Winterswijk;Winterswijk;PV25;Gelderland
+GM0873;Woensdrecht;Woensdrecht;PV30;Noord-Brabant
+GM0632;Woerden;Woerden;PV26;Utrecht
+GM0880;Wormerland;Wormerland;PV27;Noord-Holland
+GM0351;Woudenberg;Woudenberg;PV26;Utrecht
+GM0479;Zaanstad;Zaanstad;PV27;Noord-Holland
+GM0297;Zaltbommel;Zaltbommel;PV25;Gelderland
+GM0473;Zandvoort;Zandvoort;PV27;Noord-Holland
+GM0050;Zeewolde;Zeewolde;PV24;Flevoland
+GM0355;Zeist;Zeist;PV26;Utrecht
+GM0299;Zevenaar;Zevenaar;PV25;Gelderland
+GM0637;Zoetermeer;Zoetermeer;PV28;Zuid-Holland
+GM0638;Zoeterwoude;Zoeterwoude;PV28;Zuid-Holland
+GM1892;Zuidplas;Zuidplas;PV28;Zuid-Holland
+GM0879;Zundert;Zundert;PV30;Noord-Brabant
+GM0301;Zutphen;Zutphen;PV25;Gelderland
+GM1896;Zwartewaterland;Zwartewaterland;PV23;Overijssel
+GM0642;Zwijndrecht;Zwijndrecht;PV28;Zuid-Holland
+GM0193;Zwolle;Zwolle;PV23;Overijssel

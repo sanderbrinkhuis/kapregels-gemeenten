@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0303/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Dronten",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0303/2020/omgevingsplan/nld@2024-04-24;6da782cf91514732b4c703da42923c13",
+    "beginGeldigheid": "2024-04-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0303_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0303/2020/omgevingsprogramma_uitleggebied_dronten-zuid60",
+    "titel": "Omgevingsprogramma Uitleggebied Dronten-Zuid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0303/2020/omgevingsprogramma_uitleggebied_dronten-zuid60/nld@2026-06-03;c8f04f43e6b9454ba0ebf48510e3007e",
+    "beginGeldigheid": "2026-06-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0303_2020_omgevingsprogramma_uitleggebied_dronten_zuid60?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:13Z"
+  }
+]

@@ -1,0 +1,80 @@
+{
+ "gm_code": "GM0285",
+ "gemeente": "Voorst",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening gemeente Voorst 2019 (Apv) (6e wijziging 2025), afdeling 4.3 (art. 4.3.1, 4.3.2, 4.3.3a, 4.3.5, 4.3.6) en art. 6.1, 1.2, 1.8; Legesverordening Voorst 2026 art. 2.30 (CVDR753300_2); Omgevingsplan art. 22.299 (CVDR696255_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR626578/7 ; https://lokaleregelgeving.overheid.nl/CVDR753300/2",
+ "datum_geldigheid": "APV CVDR626578_7 geldend vanaf 2025-10-04 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 7 (6e wijziging 2025) per 2025-10-04. Legesverordening 2026 (eerste wijziging) per 2026-10-01.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4.3.2 van de APV in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 313 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 130 besluiten en 11 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. Verleende vergunningen voor 'een boom' in Twello, Terwolde en Wilp passen bij een regime voor de hele gemeente.",
+ "vergunningplicht": "Omgevingsvergunning (APV 4.3.2 lid 1): 'Het is verboden zonder omgevingsvergunning een houtopstand te vellen of te doen vellen.'",
+ "drempel": "Art. 4.3.2 lid 2 onder d: verbod geldt niet voor 'overige soorten bomen tot een omtrek van 80 cm op 1,3 m hoogte boven het maaiveld' (met uitzonderingen voor herplantbomen, hakhout, houtwal, gesubsidieerde of voorwaardelijk aangeplante bomen). Dus vergunning vanaf omtrek > 80 cm.",
+ "omtrek_cm": 80,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Hele gemeente, particulier en openbaar. Binnen de bebouwde kom geldt het verbod voor alle houtopstanden behalve de uitzonderingen. Buiten de bebouwde kom (Wnb-kom) is houtopstand uitgezonderd 'tenzij het betreft: houtopstanden op erven en in tuinen; houtopstanden die een zelfstandige eenheid vormen, en hetzij geen groter oppervlakte beslaan dan 10 are, hetzij in geval van rijbeplanting, gerekend over het totaal aantal rijen, niet meer bomen omvatten dan 20.' Erven en tuinen buiten de kom vallen dus ook onder het verbod. Geen bomenlijst of gebiedsregel gevonden.",
+ "uitzonderingen": "Art. 4.3.2 lid 2: a. 'laagstam vruchtbomen voor commerciële productie en windschermen om boomgaarden voor commerciële productie'; b. 'coniferen en naaldhoutsoorten, met uitzondering van Taxus (Taxus soorten)'; c. gecultiveerde bolbomen (behalve inheemse knotbomen); d. overige soorten bomen tot een omtrek van 80 cm; houtopstand buiten de bebouwde kom (grote eenheden, zie reikwijdte); e. Plantenziektewet of aanschrijving; f. houtopstand volgens het Convenant Erf- en Landschappelijke beplantingen in het Buitengebied van 31 januari 2002 (indien gemeld of geregistreerd). Lid 3: burgemeester of boomtechnisch adviseur kan toestemming geven bij 'een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Alle naaldbomen en coniferen zijn uitgezonderd: ruime uitzondering, correctie -1. Geen tuin-, erf- of oppervlakteuitzondering binnen de kom.",
+ "weigeringsgronden": "Art. 4.3.3a: 'In afwijking van artikel 1.8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde of biodiversiteitswaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de cultuurhistorische waarde van de houtopstand; d. De beeldbepalende waarde van de houtopstand; e. de waarde van de houtopstand voor dorpsschoon.'",
+ "herplantplicht": "Art. 4.3.5 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 4.3.6 lid 1: na kap zonder vergunning 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen financiële compensatie. Geen herplantbeleidsregel in het dossier.",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren'); het bevoegd gezag (college) beslist per geval. Geen betaling als alternatief. Na illegale kap 'kan' herplant worden opgelegd (4.3.6 lid 1).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4.3.5 lid 3: 'Degene aan wie de verplichting als bedoeld in het eerste lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht hieraan te voldoen.' Art. 4.3.6 lid 4 idem. Art. 6.1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Daarnaast het algemene instrumentarium (bestuursdwang/dwangsom), niet in de APV geregeld.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "APV art. 6.1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Art. 6.1 lid 4: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... en 4.3.2, eerste lid, als sprake is van een omgevingsvergunningplichtige activiteit' (WED-aanwijzing in regeling). Ook via Ow 5.1 (legesverordening art. 2.30). Geen bestuurlijke boete voor kappen (lid 5 gaat over de Wet veiligheidsregio's). Herplant na illegale kap: art. 4.3.6.",
+ "procedure": "Aanvraag omgevingsvergunning; leges 2026 art. 2.30 (CVDR753300_2): 0-3 bomen € 64,90; 4-10 bomen € 97,30; 11-25 bomen € 876,00; meer dan 25 bomen € 1.314,00. Beslistermijn: art. 1.2 lid 1 acht weken, verdagen tot acht weken; lid 4: Wabo art. 3.9 van toepassing op art. 4.3.2. Bekendmaking in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "",
+ "status": "ok",
+ "ontbrekend": "Geen herplant- of handhavingsbeleid van het college in CVDR gevonden (Bomen- of groenbeleid van Voorst staat niet in het dossier); gemeentelijke website niet geraadpleegd. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen. Convenant Erf- en Landschappelijke beplantingen (2002) staat niet in het dossier.",
+ "artikelnummers": [
+  "APV 1.1",
+  "APV 1.2",
+  "APV 1.8",
+  "APV 4.3.1",
+  "APV 4.3.2",
+  "APV 4.3.3a",
+  "APV 4.3.5",
+  "APV 4.3.6",
+  "APV 6.1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D: drempel 80 cm omtrek (middelmatig, D3) voor het hele grondgebied inclusief erven en tuinen buiten de kom. Alle naaldbomen en coniferen (art. 4.3.2 lid 2 onder b: 'coniferen en naaldhoutsoorten, met uitzondering van Taxus (Taxus soorten)') zijn uitgezonderd: ruime uitzondering, correctie -1, dus D2.",
+  "Voorbeeldboom A heeft exact 80 cm omtrek; de bron zegt 'tot een omtrek van 80 cm', dus vergunningvrij (nee). Een boom van ruim 80 cm is wel vergunningplichtig.",
+  "W: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ...' (art. 4.3.3a), limitatieve waarden: belangenafweging, W2.",
+  "H: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4.3.5 lid 1): bevoegdheid, H1.",
+  "S1: WED-aanwijzing art. 6.1 lid 4 voor 4.3.2 lid 1; de legesverordening noemt de omgevingsplanactiviteit. Geen bestuurlijke boete.",
+  "De lopende zin van art. 4.3.2 lid 2 over houtopstanden buiten de bebouwde kom heeft in de bron geen letter; gelezen als een uitzondering op het verbod (die voor erven, tuinen en kleine eenheden niet geldt). Dit is een leesafweging; als het niet zo bedoeld is, geldt het verbod buiten de kom voor alle bomen boven 80 cm, ook dat is D3 en geeft dezelfde score."
+ ],
+ "modelsignalen": []
+}

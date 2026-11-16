@@ -1,0 +1,87 @@
+{
+  "gm_code": "GM0109",
+  "gemeente": "Coevorden",
+  "provincie": "Drenthe",
+  "brondocument": "Bomenverordening gemeente Coevorden 1999 (CVDR328221_2) art. 1, 2, 5, 7, 11, 19; APV Coevorden 2026 (CVDR732749_2) afd. 4.3 en art. 6:1 lid 3; Lijst waardevolle bomen 2006 (CVDR40047_1); leges 2026 (CVDR754185_2) rij 2.8.1; Omgevingsplan (CVDR696187_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR328221/2 ; https://lokaleregelgeving.overheid.nl/CVDR732749/2",
+  "datum_geldigheid": "Bomenverordening geldend van 26-10-2018 t/m heden (peildatum 14-11-2026); APV 2026 geldend van 06-05-2026 t/m heden",
+  "laatste_wijziging": "Bomenverordening: versie 2 in werking 26-10-2018 (bebouwde kom Wet natuurbescherming, art. 1 lid 1, art. 2 lid 2, art. 16); APV 2026: 06-05-2026",
+  "juridische_plaats": "Bomenverordening (apart van de APV). APV 2026 afd. 4.3 (art. 4:10, 4:11, 4:12) is 'gereserveerd' met de kop '(opgenomen in Bomenverordening gemeente Coevorden)'. De APV (art. 6:1 lid 3) wijst de Bomenverordening aan voor de WED. Leges 2.8.1 behandelt kap als omgevingsplanactiviteit (art. 5.1 lid 1 onder a Ow, 'gemeentelijke bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'), dus de regel werkt als omgevingsplanregel (tijdelijk deel).",
+  "praktijkcontrole": "Sinds 2025: 281 besluiten en 307 aanvragen op titel 'kappen' (624 bekendmakingen); 0 weigeringen volgens titel. Steekproef van 10 recente besluiten: allemaal omgevingsvergunningen voor 1 of 2 bomen, deels noodkap en deels bomen in berm of plantsoen; geen grondslag genoemd. Veel verleende kapvergunningen: past bij een gemeentebreed vergunningstelsel met een drempel van 30 cm doorsnede.",
+  "vergunningplicht": "vergunning (omgevingsvergunning voor het vellen van houtopstand)",
+  "drempel": "boom = stamdoorsnede van minimaal 30 cm op 1,3 m hoogte (art. 1 lid 1 onder a); bij meerstammigheid de dikste stam",
+  "omtrek_cm": 94,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar: 'Het is verboden zonder vergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.' (art. 2 lid 1). Daarnaast lijst monumentale houtopstanden (art. 12) en de Lijst waardevolle bomen 2006.",
+  "uitzonderingen": "Art. 2 lid 2: houtopstand waarop art. 4.2 Wet natuurbescherming van toepassing is. Lid 3: Plantenziektenwet of aanschrijving of last van het college; periodiek vellen van hakhout en dunnen als regulier onderhoud; knotten of kandelaberen; 'het vellen van houtopstanden in tuinen en erven zoals opgenomen op een door het college vast te stellen lijst, tenzij deze deel uitmaken van een houtwal of windsingel'. Die lijst ('Bijlage Bomen geen kapvergunning cf art 2 lid 3') staat niet in de opgehaalde tekst.",
+  "weigeringsgronden": "Art. 5 lid 1: 'Het college van burgemeester en wethouders kan de vergunning weigeren in het belang van de handhaving van onder meer: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie en leefbaarheid; een bepaalde boomwaarde.' Lid 2: vergunning voor houtopstand op de lijst monumentale houtopstanden wordt in elk geval geweigerd, tenzij ernstige bedreiging van de openbare veiligheid, noodtoestand of andere uitzonderlijke situatie.",
+  "herplantplicht": "Art. 7 lid 1: 'Tot aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant. Indien het gemeentelijk beleid of een bestemmings-, groen-, bomen- of landschapsplan de te vellen houtopstand direct of indirect als waardevol omschrijft, wordt zoveel mogelijk een herplantplicht opgelegd.' Art. 11 lid 1 (na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herplanten'. Geen beleidsregel over herplant of compensatie gevonden. Boomwaarde alleen genoemd als weigeringsgrond (art. 5) en bij de strafmaat (art. 19 lid 2); geen verplichte financiële compensatie.",
+  "herplant_ontsnapping": "Art. 7 lid 1: 'kan behoren' (bevoegdheid); 'zoveel mogelijk' bij waardevolle houtopstand. Art. 11: 'kan'. Het college beslist per geval. Geen betaling als alternatief.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 19 lid 1: 'Overtreding van de volgende artikelen en de krachtens deze artikelen gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie ...: artikel 2; ... artikel 11; ... artikel 14'. Een herplantverplichting na kap zonder vergunning (art. 11) valt dus onder de strafbepaling. Art. 7 (herplantvoorschrift bij vergunning) staat niet in die lijst.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "sancties": "Eigen strafbepaling art. 19 (hechtenis tot 3 maanden of geldboete tweede categorie; bij de strafmaat 'kan rekening worden gehouden met de boomwaarde'). APV art. 6:1 lid 3 verklaart art. 1a WED van toepassing op 'artikel 2 jo. 12 van de Bomenverordening Coevorden 1999'. Daarnaast WED via Ow art. 5.1 (omgevingsplanactiviteit, zie leges 2.8.1). Herplantplicht na illegale kap (art. 11) mogelijk. Geen bestuurlijke boete, geen handhavingsbeleid gevonden.",
+  "procedure": "Beslistermijn 8 weken (art. 4 lid 1); art. 3.9 Wabo van toepassing verklaard (art. 4 lid 2). Leges: CVDR754185_2 rij 2.8.1, EUR 61,25 voor omgevingsplanactiviteit kappen. Aanvraagvereisten: omgevingsplan art. 22.299 (diameter in cm op 1,30 m, locatie op voor-, zij- of achtererf, herbeplanting). Bezwaar en beroep volgens Awb; publicatie in het gemeenteblad.",
+  "D": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing: gemeentebreed stelsel met drempel. Naast het stelsel bestaat de Lijst waardevolle bomen 2006 (CVDR40047_1): 'ruim 3.500 waardevolle bomen ... verspreid over ca. 1.100 locaties', volgens de inleiding alle particuliere bomen van de lijst (binnen en buiten de bebouwde kom); niet als telling overgenomen omdat de lijst uit 2006/2007 stamt.",
+  "status": "ok",
+  "ontbrekend": "Bijlage 'Bomen geen kapvergunning cf art 2 lid 3' (lijst tuinen en erven zonder kapvergunning) niet in de opgehaalde tekst; als die lijst veel tuinbomen uitsluit, zakt D naar 2 (bereik 2-3). Omgevingsplan in DSO niet ingezien. Geen herplant- of handhavingsbeleid gevonden.",
+  "artikelnummers": [
+    "Bomenverordening 1999 art. 1 lid 1 onder a en lid 2",
+    "art. 2",
+    "art. 4",
+    "art. 5",
+    "art. 7",
+    "art. 11",
+    "art. 12",
+    "art. 19",
+    "APV 2026 afd. 4.3 (art. 4:10-4:12 gereserveerd)",
+    "APV 2026 art. 6:1 lid 3",
+    "Leges 2026 rij 2.8.1",
+    "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "Welke tekst geldt: de APV Coevorden 2026 (CVDR732749_2, in werking 06-05-2026) regelt kap niet meer zelf. Afdeling 4.3 heeft de kop '(opgenomen in Bomenverordening gemeente Coevorden)' en art. 4:10, 4:11 en 4:12 zijn '(gereserveerd)'. De Bomenverordening 1999 (CVDR328221_2) is geldend zonder einddatum. De APV verwijst er zelf naar in art. 6:1 lid 3. De Bomenverordening 1999 geldt dus vandaag.",
+    "D3: gehele gemeente, drempel 30 cm doorsnede = ca. 94 cm omtrek (30 x 3,14) op 1,30 m, dus 60-100 cm. Minimum D2 omdat de lijst met uitgezonderde tuinen en erven (art. 2 lid 3 onder d) niet is ingezien; zonder bewijs van een ruime uitzondering geen aftrek in de puntschatting.",
+    "W2: 'kan de vergunning weigeren in het belang van de handhaving van onder meer: natuur- en milieuwaarden; landschappelijke waarden; ...' (art. 5 lid 1).",
+    "H1: 'kan' (art. 11 lid 1) en 'kan behoren' (art. 7 lid 1). Het 'zoveel mogelijk' bij waardevolle houtopstand maakt er geen vast voorschrift van.",
+    "S1: eigen strafbepaling (art. 19) en WED (APV 6:1 lid 3 en via Ow 5.1). Geen bestuurlijke boete.",
+    "Boom A (80 cm omtrek = ca. 25 cm doorsnede) en boom B (40 cm = ca. 13 cm) zijn beide kleiner dan de drempel van 30 cm doorsnede en vallen niet onder het begrip 'boom' (art. 1 lid 1 onder a). Dus 'nee'. Een achtertuinboom van ca. 30 cm doorsnede (omtrek ca. 94 cm) is wel vergunningplichtig, tenzij de tuin op de uitzonderingslijst staat.",
+    "De definitie van 'boom' (30 cm) staat in art. 1; de toelichting noemt 10 cm. De toelichting is niet bindend; de verordeningstekst geldt.",
+    "Toelichting op art. 19 zegt dat de strafbepalingen niet van toepassing zijn omdat de WED via de Wabo geldt; die toelichting is verouderd, want art. 19 staat nog in de tekst en APV 6:1 lid 3 verwijst er expliciet naar.",
+    "Gebieds- of lijstregels (monumentale houtopstanden art. 12, strengere weigering art. 5 lid 2) zijn alleen vermeld; het breedste regime bepaalt D."
+  ],
+  "modelsignalen": [
+    "Verordening die kap in een aparte 'Bomenverordening' laat staan terwijl de APV-afdeling gereserveerd is: juridische plaats in de CSV lastig te standaardiseren. Verwijzing in de APV naar artikelnummers uit de Bomenverordening (art. 2 jo. 12) klopt niet meer met de huidige nummering (art. 12 is de lijst monumentale houtopstanden).",
+    "Uitzonderingslijst voor tuinen en erven die het college buiten de verordening vaststelt: het model kan niet bepalen of de correctie in D geldt zolang de lijst niet is ingezien."
+  ]
+}

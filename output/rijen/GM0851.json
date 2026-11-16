@@ -1,0 +1,78 @@
+{
+ "gm_code": "GM0851",
+ "gemeente": "Steenbergen",
+ "provincie": "Noord-Brabant",
+ "brondocument": "Bomenverordening gemeente Steenbergen (CVDR757103_1) art. 1, 2, 4, 5, 7, 10; Beleidsplan bomen 2026-2036 (CVDR757106_1) §4.4 en §4.6; Kaart beschermde groenelementen (CVDR757104_1, besluit 2025-12-09); Legesverordening 2026 (CVDR750804_5) art. 2.30; APV (CVDR384382_9) afd. 3 [gereserveerd]",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR757103/1 ; https://lokaleregelgeving.overheid.nl/CVDR757106/1",
+ "datum_geldigheid": "CVDR757103_1 geldend van 2026-02-17 t/m heden (peildatum 2026-11-15)",
+ "laatste_wijziging": "2026-02-17 (Bomenverordening, nieuwe regeling; vervangt de Bomenverordening van 24-02-2022). Beleidsplan en kaart zelfde datum.",
+ "juridische_plaats": "Losse bomenverordening (CVDR757103_1). APV afdeling 3 'Het bewaren van houtopstanden' is '[gereserveerd]'. Werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld de bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten (verwezen in art. 3 lid 3 van de verordening).",
+ "praktijkcontrole": "Sinds 2025: 8 bekendmakingen (zoekmethode volledige tekst, benadering), 0 besluiten, 1 aanvraag, 0 weigeringen volgens de titel. Niets af te leiden.",
+ "vergunningplicht": "Omgevingsvergunning (art. 2 lid 1): 'Het is verboden zonder omgevingsvergunning een boom te vellen, wanneer de boom: a. voorkomt op de bomenlijst; b. voorkomt in gebieden aangegeven op de kaart;'.",
+ "drempel": "Geen omtrekdrempel in het verbod. Definitie 'boom' (art. 1 onder b): diameter minimaal 10 cm, 'zijnde een stamomtrek van 31,4 centimeter, op 1,30 meter'; die definitie bakent alleen af wat een boom is. Beschermd zijn alleen bomen op de lijst en op de kaart. Klasse II-bomen van derden: boomhoogte meer dan 6 m (beleidsplan §4.4).",
+ "omtrek_cm": null,
+ "meethoogte": "130 cm (definitie boom; geen drempel in het verbod)",
+ "reikwijdte": "Twee delen: (1) de 'Monumentale en Bijzondere bomenlijst' (klasse I; 271 bomen in 2024; kunnen ook op particulier terrein staan) en (2) de kaart 'Beschermende Groenelementen' (klasse II: bomenrijen en structuren, ook bomen van derden hoger dan 6 m). Hele gemeente. De kaart en de lijst zelf zijn niet in CVDR en niet ingezien.",
+ "uitzonderingen": "Art. 2 lid 2: wettelijke plicht; dunning. Lid 3 (alleen voor de kaart): 'fruitbomen en windschermen om boomgaarden', fijnsparren niet ouder dan 12 jaar voor kerstbomen, kweekgoed (gangbare uitzonderingen). Beleidsplan §4.6.3: vergunningvrije dunning met vooraf schriftelijke toestemming van het college. Geen tuin-, soort- of oppervlakte-uitzondering.",
+ "weigeringsgronden": "Art. 4 lid 1 (lijst): 'kan slechts worden verleend in het geval van: a. grote gevaarzetting of vergelijkbaar spoedeisend belang van openbare orde of veiligheid; b. ziekte, voor zover dat de dood van de boom tot gevolg heeft.' Lid 2 (kaart): 'kan slechts worden verleend in het geval van: a. ziekte, voor zover dat de dood van de boom tot gevolg heeft; b. groot gemeenschappelijk belang.'",
+ "herplantplicht": "Verordening art. 4 lid 3: 'Bij verlening van een omgevingsvergunning voor het vellen kunnen een of meer van de hierna genoemde verplichtingen worden opgelegd: a. herplant ...; b. het voldoen van de financiële compensatieplicht.' Beleidsplan (vastgesteld, CVDR757106_1) §4.4: vergunning voor kap wordt alleen verleend als 'De initiatiefnemer aantoonbare maatregelen voor mitigatie (herplant) neemt.' en financiële compensatie 'plaatsvindt'; §4.6.2: 'Financiële compensatie door storting in het gemeentelijk Bomenfonds vindt in de volgende situaties plaats (Fig. 4-3): Wanneer herplant zowel op de kaplocatie als andere locatie in openbare ruimte van de gemeente niet of slechts beperkt mogelijk is.' Na illegale kap: art. 7 lid 1 verordening: 'zal het College ... de verplichting opleggen om te voldoen aan de financiële compensatieplicht.'",
+ "herplant_ontsnapping": "Verordening: 'kunnen ... worden opgelegd' (bevoegdheid). Beleidsplan §4.6.1: 'Bij uitzondering: alternatieve compensatie in geld, middels storting in het Bomenfonds, wanneer herplant niet mogelijk is'; compensatiebedrag 'alleen verschuldigd wanneer herplant ... niet of slechts gedeeltelijk mogelijk is'. Het college beslist per geval.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Art. 10: 'Overtreding van het bij of krachtens deze verordening bepaalde en de krachtens deze verordening gegeven voorschriften onderscheidenlijk verplichtingen, wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'. Beleidsplan §4.6.1: 'Bij uitval, achterstallig beheer of afwijking van het herplantplan komt het niet-gerealiseerde BKV volledig voor rekening van de vergunninghouder.'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Eigen strafbepaling art. 10 (hechtenis tot drie maanden of geldboete tweede categorie; boomwaarde mag meewegen bij de strafmaat). WED via Ow 5.1 volgt uit legesverordening art. 2.30 (omgevingsplanactiviteit). APV art. 6:1 lid 2 noemt art. 4:11 lid 2, maar APV afdeling 3 is gereserveerd: verkeerde verwijzing. Financiële compensatie verplicht na illegale kap (art. 7). Geen bestuurlijke boete in de regeling; beleidsplan: compensatie 'staat los van eventuele boetes'.",
+ "procedure": "Leges: EUR 362 (art. 2.30 legesverordening 2026). Aanvraag via het DSO (art. 3 lid 1). Aanvraagvereisten: art. 3 en omgevingsplan art. 22.299. Bezwaar en beroep volgens de Awb; beslistermijn niet apart gevonden.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 271,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "271 monumentale en bijzondere bomen geregistreerd in 2024 (Beleidsplan bomen 2026-2036, CVDR757106_1, §2.3.4: 'Deze waardevolle bomen kunnen ook op particulier of bedrijfsterrein voorkomen'); lijst en kaart zelf niet ingezien; aantal particulier onbekend",
+ "status": "ok",
+ "ontbrekend": "De 'Monumentale en Bijzondere bomenlijst' en de kaart 'Beschermende Groenelementen' staan niet in CVDR (alleen de besluiten zonder bijlage; de kaart staat volgens het beleidsplan op www.gemeente-steenbergen.nl, korte zoekpogging leverde niets op). Daardoor onbekend hoeveel particuliere bomen en welk deel van de gemeente de kaart beslaat: D-bereik 1-2. Omgevingsplan in het DSO niet ingezien. Tabel 4-2 (compensatiebedragen) niet uitgelezen.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 3, 4, 5, 7, 10, 12 (CVDR757103_1)",
+  "Beleidsplan bomen 2026-2036 §2.3.4, §4.4, §4.6 (CVDR757106_1)",
+  "Kaart beschermde groenelementen (CVDR757104_1)",
+  "Legesverordening 2026 art. 2.30 (CVDR750804_5)",
+  "APV art. 6:1 (CVDR384382_9)",
+  "Omgevingsplan art. 22.299 (CVDR696423_2)"
+ ],
+ "opmerkingen": [
+  "D2 (min 1, max 2): de kaart beschermt 'gebieden' met bomenrijen en structuren (klasse II, ook bomen van derden hoger dan 6 m), naast de lijst (D1). Gecombineerd systeem: het breedste regime bepaalt D. Omvang en particulier aandeel van de kaart zijn niet vastgesteld; daarom bereik 1-2. De definitie 'boom' (diameter minimaal 10 cm, omtrek 31,4 cm) is niet de verbodstekst en bepaalt D niet.",
+  "W3: 'kan slechts worden verleend in het geval van' een gesloten lijst van gronden (art. 4 lid 1 en 2): weigeren tenzij (gesloten verleningsgronden, besluit 15-11-2026), zonder bereik.",
+  "H3 (min 2): verordening zegt 'kunnen ... worden opgelegd' (H1), maar het vastgestelde beleidsplan (CVDR757106_1, §4.4 en §4.6) maakt herplant een voorwaarde voor de vergunning en betaling in het Bomenfonds verplicht als herplant niet mogelijk is: de beleidsregel telt (tegenstrijdige teksten). Het beleidsplan heet 'plan' en bevat ook ambities; daarom minimum 2.",
+  "S1: eigen strafbepaling (art. 10) en verplichte compensatie na illegale kap (art. 7 lid 1). Geen bestuurlijke boete. Foute verwijzing: APV art. 6:1 lid 2 noemt art. 4:11 lid 2 terwijl APV afd. 3 gereserveerd is.",
+  "Herplant na illegale kap: de verordening kent alleen een verplichte financiële compensatie ('zal ... opleggen'), geen herplantplicht; het veld is daarom 'verplicht' voor die betaalplicht.",
+  "De Bomenverordening 2022 is ingetrokken (art. 12 lid 2); het beleidsplan beschrijft het stelsel dat nu geldt en telt dus mee."
+ ],
+ "modelsignalen": [
+  "Steenbergen combineert een lijst met een kaart van beschermde groenstructuren (ook particuliere bomen van derden). INTENT geeft geen regel om D te bepalen als de kaart niet is ingezien; D als bereik 1-2 gescoord.",
+  "Herplant staat in de verordening als 'kan' maar in het beleidsplan als vereiste voor de vergunning met verplichte storting; het beleidsplan is geen beleidsregel in strikte zin (ambitiedocument), terwijl INTENT beleidsnota's als beleidsregel laat meetellen. Hierdoor is H3 een ruime lezing (min 2)."
+ ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0718/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Vlissingen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0718/2020/omgevingsplan/nld@2023-12-19;2",
+    "beginGeldigheid": "2024-01-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0718_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0718/2024/Regelingf14693dd4d2846dea18b4cfca7370fa3",
+    "titel": "Omgevingsvisie Vlissingen 2040 - Vlissingen in balans",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0718/2024/Regelingf14693dd4d2846dea18b4cfca7370fa3/nld@2024-04-16;19365776",
+    "beginGeldigheid": "2024-04-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0718_2024_Regelingf14693dd4d2846dea18b4cfca7370fa3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0718/2026/Regeling2171a582be3d432a91000308583713f1",
+    "titel": "Voorbereidingsbesluit Veehouderij en Gezonde Gebiedsontwikkeling 2026",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0718/2026/Regeling2171a582be3d432a91000308583713f1/nld@2026-04-01;09585278",
+    "beginGeldigheid": "2026-04-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0718_2026_Regeling2171a582be3d432a91000308583713f1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0718/2026/Regeling7146d1e381bc489296b7457e2fe85c54",
+    "titel": "Voorbeschermingsregels maatschappelijke voorzieningen en instellingen voor de boulevards, binnenstad en aanloopstraten naar de binnenstad",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0718/2026/Regeling7146d1e381bc489296b7457e2fe85c54/nld@2026-06-29;15362504",
+    "beginGeldigheid": "2026-07-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0718_2026_Regeling7146d1e381bc489296b7457e2fe85c54?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0718/2026/Regeling3a02b86f71cf4b14856399f88bfc16bf",
+    "titel": "Programma Natuurlijke en Groene Leefomgeving",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0718/2026/Regeling3a02b86f71cf4b14856399f88bfc16bf/nld@2026-10-22;14510230",
+    "beginGeldigheid": "2026-02-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0718_2026_Regeling3a02b86f71cf4b14856399f88bfc16bf?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:01Z"
+  }
+]

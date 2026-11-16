@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0957",
+  "gemeente": "Roermond",
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "brondocument": "Algemene plaatselijke verordening gemeente Roermond, hoofdstuk 4 afdeling 3 'Het bewaren van houtopstanden' (art. 4:10 t/m 4:12f) en art. 6:1; Legesverordening Roermond 2026 art. 2.8.1; Omgevingsplan art. 22.299 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR718339/4 ; https://lokaleregelgeving.overheid.nl/CVDR749177/1 ; https://lokaleregelgeving.overheid.nl/CVDR696450/3",
+  "datum_geldigheid": "CVDR718339_4 geldend vanaf 2026-03-04 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2026-03-04 (APV, versie 4); omgevingsplan gewijzigd 2026-11-03 maar alleen hernummering aanvraagvereisten",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens legesverordening art. 2.8.1 ('bedoeld in artikel 4:11 van de Algemene plaatselijke verordening samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "43 bekendmakingen sinds 2025 (volledige-tekstzoekmethode, benadering): 32 besluiten, 9 aanvragen, 1 weigering volgens titel. 10 besluiten ingezien: geen grondslag vermeld. Enkele besluiten betreffen 'meerdere locaties' of 'diverse adressen' (veel kap), passend bij een breed regime binnen de kom.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand binnen de bebouwde kom; buiten de kom geen vergunningplicht (behalve monumentale bomen in het gemeentelijk bomenplan)",
+  "drempel": "Boom = 'dwarsdoorsnede van minimaal tien centimeter op 1,30 meter boven het maaiveld' (art. 4:10 lid 1 onder a)",
+  "omtrek_cm": 31.4,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Lid 2 onder f: niet voor 'houtopstand die zijn gelegen buiten de bebouwde kom, met uitzondering van monumentale bomen die zijn opgenomen in het gemeentelijk bomenplan'. Particulier en openbaar. Binnen de kom: D4 (drempel < 60 cm); buiten de kom: alleen monumentale bomen uit het bomenplan (niet ingezien).",
+  "uitzonderingen": "Art. 4:11 lid 3: 'Het verbod van lid 1 geldt tevens niet voor houtopstand, niet zijnde monumentale en/ of beeldbepalende bomen, op particulier terrein wanneer de te vellen houtopstand niet meer dan 5 bomen per jaar betreft.' Lid 2: wegbeplantingen/eenrijige beplantingen van niet beknotte populieren of wilgen langs landbouwgronden; 'fruitbomen, coniferen aangeplant als erfafscheiding en windschermen om boomgaarden'; kerstbomen; kweekgoed; dunning; Plantenziektewet/aanschrijving. Spoed: lid 4. Ruime uitzondering: tot 5 bomen per jaar op particulier terrein (D min 3).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem voor het regime binnen de kom; het 'gemeentelijk bomenplan' (monumentale bomen buiten de kom) niet gevonden (website geeft 403) en niet ingezien",
+  "weigeringsgronden": "Art. 4:12a: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultureel-historische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:12c lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 4:12d lid 1 (na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herbeplanten'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, per geval); geen standaardplicht; geen betaling als alternatief",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12d lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Algemene APV-strafbepaling art. 6:1 (hechtenis max. 3 maanden of geldboete 2e categorie); geen WED-aanwijzing in de APV voor art. 4:11. Omdat de kapregel als omgevingsplanactiviteit werkt (legesverordening), is WED via Ow 5.1 van toepassing: S = 1. Geen bestuurlijke boete. Herplant na illegale kap: art. 4:12d ('kan'). Art. 4:12e: schadevergoeding voor belanghebbende.",
+  "procedure": "Leges € 36,60 (Legesverordening 2026 art. 2.8.1). Aanvraag door of namens de gerechtigde (art. 4:12). Spoedtoestemming burgemeester (art. 4:11 lid 4). Beslistermijn APV art. 1:2 (8 weken) is niet van toepassing op een omgevingsvergunning.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Gemeentelijk bomenplan (monumentale bomen buiten de kom) niet gevonden en niet ingezien.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:10a, 4:11, 4:12, 4:12a, 4:12c, 4:12d, 4:12e, 4:12f, 6:1",
+    "Legesverordening 2026 art. 2.8.1",
+    "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D: binnen de bebouwde kom drempel 10 cm doorsnede = 31,4 cm omtrek (D4, lage drempel); buiten de kom geen vergunningplicht behalve monumentale bomen in het bomenplan (aangewezen bomen, hooguit D1). Hoogste deel telt: D4. Correctie -1 voor de uitzondering van art. 4:11 lid 3 (particulier terrein, niet meer dan 5 bomen per jaar, tenzij monumentaal of beeldbepalend), die vrijwel alle particuliere tuinkap uitsluit, plus fruitbomen en coniferen als erfafscheiding. Puntschatting D3; bereik 3-4 omdat het model niet zegt of een aantalsgrens als tuinuitzondering telt.",
+    "Boom A en B: een eenmalige kap van één boom op particulier terrein valt onder lid 3 (niet meer dan 5 bomen per jaar), tenzij de boom 'monumentaal en/of beeldbepalend' is (niet gedefinieerd). Zonder die kwalificatie: nee.",
+    "W: 'De vergunning kan worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden = belangenafweging, W2.",
+    "H: 'kan' (art. 4:12c lid 1 en 4:12d lid 1); geen beleidsregel over herplant of compensatie gevonden.",
+    "S: de APV bevat een algemene strafbepaling zonder WED-aanwijzing voor de kapregel. Legesverordening noemt de kap een omgevingsplanactiviteit (art. 22.8 Ow) en de kapregel geldt sinds 2024-01-01 van rechtswege als onderdeel van het tijdelijke deel van het omgevingsplan; volgens het besluit bij stap 1a geldt dan WED via Ow 5.1: S = 1. Zonder die route zou S = 0 zijn (algemene strafbepaling), daarom min 0.",
+    "Omgevingsplan: wijzigingsbesluit gmb-2026-514677 (2026-11-03) hernummert alleen artikel 22.299 naar 22.300 (aanvraagvereisten); het bevat geen nieuwe kapregel.",
+    "Bebouwde kom in art. 4:10 lid 1 onder e verwijst naar 'artikel 4.1, aanhef en onder a van de Wet natuurbescherming' (inmiddels vervangen door de Omgevingswet/Bal); definitie dus mogelijk verouderd.",
+    "S1 zonder bereik: de legesverordening noemt het vellen een omgevingsplanactiviteit, dus WED via Ow 5.1. (Nabewerking 14-11-2026, besluit gebruiker)",
+    "D3 zonder bereik: 'niet meer dan 5 bomen per jaar' vrij op particulier terrein telt als tuinuitzondering (−1). (Nabewerking 14-11-2026, besluit gebruiker)"
+  ],
+  "modelsignalen": [
+    "Een uitzondering op aantal ('niet meer dan 5 bomen per jaar' op particulier terrein) staat niet in de lijst van tuinuitzonderingen in INTENT.md. Ze sluit in de praktijk vrijwel alle gewone tuinkap uit. Het model geeft geen eenduidig antwoord of dit -1 oplevert.",
+    "Een APV met alleen een algemene strafbepaling (geen WED-aanwijzing) waarvan de leges de kap als omgevingsplanactiviteit aanmerken: model laat S0 of S1 toe, afhankelijk van de juridische plaats."
+  ]
+}

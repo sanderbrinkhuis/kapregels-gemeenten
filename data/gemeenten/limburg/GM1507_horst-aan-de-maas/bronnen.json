@@ -1,0 +1,30 @@
+{
+  "gemeente": "Horst aan de Maas",
+  "gm_code": "GM1507",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Horst aan de Maas",
+  "zoeknaam_bekendmakingen": "Horst aan de Maas",
+  "opgehaald_op": "2026-11-14T18:00:29+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Horst aan de Maas\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 39,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Horst aan de Maas\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 29,
+  "geldende_regelingen": 17,
+  "geldend_met_kapartikelen": [
+    "CVDR673273_3",
+    "CVDR679050_1",
+    "CVDR679051_1",
+    "CVDR679479_1",
+    "CVDR695241_1",
+    "CVDR696461_6",
+    "CVDR742625_1",
+    "CVDR751259_2"
+  ],
+  "bekendmakingen_besluiten": 14,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

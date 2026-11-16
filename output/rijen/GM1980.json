@@ -1,0 +1,77 @@
+{
+  "gm_code": "GM1980",
+  "gemeente": "Dijk en Waard",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening fysieke leefomgeving Dijk en Waard 2025 (VFL) art. 4.2.6.1, 5.7.1.1-5.7.1.4, 5.7.1.6, 9.1 (CVDR741826_2); Algemeen Aanwijzingsbesluit en Nadere regels VFL 2023 art. 4 en bijlage I Lijst van beschermde bomen en houtopstanden (CVDR706881_1); APV 2022 art. 4:11, 6:1 (CVDR679766_5); Leges 2026 art. 2.30 (CVDR750378_1); Omgevingsplan art. 22.303 (CVDR696555_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR741826/2",
+  "datum_geldigheid": "VFL: geldend van 2026-03-03 t/m heden (CVDR741826_2); aanwijzingsbesluit: in werking 2023-12-15, status geldend; leges: in werking 2025-12-18; omgevingsplan: in werking 2026-02-26",
+  "laatste_wijziging": "VFL versie 2, in werking 2026-03-03",
+  "juridische_plaats": "VFL (art. 5.7.1.2); werkt als omgevingsplanactiviteit volgens Leges 2026 art. 2.30 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet ... in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.303 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "Slechts 2 bekendmakingen sinds 2025 (2 besluiten, 0 geweigerd volgens titel; gmb-2026-436631 en gmb-2026-293318). Steekproef noemt geen grondslag. Het lage aantal past bij een lijstsysteem, maar zegt weinig omdat de gemeente kennelijk weinig kapbesluiten bekendmaakt. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 4 bekendmakingen sinds 1-1-2025, waarvan 0 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor bomen en houtopstanden op de lijst van beschermde bomen",
+  "drempel": "geen drempel; alleen aangewezen bomen en houtopstanden",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t.",
+  "reikwijdte": "Hele gemeente, maar alleen bomen op de lijst: 'Het is verboden zonder een omgevingsvergunning een in artikel 4.2.6.1 aangewezen beschermde boom of houtopstand te vellen of te doen vellen.' (art. 5.7.1.2 lid 1). De lijst staat in bijlage I van het Algemeen Aanwijzingsbesluit (CVDR706881_1) en bevat gemeentelijke en particuliere bomen (kolom Eigenaar).",
+  "uitzonderingen": "Art. 5.7.1.2 lid 2: niet van toepassing op vellen krachtens de Wet gewasbeschermingsmiddelen en biociden of het Besluit activiteiten leefomgeving, op 'het knotten, kandelaberen of dunnen als noodzakelijke beheermaatregel ter uitvoering van regulier onderhoud' en op vellen bij spoedeisend belang of direct gevaar met toestemming van de burgemeester (APV 4:11). Geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 5.7.1.4: 'De omgevingsvergunning kan worden geweigerd in verband met:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, waarde voor de leefbaarheid en dendrologische waarde van de houtopstand.",
+  "herplantplicht": "Art. 5.7.1.6: 'Het bevoegd gezag kan maatwerkvoorschriften stellen over artikel 5.7.1.2. Deze maatwerkvoorschriften kunnen in ieder geval een herplantplicht inhouden.' Dus een bevoegdheid. Aanvraagvereiste art. 5.7.1.3 onder c: 'Een toelichting hoe de waarden die verloren gaan bij het vellen van de boom zoveel mogelijk gecompenseerd worden.' Geen financiële compensatie of boomwaarde gevonden.",
+  "herplant_ontsnapping": "geen uitweg opgenomen; herplant is een bevoegdheid ('kan ... maatwerkvoorschriften stellen ... kunnen in ieder geval een herplantplicht inhouden'); het bevoegd gezag beslist per geval",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niet specifiek geregeld. Art. 9.1 lid 1 VFL: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 8.2.2 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Een maatwerkvoorschrift valt 'krachtens deze verordening'; of de algemene strafbepaling ook voor een omgevingsplanregel geldt is niet vastgesteld. Verder alleen het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "S1: WED via Omgevingswet 5.1: Leges art. 2.30 noemt het vellen een 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'. Daarnaast algemene strafbepaling VFL art. 9.1 lid 1. De WED-aanwijzing in art. 9.1 lid 2 noemt art. 5.7.1.3 lid 1 (aanvraagvereisten) maar niet art. 5.7.1.2: foute of onvolledige verwijzing. Geen bestuurlijke boete voor kappen; geen herplantplicht na illegale kap.",
+  "procedure": "Omgevingsvergunning; leges 155,75 euro (art. 2.30); beslistermijn: VFL art. 1:2 lid 4 APV niet van toepassing op omgevingsvergunning (Omgevingswet-termijn geldt); bezwaar en beroep volgens Awb; bekendmaking in het Gemeenteblad.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 648,
+  "lijst_aantal_particulier": 332,
+  "lijst_telling": "regels (bomen of houtopstanden) in bijlage I van het Algemeen Aanwijzingsbesluit CVDR706881_1, geteld in de tekst; eigenaar 'particulier' bij 332 regels en 'Gemeente Dijk en Waard' bij 316 regels; een regel kan een boomgroep zijn, dus ca.",
+  "status": "ok",
+  "ontbrekend": "Geen kernbron ontbreekt: de lijst is in het dossier ingezien. Open punt: slechts 2 bekendmakingen sinds 2025, dus de praktijkcontrole zegt weinig. Geen beleidsregel over herplant, compensatie of handhaving van de kap gevonden. Of de bomenlijst uit de voormalige gemeenten Langedijk en Heerhugowaard volledig is overgenomen is niet vastgesteld.",
+  "artikelnummers": [
+    "VFL art. 4.2.6.1, 5.7.1.1-5.7.1.6, 8.2.2, 9.1",
+    "Aanwijzingsbesluit CVDR706881_1 art. 4 en bijlage I",
+    "APV art. 4:11, 6:1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.303"
+  ],
+  "opmerkingen": [
+    "D1: lijstsysteem, 'Het is verboden zonder een omgevingsvergunning een in artikel 4.2.6.1 aangewezen beschermde boom of houtopstand te vellen'. Op de lijst staan particuliere bomen (332 van 648 regels), dus D = 1.",
+    "W2: 'De omgevingsvergunning kan worden geweigerd in verband met:' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische, leefbaarheids- en dendrologische waarde (geen bereik).",
+    "H1: 'kunnen in ieder geval een herplantplicht inhouden' (art. 5.7.1.6). Aanvraagvereiste 5.7.1.3 onder c vraagt een toelichting op compensatie van waarden, maar maakt herplant geen voorschrift.",
+    "S1: omgevingsplanactiviteit volgens de legesverordening (besluit gebruiker). De legesverordening verwijst naar 'artikel 4.11 van de Algemene plaatselijke verordening', terwijl de kapregel nu in VFL art. 5.7.1.2 staat; APV 4:11 bevat alleen nog de spoeduitzondering (verkeerde verwijzing in leges). VFL art. 9.1 lid 2 WED-aanwijzing noemt 5.7.1.3 lid 1 en niet 5.7.1.2.",
+    "Rekenvoorbeeld: D1, I = 2+1+1 = 4, strengheid = 1/4 x (40 + 60 x 4/9) = 17.",
+    "Beschermde-bomenlijst is geerfd van Langedijk en Heerhugowaard (toelichting aanwijzingsbesluit)."
+  ],
+  "modelsignalen": [
+    "Dijk en Waard: een lijst met bijna evenveel particuliere (332) als gemeentelijke (316) regels geeft D1, net als een lijst met een handvol bomen. Het aantal staat wel in lijst_aantal_particulier.",
+    "Dijk en Waard: een legesverordening die naar een verkeerd artikel (APV 4.11) verwijst en een WED-aanwijzing die 5.7.1.3 in plaats van 5.7.1.2 noemt; volgens het besluit gebruiker blijft S1."
+  ]
+}

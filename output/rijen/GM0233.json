@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0233",
+  "gemeente": "Ermelo",
+  "provincie": "Gelderland",
+  "brondocument": "Verordening fysieke leefomgeving Ermelo (VFL) art. 4.1 en 4.4, CVDR693972_3; Verordening Leges 2026 art. 2.30, CVDR752376_1",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR693972/3",
+  "datum_geldigheid": "VFL: geldend vanaf 2026-02-04 t/m heden (versie 3; hoofdstuk 4 laatst gewijzigd in versie 2 per 2025-02-22)",
+  "laatste_wijziging": "VFL 2026-02-04 (betreft art. 3.3, 5.13, 6.2); hoofdstuk 4 art. 4.1 laatst gewijzigd 2025-02-22 (CVDR693972_2)",
+  "juridische_plaats": "VFL (kapregel art. 4.1; werkt als omgevingsplanactiviteit volgens leges art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'); APV 2023 art. 4:10-4:12b vervallen, opgenomen in VFL; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "Zoekmethode op titel: 22 bekendmakingen sinds 2025, waarvan 7 besluiten, 5 aanvragen en 5 geweigerd volgens titel (o.a. gmb-2025-128732: toestemming 1 beuk, vergunning geweigerd voor 1 grove den en 1 zomereik; gmb-2025-196569: vergunning geweigerd voor een beuk; gmb-2026-304775: kap met herplantplicht). Past bij de beschermde soorten uit art. 4.1 lid 2 onder f. Grondslag staat niet letterlijk in de besluiten.",
+  "vergunningplicht": "vergunning (omgevingsvergunning voor het vellen van houtopstanden) voor aangewezen houtopstanden: lijst waardevolle bomen, (concept)lijst monumentale bomen, hoofd- en nevengroenstructuur (>= 65 cm), houtwallen en singels, en bomen >= 65 cm van vijf soorten uit de soortenlijst Groenvisie",
+  "drempel": "'stamomtrek van minimaal 65 cm op een hoogte van 1,30 m boven het maaiveld' (art. 4.1 lid 2 onder d, e en f)",
+  "omtrek_cm": 65,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 4.1 lid 2 onder f: 'houtopstanden met een stamomtrek van minimaal 65 cm op een hoogte van 1,30 m boven het maaiveld die zijn vastgelegd in de soortenlijst Groenvisie Ermelo, te weten: zomereik, wintereik, beuk, grove den, linde en al hun soorten en variëteiten.' Geen beperking tot een gebied of tot openbaar terrein in de tekst, dus ook particuliere bomen in de hele gemeente, maar alleen die soorten. Daarnaast lijst waardevolle bomen, (concept)lijst monumentale bomen en de groenstructuur op de Groenkaart stedelijk gebied (>= 65 cm).",
+  "uitzonderingen": "Art. 4.1 lid 5: periodiek vellen van hakhout, periodiek snoeien, knotten of kandelaberen, dunning volgens goedgekeurd beheerplan, Plantenziektenwet of aanschrijving; lid 6: spoedeisend belang of direct gevaar; lid 7: houtopstand buiten de bebouwde kom van tien are of meer of rijbeplanting van meer dan twintig bomen (Bal). Alleen gangbare uitzonderingen. Geen tuinuitzondering. De soortbeperking (alleen vijf soorten) sluit de overige soorten uit; zie correctie bij D.",
+  "weigeringsgronden": "Art. 4.1 lid 4: 'In afwijking van artikel 1.9 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' Geen beleidsregel gevonden die de toetsing aanscherpt.",
+  "herplantplicht": "Art. 4.1 lid 8: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie gevonden. Praktijk: gmb-2026-304775 'Besluit verlenen omgevingsvergunning kap met herplant plicht'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan een herplantplicht opleggen onder nader te stellen voorschriften' (art. 4.1 lid 8); het bevoegd gezag beslist per geval. Geen betaling in plaats van herplant geregeld. Over herplant na illegale kap staat niets in de tekst.",
+  "herplant_niet_nakomen": "Geen aparte bepaling over het niet nakomen van een opgelegde herplantplicht. Art. 4.4: 'Overtreding van het bij of krachtens de in dit hoofdstuk 4 van deze verordening genoemde artikelen en de op grond van artikel 4.1 of artikel 4.2 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie en kan bovendien gestraft worden met openbaarmaking van de rechterlijke uitspraak.' Een herplantvoorschrift op grond van art. 4.1 valt daar waarschijnlijk onder.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "S=1: eigen strafbepaling VFL art. 4.4 (hechtenis max. drie maanden of geldboete tweede categorie) en kapregel werkt als omgevingsplanactiviteit (leges art. 2.30 in samenhang met art. 22.8 Ow), dus WED via Ow 5.1. Geen WED-aanwijzing in de VFL voor art. 4.1 (art. 8.7 WED-lijst gaat over afval). Geen bestuurlijke boete voor kappen in de regeling; Integraal Handhavingsbeleid 2024-2026 (CVDR729613_1) noemt alleen proces-verbaal door BOA's bij vellen zonder omgevingsvergunning.",
+  "procedure": "Leges art. 2.30: 0-3 bomen € 30,80; 4-10 bomen € 51,35; 11-25 bomen € 462,35; meer dan 25 bomen € 616,50. VFL art. 1.4 lid 3: beslistermijn van 8 weken niet van toepassing op omgevingsvergunning; de toelichting verwijst naar art. 16.64 Ow. Aanvraagvereisten omgevingsplan art. 22.299.",
+  "boom_a_80cm": "onbekend",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst waardevolle bomen, (concept)lijst monumentale bomen, Groenkaart en soortenlijst Groenvisie niet ingezien; niet in het dossier",
+  "status": "ok",
+  "ontbrekend": "Soortenlijst Groenvisie Ermelo (art. 4.1 lid 2 onder f), Lijst waardevolle bomen, (concept)lijst monumentale bomen en Groenkaart stedelijk gebied (bijlage 1 VFL is leeg in de tekst, waarschijnlijk afbeelding) niet in het dossier en niet ingezien. 'Nader te stellen voorschriften' voor herplant (art. 4.1 lid 8) niet gevonden. Of de soortenlijst ook tuinen dekt, volgt uit de tekst (geen locatiebeperking) maar is niet bevestigd.",
+  "artikelnummers": [
+    "VFL art. 1.1 (houtopstand), 1.4, 1.9, 4.1, 4.4",
+    "Leges 2026 art. 2.30",
+    "APV 2023 art. 4:10-4:12b (vervallen), 6:1",
+    "Omgevingsplan art. 22.299",
+    "Integraal Handhavingsbeleid 2024-2026 (CVDR729613_1)"
+  ],
+  "opmerkingen": [
+    "D: art. 4.1 lid 2 onder f beschermt particuliere en andere bomen vanaf 65 cm omtrek (middelmatige drempel, D3) in de hele gemeente, maar alleen zomereik, wintereik, beuk, grove den, linde. Die soortbeperking sluit de meeste overige tuinbomen uit en is hier als ruime uitzondering behandeld (-1): D2. Onder f staan ook de lijst waardevolle bomen, groenstructuur en houtwallen (aangewezen bomen en structuren, D2). Maximum D3 als de soortbeperking niet als correctie telt.",
+    "W: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden: W2.",
+    "H: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften': H1. Maximum 2 omdat de nadere voorschriften niet zijn gevonden.",
+    "Voorbeeldboom A (80 cm): vergunning nodig als het een zomereik, wintereik, beuk of linde is (grove den is een conifeer en valt buiten het voorbeeld); anders niet. Boom B (40 cm) valt onder de drempel van 65 cm en staat niet op een lijst.",
+    "Twee regelingen: APV 2023 (CVDR703328_3) art. 4:10-4:12b zijn vervallen en opgenomen in de VFL; alleen VFL telt.",
+    "APV art. 6:1 en VFL art. 2.18 zijn algemene sanctiebepalingen; VFL art. 4.4 is de kapspecifieke strafbepaling.",
+    "Handhavingsbeleid 2024-2026: 'Het vellen van houtopstanden zonder benodigde omgevingsvergunning (illegale kap groenvoorzieningen)' heeft prioriteit Hoog; geen boete of herplantregel (telt niet voor S2).",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een regel die alleen voor een beperkte lijst boomsoorten geldt (positieve soortenlijst), sluit veel gewone tuinbomen uit en geeft altijd −1, zonder bereik: D2 (2-3) → D2 zonder bereik."
+  ],
+  "modelsignalen": [
+    "Soortbeperking (alleen vijf boomsoorten vanaf 65 cm in de hele gemeente) past niet in de D-tabel: het model kent -1 voor uitgesloten soorten (naaldbomen, fruit, populier, wilg) maar niet voor een regel die juist alleen enkele soorten beschermt. Hier als ruime uitzondering behandeld, met bereik D2-3.",
+    "Voorbeeldboom A is niet te beantwoorden zonder soort: het model gaat uit van een gezonde boom zonder soortspecificatie, terwijl de regel per soort verschilt."
+  ]
+}

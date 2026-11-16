@@ -1,0 +1,82 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regelinge94b757e167c4eb78bd9e116786854c0",
+    "titel": "Omgevingsvisie gemeente Nijmegen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regelinge94b757e167c4eb78bd9e116786854c0/nld@2025-09-15;06575971",
+    "beginGeldigheid": "2025-10-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regelinge94b757e167c4eb78bd9e116786854c0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regeling108e163b9bcc432f813ea6b77c71aed9",
+    "titel": "Actieplan geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regeling108e163b9bcc432f813ea6b77c71aed9/nld@2025-12-02;08322900",
+    "beginGeldigheid": "2025-12-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regeling108e163b9bcc432f813ea6b77c71aed9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regeling43941c9333cb47059db7d4377f45f102",
+    "titel": "Omgevingsprogramma water en riolering",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regeling43941c9333cb47059db7d4377f45f102/nld@2025-12-18;12190810",
+    "beginGeldigheid": "2026-01-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regeling43941c9333cb47059db7d4377f45f102?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regeling2f3e73326b004c19ab2ad5945e697783",
+    "titel": "Omgevingsprogramma Stationsdistrict Nijmegen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regeling2f3e73326b004c19ab2ad5945e697783/nld@2026-02-04;10290580",
+    "beginGeldigheid": "2026-03-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regeling2f3e73326b004c19ab2ad5945e697783?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regeling118c11d65236415f8a82e4b150ed9c41",
+    "titel": "Regionale Energie Strategie",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regeling118c11d65236415f8a82e4b150ed9c41/nld@2026-02-11;14120745",
+    "beginGeldigheid": "2026-03-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regeling118c11d65236415f8a82e4b150ed9c41?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regelinga2ebbb2e588a4964a3825d94909dc9cd",
+    "titel": "Omgevingsprogramma luchtkwaliteit",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regelinga2ebbb2e588a4964a3825d94909dc9cd/nld@2026-04-07;07555151",
+    "beginGeldigheid": "2026-05-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regelinga2ebbb2e588a4964a3825d94909dc9cd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regelingb78d6b5a0e2449809acf0b8c6ba535d6",
+    "titel": "Voorbereidingsbesluit wonen in plint binnenstad",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regelingb78d6b5a0e2449809acf0b8c6ba535d6/nld@2026-06-16;09190510",
+    "beginGeldigheid": "2026-06-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regelingb78d6b5a0e2449809acf0b8c6ba535d6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2025/Regelingec3e7ed412fb484c983358b3b7914af3",
+    "titel": "Voorbereidingsbesluit activiteit wonen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0268/2025/Regelingec3e7ed412fb484c983358b3b7914af3/nld@2026-07-07;15092790",
+    "beginGeldigheid": "2026-07-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2025_Regelingec3e7ed412fb484c983358b3b7914af3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2026/Regelinge7ff24aba3c8484cbf045e59c032e9b3",
+    "titel": "Voorbeschermingsregels stadsbeeld Wederopbouwcentrum",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0268/2026/Regelinge7ff24aba3c8484cbf045e59c032e9b3/nld@2026-09-03;09224991",
+    "beginGeldigheid": "2026-09-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2026_Regelinge7ff24aba3c8484cbf045e59c032e9b3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0268/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Nijmegen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0268/2020/omgevingsplan/nld@2026-09-24;11132645",
+    "beginGeldigheid": "2026-11-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0268_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:04Z"
+  }
+]

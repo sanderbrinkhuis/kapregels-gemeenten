@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0858/2024/2_3",
+    "titel": "Externe Veiligheid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0858/2024/2_3/nld@14",
+    "beginGeldigheid": "2024-05-31",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0858_2024_2_3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0858/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Valkenswaard",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0858/2020/omgevingsplan/nld@2026-06-03;08522047",
+    "beginGeldigheid": "2026-06-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0858_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0858/2026/Regeling6d3c21a444674835993ca021305ccf48",
+    "titel": "voorbereidingsbesluit ‘Inperken bedrijfsactiviteiten’",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0858/2026/Regeling6d3c21a444674835993ca021305ccf48/nld@2026-11-12;07090814",
+    "beginGeldigheid": "2026-11-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0858_2026_Regeling6d3c21a444674835993ca021305ccf48?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:10Z"
+  }
+]

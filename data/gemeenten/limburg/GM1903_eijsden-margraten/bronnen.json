@@ -1,0 +1,29 @@
+{
+  "gemeente": "Eijsden-Margraten",
+  "gm_code": "GM1903",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Eijsden-Margraten",
+  "zoeknaam_bekendmakingen": "Eijsden-Margraten",
+  "opgehaald_op": "2026-11-16T14:06:08+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Eijsden-Margraten\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 63,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Eijsden-Margraten\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 60,
+  "geldende_regelingen": 13,
+  "geldend_met_kapartikelen": [
+    "CVDR232719_1",
+    "CVDR671037_1",
+    "CVDR681663_2",
+    "CVDR696519_2",
+    "CVDR702586_1",
+    "CVDR754638_1",
+    "CVDR754972_1"
+  ],
+  "bekendmakingen_besluiten": 15,
+  "bekendmakingen_aanvragen": 23,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

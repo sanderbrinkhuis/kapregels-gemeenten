@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1708/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Steenwijkerland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1708/2020/omgevingsplan/nld@35",
+    "beginGeldigheid": "2024-05-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1708_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1708/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Steenwijkerland",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1708/2025/omgevingsvisie/nld@40",
+    "beginGeldigheid": "2026-04-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1708_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1708/2026/2_5",
+    "titel": "Volkshuisvestingsprogramma Steenwijkerland",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1708/2026/2_5/nld@47",
+    "beginGeldigheid": "2026-10-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1708_2026_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:15Z"
+  }
+]

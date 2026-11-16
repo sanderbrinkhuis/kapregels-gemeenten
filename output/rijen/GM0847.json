@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0847",
+  "gemeente": "Someren",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene plaatselijke Verordening gemeente Someren 2018, art. 4:10, 4:11, 6:1 (CVDR743339_1); Omgevingsplan gemeente Someren (CVDR696421_4) art. 6.46 t/m 6.49 en 22.299; Legesverordening 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR743339/1 ; https://lokaleregelgeving.overheid.nl/CVDR696421/4 ; https://lokaleregelgeving.overheid.nl/CVDR750838/1",
+  "datum_geldigheid": "APV CVDR743339_1 geldend vanaf 2025-08-13 t/m heden; Omgevingsplan CVDR696421_4 geldend vanaf 2026-07-30 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 1 per 2025-08-13 (afdeling 4.3 daarin; art. 4:12 vervallen). Omgevingsplan: versie 4 per 2026-07-30.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 (CVDR750838_1) noemt 'het vellen van een houtopstand' in samenhang met artikel 22.8 van de Omgevingswet. Daarnaast regels in het omgevingsplan zelf (art. 6.46 t/m 6.49) voor drie typen gebied.",
+  "praktijkcontrole": "Sinds 2025 geen bekendmaking van kapbesluiten gevonden: de zoekactie op volledige tekst leverde 71 treffers, waarvan 0 besluiten en 0 aanvragen over kap. Geen indicatie voor een breder regime.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de Bomenlijst staan (APV art. 4:11 lid 2). In het omgevingsplan: omgevingsvergunning voor het vellen of rooien van bomen en andere opgaande beplanting in beperkingengebied waterkering, archeologisch waardevol gebied 1 t/m 5 en cultuurhistorisch waardevol gebied (art. 6.47).",
+  "drempel": "Geen drempel bij de Bomenlijst (ongeacht omvang). Omgevingsplan art. 6.47: geen omtrekdrempel, wel uitzondering voor ondiepe en kleine ingrepen in archeologisch waardevol gebied 2 t/m 5 (art. 6.48).",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem; omgevingsplan: geen drempel)",
+  "reikwijdte": "APV art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.' Lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Omgevingsplan art. 6.47: 'Het is verboden zonder omgevingsvergunning bomen en andere opgaande beplanting te vellen of rooien.' voor de gebieden uit art. 6.46 (beperkingengebied waterkering, archeologisch waardevol gebied 1 t/m 5, cultuurhistorisch waardevol gebied). Bomenlijst niet ingezien; omvang van de gebieden niet vastgesteld (kaarten in het DSO).",
+  "uitzonderingen": "APV art. 4:11 lid 3: populieren en wilgen langs landbouwgronden, kerstbomen, kweekgoed, dunning, geregistreerde bosbouwondernemingen buiten de bebouwde kom, Plantengezondheidswet of last, en buiten de bebouwde kom houtopstand met dwarsdoorsnede maximaal 20 cm op 0,10 m. Omgevingsplan art. 6.48: ondiepe kleine ingrepen in archeologisch gebied 2 t/m 5 vrijgesteld, behalve in beperkingengebied waterkering of cultuurhistorisch waardevol gebied. Alleen gangbare uitzonderingen en geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "APV art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, 'de waarde van de houtopstand voor stads- en dorpsschoon;' beeldbepalende waarde, cultuurhistorische waarde of 'de waarde voor de leefbaarheid van de houtopstand.' Omgevingsplan art. 6.49: 'geen onevenredige afbreuk doet aan de waarden en de kwaliteiten van de desbetreffende gronden'.",
+  "herplantplicht": "APV art. 4:11 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Bevoegdheid, geen plicht. Geen financiële compensatie of boomwaarde in de tekst.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Geen betaling als alternatief.",
+  "sancties": "APV art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 vijfde lid, 2:11 tweede lid, 2:12 eerste lid en 4:11 eerste lid.' Het kapverbod staat in lid 2, niet in lid 1, dus de WED-aanwijzing verwijst naar een verkeerd lid. Daarnaast art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). Omgevingsplanregels: WED via de Omgevingswet. Geen bestuurlijke boete voor kappen.",
+  "procedure": "Leges art. 2.30: EUR 227,10 (tekst bevat nog sjabloonhaakjes). Beslistermijn: APV art. 1:2 lid 3 sluit omgevingsvergunning uit. Publicatie, bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "APV art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Art. 1:4 lid 3 sluit omgevingsvergunning uit van de voorschriftenplicht; of een herplantplicht 'krachtens' art. 4:11 lid 6 hieronder valt, is niet zeker.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de Bomenlijst (art. 4:11 lid 1) staat niet in CVDR; korte zoekpoging op someren.nl leverde de lijst niet op",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst niet gevonden: onbekend of er particuliere bomen op staan en hoeveel. Omvang van het archeologisch waardevol gebied 1 t/m 5, het cultuurhistorisch waardevol gebied en het beperkingengebied waterkering niet vastgesteld (DSO-kaarten niet ingezien): bij een substantieel deel van de gemeente geldt D2. Beleidsregel herplant of handhaving niet gevonden.",
+  "artikelnummers": [
+    "APV art. 4:10",
+    "APV art. 4:11",
+    "APV art. 6:1",
+    "APV art. 1:2, 1:4, 1:8",
+    "Omgevingsplan art. 6.46, 6.47, 6.48, 6.49",
+    "Omgevingsplan art. 22.299",
+    "Legesverordening 2026 art. 2.30"
+  ],
+  "opmerkingen": [
+    "Doorslaggevend voor D: APV art. 4:11 lid 2 (alleen Bomenlijst, geen drempel; D1). Puntschatting D1 omdat de lijst niet is ingezien; bereik 0 tot 2 omdat het omgevingsplan ook een kapverbod zonder drempel kent in drie gebiedstypen waarvan de omvang niet is vastgesteld (gecombineerd systeem: het breedste regime bepaalt D).",
+    "Omgevingsplan art. 6.47: 'Het is verboden zonder omgevingsvergunning bomen en andere opgaande beplanting te vellen of rooien.' Geldt in beperkingengebied waterkering, archeologisch waardevol gebied 1 t/m 5 en cultuurhistorisch waardevol gebied; vrijstelling voor ondiepe ingrepen in archeologisch gebied 2 t/m 5 (art. 6.48). Toetsing: art. 6.49 'geen onevenredige afbreuk' (W2, zelfde als de APV).",
+    "Doorslaggevend voor W: APV art. 4:11 lid 4 'kan de vergunning worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (W2).",
+    "Doorslaggevend voor H: APV art. 4:11 lid 6 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (H1). Geen beleidsregel gevonden.",
+    "WED-aanwijzing in art. 6:1 lid 2 verwijst naar 'artikel 4:11 eerste lid' (de Bomenlijst vaststellen), terwijl het verbod in lid 2 staat: foute verwijzing. S1 blijft staan door de omgevingsplanactiviteit (leges art. 2.30 in samenhang met art. 22.8 Ow) en de omgevingsplanregels zelf.",
+    "Herplant na illegale kap: de APV bevat geen aparte bepaling (art. 4:12 is vervallen); art. 4:11 lid 6 noemt illegale kap niet.",
+    "Boom A en B: een gewone tuinboom is alleen vergunningplichtig als hij op de Bomenlijst staat of in een van de drie gebiedstypen uit het omgevingsplan ligt; dat laatste is niet vastgesteld.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 6.46 t/m 6.49 gelden alleen voor beperkingengebied waterkering, archeologisch waardevol gebied 1 t/m 5 en cultuurhistorisch waardevol gebied (art. 4.15, 4.27-4.45 verwijzen ernaar). Dat zijn gebiedsregels met een ander doel (waterkering, archeologie, cultuurhistorie) en tellen volgens de besluiten van 14-11 en 16-11 niet voor D, ook niet in het bereik; D blijft 1 (0-1). De eerdere opmerking 'bereik 0 tot 2' is daarmee achterhaald. Art. 4.9, 4.60, 6.51 en 6.52 (gasleiding, radarzone: aanbrengen van houtopstand), 4.92 en 4.98 (doelen Natuur Netwerk Brabant) en 5.x (functies) bevatten geen kapverbod voor gewone tuinbomen; art. 22.297 en 22.299 zijn alleen aanvraagvereisten."
+  ],
+  "modelsignalen": [
+    "Gecombineerd systeem: APV-lijst (D1) naast omgevingsplanregels voor gebieden zonder drempel waarvan de omvang uit de tekst niet af te leiden is (kaarten in het DSO). INTENT.md geeft geen manier om de omvang vast te stellen zonder DSO-toegang; bereik 0 tot 2.",
+    "WED-aanwijzing in de APV met een foute verwijzing (lid 1 in plaats van lid 2) naast een omgevingsplanactiviteit: gescoord volgens het besluit over foute verwijzingen (S1).",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: gebiedsregels in het omgevingsplan voor waterkering, archeologie en cultuurhistorie hebben een ander doel dan boombescherming en tellen niet voor D: maximum 1 (was 2)."
+  ]
+}

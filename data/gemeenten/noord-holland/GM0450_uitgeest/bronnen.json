@@ -1,0 +1,27 @@
+{
+  "gemeente": "Uitgeest",
+  "gm_code": "GM0450",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Uitgeest",
+  "zoeknaam_bekendmakingen": "Uitgeest",
+  "opgehaald_op": "2026-11-16T14:06:32+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Uitgeest\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 67,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Uitgeest\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 4,
+  "geldende_regelingen": 15,
+  "geldend_met_kapartikelen": [
+    "CVDR641131_1",
+    "CVDR696324_2",
+    "CVDR721043_1",
+    "CVDR750498_2",
+    "CVDR765328_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 1,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

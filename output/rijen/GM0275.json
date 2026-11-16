@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM0275",
+ "gemeente": "Rheden",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene Plaatselijke Verordening Rheden, afdeling 3 Het bewaren van houtopstanden (art. 4:10 t/m 4:12A), art. 6:1 (CVDR42155_13); Legesverordening Rheden 2026 (CVDR751592_1); Omgevingsplan gemeente Rheden art. 8.3 (CVDR696249_4)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR42155/13 ; https://lokaleregelgeving.overheid.nl/CVDR751592/1 ; https://lokaleregelgeving.overheid.nl/CVDR696249/4",
+ "datum_geldigheid": "APV CVDR42155_13 geldend van 2025-09-30 t/m heden; leges CVDR751592_1 geldend van 2026-01-01; omgevingsplan CVDR696249_4 geldend van 2025-03-27",
+ "laatste_wijziging": "APV: versie 13 per 2025-09-30 (niet vastgesteld of die wijziging de kapartikelen raakt; art. 4:12 'Vervallen').",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene Plaatselijke Verordening Rheden ... in samenhang met artikel 22.8 van de Omgevingswet'). Het omgevingsplan (art. 8.3) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 3 bekendmakingen gevonden met de zoekmethode volledige tekst, geen over kapbesluiten (omgevingsplan, leges, belastingen). Dat zegt weinig: de zoekmethode mist besluiten. Geen indicatie voor of tegen een lijstsysteem.",
+ "vergunningplicht": "Omgevingsvergunning alleen voor houtopstand op de Lijst bijzondere bomen (art. 4:11 lid 1).",
+ "drempel": "Geen stamomtrekdrempel: alleen bomen op de Lijst bijzondere bomen. Art. 4:10 lid 1 onder b en c: 'bijzondere boom: houtopstand die op de Lijst bijzondere bomen is geplaatst.' 'Lijst bijzondere bomen: door het college vastgestelde lijst met bijzondere bomen op basis van door de raad vastgestelde criteria.'",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijst)",
+ "reikwijdte": "Hele gemeente, maar alleen aangewezen bomen. Art. 4:11 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegde gezag een houtopstand die is vermeld op de Lijst bijzondere bomen te vellen of te doen vellen.' Geen onderscheid tussen binnen en buiten de bebouwde kom; geen uitsluiting van particulier terrein.",
+ "uitzonderingen": "Art. 4:11 lid 3: 'Het eerste lid is niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Het begrip vellen omvat rooien, verplanten en handelingen die de dood, ernstige beschadiging of ontsiering kunnen veroorzaken (art. 4:10 lid 2).",
+ "weigeringsgronden": "Art. 4:11 lid 1: 'Een omgevingsvergunning kan alleen worden verleend als: a. uit een beoordeling van een deskundige blijkt dat de houtopstand gevaar oplevert voor de omgeving; of b. uit een weging van de betrokken belangen blijkt dat de gevolgen van weigering van de omgevingsvergunning onevenredig zijn in verhouding tot de belangen die met weigering zijn gediend.' Verlening dus alleen bij gevaar of onevenredige gevolgen van weigering.",
+ "herplantplicht": "Art. 4:11 lid 2: 'Aan de vergunning worden voorschriften verbonden; een herplantplicht kan van die voorschriften deel uitmaken.' Bevoegdheid, geen vaste plicht. Geen beleidsregel over herplant gevonden. Geen regeling voor herplant na illegale kap of voor storting gevonden.",
+ "herplant_ontsnapping": "Bevoegdheid ('kan'); beslissing per geval bij het bevoegd gezag. Geen betaling als alternatief geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets specifieks geregeld. Een opgelegd voorschrift bij de vergunning valt onder het algemene instrumentarium; art. 6:1 lid 1 straft 'overtreding van het bepaalde in de artikelen van deze verordening en de krachtens deze artikelen gegeven voorschriften en beperkingen' met 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 1:4 (voorschriften naleven) is niet van toepassing op een omgevingsvergunning.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED-aanwijzing in de APV zelf: art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10A, 2:11, 2:12 en 4:11.' Daarnaast de algemene strafbepaling art. 6:1 lid 1. Ook de legesverordening noemt het vellen een omgevingsplanactiviteit. Geen bestuurlijke boete voor kap; geen handhavingsbeleid voor kap gevonden. De Nota Kapitaalgoederen Openbare Ruimte 2026-2029 (CVDR740826_1) zegt over bomen op de lijst alleen 'Handhaving is het uitgangspunt' (beheer van de openbare ruimte).",
+ "procedure": "Leges: art. 2.30 legesverordening 2026: 0,00 euro voor het vellen van een houtopstand bedoeld in art. 4:11 (een beschermde boom op de Beschermde Bomenlijst: 0,00 euro); 365,00 euro voor het kappen van een boom 'niet zijnde een activiteit als bedoeld in artikel 4:11'. Beslistermijn: art. 1:2 lid 3 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning'. Schadevergoeding: art. 4:12A (Boswet art. 17, beslissing binnen 13 weken). Bezwaar en beroep: niet nagezocht.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien; niet gevonden op rheden.nl (enkele paginaverwijzingen gaven 404, de zoekpagina gaf geen resultaten in de ruwe HTML). Niet in CVDR opgenomen.",
+ "status": "onzeker",
+ "ontbrekend": "Lijst bijzondere bomen (en de raadscriteria waarop die is gebaseerd) niet gevonden: aantal bomen en aandeel particulier onbekend. De legesverordening kent een tarief van 365,00 euro voor kap 'niet zijnde een activiteit als bedoeld in artikel 4:11' en een 'Beschermde Bomenlijst'; dat wijst op kapregels buiten art. 4:11 of op een tweede lijst, die niet in het dossier staan (mogelijk in het tijdelijk deel van het omgevingsplan). Daarom D-maximum 2.",
+ "artikelnummers": [
+  "APV Rheden art. 1:1, 4:10, 4:11, 4:12A, 6:1 (CVDR42155_13)",
+  "Legesverordening Rheden 2026 art. 2.30 (CVDR751592_1)",
+  "Omgevingsplan Rheden art. 8.3 (CVDR696249_4)"
+ ],
+ "opmerkingen": [
+  "W (letterlijk): 'Een omgevingsvergunning kan alleen worden verleend als: a. uit een beoordeling van een deskundige blijkt dat de houtopstand gevaar oplevert voor de omgeving; of' (APV 4:11 lid 1). Puntschatting W = 3 (verlenen alleen bij gevaar of onevenredige gevolgen van weigering); minimum 2 omdat alternatief b een belangenafweging is.",
+  "H (letterlijk): 'een herplantplicht kan van die voorschriften deel uitmaken' (APV 4:11 lid 2).",
+  "Omgevingsplan art. 8.3 bevat alleen aanvraagvereisten; er is wel een APV-vergunningplicht voor lijstbomen, dus geen 'restant bruidsschat'.",
+  "Art. 4:12 (vergunning van rechtswege) is vervallen.",
+  "Het praktijkbeeld (3 bekendmakingen, geen over kap) is onbruikbaar als controle.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+ ],
+ "modelsignalen": [
+  "Rheden: W-formulering 'kan alleen worden verleend als ... gevaar ... of ... onevenredig' valt tussen W2 (alleen weigeren bij onevenredige belangen) en W3 (verlenen alleen bij uitzondering); gekozen is W3 met minimum 2.",
+  "Rheden: de legesverordening noemt een tarief voor kap buiten art. 4:11; het model heeft geen manier om dit zonder de onderliggende regel te scoren."
+ ]
+}

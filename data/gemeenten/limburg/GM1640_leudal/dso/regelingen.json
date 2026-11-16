@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1640/2024/Regelinge78c62dd2d9d425d82b5a2d4c0274a9d",
+    "titel": "Voorbereidingsbesluit gemeente Leudal",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1640/2024/Regelinge78c62dd2d9d425d82b5a2d4c0274a9d/nld@2024-07-17;13381526",
+    "beginGeldigheid": "2024-07-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1640_2024_Regelinge78c62dd2d9d425d82b5a2d4c0274a9d?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1640/2025/Regeling4a6f00f7fc324f34bedb5956757df307",
+    "titel": "Programma Omgevingskwaliteit gemeente Leudal",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1640/2025/Regeling4a6f00f7fc324f34bedb5956757df307/nld@2025-07-07;12274744",
+    "beginGeldigheid": "2025-07-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1640_2025_Regeling4a6f00f7fc324f34bedb5956757df307?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1640/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Leudal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1640/2020/omgevingsplan/nld@2025-12-10;15131220",
+    "beginGeldigheid": "2026-01-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1640_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:56Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1640/2024/Regelingf17645f2fc7141c0a27de1dfd324c28f",
+    "titel": "Omgevingsvisie gemeente Leudal",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1640/2024/Regelingf17645f2fc7141c0a27de1dfd324c28f/nld@2026-01-21;14462117",
+    "beginGeldigheid": "2026-01-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1640_2024_Regelingf17645f2fc7141c0a27de1dfd324c28f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:56Z"
+  }
+]

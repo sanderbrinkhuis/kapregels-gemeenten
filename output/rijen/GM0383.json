@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0383",
+  "gemeente": "Castricum",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving Castricum 2024 (VFL), afdeling 4.1 Bewaren van houtopstanden, art. 4:1 t/m 4:6 en 8:2 (CVDR719708_1); Besluit actualisatie bijzondere bomenlijst Castricum 2026 (CVDR763458_1); leges art. 2.30 (CVDR747846_2); Omgevingsplan art. 22.299 (CVDR696296_2). De kapartikelen in de APV 2023 (art. 4:10 t/m 4:11h) zijn vervallen.",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR719708/1 ; https://lokaleregelgeving.overheid.nl/CVDR763458/1 ; https://lokaleregelgeving.overheid.nl/CVDR747846/2 ; https://lokaleregelgeving.overheid.nl/CVDR696296/2",
+  "datum_geldigheid": "VFL CVDR719708_1 geldend van 2024-05-15 t/m heden; bomenlijstbesluit CVDR763458_1 geldend van 2026-06-30 t/m heden; leges CVDR747846_2 geldend van 2026-10-07 t/m heden",
+  "laatste_wijziging": "VFL: versie 1, in werking per 2024-05-15 (geen latere versie). Lijst bijzondere bomen: nieuw vastgesteld 2026-06-09, in werking 2026-06-30 (Lijst 2021 ingetrokken).",
+  "juridische_plaats": "VFL; de velplicht werkt als omgevingsplanactiviteit (leges art. 2.30: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:2 van de Verordening Fysieke Leefomgeving Castricum 2024 in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 zijn er op officielebekendmakingen.nl 23 treffers op titel, waarvan het merendeel bouw- of dakkaptreffers ('kap' in woningen). Slechts enkele echte kapbesluiten (ca. 6 in de steekproef), waaronder 'een bijzondere boom' (gmb-2026-325534), 'een monumentale vleugelnoot' (gmb-2026-112062) en 'een kastanjeboom' met herplant (gmb-2025-395793); 0 geweigerd volgens titel. Weinig kapbesluiten: past bij een lijstsysteem en wijst niet op een breder regime. Geen grondslagverwijzing in de besluiten.",
+  "vergunningplicht": "Omgevingsvergunning alleen voor bomen op de Lijst bijzondere bomen (VFL art. 4:2 lid 1)",
+  "drempel": "Geen drempel voor lijstbomen. Definitie boom (art. 1:1 onder f): 'een houtachtig, opgaand gewas met een dwarsdoorsnede van de stam van minimaal 10 centimeter op 1,3 meter hoogte boven het maaiveld'; niet relevant, want het verbod geldt alleen voor de lijst.",
+  "omtrek_cm": null,
+  "meethoogte": "1,3 m (alleen in de definitie van boom; niet relevant voor lijstbomen)",
+  "reikwijdte": "Art. 4:2 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstand die voorkomt op de Lijst bijzondere bomen als bedoeld in artikel 4:1 te vellen of te doen vellen.' Het lijstbesluit 2026 bevestigt: 'de bomen op de bijzondere bomenlijst de enige bomen binnen de gemeente Castricum zijn waarvoor een kapvergunning geldt'. Hele gemeente, particulier en openbaar, maar alleen aangewezen bomen.",
+  "uitzonderingen": "Art. 4:2 lid 2: houtopstand die moet worden geveld krachtens de Plantenziektenwet of een aanschrijving; periodiek vellen van hakhout; periodiek knotten of kandelaberen (gangbare uitzonderingen). Lid 3: direct vellen bij 'een ernstige en spoedeisende bedreiging' (noodkap). Geen tuin- of soortuitzondering nodig: alleen lijstbomen.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst bijzondere bomen 2026 niet ingezien. De tekst van CVDR763458_1 bevat onder de kop 'Lijst bijzondere bomen' geen tekst (de lijst is een bijlage/informatieobject dat niet in de CVDR-XML staat); de pagina op de gemeentelijke website was niet te vinden (404). Aantal lijstbomen en aandeel particulier onbekend.",
+  "weigeringsgronden": "Art. 4:4 lid 1: 'Het bevoegd gezag kan de omgevingsvergunning om te vellen weigeren dan wel onder voorschriften verlenen.' Lid 2: 'Een omgevingsvergunning voor het vellen van een boom wordt slechts bij uitzondering verleend, indien en nadat alternatieven uitputtend zijn onderzocht en onmogelijk zijn gebleken en: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen het duurzaam behoud van de bijzondere boom, of; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.'",
+  "herplantplicht": "Art. 4:5 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan, in aanvulling op artikel 1:3, behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen, moet worden herplant.' Lid 3: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in overlopende passiva.' Alleen 'kan'. Geen beleidsregel herplant in het dossier; het Groenbeleidsplan 2021-2031 wordt alleen genoemd in het lijstbesluit.",
+  "herplant_ontsnapping": "'kan behoren' (bevoegdheid, college per geval). Betaling in plaats van herplant alleen als 'kan': art. 4:5 lid 3. Herplant na illegale kap: art. 4:6 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'; lid 2: 'Indien niet ter plaatse kan worden herplant, wordt een financiële bijdrage gestort in overlopende passiva.'",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen specifieke bepaling. Art. 8:2 lid 1: 'Overtreding van de in hoofdstuk 2, 4, 5 en 7 genoemde artikelen en/of de op grond van artikel 1:3 daarbij gegeven voorschriften en beperkingen wordt gestraft met een geldboete van de tweede categorie.' Art. 1:3 is volgens de VFL niet van toepassing op een omgevingsvergunning, dus of een herplantvoorschrift hieronder valt, is niet uitdrukkelijk geregeld. Verder het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via de Omgevingswet: legesverordening noemt het vellen een omgevingsplanactiviteit (art. 2.30), dus S=1. Daarnaast WED-aanwijzing in de VFL zelf: art. 8:2 lid 3 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:1 en 2:3 als sprake is van een omgevingsvergunningplichtige activiteit en artikel 4:2, eerste lid'. Art. 8:2 lid 1: geldboete tweede categorie. Herplant na illegale kap: art. 4:6 ('kan'). Geen bestuurlijke boete voor kap (art. 8:2 lid 4 gaat over de Wet veiligheidsregio's).",
+  "procedure": "Omgevingsvergunning (reguliere procedure); art. 4:2 lid 4: 'paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing' (procedureregel, geen W0). Leges 2026 art. 2.30: EUR 211,50. Bekendmaking in het gemeenteblad. Bezwaar en beroep volgens Awb (niet apart gelezen).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Lijst bijzondere bomen 2026 (bijlage bij CVDR763458_1) niet ingezien: niet in de CVDR-XML en niet gevonden op de gemeentelijke website. Aantal lijstbomen en aandeel particuliere bomen onbekend, dus D=1 met bereik vanaf 0. Groenbeleidsplan 2021-2031 niet in het dossier. Bezwaar/beroep niet apart gelezen.",
+  "artikelnummers": [
+    "VFL art. 1:1 onder f, t; 4:1; 4:2; 4:4; 4:5; 4:6; 8:2",
+    "Besluit actualisatie bijzondere bomenlijst 2026 (CVDR763458_1)",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "APV 2023 art. 4:10 t/m 4:11h vervallen"
+  ],
+  "opmerkingen": [
+    "D1 (bereik 0-1): alleen aangewezen bomen. Het besluit 2026 zegt: 'de bomen op de bijzondere bomenlijst de enige bomen binnen de gemeente Castricum zijn waarvoor een kapvergunning geldt'. Lijst niet ingezien, dus puntschatting D=1 met min 0.",
+    "W3: art. 4:4 lid 2 'wordt slechts bij uitzondering verleend, indien en nadat alternatieven uitputtend zijn onderzocht' (weigeren tenzij).",
+    "H1: 'kan, in aanvulling op artikel 1:3, behoren het voorschrift dat ... moet worden herplant' (art. 4:5 lid 1). Storting alleen 'kan' (lid 3): verhoogt H niet. Art. 4:6 lid 2 (verplichte storting na illegale kap) telt niet voor H.",
+    "S1 zonder bereik: kapregel werkt als omgevingsplanactiviteit (leges art. 2.30); WED-aanwijzing in VFL art. 8:2 lid 3 verwijst naar art. 4:2 lid 1 (juist). Geen bestuurlijke boete.",
+    "Verschil met Bergen: Castricum beschermt alleen lijstbomen (D1), Bergen heeft een breed regime in de bebouwde kom (D2) plus een lijst. Verschil met Heiloo en Uitgeest: zie hun rijen. De VFL-teksten voor herplant en sancties zijn nagenoeg gelijk (BUCH-model).",
+    "Definitie boom (10 cm dwarsdoorsnede, ca. 31 cm omtrek) is ruim, maar heeft geen effect omdat het verbod alleen voor lijstbomen geldt."
+  ],
+  "modelsignalen": [
+    "Lijst is een bijlage-informatieobject dat niet in de CVDR-XML zit: de lijst is voor onderzoekers via CVDR niet te tellen. Aantal en aandeel particulier blijven onbekend, terwijl het besluit zegt dat dit de enige beschermde bomen zijn."
+  ]
+}

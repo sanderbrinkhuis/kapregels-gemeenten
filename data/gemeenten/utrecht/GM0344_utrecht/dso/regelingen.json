@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0344/2026/Regelingf30063b6af59436d9592ddb988eb8352",
+    "titel": "Actieplan Geluid en Trillingen gemeente Utrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0344/2026/Regelingf30063b6af59436d9592ddb988eb8352/nld@2026-06-17;09321338",
+    "beginGeldigheid": "2026-06-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0344_2026_Regelingf30063b6af59436d9592ddb988eb8352?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0344/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Utrecht",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0344/2020/omgevingsplan/nld@2026-08-19;09031012",
+    "beginGeldigheid": "2026-09-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0344_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0344/2026/Regelinga44d27cdbfa1498d847f11d6696e2cde",
+    "titel": "Voorbereidingsbesluit dakkapellen zijkant en achterkant van woningen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0344/2026/Regelinga44d27cdbfa1498d847f11d6696e2cde/nld@2026-10-01;17562399",
+    "beginGeldigheid": "2026-10-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0344_2026_Regelinga44d27cdbfa1498d847f11d6696e2cde?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:32Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0613/2024/Regelingc23270405fa74a69a5fb9dc7ac0057b6",
+    "titel": "Programma geluid 2024-2028 Gemeente Albrandswaard",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0613/2024/Regelingc23270405fa74a69a5fb9dc7ac0057b6/nld@2025-01-07;13275735",
+    "beginGeldigheid": "2025-01-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0613_2024_Regelingc23270405fa74a69a5fb9dc7ac0057b6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0613/2025/Regeling262e9660743f4e798e72c334ff3e9a98",
+    "titel": "Uitvoeringsprogramma mobiliteit 2025-2030 Gemeente Albrandswaard",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0613/2025/Regeling262e9660743f4e798e72c334ff3e9a98/nld@2025-08-12;09392858",
+    "beginGeldigheid": "2025-08-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0613_2025_Regeling262e9660743f4e798e72c334ff3e9a98?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0613/2025/Regeling3e4b2ed062f846ef9cadc68534a643c3",
+    "titel": "Voorbereidingsbesluit supermarkten Albrandswaard",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0613/2025/Regeling3e4b2ed062f846ef9cadc68534a643c3/nld@2025-08-25;15424154",
+    "beginGeldigheid": "2025-08-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0613_2025_Regeling3e4b2ed062f846ef9cadc68534a643c3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0613/2026/Regelingf46ab71bec984004864562bef48d3ba2",
+    "titel": "Water- en rioleringsprogramma 2026-2030 Gemeente Albrandswaard",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0613/2026/Regelingf46ab71bec984004864562bef48d3ba2/nld@2026-02-25;10153642",
+    "beginGeldigheid": "2026-03-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0613_2026_Regelingf46ab71bec984004864562bef48d3ba2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0613/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Albrandswaard ",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0613/2020/omgevingsplan/nld@2026-06-22;13385006",
+    "beginGeldigheid": "2026-07-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0613_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:04Z"
+  }
+]

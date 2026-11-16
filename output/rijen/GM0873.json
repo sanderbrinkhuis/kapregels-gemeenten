@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0873",
+  "gemeente": "Woensdrecht",
+  "provincie": "Noord-Brabant",
+  "brondocument": "APV gemeente Woensdrecht (CVDR717097_3) art. 4:10, 4:11, 4:11a, 6:1, 1:8; Besluit tot vaststellen Bomenlijst en kaart met uitsluitingen (CVDR674801_1, 2022-01-26) met externe bijlagen exb-2022-17946 (kaart) en exb-2022-17947 (bomenlijst); Legesverordening 2026 (CVDR751645_1) art. 2.28",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR717097/3 ; https://lokaleregelgeving.overheid.nl/CVDR674801/1",
+  "datum_geldigheid": "CVDR717097_3 geldend van 2025-12-30 t/m heden (peildatum 2026-11-15); CVDR674801_1 geldend van 2022-01-26 t/m heden",
+  "laatste_wijziging": "APV: 2025-12-30 (CVDR717097_3). Bomenlijst en kaart: vastgesteld 2022-01-25, in werking 2022-01-26.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges: art. 2.28 legesverordening 2026 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8'. Daarnaast WED-aanwijzing in APV art. 6:1 lid 3. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 1 bekendmaking op titel, 1 besluit (gmb-2025-247698, 'Verleende omgevingsvergunning: kappen'), 0 aanvragen, 0 weigeringen. Geen grondslag genoemd. Te weinig om iets uit af te leiden. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 7 bekendmakingen sinds 1-1-2025, waarvan 3 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning van het bevoegd gezag (APV art. 4:11 lid 2) voor houtopstanden op de Bomenlijst, op de kaart met uitsluitingen of op de lijst van Monumentale Bomen van Nederland van de Bomenstichting.",
+  "drempel": "Geen omvangdrempel. Beschermd zijn alleen de houtopstanden op de lijsten en de kaart.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen drempel)",
+  "reikwijdte": "Lijst: individueel aangewezen bomen (de Bomenlijst, 113 objectformulieren, vooral in tuinen in de kernen). Kaart 'Beschermde groen en landschapselementen' (kaart met uitsluitingen): beschermde gebieden met bos en groen, volgens de legenda onder meer 'Bos / groen buiten de bebouwde komgrens'; de kaart zelf is niet als beeld te lezen. Hele gemeente. Daarnaast de Bomenstichting-lijst (monumentale bomen van Nederland). Het breedste regime (kaart met gebieden) bepaalt D; omdat de kaart niet beoordeeld kon worden op omvang en eigendom is het bereik D1 tot D2.",
+  "uitzonderingen": "Art. 4:11 lid 5: toestemming van de burgemeester bij spoedeisend belang voor de openbare orde of direct gevaar (gangbaar). Plantenziektewet niet genoemd. Geen tuin-, soort- of oppervlakte-uitzondering.",
+  "weigeringsgronden": "Lid 3 (kaart): 'In afwijking van artikel 1:8 kan de vergunning, voor het vellen of doen vellen van de houtopstanden genoemd onder lid 2 sub b, worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid. Lid 4 (Bomenlijst en Bomenstichting-lijst): 'weigert het bevoegd gezag de vergunning voor het vellen of doen vellen van de houtopstanden genoemd onder lid 2 sub a en c tenzij:' onveilige situatie, ziekte, zwaarwegend algemeen belang.",
+  "herplantplicht": "Art. 4:11 lid 6: 'Het bevoegd gezag verbindt aan de vergunning een herplantplicht onder nader te stellen voorschriften.' Lid 7: 'Indien herplant op grond van het vorige lid redelijkerwijs niet mogelijk is, legt het bevoegd gezag in plaats van een herplantplicht de verplichting op tot een financiële bijdrage aan het gemeentelijk bomenfonds, onder nader te stellen voorschriften.' Na illegale kap: art. 4:11a lid 1: 'legt het bevoegd gezag ... de verplichting op te herbeplanten'; lid 3: financiële bijdrage als herplant niet mogelijk is.",
+  "herplant_ontsnapping": "'redelijkerwijs niet mogelijk' (lid 7): dan verplichte financiële bijdrage aan het bomenfonds in plaats van herplant. Het bevoegd gezag (college) beslist per geval over de voorschriften. Geen 'tenzij'-uitweg zonder betaling.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Art. 6:1 lid 1: 'Overtreding van het bepaalde bij of krachtens deze verordening kan worden bestraft met een geldboete van de tweede categorie of hechtenis van ten hoogste drie maanden.' Geen eigen bepaling over de herplantplicht; geen bestuurlijke boete of dwangsom in de regeling.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 3 (art. 1a WED voor art. 4:11 lid 2); ook WED via Ow 5.1 volgens de legesverordening. Eigen strafbepaling art. 6:1 lid 1 (geldboete tweede categorie of hechtenis tot drie maanden). Herplant of financiële bijdrage na illegale kap verplicht (art. 4:11a). Geen bestuurlijke boete.",
+  "procedure": "Leges: EUR 145,35 (art. 2.28 legesverordening 2026). Positieve fictieve beschikking (lid 8: paragraaf 4.1.3.3 Awb); art. 4:12 vergunning van rechtswege is vervallen. Beslistermijn omgevingsvergunning volgens Omgevingswet; art. 1:2 APV is daarop niet van toepassing.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 113,
+  "lijst_aantal_particulier": 93,
+  "lijst_telling": "ca. 113 objectformulieren ('FORMULIER INVOER BOMEN', opname 2004 en 2007) in de Bomenlijst 2022 (externe bijlage exb-2022-17947 bij CVDR674801_1); ca. 93 daarvan staan volgens de locatieomschrijving in een tuin, bij of achter een woning of op een perceel (dus naar verwachting particulier); de overige 20 staan bij een parkeerplaats, straat, sloot of kapel. Eigendom is niet vermeld, dus 'ca.'",
+  "status": "ok",
+  "ontbrekend": "De kaart (exb-2022-17946) is een beeldkaart waarvan alleen de legenda als tekst kon worden gelezen; omvang en eigendom van de beschermde gebieden zijn niet vastgesteld, daarom D-bereik 1-2. Lijst van Monumentale Bomen van Nederland (Bomenstichting) niet ingezien. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4:11a, 6:1, 1:2, 1:8 (CVDR717097_3)",
+    "Besluit Bomenlijst en kaart met uitsluitingen (CVDR674801_1; bijlagen exb-2022-17946 en exb-2022-17947)",
+    "Legesverordening 2026 art. 2.28 (CVDR751645_1)",
+    "Omgevingsplan art. 22.299 (CVDR696433_3)"
+  ],
+  "opmerkingen": [
+    "D2 (min 1, max 2): art. 4:11 lid 2 onder b beschermt houtopstanden die 'staan vermeld op de in het eerste lid genoemde kaart met uitsluitingen' (gebieden met bos en groen; legenda van externe bijlage exb-2022-17946: 'Bos / groen buiten de bebouwde komgrens'), naast de Bomenlijst (D1, 113 objecten, ca. 93 waarschijnlijk particulier). Breedste regime bepaalt D (gecombineerde systemen). De kaart geldt volgens de legenda alleen buiten de bebouwde kom (en dan hooguit D2); of dit een substantieel deel van het particuliere gebied beslaat, is niet vast te stellen. Een boom in een achtertuin binnen de kom valt alleen onder de regel als hij op de Bomenlijst staat.",
+    "W2 (min 2, max 3): voor de kaart geldt 'kan de vergunning, voor het vellen of doen vellen van de houtopstanden genoemd onder lid 2 sub b, worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en andere waarden (art. 4:11 lid 3) = W2. Voor de Bomenlijst en de Bomenstichting-lijst geldt 'weigert ... tenzij' (lid 4) = W3. Scoor het regime van het grootste deel van de gedekte bomen: dat is onzeker, dus bereik 2-3.",
+    "H3: 'Het bevoegd gezag verbindt aan de vergunning een herplantplicht' (lid 6) en bij onmogelijke herplant een verplichte bijdrage aan het bomenfonds (lid 7): standaard herplant plus verplichte financiële compensatie.",
+    "S1: WED-aanwijzing art. 6:1 lid 3 en eigen strafbepaling lid 1; herplant na illegale kap verplicht (art. 4:11a). Geen bestuurlijke boete.",
+    "Art. 4:11 lid 1 noemt 'een Bomenlijst en een kaart met uitsluitingen'; de bijlage bij het besluit van 2022 toont dat de 'kaart met uitsluitingen' feitelijk de kaart 'Beschermde groen en landschapselementen' is (legenda: 'enkel vergunningsplichtig, indien gearceerd als uitgesloten'). De exacte betekenis van 'uitsluiting' is niet te achterhalen uit de tekst.",
+    "Praktijk: 1 verleende kapvergunning sinds 2025 en niets over weigeringen; geen grondslag genoemd."
+  ],
+  "modelsignalen": [
+    "Woensdrecht heeft een 'kaart met uitsluitingen' die in de praktijk een kaart van beschermde groengebieden is, plus een lijst. INTENT geeft geen regel voor een kaart met gebieden waarvan onduidelijk is welk deel particulier is; D is daarom als bereik 1-2 gescoord. Ook is de W voor kaart (W2) en lijst (W3) verschillend, terwijl INTENT maar één regime toelaat.",
+    "Het model telt bij lijstsystemen alleen het aantal objecten; hier zijn de lijstobjecten oude opnameformulieren (2004 en 2007) en kan de boom inmiddels zijn verdwenen. Geen actualiteitscontrole mogelijk."
+  ]
+}

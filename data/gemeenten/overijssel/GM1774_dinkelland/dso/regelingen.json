@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1774/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Dinkelland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1774/2020/omgevingsplan/nld@24",
+    "beginGeldigheid": "2024-07-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1774_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1774/2024/2_5",
+    "titel": "Water- en rioleringsprogramma 2025-2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1774/2024/2_5/nld@29",
+    "beginGeldigheid": "2024-12-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1774_2024_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1774/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Dinkelland",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1774/2024/omgevingsvisie/nld@30",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1774_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm1774",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Dinkelland",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm1774/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm1774?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1774/2025/2_8",
+    "titel": "Volkshuisvestingsprogramma 2025-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1774/2025/2_8/nld@33",
+    "beginGeldigheid": "2025-04-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1774_2025_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:45Z"
+  }
+]

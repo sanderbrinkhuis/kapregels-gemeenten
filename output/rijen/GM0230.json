@@ -1,0 +1,74 @@
+{
+ "gm_code": "GM0230",
+ "gemeente": "Elburg",
+ "provincie": "Gelderland",
+ "brondocument": "Bomenverordening 2013 (1e wijziging), CVDR377915_1, met APV gemeente Elburg (CVDR653521_8, afdeling 3 verwijst naar de Bomenverordening), Verordening op de heffing en de invordering van leges 2026 (CVDR750840_2) en Omgevingsplan gemeente Elburg (CVDR696231_6)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR377915/1",
+ "datum_geldigheid": "2015-09-29 t/m heden (CVDR377915_1)",
+ "laatste_wijziging": "2015-09-29",
+ "juridische_plaats": "Losse bomenverordening; werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30: 'Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; art. 5.12 (bebouwingscontour houtkap) regelt het bevoegd gezag en geeft geen kapregel.",
+ "praktijkcontrole": "72 besluiten sinds 2025 (gezocht op titel), 2 geweigerd volgens titel. Steekproef: vergunningen voor kap van onder meer zuilbeuken, grove dennen, coniferen, een fijnspar en een berk op particuliere percelen, vooral in 't Harde. Dat wijst op meer dan alleen losse lijstbomen, maar de grondslag wordt in geen besluit genoemd.",
+ "vergunningplicht": "Ontheffing (omgevingsvergunning) voor 'beschermde houtopstand' (art. 3 lid 1 en 2): Groene Kaart (boomzones, groenstructuren, solitaire bomen), gemeentelijke houtopstand vanaf 65 cm, erven en tuinen gelegen in een bos, herplantbomen. Overige particuliere bomen niet.",
+ "drempel": "Groene Kaart: geen drempel genoemd. Gemeentelijke boomzones, groenstructuren en solitaire bomen: 'stamomtrek van 65 centimeter of meer op 1,30 meter boven het maaiveld'. Erven en tuinen in een bos: verbod geldt niet voor bomen met 'een stamomtrek hebben van 65 cm of minder' (art. 3 lid 3 onder a).",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Alleen beschermde houtopstand (art. 1 onder f): Groene Kaart met register (boomzones, groenstructuren, solitaire bomen; register bevat kadastrale en eigendomsgegevens), gemeentelijke houtopstand, 'Erven en tuinen gelegen in een bos', herplantbomen en houtopstand die van gemeentelijk naar particulier eigendom overgaat. Groene Kaart niet in de bronnen aanwezig.",
+ "uitzonderingen": "Art. 3 lid 3: bomen in een boomzone en bomen op erven en tuinen in een bosgebied van 65 cm of minder; geregistreerde bosbouwondernemingen buiten de kom; hakhout; knotten; Plantenziektewet of aanschrijving; planologische wijziging met integrale afweging.",
+ "herplantplicht": "Art. 7 lid 1: 'Tot de aan de ontheffing te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Na illegale kap art. 8 lid 1: 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'; lid 3: 'wordt de omvang van de herplant bepaald aan de hand van de boomwaarde.'",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan'); het bevoegd gezag beslist per geval. Art. 7 lid 3: 'in beginsel uitgegaan van een herplant met inheemse soorten' (alleen soort). Geen betaling in plaats van herplant geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 14 lid 1: 'Een ieder, ten aanzien van wie één van de in artikelen 8 en 11 van deze verordening omschreven bevoegdheden wordt uitgeoefend, is verplicht te handelen overeenkomstig het bepaalde in de aanschrijving.' Art. 14 lid 2: strijd met art. 8 lid 1 wordt gestraft 'met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'. Voor een herplantvoorschrift in een vergunning (art. 7): art. 1:4 lid 2 APV 'is verplicht de daaraan verbonden voorschriften en beperkingen na te komen' (APV art. 6:1 lid 1 straf).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED via de Omgevingswet: legesverordening art. 2.30 noemt het vellen van een houtopstand een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Eigen strafbepaling art. 14 lid 2 geldt voor art. 8 lid 1, 11 lid 1 en 12 (niet het kapverbod), 'Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde'. Herplant na illegale kap: art. 8 'kan'. Geen bestuurlijke boete.",
+ "procedure": "Schriftelijke gemotiveerde aanvraag (art. 4); beslistermijn acht weken, te verdagen met ten hoogste acht weken (APV art. 1:2); leges € 95,00 plus € 15,00 per volgende boom (CVDR750840_2 art. 2.30); bezwaar en beroep en publicatie niet in de bomenverordening gevonden.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Groene Kaart en register niet ingezien (niet in de bronnen; gemeentelijke website niet gevonden)",
+ "status": "ok",
+ "ontbrekend": "Groene Kaart met register (boomzones, groenstructuren, solitaire bomen) niet ingezien: onbekend of er particuliere bomen op staan, hoeveel, en hoe groot de gebieden zijn. Onbekend of 'erven en tuinen gelegen in een bos' een substantieel deel van de gemeente beslaan (drempel 65 cm). Geen beleidsregel over herplant of handhaving in de bronnen.",
+ "artikelnummers": [
+  "Bomenverordening 2013 art. 1, 2, 3, 4, 5, 7, 8, 14",
+  "APV art. 1:2, 1:4, 6:1, afdeling 3",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 5.12, 22.299"
+ ],
+ "opmerkingen": [
+  "W: art. 5: 'Het bevoegd gezag kan de ontheffing om te vellen weigeren dan wel onder voorschriften verlenen in het belang van de instandhouding van:' natuur- en landschapswaarden, landschappelijke waarden, cultuurhistorische waarden, waarden van stads- en dorpsschoon en waarden voor recreatie en leefbaarheid (W2, belangenafweging).",
+  "H: art. 7 lid 1 en art. 8 lid 1 'kan'. Art. 8 lid 3 ('wordt de omvang van de herplant bepaald aan de hand van de boomwaarde') geldt alleen na illegale kap en maakt herplant niet verplicht. Geen beleidsregel over herplant of compensatie in de bronnen gevonden; geen financiële compensatie.",
+  "D: Groene Kaart is een lijst- en gebiedssysteem; puntschatting D1 en bereik vanaf 0 omdat de kaart niet is ingezien (conform model). Maximum D2 voor boomzones en erven en tuinen in een bos (aangewezen gebieden; bij 65 cm drempel zou het D3 kunnen zijn voor dat deel, maar het substantiële deel van de gemeente is niet vastgesteld). Bos- en natuurgebieden buiten de bebouwingscontour houtkap vallen vooral onder provincie of Rijk.",
+  "Praktijk wijst op vergunningen voor gewone tuinbomen (coniferen, sparren, beuken) in 't Harde: dat past bij 'erven en tuinen gelegen in een bos', niet bij een kaart met alleen losse bomen. Dit is een indicatie, geen grondslag; D is daarom onzeker.",
+  "Strafbepaling art. 14 lid 2 noemt art. 8 lid 1, 11 lid 1 en 12 en dus niet art. 3. In APV 6:1 lid 3 zijn alleen art. 2:10, 2:11, 2:12 en 4:11 aangewezen voor de WED; die gaan niet over kap."
+ ],
+ "modelsignalen": [
+  "Een kaart met boomzones en 'erven en tuinen in een bos' met drempel 65 cm: D schommelt tussen lijst (1) en gebied (2) of hoger; het model heeft geen regel voor een gebiedsregel waarvan de omvang onbekend is.",
+  "Strafbepaling die alleen de herplantaanschrijving dekt (art. 8) en niet het kapverbod: S1 komt alleen via de omgevingsplan-route (legesverordening)."
+ ]
+}

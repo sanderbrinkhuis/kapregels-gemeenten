@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0547",
+  "gemeente": "Leiderdorp",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Verordening op de beplantingen Leiderdorp 2018 (CVDR489903_3), art. 1, 2, 4, 5, 8, 9, 10; Verordening op de heffing en de invordering van leges Leiderdorp 2026 (CVDR752367_2); Operationele strategie VTH (CVDR706330_1); APV Leiderdorp 2020 (CVDR647349_3, afdeling houtopstanden vervallen); Omgevingsplan gemeente Leiderdorp (CVDR696351_3) art. 22.290 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR489903/3",
+  "datum_geldigheid": "Geldend van 01-01-2026 t/m heden (CVDR489903_3, peildatum 16-11-2026)",
+  "laatste_wijziging": "Versie 3 in werking 01-01-2026 (wijziging art. 1, 4, 8, 9, 10; bron gmb-2025-574327)",
+  "juridische_plaats": "Losse verordening (Verordening op de beplantingen Leiderdorp 2018) die via de legesverordening als omgevingsplanactiviteit in samenhang met art. 22.8 Ow werkt; omgevingsplan art. 22.290 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "99 kapbesluiten sinds 2025 (titelzoekopdracht, 0 aanvragen, 0 weigeringen volgens titel). In de steekproef van 10 en de lijst van recente besluiten gaat het vrijwel steeds om bomen in de openbare ruimte (laan, groenstrook, berm, speelterrein, bedrijventerrein); geen grondslag genoemd. Past bij een regime waarin gewone particuliere bomen vrij zijn.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) alleen voor bomen op de Lijst met bijzonder waardevolle bomen en houtopstanden en voor kap voor een ruimtelijke ontwikkeling; overige particuliere bomen vrij",
+  "drempel": "Lijstbomen: geen drempel. Algemene definitie 'boom': dwarsdoorsnede van minimaal 15 cm op 1,3 m (alleen relevant voor het verbod buiten particulier terrein)",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (art. 1 lid 1 onder d)",
+  "reikwijdte": "Verbod geldt binnen de bebouwde kom voor beplantingen en buiten de bebouwde kom voor houtopstanden (art. 2). Particuliere bomen zijn vrijgesteld tenzij op de Lijst met bijzonder waardevolle bomen en houtopstanden of kap voor een ruimtelijke ontwikkeling (art. 5 lid 2 onder e). Voor particulieren is het dus een lijstsysteem. Art. 4 lid 5: 'De in het eerste lid genoemde lijst bevat in ieder geval de bomen voorkomend in het landelijk Register van Monumentale Bomen van de landelijke Bomenstichting, eventueel aangevuld met lokale bijzonder waardevolle bomen en houtopstanden.'",
+  "uitzonderingen": "Art. 5 lid 2 onder e: 'het kappen of vellen, niet zijnde voor een ruimtelijke ontwikkeling, van een particuliere boom of houtopstand die niet vermeld staat op de Lijst met bijzonder waardevolle bomen en houtopstanden als benoemd in artikel 4, eerste lid'. Verder gangbare uitzonderingen (Plantgezondheidswet, spoedeisend belang, knotten, dunnen).",
+  "weigeringsgronden": "Voor lijstbomen noemt de verordening geen eigen toetsingscriteria: art. 5 lid 3 geldt 'tenzij er sprake is van een boom of houtopstand op de Lijst met bijzonder waardevolle bomen en houtopstanden'. Voor andere bomen: 'wordt ... verleend indien: a. voldaan wordt aan één of meer van de overlastcriteria zoals beschreven in het geldende Bomenbeleidsplan; of b. geen van de volgende waarden in het geding zijn'. Het Bomenbeleidsplan staat niet in het dossier of in CVDR.",
+  "herplantplicht": "Art. 8 lid 1: 'Het bevoegd gezag verbindt aan een omgevingsvergunning voor het kappen van een boom of het vellen van een houtopstand een herplantplicht met voorschriften, tenzij zwaarwegende redenen zich daartegen verzetten'. Lijstbomen: art. 4 lid 8 'verbindt het bevoegd gezag een herplantplicht met voorschriften hieraan'. Herplantladder (art. 8 lid 3) eindigt in 'Financiële compensatie doormiddel van een storting in het herplantfonds'.",
+  "herplant_ontsnapping": "'tenzij zwaarwegende redenen zich daartegen verzetten' (art. 8 lid 1); bij onmogelijke herplant volgt storting in het herplantfonds (art. 8 lid 3 onder d en art. 10); bevoegd gezag beslist per aanvraag; herplant na illegale kap: 'legt het college een herplantplicht met voorschriften op' (art. 9 lid 1)",
+  "sancties": "WED via Omgevingswet: de legesverordening noemt het vellen een omgevingsplanactiviteit ('in samenhang met artikel 22.8 van de Omgevingswet'). Herplantplicht na illegale kap (art. 9). Geen bestuurlijke boete. Dwangsom in Leidraad: 'Na illegaal kappen niet herplanten' (EUR 750 per week, max. 10x).",
+  "procedure": "Leges: per boom EUR 84,60 (max. EUR 499,25), per andere houtopstand EUR 507,70 (Verordening leges 2026). Beslistermijn en besluit: Awb en Omgevingswet (art. 7 lid 1). Geldigheid vergunning 1 jaar (art. 7 lid 2). Uitgestelde inwerkingtreding bij kappen (Operationele strategie 3.4).",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Verordening zegt er niets over voor vergunde herplant. Operationele strategie bijlage 2 (leidraad dwangsombedragen): 'Na illegaal kappen niet herplanten' met sanctie 'Dwangsom'. Art. 10 lid 2 onder b noemt 'een last onder bestuursdwang of last onder dwangsom'.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 1,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien (niet in CVDR; website kort geprobeerd, niets gevonden); aantallen onbekend",
+  "status": "onzeker",
+  "ontbrekend": "Lijst met bijzonder waardevolle bomen en houtopstanden (art. 4; de 'Lijst (2006)' blijft van kracht tot een nieuwe is vastgesteld, art. 14 lid 3) niet gevonden: onbekend of en hoeveel particuliere bomen erop staan. Geldend Bomenbeleidsplan (bijlage 2 aanwijzingscriteria, overlastcriteria) niet in dossier of CVDR.",
+  "artikelnummers": [
+    "Verordening op de beplantingen Leiderdorp 2018 art. 1, 2, 4, 5, 8, 9, 10, 13",
+    "Verordening leges 2026 (omgevingsplanactiviteit vellen houtopstand)",
+    "Operationele strategie VTH 3.4, 4.9, bijlage 2",
+    "Omgevingsplan art. 22.290",
+    "APV 2020 art. 4:10-4:12 (vervallen)"
+  ],
+  "opmerkingen": [
+    "D1: alleen individueel aangewezen bomen. Doorslaggevend (art. 5 lid 2 onder e): 'het kappen of vellen, niet zijnde voor een ruimtelijke ontwikkeling, van een particuliere boom of houtopstand die niet vermeld staat op de Lijst met bijzonder waardevolle bomen en houtopstanden'. Particuliere boom (art. 1): 'een boom of houtopstand in eigendom van een particulier, bijvoorbeeld een burger, stichting of vereniging, die niet vrij toegankelijk is'.",
+    "Kap voor een ruimtelijke ontwikkeling (bouw- of herinrichtingsproject in afwijking van het omgevingsplan) valt wel onder het verbod, ook voor niet-lijstbomen; dat telt niet voor D (gewone tuinkap is vrij).",
+    "D-bereik 0-1: de regeling impliceert dat particuliere bomen op de lijst kunnen staan (eigenaar wordt gehoord, kadastraal perceel en zakelijk gerechtigden worden op de lijst vermeld, art. 4 lid 1-2), maar de lijst zelf is niet ingezien. Daarom min 0.",
+    "W1: voor lijstbomen noemt de tekst geen criteria (art. 5 lid 3 sluit lijstbomen uit van de criteria). Maximum 3 omdat het Bomenbeleidsplan ontbreekt.",
+    "H3 (min 2): 'tenzij zwaarwegende redenen zich daartegen verzetten' (H2) plus een herplantladder waarvan de laatste trede 'd. Financiële compensatie doormiddel van een storting in het herplantfonds volgens de voorschriften in artikel 10 van deze Verordening' is; dat is een verplichte storting als vervanging voor herplant die niet mogelijk is. Art. 10 lid 2 onder a: 'door vergunninghouders ter uitvoering van een in de vergunning opgenomen voorschrift tot financiële compensatie van de met vergunning te kappen bomen'.",
+    "Herplant na illegale kap: art. 9 lid 1 'legt het college een herplantplicht met voorschriften op'; lid 2: 'wordt de herplantplicht ... omgezet naar een financiële compensatie'. Telt bij S, niet bij H.",
+    "S1 zonder bereik: de legesverordening noemt het vellen 'bedoeld in artikel 5, lid 1, van de Verordening op de beplantingen Leiderdorp 2018 in samenhang met artikel 22.8 van de Omgevingswet'; WED via Ow 5.1. De verordening zelf heeft geen strafbepaling (art. 13 is alleen toezicht) en geen bestuurlijke boete. APV 2020 afdeling houtopstanden is vervallen (art. 4:10-4:12 '[Vervallen]'); APV 2014 (CVDR298195_6) staat ook nog als geldend in CVDR maar heeft die afdeling ook als vervallen.",
+    "Aanvraagvereisten in omgevingsplan art. 22.290 zijn alleen aanvraagvereisten; de materiële regel staat in de losse verordening.",
+    "Verordening art. 2: binnen de bebouwde kom 'beplantingen' ... buiten de kom 'houtopstanden'; de lijstbescherming geldt voor beide.",
+    "Het verbod geldt ook voor herplante bomen (art. 8 lid 7).",
+    "Nabewerking 16-11-2026: W1 (1-3) → W2 (1-3): toetsingscriteria voor lijstbomen staan in een bomenbeleidsplan dat niet te vinden is (toetsing onbekend) (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Particuliere bomen zijn vrijgesteld behalve lijstbomen, maar voor lijstbomen is de lijst niet beschikbaar en het toetsingskader voor lijstbomen staat in een beleidsplan dat niet in CVDR staat: W en D zijn onzeker; het model heeft geen regel voor 'toetsing onbekend'. Advies: W = 1 met max 3 laten staan en de gemeente in de groep 'lijst niet ingezien' houden.",
+    "Herplantladder met storting als laatste trede: geen 'kan', wel 'tenzij zwaarwegende redenen'. Gescoord als H = 3 (min 2) op de modelregel over een verplichte storting als vervanging voor herplant. Advies: bevestigen dat de ladder met 'anders' als verplicht telt."
+  ]
+}

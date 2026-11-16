@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1729",
+  "gemeente": "Gulpen-Wittem",
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "brondocument": "Verordening Fysieke Leefomgeving Gulpen-Wittem 2026 (VFL), art. 3:11 t/m 3:19 en 8:1; Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR756869/1 ; https://lokaleregelgeving.overheid.nl/CVDR752789/1 ; https://lokaleregelgeving.overheid.nl/CVDR696495/2",
+  "datum_geldigheid": "CVDR756869_1 geldend vanaf 2026-02-13 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2026-02-13 (nieuwe VFL 2026; vervangt VFL 2024, eerste wijziging CVDR718159_1)",
+  "juridische_plaats": "VFL (gemeentelijke verordening, afdeling 'Het bewaren van houtopstanden'); werkt als omgevingsplanactiviteit volgens legesverordening art. 2.30; WED-aanwijzing in de VFL zelf (art. 8:1 lid 2)",
+  "praktijkcontrole": "5 bekendmakingen sinds 2025 met kapterm in de titel: 0 besluiten, 4 aanvragen (o.a. 160 bomen langs een provinciale weg, 5 bomen voor een hoogwatergeul, enkele losse bomen), 0 weigeringen; geen besluiten ingezien. Geen tegenstrijdigheid met een breed vergunningstelsel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand",
+  "drempel": "Stamdiameter van 25 cm of meer (art. 3:12 lid 2 onder e: 'bomen met een stamdiameter kleiner dan 25 centimeter' zijn uitgezonderd); definitie 'boom' in art. 3:11 lid 1 onder a noemt 'minimaal 20 centimeter' dwarsdoorsnede, maar de uitzondering legt de drempel effectief op 25 cm",
+  "omtrek_cm": 78.5,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar. Art. 3:12 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.'",
+  "uitzonderingen": "Art. 3:12 lid 2: 'a. houtopstand in privaat eigendom op percelen van minder dan 120m2, tenzij het een monumentale boom betreft'; 'd. het vellen van naaldbomen en coniferen'; 'e. bomen met een stamdiameter kleiner dan 25 centimeter'; hakhout en knotten (regulier onderhoud). Spoed: lid 3 (burgemeester). Ruime uitzondering (alle naaldbomen/coniferen, percelen < 120 m2): D min 1.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem",
+  "weigeringsgronden": "Art. 3:14 lid 1: 'Een vergunning wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden: a. natuur en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads en dorpsschoon; e. waarden voor recreatie en leefbaarheid; f. beeldbepalende waarde van de houtopstand.' Lid 2 (monumentale en beschermingswaardige bomen): 'slechts bij uitzondering verleend'.",
+  "herplantplicht": "Art. 3:15 lid 1: 'Aan een vergunning als bedoeld in artikel 3:12, eerste lid, kan tevens een voorschrift worden opgenomen waarbij een herplantverplichting wordt opgelegd.' Art. 3:16 lid 1 (na kap in strijd met 3:12): 'kan het college ... de verplichting opleggen te herplanten'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college per geval); geen standaardplicht; geen betaling als alternatief",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 3:15 lid 2: 'Degene aan wie een voorschrift als bedoeld in het eerste lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 8:1 lid 1: 'Overtreding van enige bepaling van deze verordening ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: art. 8:1 lid 2: 'artikel 1a van de Wet op de economische delicten, onderdeel 3, van toepassing op overtreding bij of krachtens de artikelen 3:12 eerste lid, ...'. Daarnaast art. 8:1 lid 1 (hechtenis max. 3 maanden of geldboete 2e categorie). Geen bestuurlijke boete. Herplant na illegale kap: art. 3:16 ('kan').",
+  "procedure": "Leges € 213,00 (Legesverordening 2026 art. 2.30). Aanvraag door of namens de gerechtigde (art. 3:13). Spoedtoestemming burgemeester (art. 3:12 lid 3). Beslistermijn en bezwaar: niet in de kapartikelen gevonden.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "",
+  "artikelnummers": [
+    "VFL 2026 art. 3:11, 3:12, 3:13, 3:14, 3:15, 3:16, 8:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D: drempel diameter 25 cm = omtrek 78,5 cm (25 x 3,14) = D3. Correctie -1 vanwege ruime uitzonderingen: alle naaldbomen en coniferen (art. 3:12 lid 2 onder d) en particuliere percelen kleiner dan 120 m2 (onder a). Resultaat D2. Geen bereik: volgens INTENT.md telt een perceelgrens als tuinuitzondering 'ongeacht hoe groot of klein', en 'alle naaldbomen of coniferen' staat expliciet in de correctieregel (nabewerking 14-11-2026).",
+    "Boom A (80 cm omtrek = ca. 25,5 cm doorsnede) valt net boven de drempel van 25 cm: vergunning ja. Boom B (40 cm = ca. 12,7 cm) valt eronder: nee.",
+    "W: 'Een vergunning wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud' = belangenafweging (W2). Voor monumentale en beschermingswaardige bomen geldt 'slechts bij uitzondering verleend' (strenger regime voor een klein deel; alleen vermeld).",
+    "H: 'kan' (art. 3:15 lid 1); een beleidsregel over herplant of compensatie is niet gevonden. Boomwaarde wordt gedefinieerd (art. 3:11 lid 1 onder b) maar nergens als verplichte compensatie gebruikt.",
+    "Legesverordening 2026 art. 2.30 verwijst nog naar 'de Algemene plaatselijke verordening' als bron van het kapverbod, terwijl de kapregel nu in de VFL 2026 staat (art. 3:12); de APV Gulpen-Wittem 2024 is per 2026-02-13 vervallen. De omgevingsplan-artikelen (22.299) bevatten alleen aanvraagvereisten.",
+    "Art. 3:11 lid 1 onder e: houtopstand is alleen een heg, houtwal of struweel 'met een lengte van minimaal 25 meter'.",
+    "Het WED-artikel 8:1 lid 2 bevat een door de gemeente zelf toegevoegde redactionele noot over een 'kennelijke verschrijving'; de tekst ziet in de aanwijzing art. 3:12 lid 1 wel als economisch delict (onderdeel 3). S = 1 hoe dan ook."
+  ],
+  "modelsignalen": [
+    "Een kleine-perceel-uitzondering (< 120 m2) naast een coniferenuitzondering: het model telt beide als een enkele correctie van -1; de 120 m2-grens sluit vrijwel geen echte tuinen uit.",
+    "Definitie 'boom' (20 cm) en uitzondering 'diameter kleiner dan 25 cm' wijken af; het model zegt niet welke drempel telt. Gescoord op de uitzondering (25 cm)."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "gemeente": "Blaricum",
+  "gm_code": "GM0376",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Blaricum",
+  "zoeknaam_bekendmakingen": "Blaricum",
+  "opgehaald_op": "2026-11-14T22:02:30+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Blaricum\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 74,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Blaricum\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 251,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR696294_5",
+    "CVDR711166_4",
+    "CVDR724164_1",
+    "CVDR740402_1",
+    "CVDR743926_1",
+    "CVDR743927_1",
+    "CVDR743930_1",
+    "CVDR753005_2"
+  ],
+  "bekendmakingen_besluiten": 9,
+  "bekendmakingen_aanvragen": 127,
+  "bekendmakingen_geweigerd": 7,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

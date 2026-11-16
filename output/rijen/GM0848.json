@@ -1,0 +1,82 @@
+{
+ "gm_code": "GM0848",
+ "gemeente": "Son en Breugel",
+ "provincie": "Noord-Brabant",
+ "brondocument": "APV gemeente Son en Breugel 2024, afdeling 4.3 (art. 4.9, 4.10) en art. 6.1 (CVDR725597_3); Beleidsnota Openbaar Groen 2021 (CVDR669153_1) par. 4.1, 4.2, 4.4; Legesverordening 2026 art. 2.30 (CVDR748141_2); Omgevingsplan art. 22.299 (CVDR696425_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR725597/3 ; https://lokaleregelgeving.overheid.nl/CVDR669153/1 ; https://lokaleregelgeving.overheid.nl/CVDR748141/2 ; https://lokaleregelgeving.overheid.nl/CVDR696425/3",
+ "datum_geldigheid": "APV CVDR725597_3 geldend vanaf 2026-09-25 t/m heden (peildatum 2026-11-15); Beleidsnota CVDR669153_1 geldend vanaf 2021-12-28",
+ "laatste_wijziging": "APV: versie 3 per 2026-09-25 (wijziging betreft volgens het register artikel 2.10A; kapafdeling in dit dossier niet vergeleken met eerdere versies). Beleidsnota: vastgesteld door de gemeenteraad 2021-11-25.",
+ "juridische_plaats": "APV afdeling 4.3, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'artikel 4.10 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 112 bekendmakingen op titel, waarvan 47 besluiten, 64 aanvragen en 9 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. Aantal past bij een beperkt regime (hoofdgroenstructuur en lijst); geen aanwijzing voor een breder regime.",
+ "vergunningplicht": "Omgevingsvergunning (APV 4.10 lid 1 en 2): 'Het is verboden om zonder omgevingsvergunning van het bevoegd gezag een boom, die voorkomt op de lijst met beeldbepalende en monumentale bomen, te vellen.' en 'Het is tevens verboden om zonder omgevingsvergunning van het bevoegd gezag een boom te vellen als deze onderdeel uitmaakt van de hoofdgroenstructuur én een stamdiameter heeft van 15 cm of meer, gemeten op 1.30 m boven het maaiveld.'",
+ "drempel": "Hoofdgroenstructuur: stamdiameter van 15 cm of meer (APV 4.9 onder b en 4.10 lid 2); omgerekend omtrek 47 cm (15 x 3,14). Lijstbomen: geen drempel.",
+ "omtrek_cm": 47,
+ "meethoogte": "1,30 m boven maaiveld",
+ "reikwijdte": "Alleen bomen op de door het college vastgestelde lijst met beeldbepalende en monumentale bomen (gemeentelijk en particulier, Beleidsnota 4.1) en bomen in de hoofdgroenstructuur: 'Deze vlakken beslaan nadrukkelijk ook de particuliere tuinen.' (Beleidsnota 4.2). De hoofdgroenstructuur is de in de Beleidsnota vastgestelde zonering (lijnen = wegbeplanting, vlakken = groengebieden, o.a. de bosrijke wijken rond 't Harde Ven). Elders, ook in tuinen buiten de zone, geldt geen kapverbod: 'De meeste bomen in particuliere tuinen zijn niet kapvergunningsplichtig en dat zal ook zo blijven.' (Beleidsnota 4.4). De kaart (Figuur 1) toont 'een deel van het dorp' en is niet als tekst beschikbaar.",
+ "uitzonderingen": "Art. 4.10 lid 11: dode boom; Plantengezondheidswet of aanschrijving; periodiek snoeien van hakhout; periodiek scheren, knotten of kandelaberen. Lid 9: noodkap bij zeer onveilige situatie. Geen tuin-, erf-, perceel-, soort- of aantalsuitzondering: geen correctie. Beleidsnota 4.1: 'bomen in private achtertuinen bij woningen worden gevrijwaard van zo'n status' geldt alleen voor de monumentale status (lijst), niet voor de hoofdgroenstructuur.",
+ "weigeringsgronden": "APV 4.10 lid 4: 'De vergunning kan in elk geval worden geweigerd op grond van: a. de monumentale waarde van de boom; b. de landschappelijke waarde van de boom; c. de beeldbepalende waarde van de boom; d. de cultuurhistorische waarde van de boom; e. de ecologische waarde van de boom;'. Beleidsnota 4.2 (hoofdgroenstructuur, particuliere tuinen): 'In principe is het “nee tenzij”, waar we voorheen “ja mits herplant” zeiden.'",
+ "herplantplicht": "APV 4.10 lid 3: 'Als de in het eerste en tweede lid genoemde bomen worden geveld, geldt hierbij altijd een herplantplicht waarbij een minimale plantmaat van 16-18 cm, gemeten op 1.30 m boven het maaiveld geldt.' Lid 5: 'Het bevoegd gezag kan voorschriften aan de vergunning verbinden, zoals de termijn van herplant.' Beleidsnota 4.2: 'Mochten we toch een omgevingsvergunning afgeven voor snoei of kap, dan willen we wel dat de kap gecompenseerd wordt.' Beleidsnota 4.4: mensen die een boom in eigen tuin kappen 'ook zelf de kosten moeten dragen voor de herplant'. Geen financiële compensatie of boomwaarde in de tekst.",
+ "herplant_ontsnapping": "geen (lid 3: 'altijd'). Alleen de termijn van herplant is een voorschrift dat het bevoegd gezag kan stellen (lid 5). Geen betaling in plaats van herplant gevonden.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "APV 6.1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de krachtens deze verordening gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 1.4 lid 2 (nakomen voorschriften) is volgens lid 3 'niet van toepassing op een omgevingsvergunning'. Verder alleen het algemene instrumentarium (niet apart gelezen).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "APV 6.1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Geen eigen WED-aanwijzing in de APV. Via de Omgevingswet: legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit (WED via Ow 5.1, S1). Geen bestuurlijke boete voor kappen in de regeling. Handhavingsstrategie (CVDR691957_1): kappen zonder of in afwijking van de vergunning heeft prioriteit 'Gemiddeld'; geen boete of herplantregel.",
+ "procedure": "Aanvraag omgevingsvergunning; leges 2026 art. 2.30: EUR 0,00 voor de omgevingsplanactiviteit vellen van een houtopstand (art. 4.10 APV); in tabelrij 'voor het vellen en rooien van houtgewas' EUR 266,00 (context niet nader gelezen). APV 1.2 lid 4: beslistermijn APV niet van toepassing op omgevingsvergunning. Art. 4.10 lid 6: positieve fictieve beschikking (par. 4.1.3.3 Awb) van toepassing. Vergunning vervalt na 1 jaar zonder gebruik (lid 7). Bezwaar en beroep niet apart gelezen.",
+ "boom_a_80cm": "onbekend",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien; de lijst met beeldbepalende en monumentale bomen staat volgens de Beleidsnota 4.1 in het groenbeleidsplan 2013 (niet in CVDR) en moest worden geactualiseerd; Beleidsnota 4.1 zegt dat de lijst ook particuliere bomen bevat",
+ "status": "ok",
+ "ontbrekend": "Kaart van de hoofdgroenstructuur (Figuur 1 in de Beleidsnota Openbaar Groen 2021) niet als tekst of kaartlaag gevonden: omvang van de zone en het aandeel particuliere tuinen is onbekend, daarom D-bereik 1-2. Lijst met beeldbepalende en monumentale bomen (groenbeleidsplan 2013 of nieuwere lijst) niet ingezien. Gemeentelijke website (sonenbreugel.nl) leverde bij twee pogingen niets op. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV 1.2",
+  "APV 1.4",
+  "APV 4.9",
+  "APV 4.10",
+  "APV 6.1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "Beleidsnota Openbaar Groen 2021 par. 4.1, 4.2, 4.4"
+ ],
+ "opmerkingen": [
+  "D: gebiedssysteem plus lijst. De hoofdgroenstructuur (zonering met bosrijke wijken, incl. particuliere tuinen) is de breedste regel en telt als aangewezen gebied: D2 (punt), minimum 1 als de zone klein blijkt (kleine gebiedsregel). Een drempel van 15 cm diameter (omtrek 47 cm) is laag, maar binnen een aangewezen gebied geldt maximaal D2. Geen tuinuitzondering binnen de zone.",
+  "W: APV 4.10 lid 4 'kan in elk geval worden geweigerd' op waarden is W2. De geldende Beleidsnota (gemeenteraad, CVDR geldend) zegt voor de hoofdgroenstructuur 'In principe is het “nee tenzij”', een strengere toetsing: W3, minimum 2 omdat de APV zelf 'kan worden geweigerd' zegt.",
+  "H: art. 4.10 lid 3 'geldt hierbij altijd een herplantplicht' voor gevelde bomen op de lijst en in de hoofdgroenstructuur: H2. Geen verplichte financiële compensatie. Of lid 3 ook geldt na illegale kap, is niet geregeld in de tekst ('worden geveld', geen onderscheid): onbekend.",
+  "S: geen eigen WED-aanwijzing in APV 6.1; legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': S1 zonder bereik. Handhavingsstrategie kent geen boete voor kap.",
+  "Voorbeeldbomen: boom A (omtrek 80 cm, 25 cm doorsnee) is vergunningplichtig als de tuin in de hoofdgroenstructuur ligt (diameter minimaal 15 cm) en anders vrij; zonder kaart onbekend. Boom B (13 cm doorsnee) is onder de drempel van 15 cm: nee (lijstboom uitgezonderd).",
+  "Beleidsnota 4.4 kondigde aan dat dunning ook vergunningplichtig wordt; APV 4.9 onder c definieert dunning, maar art. 4.10 lid 1 en 2 noemen dunning niet apart. 'Vellen' omvat in 4.9 onder j ook fors snoeien van meer dan 50% van de kroon.",
+  "Beleidsnota 4.3: overige (gemeentelijke) bomen krijgen geen extra beschermde status; geen invloed op particuliere bomen."
+ ],
+ "modelsignalen": [
+  "Gebiedssysteem waarvan de kaart (Figuur 1 in een beleidsnota, geen CVDR-bijlage) niet beschikbaar is: INTENT.md zegt alleen wat te doen bij een lijst, niet bij een niet-ingezien gebied. Hier D-bereik 1-2 en lijstsysteem=true gezet voor de afwijkingenlijst.",
+  "Vraag of voorbeeldboom A bij een gebiedsregel 'onbekend' of 'nee' moet krijgen als de ligging van de voorbeeldtuin niet vastligt; 'onbekend' gekozen.",
+  "Een geldende beleidsnota ('In principe is het nee tenzij') die strenger is dan de verordening, maar alleen voor het gebied waarin de verordening zelf beperkt: W3 met minimum 2 gekozen (model 'strengere toetsing in beleid')."
+ ]
+}

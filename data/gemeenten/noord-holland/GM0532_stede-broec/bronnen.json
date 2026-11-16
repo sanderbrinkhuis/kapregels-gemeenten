@@ -1,0 +1,26 @@
+{
+  "gemeente": "Stede Broec",
+  "gm_code": "GM0532",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Stede Broec",
+  "zoeknaam_bekendmakingen": "Stede Broec",
+  "opgehaald_op": "2026-11-14T22:02:38+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Stede Broec\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 38,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Stede Broec\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 15,
+  "geldende_regelingen": 8,
+  "geldend_met_kapartikelen": [
+    "CVDR601042_1",
+    "CVDR641566_5",
+    "CVDR696347_2",
+    "CVDR754038_1"
+  ],
+  "bekendmakingen_besluiten": 5,
+  "bekendmakingen_aanvragen": 6,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

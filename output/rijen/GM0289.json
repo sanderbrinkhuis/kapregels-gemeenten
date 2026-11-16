@@ -1,0 +1,85 @@
+{
+ "gm_code": "GM0289",
+ "gemeente": "Wageningen",
+ "provincie": "Gelderland",
+ "brondocument": "Verordening fysieke leefomgeving gemeente Wageningen 2022 (VFL), hoofdstuk 3 Bomen, art. 3.1 t/m 3.11 en art. 9.1.1; Verordening op de heffing en de invordering van leges Wageningen 2026 art. 2.30; Beleidsregels Bomenverordening 2010 (CVDR329487_1); Beleid monumentale bomen Wageningen (CVDR329519_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR684250/2",
+ "datum_geldigheid": "VFL CVDR684250_2: geldend van 2024-04-23 t/m heden (peildatum 2026-11-15)",
+ "laatste_wijziging": "2024-04-23 (inwerkingtreding versie 2 van de VFL); legesverordening 2026 (CVDR752339_2) in werking 2026-10-29",
+ "juridische_plaats": "VFL hoofdstuk 3, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in hoofdstuk 3 van de Verordening fysieke leefomgeving Wageningen in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Zoekmethode titel: 367 bekendmakingen sinds 2025, waarvan 176 besluiten en 27 geweigerd volgens de titel. Besluiten betreffen ook kleine aantallen particuliere bomen (bijv. gmb-2026-499816: 1 boom in een voortuin verleend; gmb-2026-523036: 4 bomen geweigerd; gmb-2026-519139: 1 driestammige spar geweigerd), dus een breed regime is aannemelijk. Grondslag staat in de onderzochte besluiten niet vermeld.",
+ "vergunningplicht": "Vergunning (kapvergunning) voor houtopstand boven de drempel",
+ "drempel": "Verbod geldt niet voor 'een boom met een omtrek van de stam van maximaal 60 centimeter gemeten op 1,3 meter boven het maaiveld. In de arboreta en in Wageningen Hoog geldt een maximale omtrek van de stam van 50 centimeter' (VFL art. 3.1 lid 2 onder a)",
+ "omtrek_cm": 60,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Hele grondgebied, particulier en openbaar (art. 3.1 lid 1: 'U mag niet zonder kapvergunning een houtopstand vellen of laten vellen'). Art. 3.1 lid 4: 'Buiten het bereik van deze verordening vallen houtopstanden buiten de bebouwde kom die beschermd worden door de Wet natuurbescherming (na invoering van de Omgevingswet: de Omgevingswet).' Daarnaast een Lijst van monumentale bomen (art. 3.2; ongeacht omvang vergunningplichtig); de lijst zelf staat niet in het dossier. Het breedste regime (omtrekdrempel) bepaalt D.",
+ "uitzonderingen": "Art. 3.1 lid 2: boom tot en met 60 cm omtrek (50 cm in arboreta en Wageningen Hoog); 'een boom die op minder dan drie meter afstand van de gevel van het hoofdgebouw staat' (gemeten vanaf het midden van de voet); houtopstand in de openbare ruimte met bomenbeheerplan; eenrijig windscherm van els, populier of wilg; vruchtbomen in productieboomgaarden; windscherm om boomgaarden; kerstbomen op kweekterrein; kweekgoed. Geen van deze uitzonderingen geldt voor monumentale bomen of herplantbomen. Lid 3: ziekte (Plantenziektewet) of last op grond van art. 5:42 BW, en regulier onderhoud. Geen tuin- of perceeluitzondering met maatgrens, geen soortuitzondering voor gewone tuinbomen; de gevelstrook van 3 m telt niet als ruime tuinuitzondering (zie opmerkingen).",
+ "weigeringsgronden": "Art. 3.4 lid 2: 'Het bevoegd gezag weigert de kapvergunning als de boom aan een of meer van de volgende criteria en waarden voldoet, tenzij het belang bij het behoud van de boom niet opweegt tegen het belang om te kappen (op grond van lid 3)': gezond met levensverwachting van minimaal vijf jaar, straat- of stadsbeeld, landschappelijke, cultuurhistorische, natuur-, dendrologische en recreatie-/leefbaarheidswaarden. Lid 3: 'Het bevoegd gezag verleent alleen een kapvergunning, wanneer er geen oplossing te vinden is door beheermaatregelen, als er sprake is van maatschappelijk belang, gevaar voor de veiligheid van personen of zaken, een noodtoestand en (dreigende) extreme hinder, schade of overlast of als een houtopstand schaduwwerking op zonnepanelen veroorzaakt.' Lid 1: 'Het bevoegd gezag kan een kapvergunning weigeren of onder voorwaarden (zie artikel 3.5) verlenen.'",
+ "herplantplicht": "Art. 3.5 lid 1: 'Het college verbindt aan de kapvergunning diverse voorschriften. De volgende voorschriften kunnen bijvoorbeeld aan de vergunning verbonden worden: a. U moet binnen een bepaalde termijn en volgens de aanwijzingen in de kapvergunning herplanten. Voor Wageningen Hoog en de arboreta geldt altijd een herplantingsplicht.' Alleen een bevoegdheid (H = 1) voor de rest van de gemeente. Na illegale kap: art. 3.7 lid 1 'dan kunt u een herplantplicht opgelegd krijgen'. Financieel: art. 3.5 lid 1 onder b 'U stort een geldbedrag in het gemeentelijk Groenfonds als u niet op dezelfde plek kunt herplanten' (als mogelijk voorschrift); art. 3.7 lid 4: bij illegale kap van een monumentale boom 'moet u altijd een financiële compensatie betalen' (boomwaarde).",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kunnen bijvoorbeeld aan de vergunning verbonden worden' (art. 3.5 lid 1); het college beslist per geval. Als herplanting op dezelfde plek niet mogelijk is: 'kan het college u opleggen een bedrag te storten in het gemeentelijk Groenfonds' (art. 3.7 lid 2). Herplant na illegale kap is niet verplicht maar 'kunt u een herplantplicht opgelegd krijgen' (art. 3.7 lid 1).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 9.1.1 lid 1 en 2: 'Als aan u een voorschrift zoals bedoeld in artikel 3.5, 3.7 of 3.9 is opgelegd, zijn u en uw rechtsopvolgers verplicht dat voorschrift na te leven. Als u die verplichting niet nakomt, wordt u bestraft met een hechtenis van maximaal twee maanden of een geldboete van de tweede categorie.' Lid 3: 'Als u handelt in strijd met een van de voorschriften in artikel 3.5, 3.7, 3.9, 3.10 of 3.11 wordt u bestraft met ...'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED via de Omgevingswet: de legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit ('in samenhang met artikel 22.8 van de Omgevingswet'), dus S = 1 zonder bereik. De eigen strafbepaling VFL art. 9.1.1 geldt alleen voor overtreding van opgelegde voorschriften (art. 3.5, 3.7, 3.9, 3.10, 3.11) en niet voor het kapverbod in art. 3.1; er is geen bestuurlijke boete voor kappen in de regeling. Herplantplicht na illegale kap 'kunt u ... opgelegd krijgen' (art. 3.7 lid 1). Boete in APV art. 6:1 lid 4 betreft alleen Wet veiligheidsregio's.",
+ "procedure": "Leges 2026 art. 2.30: 1 t/m 3 bomen EUR 67,10, elke volgende boom EUR 14,50, maximum EUR 356,75. Beslistermijn APV art. 1:2 is niet van toepassing op een omgevingsvergunning; in het dossier staat geen eigen beslistermijn voor de kapvergunning. Noodkap art. 3.6: besluit binnen vijf werkdagen schriftelijk bekendgemaakt. Bezwaar en beroep: niet in het dossier. Vervaltermijn: niet in VFL.",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Lijst van monumentale bomen (VFL art. 3.2) niet ingezien; tweede, smallere laag naast het omtrekregime en daarom niet bepalend voor D.",
+ "status": "ok",
+ "ontbrekend": "Lijst van monumentale bomen (VFL art. 3.2) niet in het dossier en niet ingezien; bepalend voor D is het omtrekregime, dus geen effect op D. Bomenverordening Wageningen 2021 (CVDR660250_1, vervallen per 2024-01-01) niet gedownload; of Bomenverordening 2010 (CVDR25296_2) formeel is ingetrokken kon niet worden vastgesteld. Beslistermijn en bezwaar/beroep voor de kapvergunning niet in het dossier.",
+ "artikelnummers": [
+  "VFL art. 3.1",
+  "VFL art. 3.2",
+  "VFL art. 3.4",
+  "VFL art. 3.5",
+  "VFL art. 3.7",
+  "VFL art. 9.1.1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "Beleidsregels Bomenverordening 2010 hfst. 10 en 11"
+ ],
+ "opmerkingen": [
+  "Geldende tekst: VFL 2022, CVDR684250_2. De legesverordening 2026 (CVDR752339_2) wijst hoofdstuk 3 van de VFL aan als grondslag voor de kapvergunning; daarop is gescoord.",
+  "Twee regelingen tegelijk geldend in CVDR: Bomenverordening 2010 (CVDR25296_2, 'geldend' in CVDR) en de VFL. De VFL art. 10.1 trekt 'Bomenverordening 2021' in (CVDR660250_1, vervallen per 2024-01-01). De Bomenverordening 2010 is niet strenger: zelfde drempel 'maximaal 60 centimeter' (art. 2 lid 2 onder a), art. 5 lid 2 belangenafweging ('geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud'), herplant art. 9 lid 1 'kan'. Daarom alleen in het bereik.",
+  "D = 3: hele gemeente, drempel meer dan 60 cm omtrek (60-100 cm). Wageningen Hoog en de arboreta hebben 50 cm; dat is een kleine gebiedsregel en telt niet voor D.",
+  "W = 3 (bereik 2-3): art. 3.4 lid 3 'verleent alleen een kapvergunning, wanneer ...' (weigeren tenzij), terwijl lid 1 'kan ... weigeren' en lid 2 een afweging noemt. Beleidsregels Bomenverordening 2010 art. 3.1: 'kunnen een vergunning weigeren of onder voorschriften verlenen als de belangen van verlening niet op wegen tegen de belangen van behoud' (W = 2), niet strenger dan de VFL.",
+  "H = 1 (bereik 1-2): VFL zegt 'kunnen bijvoorbeeld'. De Beleidsregels Bomenverordening 2010 (CVDR329487_1, college, geldend in CVDR) zeggen in 10.5: 'In alle overige gevallen wordt voor elke met vergunning te kappen boom een herplantplicht opgelegd van eenzelfde aantal bomen met een omtrek van 20-25 cm', maar ook 10.1 'Herplant kan en mag echter niet willekeurig opgelegd worden' en 10.2 afzien mogelijk. Die beleidsregels horen bij de Bomenverordening 2010, niet bij de VFL waarop gescoord is, en tellen daarom alleen in het bereik. Financiele compensatie: 11 'kan de herplantplicht worden vervangen door het storten van een financiële bijdrage' (EUR 200 per boom, alleen alternatief); verhoogt H niet.",
+  "S = 1: WED via Omgevingswet (leges art. 2.30 met art. 22.8 Ow). VFL art. 9.1.1 heeft eigen strafbepaling alleen voor opgelegde voorschriften; herplant na illegale kap kan worden opgelegd (art. 3.7 lid 1). Beleidsregels 10.7: bij illegale kap 'een herplant van twee bomen opgelegd'.",
+  "Gevelstrook: art. 3.1 lid 2 onder b stelt bomen binnen 3 m van de gevel vrij. Dit is een smalle strook en sluit niet een substantieel deel van de gewone tuinbomen uit; niet als ruime tuinuitzondering (-1) geteld. Zie modelsignaal.",
+  "Monumentale bomen: art. 3.4 lid 4 'verleent het bevoegd gezag geen kapvergunning behalve ...'; lijst niet ingezien. Particuliere eigenaren worden genoemd (art. 3.2 lid 5), aantal onbekend.",
+  "Omgevingsplan (CVDR696256_3, in werking 2026-09-24) art. 22.299 bevat alleen aanvraagvereisten voor het vellen van houtopstand; de materiele kapregel staat in de VFL.",
+  "Geen bestuurlijke boete voor kappen gevonden in de regeling zelf."
+ ],
+ "modelsignalen": [
+  "Gevelstrook: een vrijstelling voor bomen binnen 3 m van de gevel van het hoofdgebouw staat in INTENT.md bij de voorbeelden van tuinuitzonderingen ('tuinen binnen een bepaalde afstand van de gevel'), maar sluit hier maar een smalle strook uit. Het model geeft geen maatgrens voor afstand, zoals wel voor oppervlakte. Hier niet als -1 geteld; met -1 zou D = 2 zijn.",
+  "Bij twee regelingen tegelijk in CVDR (VFL en een oude Bomenverordening plus bijbehorende beleidsregels) is onduidelijk of de beleidsregels van de oude verordening onder 'welk beleid telt' vallen als de verordening formeel niet is ingetrokken maar feitelijk is vervangen. Hier alleen in het bereik gezet."
+ ]
+}

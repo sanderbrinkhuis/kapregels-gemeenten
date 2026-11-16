@@ -1,0 +1,87 @@
+{
+ "gm_code": "GM0312",
+ "gemeente": "Bunnik",
+ "provincie": "Utrecht",
+ "brondocument": "Bomenverordening gemeente Bunnik 2017 (CVDR607361_1), art. 1, 2, 3, 6, 7, 10, 12; Beleidsregels Bomenverordening gemeente Bunnik (CVDR645242_1), art. 3; omgevingsplan art. 22.299 (CVDR696271_2); APV Bunnik 2026 art. 4:10 t/m 4:12 (gereserveerd) en art. 6:1 (CVDR762231_1); Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht (CVDR749381_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR607361/1",
+ "datum_geldigheid": "2018-01-18 t/m heden (peildatum 2026-11-14); beleidsregels 2020-10-28 t/m heden",
+ "laatste_wijziging": "geen wijziging na 2018-01-18 gevonden (CVDR607361 heeft één versie); beleidsregels CVDR645242_1 van 2020-10-28",
+ "juridische_plaats": "bomenverordening (Bomenverordening 2017, losse verordening met eigen strafbepaling). Het omgevingsplan art. 22.299 'Omgevingsplanactiviteit: vellen van houtopstand' bevat alleen aanvraagvereisten voor 'activiteiten die op grond van een gemeentelijke verordening in samenhang met artikel 22.8 van de Omgevingswet als vergunningplichtig zijn aangemerkt' (toelichting). APV art. 4:10 t/m 4:12 zijn 'gereserveerd'.",
+ "praktijkcontrole": "12 bekendmakingen sinds 2025 (8 aanvragen volgens titel, 3 titels 'Afgehandelde omgevingsvergunning' voor kap, 0 weigeringen volgens titel; o.a. gmb-2025-374091, gmb-2025-381698, gmb-2025-3611). Ongeveer 8 titels betreffen kap of rooien van bomen op diverse locaties; de grondslag staat niet in de titels. Dit past bij een stelsel met aangewezen bomen en beplanting; of de bomen particulier zijn, is uit de titels niet vast te stellen.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van bomen en houtopstanden die gemeentelijk eigendom zijn, landschappelijke beplanting in het buitengebied (knotbomen, houtsingels, vrijgroeiende hagen) of op de bomenlijst staan (art. 2 lid 1).",
+ "drempel": "Geen drempel voor deze categorieën. Definitie 'boom' (art. 1 sub f): 'een houtachtig, overblijvend gewas met een diameter van minimaal 25 centimeter, gemeten op 130 centimeter boven het maaiveld.' (omgerekend ca. 78,5 cm omtrek). De definitie bepaalt D niet, omdat het verbod alleen bepaalde categorieën bomen en houtopstanden treft.",
+ "omtrek_cm": 78.5,
+ "meethoogte": "1,30 m (in de definitie van 'boom')",
+ "reikwijdte": "Art. 2 lid 1: 'Het is verboden zonder omgevingsvergunning een boom of houtopstand te (doen) vellen: a. waarvan de gemeente eigenaar is; b. waarvan de gemeente onderhoudsplichtige is; c. welke deel uitmaakt van landschappelijke beplanting in het buitengebied, bestaande uit knotbomen, houtsingels of vrijgroeiende hagen; d. welke staat vermeld op de bomenlijst.' Particulier: alleen c (buitengebied, hele gemeente buiten de kom, aangewezen structuren) en d (lijst met 'waardevolle en monumentale bomen en houtopstanden'). Binnen de bebouwde kom en in tuinen geldt geen algemeen verbod.",
+ "uitzonderingen": "Art. 2 lid 3: geen verbod bij 'noodzaak tot velling wegens gevaar voor de omgeving', bij 'Plantenziektenwet of op aanschrijving', bij 'een dode boom of houtopstand, mits deze niet op de Bomenlijst staat' en bij 'dunning'. Geen tuin- of aantalsuitzondering; geen correctie op D.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de bomenlijst (art. 10) is niet in het dossier en niet online gevonden (drie requests naar bunnik.nl gaven een 404). Art. 10 lid 2: de lijst vermeldt 'de tenaamstelling van de eigenaar'; of die eigenaren particulier zijn, is niet vastgesteld. Geen telling.",
+ "weigeringsgronden": "Art. 3 lid 1: 'Het bevoegd gezag kan de omgevingsvergunning verlenen, indien het van oordeel is dat één of meer van de volgende criteria van toepassing zijn' (ziekte, lichtbeneming, schade aan infrastructuur of constructies, nutsvoorzieningen, projecten, groenstructuur en beheer). Lid 2: 'De omgevingsvergunning kan, ondanks toepasselijkheid van één of meer van de criteria als genoemd in lid 1 van dit artikel, worden geweigerd indien naar het oordeel van het bevoegd gezag het belang van verlening van de omgevingsvergunning niet opweegt tegen het belang van bescherming van de volgende waarden: a. natuur- en milieuwaarden; b. stads- en landschapsschoon en beeldbepalende waarden; c. cultuurhistorische waarden; d. waarden voor recreatie en leefbaarheid; e. waarden die hebben geleid tot plaatsing op de bomenlijst.' Beleidsregels CVDR645242_1 art. 2.2 en 2.3 werken dit uit (weigeren van monumentale bomen en toekomstbomen; puntentabel).",
+ "herplantplicht": "Verordening art. 6: 'Het bevoegd gezag kan bij de omgevingsvergunning een herplantplicht met daaraan verbonden aanwijzingen of in plaats daarvan een geldelijke bijdrage ter waarde van de herplant opleggen.' Beleidsregels art. 3 lid 2: 'Is gelijkwaardige herplant als bedoeld in het eerste lid op de locatie van de gevelde boom/bomen mogelijk, dan legt het bevoegd gezag de plicht tot herplant op die locatie op.' Lid 3 en 4 leggen herplant op een andere locatie of van een door het bevoegd gezag bepaalde soort op. Lid 5: 'Het bevoegd gezag besluit pas tot het opleggen van een geldelijke bijdrage in plaats van een herplantplicht als op grond van de vorige leden van dit artikel geen herplant mogelijk blijkt te zijn'.",
+ "herplant_ontsnapping": "Verordening: bevoegdheid ('kan'). Beleidsregels art. 3 lid 5: een geldelijke bijdrage 'in plaats van een herplantplicht' alleen als 'geen herplant mogelijk blijkt te zijn', gemotiveerd 'aan de hand van degelijk en zorgvuldig onderzoek'. Het bevoegd gezag (college) beslist per vergunning.",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 12 lid 1 Bomenverordening: 'Hij, die handelt in strijd met een bij of krachtens deze verordening gegeven ge- of verbod of verplichting, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.' Daarnaast de dwangsomrichtlijn in CVDR749381_1 onderdeel P: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "Eigen strafbepaling in de Bomenverordening (art. 12: hechtenis van ten hoogste twee maanden of geldboete tweede categorie; bij de strafmaat 'kan rekening worden gehouden met de geldelijke boomwaarde'). Geen bestuurlijke boete voor kap. APV art. 6:1 lid 3 wijst 'artikel 4:11, tweede lid' aan voor de WED, maar die APV-artikelen zijn gereserveerd (foute verwijzing). Het omgevingsplan art. 22.299 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. S = 1.",
+ "procedure": "Leges: niet gevonden in CVDR (geen legesverordening met een kaprij in de geldende treffers). Beslistermijn APV art. 1:2: acht weken, eenmaal te verlengen met ten hoogste acht weken. Publicatie en bezwaar: niet vastgesteld uit de verordening.",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "status": "ok",
+ "ontbrekend": "De bomenlijst (art. 10) is niet ingezien; niet bekend of en hoeveel particuliere bomen erop staan. De legesverordening met een kaprij is niet gevonden (leges niet vastgelegd). Of de landschappelijke beplanting buiten de bebouwde kom een substantieel deel van de gemeente bestrijkt, is niet vastgesteld (D = 2, bereik vanaf 1).",
+ "artikelnummers": [
+  "Bomenverordening art. 1",
+  "Bomenverordening art. 2",
+  "Bomenverordening art. 3",
+  "Bomenverordening art. 6",
+  "Bomenverordening art. 7",
+  "Bomenverordening art. 10",
+  "Bomenverordening art. 12",
+  "Beleidsregels Bomenverordening art. 2.1 t/m 2.4",
+  "Beleidsregels Bomenverordening art. 3",
+  "omgevingsplan art. 22.299",
+  "APV art. 1:2",
+  "APV art. 4:10 t/m 4:12",
+  "APV art. 6:1",
+  "CVDR749381_1 onderdeel P"
+ ],
+ "opmerkingen": [
+  "D = 2 (bereik 1-2): geen breed regime. Particulier geldt alleen een verbod voor 'landschappelijke beplanting in het buitengebied, bestaande uit knotbomen, houtsingels of vrijgroeiende hagen' (aangewezen structuren buiten de kom) en voor bomen op de bomenlijst. Binnen de kom en in tuinen geldt geen verbod.",
+  "W2: art. 3 lid 2 'kan ... worden geweigerd indien ... het belang van verlening ... niet opweegt tegen het belang van bescherming van ... natuur- en milieuwaarden'. Lid 1 beperkt het verlenen tot genoemde criteria; daarom ligt W3 niet ver weg, maar de criteria zijn breed en lid 2 is een afweging.",
+  "H2: de verordening zegt 'kan' (art. 6), maar de vastgestelde beleidsregels art. 3 lid 2 zeggen 'legt het bevoegd gezag de plicht tot herplant op die locatie op'. Volgens het besluit van 14-11-2026 telt de beleidsregel. De geldelijke bijdrage is niet verplicht maar komt alleen in beeld als herplant niet mogelijk is (geen H3).",
+  "S1 zonder bereik: eigen strafbepaling art. 12 en het omgevingsplan noemt het vellen een omgevingsplanactiviteit. Foute verwijzing in APV art. 6:1 lid 3 naar het gereserveerde art. 4:11 lid 2.",
+  "Bomenverordening 2017 verwijst nog naar de Wabo en de Wet natuurbescherming; of en hoe zij sinds 2024 als onderdeel van het tijdelijke deel van het omgevingsplan werkt, staat niet in de teksten. Dit verandert S niet.",
+  "Definitie 'boom' (25 cm diameter, ca. 78,5 cm omtrek) geldt voor lijstbomen en beplanting niet als drempel voor D.",
+  "Boomspiegelbeplanting (CVDR338256_1) gaat over onderhoud van openbaar groen en telt niet mee."
+ ],
+ "modelsignalen": [
+  "Bunnik: beschermde particuliere beplanting alleen buiten de bebouwde kom (knotbomen, houtsingels, hagen) plus lijst; niet duidelijk of dit 'aangewezen gebieden of structuren' (D2) is of 'individueel aangewezen' (D1). Het model geeft geen criterium voor het soort structuur.",
+  "Bunnik: art. 3 lid 1 'kan verlenen indien' (beperkte verleningsgronden) gevolgd door een weigeringsafweging in lid 2 valt tussen W2 en W3."
+ ]
+}

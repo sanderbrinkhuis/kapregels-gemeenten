@@ -1,0 +1,70 @@
+{
+  "gm_code": "GM1690",
+  "gemeente": "De Wolden",
+  "provincie": "Drenthe",
+  "brondocument": "Algemene Plaatselijke Verordening De Wolden (CVDR748165_1), afdeling 4.3 Het bewaren van houtopstanden, art. 4:10-4:12e en 6:1; leges CVDR752771_1 art. 2.30; Omgevingsplan CVDR696479_3 art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR748165/1",
+  "datum_geldigheid": "2026-01-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "APV CVDR748165_1 in werking 2026-01-01 (enige versie van dit CVDR-nummer in het dossier)",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('in samenhang met artikel 22.8 van de Omgevingswet') en APV art. 6:1 lid 2 (WED). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Bekendmakingen sinds 2025 (titelzoekopdracht): 60 totaal, 24 besluiten, 34 aanvragen, 0 geweigerd volgens titel. Zeven van tien steekproefbesluiten noemen 'Omgevingsplanactiviteit: vellen van houtopstand (artikel 5.1 lid 1 sub a Ow)'. Aantal besluiten past bij een beperkt stelsel (lijst en wegstrook).",
+  "vergunningplicht": "Omgevingsvergunning van het bevoegd gezag, alleen voor houtopstand op de waardevolle bomenlijst, gemeentelijke houtopstand binnen de bebouwingscontour houtkap, en houtopstand van minimaal 40 cm doorsnede binnen 10 m van het midden van de weg.",
+  "drempel": "Voor de wegstrook: doorsnede minimaal 40 cm op 1,30 m (art. 4:11 lid 1 sub c); voor de lijst geen drempel. Definitie boom: minimaal 10 cm doorsnede.",
+  "omtrek_cm": 126,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Particuliere bomen: (a) bomen op de lijst van waardevolle bomen in particulier eigendom (art. 4:12e) en (b) alle houtopstand van minimaal 40 cm doorsnede in een strook van 10 m vanaf het midden van de weg, ongeacht eigendom. Gemeentelijke houtopstand alleen binnen de bebouwingscontour houtkap.",
+  "uitzonderingen": "Art. 4:11 lid 3: Plantengezondheidswet of aanschrijving, periodiek vellen van hakhout, periodiek knotten of kandelaberen. Lid 2: spoedeisend belang of direct gevaar.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:12a lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie en leefbaarheid.'",
+  "herplantplicht": "Art. 4:12b: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant.' Art. 4:12c lid 1: na illegale kap 'kan het bevoegd gezag ... de verplichting opleggen herplant te plegen'. Geen beleidsregel over herplant in het dossier. De Compensatieverordening bos, natuur en landschap (CVDR50408_1) gaat over ruimtelijke ingrepen in bos- en natuurgebieden, niet over kap van particuliere bomen.",
+  "herplant_ontsnapping": "Bevoegdheid per geval door het bevoegd gezag ('kan'); geen betaling in plaats van herplant.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen specifieke bepaling over het niet nakomen van een herplantvoorschrift. Algemeen: APV art. 6:1 lid 1 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "APV art. 6:1 lid 1: hechtenis tot drie maanden of geldboete tweede categorie; lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, eerste lid' (WED-aanwijzing in regeling). Geen bestuurlijke boete.",
+  "procedure": "Leges CVDR752771_1 art. 2.30: EUR 135,75 per aanvraag omgevingsplanactiviteit kappen. Beslistermijn: APV art. 1:2 (algemeen). Bezwaar en beroep volgens Awb.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst niet ingezien. Art. 4:12e lid 1: de lijst bevat per definitie bomen 'welke in particulier eigendom zijn'. Gemeentewebsite (dossier Waardevolle bomen) beschrijft de lijst sinds 2012 maar toont geen aantallen.",
+  "status": "ok",
+  "ontbrekend": "Aantal bomen op de waardevolle bomenlijst niet gevonden (lijst niet online gevonden). Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4:12a, 4:12b, 4:12c, 4:12e, 6:1",
+    "Leges CVDR752771_1 art. 2.30",
+    "Omgevingsplan CVDR696479_3 art. 22.299"
+  ],
+  "opmerkingen": [
+    "Gecombineerd systeem: lijst met particuliere waardevolle bomen plus een algemene strook van 10 m langs wegen voor bomen vanaf 40 cm doorsnede (126 cm omtrek, hoge drempel). Gescoord als aangewezen structuur met hoge drempel: D = 2. Het bereik 1-2 zou gelden als de wegstrook niet als substantieel telt; puntschatting 2 omdat de strook langs alle wegen in de gemeente loopt.",
+    "Boom A en B in een achtertuin: alleen vergunningplichtig als de boom op de lijst staat; de wegstrook geldt niet voor stammen onder 40 cm doorsnede.",
+    "W = 2: 'kan de vergunning weigeren ... in het belang van onder meer' natuur- en landschapswaarden. H = 1: 'kan behoren het voorschrift ... herplant'. S = 1: WED-aanwijzing via art. 6:1 lid 2.",
+    "Opgelost (besluit gebruiker 14-11-2026): een kapregel die alleen geldt in een strook langs wegen telt als uitzondering van achtertuinen. D = hoge drempel (2) min 1 = 1, zoals bij Tynaarlo (alleen voorerf)."
+  ],
+  "modelsignalen": []
+}

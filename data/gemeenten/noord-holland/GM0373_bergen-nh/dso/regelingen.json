@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0373/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Bergen NH",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0373/2020/omgevingsplan/nld@9",
+    "beginGeldigheid": "2024-08-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0373_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0373/2026/2_6",
+    "titel": "Deelprogramma Karakteristieke bouwwerken (incl. Stolpen)",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0373/2026/2_6/nld@14",
+    "beginGeldigheid": "2026-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0373_2026_2_6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0373/2026/10_4",
+    "titel": "voorbereidingsbesluit Cultuurhistorie Bergen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0373/2026/10_4/nld@12",
+    "beginGeldigheid": "2026-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0373_2026_10_4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0373/2026/2_8",
+    "titel": "Omgevingsprogramma Landelijk gebied gemeente Bergen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0373/2026/2_8/nld@16",
+    "beginGeldigheid": "2026-06-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0373_2026_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0373/2026/2_3",
+    "titel": "Erfgoedprogramma gemeente Bergen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0373/2026/2_3/nld@11",
+    "beginGeldigheid": "2026-07-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0373_2026_2_3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:15Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0373/2026/2_10",
+    "titel": "Warmteprogramma",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0373/2026/2_10/nld@18",
+    "beginGeldigheid": "2026-10-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0373_2026_2_10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:15Z"
+  }
+]

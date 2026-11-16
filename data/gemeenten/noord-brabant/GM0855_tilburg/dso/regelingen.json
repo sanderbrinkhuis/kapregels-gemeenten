@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0855/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Tilburg",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0855/2020/omgevingsplan/nld@2024-02-28;2",
+    "beginGeldigheid": "2024-03-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0855_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0855/2025/Regelingf5276d12173541b1844c2918f45279e0",
+    "titel": "Voorbereidingsbesluit 'zone gewasbeschermingsmiddelen Stokhasseltlaan'",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0855/2025/Regelingf5276d12173541b1844c2918f45279e0/nld@2025-05-20;12142781",
+    "beginGeldigheid": "2025-05-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0855_2025_Regelingf5276d12173541b1844c2918f45279e0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0855/2025/Regelingdcbe2fdbee5241758a85e5c598594764",
+    "titel": "Omgevingsprogramma Kenniskwartier",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0855/2025/Regelingdcbe2fdbee5241758a85e5c598594764/nld@2025-09-30;07223683",
+    "beginGeldigheid": "2025-10-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0855_2025_Regelingdcbe2fdbee5241758a85e5c598594764?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0855/2026/Regelingfb65bd817377468e9824282224a76fa2",
+    "titel": "Omgevingsprogramma Omgevingskwaliteit met beleidsregels",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0855/2026/Regelingfb65bd817377468e9824282224a76fa2/nld@2026-02-13;08043034",
+    "beginGeldigheid": "2026-02-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0855_2026_Regelingfb65bd817377468e9824282224a76fa2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0855/2026/Regeling6f50bb43241d48c79336ccaabd8a0d9a",
+    "titel": "Voorbereidingsbesluit beperken logistiek Vossenberg",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0855/2026/Regeling6f50bb43241d48c79336ccaabd8a0d9a/nld@2026-05-18;14055951",
+    "beginGeldigheid": "2026-05-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0855_2026_Regeling6f50bb43241d48c79336ccaabd8a0d9a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:04Z"
+  }
+]

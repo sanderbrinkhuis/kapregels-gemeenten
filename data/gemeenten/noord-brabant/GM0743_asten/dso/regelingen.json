@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0743/2024/programma-externe-veiligheid-2024",
+    "titel": "Programma Externe Veiligheid gemeente Asten 2024",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0743/2024/programma-externe-veiligheid-2024/nld@2024-03-06;1",
+    "beginGeldigheid": "2024-03-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2024_programma_externe_veiligheid_2024?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0743/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Asten",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0743/2020/omgevingsplan/nld@2024-08-12;3",
+    "beginGeldigheid": "2024-08-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0743/2024/omgevingsvisieAsten",
+    "titel": "Omgevingsvisie van de gemeente Asten",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0743/2024/omgevingsvisieAsten/nld@2024-09-30;1",
+    "beginGeldigheid": "2024-09-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2024_omgevingsvisieAsten?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0743/2025/programmakostenverhaal",
+    "titel": "Programma kostenverhaal stedelijke ontwikkelingen: Financiële bijdragen voor ontwikkelingen van een gebied",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0743/2025/programmakostenverhaal/nld@2025-06-13;1",
+    "beginGeldigheid": "2025-06-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2025_programmakostenverhaal?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0743/2025/vbb-omgevingsplan-20251112-084631",
+    "titel": "Voorbereidingsbesluit Hof van Bluyssen gemeente Asten 2025",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0743/2025/vbb-omgevingsplan-20251112-084631/nld@2025-11-17;1",
+    "beginGeldigheid": "2025-11-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2025_vbb_omgevingsplan_20251112_084631?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0743/2025/programmaBKP-Asten",
+    "titel": "Programma beeldkwaliteitsplan Centrum Asten",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0743/2025/programmaBKP-Asten/nld@2026-03-30;1",
+    "beginGeldigheid": "2026-03-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2025_programmaBKP_Asten?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0743/2026/programma-wrp-asten",
+    "titel": "Water- en rioleringsprogramma gemeente Asten",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0743/2026/programma-wrp-asten/nld@2026-07-22;1",
+    "beginGeldigheid": "2026-07-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0743_2026_programma_wrp_asten?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:34Z"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "gm_code": "GM0534",
+  "gemeente": "Hillegom",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene plaatselijke verordening Hillegom 2024, afd. 4.3 art. 4:10-4:12e en art. 6:1; Verordening op de heffing en invordering van leges Hillegom 2026 art. 2.30; omgevingsplan (bruidsschat) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR710712/2",
+  "datum_geldigheid": "geldend van 2026-03-04 t/m heden (CVDR710712_2)",
+  "laatste_wijziging": "versie 2, in werking 2026-03-04",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.30 (CVDR751004_1, in samenhang met art. 22.8 Ow) en art. 22.299 (aanvraagvereisten, restant bruidsschat). Geen kapregel in het omgevingsplan zelf.",
+  "praktijkcontrole": "18 bekendmakingen sinds 2025 (3 besluiten, 11 aanvragen, 0 weigeringen volgens titel; zoekmethode titel). Steekproef van 3 besluiten (o.a. gmb-2025-450624) noemt geen grondslag voor kap. Klein aantal, past bij een lijst- en vlakkensysteem.",
+  "vergunningplicht": "Waardevolle Bomen: verbod met ontheffing (art. 4:11b lid 1-2). Bomen op een Waardevol Boomvlak en bomen die zijn aangeplant op grond van een herplantplicht: verbod zonder omgevingsvergunning (art. 4:11b lid 3). Overige bomen: geen toestemming nodig.",
+  "drempel": "Waardevolle Bomen: geen drempel (lijst). Waardevol Boomvlak: 'boom' = stamdiameter van minimaal 15 cm op 1,30 m (art. 4:10 onder b); geen drempel voor bomen als bedoeld in 'artikelen 8, 9 en 10 van deze verordening' (die artikelen bestaan niet in deze APV-afdeling).",
+  "omtrek_cm": 47,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Hele gemeente. Alleen (a) Waardevolle Bomen op de Waardevolle Bomenlijst en -kaart (lijst = bomen uit het landelijke register van Monumentale bomen van de Bomenstichting, aangevuld met Waardevolle Bomen; lijst vermeldt ook de eigenaar), (b) bomen op een door het college aangewezen Waardevol Boomvlak (gebied op de Waardevolle Bomenkaart) en (c) bomen die zijn aangeplant op grond van een herplantplicht. De regeling bevestigt dat particuliere bomen op de lijst staan (art. 4:11c lid 1 onder c). Lijst en kaart zijn niet ingezien; het aantal en de omvang van de Boomvlakken is onbekend.",
+  "uitzonderingen": "Art. 4:11b lid 4: niet voor bomen die geveld moeten worden krachtens een aanschrijving van het college, periodiek vellen van hakhout, scheren/knotten/kandelaberen bij vormbomen, snoeien bij achterstallig onderhoud, dunning, velling in het kader van een herinrichtingsplan, en houtopstand als bedoeld in art. 15 lid 2 en 3 Boswet. Noodkap: lid 5. Alle gangbare uitzonderingen; geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien (Waardevolle Bomenlijst en -kaart staan niet in CVDR; hillegom.nl niet gevonden)",
+  "weigeringsgronden": "Boomvlak (art. 4:11c lid 2): 'kan de vergunning voor het vellen van een boom als bedoeld in artikel 4:11b, derde lid, worden geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de boom' op grond van natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende, cultuurhistorische waarde en waarde voor de leefbaarheid. Waardevolle Bomen (art. 4:11c lid 1): 'kan een ontheffing als bedoeld in artikel 4:11b, tweede lid, voor het vellen van een Waardevolle Boom, mits alternatieven voor behoud zijn onderzocht, slechts worden verleend:' bij gevaar of schade, of (particulier) algemeen maatschappelijk belang of zwaarwegend individueel belang.",
+  "herplantplicht": "Art. 4:12b lid 1: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant'. Na illegale kap: art. 4:12c lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'. Geen beleidsregel over herplant, compensatie of handhaving in het dossier. Het compensatieplan (art. 4:12 lid 2) gaat over projecten.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); bevoegd gezag beslist per geval; geen betaling in plaats van herplant geregeld",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12b lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste of het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling APV art. 6:1 (hechtenis tot 3 maanden of geldboete tweede categorie), algemeen voor de hele APV; geen WED-aanwijzing in de APV en geen bestuurlijke boete. Wel omgevingsplanactiviteit: leges art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening Hillegom in samenhang met artikel 22.8 van de Omgevingswet' (WED via Ow 5.1). Herplant na illegale kap: 'kan' (art. 4:12c).",
+  "procedure": "Omgevingsvergunning of ontheffing, schriftelijk en gemotiveerd aan te vragen (art. 4:12). Leges € 102,00 (art. 2.30). Beslistermijn art. 1:2 niet van toepassing op omgevingsvergunning (Ow-termijnen). Vergunning vervalt na 3 jaar (art. 4:12a). Bezwaar en beroep volgens Awb.",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "onzeker",
+  "ontbrekend": "Waardevolle Bomenlijst, Waardevolle Bomenkaart en de aangewezen Waardevol Boomvlakken niet gevonden (niet in CVDR; geen pagina op hillegom.nl gevonden). Daardoor onbekend of en hoeveel Boomvlakken er zijn en hoeveel particuliere bomen beschermd zijn. Omgevingsplan in het DSO niet geraadpleegd.",
+  "artikelnummers": [
+    "APV 2024: art. 1:4, 1:8, 4:10, 4:11a, 4:11b, 4:11c, 4:12, 4:12a, 4:12b, 4:12c, 6:1",
+    "Legesverordening 2026: art. 2.30",
+    "Omgevingsplan: art. 22.299"
+  ],
+  "opmerkingen": [
+    "D2 (minimum 1): art. 4:11b lid 3 beschermt 'bomen te vellen die a. staan op een Waardevol Boomvlak', een gebied dat het college op de kaart aanwijst; kaart niet ingezien, dus D = 2 met minimum 1 (kaartregel INTENT.md). Zonder Boomvlakken blijft alleen de lijst over (D1).",
+    "W2 (2-3): voor Boomvlakken 'kan de vergunning ... worden geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de boom'; voor Waardevolle Bomen is de ontheffing een gesloten lijst ('slechts worden verleend', W3). Het deel van de bomen dat het grootste is, is niet vast te stellen.",
+    "H1: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant' (art. 4:12b lid 1). Geen beleidsregel die herplant verplicht stelt.",
+    "S1: leges art. 2.30 maakt het vellen een omgevingsplanactiviteit; de verwijzing naar 'artikel 4:11' klopt niet (de artikelen heten 4:11a en 4:11b). Daarnaast 'kan' herplant na illegale kap worden opgelegd (art. 4:12c).",
+    "Hillegom, Lisse en Teylingen werken samen (HLT, zelfde APV-opzet en leges). Het omgevingsplan (bruidsschat CVDR696348_4) bevat alleen aanvraagvereisten (art. 22.299), geen kapverbod; dat is gecontroleerd op de termen houtopstand, boom en vellen.",
+    "Boom B (omtrek 40 cm, ca. 13 cm doorsnee) valt ook op een Boomvlak onder de drempel van 15 cm diameter. Boom A (ca. 25 cm) valt alleen onder het verbod als de tuin op een Boomvlak ligt of de boom op de lijst staat.",
+    "Art. 4:10 onder b verwijst naar 'artikelen 8, 9 en 10 van deze verordening' (overblijfsel van een oude bomenverordening; bestaan niet in deze APV)."
+  ],
+  "modelsignalen": [
+    "Kaart met Boomvlakken niet ingezien: het model kent bij een vlakkenkaart zonder inzage D = 2 met minimum 1 (kaartregel), terwijl het onbekend is of er Boomvlakken bestaan of dat die substantieel zijn. Advies: handhaaf de kaartregel, maar markeer in het rapport dat Hillegom afhangt van een niet-ingezien kaart (betrouwbaarheid laag).",
+    "Leges verwijst naar een artikel dat niet bestaat ('4:11', terwijl de verbodsartikelen 4:11a en 4:11b heten). Advies: behandel als foute verwijzing zoals in INTENT.md (omgevingsplanactiviteit blijft bewezen, S = 1).",
+    "Gemengd regime (lijst met ontheffing 'slechts verleend' en vlak met 'kan worden geweigerd'): het model zegt W te scoren op het grootste deel van de gedekte bomen, maar dat deel is zonder lijst en kaart niet te bepalen. Advies: W-bereik 2-3 handhaven met punt 2 (het regime van het vlak dat D bepaalt)."
+  ]
+}

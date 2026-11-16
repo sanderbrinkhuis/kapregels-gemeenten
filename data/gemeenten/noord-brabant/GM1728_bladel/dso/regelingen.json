@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1728/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Bladel",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1728/2020/omgevingsvisie/nld@2025-10-09;1598fc3a3c754a53887ec8a2ec49530b",
+    "beginGeldigheid": "2025-10-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1728_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1728/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Bladel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1728/2020/omgevingsplan/nld@2026-07-09;4ffd4b4c956644be976140a24496ac4d",
+    "beginGeldigheid": "2026-08-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1728_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:10Z"
+  }
+]

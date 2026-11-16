@@ -1,0 +1,91 @@
+{
+  "gm_code": "GM0502",
+  "gemeente": "Capelle aan den IJssel",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Verordening fysieke leefomgeving Capelle aan den IJssel 2024, hoofdstuk 6 Bomen (art. 6:1 t/m 6:8, 6:13) en art. 1:1, 1:2, 1:3, 8:2 (CVDR727492_1); Verordening op de heffing en de invordering van leges, art. 2.30 (CVDR753251_1); Subsidieregeling particuliere monumentale en waardevolle bomen 2015 (CVDR355759_1); APV 2018 art. 4:10 t/m 4:12 'Gereserveerd' (CVDR610246_11)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR727492/1 ; https://lokaleregelgeving.overheid.nl/CVDR753251/1 ; https://lokaleregelgeving.overheid.nl/CVDR355759/1",
+  "datum_geldigheid": "VFL CVDR727492_1 geldend van 2024-11-27 t/m heden; leges CVDR753251_1 geldend van 2025-12-30 t/m heden; subsidieregeling CVDR355759_1 geldend van 2015-01-01 t/m heden. Peildatum 2026-11-16.",
+  "laatste_wijziging": "VFL: alleen versie 1 (2024-11-27), niet gewijzigd. Leges: versie 1 per 2025-12-30. APV 2018 versie 11 per 2026-11-03 (afdeling houtopstanden al 'Gereserveerd').",
+  "juridische_plaats": "VFL (hoofdstuk 6 Bomen); werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('omgevingsplanactiviteit ... bestaande uit het vellen van een houtopstand ... in samenhang met artikel 22.8 van de Omgevingswet'). Het omgevingsplan (CVDR696333_7) heeft alleen aanvraagvereisten (art. 22.299) en een gebiedsregel voor een klein gebied (art. 21.124 onder a, 's-Gravenweg).",
+  "praktijkcontrole": "Sinds 2025: 28 kapbekendmakingen op officielebekendmakingen.nl (titelzoekopdracht classificeert er 0 als besluit of aanvraag, 0 geweigerd), waaronder 'Aanvraag vergunning (DSO-Capelle)' voor het kappen van een berk in een achtertuin (gmb-2025-169265) en verleende omgevingsvergunningen voor groepen bomen (o.a. gmb-2026-76821, gmb-2026-175729). Indicatie: ook tuinbomen vallen soms onder de vergunningplicht; de grondslag staat niet in de besluiten. Past bij Groene Kaart met boomzones, maar de kaart is niet ingezien.",
+  "vergunningplicht": "Omgevingsvergunning (ontheffing van het kapverbod) voor het vellen van een beschermde houtopstand, dat is houtopstand die op de Groene Kaart is vastgelegd",
+  "drempel": "Geen omtrekdrempel voor de Groene Kaart zelf. Begripsbepaling 'boom' art. 1:1 onder k: 'een dwarsdoorsnede van de stam van minimaal 10 centimeter op 1,3 meter hoogte boven het maaiveld' (kleiner mag bij monumentale of waardevolle bomen op de lijst)",
+  "omtrek_cm": 31.4,
+  "meethoogte": "1,3 m (10 cm x 3,14 = 31,4 cm omtrek; alleen de ondergrens van het begrip boom)",
+  "reikwijdte": "Hele gemeente, alleen houtopstand op de Groene Kaart. Art. 6:1 lid 1: 'De kaart en het bijbehorend register bevatten een samenhangend geheel van de volgende houtopstanden: a. boomzones; b. boomstructuren; c. bomen uit het landelijk Register van Monumentale Bomen van de Bomenstichting en lokale monumentale en waardevolle bomen; d. particuliere en gemeentelijke beschermde houtopstanden.' Boomzone: 'begrensd gebied met houtopstanden die tezamen een functioneel geheel vormen' (art. 1:1 onder n). Kaart niet ingezien, dus onbekend hoeveel particuliere tuinen in een boomzone liggen.",
+  "uitzonderingen": "Art. 6:2 lid 4: alleen gangbare uitzonderingen (Plantgezondheidswet of aanschrijving, periodiek vellen van hakhout, knotten of kandelaberen als regulier onderhoud). Geen tuin-, soort- of maatuitzondering; wel geldt alleen wat op de Groene Kaart staat.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "particuliere monumentale en waardevolle bomen volgens de toelichting bij de Subsidieregeling CVDR355759_1 (2015, geldend in CVDR): 'Er zijn 78 particuliere bomen aangewezen als monumentaal of waardevol'. Zones en structuren zijn daar niet in geteld. Groene Kaart zelf niet ingezien (website niet gevonden); totaal onbekend.",
+  "weigeringsgronden": "Art. 6:4 lid 2: 'Een ontheffing voor het vellen van een beschermde houtopstand kan, mits alternatieven voor behoud uitputtend zijn onderzocht, slechts bij uitzondering worden verleend indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand of; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.' Toelichting art. 6.2: 'in beginsel een ontheffing slechts bij hoge uitzondering wordt verleend'. Gesloten verleningsgronden: W3.",
+  "herplantplicht": "Art. 6:7 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat de boomwaarde dient te worden vergoed ten behoeve van de gemeentelijke herplant (financiële herplantplicht).' Beide zijn een bevoegdheid (H1). Na illegale kap (telt niet voor H): art. 6:8 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten' en lid 2 'Indien niet ter plaatse kan worden herplant wordt de boomwaarde vergoed'. Geen beleidsregel over herplant gevonden in CVDR.",
+  "herplant_ontsnapping": "Geen plicht zolang het college niets oplegt: 'kan' (art. 6:7 lid 1). Het college beslist per geval. Uitweg bij niet-ter-plaatse-herplant: boomwaarde vergoeden, maar ook dat is 'kan' (art. 6:7 lid 2).",
+  "sancties": "WED via Ow 5.1: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. De toelichting op art. 6.13 VFL zegt: 'Het handelen zonder omgevingsvergunning of het handelen in strijd met een omgevingsvergunning is strafbaar gesteld in de Wet economische delicten.' Daarnaast algemene strafbepaling art. 8:2 lid 1: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Geen bestuurlijke boete. Herplant na illegale kap: art. 6:8 (kan).",
+  "procedure": "Omgevingsvergunning. Leges art. 2.30 (CVDR753251_1): € 97,86. Art. 1:2 VFL: 'beslist op een aanvraag voor een vergunning of ontheffing binnen acht weken'; bekendmaking in het gemeenteblad. Bezwaar en beroep volgens Awb (bezwaar binnen zes weken volgens de bekendmakingen).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Voorschrift in de omgevingsvergunning (art. 6:7). Art. 1:3 onder b: 'degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Art. 8:2 lid 1: 'Overtreding van het bij of krachtens hoofdstuk 2 tot en met 7 bepaalde en de op grond van artikel 1:3 daarbij gegeven voorschriften en beperkingen ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "De Groene Kaart met register (VFL art. 6:1) is niet ingezien: niet bekend hoeveel en welke particuliere tuinen in boomzones of boomstructuren vallen, en hoeveel bomen er in totaal zijn. Het Capelse Bomenbeleidsplan en het boomwaarderingssysteem staan niet als beleidsregel in CVDR.",
+  "artikelnummers": [
+    "VFL 1:1 onder f, k, l, n, x, aa, nn",
+    "VFL 1:2",
+    "VFL 1:3",
+    "VFL 6:1",
+    "VFL 6:2",
+    "VFL 6:4",
+    "VFL 6:7",
+    "VFL 6:8",
+    "VFL 6:13 (toelichting)",
+    "VFL 8:2",
+    "Leges 2.30",
+    "Omgevingsplan 22.299 en 21.124",
+    "APV 2018 4:10 t/m 4:12 (gereserveerd)"
+  ],
+  "opmerkingen": [
+    "Regeling: VFL 2024 vervangt de Bomenverordening 2013 (art. 8:4 lid 2 'De Bomenverordening Capelle aan den IJssel 2013 wordt ingetrokken'). APV 2018 art. 4:10, 4:11 en 4:12 zijn 'Gereserveerd'.",
+    "D: art. 6:1 lid 1 beschermt zelf boomzones en boomstructuren (aangewezen gebieden en structuren) naast losse bomen. Kaart niet ingezien: D = 2 met minimum 1 (besluit 16-11-2026). Dekking van particuliere tuinen door zones onbekend. Hoogstens D 2 volgens het model.",
+    "W: 'slechts bij uitzondering ... indien' met een gesloten lijst van twee gronden (art. 6:4 lid 2) is weigeren-tenzij, W3 zonder bereik (besluit 15-11-2026 gesloten verleningsgronden). Art. 6:4 lid 1: 'Het bevoegd gezag kan de ontheffing om te vellen weigeren dan wel onder voorschriften verlenen.'",
+    "H1: 'kan' in art. 6:7; geen vastgestelde beleidsregel gevonden die herplant verplicht maakt. Herplant en vergoeding na illegale kap (art. 6:8) zijn ook 'kan', en tellen niet voor H.",
+    "S1 zonder bereik: leges noemt het vellen een omgevingsplanactiviteit. Foute verwijzing in de leges: 'artikel 3.5.2 van de Verordening Fysieke Leefomgeving' bestaat niet; het kapverbod staat in art. 6:2. Ook art. 6:2 lid 3 verwijst naar 'artikelen 7:7 en 7:8' (die gaan over monumenten) in plaats van 6:7 en 6:8. Art. 6.13 toelichting noemt ook de WED en een maximale geldboete van € 19.500 (€ 78.000 bij hoge boomwaarde).",
+    "Verwijzing 'Artikel 6:9 Schadevergoeding' en leges: geen bestuurlijke boete in de regeling.",
+    "Kleine gebiedsregel (telt niet voor D): omgevingsplan art. 21.124 lid a, vergunning voor het vellen van 'waardevolle bomen en structuurbomen zoals opgenomen in de vigerende Groene kaart' ter plaatse van een enkele overige zone (de 's-Gravenweg).",
+    "Voorbeeldbomen: de definitie van boom (10 cm doorsnede) maakt boom B (13 cm) tot een boom, maar vergunning is alleen nodig als hij op de Groene Kaart staat (onbekend). Beide dus 'alleen als op lijst'.",
+    "Particuliere bomen op de lijst: toelichting subsidieregeling (CVDR355759_1, geldend; hoort bij de Bomenverordening 2013, die is ingetrokken, maar de regeling staat nog als geldend en verwijst naar de Groene Kaart): 'Er zijn 78 particuliere bomen aangewezen als monumentaal of waardevol'. Peildatum van dat aantal 2014/2015.",
+    "Eigenaren van beschermde houtopstand kunnen subsidie krijgen voor onderhoud (VFL art. 6:1 lid 5; subsidieregeling: maximaal 50% met een maximum van € 500 per boom). Dat zegt niets over de score.",
+    "Praktijk: 28 kapbekendmakingen in 2025-2026; een aanvraag voor een berk in een achtertuin (gmb-2025-169265) kan wijzen op een achtertuin in een boomzone of op een ruimer regime dan de tekst; niet vast te stellen zonder kaart.",
+    "Gevaar of spoed, plantenziekte en regulier onderhoud zijn gangbare uitzonderingen (art. 6:2 lid 4) en tellen niet.",
+    "Nabewerking 16-11-2026: aantal van 78 particuliere bomen (toelichting subsidieregeling 2015, hoort bij de ingetrokken Bomenverordening 2013) niet meer ingevuld; de huidige Groene Kaart (VFL 2024) is niet ingezien (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Groene Kaart met boomzones: de verbodstekst beschermt een gebied of structuur (D2, min 1), maar of dat de gewone achtertuin raakt, hangt van de kaart af. Praktijkcontrole (achtertuinberk met vergunningaanvraag) wijst op dekking die het model niet ziet. Advies: kaart via Groene Kaart/DSO opzoeken; zonder kaart D2 min 1 laten staan."
+  ]
+}

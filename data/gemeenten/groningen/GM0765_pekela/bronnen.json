@@ -1,0 +1,28 @@
+{
+  "gemeente": "Pekela",
+  "gm_code": "GM0765",
+  "provincie": "Groningen",
+  "zoeknaam_cvdr": "Pekela",
+  "zoeknaam_bekendmakingen": "Pekela",
+  "opgehaald_op": "2026-11-14T14:42:30+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Pekela\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 40,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Pekela\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 110,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR696397_2",
+    "CVDR703677_1",
+    "CVDR743494_1",
+    "CVDR745383_1",
+    "CVDR752597_1",
+    "CVDR756134_1"
+  ],
+  "bekendmakingen_besluiten": 11,
+  "bekendmakingen_aanvragen": 55,
+  "bekendmakingen_geweigerd": 10,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

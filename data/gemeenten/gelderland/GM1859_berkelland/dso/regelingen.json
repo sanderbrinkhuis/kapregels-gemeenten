@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1859/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Berkelland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1859/2020/omgevingsplan/nld@2025-09-26;08500180",
+    "beginGeldigheid": "2025-09-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1859_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1859/2025/Regeling885cfcc7519741c6ac3e33e0a39e15e8",
+    "titel": "Volkshuisvestingsprogramma 2026-2035 gemeente Berkelland",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1859/2025/Regeling885cfcc7519741c6ac3e33e0a39e15e8/nld@2026-02-27;07522949",
+    "beginGeldigheid": "2026-03-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1859_2025_Regeling885cfcc7519741c6ac3e33e0a39e15e8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:45Z"
+  }
+]

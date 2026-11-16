@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0518/2025/Regeling71612830b2404b48980d076ae29de94e",
+    "titel": "Programma actieplan geluid gemeente Den Haag",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0518/2025/Regeling71612830b2404b48980d076ae29de94e/nld@2025-11-21;13232353",
+    "beginGeldigheid": "2025-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0518_2025_Regeling71612830b2404b48980d076ae29de94e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0518/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Den Haag",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0518/2020/omgevingsplan/nld@2025-12-18;10314897",
+    "beginGeldigheid": "2026-01-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0518_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0518/2025/Regeling8453603b20e5408f8d0f02f9d9e2e8b9",
+    "titel": "Omgevingsvisie gemeente Den Haag",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0518/2025/Regeling8453603b20e5408f8d0f02f9d9e2e8b9/nld@2026-03-18;08561680",
+    "beginGeldigheid": "2026-03-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0518_2025_Regeling8453603b20e5408f8d0f02f9d9e2e8b9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:52Z"
+  }
+]

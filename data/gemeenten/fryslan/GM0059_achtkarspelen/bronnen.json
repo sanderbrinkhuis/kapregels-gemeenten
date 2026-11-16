@@ -1,0 +1,29 @@
+{
+  "gemeente": "Achtkarspelen",
+  "gm_code": "GM0059",
+  "provincie": "Fryslân",
+  "zoeknaam_cvdr": "Achtkarspelen",
+  "zoeknaam_bekendmakingen": "Achtkarspelen",
+  "opgehaald_op": "2026-11-14T14:45:55+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Achtkarspelen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 51,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Achtkarspelen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 149,
+  "geldende_regelingen": 15,
+  "geldend_met_kapartikelen": [
+    "CVDR39911_1",
+    "CVDR696169_2",
+    "CVDR700450_1",
+    "CVDR717487_1",
+    "CVDR718717_1",
+    "CVDR754202_1",
+    "CVDR754614_1"
+  ],
+  "bekendmakingen_besluiten": 70,
+  "bekendmakingen_aanvragen": 3,
+  "bekendmakingen_geweigerd": 1,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

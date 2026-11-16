@@ -1,0 +1,73 @@
+{
+  "gm_code": "GM0034",
+  "gemeente": "Almere",
+  "provincie": "Flevoland",
+  "brondocument": "Bomenkader 2025 (CVDR767726_1), hoofdstuk Bomencommissie; APV Almere 2011, laatste versie CVDR96108_17 (afd. 4: geen houtopstandenafdeling); Omgevingsplan gemeente Almere (CVDR696164_4) art. 22.299 (alleen aanvraagvereisten); Reglement Bomencommissie 2025 (CVDR739417_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR767726/1 ; https://lokaleregelgeving.overheid.nl/CVDR96108/17",
+  "datum_geldigheid": "Bomenkader geldend van 14-10-2026 t/m heden; APV versie 17 geldend van 12-12-2025 t/m heden",
+  "laatste_wijziging": "Bomenkader in werking 14-10-2026 (vervangt CVDR763100_1)",
+  "juridische_plaats": "geen kapregel op particulier terrein gevonden (APV, VFL of omgevingsplan); restant bruidsschat (art. 22.299), geen vergunningplicht",
+  "praktijkcontrole": "3 bekendmakingen sinds 2025: 2 aanvragen en 1 verleend besluit; geen weigeringen. De titels gaan over het kappen van een grote conifeer met afvoer via gemeentegrond (vergunningsvrij volgens titel) en een bouwwerk ('schuine kap'); geen kapbesluiten op grond van een kapregel. Past bij het ontbreken van een kapvergunning. Herteld 16-11-2026: ook zoeken in de volledige tekst gaf niet meer treffers dan de zoekactie op titel.",
+  "vergunningplicht": "geen",
+  "drempel": "geen regeling",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Geen kapregel voor particuliere bomen. Bomenkader: 'In Almere gelden er geen kapvergunningen voor openbare of particuliere bomen, vanwege toenemende kosten die dit heeft en om meer regie bij de inwoners te houden over hun tuinen.'",
+  "uitzonderingen": "niet van toepassing",
+  "weigeringsgronden": "geen",
+  "herplantplicht": "Geen grondslag voor particulier terrein. Het Bomenkader (3.7) beschrijft compensatie ('altijd gelijkwaardig gecompenseerd') voor bomen die de gemeente zelf verwijdert; dat is beleid voor gemeentebomen en geen regel voor particulieren.",
+  "herplant_ontsnapping": "geen",
+  "herplant_type": "geen grondslag",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "niet van toepassing: geen herplantplicht voor particulieren",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "sancties": "geen kapregel, dus geen kap-specifieke sanctie",
+  "procedure": "Geen vergunning of melding. Leges: niet gevonden in CVDR (geen legesverordening met een kaprij in de treffers). De Bomencommissie (adviesorgaan, niet bindend) kan alleen bomen in de openbare ruimte beoordelen.",
+  "D": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "W": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "S": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "status": "ok",
+  "ontbrekend": "Leges niet gevonden in CVDR. Omgevingsplan niet in het DSO ingezien: het omgevingsplan in CVDR bevat alleen aanvraagvereisten (art. 22.299), geen kapregel. Het Bomenkader meldt dat de hoofdboomstructuur mogelijk in het omgevingsplan komt.",
+  "artikelnummers": [
+    "Bomenkader 2025, hoofdstuk Bomencommissie",
+    "APV Almere 2011 (CVDR96108_17), geen afdeling houtopstanden",
+    "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D0: geen toestemmingsplicht voor particuliere bomen; in het Bomenkader: 'In Almere gelden er geen kapvergunningen voor openbare of particuliere bomen'.",
+    "De huidige APV (CVDR96108_17, in werking 12-12-2025) bevat in hoofdstuk 4 alleen afdeling 1 t/m 3 (geluid, bodem, ontsiering) en geen kapregel; de trefwoordzoekopdracht van het dossier vond de APV niet. Ik heb die versie apart opgehaald en op houtopstand, kapvergunning en bomen doorzocht: geen treffers.",
+    "Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten voor een omgevingsvergunning voor het vellen van een houtopstand; er is geen bijbehorende vergunningplicht in de CVDR-tekst gevonden. Dit is een restant uit het standaard tijdelijk deel.",
+    "Het Bomenkader kondigt aan dat regels voor de hoofdboomstructuur mogelijk in het omgevingsplan worden opgenomen; dat is nog niet gebeurd.",
+    "Praktijk: bekendmaking van een 'vergunningsvrij' kapverzoek voor een conifeer met afvoer via gemeentegrond duidt op een aanvraag die geen kapvergunning vereist."
+  ],
+  "modelsignalen": [
+    "Aanvraagvereisten voor vellen van houtopstand in het omgevingsplan (art. 22.299) zonder bijbehorende vergunningplicht: standaardtekst uit het tijdelijk deel; geen aanwijzing voor een kapregel, maar het model kan zo'n restant niet vangen. Geregeld in model v2.3: scoort niet, genoteerd als 'restant bruidsschat'."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijst"
+}

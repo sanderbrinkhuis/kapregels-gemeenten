@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0362/2025/Regelingbaff9b229c8c43fb94e18f68a50f5a5d",
+    "titel": "Programma Bovenkerkerwegzone",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0362/2025/Regelingbaff9b229c8c43fb94e18f68a50f5a5d/nld@2025-10-21;07453497",
+    "beginGeldigheid": "2025-10-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0362_2025_Regelingbaff9b229c8c43fb94e18f68a50f5a5d?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0362/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Amstelveen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0362/2020/omgevingsplan/nld@2025-12-12;07515355",
+    "beginGeldigheid": "2026-01-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0362_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:03Z"
+  }
+]

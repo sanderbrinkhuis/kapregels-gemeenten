@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0200/2020/actieplan_geluid_apeldoorn_2024_-_202841",
+    "titel": "Programma voor Gemeente Apeldoorn",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0200/2020/actieplan_geluid_apeldoorn_2024_-_202841/nld@2025-08-28;be6a19de9a6a44c2adb5b1acc3d5ce41",
+    "beginGeldigheid": "2025-08-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0200_2020_actieplan_geluid_apeldoorn_2024___202841?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:21Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0200/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Apeldoorn",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0200/2025/omgevingsvisie/nld@2025-12-22;1",
+    "beginGeldigheid": "2025-12-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0200_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:21Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0200/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Apeldoorn",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0200/2020/omgevingsplan/nld@2026-02-09;9d54380c04f14207a7eaca014f5d75aa",
+    "beginGeldigheid": "2026-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0200_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:21Z"
+  }
+]

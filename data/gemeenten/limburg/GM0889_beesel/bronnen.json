@@ -1,0 +1,26 @@
+{
+  "gemeente": "Beesel",
+  "gm_code": "GM0889",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Beesel",
+  "zoeknaam_bekendmakingen": "Beesel",
+  "opgehaald_op": "2026-11-14T18:00:27+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Beesel\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 43,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Beesel\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 15,
+  "geldende_regelingen": 12,
+  "geldend_met_kapartikelen": [
+    "CVDR622924_1",
+    "CVDR672492_1",
+    "CVDR696439_3",
+    "CVDR752169_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 13,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

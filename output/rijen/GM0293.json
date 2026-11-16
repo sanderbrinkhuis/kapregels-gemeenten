@@ -1,0 +1,88 @@
+{
+  "gm_code": "GM0293",
+  "gemeente": "Westervoort",
+  "provincie": "Gelderland",
+  "brondocument": "Verordening Fysieke Leefomgeving gemeente Westervoort 2022 (VFL), hoofdstuk 3 Bomen (art. 1:1, 3:1 t/m 3:6, 3:9) en art. 6:3, met toelichting (CVDR704623_2); Verordening leges omgevingsvergunning 2026 art. 1.8.4 (CVDR752501_3); APV Westervoort 2026 afd. 4.3 (vervallen; CVDR670529_7); Omgevingsplan art. 13.3 en 22.299 (CVDR696258_5)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR704623/2 ; https://lokaleregelgeving.overheid.nl/CVDR752501/3 ; https://lokaleregelgeving.overheid.nl/CVDR670529/7 ; https://lokaleregelgeving.overheid.nl/CVDR696258/5",
+  "datum_geldigheid": "VFL CVDR704623_2 geldend vanaf 2026-06-11 t/m heden; leges CVDR752501_3 geldend vanaf 2026-10-01; APV CVDR670529_7 vanaf 2026-06-11; Omgevingsplan CVDR696258_5 vanaf 2026-04-29 (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "VFL: versie 2 per 2026-06-11 (de bomenregels zelf stammen van de Bomenverordening Westervoort 2016, CVDR397966_1, vervallen per 2024-01-01 en overgenomen in de VFL vanaf 2024-01-01). Leges: versie 3 per 2026-10-01.",
+  "juridische_plaats": "VFL hoofdstuk 3 (Groene Kaart-model). Werkt als omgevingsplanactiviteit volgens de legesverordening 2026 art. 1.8.4 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand ... in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 13.3 en 22.299 bevatten alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 2 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 1 besluit en 0 geweigerd volgens titel. Het besluit (gmb-2026-147714) betreft een omgevingsvergunning voor het kappen van 7 dode en zieke bomen op diverse locaties; de grondslag staat er niet in. Past bij een lijstsysteem met weinig kapbesluiten, maar zegt niets over de bomen op de kaart. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 13 bekendmakingen sinds 1-1-2025, waarvan 7 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning, alleen voor houtopstand die op de Groene Kaart staat. VFL art. 3:2 lid 1: 'Het is verboden om een houtopstand te vellen of te doen vellen, die staat aangegeven op de Groene Kaart.' Lid 2: 'Het bevoegd gezag kan een omgevingsvergunning verlenen van het in het eerste lid gestelde verbod.' Het verbod geldt ook voor houtopstand aangelegd op basis van een herplant- en instandhoudingsplicht (lid 3).",
+  "drempel": "Geen omtrekdrempel voor kaartbomen: het verbod geldt voor 'houtopstand' op de Groene Kaart. De definitie van 'boom' (art. 1:1) noemt 'een dwarsdoorsnede van de stam van minimaal 30 centimeter (omtrek 95 cm) op 1,3 meter hoogte', maar art. 3:2 spreekt van 'houtopstand' en niet van 'boom'.",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (alleen in de definitie van 'boom'; niet van belang voor art. 3:2)",
+  "reikwijdte": "Alleen houtopstand op de Groene Kaart (art. 3:1: 'bomenstructuren', 'monumentale groenelementen', 'waardevolle groenelementen'); particulier en gemeentelijk. Bomenstructuur is volgens art. 1:1 'lijnvormige beplanting van houtopstanden die een functioneel geheel vormt en die op de Groene Kaart is opgenomen'; bospercelen zijn 'vlakvormige percelen'. Niet-kaartbomen zijn vergunningvrij (toelichting: 'het kappen van houtopstanden, die niet op de Groene Kaart staan, vergunningsvrij zijn').",
+  "uitzonderingen": "Art. 3:2 lid 4: verbod geldt niet voor 'een houtopstand die moet worden geveld krachtens de Plantenziektenwet of krachtens een aanschrijving van het bevoegd gezag', periodiek vellen van hakhout, periodiek scheren, knotten of kandelaberen, snoeiwerkzaamheden aan houtopstand met aantoonbaar achterstallig onderhoud, en dunning (allemaal als regulier onderhoud). Lid 5: niet voor houtopstand als bedoeld in art. 11.117 en 11.119 Bal. Geen tuin-, erf- of perceeluitzondering: geen correctie.",
+  "weigeringsgronden": "Art. 3:4: 'Een omgevingsvergunning voor het vellen van houtopstanden kan slechts worden verleend indien: a. de houtopstand aantoonbaar onevenredige schade of overlast veroorzaakt of zal veroorzaken, of; b. de vergunning noodzakelijk is voor de realisering van een bouw- of civieltechnisch werk, of; c. een (ander) zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand.' Toelichting: 'in beginsel toestemming slechts bij zeer hoge uitzondering wordt verleend'. Dit is weigeren tenzij.",
+  "herplantplicht": "Art. 3:5 lid 3: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan ook behoren, het voorschrift, dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen, moet worden herplant.' Lid 4: 'Indien niet ter plaatse kan worden herplant, kan in de omgevingsvergunning het voorschrift worden gesteld dat voorafgaand aan het kappen een geldelijke bijdrage, op basis van de boomwaarde, gestort dient te worden in de gemeentelijke voorziening ‘Groot onderhoud groen’, of dat op een andere locatie herplant plaatsvindt.' Art. 3:3 lid 3 sub b: bij de aanvraag wordt 'een compensatieplan en de volgens de Nederlandse Vereniging van Taxateurs van Bomen berekende boomwaarde van de te vellen houtopstand' gevoegd (aanvraagvereiste, geen herplantplicht). Toelichting (geen artikeltekst): 'Voor iedere gekapte boom komt in principe een boom terug.'",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid: 'kan ook behoren' (art. 3:5 lid 3); het bevoegd gezag beslist per vergunning. Betalen als alternatief: 'kan ... een geldelijke bijdrage, op basis van de boomwaarde, gestort dient te worden' (art. 3:5 lid 4, bevoegdheid). Na illegale kap: art. 3:6 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten', lid 2 'dient een door het college vast te stellen financiële bijdrage gestort dient te worden in de gemeentelijke voorziening' als niet ter plaatse kan worden herplant.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 3:6 lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot en met het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' De strafbepaling art. 6:3 noemt alleen art. 3:2 lid 1 en 3:9 lid 2, niet 3:5 of 3:6. Verder het algemene instrumentarium (bestuursdwang of dwangsom); de toelichting noemt bij herplant na kap zonder vergunning 'last onder bestuursdwang of dwangsom'.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "Eigen strafbepaling in de regeling: VFL art. 6:3: 'Hij die handelt in strijd met het bij of krachtens artikel 3:2, eerste lid of artikel 3:9 tweede lid bepaalde, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie. Tevens kan een rechterlijke beoordeling op grond van dit artikel openbaar gemaakt worden. Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde.' Geen WED-aanwijzing voor kap in VFL art. 6:2 lid 2. Wel route via Ow 5.1 (legesverordening 1.8.4 noemt het vellen een omgevingsplanactiviteit). Geen bestuurlijke boete voor kappen. Herplant na illegale kap: art. 3:6 lid 1 (kan).",
+  "procedure": "Aanvraag omgevingsvergunning (VFL art. 3:3); alleen aan te vragen door degene met zakelijk recht (lid 2); bij de aanvraag een compensatieplan en de boomwaarde (lid 3). Leges 2026 art. 1.8.4: € 289,00. Beslistermijn APV art. 1:2 lid 3 sluit omgevingsvergunning uit; bezwaar en beroep niet apart gelezen. Schadevergoeding bij weigering: art. 3:7.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": 16,
+  "lijst_telling": "bomen in particulier eigendom op de Groene Kaart: 16 (toelichting bij VFL hoofdstuk 3, CVDR704623_2: 'Op de Groene Kaart staan ook 16 bomen, die bij particulieren in eigendom zijn'); totaal aantal niet genoemd; kaart zelf niet ingezien; toelichting stamt uit de Bomenverordening 2016, dus telling kan verouderd zijn",
+  "status": "onzeker",
+  "ontbrekend": "Groene Kaart en register niet ingezien (gemeentelijke website westervoort.nl gaf HTTP 403; bijlage 1 'Groene kaart' van de VFL bevat in de tekst geen kaart). Totaal aantal kaartbomen niet bekend; het aantal van 16 particuliere bomen komt uit de toelichting (mogelijk verouderd). Onbekend of onder 'bomenstructuren' en 'bospercelen' particuliere lanen of percelen vallen (daarom D-maximum 2). Het Bomenbeheerplan (vastgesteld 28 april 2015; hoofdstuk 7 zou 'als beleidsregel' gelden) staat niet als geldende regeling in CVDR en is niet gelezen. Omgevingsplan in het DSO niet ingezien (sleutel nog niet beschikbaar). Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "VFL 1:1",
+    "VFL 3:1",
+    "VFL 3:2",
+    "VFL 3:3",
+    "VFL 3:4",
+    "VFL 3:5",
+    "VFL 3:6",
+    "VFL 3:9",
+    "VFL 6:2",
+    "VFL 6:3",
+    "Leges 2026 art. 1.8.4",
+    "APV 4:10-4:12 (vervallen)",
+    "Omgevingsplan 13.3",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "Doorslaggevende formulering W: 'kan slechts worden verleend indien' (VFL art. 3:4), met drie uitzonderingsgevallen: onevenredige schade of overlast, bouw- of civieltechnisch werk, zwaarwegend algemeen maatschappelijk belang. W = 3 (weigeren tenzij).",
+    "Doorslaggevende formulering H: 'kan ook behoren, het voorschrift, dat ... moet worden herplant' (VFL art. 3:5 lid 3). H = 1, maximum 2 omdat art. 3:3 lid 3 sub b bij de aanvraag een compensatieplan en de boomwaarde eist en de toelichting zegt 'Voor iedere gekapte boom komt in principe een boom terug' en dat 'Financiële compensatie geschiedt op basis van de boomwaarde'. De toelichting is geen artikeltekst en het onderliggende Bomenbeheerplan is niet gelezen. Artikel gaat voor toelichting.",
+    "Leges 2026 art. 1.8.4 verwijst naar 'artikel 3 van de Bomenverordening Westervoort 2016'. Die verordening (CVDR397966_1) is vervallen per 2024-01-01 en de bepaling staat nu in VFL art. 3:2. Foute verwijzing; de legesverordening noemt het vellen wel een omgevingsplanactiviteit (S = 1 zonder bereik).",
+    "APV Westervoort 2026 art. 4:10 t/m 4:12 zijn vervallen ('Vervallen. Opgenomen in de Bomenverordening'); de VFL is de geldende plaats.",
+    "D: puntschatting 1 (individueel aangewezen bomen), minimum 0 (als de kaart geen particuliere bomen blijkt te bevatten), maximum 2 (als bomenstructuren of bospercelen op particulier terrein gebieden of structuren zijn). Kaartbomen hebben geen omtrekdrempel. De 'boom'-definitie met 30 cm doorsnede (omtrek 95 cm) is niet van toepassing op art. 3:2 ('houtopstand').",
+    "Voorbeeldbomen A en B: niet vergunningplichtig tenzij ze toevallig op de Groene Kaart staan.",
+    "Toelichting: 'De bomen op de Groene Kaart betreffen grotendeels bomen die in eigendom en beheer zijn bij de gemeente.' Bomen langs doorgaande wegen staan ook op de kaart."
+  ],
+  "modelsignalen": [
+    "Westervoort: de toelichting bij het artikel noemt het aantal particuliere kaartbomen (16) maar de toelichting is overgenomen uit een vervallen verordening uit 2016; het model kent geen regel voor de actualiteit van zo'n telling.",
+    "Westervoort: 'bomenstructuur' en 'bosperceel' op de kaart zitten tussen D = 1 (individuele bomen) en D = 2 (gebieden of structuren); het model zegt niet of een lijnvormige structuur op de kaart als lijst of als structuur telt.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst niet ingezien, maar vastgestelde regeling of beleid bevestigt dat er particuliere bomen op staan: D-minimum 1 (was 0)."
+  ]
+}

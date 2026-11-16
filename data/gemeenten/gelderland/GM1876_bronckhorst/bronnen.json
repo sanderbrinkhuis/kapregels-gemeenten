@@ -1,0 +1,30 @@
+{
+  "gemeente": "Bronckhorst",
+  "gm_code": "GM1876",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Bronckhorst",
+  "zoeknaam_bekendmakingen": "Bronckhorst",
+  "opgehaald_op": "2026-11-15T14:09:48+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Bronckhorst\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 85,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Bronckhorst\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 429,
+  "geldende_regelingen": 28,
+  "geldend_met_kapartikelen": [
+    "CVDR456923_2",
+    "CVDR637438_1",
+    "CVDR665535_1",
+    "CVDR693140_1",
+    "CVDR693211_1",
+    "CVDR696508_6",
+    "CVDR740330_1",
+    "CVDR747261_2"
+  ],
+  "bekendmakingen_besluiten": 186,
+  "bekendmakingen_aanvragen": 221,
+  "bekendmakingen_geweigerd": 11,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0225/2025/Regeling23c2bfb3cd7047dba061e4b03d50505f",
+    "titel": "Omgevingsvisie gemeente Druten",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0225/2025/Regeling23c2bfb3cd7047dba061e4b03d50505f/nld@2025-12-22;13580004",
+    "beginGeldigheid": "2026-01-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0225_2025_Regeling23c2bfb3cd7047dba061e4b03d50505f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0225/2026/Regeling8fe8a2c00a6b489faaa91995cf96c2f0",
+    "titel": "Regionale Energie Strategie 2.0",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0225/2026/Regeling8fe8a2c00a6b489faaa91995cf96c2f0/nld@2026-02-17;08110922",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0225_2026_Regeling8fe8a2c00a6b489faaa91995cf96c2f0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0225/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Druten",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0225/2020/omgevingsplan/nld@2026-07-13;11452961",
+    "beginGeldigheid": "2026-08-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0225_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:33Z"
+  }
+]

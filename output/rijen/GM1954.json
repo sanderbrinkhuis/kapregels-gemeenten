@@ -1,0 +1,83 @@
+{
+ "provincie": "Limburg",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "status": "ok",
+ "gm_code": "GM1954",
+ "gemeente": "Beekdaelen",
+ "brondocument": "Bomenverordening gemeente Beekdaelen 2019 (CVDR625920_1) art. 1-5, 9; Verordening op de heffing en de invordering van leges 2026 (CVDR747893_2) art. 2.30; APV Beekdaelen 2021 (CVDR715447_1) art. 4:10-4:12 (vervallen); Omgevingsplan art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR625920/1",
+ "datum_geldigheid": "CVDR625920_1 geldend vanaf 2019-07-11 t/m heden (art. 8: 'treedt in werking op 1 mei 2019'; CVDR geeft 2019-07-11), peildatum scoren 2026-11-14",
+ "laatste_wijziging": "Versie 1 (nieuwe regeling, vaststelling 2019-07-02). Geen latere wijziging gevonden. De APV-afdeling 'Het bewaren van houtopstanden' (art. 4:10, 4:11, 4:12) staat in de APV 2021 (versie per 2024-02-15) op '[vervallen]'.",
+ "juridische_plaats": "Losse Bomenverordening 2019 (gemeentelijke verordening), werkt als omgevingsplanactiviteit: leges art. 2.30 (CVDR747893_2) noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Verordening ... Bomenverordening gemeente Beekdaelen 2019) in samenhang met artikel 22.8 van de Omgevingswet'. De APV bevat geen kapregel meer. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 72 bekendmakingen op volledige tekst (benadering), waarvan 36 besluiten, 32 aanvragen en 0 weigeringen volgens titel. De titels noemen 'Kennisgeving besluit op aanvraag Omgevingsvergunning' zonder vermelding van kap; de steekproef van 10 besluiten noemt geen grondslag. Daarom weinig te zeggen over particuliere kap; veel locaties zijn percelen of bos.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van bepaalde particuliere houtopstanden (art. 2 lid 2 onder b), niet voor bomen in tuinen en erven bij woningen. Vellen is verder toegestaan zonder vergunning (art. 2 lid 1).",
+ "drempel": "Een 'boom' heeft 'een dwarsdoorsnede van de stam van minimaal 20 centimeter op 1,3 meter hoogte' (art. 1 lid 1 onder b); houtopstand: 'één of meer bomen, hakhout, een houtwal, een grotere (lint)begroeiing van heesters en struiken' (onder e). Voor overheidsbomen > 40 cm doorsnede (art. 2 lid 2 onder a).",
+ "omtrek_cm": 62.8,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Art. 2 lid 1: 'Het vellen of te doen vellen van houtopstanden is toegestaan zonder vergunning van het bevoegd gezag.' Lid 2: 'Het in het eerste lid gestelde geldt niet voor houtopstanden die: ... b. deel uitmaken van een particuliere houtopstand en niet staan in tuinen en erven behorende bij woningen; c. deel uitmaken van het natuur- en bosgebied \"Schinveldse Bossen\" ...' (ook a, d, e, f). Dus particuliere houtopstanden buiten tuinen en erven, binnen en buiten de bebouwde kom (geen onderscheid). Omgerekend: 20 cm x 3,14 = 62,8 cm omtrek (D3), min 1 vanwege de tuinuitzondering: D2.",
+ "uitzonderingen": "Tuinen en erven: 'niet staan in tuinen en erven behorende bij woningen' (art. 2 lid 2 onder b); alle tuinbomen bij woningen zijn dus vrij (ruime uitzondering, -1). Verder: art. 2 lid 3 'moeten worden geveld krachtens de Plantenziektewet of krachtens een aanschrijving of last van het college'; art. 2 lid 7 spoed (burgemeester). Bomen die zijn aangeplant als herplant zijn juist wel vergunningplichtig (lid 2 onder f).",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 2 lid 5: 'Een vergunning ... kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid ...; g. een op basis van herplantplicht gerealiseerde houtopstand.' Lid 6: boomwaarde als motivering. W2.",
+ "herplantplicht": "Art. 3 lid 1: 'Tot de aan de vergunning te verbinden voorschriften zal altijd behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 4 lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen financiele compensatie (boomwaarde alleen als motivering voor weigering). H2.",
+ "herplant_ontsnapping": "Geen uitweg in art. 3 lid 1 ('zal altijd behoren'); geen betaling in plaats van herplant. Het bevoegd gezag bepaalt de aanwijzingen en termijn.",
+ "sancties": "Eigen strafbepaling art. 9: 'Overtreding van het bij of krachtens deze verordening bepaalde en op grond van artikel 3 daarbij gegeven voorschriften en beperkingen wordt gestraft met een geldboete van de tweede categorie en kan bovendien worden gestraft met openbaarmaking van de rechtelijke uitspraak.' Via leges art. 2.30 is de kap een omgevingsplanactiviteit (Ow 5.1 lid 1 aanhef en onder a): WED via Ow 5.1. Geen bestuurlijke boete. Herplant na illegale kap: art. 4 'kan'. S1.",
+ "procedure": "Leges art. 2.30: EUR 300,00 (CVDR747893_2). Aanvraag door of namens de gerechtigde (art. 2 lid 4). Beslistermijn en bezwaar niet in de Bomenverordening; algemene regels Awb/Omgevingswet. Art. 6: toezichthouders mogen terreinen betreden.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 9: overtreding van 'op grond van artikel 3 daarbij gegeven voorschriften en beperkingen wordt gestraft met een geldboete van de tweede categorie'.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_telling": "niet van toepassing: geen lijstsysteem (houtopstanden buiten tuinen en erven).",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien. De gemeente heeft geen bomenlijst die uit de regeling volgt. Het Aanwijzingsbesluit toezichthouders noemt 'Bomenverordening Beekdaelen 2019' nog als geldend, wat bevestigt dat de verordening geldt. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "Bomenverordening 1",
+  "Bomenverordening 2",
+  "Bomenverordening 3",
+  "Bomenverordening 4",
+  "Bomenverordening 6",
+  "Bomenverordening 9",
+  "APV 4:10 (vervallen)",
+  "APV 4:11 (vervallen)",
+  "APV 4:12 (vervallen)",
+  "Leges 2.30",
+  "Omgevingsplan 22.299"
+ ],
+ "opmerkingen": [
+  "Vaststelling welke tekst de kapregel bevat: APV 2021 (CVDR715447_1, versie per 2024-02-15) art. 4:10 'Begripsbepalingen [vervallen]', 4:11 'Omgevingsvergunning voor het vellen van houtopstanden [vervallen]' en 4:12 'Vergunning van rechtswege [vervallen]'. De kapregel staat daarom in de Bomenverordening 2019 (CVDR625920_1, geldend t/m heden); de legesverordening 2026 verwijst daar expliciet naar.",
+  "Doorslaggevend W: 'Een vergunning ... kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 2 lid 5).",
+  "Doorslaggevend H: 'zal altijd behoren het voorschrift dat ... moet worden herplant.' (art. 3 lid 1).",
+  "De verordening verwijst nog naar de Wabo, Natuurbeschermingswet en Plantenziektewet (verouderd); de tekst is sinds 2019 niet aangepast aan de Omgevingswet. Art. 8 noemt inwerkingtreding 1 mei 2019, de CVDR noemt 2019-07-11.",
+  "Alleen een tekstvoorziening voor bomen buiten tuinen en erven bij woningen; bomen op erven van bedrijven of in een 'tuin' zonder woning zijn niet uitgezonderd (uitleg niet in de tekst).",
+  "Kleine gebiedsregel: Schinveldse Bossen (art. 2 lid 2 onder c), niet meegeteld voor D."
+ ],
+ "modelsignalen": [
+  "Tuinuitzondering geformuleerd als omgekeerde reikwijdte ('particuliere houtopstand ... niet staan in tuinen en erven behorende bij woningen'); het model vangt dit als -1 voor ruime uitzondering (D3 naar D2), maar beschermt dan wel hele particuliere houtopstanden zonder drempel voor hakhout, houtwallen en heesters. Het model kent geen aparte score voor het type beschermde bomen (bos/landschap versus tuinbomen).",
+  "Herplant 'zal altijd behoren' in de vergunning is wel standaard (H2) maar valt weg bij kap zonder vergunning ('kan'); het model onderscheidt dat alleen via S en 'herplant na illegale kap'."
+ ]
+}

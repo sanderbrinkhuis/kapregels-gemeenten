@@ -1,0 +1,28 @@
+{
+  "gemeente": "Landsmeer",
+  "gm_code": "GM0415",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Landsmeer",
+  "zoeknaam_bekendmakingen": "Landsmeer",
+  "opgehaald_op": "2026-11-16T14:06:31+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Landsmeer\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 68,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Landsmeer\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 10,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR696309_2",
+    "CVDR734836_1",
+    "CVDR735333_1",
+    "CVDR735371_1",
+    "CVDR753080_1",
+    "CVDR761460_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

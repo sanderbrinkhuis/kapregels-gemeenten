@@ -1,0 +1,64 @@
+{
+  "gm_code": "GM0654",
+  "gemeente": "Borsele",
+  "provincie": "Zeeland",
+  "brondocument": "Verordening fysieke leefomgeving gemeente Borsele (VFL), afdeling 7.1 Beschermde houtopstanden en bijlage 1 Begrippen; APV Borsele 2024 afd. 4.3 (art. 4:10-4:11e vervallen); Omgevingsplan gemeente Borsele art. 22.299 (aanvraagvereisten); Legesverordening 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR693737/1",
+  "datum_geldigheid": "geldend van 2024-01-01 t/m heden (CVDR693737_1)",
+  "laatste_wijziging": "geen wijziging sinds vaststelling 2023-03-02 (versie 1, in werking 2024-01-01)",
+  "juridische_plaats": "VFL (verordening op grond van de Gemeentewet, in werking op de dag van inwerkingtreding Ow); de kapregel gebruikt de omgevingsvergunning uit afdeling 5.1 Ow en werkt als omgevingsplanactiviteit (omgevingsplan art. 22.299 bevat de aanvraagvereisten). APV-afdeling vervallen.",
+  "praktijkcontrole": "1 bekendmaking sinds 2025 op trefwoord, geen kapbesluit (bouwkennisgeving). Het IHUP VTH 2026 (CVDR762132_1) en jaarverslag VTH 2025 (CVDR762133_1) noemen kapvergunningen en herplantplicht voor de dijkbeplanting als lokale prioriteit; naleving door particulieren, agrariers en bedrijven blijft achter. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 11 bekendmakingen sinds 1-1-2025, waarvan 3 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "omgevingsvergunning voor aangewezen categorieen houtopstanden",
+  "drempel": "geen drempel in art. 7.2 (houtopstand); definitie 'boom' in bijlage 1: stamomtrek minimaal 30 cm op 1,30 m",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (definitie boom)",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, maar alleen houtopstanden die: op de bomenlijst staan; zijn aangelegd op grond van herplant-/instandhoudingsplicht of een overeenkomst met een publiekrechtelijk bestuursorgaan; in een beschermd stads- en dorpsgezicht liggen; op een dijk liggen of anderszins planologische bescherming genieten; of onderdeel zijn van een verplichte landschappelijke inpassing (art. 7.2 lid 1). Dijkbeplanting is volgens het IHUP een gemeentebrede structuur, ook bij particulieren en agrariers.",
+  "uitzonderingen": "spoedeisend belang openbare orde of direct gevaar met toestemming college (7.2 lid 2); situaties waarin andere wet- en regelgeving voorziet (7.2 lid 3)",
+  "weigeringsgronden": "Art. 7.3 lid 1: 'De omgevingsvergunning wordt alleen verleend als alternatieven voor behoud goed zijn onderzocht, en: a. een zwaarwegend maatschappelijk belang zwaarder weegt dan duurzaam behoud van de houtopstand; b. naar boomdeskundige maatstaven instandhouding van de houtopstand niet langer verantwoord is ter voorkoming van letsel of schade; of c. de houtopstand bouwmogelijkheden onevenredig beperkt én compensatie geregeld is als bedoeld in artikel 7.4.'",
+  "herplantplicht": "Art. 7.3 lid 2: 'Aan de omgevingsvergunning kan een plicht tot compensatie worden opgelegd onder de voorwaarden zoals genoemd in artikel 7.4.' Art. 7.4 lid 1: 'De houtopstand moet op of dichtbij dezelfde plaats herplant worden.'; lid 6: 'Als herplant volgens het eerste en tweede lid niet (volledig) mogelijk is, moet een financiële bijdrage worden gestort ten behoeve van de KOR.' Bij weigeringsgrond c (bouw) is compensatie een voorwaarde voor verlening.",
+  "herplant_ontsnapping": "'kan' (art. 7.3 lid 2): het college beslist per vergunning of compensatie wordt opgelegd; is herplant niet mogelijk, dan andere plaats (7.4 lid 2) of verplichte storting in de KOR (7.4 lid 6)",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets kap-specifieks geregeld. Strafbepaling art. 9.1 noemt de artikelen 7.2-7.5 niet ('Overtreding van het bepaalde bij of krachtens de artikelen 3.2, 4.9, 5.13, 5.14 en 6.7 ...'). Art. 7.4 lid 5 en 7.5 lid 2: 'Niet aangeslagen herplant wordt herplant binnen een door het college nader bepaalde termijn.' Alleen algemeen instrumentarium (bestuursdwang/dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via Ow 5.1 (kapregel werkt als omgevingsplanactiviteit); geen eigen strafbepaling of WED-aanwijzing voor afd. 7.1 in VFL art. 9.1; herplantplicht na illegale kap (art. 7.5 lid 1, 'kan') met verplichte KOR-storting als herplant niet mogelijk is (7.5 lid 3). Geen bestuurlijke boete voor kap (boetebeleid Zeeland 2025-2028 alleen voor Ow 18.12 en 18.13).",
+  "procedure": "Omgevingsvergunning via Omgevingsloket; leges: Legesverordening 2026 art. 2.30 'Gereserveerd' (geen tarief voor kap); aanvraagvereisten omgevingsplan art. 22.299; bezwaar en beroep volgens Awb.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst ('Lijst van waardevolle bomen gemeente Borsele 2012') niet online gevonden (sitemap borsele.nl doorzocht). D hangt hier niet van af: de structuurregel voor dijken en beschermde gezichten bepaalt D = 2. Onzeker is of H 'kan' (7.3 lid 2) of standaard plus verplichte storting (7.4) is.",
+  "artikelnummers": "VFL art. 7.1-7.5, 9.1, 11.2, bijlage 1 onder g, h, jj, y; APV 2024 art. 4:10-4:11e (vervallen); omgevingsplan art. 22.299; Legesverordening 2026 art. 2.30",
+  "opmerkingen": "Combinatie van lijst en aangewezen structuren (dijken, beschermde stads- en dorpsgezichten, planologisch beschermde houtopstanden, landschappelijke inpassingen): D = 2 als aangewezen structuren. W: 'De omgevingsvergunning wordt alleen verleend als alternatieven voor behoud goed zijn onderzocht, en: a. een zwaarwegend maatschappelijk belang ...' (art. 7.3 lid 1) = weigeren tenzij (W3). H: 'Aan de omgevingsvergunning kan een plicht tot compensatie worden opgelegd onder de voorwaarden zoals genoemd in artikel 7.4.' (7.3 lid 2); puntschatting H1, maximum H3 omdat art. 7.4 zelf luidt 'De houtopstand moet ... herplant worden' en bij onmogelijkheid 'moet een financiële bijdrage worden gestort ten behoeve van de KOR'. Het jaarverslag VTH 2025 noemt een vrijstelling voor 'een aantal bomen' als binnen 3 jaar op maximaal 5 meter wordt herplant; die regel is in de gelezen teksten niet gevonden. Bomenlijst wordt omschreven als lijst van 'monumentale en andere beschermde gemeentelijke houtopstanden'. Geen kapleges. Nabewerking 16-11-2026: H1 (1-3) → H2 (max 3): compensatie 'kan', art. 7.4 lid 6 'moet een financiële bijdrage worden gestort' als herplant niet mogelijk is (besluit gebruiker 16-11-2026, na Zuid-Holland).",
+  "modelsignalen": [
+    "Tegenstrijdigheid binnen één verordening: art. 7.3 lid 2 zegt dat compensatie 'kan' worden opgelegd, art. 7.4 formuleert herplant en storting als 'moet'. De regel over tegenstrijdige teksten gaat alleen over verordening tegenover beleidsregel. Gekozen: H1 (min 1, max 3), dit bepaalt de categorie (37 Soepel tegenover 43 Gemiddeld).",
+    "De VFL is geen Omgevingswet-regeling, maar gebruikt wel de omgevingsvergunning uit de Ow. Of de kapregel van rechtswege deel van het omgevingsplan is, is juridisch onzeker. S verandert niet, want de herplantplicht na illegale kap (7.5) geeft ook S = 1."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien"
+}

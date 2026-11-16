@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1945/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Berg en Dal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1945/2020/omgevingsplan/nld@7",
+    "beginGeldigheid": "2024-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1945_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1945/2025/Regeling337eeaab3ea74574929365da60f50ba1",
+    "titel": "De vergezichten van Berg en Dal - omgevingsvisie gemeente Berg en Dal",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1945/2025/Regeling337eeaab3ea74574929365da60f50ba1/nld@2025-07-03;09123203",
+    "beginGeldigheid": "2025-07-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1945_2025_Regeling337eeaab3ea74574929365da60f50ba1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1945/2026/Regelingb1cadf1116cf431a9a2cb3961d922eee",
+    "titel": "Programma Mobiliteit Gemeente Berg en Dal",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1945/2026/Regelingb1cadf1116cf431a9a2cb3961d922eee/nld@2026-05-18;13230494",
+    "beginGeldigheid": "2026-05-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1945_2026_Regelingb1cadf1116cf431a9a2cb3961d922eee?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:39Z"
+  }
+]

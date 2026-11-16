@@ -1,0 +1,81 @@
+{
+  "gm_code": "GM1728",
+  "gemeente": "Bladel",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem als hoofdregime (breed regime met hoge drempel en uitzonderingen). De lijst met monumentaal groen (art. 4.80) en de lijst met herdenkingsbomen (art. 4.81) staan niet in CVDR of in tekst/ en zijn niet ingezien; de lijst bepaalt D niet. Het Landschapsbeleidsplan (CVDR34529_1) noemt 'Monumentale erfbeplantingen zijn opgenomen op de gemeentelijke lijst van monumentale en bijzondere bomen', zonder aantal.",
+  "brondocument": "Verordening Fysieke Leefomgeving Bladel 2024, paragraaf 4.8.1 (art. 4.75 t/m 4.81) en art. 7.1, 7.2 (CVDR711300_2); Algemene Plaatselijke Verordening Bladel 2025 art. 4:10 t/m 4:11e (vervallen) (CVDR736218_1); Legesverordening Bladel 2026 art. 2.30 (CVDR747946_2); Nota Landschapsbeleidsplan Natuurlijk van nature 2009-2024 par. 3.5 (CVDR34529_1); Omgevingsplan art. 22.299 (CVDR696494_4, alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR711300/2 ; https://lokaleregelgeving.overheid.nl/CVDR736218/1 ; https://lokaleregelgeving.overheid.nl/CVDR747946/2 ; https://lokaleregelgeving.overheid.nl/CVDR34529/1 ; https://lokaleregelgeving.overheid.nl/CVDR696494/4",
+  "datum_geldigheid": "VFL CVDR711300_2 geldend vanaf 2026-10-07 t/m heden (peildatum scoren 2026-11-15); de kapregel staat ongewijzigd in versie 1 (CVDR711300_1, 2023-12-31 t/m 2026-10-07); leges CVDR747946_2 vanaf 2026-10-15",
+  "laatste_wijziging": "VFL: versie 2 per 2026-10-07, wijziging van art. 6.8 (niet de kapregel); APV 2025 (CVDR736218_1, 2025-03-06): art. 4:10 t/m 4:11e vervallen",
+  "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR747946_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:75 van de “Verordening Fysieke Leefomgeving gemeente Bladel 2021, 1 e wijziging in samenhang met artikel 22.8 van de Omgevingswet' (foute verwijzing: de huidige regel is art. 4.75 VFL 2024). APV 2025 art. 4:10-4:11e zijn vervallen; omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 92 bekendmakingen, waarvan 2 besluiten en 52 aanvragen; 2 geweigerde vergunningen (gmb-2025-324766, gmb-2025-528123: een boom en meerdere bomen voor sloop en nieuwbouw). Besluiten noemen geen grondslag. Het VTH-beleidsplan 2025-2028 (CVDR728453_1, opgehaald voor deze controle) geeft 'Illegale kap' prioriteit 'Laag' en noemt geen boete of boomwaarde.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstand (art. 4.75 lid 1), met een omtrekdrempel van 120 cm en een vrijstelling voor houtopstand binnen 15 m van een vergund bouwwerk (lid 2 onder b).",
+  "drempel": "Stamomtrek van minder dan 120 cm vrij, gemeten op 130 cm hoogte boven het maaiveld (art. 4.75 lid 2 onder b). Op gemeentegrond: minder dan 80 cm vrij (onder a).",
+  "omtrek_cm": 120,
+  "meethoogte": "130 cm boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, binnen en buiten de bebouwde kom. 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' (art. 4.75 lid 1). Vrijgesteld is houtopstand 'met een stamomtrek van minder dan 120 cm, gemeten op 130 cm hoogte boven het maaiveld dan wel als de houtopstand zich bevindt binnen vijftien meter van een vergund bouwwerk' (lid 2 onder b), tenzij de houtopstand op de lijst met monumentaal groen of de lijst met herdenkingsbomen staat.",
+  "uitzonderingen": "Art. 4.75 lid 2: houtopstand binnen vijftien meter van een vergund bouwwerk (alle omtrek; ruime tuinuitzondering, -1: de voorbeeldtuin van ca. 300 m2 ligt vrijwel geheel binnen 15 m van de woning), wegbeplantingen en eenrijige beplantingen van populieren of wilgen (tenzij geknot), fruitbomen (uitgezonderd wal- en okkernootbomen) en windschermen om boomgaarden, kerstbomen (fijnsparren tot 12 jaar), kweekgoed, dunning, houtopstand waarvoor het bestemmingsplan een kapvergunning eist, Plantenziektenwet of aanschrijving, erfbeplanting op grond van een overeenkomst met een bestuursorgaan, en Bal-bospercelen groter dan 10 are. Lijstbomen (monumentaal groen en herdenkingsbomen) blijven altijd vergunningplichtig.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4.76 lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of waarde voor de leefbaarheid. Lid 2: 'Het bevoegd gezag kan bij het weigeren of onder voorschriften verlenen van een vergunning tevens de boomwaarde als motivering hanteren.' Lijstbomen: 'in beginsel geen omgevingsvergunning voor het vellen wordt afgegeven, tenzij er sprake is van een ernstige bedreiging van de openbare veiligheid, noodtoestand of andere uitzonderlijke situaties' (art. 4.80 lid 1, 4.81).",
+  "herplantplicht": "Art. 4.78 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2 (alleen vergunning aan de gemeente zelf): 'wordt in het beginsel altijd een herplantplicht opgelegd'. Art. 4.79 lid 4 (andere gronden dan gemeentegrond): 'is de herplantplicht alleen van toepassing indien dit ruimtelijk mogelijk is op de locatie waar de houtopstand wordt geveld.' Na illegale kap: art. 4.79 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Landschapsbeleidsplan par. 3.5 (streefsituatie): 'Elke gekapte boom en gerooid groter groenelement wordt (fysiek of financieel) gecompenseerd.'",
+  "herplant_ontsnapping": "Art. 4.78 lid 1 'kan' (bevoegdheid, per geval door het bevoegd gezag); art. 4.79 lid 4 'alleen van toepassing indien dit ruimtelijk mogelijk is op de locatie'. Geen betalen-in-plaats-van-herplanten in de verordening; het Landschapsbeleidsplan noemt als gewenste ontwikkeling 'Overschakelen van fysieke groencompensatie naar financiële groencompensatie middels een fonds'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4.79 lid 6: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede, derde of vijfde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 1.4 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Art. 7.1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 1.4 gegeven voorschriften en beperkingen wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van ten hoogste de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet: de kapregel werkt als omgevingsplanactiviteit (legesverordening art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'), met een foute verwijzing in de leges naar 'artikel 4:75 van de Verordening Fysieke Leefomgeving gemeente Bladel 2021, 1e wijziging'. Eigen strafbepaling: art. 7.1 (hechtenis tot drie maanden of geldboete tweede categorie); WED-aanwijzing art. 7.2 lid 1 noemt art. 4.75 niet. Geen bestuurlijke boete voor kappen. Herplant na illegale kap: art. 4.79 lid 1 (kan).",
+  "procedure": "Omgevingsvergunning. Leges 2026 art. 2.30: EUR 105,80. Beslistermijn: VFL art. 1.2 lid 1 'binnen acht weken' voor een vergunning (APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning). Bezwaar en beroep via de Awb.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "De lijst met monumentaal groen (art. 4.80) en de lijst met herdenkingsbomen (art. 4.81) zijn niet in het dossier of in CVDR gevonden en niet ingezien; ze bepalen D niet. Omgevingsplan in het DSO niet ingezien. Het VTH-beleidsplan 2025-2028 is wel gelezen (geen boete of herplant voor illegale kap). Geen beleidsregel over herplant of compensatie gevonden naast het Landschapsbeleidsplan 2009-2024 (looptijd verstreken, streefsituatie).",
+  "artikelnummers": [
+    "VFL Bladel 2024 art. 1.2, 1.4, 1.8, 4.75, 4.76, 4.78, 4.79, 4.80, 4.81, 5:74 (definities), 7.1, 7.2 (CVDR711300_2)",
+    "APV Bladel 2025 art. 4:10 t/m 4:11e (vervallen) (CVDR736218_1)",
+    "Legesverordening Bladel 2026 art. 2.30 (CVDR747946_2)",
+    "Landschapsbeleidsplan Natuurlijk van nature 2009-2024 par. 3.5 (CVDR34529_1)",
+    "Omgevingsplan art. 22.299 (CVDR696494_4)"
+  ],
+  "opmerkingen": [
+    "D1: houtopstand in de hele gemeente met een hoge drempel van 120 cm omtrek (D2), minus 1 voor een ruime tuinuitzondering: vrijgesteld is ook alle houtopstand 'binnen vijftien meter van een vergund bouwwerk', ook als die dikker is dan 120 cm. De voorbeeldtuin (ca. 300 m2, woning op het perceel) valt hier vrijwel geheel onder, dus de voorbeeldboom in de achtertuin is vrij (regel INTENT: afstand tot de gevel geeft -1 als de voorbeeldboom daardoor vrij is). Minimum 1 omdat er beschermde particuliere bomen blijven (dikker dan 120 cm op meer dan 15 m van een bouwwerk, en lijstbomen).",
+    "Lezing van art. 4.75 lid 2 onder b: 'met een stamomtrek van minder dan 120 cm ... dan wel als de houtopstand zich bevindt binnen vijftien meter van een vergund bouwwerk' is gelezen als twee alternatieve vrijstellingen (minder dan 120 cm, of binnen 15 m van een vergund bouwwerk). Wordt 'dan wel' gelezen als een voorwaarde bij de omtrek, dan blijft D2 (strengheid 33 in plaats van 17).",
+    "Voorbeeldbomen A (80 cm) en B (40 cm): beide 'nee' (omtrek kleiner dan 120 cm en binnen 15 m van de woning). Boom A zou op gemeentegrond (kleiner dan 80 cm vrij) niet meer vrij zijn; dat is gemeentegrond en telt niet voor particuliere achtertuinen.",
+    "W2 zonder bereik: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer:' natuur, landschap, stads- en dorpsschoon, beeld, cultuurhistorie, leefbaarheid (art. 4.76 lid 1). De nummering van de gronden in het artikel loopt fout (e, f. b., g...); inhoudelijk geen gevolg. Strenger voor lijstbomen ('in beginsel geen omgevingsvergunning', art. 4.80 en 4.81): alleen als opmerking.",
+    "H1 (max 2): 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' (art. 4.78 lid 1). Art. 4.79 lid 4 maakt de herplantplicht op andere gronden dan gemeentegrond van toepassing 'alleen ... indien dit ruimtelijk mogelijk is': herplant met een voorwaarde, dus H1 met maximum 2. Het 'in het beginsel altijd' van art. 4.78 lid 2 geldt alleen voor vergunningen aan de gemeente zelf. Het Landschapsbeleidsplan (streefsituatie, looptijd 2009-2024) is een uitgangspunt en maakt herplant geen vast voorschrift.",
+    "Herplant na illegale kap: art. 4.79 lid 1 'kan'. Geen vastgestelde beleidsregel of handhavingsstrategie die dit verplicht maakt; het VTH-beleidsplan 2025-2028 (CVDR728453_1) noemt 'Illegale kap' met prioriteit 'Laag'. Telt voor S1.",
+    "S1: WED via de Omgevingswet (leges art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet', ook al verwijst de leges naar de VFL 2021) en eigen strafbepaling art. 7.1. Geen bestuurlijke boete voor kappen.",
+    "Kapregel is uit de APV verhuisd: APV 2025 art. 4:10 tot en met 4:11e staan op '(Vervallen)'. De VFL 2024 (afdeling 4.8.1) geldt. APV art. 6:1 lid 2 verwijst nog naar 'artikel 4:11, tweede lid' (vervallen artikel).",
+    "Gemeentegrond heeft een aparte, strengere regeling (vrij tot 80 cm omtrek, herplantplicht 'altijd', per 50 cm omtrek een boom); dat is geen particulier terrein en telt niet mee."
+  ],
+  "modelsignalen": [
+    "Vrijstelling 'binnen vijftien meter van een vergund bouwwerk' naast een omtrekdrempel van 120 cm: het model kent -1 voor een afstand tot de gevel (alleen als de voorbeeldboom daardoor vrij is). Hier geldt het, maar de formulering 'dan wel' kan ook als een voorwaarde bij de omtrek gelezen worden; ik heb de ruime lezing (twee alternatieve vrijstellingen) gevolgd.",
+    "Herplantplicht 'alleen ... indien dit ruimtelijk mogelijk is' (art. 4.79 lid 4) staat in een artikel over illegale kap of verloren houtopstand, maar de formulering ('Indien de houtopstand wordt geveld') is algemeen. Als herplant met voorwaarde gescoord (H1, max 2).",
+    "Legesverordening verwijst naar een vervallen VFL (2021, 1e wijziging) en naar 'artikel 4:75' in plaats van art. 4.75 VFL 2024; behandeld als foute verwijzing (S1 zonder bereik)."
+  ]
+}

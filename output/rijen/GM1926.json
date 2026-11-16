@@ -1,0 +1,83 @@
+{
+ "gm_code": "GM1926",
+ "gemeente": "Pijnacker-Nootdorp",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Algemene Plaatselijke Verordening Pijnacker-Nootdorp 2024 (CVDR602413_5) afd. 4.3 art. 4:10 en 4:11, bijlage I (Bomenlijst, vastgesteld 1 juni 2017) en art. 6:1; Tarieventabel gemeentelijke belastingen en heffingen 2026 art. 2.8.2.1 (CVDR751366_4); Omgevingsprogramma Groen in en om de kernen (CVDR757806_1); Omgevingsplan art. 22.299 (CVDR696525_4)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR602413/5 ; https://lokaleregelgeving.overheid.nl/CVDR751366/4 ; https://lokaleregelgeving.overheid.nl/CVDR757806/1",
+ "datum_geldigheid": "APV CVDR602413_5 geldend vanaf 2024-02-14 t/m heden (peildatum scoren 2026-11-16); tarieventabel CVDR751366_4 vanaf 2026-11-03; omgevingsprogramma CVDR757806_1 vanaf 2026-02-27",
+ "laatste_wijziging": "APV: versie 5 per 2024-02-14 (de kapafdeling zelf is in dit dossier niet met eerdere versies vergeleken). Bomenlijst (bijlage I) vastgesteld 2017-06-01. Tarieventabel: versie 4 per 2026-11-03.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: de tarieventabel 2026 art. 2.8.2.1 noemt het vellen van een houtopstand 'bedoeld in artikel 4:11 van de Algemene Plaatselijke Verordening Pijnacker-Nootdorp 2024' een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 156 bekendmakingen op volledige tekst (benadering, kan ook niet-kapbesluiten bevatten), waarvan 61 besluiten en 2 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag over kap. Het kleine aantal kapbesluiten past bij een regime met een drempel van ca. 25 cm doorsnede; geen aanwijzing voor een ander regime.",
+ "vergunningplicht": "Omgevingsvergunning (APV 4:11 lid 1): 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de lijst vermeld op bijlage 1 (Bomenlijst).' Bijlage I is geen lijst met losse bomen maar een algemene regel: 'De vergunningsvereiste ... geldt voor alle houtopstanden, met uitzondering van houtopstanden indien het betreft:' (twaalf uitzonderingen).",
+ "drempel": "Bijlage I onder 9: uitgezonderd zijn 'bomen met een dwarsdoorsnede kleiner of gelijk aan 25 centimeter, gemeten op 1,3 meter boven het maaiveld'. Dus vergunning vanaf een dwarsdoorsnede groter dan 25 cm, omgerekend omtrek meer dan 78,5 cm (25 x 3,14).",
+ "omtrek_cm": 78.5,
+ "meethoogte": "1,3 meter boven het maaiveld (het omgevingsprogramma noemt 'nu 25 cm op 1,50 meter hoogte'; scoren op de bijlage)",
+ "reikwijdte": "Hele gemeente (bijlage I: 'geldt voor alle houtopstanden'), particulier en openbaar. Buiten de bebouwde kom zijn bomen groter dan 25 cm alleen vrij als ze 'niet zijnde op erven of tuinen', in een rijbeplanting van meer dan 20 bomen of in een zelfstandige eenheid van meer dan 10 are staan; tuinen en erven buiten de kom blijven dus onder de regel. Houtopstand 'binnen de bebouwde kom, met uitzondering van kapvergunningsplichtige bomen, met een oppervlakte tot maximaal 50 m2' is vrij (onder 11): dat gaat om beplanting, niet om bomen boven de drempel.",
+ "uitzonderingen": "Bijlage I: populieren of wilgen als wegbeplanting, langs waterwegen of eenrijig langs landbouwgronden (tenzij geknot); 'fruitbomen en windschermen om boomgaarden'; kerstbomen tot twintig jaar; kweekgoed; Plantenziektewet of aanschrijving; hakhout; dunnen; kandelaberen; bomen kleiner of gelijk aan 25 cm doorsnede; bovengenoemde uitzonderingen buiten de kom; houtopstand tot 50 m2 binnen de kom; biomassa-aanplant. Art. 4:11 lid 3: burgemeester kan toestemming geven bij spoedeisend belang of direct gevaar. Geen tuin-, erf-, perceel- of aantalsuitzondering: geen correctie.",
+ "weigeringsgronden": "APV 4:11 lid 2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de botanische waarde van de houtopstand; c. de landschappelijke waarde van de houtopstand; d. de waarde van de houtopstand voor stads- en dorpsschoon; e. de beeldbepalende waarde van de houtopstand; f. de cultuurhistorische waarde van de houtopstand; of g. de waarde voor de leefbaarheid van de houtopstand.' Omgevingsprogramma 5.3.2: 'wordt het merendeel van de aangevraagde kapvergunningen momenteel verleend' (praktijk, geen strengere toetsing).",
+ "herplantplicht": "APV 4:11 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Omgevingsprogramma 5.4.3.1 (vastgesteld beleid, geldend in CVDR): 'Voor alle gekapte bomen blijft de herplantplicht gelden, zowel op gemeentelijke gronden als op particuliere percelen.' Geen verplichte financiële compensatie of herplantfonds gevonden.",
+ "herplant_ontsnapping": "APV: herplant is een bevoegdheid ('kan ... opleggen'), het bevoegd gezag (college) beslist per geval. Het omgevingsprogramma noemt geen uitweg bij de zin over de herplantplicht ('voor alle gekapte bomen'). Geen betaling in plaats van herplant geregeld. Herplant na illegale kap: niet geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Geen bepaling 'is verplicht daaraan te voldoen' in de APV-afdeling. Art. 6:1 lid 1: 'Overtreding van enig voorschrift gesteld bij of krachtens deze verordening en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Die algemene strafbepaling noemt art. 4:11 lid 4 niet: volgens de veldregel 'niets geregeld' (alleen algemeen instrumentarium: bestuursdwang of dwangsom, niet apart in de APV gelezen).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "APV art. 6:1 lid 1: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 6:1 lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, eerste lid' (WED-aanwijzing in de regeling). Daarnaast WED via Ow 5.1 (tarieventabel 2.8.2.1 noemt omgevingsplanactiviteit). Geen bestuurlijke boete gevonden.",
+ "procedure": "Aanvraag omgevingsvergunning. Leges: tarieventabel 2026 art. 2.8.2.1: € 111,30 (CVDR751366_4; niet in tekst/ van het dossier, opgehaald uit de CVDR-XML). Bekendmaking in het gemeenteblad. APV 4:12 (vergunning van rechtswege) is vervallen. Bezwaar, beroep en beslistermijn niet apart gelezen (Awb).",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "",
+ "status": "ok",
+ "ontbrekend": "Beleidsregels over herplant, compensatie of handhaving niet gevonden buiten het omgevingsprogramma. Omgevingsplan in het DSO niet ingezien. De APV-bepalingen over bezwaar, beroep en beslistermijn en het algemene instrumentarium niet apart gelezen. Legesverordening apart niet in het dossier; leges alleen via de tarieventabel (CVDR751366_4) gelezen.",
+ "artikelnummers": [
+  "APV 4:10",
+  "APV 4:11",
+  "APV 4:12 (vervallen)",
+  "APV 6:1",
+  "APV bijlage I (Bomenlijst)",
+  "Tarieventabel 2026 art. 2.8.2.1",
+  "Omgevingsprogramma 5.3.2 en 5.4.3.1",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D: bijlage I bij de APV heet 'Bomenlijst' maar bevat een algemene regel ('geldt voor alle houtopstanden, met uitzondering van'). Het is dus geen lijstsysteem van losse bomen. Drempel 'kleiner of gelijk aan 25 centimeter' doorsnede vrij: omtrek 78,5 cm, D3 (60-100 cm). Boom A (omtrek 80 cm, doorsnede ca. 25,5 cm) valt er net boven.",
+  "Correctie: geen. Tuinen en erven buiten de kom vallen onder de regel. Fruitbomen en windschermen 'om boomgaarden' is de gangbare boomgaarduitzondering. De uitzondering voor populieren en wilgen geldt alleen als wegbeplanting, langs waterwegen of eenrijig langs landbouwgronden, niet in tuinen. Uitzondering tot 50 m2 binnen de kom geldt voor houtopstand 'met uitzondering van kapvergunningsplichtige bomen'.",
+  "W: 'kan de vergunning worden geweigerd op grond van' natuur-, botanische, landschappelijke, stadsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarde is een belangenafweging, W2.",
+  "H: 'kan een herplantplicht opleggen' (APV 4:11 lid 4). Het omgevingsprogramma (vastgesteld beleid, geldend in CVDR) zegt 'Voor alle gekapte bomen blijft de herplantplicht gelden, ... op particuliere percelen' en 'Deze verplichting is geregeld in de APV'. De APV zelf zegt 'kan'. Puntschatting H2 (beleid maakt herplant verplicht), minimum 1; zie modelsignaal.",
+  "S: WED-aanwijzing in APV 6:1 lid 2 voor 4:11 lid 1 en de tarieventabel noemt het vellen een omgevingsplanactiviteit: S1 zonder bereik. Geen bestuurlijke boete.",
+  "Toekomstig, telt niet mee: het omgevingsprogramma kondigt aan dat 'straks' een stamdiameter van 30 centimeter geldt ('nu 25 cm op 1,50 meter hoogte'), de vergunningplicht 'op woonpercelen tot 250 m2' vervalt en een 'waardevolle bomenlijst' komt waarna 'de vergunningplicht alleen van toepassing verklaard' wordt op de lijstbomen. In de APV staat dit nog niet. Vrijstelling tot 250 m2 zou de voorbeeldtuin van ca. 300 m2 niet vrijstellen; een drempel van 30 cm doorsnede (omtrek ca. 94 cm) zou boom A vrijstellen.",
+  "Leges: tarieventabel 2026 art. 2.8.2.1 (CVDR751366_4) staat niet in tekst/ van het dossier (niet gedownload) maar is bij deze scoring uit de CVDR-XML gelezen; het dossier noemt de legesrij niet.",
+  "APV-toelichting verwijst nog naar de Wabo (APV 2017); de tekst is niet aangepast aan de Omgevingswet. Geen invloed op de score."
+ ],
+ "modelsignalen": [
+  "Pijnacker-Nootdorp H: APV zegt 'kan een herplantplicht opleggen', het geldende omgevingsprogramma zegt 'Voor alle gekapte bomen blijft de herplantplicht gelden' en beschrijft dat als bestaande APV-regel. Dat is een beschrijving, geen eigen verordenende tekst, en de zin staat in een passage die ook toekomstig beleid beschrijft. Het model onderscheidt dat niet duidelijk van 'wordt altijd opgelegd' (H2) en 'doorgaans' (H1, max 2). Advies: H2 (min 1) laten staan omdat de zin zonder voorbehoud ('alle gekapte bomen') geldend beleid noemt; als je liever alleen verordenende of bindend geformuleerd beleid telt, dan H1 met max 2.",
+  "Pijnacker-Nootdorp D: een APV-bijlage genaamd 'Bomenlijst' bevat in werkelijkheid een algemene regel met uitzonderingen. Advies: scoren als breed regime (D3), niet als lijstsysteem; vermelden in het rapport dat de naam misleidt.",
+  "Pijnacker-Nootdorp en Delft herplant_niet_nakomen: een algemene strafbepaling die 'voorschriften' strafbaar stelt maar het herplantartikel niet noemt, geeft volgens de veldregel van 16-11 'niets geregeld'. Eerdere gemeenten kregen vaak 'strafbaar (rechter)'. Advies: eenduidig maken."
+ ]
+}

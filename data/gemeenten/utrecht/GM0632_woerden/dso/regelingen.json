@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0632/2026/Regeling1fdade6007244a02ba80efa6f0b4d110",
+    "titel": "Warmteprogramma Woerden",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0632/2026/Regeling1fdade6007244a02ba80efa6f0b4d110/nld@2026-02-03;16483499",
+    "beginGeldigheid": "2026-02-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0632_2026_Regeling1fdade6007244a02ba80efa6f0b4d110?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:02Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0632/2026/Regelingef924c65b17545b49aaa96aa5b192263",
+    "titel": "Omgevingsvisie Woerden",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0632/2026/Regelingef924c65b17545b49aaa96aa5b192263/nld@2026-06-01;07401932",
+    "beginGeldigheid": "2026-06-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0632_2026_Regelingef924c65b17545b49aaa96aa5b192263?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:02Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0632/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Woerden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0632/2020/omgevingsplan/nld@2026-03-31;15591625",
+    "beginGeldigheid": "2026-05-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0632_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:02Z"
+  }
+]

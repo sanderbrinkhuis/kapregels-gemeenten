@@ -1,0 +1,76 @@
+{
+ "provincie": "Limburg",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "status": "ok",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "gm_code": "GM0888",
+ "gemeente": "Beek (L.)",
+ "brondocument": "Verordening Fysieke Leefomgeving Beek 2024, art. 1:1, 2:3, 2:4, 3:15, 5:1; APV gemeente Beek 2024, art. 4:10, 4:11 ('Naar de verordening fysieke leefomgeving'), 4:12, 6:1; Omgevingsplan gemeente Beek art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR721802/1 ; https://lokaleregelgeving.overheid.nl/CVDR721478/2 ; https://lokaleregelgeving.overheid.nl/CVDR696436/3",
+ "datum_geldigheid": "VFL CVDR721802_1 geldend vanaf 2024-07-05 t/m heden (peildatum 2026-11-14); APV CVDR721478_2 geldend vanaf 2025-09-27; Omgevingsplan CVDR696436_3 geldend vanaf 2026-10-28",
+ "laatste_wijziging": "VFL: versie 1 per 2024-07-05 (niet gewijzigd sinds). APV: versie 2 per 2025-09-27. Omgevingsplan: versie 3 per 2026-10-28.",
+ "juridische_plaats": "VFL (Verordening Fysieke Leefomgeving Beek 2024) art. 3:15 bevat de kapregel. APV art. 4:10 en 4:11 zijn leeg ('(Naar de verordening fysieke leefomgeving)'). De legesverordening (CVDR708170_4) art. 2.30 noemt het vellen van houtopstand een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (maar verwijst nog naar 'artikel 4:11 van de APV'). Omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 9 bekendmakingen op titel, waarvan 2 over het kappen van bomen: een aanvraag (gmb-2025-373399) en een beschikking (gmb-2025-464072) voor één pand; 0 weigeringen; de overige zijn ingetrokken aanvragen voor nieuwbouw ('kap' in de zin van dak). Geen grondslag genoemd. Weinig besluiten past bij een lijstsysteem.",
+ "vergunningplicht": "Omgevingsvergunning van het bevoegd gezag voor het vellen van houtopstanden die op de Bomenlijst staan (VFL art. 3:15 lid 1).",
+ "drempel": "Geen drempel: alleen houtopstanden die op de Bomenlijst staan, ongeacht omvang.",
+ "reikwijdte": "VFL art. 3:15 lid 1: 'houtopstanden te vellen of te doen vellen die staan vermeld op de in artikel 1:1 genoemde Bomenlijst.' Art. 1:1: 'bomenlijst: een door het college vastgestelde Bomenlijst, waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld'. Gehele gemeente, alleen aangewezen bomen.",
+ "uitzonderingen": "Art. 3:15 lid 3: 'Het verbod is niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Geen uitzondering voor tuinen of soorten.",
+ "weigeringsgronden": "VFL art. 3:15 lid 2: 'In afwijking van artikel 2:4 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+ "herplantplicht": "VFL art. 3:15 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Bevoegdheid (kan). Geen storting of fonds in de regeling. Geen beleidsregel over herplant gevonden.",
+ "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid van het bevoegd gezag ('kan'); het bevoegd gezag beslist per geval. Betaling als alternatief: geen.",
+ "herplant_niet_nakomen": "Een opgelegd voorschrift is wel verplicht: VFL art. 2:3 lid 2 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Een specifieke sanctie voor het niet nakomen van herplant staat niet in de regeling. VFL art. 5:1 lid 1 sluit hoofdstuk 3 van de gewone strafbepaling uit en lid 2 zegt 'Het bepaalde in het eerste lid geldt niet voor zover de Wet op de economische delicten voorziet in strafbaarstelling.' Alleen het algemene instrumentarium blijft; hoe de WED hierop doorwerkt is niet in de tekst vastgesteld.",
+ "sancties": "Geen eigen strafbepaling voor hoofdstuk 3 (VFL art. 5:1 lid 1 sluit hoofdstuk 3 uit); strafbaarstelling loopt via de WED: APV art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 3:1 Verordening fysieke leefomgeving en 3:2 Verordening fysieke leefomgeving als sprake is van een omgevingsvergunningplichtige activiteit en artikel 3:15 Verordening fysieke leefomgeving, tweede lid.' Daarnaast WED via Ow 5.1 (omgevingsplanactiviteit, INTENT stap 1a). Geen bestuurlijke boete, geen handhavingsbeleid voor kap (het Uitvoeringsprogramma CVDR741645_1 noemt kappen alleen in een risicoanalyse). S = 1.",
+ "procedure": "Omgevingsvergunning; leges 2026 (CVDR708170_4) art. 2.30: € 365,50. Beslistermijn voor omgevingsvergunning: niet vastgelegd in de VFL-tekst (APV art. 1:2 lid 3 sluit omgevingsvergunning uit). Geen bepaling over publicatie of vergunning van rechtswege (APV art. 4:12 'gereserveerd').",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_telling": "lijst niet ingezien: korte zoekpoging op gemeentebeek.nl (enkele paden gaven 404) leverde geen Bomenlijst op",
+ "ontbrekend": "Bomenlijst niet gevonden; onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "VFL 2024 art. 1:1, 2:3, 2:4, 3:15, 5:1",
+  "APV 2024 art. 4:10, 4:11, 4:12, 6:1",
+  "Legesverordening 2024 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Welke tekst geldt: de APV (CVDR721478_2) bevat art. 4:10 en 4:11 alleen nog als doorverwijzing '(Naar de verordening fysieke leefomgeving)'; de kapregel staat in VFL art. 3:15 (CVDR721802_1, in werking 2024-07-05). De VFL is de bron voor W, H en S.",
+  "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus puntschatting D1 en bereik vanaf D0. Betrouwbaarheid laag. De lijst heet in art. 1:1 'monumentale en andere beschermenswaardige bomen'; er staat niet in of particuliere bomen erop staan.",
+  "W2: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ...' (art. 3:15 lid 2); belangenafweging op natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden.",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 3:15 lid 4). Geen beleidsregel die dit verplicht maakt.",
+  "Foutieve verwijzingen in de regeling zelf: legesverordening art. 2.30 noemt 'artikel 4:11 van de APV', terwijl de kapregel nu in VFL art. 3:15 staat. APV art. 6:1 lid 1 en 2 verwijzen naar 'Artikelen 3:1 ... 3:2 ... en 3:15 Verordening fysieke leefomgeving' en naar '3:15 ... tweede lid', dat geen verbod bevat maar de weigeringsgronden (waarschijnlijk bedoeld: eerste lid). Dit verandert de score niet.",
+  "Subsidieregeling aanplantregeling buitengebied (CVDR737260_1, CVDR758504_1) is een subsidie voor aanplant, geen herplantverplichting; niet gelezen op kap en niet meegeteld."
+ ],
+ "modelsignalen": [
+  "Beek: een APV die een strafbepaling met WED-aanwijzing bevat voor artikelen van een andere verordening (VFL) en een VFL die hoofdstuk 3 uitsluit van de eigen strafbepaling; dubbele en deels onjuiste verwijzingen. S is in beide routes 1 maar de feitelijke strafbaarstelling is onduidelijk.",
+  "herplant_na_illegale_kap = 'nee' gekozen omdat de tekst herplant na illegale kap niet apart noemt; het model kent geen waarde voor 'niet geregeld'."
+ ]
+}

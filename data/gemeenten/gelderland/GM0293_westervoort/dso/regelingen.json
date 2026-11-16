@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0293/2025/Regeling2c7e27c0261a439ebdc52237d76240ad",
+    "titel": "Regionale Energie Strategie gemeente Westervoort",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0293/2025/Regeling2c7e27c0261a439ebdc52237d76240ad/nld@2026-03-12;09062814",
+    "beginGeldigheid": "2026-04-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0293_2025_Regeling2c7e27c0261a439ebdc52237d76240ad?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0293/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Westervoort",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0293/2020/omgevingsplan/nld@2026-04-24;11551487",
+    "beginGeldigheid": "2026-04-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0293_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:40Z"
+  }
+]

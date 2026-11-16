@@ -1,0 +1,75 @@
+{
+ "provincie": "Noord-Brabant",
+ "gm_code": "GM1723",
+ "gemeente": "Alphen-Chaam",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen lijstsysteem (regime voor de hele gemeente met een erven-en-tuinenuitzondering); alleen het Landelijk Register voor Monumentale Bomen speelt een rol voor tuinen",
+ "brondocument": "Algemene plaatselijke verordening gemeente Alphen-Chaam 2022, afdeling 4.3 (art. 4:10, 4:11, 4:11a, 4:11d, 4:11e, 4:11h) en art. 6:1; Verordening op de heffing en de invordering van leges 2026 art. 2.30; Beleidsplan Vergunningen, Toezicht & Handhaving 2020-2024",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR676528/4 ; https://lokaleregelgeving.overheid.nl/CVDR757657/1 ; https://lokaleregelgeving.overheid.nl/CVDR640597/1",
+ "datum_geldigheid": "APV CVDR676528_4 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-15); leges CVDR757657_1 vanaf 2026-02-26",
+ "laatste_wijziging": "APV: versie 4 per 2024-01-01 (wijziging o.a. art. 4:10, 4:11, 4:13 en 4:15; vaststelling 2022-06-30).",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR757657_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening gemeente Alphen-Chaam in samenhang met artikel 22.8 van de Omgevingswet'. WED-aanwijzing ook in APV art. 6:1 lid 3.",
+ "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 74 bekendmakingen, waarvan 23 besluiten, 50 aanvragen en 0 weigeringen. Steekproef: verleende kapvergunningen, meerdere met herplantplicht (bijv. gmb-2026-311023, gmb-2026-426439); een kastanjeboom in een achtertuin kreeg een vergunning (gmb-2025-521405; kastanje staat op de soortenlijst van art. 4:11 lid 2) en het kappen van twee bomen in een achtertuin was 'vergunningvrij' (gmb-2025-477184), in lijn met de tuinuitzondering. Besluiten noemen geen grondslag.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand (art. 4:11 lid 1), met uitzondering van houtopstand op erven en in tuinen, behalve leibomen, knotbomen en een lijst soorten (lid 2).",
+ "drempel": "Houtopstand zonder drempel in art. 4:11; 'boom' heeft een stamdiameter van minimaal 30 cm gemeten op 130 cm hoogte (art. 4:10 onder d), geen minimum voor gemeentelijke hoofdgroenstructuur, herplantbomen en bomen onder art. 4:11 lid 3 onder g.",
+ "omtrek_cm": 94.2,
+ "meethoogte": "130 cm boven het maaiveld",
+ "reikwijdte": "Hele gemeente (binnen en buiten de bebouwde kom; bebouwde kom volgens Wnb art. 4.1 zoals die wet luidde voor de Omgevingswet). Art. 4:11 lid 4: verbod 'geldt niet voor houtopstand gelegen buiten de bebouwde kom en behorend tot houtopstand als bedoeld in artikel 4.1 van de Wet natuurbescherming' (bevoegdheid provincie). Art. 4:11 lid 2: 'Het in het eerste lid gestelde verbod geldt niet voor houtopstand op erven en in tuinen met uitzondering van: a. leibomen of knotbomen; b. esdoorn, paardenkastanje, haagbeuk, tamme kastanje, beuk, plataan, linde, iep, meidoorn, Chinese moerascipres en eik.'",
+ "uitzonderingen": "Art. 4:11 lid 2: alle houtopstand op erven en in tuinen, behalve leibomen, knotbomen en de soorten esdoorn, paardenkastanje, haagbeuk, tamme kastanje, beuk, plataan, linde, iep, meidoorn, Chinese moerascipres en eik (monumentale bomen blijven beschermd, lid 5). Lid 3: Amerikaanse eik, Plantenziektewet of aanschrijving, periodiek vellen van hakhout, scheren/knotten/kandelaberen van vormbomen, snoeiwerk bij achterstallig onderhoud, dunning, 'Samen voor Groen'-bomen na de instandhoudingstermijn (met melding). Lid 6: college kan houtopstand aanwijzen waarvoor de tuinuitzondering niet geldt.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4:11a lid 2: 'wordt de vergunning voor het vellen van houtopstand als bedoeld in artikel 4:11 geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' op basis van natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of leefbaarheid. Lid 1: vergunning kan worden geweigerd of onder voorschriften verleend.",
+ "herplantplicht": "Art. 4:11d lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: bij niet kunnen herplanten kan een geldelijke bijdrage in het Bomencompensatiefonds worden opgelegd. Na illegale kap (art. 4:11e lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'; lid 2: 'Indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort in het Bomencompensatiefonds.'",
+ "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Art. 4:11d lid 2: 'Indien niet ter plaatse kan worden herplant, kan het voorschrift worden opgelegd dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk Bomencompensatiefonds.' Herplant na illegale kap: kan (art. 4:11e lid 1).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:11d lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' De strafbepaling art. 6:1 lid 1 noemt 'artikelen 3:1 t/m 4:9; en artikelen 4:12 t/m 5:37', dus niet art. 4:11d. Verder alleen het algemene instrumentarium (bestuursdwang of dwangsom); niets specifieks geregeld.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 3 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en 4:11, eerste lid.' Ook via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Geen bestuurlijke boete voor kappen; geen eigen strafbepaling anders dan WED. Herplant na illegale kap: 'kan' (art. 4:11e).",
+ "procedure": "Omgevingsvergunning, schriftelijk en gemotiveerd aangevraagd (art. 4:11b); vergunning vervalt na drie jaar zonder gebruik (art. 4:11c); noodkap: besluit kan direct in werking treden (art. 4:11 lid 7). Leges 2026 art. 2.30: EUR 228,85. Bezwaar en beroep via de Awb; beslistermijn niet apart gelezen (APV art. 1:2).",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien. Of de gemeente met 'gemeentelijk beleid' een hoofdgroenstructuur heeft aangewezen (art. 4:10 onder g) is niet gevonden. Het Landelijk Register voor Monumentale Bomen is niet ingezien.",
+ "artikelnummers": [
+  "APV 2022 art. 4:10, 4:11, 4:11a, 4:11b, 4:11d, 4:11e, 6:1",
+  "Legesverordening 2026 art. 2.30",
+  "Beleidsplan VTH 2020-2024 (CVDR640597_1)"
+ ],
+ "opmerkingen": [
+  "D2: drempel via de definitie 'boom: een houtig opgaand gewas ... met een stamdiameter van minimaal 30 cm gemeten op 130 cm hoogte' = omtrek ca. 94 cm (30 x 3,14), dus middelmatig (D3). Art. 4:11 verbiedt het vellen van 'houtopstand' zonder drempel; regel 'houtopstand zonder drempel naast boom met drempel' toegepast: scoor op de drempel voor bomen. Correctie -1: het verbod geldt niet voor alle 'houtopstand op erven en in tuinen' behalve leibomen, knotbomen en 11 soorten: ruime tuinuitzondering. Buiten de bebouwde kom geldt dezelfde tuinuitzondering en vallen Wnb-houtopstanden onder de provincie, dus geen hoger deel.",
+  "W2: 'wordt de vergunning voor het vellen van houtopstand als bedoeld in artikel 4:11 geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (art. 4:11a lid 2), zonder bereik.",
+  "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4:11d lid 1). Geen beleidsregel over herplant of compensatie in het dossier. Het verplichte storten in het Bomencompensatiefonds (art. 4:11e lid 2) geldt alleen na illegale kap en verhoogt H niet.",
+  "S1: WED-aanwijzing in de APV (art. 6:1 lid 3) en WED via de Omgevingswet. Het Beleidsplan VTH 2020-2024 noemt kappen zonder vergunning als hoge prioriteit voor handhaving ('Kappen bomen / houtopstand zonder omgevingsvergunning | HOOG') maar bevat geen boete of boomwaarde-koppeling.",
+  "Voorbeeldbomen A (omtrek 80 cm, ca. 25 cm) en B (40 cm, ca. 13 cm) in een achtertuin: beide nee, omdat de tuinuitzondering geldt voor soorten buiten de lijst en omdat beide onder de 30 cm diameter blijven. Bij een soort van de lijst (bijv. eik, linde, beuk) en art. 4:11 zonder drempel zou voor A of B wel een vergunning nodig kunnen zijn; die lezing volgt het model niet.",
+  "Art. 4:11 lid 5: voor monumentale bomen (Landelijk Register) geldt de tuinuitzondering niet; aantal niet ingezien en niet nodig voor D."
+ ],
+ "modelsignalen": [
+  "Art. 4:11 verbiedt het vellen van 'houtopstand' zonder drempel, terwijl de definitie van 'boom' een minimale diameter van 30 cm kent en 'houtopstand' ook 'ander houtachtig gewas' omvat. De regel 'houtopstand zonder drempel naast boom met drempel' is hier toegepast (D op 94 cm), maar strikt gelezen is een dunne boom in een tuin met een soort van de lijst wel vergunningplichtig; dan zou D3 of zelfs hoger gelden en zijn voorbeeldbomen A en B afhankelijk van de soort. Het model geeft geen duidelijk antwoord.",
+  "De tuinuitzondering met een positieve uitzonderingslijst (tuinen vrij, behalve 11 soorten) is niet precies dezelfde situatie als een 'positieve soortenlijst' of een 'tuinuitzondering'; -1 toegepast als ruime tuinuitzondering. Een tuin met veel soorten van de lijst (eik, beuk, linde) valt bijna geheel onder de regel."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "gemeente": "Borne",
+  "gm_code": "GM0147",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Borne",
+  "zoeknaam_bekendmakingen": "Borne",
+  "opgehaald_op": "2026-11-14T21:47:53+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Borne\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 54,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Borne\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 124,
+  "geldende_regelingen": 21,
+  "geldend_met_kapartikelen": [
+    "CVDR41212_1",
+    "CVDR696192_2",
+    "CVDR709792_2",
+    "CVDR747696_2",
+    "CVDR751782_1",
+    "CVDR751785_1",
+    "CVDR769261_1"
+  ],
+  "bekendmakingen_besluiten": 56,
+  "bekendmakingen_aanvragen": 66,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

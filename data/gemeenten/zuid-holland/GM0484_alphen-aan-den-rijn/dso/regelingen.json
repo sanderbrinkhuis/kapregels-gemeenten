@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0484/2026/Regeling549df07103cc46a3964fefa8060e4c35",
+    "titel": "Deel-Omgevingsprogramma Oude Rijn-N11 zone Oost",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0484/2026/Regeling549df07103cc46a3964fefa8060e4c35/nld@2026-03-12;11505446",
+    "beginGeldigheid": "2026-03-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0484_2026_Regeling549df07103cc46a3964fefa8060e4c35?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0484/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Alphen aan den Rijn",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0484/2020/omgevingsplan/nld@2025-06-16;09241033",
+    "beginGeldigheid": "2025-06-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0484_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:10Z"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "gemeente": "Laarbeek",
+  "gm_code": "GM1659",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Laarbeek",
+  "zoeknaam_bekendmakingen": "Laarbeek",
+  "opgehaald_op": "2026-11-15T21:05:24+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Laarbeek\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 24,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Laarbeek\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 60,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR696470_3",
+    "CVDR740034_1",
+    "CVDR754084_1"
+  ],
+  "bekendmakingen_besluiten": 27,
+  "bekendmakingen_aanvragen": 29,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

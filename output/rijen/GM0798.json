@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0798",
+  "gemeente": "Hilvarenbeek",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene Plaatselijke Verordening Hilvarenbeek 2026, Deel II Fysieke Leefomgeving, afdeling 3 'Het bewaren van houtopstanden' (art. 3:10, 3:11a-3:11g, 6:1); Bomenbeleidsplan (CVDR680356_1); Legesverordening 2026 (CVDR747449_4); Omgevingsplan (CVDR696412_5)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR765106/1",
+  "datum_geldigheid": "geldend van 2026-07-28 t/m heden (CVDR765106_1; peildatum 2026-11-15)",
+  "laatste_wijziging": "2026-07-28 (nieuwe regeling: APV Openbare Orde en Veiligheid 2025 en APV Fysieke Leefomgeving 2025 zijn samengevoegd en ingetrokken, art. 6:4)",
+  "juridische_plaats": "APV 2026 (deel II Fysieke Leefomgeving); werkt als omgevingsplanactiviteit: legesverordening 2026 tarief 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf (par. 6.3.2.4) regelt alleen houtgewas in drie aangewezen gebieden.",
+  "praktijkcontrole": "Sinds 2025 maar 3 bekendmakingen over kap (titelzoekactie): 0 besluiten, 1 ingekomen aanvraag (het kappen van 4 kastanjebomen, 2025-01-23) en 2 BOPA's voor woningbouw. Te weinig om iets over het regime af te leiden; er is geen tegenspraak met een vergunningplicht voor houtopstanden vanaf 20 cm. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 129 bekendmakingen sinds 1-1-2025, waarvan 2 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand, art. 3:11a lid 1",
+  "drempel": "Verbod geldt niet voor houtopstanden 'met een dwarsdoorsnede kleiner dan 20 cm op 1,3 meter' (art. 3:11a lid 2 sub a); dus vergunningplicht vanaf 20 cm doorsnee. De definitie 'boom' in art. 3:10 sub b noemt een omtrek van minimaal 60 cm. Omgerekend 20 cm x 3,14 = 62,8 cm omtrek.",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,3 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en gemeentelijk ('gemeentelijke en particuliere houtopstanden'); binnen en buiten de bebouwde kom. Het verbod in art. 3:11a lid 1 noemt geen lijst: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Wel is in art. 3:10 sub f een 'lijst van waardevolle bomen' gedefinieerd, maar het verbod gebruikt die lijst niet.",
+  "uitzonderingen": "Art. 3:11a lid 2: sub b houtopstanden op private percelen kleiner dan 250 m2 inclusief bebouwing binnen de bebouwde kom (voorbeeldtuin van ca. 300 m2 valt er niet onder, dus geen correctie); sub c populieren/wilgen als wegbeplanting of eenrijige beplanting op of langs landbouwgronden; sub d kweekgoed; sub e-f regulier onderhoud (hakhout, knotten, kandelaberen); sub g windschermen om boomgaarden; sub h bedrijfsmatig gekweekte fruitbomen; sub i kerstbomen; sub j bosbouwondernemingen buiten de kom; sub k Plantgezondheidswet of aanschrijving. Lid 4: noodtoestand.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "weigeringsgronden": "Art. 3:11a noemt zelf geen weigeringsgronden. De algemene APV-bepaling art. 1:7 is niet uitgesloten voor de omgevingsvergunning: 'Een vergunning of ontheffing kan in ieder geval worden geweigerd in het belang van:' ... 'd. de bescherming van het milieu'. Het Bomenbeleidsplan zegt voor bomen op de waardevolle bomenlijst: 'Deze vergunning zal alleen bij zwaarwegende argumenten worden verleend.' Die lijst wordt in het verbod niet gebruikt. De vroegere weigeringsgronden (beeldbepalende, cultuurhistorische, landschappelijke waarde, leefbaarheid; oud art. 4:11c) staan alleen in bijlage 1 van het Bomenbeleidsplan (externe bijlage exb-2022-43905), niet in de APV 2026.",
+  "herplantplicht": "APV art. 3:11d lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Na illegale kap art. 3:11e lid 1: 'kan het college' een herplantverplichting opleggen. Bomenbeleidsplan (CVDR680356_1, door de raad vastgesteld, geldend): 'Een herplantverplichting wordt daarom standaard opgelegd bij het afgeven van een kapvergunning.' Geen verplichte storting bij gewone kap.",
+  "herplant_ontsnapping": "APV: 'kan' (bevoegdheid van het college, geen plicht). Beleidsplan: herplant 'standaard', de uitvoering is 'flexibel' ('De wijze waarop de herplantplicht wordt uitgevoerd is flexibel.'); het college (groenbeheerder) bepaalt soort, plaats en maat.",
+  "sancties": "WED via Ow 5.1: leges 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow. APV 6:1 lid 2 (WED-aanwijzing) noemt art. 3:11a niet (verwijst naar 2:10, 2:11, 2:12 en 4:11); lid 1 is een algemene strafbepaling (hechtenis van ten hoogste drie maanden of geldboete tweede categorie). Geen bestuurlijke boete voor kap. Het Bomenbeleidsplan noemt bij illegale kap financiele compensatie (boomwaarde NVTB, bomenfonds) en herplantplicht, alleen in beleid.",
+  "procedure": "Leges 2026 tarief 2.30: EUR 340,75 (omgevingsplanactiviteit kappen). Aanvraag schriftelijk en gemotiveerd met situatieschets (art. 3:11b). Beslistermijn APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning. Vergunning vervalt na 1 jaar (art. 3:11c). Bezwaar en beroep volgens Awb: niet in de bronnen gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV art. 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde' wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Een aparte bepaling dat een opgelegd herplantvoorschrift 'verplicht' is ontbreekt in de APV (art. 1:3 is niet van toepassing op de omgevingsvergunning).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_telling": "Geen lijstsysteem: het verbod geldt voor alle houtopstanden vanaf 20 cm doorsnee. De 'lijst van waardevolle bomen' (art. 3:10 sub f) is niet ingezien; die speelt geen rol in de score.",
+  "status": "ok",
+  "ontbrekend": "De waardevolle bomenlijst (art. 3:10 sub f; Bomenbeleidsplan) niet ingezien en niet nodig voor D. De externe bijlagen exb-2022-43905 t/m exb-2022-43911 bij het Bomenbeleidsplan zijn niet in tekst/ opgenomen (bijlage 1 bevat de oude APV-tekst incl. weigeringsgronden art. 4:11c; CVDR-id CVDR680356_1). DSO-omgevingsplan niet ingezien (alleen CVDR696412_5).",
+  "artikelnummers": [
+    "APV 2026 art. 3:10 (definities), 3:11a (verbod, uitzonderingen), 3:11b, 3:11c, 3:11d, 3:11e, 1:7, 6:1",
+    "Leges 2026 tarief 2.30",
+    "Bomenbeleidsplan (CVDR680356_1), onderdelen Herplant, Kapbeleid (APV), Bescherming waardevolle bomen, Kappen zonder vergunning",
+    "Omgevingsplan art. 6.22-6.25 (houtgewas in drie aangewezen gebieden)"
+  ],
+  "opmerkingen": [
+    "D3: score op de verbodstekst art. 3:11a lid 1 ('houtopstand te vellen') met uitzondering voor 'houtopstanden met een dwarsdoorsnede kleiner dan 20 cm' = omtrek ca. 62,8 cm (60-100 cm). De definitie 'lijst van waardevolle bomen' (art. 3:10 sub f) komt in het verbod niet voor en is dus niet gebruikt. De definitie 'boom' (omtrek minimaal 60 cm) geeft dezelfde klasse. Artikel 3:11a (dwarsdoorsnede) en definitie (omtrek) wijken licht af; scoring op het verbod.",
+    "Bomenbeleidsplan 2016 (CVDR680356_1) beschrijft een lijststelsel: 'Alle bomen die niet op de waardevolle bomenlijst zijn opgenomen zijn in principe kapvergunningsvrij.' Dat stelsel staat niet in de APV 2026, die alle houtopstanden vanaf 20 cm onder het verbod brengt. Gescoord op de APV; het plan is gelezen als beleid dat een ander stelsel beschrijft (zie modelsignalen).",
+    "W2 (min 1): art. 1:7 'kan in ieder geval worden geweigerd in het belang van ... d. de bescherming van het milieu'; geen bomenspecifieke weigeringsgronden in de APV 2026. Beleid voor lijstbomen ('alleen bij zwaarwegende argumenten') telt niet voor het grootste deel van de gedekte bomen.",
+    "H2 (min 1, max 2): APV zegt 'kan'; het vastgestelde Bomenbeleidsplan zegt 'standaard opgelegd bij het afgeven van een kapvergunning' (en 'Bij verlening zal altijd een herplant opgelegd worden', alleen voor gemeentelijke bomen). Het plan is geschreven voor een lijststelsel, dus H1 is ook verdedigbaar.",
+    "Herplant na illegale kap: APV art. 3:11e lid 1 zegt 'kan'; Bomenbeleidsplan zegt 'Bij illegale kap geldt tevens dat naast de financiële compensatie ook een herplantplicht wordt opgelegd voor de gekapte boom' (bij waardevolle bomen). Veld op 'kan' gezet omdat het plan over lijstbomen gaat. Telt voor S (S1), niet voor H.",
+    "S1: WED via Ow 5.1 (leges 2.30 noemt omgevingsplanactiviteit). De WED-aanwijzing in APV 6:1 lid 2 verwijst naar een verkeerd artikel (2:10, 2:11, 2:12, 4:11 en niet 3:11a).",
+    "Omgevingsplan par. 6.3.2.4: vergunningplicht voor houtgewas alleen binnen beperkingengebied waterkering, oud gehuchtenpleintje en landschappelijk waardevol gebied (kleine gebiedsregel; de APV is breder). Beoordelingsregel: 'geen blijvend onevenredige afbreuk'.",
+    "Boom A (omtrek 80 cm, ca. 25 cm doorsnee): vergunning nodig. Boom B (omtrek 40 cm, ca. 13 cm): niet nodig (kleiner dan 20 cm doorsnee). Perceel ca. 300 m2 is groter dan 250 m2, dus de perceeluitzondering geldt niet. Boomsoort speelt geen rol.",
+    "Integraal handhavingsbeleid 2023 (CVDR695445_1): 'OOV: Kapvergunning /kappen' prioriteit 2 in de risicoanalyse; geen kapspecifieke boete of herplantregel.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 6.22, 6.23 en 6.25 (houtgewas planten, vellen of rooien) gelden alleen in 'beperkingengebied waterkering', 'oud gehuchtenpleintje' en 'landschappelijk waardevol gebied' (art. 4.18, 4.39, 4.42): kleine gebiedsregel, waterkering en landschap tellen niet voor D en D3 uit de APV is al hoger; art. 22.297 en 22.299 zijn alleen aanvraagvereisten. Geen aanvullende kapregel; ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Verordening (verbod voor alle houtopstanden vanaf 20 cm) en vastgesteld Bomenbeleidsplan (lijststelsel, 'in principe kapvergunningsvrij') spreken elkaar tegen. INTENT.md zegt dat een plan dat een toekomstig stelsel beschrijft niet telt en dat het verbod leidend is; gescoord op de APV, maar H ('standaard' in een plan voor lijstbomen) is een grensgeval.",
+    "Een APV-verbod met omgevingsvergunning zonder eigen weigeringsgronden: alleen de algemene APV-bepaling 1:7 (openbare orde, veiligheid, volksgezondheid, milieu). INTENT.md geeft geen regel voor een vergunning zonder bomenspecifieke criteria; W2 met minimum 1 gekozen.",
+    "Een WED-aanwijzing die de kapbepaling niet noemt maar waarbij de legesverordening het wel een omgevingsplanactiviteit noemt: gescoord als S1 volgens het besluit van 14-11-2026 (foute verwijzing noteren).",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: herplant_niet_nakomen: 'strafbaar (rechter)' alleen als de regeling een bepaling 'is verplicht daaraan te voldoen' heeft of de strafbepaling het artikel noemt; dat ontbreekt hier, dus 'niets geregeld'."
+  ]
+}

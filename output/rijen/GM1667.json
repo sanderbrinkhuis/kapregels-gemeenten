@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM1667",
+  "gemeente": "Reusel-De Mierden",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem als hoofdregime (breed regime met hoge drempel van 150 cm). Art. 3.6.1.2 zegt 'De gemeenteraad kan een bomenlijst met beschermwaardige houtopstand en hoofdlaanstructuren vaststellen'; een geldende bomenlijst is niet in CVDR gevonden (alleen een vervallen 'Lijst van beschermwaardige bomen', CVDR62459_1, uit 2002). Niet ingezien; de lijst bepaalt D niet.",
+  "brondocument": "Verordening fysieke leefomgeving Reusel-De Mierden 2025, 1e wijziging, art. 3.6.1.1 t/m 3.6.1.6 en 6.1.1 (CVDR738576_1); APV Reusel-De Mierden 2025, 1e wijziging, afdeling 4.3 (ingetrokken) (CVDR764953_1); Legesverordening 2026 art. 2.30 (CVDR751471_2); Omgevingsplan art. 22.299 (CVDR696474_3, alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR738576/1 ; https://lokaleregelgeving.overheid.nl/CVDR764953/1 ; https://lokaleregelgeving.overheid.nl/CVDR751471/2 ; https://lokaleregelgeving.overheid.nl/CVDR696474/3",
+  "datum_geldigheid": "VFL CVDR738576_1 geldend vanaf 2025-04-26 t/m heden (peildatum scoren 2026-11-15); APV CVDR764953_1 vanaf 2026-07-24; leges CVDR751471_2 vanaf 2026-01-05",
+  "laatste_wijziging": "VFL: versie 1 per 2025-04-26 (1e wijziging van de VFL 2025); APV 1e wijziging per 2026-07-24: art. 4:10 t/m 4:11e ingetrokken",
+  "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR751471_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 3.6.1.1 van de Verordening fysieke leefomgeving in samenhang met artikel 22.8 van de Omgevingswet'. De APV-kapartikelen zijn ingetrokken; omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 61 bekendmakingen, waarvan 1 besluit (een ingetrokken vergunning voor het kappen van een boom, gmb-2025-424424) en 33 aanvragen; geen weigeringen volgens de titel. Besluit noemt geen grondslag.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstand met een stamomtrek van meer dan 150 cm, houtopstand die is geplant als herplant- of instandhoudingsplicht, of houtopstand op de bomenlijst (art. 3.6.1.1 lid 1).",
+  "drempel": "Stamomtrek van meer dan 150 cm, gemeten op 130 cm hoogte boven het direct aangrenzend maaiveld (art. 3.6.1.1 lid 1 onder a).",
+  "omtrek_cm": 150,
+  "meethoogte": "130 cm boven het direct aangrenzend maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, binnen en buiten de bebouwde kom, zonder tuin- of erfuitzondering: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstand, anders dan bij wijze van dunning, te vellen of te doen vellen: a. houtopstand met een stamomtrek van meer dan 150 cm' (art. 3.6.1.1 lid 1). Ook geldt het verbod voor jongere houtopstand die is geplant als herplant- of instandhoudingsplicht en voor houtopstand op de bomenlijst.",
+  "uitzonderingen": "Art. 3.6.1.1 lid 2: wegbeplantingen en eenrijige beplantingen van populieren of wilgen op of langs landbouwgronden (tenzij geknot), fruitbomen (uitgezonderd wal- en okkernootbomen) en windschermen om boomgaarden, kerstbomen (fijnsparren tot 12 jaar), kweekgoed, dunning, houtopstand waarvoor het omgevingsplan een kapvergunning eist, Plantengezondheidswet of aanschrijving, erfbeplanting op grond van een overeenkomst met een bestuursorgaan, houtopstand bosbouwkundig of bedrijfseconomisch geëxploiteerd (Bal), Bal-bospercelen groter dan 10 are, en houtopstand kleiner dan 150 cm omtrek in een hoofdlanenstructuur van de bomenlijst. Lid 3: spoedeisend belang of direct gevaar met toestemming van de burgemeester. Geen tuinuitzondering en geen soortenlijst, dus geen correctie -1.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 3.6.1.1 lid 4: 'De omgevingsvergunning kan worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, waarde voor recreatie en leefbaarheid.",
+  "herplantplicht": "Art. 3.6.1.3 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant'. Lid 3: 'Tot aan de vergunning te verbinden voorschriften kan het voorschrift behoren dat ten behoeve van herplant een bijdrage wordt gestort in het geoormerkt groenkrediet van de gemeente.' Na illegale kap: art. 3.6.1.4 lid 1 'kan het bevoegd gezag aan de veroorzaker daarvan de verplichting opleggen ... een geldelijke vergoeding voor de schade te storten in het geoormerkt groenkrediet'; lid 2 'wordt de monetaire boomwaarde als uitgangspunt gehanteerd'. Geen beleidsregel over herplant of compensatie gevonden.",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht): het college beslist per geval. Betalen 'kan' ook worden opgelegd (art. 3.6.1.3 lid 3), maar alleen als voorschrift; geen uitweg bij een herplantplicht omdat er geen plicht is zolang het college niets oplegt.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 6.1.1 lid 1: 'Overtreding van het bepaalde bij of krachtens deze verordening en de daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Een algemene verplichting om een aan de vergunning verbonden voorschrift na te komen staat in art. 5.2.3 lid 2 ('Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen'), maar lid 3 zegt 'Dit artikel is niet van toepassing op een omgevingsvergunning'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet: de kapregel werkt als omgevingsplanactiviteit (legesverordening art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'). Eigen strafregel: VFL art. 6.1.1 lid 1 (hechtenis tot drie maanden of geldboete tweede categorie); lid 3: 'Het bepaalde in het eerste lid geldt niet voor zover de Wet op de economische delicten voorziet in strafbaarstelling.' Geen bestuurlijke boete voor kappen. Na illegale kap kan een geldelijke vergoeding gekoppeld aan de boomwaarde worden opgelegd (art. 3.6.1.4).",
+  "procedure": "Omgevingsvergunning. Leges 2026 art. 2.30: EUR 103,80. Beslistermijn: APV art. 1:2 lid 4 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning'. Bezwaar en beroep via de Awb. Het artikel 'Vergunning van rechtswege' (APV 4:12) is gereserveerd.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Een geldende bomenlijst (art. 3.6.1.2) is niet in CVDR gevonden: of de gemeenteraad ooit een lijst heeft vastgesteld is dus niet vastgesteld; D wordt hierdoor niet beïnvloed. Omgevingsplan in het DSO niet ingezien. Geen beleidsregel over herplant of compensatie en geen handhavingsbeleid over illegale kap gevonden in het dossier; het 'geoormerkt groenkrediet' en de monetaire boomwaarde zijn alleen in de verordening geregeld.",
+  "artikelnummers": [
+    "VFL Reusel-De Mierden 2025, 1e wijziging art. 1.9 (bijlage 2 Begrippen), 3.6.1.1, 3.6.1.2, 3.6.1.3, 3.6.1.4, 5.2.3, 6.1.1 (CVDR738576_1)",
+    "APV Reusel-De Mierden 2025, 1e wijziging art. 4:10 t/m 4:12 (ingetrokken), 1:2, 6:1 (CVDR764953_1)",
+    "Legesverordening 2026 art. 2.30 (CVDR751471_2)",
+    "Omgevingsplan art. 22.299 (CVDR696474_3)"
+  ],
+  "opmerkingen": [
+    "D2: houtopstand in de hele gemeente met een hoge drempel (meer dan 150 cm omtrek), zonder tuinuitzondering: D2 (omtrek > 100 cm). Geen correctie -1: er is geen ruime uitzondering voor tuinen, achtertuinen, soorten of dergelijke. De uitzondering voor fruitbomen is de gangbare boomgaardzin (geen -1).",
+    "Voorbeeldbomen A (80 cm) en B (40 cm): beide 'nee' (beide onder de drempel van 150 cm).",
+    "Kapregel is uit de APV verhuisd: APV art. 4:10 t/m 4:12 zijn per 2026-07-24 'ingetrokken' (CVDR764953_1); de VFL (paragraaf 3.6.1) geldt. APV art. 6:1 heeft geen kapverwijzing meer.",
+    "W2 zonder bereik: 'De omgevingsvergunning kan worden geweigerd op grond van:' natuur, landschap, dorpsschoon, beeld, cultuurhistorie, recreatie en leefbaarheid (art. 3.6.1.1 lid 4).",
+    "H1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant' (art. 3.6.1.3 lid 1). De storting in het 'geoormerkt groenkrediet' kan alleen worden opgelegd ('kan', lid 3) en verhoogt H niet. Geen beleidsregel die herplant verplicht.",
+    "Herplant na illegale kap: art. 3.6.1.4 'kan' een geldelijke vergoeding voor de schade worden opgelegd, met de boomwaarde als uitgangspunt. Geen vastgestelde beleidsregel of handhavingsstrategie met een vaste herplantplicht gevonden. Telt voor S1, niet voor H.",
+    "S1: WED via de Omgevingswet (legesverordening 2.30) en eigen strafregel (VFL art. 6.1.1 lid 1, met lid 3 voor de WED); herplant- of compensatie na illegale kap kan worden opgelegd. Geen bestuurlijke boete voor kappen.",
+    "Jongere houtopstand (omtrek kleiner dan 150 cm) is vergunningplichtig als die is geplant als herplant- of instandhoudingsplicht (art. 3.6.1.1 lid 1 onder b): dat telt niet voor de drempel."
+  ],
+  "modelsignalen": [
+    "De kapregel zit in de VFL, terwijl de APV-artikelen zijn ingetrokken. De legesverordening verwijst correct naar de VFL; model heeft hier geen probleem, wel geeft de combinatie met de Kempengemeenten (APV Eersel, VFL Bladel en Reusel) een groot verschil in juridische plaats zonder verschil in S.",
+    "Geen bomenlijst in CVDR terwijl de VFL een bomenlijst mogelijk maakt ('kan ... vaststellen'): geen lijstsysteem gescoord, want het breed regime bepaalt D."
+  ]
+}

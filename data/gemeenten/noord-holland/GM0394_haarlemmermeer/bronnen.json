@@ -1,0 +1,33 @@
+{
+  "gemeente": "Haarlemmermeer",
+  "gm_code": "GM0394",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Haarlemmermeer",
+  "zoeknaam_bekendmakingen": "Haarlemmermeer",
+  "opgehaald_op": "2026-11-15T13:48:33+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Haarlemmermeer\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 132,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Haarlemmermeer\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 108,
+  "geldende_regelingen": 44,
+  "geldend_met_kapartikelen": [
+    "CVDR659230_6",
+    "CVDR682425_1",
+    "CVDR684596_1",
+    "CVDR684597_1",
+    "CVDR684702_1",
+    "CVDR686821_1",
+    "CVDR687038_1",
+    "CVDR696552_5",
+    "CVDR696659_1",
+    "CVDR712681_2",
+    "CVDR749056_2"
+  ],
+  "bekendmakingen_besluiten": 35,
+  "bekendmakingen_aanvragen": 49,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0744/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Baarle-Nassau",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0744/2020/omgevingsplan/nld@6",
+    "beginGeldigheid": "2024-06-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0744_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0744/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Baarle-Nassau",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0744/2025/omgevingsvisie/nld@11",
+    "beginGeldigheid": "2025-07-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0744_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0744/2025/2_5",
+    "titel": "Omgevingsprogramma wonen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0744/2025/2_5/nld@12",
+    "beginGeldigheid": "2025-08-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0744_2025_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:40Z"
+  }
+]

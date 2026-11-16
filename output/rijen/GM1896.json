@@ -1,0 +1,74 @@
+{
+  "gm_code": "GM1896",
+  "gemeente": "Zwartewaterland",
+  "provincie": "Overijssel",
+  "brondocument": "Algemene plaatselijke verordening Zwartewaterland (CVDR300137_6) art. 4:10, 4:11, 4:11a t/m 4:11g, 4:12, 6:1; Legesverordening 2026 (CVDR747704_1) art. 2.30; Omgevingsplan (CVDR696513_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR300137/6",
+  "datum_geldigheid": "APV CVDR300137_6: geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV versie 6 in werking 2024-01-01 (vastgesteld 2023-10-19).",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens de legesverordening (CVDR747704_1, art. 2.30: 'het vellen of doen vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 38 bekendmakingen op titel, waarvan 20 besluiten en 18 aanvragen; 0 weigeringen volgens de titel. Steekproef van 10 besluiten (kap van 1 tot 10 bomen langs wegen, dijken, jachthaven en in de kernen), geen grondslag genoemd; past bij een regime buiten de bebouwde kom.",
+  "vergunningplicht": "Vergunning van het college voor het vellen van houtopstand (art. 4:11 lid 1), maar niet voor 'binnen de bebouwde kom staande houtopstanden' behalve op de lijst van lokale waardevolle houtopstanden of het landelijke register van monumentale bomen (lid 2 onder h).",
+  "drempel": "Geen drempel (alle houtopstand, 'hakhout, een houtwal of één of meer bomen'), buiten de bebouwde kom; binnen de bebouwde kom alleen lijstbomen.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen omtrekdrempel)",
+  "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder vergunning van het college houtopstand te vellen of te doen vellen.' Art. 4:11 lid 2 onder h: verbod geldt niet voor 'binnen de bebouwde kom staande houtopstanden, met uitzondering van houtopstanden welke voorkomen op een door het college vastgestelde lijst van lokale, waardevolle houtopstanden of op het landelijke register van monumentale bomen van de Bomenstichting'. Dus buiten de bebouwde kom alle houtopstand, ook op erven; binnen de kom alleen lijstbomen. Bebouwde kom volgens art. 1, vijfde lid, Boswet (art. 4:10).",
+  "uitzonderingen": "Art. 4:11 lid 2: onder h alle houtopstand binnen de bebouwde kom (behalve lijstbomen, zie reikwijdte); onder i houtopstand waarvoor een bestemmingsplan een aanlegvergunning vereist (behalve lijstbomen); onder a en b niet-geknotte populieren en wilgen langs landbouwgrond, vruchtbomen en windschermen om boomgaarden; kerstbomen, kweekgoed, dunning, bosbouwondernemingen buiten de kom; Plantenziektewet of aanschrijving; periodiek afzetten van hakhout.",
+  "weigeringsgronden": "Art. 4:11b: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid van de houtopstand; g. het feit dat het een waardevolle houtopstand of monumentale boom betreft.' Voor lijstbomen art. 4:12 lid 3: 'in beginsel geen kapvergunning verleend, tenzij sprake is van een ernstige bedreiging van de openbare veiligheid, noodtoestand en andere uitzonderlijke situaties'.",
+  "herplantplicht": "Art. 4:11d lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Art. 4:11e lid 1 (na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herbeplanten'. Geen financiele compensatie of boomwaarde. Geen beleidsregel over herplant gevonden.",
+  "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan'), het college beslist per geval. Geen betaling als alternatief.",
+  "sancties": "Eigen strafbepaling APV art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). WED-aanwijzing art. 6:1 lid 2: 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, tweede lid' (foute verwijzing: het verbod staat in lid 1; lid 2 bevat de uitzonderingen). Legesverordening noemt het vellen een omgevingsplanactiviteit (WED via Ow 5.1): S1. Geen bestuurlijke boete.",
+  "procedure": "Leges 2026 art. 2.30: EUR 0,00 voor een omgevingsplanactiviteit vellen van houtopstand. Art. 4:11c lid 1: 'is de vergunning van rechtswege verleend' als het college niet binnen acht weken beslist (procedureregel). Vergunning vervalt na een jaar zonder gebruik (lid 2). Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11e lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Overtreding is strafbaar via art. 6:1 lid 1 ('gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie').",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst van lokale, waardevolle houtopstanden (alleen binnen de bebouwde kom van belang) niet ingezien; een korte zoekpoging op de gemeentelijke website leverde ze niet op",
+  "status": "ok",
+  "ontbrekend": "Lijst van lokale, waardevolle houtopstanden niet ingezien (relevant voor de bebouwde kom). Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4:11a, 4:11b, 4:11c, 4:11d, 4:11e, 4:12, 6:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D4: twee delen. Binnen de bebouwde kom alleen lijstbomen (art. 4:11 lid 2 onder h sluit alle houtopstand binnen de kom uit, behalve lijstbomen): D1. Buiten de kom geldt het verbod zonder drempel voor alle houtopstand, ook op erven en in tuinen: D4 voor dat deel. Het hoogste deel telt; de begrenzing tot D2 ('alleen buiten de kom én buiten tuinen en erven') is niet van toepassing, omdat erven buiten de kom zijn gedekt. Zelfde lijn als Hof van Twente en Haaksbergen. Voorbeeldbomen A en B (achtertuin in de kom): nee. (Besluit gebruiker, 14-11-2026, na Overijssel.)",
+    "W2: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11b). Strenger regime voor lijstbomen (art. 4:12 lid 3: 'in beginsel geen kapvergunning verleend') alleen in opmerkingen.",
+    "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4:11d lid 1). Geen financiele compensatie.",
+    "S1: eigen strafbepaling plus WED (foute verwijzing naar art. 4:11, tweede lid; legesverordening noemt het vellen een omgevingsplanactiviteit). Geen bestuurlijke boete.",
+    "Voorbeeldbomen A en B in een achtertuin binnen de bebouwde kom: geen vergunning nodig (art. 4:11 lid 2 onder h), tenzij op de lijst of het register van de Bomenstichting; lijst niet ingezien.",
+    "Lijst: binnen de kom kunnen particuliere bomen op de lijst staan; dat beinvloedt D niet omdat het buitengebied al zonder drempel beschermd is."
+  ],
+  "modelsignalen": [
+    "Verbod zonder drempel buiten de bebouwde kom en alleen lijstbomen binnen de kom: het model heeft geen eenduidige regel voor een gemeente waar juist de kom (met de meeste tuinen) is vrijgesteld. De regel 'buiten de kom en buiten tuinen en erven telt als aangewezen gebied' sluit hier niet exact aan, omdat erven buiten de kom wel zijn gedekt; gekozen is D2 met bereik tot 3."
+  ]
+}

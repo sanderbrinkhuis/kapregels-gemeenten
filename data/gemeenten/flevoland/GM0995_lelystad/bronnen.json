@@ -1,0 +1,27 @@
+{
+  "gemeente": "Lelystad",
+  "gm_code": "GM0995",
+  "provincie": "Flevoland",
+  "zoeknaam_cvdr": "Lelystad",
+  "zoeknaam_bekendmakingen": "Lelystad",
+  "opgehaald_op": "2026-11-14T13:00:35+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Lelystad\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 100,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Lelystad\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 30,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR659399_5",
+    "CVDR659733_3",
+    "CVDR672052_1",
+    "CVDR696459_12",
+    "CVDR753275_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 7,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

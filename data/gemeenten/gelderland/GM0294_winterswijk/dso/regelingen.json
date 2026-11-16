@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0294/2025/Regeling83505c7b581346f89e2c42d9e651c495",
+    "titel": null,
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0294/2025/Regeling83505c7b581346f89e2c42d9e651c495/nld@2026-02-05;13311149",
+    "beginGeldigheid": "2026-02-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0294_2025_Regeling83505c7b581346f89e2c42d9e651c495?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0294/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Winterswijk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0294/2020/omgevingsplan/nld@2026-05-27;10320287",
+    "beginGeldigheid": "2026-07-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0294_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:52Z"
+  }
+]

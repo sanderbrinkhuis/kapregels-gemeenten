@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0439",
+  "gemeente": "Purmerend",
+  "provincie": "Noord-Holland",
+  "brondocument": "APV Purmerend 2021 (CVDR661498_5) afd. 4.3 art. 4:10, 4:11, 4:11b, 6:1; Aanwijscriteria beschermde bomen (CVDR666622_2); Bomenkaart Beemster en Purmerend (CVDR680275_2); Leges 2026 (CVDR747749_2) art. 2.20; Omgevingsplan (CVDR696319_3) art. 22.299 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR661498/5 ; https://lokaleregelgeving.overheid.nl/CVDR666622/2 ; https://lokaleregelgeving.overheid.nl/CVDR680275/2 ; https://lokaleregelgeving.overheid.nl/CVDR747749/2 ; website: https://www.purmerend.nl/aanvragen/vergunningen-en-ontheffingen/milieu/kapvergunning-bomen",
+  "datum_geldigheid": "APV: geldend van 15-03-2025 t/m heden; Aanwijscriteria: geldend van 26-03-2026 t/m heden; Bomenkaart: geldend van 01-02-2024 t/m heden; leges: geldend van 31-12-2025 t/m heden",
+  "laatste_wijziging": "APV versie 5 in werking 15-03-2025; Aanwijscriteria beschermde bomen versie 2 in werking 26-03-2026",
+  "juridische_plaats": "APV (art. 4:11), werkt als omgevingsplanactiviteit volgens de legesverordening art. 2.20 ('in samenhang met artikel 22.8 van de Omgevingswet') en heeft in art. 6:1 lid 2 een eigen WED-aanwijzing; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "162 bekendmakingen sinds 2025 met 'vellen houtopstanden' in de titel: 83 aanvragen en 79 'toestemming'; geen weigeringen volgens de titels. Het gaat om projecten per straat of locatie; of het om bomen op particulier terrein of op gemeentegrond gaat, volgt niet uit de titels. De grote aantallen passen bij een stelsel met een bomenkaart die ook veel gemeentelijke en structuurbomen bevat (de aanwijscriteria noemen 'structuur'). Grondslag staat niet in de titels.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de bomenkaart staan; alle andere bomen vrij. De gemeentelijke webpagina zegt: 'Bomen die niet op de bomenkaart staan, kunnen zonder vergunning gekapt worden.'",
+  "drempel": "geen omtrekdrempel; alleen bomen op de bomenkaart ('bijzondere, monumentale en andere beschermenswaardige bomen'). Criteria: gezond met levensverwachting van minimaal 10 jaar en voldoen aan een van de criteria leeftijd (80 jaar = monumentaal), beeldbepalend, cultuurhistorie, zeldzaam, stedenbouw/landschap, structuur, ecologie, monumentaal in spe.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen maatdrempel)",
+  "reikwijdte": "Alleen individuele bomen (en enkele structuren zoals bomenrijen en boomgaarden) op de bomenkaart (art. 4:10 lid 1: 'geometrisch informatieobject met daarop aangegeven de beschermde bomen'). Hele gemeente, inclusief voormalig Beemster; ook particuliere bomen: de aanwijscriteria zeggen 'Dus ook bomen in eigendom van andere eigenaren dan de gemeente, zoals bijvoorbeeld privaatpersonen ... kunnen de beschermde status krijgen.' en 'Bij particulieren gaat het vooral om solitaire bomen in voor- en zijtuinen, die zichtbaar zijn vanaf openbaar toegankelijk gebied'. De website: 'Het gaat om bomen die bij inwoners op eigen grond staan en om bomen van andere organisaties en overheden.'",
+  "uitzonderingen": "Art. 4:11 lid 3: verbod geldt niet voor 'a. het in opdracht van de burgemeester, ter bescherming van openbare orde of veiligheid, direct vellen van houtopstand; b. een boom die moet worden geveld vanwege acuut gevaar ... wanneer dit vooraf is gemeld bij het college; c. houtopstand die moet worden geveld krachtens de Plantenziektenwet ...; d. houtopstand ... ontwikkellocatie ... uitsluitend in het kader van gebiedsontwikkeling geïnitieerd door de gemeente ...; e. houtopstand in een boomgaard ...; f. het vellen van een dode boom of het dunnen van bomen wanneer dit tenminste vier weken voor het begin ervan is gemeld bij het college.' Alle gangbare uitzonderingen of gemeentelijke projecten.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "bomenkaart niet ingezien (digitale kaart op datalab.purmerend.nl, alleen via JavaScript-viewer); aantallen niet vast te stellen",
+  "weigeringsgronden": "Art. 4:11 lid 4: 'De vergunning kan uitsluitend worden verleend indien: a. een zwaarwegend maatschappelijk belang naar het oordeel van het bevoegd gezag zwaarder weegt dan het belang van instandhouding van de houtopstand; b. de instandhouding van de houtopstand niet langer verantwoord is in verband met risico op letsel of schade; c. in het geval de houtopstand voorkomt op de waardevolle bomenkaart vanwege de structuur: door het vellen van de houtopstand de kwaliteit van de structuur wordt verbeterd.' Website: 'slechts bij uitzondering worden verleend'. Dit is weigeren tenzij (W3).",
+  "herplantplicht": "APV art. 4:11 lid 5: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' Aanwijscriteria (toelichting compensatie): 'De gemeente kan gebaseerd op het vigerende beleid en afhankelijk van welke boom gekapt worden meer, minder of een gelijk aantal nieuwe bomen ter compensatie opleggen.' Alleen een bevoegdheid (H1). Geen aparte beleidsregel gevonden die herplant of betaling verplicht stelt.",
+  "herplant_ontsnapping": "Bevoegdheid ('kan'), per geval door het college; geen betaling als alternatief gevonden. Bij monumentale en ecologische bomen 'wordt (integraal) gekeken naar de beste oplossing voor de vrijkomende ruimte'; bij verbetering van een structuur 'wordt er dus geen nieuwe boom geplant'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11b lid 1: 'Indien in strijd met artikel 4:11, tweede lid houtopstand zonder vergunning geveld is, kan het college ... de verplichting opleggen te herbeplanten'. Gevolg bij niet nakomen niet apart geregeld. Art. 6:1 lid 1 APV (hechtenis of geldboete tweede categorie) geldt voor 'het bij of krachtens deze verordening bepaalde', maar lid 2 stelt voor art. 4:11 lid 2 de WED in de plaats; een opgelegd herplantvoorschrift valt niet onder een eigen strafbepaling. Alleen algemeen instrumentarium (dwangsom of bestuursdwang, Beleidsnota Uitvoering en Handhaving 2024-2028 CVDR716986_1: 'herplantplicht' bij illegale kap).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Art. 6:1 lid 2 APV: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, tweede lid.' (WED-aanwijzing in de regeling); daarnaast werkt de kap als omgevingsplanactiviteit (leges art. 2.20), dus ook WED via Ow 5.1. Herplantplicht na illegale kap mogelijk (art. 4:11b lid 1). Geen bestuurlijke boete voor kappen in de regeling; de Beleidsnota Uitvoering en Handhaving bevat alleen algemeen handhavingsbeleid.",
+  "procedure": "Leges art. 2.20: EUR 274,95. Beslistermijn APV art. 1:2: 8 weken (niet voor omgevingsvergunning); art. 4:11 lid 7: 'is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht (positieve beschikking bij niet beslissen) van toepassing'. Publicatie: aanvragen en besluiten in het Gemeenteblad.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "onzeker",
+  "ontbrekend": "De bomenkaart zelf (digitale kaart, https://datalab.purmerend.nl/atlas/) is niet ingezien: de viewer laadt via JavaScript en een data-endpoint is niet gevonden. Aantal beschermde bomen en het aandeel particulier zijn daarom niet bekend. Dat particuliere bomen op de kaart staan, blijkt wel uit de aanwijscriteria en de gemeentelijke webpagina. Het besluit van de bomenkaart (CVDR680275_2) bevat alleen een link. Een aparte beleidsregel over herplant of compensatie ('vigerende beleid' uit de toelichting) is niet gevonden in CVDR.",
+  "artikelnummers": [
+    "APV 2021 art. 4:10 lid 1-2, 4:11 lid 1-7, 4:11b, 6:1 lid 1-2, 1:2",
+    "Aanwijscriteria beschermde bomen (CVDR666622_2): criteria en toelichting bevoegdheid, compensatie, vorm",
+    "Bomenkaart Beemster en Purmerend (CVDR680275_2) art. 1",
+    "Leges 2026 art. 2.20",
+    "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D1: alleen individuele bomen (en structuren) op de bomenkaart; bereik vanaf D0 omdat de kaart niet is ingezien (regel voor niet-ingezien lijsten). Dat particuliere bomen op de kaart staan, blijkt uit de aanwijscriteria en de website. Geen gebiedsregel of breed regime.",
+    "W3: 'De vergunning kan uitsluitend worden verleend indien: a. een zwaarwegend maatschappelijk belang ... zwaarder weegt dan het belang van instandhouding van de houtopstand' (art. 4:11 lid 4). Website: 'slechts bij uitzondering'.",
+    "H1: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 5); de toelichting op de aanwijscriteria noemt alleen 'kan ... ter compensatie opleggen'.",
+    "S1: WED-aanwijzing in art. 6:1 lid 2 plus omgevingsplanactiviteit volgens leges art. 2.20; geen bestuurlijke boete.",
+    "Voormalig Beemster: sinds de herindeling geldt de APV Purmerend 2021; het besluit CVDR666622_2 trekt de Bomenlijst Beemster 2018 in en voegt de bomen samen op de Bomenkaart Beemster en Purmerend. Beemster heeft ook de 'werelderfgoedbomen' langs historische wegen beschermd; of dit particuliere bomen zijn, is niet vastgesteld.",
+    "Art. 4:11 lid 4 onder c noemt de 'waardevolle bomenkaart' terwijl art. 4:11 lid 1 spreekt over 'bomenkaart': geen inhoudelijk verschil gevonden.",
+    "Het Omgevingsplan art. 22.299 bevat aanvraagvereisten; de kapregel zelf staat in de APV."
+  ],
+  "modelsignalen": [
+    "Bomenkaart zonder inzage in aantallen: het model geeft D = 1 ongeacht aantal; Purmerend heeft 162 bekendmakingen sinds 2025 met 'vellen houtopstanden' in de titel, wat laat zien dat een kaartsysteem in de praktijk zeer actief kan zijn (ook voor gemeentelijke projecten). De score (18) zegt niets over het aantal beschermde bomen, en dat aantal is hier niet geteld.",
+    "Een lijst- of kaartsysteem met W3 en weinig beschermde particuliere bomen krijgt in het model een lage score; de strengheid van de toetsing weegt dan nauwelijks mee.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst niet ingezien, maar vastgestelde regeling of beleid bevestigt dat er particuliere bomen op staan: D-minimum 1 (was 0)."
+  ]
+}

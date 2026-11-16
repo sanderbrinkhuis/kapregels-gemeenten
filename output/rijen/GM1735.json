@@ -1,0 +1,91 @@
+{
+ "gm_code": "GM1735",
+ "gemeente": "Hof van Twente",
+ "provincie": "Overijssel",
+ "brondocument": "Bomenverordening Hof van Twente 2022-2 (CVDR702792_1), art. 1, 2, 3, 5, 8, 9, 15 en 17; Legesverordening 2026 (CVDR752050_1) art. 2.30; Omgevingsplan gemeente Hof van Twente (CVDR696500_2) art. 22.299; APV 2025 (CVDR740985_1) art. 4:11 en 4:12 (vervallen)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR702792/1",
+ "datum_geldigheid": "2023-11-07 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2023-11-07 (inwerkingtreding van CVDR702792_1, enige geldende versie; de verordening is niet daarna gewijzigd)",
+ "juridische_plaats": "Losse Bomenverordening (CVDR702792_1). Werkt als omgevingsplanregel: Legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. APV 2025 art. 4:11 en 4:12 zijn 'Vervallen'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+ "praktijkcontrole": "Sinds 2025-01-01: 479 bekendmakingen met kapterm in de titel (titelzoekmethode, dossier): 214 besluiten, 265 aanvragen, 0 geweigerd volgens titel. De steekproef van 10 recente besluiten betreft allemaal een 'reguliere omgevingsvergunning' voor het kappen van een of meer bomen; de grondslag staat in geen van de besluiten. Dat past bij een breed vergunningstelsel (ook voor losse bomen en percelen buiten de kernen), niet bij een lijstsysteem",
+ "vergunningplicht": "Omgevingsvergunning. Art. 2 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.'",
+ "drempel": "Buiten de bebouwde kom: geen drempel (art. 2 lid 1: 'alle houtopstanden binnen èn buiten de bebouwde kom'). Binnen de bebouwde kom: art. 2 lid 3 stelt vrij 'bomen binnen de bebouwde kom' met 'De dwarsdoorsnede van de stam niet meer is dan 30 centimeter (omtrek 94,2 cm) gemeten op 1,30 meter hoogte boven het maaiveld' die geen onderdeel zijn van een groeps-, rij -of singelbeplanting",
+ "omtrek_cm": 94.2,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Hele grondgebied, particulier en openbaar: art. 2 lid 1 'alle houtopstanden binnen èn buiten de bebouwde kom'. Buiten de bebouwde kom (inclusief erven en tuinen) geldt het verbod zonder drempel. Binnen de bebouwde kom gelden de vrijstelling van art. 2 lid 3 en de drempel van 94,2 cm omtrek. Definitie bebouwde kom: art. 1 onder a, verwijzend naar 'artikel 4.1.aanhef en onder a van de Wet Natuurbescherming'. Daarnaast een lijst met monumentale houtopstanden (art. 3, op kaart in het omgevingsplan volgens de toelichting); die bepaalt D niet omdat een breder regime geldt",
+ "uitzonderingen": "Art. 2 lid 2: aanschrijving door burgemeester en wethouders (art. 12 en 14); periodiek vellen van hakhout; periodiek knotten of kandelaberen; dunning als verzorgingsmaatregel; houtopstand met provinciale of landelijke subsidiebeschikking (SNL); 'Coniferenhagen'. Art. 2 lid 3: bomen binnen de bebouwde kom tot omtrek 94,2 cm, niet in groeps-, rij -of singelbeplanting en niet monumentaal of publiek. Er is geen uitzondering voor achtertuinen, percelen of soorten (alleen coniferenhagen, geen coniferen in het algemeen); die gangbare uitzonderingen en de coniferenhaag-uitzondering tellen niet als ruime uitzondering. Art. 5 lid 3: burgemeester kan direct vellen toestaan bij acuut gevaar",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem als hoofdregime. Er is wel een lijst met monumentale houtopstanden (art. 3) maar die is niet ingezien; zij bepaalt D niet",
+ "weigeringsgronden": "Art. 5 lid 1: 'Het bevoegd gezag kan de vergunning om te vellen weigeren of onder voorschriften of beperkingen verlenen.' Art. 5 lid 2: 'wordt onder verwijzing naar beleid geweigerd als de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden:' natuurwaarden en biodiversiteit; milieuwaarden en klimaatadaptatie; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie en leefbaarheid; waarde van gezondheid en welbevinden. Art. 5 lid 4: aanvraag wegens schaduw van zonnepanelen 'zal worden geweigerd' bij die waarden. Monumentale bomen (art. 3 lid 1): 'geen vergunning wordt afgegeven, tenzij sprake is van een ernstige bedreiging van de openbare veiligheid, noodtoestand of andere uitzonderlijke situaties' (alleen lijstbomen)",
+ "herplantplicht": "Art. 8 lid 1: 'Aan de vergunning kan het voorschrift worden verbonden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen, moet worden herplant.' Art. 8 lid 3: 'Als niet ter plaatse kan worden herplant, kan aan een vergunning tot vellen het voorschrift worden verbonden dat een geldelijke bijdrage gestort moet worden in de gemeentelijke kas onder het product openbaar groen bomen.' Art. 9 lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen beleidsregel gevonden die herplant verplicht stelt; de toelichting bij art. 8 zegt 'In de vergunning kan een herplant voorschrift worden opgenomen'",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan het voorschrift worden verbonden' (art. 8 lid 1); het college beslist per geval. Betalen in plaats van herplanten is eveneens een bevoegdheid ('kan', art. 8 lid 3). Na illegale kap: 'kan het bevoegd gezag ... de verplichting opleggen' (art. 9 lid 1), maar 'Als niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort' (art. 9 lid 2)",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 15 lid 1: 'Als u of uw rechtsopvolger handelt in strijd met een voorschrift zoals als bedoeld in artikel 2, 8, 9, 12, 13 of 14 is opgelegd, of u of uw rechtsopvolger leven een voorschrift niet na dan kan naast de geldende verplichtingen eveneens een bestuurlijke boete worden opgelegd.' Toelichting art. 9: 'Artikel 5:18 Wabo biedt de mogelijkheid ... onder oplegging van last onder bestuursdwang of onder oplegging last onder dwangsom'",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "Bestuurlijke boete in de regeling zelf: art. 15 lid 1 'kan naast de geldende verplichtingen eveneens een bestuurlijke boete worden opgelegd' bij strijd met een voorschrift 'als bedoeld in artikel 2, 8, 9, 12, 13 of 14' (artikel 2 is het kapverbod). Geen bedrag in de verordening. WED via de Omgevingswet (art. 1a onder 2° WED): Legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Art. 17: opsporingsambtenaren. Geen vastgelegd handhavingsbeleid voor kap gevonden (VTH-beleid CVDR709286_1 en CVDR700579_1 noemen kap alleen in algemene zin) dus geen S = 3",
+ "procedure": "Aanvraag via het omgevingsloket (art. 4 lid 1); aanvraagvereisten ook in omgevingsplan art. 22.299. Leges: Legesverordening 2026 art. 2.30 lid 1: € 129,85 (de tekst verwijst nog naar de 'Bomenverordening Hof van Twente 2015'). Vergunning vervalt na een jaar zonder gebruik (art. 7). Beslistermijn, publicatie, bezwaar en beroep: niet in de verordening geregeld (algemene Awb-regels); niet nader onderzocht",
+ "D": {
+  "punt": 4,
+  "min": 4,
+  "max": 4
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "volledig_gelezen": true,
+ "status": "ok",
+ "ontbrekend": "Niet in het dossier en niet beoordeeld: het Landschapsontwikkelingsplan en het Groenstructuurplan waarnaar art. 5 lid 2 ('onder verwijzing naar beleid') verwijst (niet als geldende regeling gevonden); de lijst met monumentale houtopstanden en kaart (niet ingezien, bepaalt D niet); de gemeentelijke website. Een strenger beleid kan W of H nog veranderen",
+ "artikelnummers": [
+  "Bomenverordening 2022-2 art. 1",
+  "Bomenverordening 2022-2 art. 2",
+  "Bomenverordening 2022-2 art. 3",
+  "Bomenverordening 2022-2 art. 4",
+  "Bomenverordening 2022-2 art. 5",
+  "Bomenverordening 2022-2 art. 8",
+  "Bomenverordening 2022-2 art. 9",
+  "Bomenverordening 2022-2 art. 15",
+  "Bomenverordening 2022-2 art. 17",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "APV 2025 art. 4:11 (vervallen)",
+  "APV 2025 art. 4:12 (vervallen)"
+ ],
+ "opmerkingen": [
+  "D = 4: buiten de bebouwde kom geldt het verbod zonder drempel voor alle houtopstanden ('alle houtopstanden binnen èn buiten de bebouwde kom'), ook op erven en tuinen; per deel het hoogste telt (INTENT). Binnen de bebouwde kom geldt de drempel van 94,2 cm omtrek (zou apart D3 zijn: 60-100 cm). Er is geen ruime uitzondering voor tuinen of soorten, dus geen aftrek. Omtrek in de rij is de binnenkom-drempel.",
+  "Voorbeeldbomen A (80 cm) en B (40 cm): binnen de bebouwde kom onder de drempel van 94,2 cm, dus 'nee' voor een solitaire boom. Is de boom onderdeel van een 'groeps-, rij -of singelbeplanting', dan is wel een vergunning nodig.",
+  "W = 2: citaat art. 5 lid 2 'wordt onder verwijzing naar beleid geweigerd als de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand'. Art. 5 lid 1 is 'kan ... weigeren'.",
+  "H = 1: citaat art. 8 lid 1 'kan het voorschrift worden verbonden dat ... moet worden herplant'. Herplant na illegale kap (art. 9 lid 1) is ook 'kan' en verhoogt H niet. De toelichting noemt een 'compensatie factor' die het college 'kán' bepalen en 'Burgemeester en wethouders bepalen de hoogte van de financiële bijdrage'. Een bijdrage is geen standaardplicht.",
+  "S = 2: art. 15 lid 1 bestuurlijke boete in de regeling zelf voor strijd met o.a. artikel 2 (het kapverbod); het artikel heet 'Strafbepaling' maar bevat geen geldboete of hechtenis. Ook WED via Ow (S1) volgens leges art. 2.30; S2 is hoger. Geen kap-specifiek handhavingsbeleid gevonden, dus geen S = 3.",
+  "Fout in verwijzing: leges art. 2.30 verwijst naar 'artikel 2 van de Bomenverordening Hof van Twente 2015', een vervallen verordening (uitwerkingtreding 2023-01-14 volgens regelingen.jsonl); de geldende verordening is 2022-2. Wijkt niet af van S1 volgens de regel voor foute verwijzing.",
+  "Bomenverordening 2022-2 gaat nog uit van de Wabo en Wet natuurbescherming (verouderde verwijzingen, o.a. in art. 1 en 10); de regel is door de legesverordening als omgevingsplanactiviteit aangemerkt. Het dossier toont geen omgevingsplanregel die het kappen zelf vergunningplichtig maakt; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "Beleidsregel verhaal kosten bij beschadigingen aan bomen (CVDR12556_1, 2003) gaat alleen over gemeentelijke bomen en telt niet. Randvoorwaardennota groen (CVDR15202_1) gaat over nieuwe plannen en bevat geen herplantplicht voor particuliere kap.",
+  "Definitie 'boom' (art. 1) noemt een dwarsdoorsnede van 20 cm (omtrek 62,8 cm), maar het verbod in art. 2 lid 1 geldt voor 'houtopstand' zonder drempel; de drempel van 94,2 cm geldt alleen binnen de bebouwde kom (art. 2 lid 3). Houtopstand (art. 1): onder meer 'een heg', met uitzondering van coniferenhagen.",
+  "Bekendmakingen noemen geen grondslag; alle 10 gelezen besluiten zijn verleende reguliere omgevingsvergunningen. Aantallen in de rij zijn tellingen; er zijn geen adressen of kadastrale gegevens overgenomen."
+ ],
+ "modelsignalen": [
+  "Een regel die binnen de kom een drempel van 94,2 cm omtrek heeft (D3) en buiten de kom helemaal geen drempel (D4) geeft D4, terwijl een gemiddelde particuliere tuinboom in de kom (zoals de voorbeeldbomen A en B) niet vergunningplichtig is. De score vangt het buitengebied (erven, houtwallen, solitairen), niet de tuinboom; voorbeeldbomen A/B = 'nee' staan naast D4.",
+  "Vergunning 'wordt geweigerd als de belangen van verlening niet opwegen tegen de belangen van behoud' (omgekeerde afweging, lijkt op 'weigeren tenzij') wordt als W2 gescoord omdat het model dit niet noemt; het tekstverschil met 'kan worden geweigerd' is klein.",
+  "Art. 15 'Strafbepaling' bevat alleen een bestuurlijke boete 'kan ... worden opgelegd' zonder bedrag of beleid; volgens het model S2.",
+  "Een legesverordening die verwijst naar een vervallen verordening als bewijs voor 'omgevingsplanactiviteit' is een nieuw type foute verwijzing; hier volgens bestaande regel behandeld."
+ ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0050/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zeewolde",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0050/2020/omgevingsplan/nld@2024-01-11;2",
+    "beginGeldigheid": "2024-01-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0050_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:37Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0050/2024/Regeling1af3515982e140cd9832fd9a4f2d69a8",
+    "titel": "Omgevingsvisie Gemeente Zeewolde",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0050/2024/Regeling1af3515982e140cd9832fd9a4f2d69a8/nld@2024-04-11;08295038",
+    "beginGeldigheid": "2024-04-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0050_2024_Regeling1af3515982e140cd9832fd9a4f2d69a8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:37Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0050/2024/Regeling0cd0bd89f7be4a779cc41471cef2a53e",
+    "titel": "Voorbereidingsbesluit erf- of perceelafscheidingen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0050/2024/Regeling0cd0bd89f7be4a779cc41471cef2a53e/nld@2024-04-26;13454999",
+    "beginGeldigheid": "2024-05-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0050_2024_Regeling0cd0bd89f7be4a779cc41471cef2a53e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:37Z"
+  }
+]

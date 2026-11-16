@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0779",
+  "gemeente": "Geertruidenberg",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Verordening Bomen 2017 gemeente Geertruidenberg (CVDR448348_1) art. 1, 2, 4, 5, 7, 8, 11; Bomenlijst gemeente Geertruidenberg (CVDR441946_1); Bomenbeleidsplan Niet kappen maar koesteren (CVDR448357_1); Omgevingsprogramma Groen (CVDR739389_1); Legesverordening 2026 (CVDR749699_4) art. 2.27; APV Geertruidenberg 2023 (CVDR693535_2) afd. 4.3 (gereserveerd)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR448348/1 ; https://lokaleregelgeving.overheid.nl/CVDR441946/1 ; https://lokaleregelgeving.overheid.nl/CVDR448357/1 ; https://lokaleregelgeving.overheid.nl/CVDR739389/1 ; https://lokaleregelgeving.overheid.nl/CVDR749699/4",
+  "datum_geldigheid": "Verordening Bomen 2017: geldend van 2017-04-21 t/m heden; Bomenlijst: 2012-02-02 t/m heden; Bomenbeleidsplan: 2017-04-20 t/m heden; Omgevingsprogramma Groen: 2025-05-16 t/m heden; Legesverordening 2026 (versie 4): 2026-10-01 t/m heden. Peildatum 2026-11-15.",
+  "laatste_wijziging": "Verordening Bomen 2017 en Bomenbeleidsplan: ongewijzigd sinds 2017 (alleen versie 1). Omgevingsprogramma Groen: versie 1 per 2025-05-16. Legesverordening: versie 4 per 2026-10-01.",
+  "juridische_plaats": "Losse Bomenverordening 2017 (de APV-afdeling 4.3 is gereserveerd: art. 4:10, 4:11 en 4:12 staan op '[Gereserveerd]'). De kapregel werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.27: vellen van een houtopstand, bedoeld in art. 2 van de Bomenverordening, 'in samenhang met artikel 22.8 van de Omgevingswet'). Het omgevingsplan (CVDR696407_2) bevat alleen art. 22.299 (aanvraagvereisten); de Omgevingsprogramma Groen noemt de verordening overgangsrecht tot 1 januari 2032.",
+  "praktijkcontrole": "Sinds 2025: 41 treffers op officielebekendmakingen.nl, waarvan 14 besluiten en 22 aanvragen; geen enkele weigering volgens de titel. In de steekproef van 10 besluiten stond geen grondslagverwijzing. Bomenbeleidsplan (2017) meldt over 2013-2015 in totaal 54 aanvragen, waarvan 16 van particulieren, en 1 weigering. Dat past bij een lijstsysteem met weinig beschermde particuliere bomen (gmb-2025-299670, gmb-2025-271968 e.a.).",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen) alleen voor beschermde bomen, monumentale bomen en boomstructuren op de Beschermde bomenlijst; bomen die niet op de lijst staan zijn vrij.",
+  "drempel": "Geen drempel voor bomen op de lijst. Definitie 'boom' (art. 1 onder a): stamomtrek van minimaal 25 cm op 1,3 m, maar het verbod in art. 2 lid 2 geldt alleen voor beschermde en monumentale bomen en boomstructuren; art. 4 onder f: geen vergunning voor 'bomen die geen onderdeel uitmaken van de Beschermde bomenlijst'. De bomenlijst 2012 noemt voor gemeentebomen een stamdiameter van meer dan 20 cm; dat telt niet voor particulieren.",
+  "omtrek_cm": null,
+  "meethoogte": "1,3 m (alleen relevant voor de definitie 'boom' en gemeentebomen)",
+  "reikwijdte": "Alleen individueel aangewezen bomen en boomstructuren op de Beschermde bomenlijst (particulier en gemeentelijk). Het bomenbeleidsplan: 'Beschermde bomenlijst – die slechts nog uit particuliere en gemeentelijke waardevolle en monumentale bomen en boomstructuren bestaat'. Omgevingsprogramma Groen (tabel 3, stand 2022): 126 particuliere beschermde bomen en 572 gemeentelijke monumentale bomen. De Bomenlijst 2012 bevat ook percelen waarbij 'alle op dit perceel staande bomen met een stamdiameter van meer dan 20 cm' vergunningplichtig zijn ('hele perceel'). Een boom in een achtertuin kleiner dan 50 m2 komt niet op de lijst (criteria bijlage 1). De lijst zelf is niet ingezien.",
+  "uitzonderingen": "Art. 4: Plantenziektewet of aanschrijving, periodiek oogsten van hakhout, scheren/knotten/kandelaberen, snoeien bij achterstallig onderhoud, dunning, en 'bomen die geen onderdeel uitmaken van de Beschermde bomenlijst'. Bomenlijst 2012: bladhoudende naaldbomen komen niet op de lijst. Dit zijn gangbare uitzonderingen en geen tuinuitzonderingen (D is al 1).",
+  "weigeringsgronden": "Verordening art. 5 lid 2: vergunning 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' op grond van natuur- en milieuwaarden, landschappelijke waarden, cultuurhistorische waarden, stads- en dorpsschoon en recreatie en leefbaarheid. Art. 5 lid 3: een monumentale boom kan alleen worden geveld bij zwaar maatschappelijk belang of als instandhouding niet langer verantwoord is. Omgevingsprogramma Groen (2025): 'Deze vergunning wordt slechts bij uitzondering verleend.'",
+  "herplantplicht": "Verordening art. 7 lid 1: herplantvoorschrift 'kan' worden verbonden aan de vergunning (altijd bij vergunning aan de gemeente zelf). Bomenlijst (2012) par. 3.2: 'in de meeste gevallen' een herplantplicht in de vergunning. Omgevingsprogramma Groen par. 6.3.3 (2025): bij kap van een boom uit de boomstructuur, monumentale of beschermde bomen 'geldt hiervoor altijd een herplantplicht', of een compensatieplicht elders, of financiële compensatie (storting bomenvoorziening). Na illegale kap: art. 8 lid 1 'kan', beleidsplan 4.2.8 'wordt ook een herplantplicht opgelegd'.",
+  "herplant_ontsnapping": "Programma: 'of indien ter plaatse onvoldoende ruimte is, een compensatieplicht elders'; prioritering eindigt in 'financiële compensatie door storting bomenvoorziening'. Bomenlijst: 'In sommige gevallen een (volledige) herplantplicht geen geschikte optie'. Verordening art. 8 lid 2-3 (bij illegale kap): andere locatie, anders 'wordt een financiële bijdrage gestort gelijk aan de boomwaarde'. Het college (bevoegd gezag) beslist per geval.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "onbekend",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Verordening art. 2 lid 7: 'Degene aan wie krachtens deze verordening een vergunning is verleend, is verplicht de daaraan verbonden voorschriften na te komen.' Art. 11 lid 4: overtreding 'wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling in de verordening (art. 11 lid 4: hechtenis max. twee maanden of geldboete tweede categorie; 'Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde'). Geen eigen WED-aanwijzing. Route via de Omgevingswet: legesverordening art. 2.27 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (WED via Ow 5.1). Geen bestuurlijke boete in de regeling. Beleidsplan 4.2.8: proces-verbaal en 'een boete opgelegd van 300 euro' plus herplantplicht (alleen beleid; telt niet als bestuurlijke boete). Art. 11 lid 1 verwijst voor bestuursrechtelijke handhaving naar 'het verbod als bedoeld in artikel 3' (verkeerde verwijzing; het verbod staat in art. 2 lid 2).",
+  "procedure": "Leges (2026): art. 2.27 € 300,90 voor de eerste boom en € 155,30 per volgende boom, maximum € 2.000,00 (beschermde boom: zelfde tarieven). Aanvraag gepubliceerd in huis-aan-huisblad 'de Langstraat'; bezwaar binnen zes weken bij het college (Bomenlijst par. 3.1). Aanvraag door of namens de zakelijk gerechtigde (art. 3). Vergunning vervalt na 1 jaar zonder gebruik (art. 2 lid 6). Advies van het Platform Bomen (beleidsplan).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": 126,
+  "lijst_telling": "particuliere beschermde bomen volgens Omgevingsprogramma Groen (CVDR739389_1, tabel 3, stand 2022); de lijst zelf is niet ingezien. Daarnaast 572 gemeentelijke monumentale bomen (zelfde tabel); een totaal voor de hele lijst is niet gegeven (de lijst bevat ook boomstructuren).",
+  "status": "ok",
+  "ontbrekend": "De Beschermde bomenlijst en de bijbehorende groenstructuurkaart/beschermde bomenkaart zijn niet ingezien: de tekst van CVDR441946_1 (Bomenlijst 2012) bevat het overzicht van particuliere bomen (hoofdstuk 4) niet, en de kaart (bijlage 2 van het Omgevingsprogramma Groen) is leeg in de tekst. De gemeentelijke website gaf bij drie pogingen (/bomen, /beschermde-bomen, /kapvergunning) een 404. De actuele lijst, vastgesteld door het college, staat niet in CVDR. Compensatierichtlijn (genoemd in beleidsplan 4.2.6) niet in het dossier. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "Verordening Bomen 2017 art. 1, 2, 3, 4, 5, 7, 8, 11",
+    "Bomenlijst CVDR441946_1 par. 2.2, 3.1, 3.2, bijlage 1",
+    "Bomenbeleidsplan CVDR448357_1 par. 4.2.5, 4.2.6, 4.2.8",
+    "Omgevingsprogramma Groen CVDR739389_1 par. 6.3, 6.3.3, tabel 3",
+    "Legesverordening 2026 art. 2.27",
+    "APV 2023 art. 4:10-4:12 (gereserveerd), 6:1",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (min 0): lijstsysteem. Art. 2 lid 2: 'Het is verboden zonder vergunning van het bevoegd gezag een beschermde boom, een monumentale boom of boomstructuur te vellen of te doen vellen.' Art. 4 onder f: 'bomen die geen onderdeel uitmaken van de Beschermde bomenlijst zoals benoemd in artikel 2, eerste lid.' De lijst is niet ingezien; het aantal (126 particuliere beschermde bomen, 2022) komt uit het Omgevingsprogramma Groen (vastgesteld beleid, geldend in CVDR), dus lijst_ingezien blijft false en het D-bereik blijft staan.",
+    "W3 (min 2, max 3): de verordening zegt in art. 5 lid 2 dat de vergunning 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (op zichzelf W2 zonder bereik). Vastgesteld beleid is strenger: Omgevingsprogramma Groen par. 6.3: 'Deze vergunning wordt slechts bij uitzondering verleend.' Volgens de regel over strengere toetsing in beleid telt het beleid. Min 2 omdat onzeker is of het programma als beleidsregel meetelt (het is een omgevingsprogramma; het is niet gecontroleerd of het door het college of de raad is vastgesteld). Voor monumentale bomen: art. 5 lid 3 'Het bevoegd gezag kan de vergunning voor het vellen van een monumentale boom of monumentale bomenstructuur verlenen indien' (gesloten gronden).",
+    "H2 (min 1, max 3): de verordening zegt in art. 7 lid 1 'kan' (H1). Het Omgevingsprogramma Groen par. 6.3.3 zegt 'geldt hiervoor altijd een herplantplicht' bij kap van een beschermde of monumentale boom (vastgesteld beleid; 'altijd' is H2). De Bomenlijst (2012) zegt 'in de meeste gevallen een herplantplicht'. Max 3 omdat het programma en beleidsplan 4.2.6 een financiële compensatie in de bomenvoorziening noemen als laatste stap ('is een financiële compensatie verplicht door het storten van het compensatiebedrag in de bomenvoorziening'), maar beleidsplan 4.2.6 hoort bij kap om 'rode redenen' (ruimtelijke ontwikkeling) en telt dan niet voor H. Compensatie bij ruimtelijke ontwikkeling: 'Voor bomen die om een zogenoemde ‘rode reden’ moeten wijken geldt een compensatieplicht.'",
+    "H bij illegale kap: de verordening zegt in art. 8 lid 1 'kan het bevoegd gezag' een herplantplicht opleggen; het vastgestelde bomenbeleidsplan zegt in 4.2.8: 'Naast de boete wordt ook een herplantplicht opgelegd waarbij sprake is van kwalitatieve vervanging.' Beide zijn genoemd; het beleidsplan maakt herplant na illegale kap een vaste plicht (herplant_na_illegale_kap: verplicht). Bij art. 8 lid 3: 'wordt een financiële bijdrage gestort gelijk aan de boomwaarde' als niet ter plaatse kan worden herplant en geen andere locatie wordt aangewezen. Dit telt alleen bij S.",
+    "S1: eigen strafbepaling (art. 11 lid 4) en herplantplicht na illegale kap; route via Ow: legesverordening art. 2.27 'in samenhang met artikel 22.8 van de Omgevingswet'. De strafbepaling verwijst naar 'het verbod als bedoeld in artikel 3' (art. 11 lid 1), terwijl het verbod in art. 2 lid 2 staat; foute verwijzing, geen invloed op S (S = 1 zonder bereik). De boete van 300 euro (beleidsplan 4.2.8) staat alleen in beleid en telt niet als bestuurlijke boete.",
+    "Voorbeeldbomen A (80 cm) en B (40 cm): alleen als op lijst. De bomenlijst 2012 sluit tuinen niet uit, maar criteria bijlage 1: 'De boom staat niet in een achtertuin (een tuin niet grenzend aan openbaar terrein) van kleiner dan 50 m2'; een achtertuin van ca. 300 m2 valt daar niet onder, dus een boom van de voorbeeldtuin kan op de lijst staan als hij aan de criteria voldoet.",
+    "Status regelgeving: Omgevingsprogramma Groen (2025) meldt dat de Bomenverordening 2017 'op grond van het overgangsrecht' geldt tot 1 januari 2032 en dat het voornemen bestaat om haar te herzien en de lijst te vervangen door een digitale kaart. Dat is een toekomstig stelsel en telt niet mee.",
+    "Bomenbeleidsplan 'Niet kappen maar koesteren' (2017) vervangt het plan van 2009; het beleidsplan zegt dat de bomenlijst per kern is ingedeeld; de lijst van 2012 hoort bij het vorige plan, maar blijft in CVDR als geldend staan en wordt in de verordening (art. 1 onder e, g, h) niet met een datum aangeduid ('door het college vastgestelde Beschermde bomenlijst')."
+  ],
+  "modelsignalen": [
+    "Lijstsysteem waarvan het aantal particuliere bomen alleen uit een beleidsprogramma komt (126 in 2022, een verouderd getal) terwijl de lijst zelf (door het college vastgesteld, niet in CVDR) niet te vinden is. INTENT staat dit toe voor het aantal, maar zegt niet hoe het totaal moet worden ingevuld als de nota alleen deelaantallen noemt (572 gemeentelijk monumentaal, 126 particulier beschermd); lijst_aantal_totaal is daarom null.",
+    "Beleid als strengere toetsing: het Omgevingsprogramma Groen is geen beleidsregel in de enge zin. INTENT noemt 'beleidsnota, beleidsplan of besluit bij een bomenlijst' en vraagt of het door college of raad is vastgesteld en in CVDR als geldend staat; het programma staat als geldend maar de vaststelling is niet nagegaan. Daarom W min 2 en H min 1.",
+    "H en 'rode reden': het beleidsplan maakt financiële compensatie verplicht, maar alleen voor kap om ruimtelijke redenen; het model zegt dan H niet verhogen. Het programma noemt financiële compensatie als derde stap in de prioritering bij vergunde kap van beschermde bomen; het blijft onduidelijk of dat een verplichte storting is (H3).",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst niet ingezien, maar vastgestelde regeling of beleid bevestigt dat er particuliere bomen op staan: D-minimum 1 (was 0)."
+  ]
+}

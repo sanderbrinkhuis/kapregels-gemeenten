@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0376/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie Blaricum",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0376/2026/omgevingsvisie/nld@25",
+    "beginGeldigheid": "2026-04-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0376_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0376/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Blaricum",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0376/2020/omgevingsplan/nld@27",
+    "beginGeldigheid": "2026-08-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0376_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:27Z"
+  }
+]

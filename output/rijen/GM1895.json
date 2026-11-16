@@ -1,0 +1,76 @@
+{
+  "provincie": "Groningen",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing: geen lijstsysteem",
+  "volledig_gelezen": true,
+  "status": "ok",
+  "herplant_betalen_als_alternatief": "nee",
+  "gm_code": "GM1895",
+  "gemeente": "Oldambt",
+  "brondocument": "APV gemeente Oldambt 2025 afd. 4.3 (CVDR731911_2) art. 4:10, 4:11, 4:12, 6:1; Tarieventabel 2026 (CVDR753418_1) art. 2.29; Omgevingsplan (CVDR696511_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR731911/2",
+  "datum_geldigheid": "APV: geldend van 01-01-2025 t/m heden (peildatum 14-11-2026)",
+  "laatste_wijziging": "APV in werking 01-01-2025; tarieventabel 2026 in werking 01-01-2026",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit (leges art. 2.29 'vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "429 bekendmakingen sinds 2025: 195 besluiten, 226 aanvragen, 29 geweigerd volgens titel. Steekproef van 10 recente besluiten: allemaal verleende vergunningen voor het kappen van een of enkele bomen (o.a. wilgen, populieren, esdoorns), geen grondslagcitaat in de besluiten. Veel besluiten, past bij een brede regeling.",
+  "vergunningplicht": "vergunning (omgevingsvergunning)",
+  "drempel": "Boom = omtrek van minimaal 94,2 cm of dwarsdoorsnede van minimaal 30 cm op 1,3 m (art. 4:10 lid 1 sub a); bij meerstammigheid de dikste stam",
+  "omtrek_cm": 94.2,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Binnen de bebouwde kom alle houtopstanden (particulier en openbaar). Buiten de bebouwde kom uitgezonderd, tenzij de houtopstand 'een zelfstandige eenheid vormt' van meer dan 10 are of rijbeplanting van meer dan 20 bomen (art. 4:11 lid 2 sub b).",
+  "uitzonderingen": "Dunning; houtopstand buiten de bebouwde kom (behalve grotere eenheden, zie reikwijdte); Plantenziektewet of aanschrijving; spoed of direct gevaar (burgemeester). Geen uitzondering voor tuinen, fruitbomen of soorten.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ... b. de landschappelijke waarde ... c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde; e. de cultuurhistorische waarde; f. de waarde voor de leefbaarheid'.",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel gevonden.",
+  "herplant_ontsnapping": "Niet van toepassing: bevoegdheid ('kan'), per geval door het bevoegd gezag; geen regel over betaling in plaats van herplant.",
+  "herplant_type": "kan",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niet specifiek geregeld. Art. 6:1 lid 1: overtreding van het bij of krachtens de voorgaande artikelen bepaalde en de op grond van art. 1:4 gegeven voorschriften 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit en artikel 4:11, tweede lid' (formulering onduidelijk, zie opmerkingen); eigen strafbepaling art. 6:1 lid 1; geen bestuurlijke boete",
+  "procedure": "Leges art. 2.29: EUR 62,40 voor 1 t/m 4 bomen; EUR 14,85 per boom voor 5 t/m 19; EUR 14,70 per boom vanaf 20. Beslistermijn en bezwaar/beroep volgens Omgevingswet en Awb (APV 1:2 niet van toepassing op omgevingsvergunning).",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "ontbrekend": "Omgevingsplan (tijdelijk deel) in het DSO niet ingezien. Herplant na illegale kap: geen bepaling gevonden. Geen beleidsregel over herplant of handhaving gevonden in het dossier.",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:12",
+    "APV 6:1",
+    "Leges art. 2.29",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: binnen de bebouwde kom alle houtopstanden met een omtrek van minimaal 94,2 cm (diameter 30 cm), middelmatige drempel (60-100 cm). Buiten de bebouwde kom alleen grotere eenheden; dit is een gebiedsbeperking en geen tuinuitzondering, dus geen correctie.",
+    "W2: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (art. 4:11 lid 3).",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften' (art. 4:11 lid 5).",
+    "S1: WED-aanwijzing in 6:1 lid 2 en strafbepaling lid 1. De WED-zin eindigt met 'en artikel 4:11, tweede lid' (de uitzonderingenlid); waarschijnlijk een redactiefout, maar de kap zonder vergunning is een omgevingsplanactiviteit (leges art. 2.29), dus S1 blijft staan.",
+    "De legesverordening 2017 (CVDR387250_3) staat nog als geldend in het dossier; de tarieventabel 2026 (CVDR753418_1) is gebruikt."
+  ],
+  "modelsignalen": [
+    "Regeling die buiten de bebouwde kom alleen grotere eenheden beschermt: het model heeft hiervoor geen aparte regel; behandeld als gebiedsbeperking zonder D-correctie, omdat de bebouwde kom (incl. tuinen) volledig gedekt is."
+  ]
+}

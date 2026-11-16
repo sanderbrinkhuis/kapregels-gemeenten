@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1652/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Gemert-Bakel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1652/2020/omgevingsplan/nld@2024-08-16;1",
+    "beginGeldigheid": "2024-08-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1652_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1652/2024/omgevingsprogramma-woningbouwontwikkeling-deelse-kampen-gemert",
+    "titel": "Omgevingsprogramma Woningbouwontwikkeling Deelse Kampen, Gemert",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1652/2024/omgevingsprogramma-woningbouwontwikkeling-deelse-kampen-gemert/nld@2024-10-29;1",
+    "beginGeldigheid": "2024-10-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1652_2024_omgevingsprogramma_woningbouwontwikkeling_deelse_kampen_gemert?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1652/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Gemert-Bakel 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1652/2025/omgevingsvisie/nld@2025-06-26;1",
+    "beginGeldigheid": "2025-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1652_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:28Z"
+  }
+]

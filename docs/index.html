@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kapregels per gemeente</title>
+<meta name="description" content="Interactieve kaart: kapregels voor bomen in particuliere tuinen in alle 342 Nederlandse gemeenten.">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+  :root {
+    color-scheme: light;
+    --surface-0: #f4f3ef;
+    --surface-1: #fcfcfb;
+    --border: #dcdad3;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted: #6f6e69;
+    --accent: #2a78d6;
+    --on-accent: #ffffff;
+    --stroke-map: #fcfcfb;
+    --hatch-bg: #e9e7e1;
+    --hatch-line: #a9a79f;
+    /* ordinaal, licht → donker (gevalideerd, ordinal, light) */
+    --o1: #86b6ef; --o2: #5598e7; --o3: #2a78d6; --o4: #1c5cab; --o5: #104281;
+    --b-nee: #86b6ef; --b-lijst: #3987e5; --b-melden: #2a6bc0; --b-ja: #184f95;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --surface-0: #121211; --surface-1: #1a1a19; --border: #383835;
+      --text-primary: #f0efec; --text-secondary: #c3c2b7; --text-muted: #9a998f;
+      --accent: #6da7ec; --on-accent: #0b0b0b; --stroke-map: #1a1a19; --hatch-bg: #2b2b29; --hatch-line: #6f6e69;
+      /* ordinaal voor donker oppervlak: donker → licht (gevalideerd, ordinal, dark) */
+      --o1: #184f95; --o2: #256abf; --o3: #3987e5; --o4: #6da7ec; --o5: #b7d3f6;
+      --b-nee: #184f95; --b-lijst: #3987e5; --b-melden: #6da7ec; --b-ja: #b7d3f6;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-0: #121211; --surface-1: #1a1a19; --border: #383835;
+    --text-primary: #f0efec; --text-secondary: #c3c2b7; --text-muted: #9a998f;
+    --accent: #6da7ec; --on-accent: #0b0b0b; --stroke-map: #1a1a19; --hatch-bg: #2b2b29; --hatch-line: #6f6e69;
+    --o1: #184f95; --o2: #256abf; --o3: #3987e5; --o4: #6da7ec; --o5: #b7d3f6;
+    --b-nee: #184f95; --b-lijst: #3987e5; --b-melden: #6da7ec; --b-ja: #b7d3f6;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--surface-0); color: var(--text-primary);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 20px 16px 40px; }
+  header h1 { font-size: 1.5rem; margin: 0 0 4px; line-height: 1.25; }
+  header p { margin: 0; color: var(--text-secondary); }
+  .controls {
+    display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 16px 0 12px;
+  }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--surface-1); }
+  .seg button {
+    appearance: none; border: 0; background: transparent; color: var(--text-primary);
+    padding: 8px 12px; font: inherit; cursor: pointer; border-right: 1px solid var(--border);
+  }
+  .seg button:last-child { border-right: 0; }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); }
+  .seg button:focus-visible, input:focus-visible, .theme:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .search { position: relative; flex: 1 1 220px; max-width: 340px; }
+  .search input {
+    width: 100%; padding: 8px 12px; font: inherit; color: var(--text-primary);
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
+  }
+  .theme {
+    margin-left: auto; appearance: none; border: 1px solid var(--border); background: var(--surface-1);
+    color: var(--text-secondary); border-radius: 8px; padding: 8px 12px; font: inherit; cursor: pointer;
+  }
+  .grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 16px; }
+  .grid > * { min-width: 0; }
+  @media (max-width: 520px) {
+    .seg { width: 100%; }
+    .seg button { flex: 1 1 0; padding: 8px 4px; font-size: 14px; }
+    .search { max-width: none; flex-basis: 100%; }
+    .theme { margin-left: 0; }
+    header h1 { font-size: 1.3rem; }
+  }
+  @media (max-width: 860px) { .grid { grid-template-columns: 1fr; } }
+  .card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; }
+  #map { height: 640px; border-radius: 12px; background: var(--surface-1); }
+  @media (max-width: 860px) { #map { height: 480px; } }
+  .side { padding: 16px; }
+  .side h2 { font-size: 1rem; margin: 0 0 8px; }
+  .legend { list-style: none; padding: 0; margin: 0 0 16px; }
+  .legend li { display: flex; align-items: center; gap: 8px; margin: 4px 0; color: var(--text-primary); }
+  .legend .sw { width: 16px; height: 16px; border-radius: 4px; flex: none; border: 1px solid var(--border); }
+  .legend .n { color: var(--text-muted); margin-left: auto; font-variant-numeric: tabular-nums; }
+  .hatch { background: repeating-linear-gradient(45deg, var(--hatch-bg) 0 4px, var(--hatch-line) 4px 5px); }
+  .detail dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; }
+  .detail dt { color: var(--text-secondary); }
+  .detail dd { margin: 0; }
+  .detail .hint { color: var(--text-muted); margin: 0; }
+  .detail a { color: var(--accent); }
+  .note { color: var(--text-muted); font-size: 0.85rem; margin-top: 16px; }
+  .leaflet-container { font: inherit; background: var(--surface-1); }
+  .leaflet-tooltip {
+    background: var(--surface-1); color: var(--text-primary); border: 1px solid var(--border);
+    border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.15); padding: 6px 10px;
+  }
+  .leaflet-tooltip-top:before { border-top-color: var(--border); }
+  .tip-name { font-weight: 600; }
+  .tip-val { color: var(--text-secondary); }
+  .leaflet-control-zoom a { background: var(--surface-1); color: var(--text-primary); border-color: var(--border); }
+  .leaflet-control-attribution { background: color-mix(in srgb, var(--surface-1) 85%, transparent) !important; color: var(--text-muted); }
+  details.table { margin-top: 16px; padding: 12px 16px; }
+  details.table summary { cursor: pointer; font-weight: 600; }
+  .tablewrap { overflow-x: auto; margin-top: 12px; }
+  table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th button { all: unset; cursor: pointer; font-weight: 600; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  footer { color: var(--text-muted); font-size: 0.85rem; margin-top: 20px; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Kapregels voor bomen in particuliere tuinen</h1>
+    <p>Alle 342 gemeenten · peildatum 14 t/m 16 november 2026 · alleen officiële bronnen</p>
+  </header>
+
+  <div class="controls" role="group" aria-label="Kaartinstellingen">
+    <div class="seg" role="group" aria-label="Wat toont de kaart?">
+      <button type="button" data-laag="a" aria-pressed="true">Boom A (80 cm)</button>
+      <button type="button" data-laag="b" aria-pressed="false">Boom B (40 cm)</button>
+      <button type="button" data-laag="s" aria-pressed="false">Strengheid</button>
+    </div>
+    <div class="search">
+      <label for="zoek" class="sr" style="position:absolute;left:-9999px">Zoek een gemeente</label>
+      <input id="zoek" list="gemeenten" placeholder="Zoek een gemeente…" autocomplete="off">
+      <datalist id="gemeenten"></datalist>
+    </div>
+    <button type="button" class="theme" id="theme" aria-label="Wissel licht en donker">◐ Thema</button>
+  </div>
+
+  <div class="grid">
+    <div class="card"><div id="map" role="region" aria-label="Kaart van Nederland per gemeente"></div></div>
+    <aside class="card side">
+      <h2 id="legend-title">Vergunning nodig voor boom A?</h2>
+      <p id="legend-sub" class="note" style="margin:0 0 8px"></p>
+      <ul class="legend" id="legend"></ul>
+      <div class="detail" id="detail" aria-live="polite">
+        <p class="hint">Wijs een gemeente aan of klik erop voor de gegevens en de bron.</p>
+      </div>
+      <p class="note">Boom A en B staan gezond in een achtertuin binnen de bebouwde kom; stamomtrek gemeten op 1,30 m. Geen fruitboom, conifeer, populier of wilg.</p>
+    </aside>
+  </div>
+
+  <details class="card table">
+    <summary>Alle gemeenten als tabel</summary>
+    <div class="tablewrap">
+      <table id="tabel">
+        <thead><tr>
+          <th><button data-sort="n">Gemeente</button></th>
+          <th><button data-sort="p">Provincie</button></th>
+          <th><button data-sort="a">Boom A</button></th>
+          <th><button data-sort="b">Boom B</button></th>
+          <th class="num"><button data-sort="s">Strengheid</button></th>
+          <th><button data-sort="k">Categorie</button></th>
+          <th><button data-sort="t">Betrouwbaarheid</button></th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </details>
+
+  <footer>
+    Bronnen per gemeente: de officiële regelingen (CVDR, DSO). Uitleg van het model en alle cijfers staan in het rapport en
+    in <code>output/</code> van de repository. Gemeentegrenzen: CBS/PDOK 2026. Deze pagina laadt geen achtergrondkaart en
+    gebruikt geen cookies of tracking.
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+(() => {
+  const LAGEN = {
+    a: { veld: 'a', titel: 'Vergunning nodig voor boom A (80 cm)?', klassen: [
+      ['ja', 'Vergunning nodig', '--b-ja'], ['melden', 'Melden (gemeente kan verbieden)', '--b-melden'],
+      ['alleen als op lijst', 'Alleen als de boom op de lijst staat', '--b-lijst'], ['nee', 'Geen vergunning nodig', '--b-nee'],
+      ['onbekend', 'Onbekend', null]] },
+    b: { veld: 'b', titel: 'Vergunning nodig voor boom B (40 cm)?', klassen: null },
+    s: { veld: 'k', titel: 'Strengheid van de kapregels', klassen: [
+      ['5 Zeer streng', 'Zeer streng (80–100)', '--o5'], ['4 Streng', 'Streng (60–79)', '--o4'],
+      ['3 Gemiddeld', 'Gemiddeld (40–59)', '--o3'], ['2 Soepel', 'Soepel (20–39)', '--o2'],
+      ['1 Zeer soepel', 'Zeer soepel (0–19)', '--o1']] },
+  };
+  LAGEN.b.klassen = LAGEN.a.klassen;
+  const LABEL_BOOM = { 'ja': 'vergunning nodig', 'melden': 'melden', 'alleen als op lijst': 'alleen als op lijst',
+                       'nee': 'geen vergunning nodig', 'onbekend': 'onbekend' };
+  const HERPLANT = { 'kan': 'gemeente kan herplant opleggen', 'harde plicht': 'vaste plicht om te herplanten',
+                     'in beginsel/tenzij': 'herplant is de standaard, met een uitweg', 'geen grondslag': 'niet geregeld' };
+  let laag = 'a', data = null, geo = null, gekozen = null;
+  const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  const map = L.map('map', { zoomSnap: 0.25, attributionControl: true, preferCanvas: false });
+  map.attributionControl.setPrefix(false).addAttribution('Grenzen: CBS/PDOK 2026');
+  const renderer = L.svg({ padding: 0.5 }).addTo(map);
+
+  function arcering() {
+    const svg = renderer._container;
+    if (!svg) return;
+    let defs = svg.querySelector('defs');
+    if (!defs) { defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs'); svg.prepend(defs); }
+    defs.innerHTML = `<pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+      <rect width="6" height="6" fill="${css('--hatch-bg')}"/><line x1="0" y1="0" x2="0" y2="6" stroke="${css('--hatch-line')}" stroke-width="1.5"/></pattern>`;
+  }
+
+  function kleur(p) {
+    const L_ = LAGEN[laag];
+    const v = p[L_.veld];
+    const k = L_.klassen.find(x => x[0] === v);
+    if (!k || !k[2]) return 'url(#hatch)';
+    return css(k[2]);
+  }
+  function stijl(f) {
+    const sel = gekozen && gekozen.feature === f;
+    return { renderer, fillColor: kleur(f.properties), fillOpacity: 1, color: sel ? css('--text-primary') : css('--stroke-map'),
+             weight: sel ? 2.5 : 0.6 };
+  }
+  function waarde(p) {
+    if (laag === 's') return `strengheid ${p.s} (${p.k.slice(2)})`;
+    return LABEL_BOOM[p[laag]] ?? p[laag];
+  }
+  function tooltip(p) {
+    if (!p.p) return `<div class="tip-name">${esc(p.n)}</div><div class="tip-val">niet onderzocht</div>`;
+    return `<div class="tip-name">${esc(p.n)}</div><div class="tip-val">${esc(waarde(p))}</div>`;
+  }
+  function detail(p) {
+    const el = document.getElementById('detail');
+    if (!p) { el.innerHTML = '<p class="hint">Wijs een gemeente aan of klik erop voor de gegevens en de bron.</p>'; return; }
+    el.innerHTML = `<h2>${esc(p.n)}</h2><dl>
+      <dt>Provincie</dt><dd>${esc(p.p)}</dd>
+      <dt>Boom A (80 cm)</dt><dd>${esc(LABEL_BOOM[p.a] ?? p.a)}</dd>
+      <dt>Boom B (40 cm)</dt><dd>${esc(LABEL_BOOM[p.b] ?? p.b)}</dd>
+      <dt>Drempel</dt><dd>${esc(p.d)}</dd>
+      <dt>Herplant</dt><dd>${esc(HERPLANT[p.h] ?? p.h)}</dd>
+      <dt>Strengheid</dt><dd>${esc(p.s)} (${esc(p.k.slice(2))}); bereik ${esc(p.r)}</dd>
+      <dt>Betrouwbaarheid</dt><dd>${esc(p.t)}</dd>
+      <dt>Regeling</dt><dd>${esc(p.q)}</dd>
+      ${p.u ? `<dt>Bron</dt><dd><a href="${esc(p.u)}" target="_blank" rel="noopener">officiële tekst (${esc(p.c)})</a></dd>` : ''}
+    </dl>`;
+  }
+  function legenda() {
+    const L_ = LAGEN[laag];
+    document.getElementById('legend-title').textContent = L_.titel;
+    const tel = {};
+    data.features.forEach(f => { const v = f.properties[L_.veld]; tel[v] = (tel[v] || 0) + 1; });
+    document.getElementById('legend').innerHTML = L_.klassen.filter(k => tel[k[0]] || k[0] !== 'melden').map(k =>
+      `<li><span class="sw ${k[2] ? '' : 'hatch'}" style="${k[2] ? `background:${css(k[2])}` : ''}"></span>${esc(k[1])}<span class="n">${tel[k[0]] || 0}</span></li>`
+    ).join('');
+    document.getElementById('legend-sub').textContent = 'Aantal gemeenten per klasse';
+  }
+  function hertekenen() { arcering(); geo.setStyle(stijl); legenda(); if (gekozen) gekozen.bringToFront(); }
+
+  function kies(layer, zoom) {
+    const vorige = gekozen; gekozen = layer;
+    if (vorige) vorige.setStyle(stijl(vorige.feature));
+    if (layer) { layer.setStyle(stijl(layer.feature)); layer.bringToFront(); detail(layer.feature.properties);
+                 if (zoom) map.fitBounds(layer.getBounds(), { maxZoom: 10, padding: [40, 40] }); }
+    else detail(null);
+  }
+
+  fetch('gemeenten.geojson').then(r => r.json()).then(d => {
+    data = d;
+    arcering();
+    geo = L.geoJSON(d, {
+      style: stijl,
+      onEachFeature: (f, layer) => {
+        layer.bindTooltip(() => tooltip(f.properties), { sticky: true, direction: 'top', opacity: 1 });
+        layer.on('mouseover', () => { if (!gekozen) detail(f.properties); layer.setStyle({ weight: 2, color: css('--text-primary') }); });
+        layer.on('mouseout', () => { layer.setStyle(stijl(f)); if (!gekozen) detail(null); });
+        layer.on('click', () => kies(layer, false));
+        layer.on('keypress', e => { if (e.originalEvent.key === 'Enter') kies(layer, false); });
+      }
+    }).addTo(map);
+    map.fitBounds(geo.getBounds(), { padding: [10, 10] });
+    legenda();
+    // zoeken
+    const namen = d.features.map(f => f.properties.n).sort((x, y) => x.localeCompare(y, 'nl'));
+    document.getElementById('gemeenten').innerHTML = namen.map(n => `<option value="${esc(n)}">`).join('');
+    document.getElementById('zoek').addEventListener('change', e => {
+      const q = e.target.value.trim().toLowerCase();
+      geo.eachLayer(l => { if (l.feature.properties.n.toLowerCase() === q) kies(l, true); });
+    });
+    tabel();
+  });
+
+  // laag wisselen
+  document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+    laag = b.dataset.laag;
+    document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+    hertekenen();
+  }));
+
+  // thema
+  document.getElementById('theme').addEventListener('click', () => {
+    const root = document.documentElement;
+    const donker = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme = donker ? 'light' : 'dark';
+    try { localStorage.setItem('thema', root.dataset.theme); } catch (e) {}
+    if (geo) hertekenen();
+  });
+  try { const t = localStorage.getItem('thema'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (geo) hertekenen(); });
+
+  // tabel
+  let sortKey = 'n', sortDir = 1;
+  function tabel() {
+    const rows = data.features.map(f => f.properties).filter(p => p.p)
+      .sort((x, y) => { const a = x[sortKey], b = y[sortKey];
+        return (typeof a === 'number' ? a - b : String(a).localeCompare(String(b), 'nl')) * sortDir; });
+    document.querySelector('#tabel tbody').innerHTML = rows.map(p => `<tr>
+      <td>${esc(p.n)}</td><td>${esc(p.p)}</td><td>${esc(LABEL_BOOM[p.a] ?? p.a)}</td><td>${esc(LABEL_BOOM[p.b] ?? p.b)}</td>
+      <td class="num">${esc(p.s)}</td><td>${esc(p.k.slice(2))}</td><td>${esc(p.t)}</td></tr>`).join('');
+  }
+  document.querySelectorAll('#tabel th button').forEach(b => b.addEventListener('click', () => {
+    const k = b.dataset.sort; sortDir = (k === sortKey) ? -sortDir : 1; sortKey = k; tabel();
+  }));
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1916/2024/Regeling334c68b9576e4538aec2eaea8d4fb099",
+    "titel": "Programma actieplan geluid gemeente Leidschendam-Voorburg",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1916/2024/Regeling334c68b9576e4538aec2eaea8d4fb099/nld@2024-10-16;14100702",
+    "beginGeldigheid": "2024-10-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1916_2024_Regeling334c68b9576e4538aec2eaea8d4fb099?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1916/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Leidschendam-Voorburg",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1916/2020/omgevingsplan/nld@2025-11-03;10400247",
+    "beginGeldigheid": "2025-12-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1916_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1916/2025/Regelingc0e775297a41494598a2a099cc6cb7d3",
+    "titel": "Omgevingsvisie 2050 Leidschendam-Voorburg",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1916/2025/Regelingc0e775297a41494598a2a099cc6cb7d3/nld@2026-05-27;08041983",
+    "beginGeldigheid": "2026-05-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1916_2025_Regelingc0e775297a41494598a2a099cc6cb7d3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1916/2025/Regeling6cc9d645ada1430f9791e04ad7e33dff",
+    "titel": "Volkshuisvestingsprogramma Leidschendam-Voorburg 2026-2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1916/2025/Regeling6cc9d645ada1430f9791e04ad7e33dff/nld@2026-09-22;08583301",
+    "beginGeldigheid": "2026-10-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1916_2025_Regeling6cc9d645ada1430f9791e04ad7e33dff?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:10Z"
+  }
+]

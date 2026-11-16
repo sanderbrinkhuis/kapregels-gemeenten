@@ -1,0 +1,77 @@
+{
+ "provincie": "Fryslân",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Definitie 'monumentaal' (80 jaar en levensverwachting 10 jaar) bepaalt de lijst; de lijst zelf is hier niet ingezien, waardoor D en dus de score geen feitelijke basis heeft (bereik 0-17)."
+ ],
+ "gm_code": "GM0093",
+ "gemeente": "Terschelling",
+ "brondocument": "Bomenverordening Terschelling 2010 (CVDR73388_1) art. 1, 2, 3, 5, 7, 8, 12; Bomenverordening Terschelling 2010: bomenlijst (CVDR84374_3); Legesverordening Terschelling 2024 art. 2.30 (CVDR709241_4); Omgevingsplan art. 22.299 (CVDR696183_2); APV Terschelling 2021 afdeling 3 (vervallen)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR73388/1 ; https://lokaleregelgeving.overheid.nl/CVDR84374/3",
+ "datum_geldigheid": "Bomenverordening CVDR73388_1 geldend vanaf 2010-10-08 t/m heden; bomenlijst CVDR84374_3 vanaf 2015-01-28; legesverordening CVDR709241_4 vanaf 2025-12-27 (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Bomenverordening: versie 1 (2010-10-08), niet gewijzigd. Bomenlijst: versie 3 per 2015-01-28. APV 2021 afdeling 3 'Het bewaren van houtopstanden' staat als '(VERVALLEN)'.",
+ "juridische_plaats": "Losse bomenverordening (2010), werkt als omgevingsplanactiviteit: legesverordening (CVDR709241_4) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening Terschelling 2010 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 5 bekendmakingen op titel (1 besluit, 3 aanvragen, 0 weigeringen volgens de titel). Het ene besluit (gmb-2025-339819) betreft een es als 'monumentale houtopstand met ref.763' op particuliere grond, in lijn met het lijstsysteem; grondslag niet genoemd. Het referentienummer 763 wijst op een lijst met minstens enkele honderden genummerde bomen; niet geteld.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van een monumentale houtopstand, dat is een houtopstand op de door B&W vastgestelde lijst (art. 2).",
+ "drempel": "Geen maatdrempel: alleen houtopstanden op de lijst ('monumentale houtopstand'), ongeacht omvang. Definitie 'monumentale houtopstand': 'met een leeftijd van tenminste 80 jaar en een levensverwachting van 10 jaar' (art. 1 onder l).",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 2 lid 1: 'Het is verboden zonder vergunning of in afwijking van een vergunning van het bevoegd gezag een monumentale houtopstand te vellen of te doen vellen.' Lid 2: 'Een houtopstand is «monumentaal» als de houtopstand voorkomt op de lijst van houtopstanden'. Lijst volgens art. 1 onder o: 'lijst van houtopstanden die voldoen aan het begrip van «monumentale houtopstand», voorzien van een voor ieder goed herkenbare omschrijving, standplaats en het kadastrale perceelsnummer'. CVDR84374_3: 'In onderstaande bijlagen kunt u de bomen opzoeken waarbij voor het kappen een omgevingsvergunning vereist is.' Hele gemeente, particulier en openbaar; alleen de lijstbomen.",
+ "uitzonderingen": "Art. 3: bedrijfseconomisch geexploiteerde houtopstand (Boswet art. 15); houtopstand die moet worden geveld krachtens de Plantenziektenwet of een aanschrijving; periodiek vellen van hakhout en afzetten van elzensingels; knotten en kandelaberen; wegbeplanting en eenrijige beplanting van populieren of wilgen langs landbouwgronden; 'vruchtbomen en windschermen om boomgaarden'; kerstbomen; bosbouwondernemingen buiten de bebouwde kom. Art. 6: de burgemeester kan toestemming geven tot direct vellen 'indien sprake is van acuut gevaar of vergelijkbaar spoedeisend belang'.",
+ "weigeringsgronden": "Art. 5 lid 1: 'Het bevoegd gezag kan de vergunning om te vellen weigeren dan wel onder voorschriften verlenen.' Lid 2: 'Een vergunning tot vellen wordt geweigerd als: a. het belang van verlening niet opweegt tegen het belang tot behoud van de monumentale houtopstand; b. velling in strijd is met de Flora en faunawet.'",
+ "herplantplicht": "Art. 7 lid 3: 'Als voorschrift ... kan worden verbonden aan de vergunning tot vellen, de verplichting dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 8 lid 1 (na illegale velling): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen beleidsregel gevonden. Geen financiele compensatie.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid); het bevoegd gezag beslist per geval. Geen betaling in plaats van herplant.",
+ "sancties": "Eigen strafbepaling: art. 12 lid 1 'Overtreding van het bij of krachtens de volgende artikelen bepaalde wordt gestraft met een hechtenis van ten hoogste 2 maanden of geldboete van de tweede categorie: artikel 2, lid 1; artikel 8; artikel 10 en artikel 11.' Lid 2: 'Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde.' Herplantplicht na illegale velling mogelijk (art. 8). Daarnaast WED via Ow art. 5.1 omdat de regel als omgevingsplanactiviteit werkt (INTENT, besluit stap 1a). Geen bestuurlijke boete gevonden.",
+ "procedure": "Omgevingsvergunning, reguliere voorbereidingsprocedure ('§ 3.2 Wet algemene bepalingen omgevingsrecht', art. 4 lid 2). Leges 2025/2026 (CVDR709241_4) art. 2.30: EUR 314,08. De lijst staat volgens CVDR84374_3 op de gemeentelijke website en ligt ter inzage op het gemeentehuis. Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 8 lid 4: 'Degene aan wie een voorschrift als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 12 lid 1 stelt overtreding van art. 8 strafbaar: 'hechtenis van ten hoogste 2 maanden of geldboete van de tweede categorie'. Voor voorschriften bij een vergunning (art. 7): geen eigen bepaling; algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: CVDR84374_3 verwijst naar bijlagen 2, 3 en 4 en naar de bomenlijst op de gemeentelijke website; de bijlagen staan niet in de CVDR-tekst en een korte zoekpoging op terschelling.nl leverde de lijst niet op. Indicatie: besluit gmb-2025-339819 betreft een boom op particuliere grond met referentienummer 763",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst (bijlagen 2 tot en met 4 bij CVDR84374_3, of lijst op de gemeentelijke website) niet ingezien; aantal en particulier aandeel onbekend. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "Bomenverordening 2010 art. 1, 2, 3, 5, 6, 7, 8, 12",
+  "Bomenlijst CVDR84374_3 art. 1",
+  "Legesverordening art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "APV 2021 afdeling 3 (vervallen), art. 6:1"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus puntschatting D1 en bereik vanaf D0. Een besluit van 2025 over een monumentale es op particuliere grond (gmb-2025-339819) wijst erop dat er particuliere bomen op de lijst staan, maar dat is geen telling.",
+  "W2: 'Een vergunning tot vellen wordt geweigerd als: a. het belang van verlening niet opweegt tegen het belang tot behoud van de monumentale houtopstand' (art. 5 lid 2): belangenafweging, geen 'slechts bij uitzondering'.",
+  "H1: 'kan worden verbonden aan de vergunning tot vellen, de verplichting dat ... moet worden herplant' (art. 7 lid 3); geen beleidsregel gevonden die herplant verplicht maakt.",
+  "S1: eigen strafbepaling (art. 12) en WED via Ow art. 5.1 (omgevingsplanactiviteit); geen bestuurlijke boete. Herplantplicht na illegale velling is een bevoegdheid (art. 8 lid 1), maar valt ook onder S1.",
+  "APV 2021 afdeling 3 (houtopstanden) is vervallen; de Bomenverordening 2010 is de geldende regeling. Art. 6:1 APV (sanctiebepaling) verwijst niet meer naar een kapartikel.",
+  "Bomenverordening bevat verwijzingen naar de Flora en faunawet en de Plantenziektenwet (verouderde wetten); dit is de letterlijke tekst, niet gecorrigeerd.",
+  "Kleine afwijking: de verordening is van 2010 en is niet aangepast aan de Omgevingswet; de bruidsschat-route gaat via de legesverordening (art. 2.30)."
+ ]
+}

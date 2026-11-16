@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0986",
+ "gemeente": "Voerendaal",
+ "provincie": "Limburg",
+ "brondocument": "Verordening bomen en houtopstanden 2025 Voerendaal (art. 1, 9, 12, 13, 14, 15, 18, 21, 22); Omgevingsplan art. 22.299 (alleen aanvraagvereisten); Legesverordening 2026 art. 2.30; APV 2025 art. 4.9b (alleen gemeentelijke houtopstanden)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR742034/1 ; https://lokaleregelgeving.overheid.nl/CVDR752547/2 ; https://lokaleregelgeving.overheid.nl/CVDR696457/2 ; https://lokaleregelgeving.overheid.nl/CVDR733538/1",
+ "datum_geldigheid": "CVDR742034_1 geldend vanaf 2025-07-15 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Versie 1 (nieuwe vaststelling, in werking 2025-07-15); de Verordening bomen 2012 is ingetrokken (art. 24 lid 4). Geen latere wijziging in de CVDR-treffers.",
+ "juridische_plaats": "Bomenverordening (Verordening bomen en houtopstanden 2025), werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR752547_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de ter zake vigerende verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 12 bekendmakingen op titel, waarvan 5 besluiten (allemaal verleend), 6 aanvragen en 0 weigeringen. De 5 besluiten noemen geen grondslag. Eén besluit betreft drie populieren.",
+ "vergunningplicht": "Omgevingsvergunning van het college voor het vellen van bomen en houtopstanden die op de 'Kaart beschermde bomen en houtopstanden' staan (art. 12 lid 1); daarnaast voor bomen die zijn aangelegd op grond van een overeenkomst met een publiekrechtelijk bestuursorgaan of een herplantplicht (art. 12 lid 2 en 3).",
+ "drempel": "Geen omvangdrempel voor de kaartbomen: alleen bomen en houtopstanden op de kaart, ongeacht omvang. Definitie 'boom': 'dwarsdoorsnede van de stam van minimaal 10 centimeter op 1,30 meter hoogte boven het maaiveld' (art. 1 lid 8; ca. 31 cm omtrek).",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m (art. 6)",
+ "reikwijdte": "Art. 9 lid 1: de kaart met register bevat 'de volgende te beschermen bomen en houtopstanden gesitueerd binnen en buiten de bebouwingscontour houtkap, te weten de aangewezen: a. monumentale bomen en monumentale houtopstanden; b. overige waardevolle bomen en houtopstanden'. Het register bevat kadastrale gegevens (art. 9 lid 3 onder d). Geen algemeen verbod voor alle bomen. De gemeentelijke webpagina zegt dat houtopstanden groter dan 10 are en bomenrijen van meer dan 20 bomen niet op de kaart staan, evenals boomgaarden en kerstbomen.",
+ "uitzonderingen": "Art. 13: onder meer periodiek vellen van hakhout en snoeien van hagen, knotbomen, dunnen, Plantgezondheidswet, noodkap bij acuut gevaar en 'bedrijfsmatig en dienstbaar bedrijfsmatig geteelde fruitbomen, notenbomen, kerstbomen en bomen uit de boomkwekerijteelt'. Geen uitzondering voor tuinen of kavels (gangbare uitzonderingen tellen niet).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de 'Kaart beschermde bomen en houtopstanden' met register is alleen via een interactieve kaartviewer (geo.gegevenshuis.nl, gelinkt vanaf de gemeentelijke webpagina) te bekijken; die kon met curl niet worden uitgelezen. Het register met kadastrale gegevens is niet gevonden.",
+ "weigeringsgronden": "Art. 15 lid 2: 'Het college kan een omgevingsvergunning weigeren voor het vellen van een boom of houtopstand als de belangen van vellen van de boom of houtopstand niet opwegen tegen de belangen van behoud op basis van één of meer van de oogmerken als bedoeld in artikel 10.' Oogmerken (art. 10): onder meer natuur, biodiversiteit, landschappelijke en stedenbouwkundige waarden, cultuurhistorische en beeldbepalende waarde, leefbaarheid. Voor monumentale bomen lid 3: weigeren als de belangen van vellen 'niet opwegen tegen het belang van behoud ... en/of er geen volwaardig alternatief voorhanden is'. Lid 4: 'in ieder geval' weigeren bij 'lichte tot matige hinder' (blad-, zaad-, vruchtval, schaduwhinder) en bij belemmering van zonnepanelen.",
+ "herplantplicht": "Art. 18 lid 1: 'Bij vergunningvoorschrift voor het vellen van een boom of houtopstand kan een: a. verplantingsplicht; en/of b. een herbeplantingsplicht, of c. een financiële bijdrage voor herbeplanting op een nieuwe locatie worden opgelegd, als niet aan het bepaalde onder a. en/of b. kan worden voldaan.' Aanvraag moet 'een herplant- of compensatievoorstel' bevatten (art. 14 lid 2 onder c). Geen beleidsregel gevonden die herplant verplicht stelt.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan een' herbeplantingsplicht worden opgelegd (art. 18 lid 1). Betalen in plaats van planten kan eveneens alleen worden opgelegd ('kan ... worden opgelegd, als niet aan het bepaalde onder a. en/of b. kan worden voldaan'; art. 14 lid 3: 'kan bij voldoende onderbouwing van de noodzaak tot vellen financiële compensatie tot de mogelijkheden behoren'). Het college beslist per geval.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 22 lid 1: 'Overtreding van het bij of op grond van deze verordening bepaalde en gegeven voorschriften en beperkingen, kan door het bevoegd gezag worden gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Art. 21 lid 1 (illegale kap): het college 'kan' herbeplanting inclusief zorg- en instandhoudingsplicht of een financiële bijdrage opleggen.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Eigen strafbepaling in de verordening (art. 22: hechtenis van ten hoogste twee maanden of geldboete tweede categorie; bij strafmaat 'kan rekening worden gehouden met de boomwaarde'). Daarnaast WED via Omgevingswet art. 5.1 (omgevingsplanactiviteit volgens leges art. 2.30). Geen bestuurlijke boete. Herplant na illegale kap: 'kan' (art. 21).",
+ "procedure": "Aanvraag omgevingsvergunning via het Omgevingsloket (art. 14, aanvraagvereisten ook omgevingsplan art. 22.299). Leges 2026 art. 2.30: EUR 68 plus advieskosten Omgevingsdienst Zuid-Limburg (legesverordening versie in werking 2026-11-07). Vervaltermijn vergunning één jaar (art. 17). Beslistermijn, bezwaar en beroep niet apart onderzocht (algemene regels Awb).",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "status": "ok",
+ "ontbrekend": "Kaart beschermde bomen en houtopstanden met register niet ingezien (interactieve viewer); onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "Verordening bomen en houtopstanden 2025 art. 1, 6, 9, 10, 12, 13, 14, 15, 17, 18, 21, 22",
+  "Omgevingsplan art. 22.299",
+  "Legesverordening 2026 art. 2.30",
+  "APV 2025 art. 4.9b (alleen gemeentelijke houtopstanden)"
+ ],
+ "opmerkingen": [
+  "D1 (min 0, max 1): lijstsysteem met kaart; de kaart is niet ingezien, dus puntschatting D1 en bereik vanaf D0 (INTENT, ONZEKERHEID). De kaart bevat naast losse bomen ook 'houtopstanden' (volgens de webpagina bosjes, singels en hagen); of dat voldoende is voor D2 (gebieden of structuren) is zonder kaart niet vast te stellen.",
+  "W2: 'Het college kan een omgevingsvergunning weigeren voor het vellen van een boom of houtopstand als de belangen van vellen van de boom of houtopstand niet opwegen tegen de belangen van behoud' (art. 15 lid 2): belangenafweging op natuur-, landschaps- en cultuurhistorische waarden. Monumentale bomen: iets strenger (lid 3), niet het grootste deel.",
+  "H1: 'kan een: a. verplantingsplicht; en/of b. een herbeplantingsplicht' (art. 18 lid 1). De betaling in plaats van herplant 'kan' alleen worden opgelegd en verhoogt H niet. Herplant na illegale kap: 'kan' (art. 21 lid 1).",
+  "S1: eigen strafbepaling art. 22 (rechter). Geen bestuurlijke boete. WED ook via Ow 5.1 (omgevingsplanactiviteit), zelfde score.",
+  "De APV 2025 art. 4.9b beschermt alleen gemeentelijke houtopstanden en verwijst naar 'de vigerende bomenverordening'; geen particuliere bomen.",
+  "Daarnaast bestaat een 'Paraplu bestemmingsplan landschapselementen' voor graften, holle wegen en poelen (volgens de gemeentelijke webpagina); dat zijn geen bomen en telt niet mee.",
+  "Peildatum 2026-11-14: de legesverordening met in werking 2026-11-07 is meegenomen; geen kapregel die pas na de peildatum ingaat gevonden."
+ ],
+ "modelsignalen": [
+  "Lijstsysteem waarbij de kaart alleen via een interactieve viewer beschikbaar is: D1 met bereik 0-1 geeft een strengheid van 17 die niet op ingezien feiten rust (zelfde signaal als Ameland).",
+  "Kaart bevat 'bomen en houtopstanden' (ook bosjes en singels): het model zegt niet of een kaart met aangewezen houtopstanden (gebieden) D1 of D2 is."
+ ]
+}

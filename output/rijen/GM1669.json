@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM1669",
+ "gemeente": "Roerdalen",
+ "provincie": "Limburg",
+ "brondocument": "Algemene plaatselijke verordening Roerdalen 2023 (CVDR703091_1), afd. 3 art. 4:9-4:12, art. 6:1; Bomennota (CVDR644234_1, college, 2017); Legesverordening 2026 (CVDR747085_1) art. 2.30; Omgevingsplan (CVDR696472_3) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR703091/1 ; https://lokaleregelgeving.overheid.nl/CVDR644234/1",
+ "datum_geldigheid": "APV: geldend vanaf 2024-01-01 t/m heden (peildatum 2026-11-14). Bomennota: geldend vanaf 2017-03-03.",
+ "laatste_wijziging": "APV 2023: versie 1 per 2024-01-01 (nieuwe vaststelling). Bomennota: in werking 2017-03-03. Legesverordening 2026: in werking 2025-11-21.",
+ "juridische_plaats": "APV (art. 4:10); werkt als omgevingsplanactiviteit volgens leges 2026 art. 2.30 ('vellen van een houtopstand, bedoeld in artikel 4:10 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en WED-aanwijzing in APV art. 6:1 lid 2. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 44 bekendmakingen op titel, waarvan 1 besluit (een ingetrokken aanvraag voor het kappen van populieren) en 24 aanvragen; 0 weigeringen volgens de titel. Geen grondslag genoemd. Het aantal aanvragen is voor een lijstsysteem opvallend, maar kan bomen op gemeentegrond of niet-lijstbomen betreffen; niet vast te stellen.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op een door het bevoegd gezag vastgestelde bomenlijst staan (APV art. 4:10 lid 1).",
+ "drempel": "Geen drempel: alleen bomen en gebieden op de Bomenlijst, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "APV art. 4:10 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand, die staat vermeld op een door het bevoegd gezag vastgestelde bomenlijst te vellen of te doen vellen.' Art. 4:9 lid 1 onder c: 'bomenlijst: een door het bevoegd gezag vastgestelde lijst met houtopstanden, die zonder omgevingsvergunning niet mogen worden geveld.' Bomennota 6.2: 'De gemeentelijke Bomenlijst met monumentale bomen en beschermde gebieden is vooral gericht op de monumentale en waardevolle bomen, zowel in de kernen als het buitengebied.' Op de lijst staan ook 'enkele gebieden' (kasteeltuinen, landgoederen, groene woonwijken); de omvang is niet ingezien.",
+ "uitzonderingen": "APV art. 4:10 lid 4: het verbod geldt niet voor 'houtopstand die moet worden geveld krachtens de Plantenziektewet' of een aanschrijving op last van het college, 'het periodiek vellen van hakhout ter uitvoering van het reguliere onderhoud' en houtopstand waarvoor het omgevingsplan een vergunningplicht bepaalt.",
+ "weigeringsgronden": "APV art. 4:10 lid 2: 'De vergunning kan worden geweigerd op grond van: a. de natuur- en ecologische waarde van de houtopstand; b. de cultuurhistorische waarde van de houtopstand; c. de landschappelijke waarde van de houtopstand; d. de waarde van de houtopstand voor stads- en dorpsschoon; e. de waarde voor de leefbaarheid van de houtopstand.'",
+ "herplantplicht": "APV art. 4:10 lid 3: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Bomennota 6.4: 'Bij het verlenen van een omgevingsvergunning kan een herplantplicht opgelegd worden.' en 'Het uitgangspunt is dat iedere te kappen boom wordt vervangen door een nieuw exemplaar.' Geen financiële compensatie gevonden.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Bomennota 6.4: uitgangspunt 'Tenzij dit vanuit zorgvuldig boombeheer niet gewenst is'; per geval een afweging.",
+ "herplant_niet_nakomen": "Geen specifieke bepaling. Alleen de algemene strafbepaling APV art. 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Verder het algemene instrumentarium.",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2: 'is artikel 1a van de Wet economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:10, eerste lid.' Daarnaast algemene strafbepaling art. 6:1 lid 1. Geen bestuurlijke boete voor kap.",
+ "procedure": "Beslistermijn omgevingsvergunning volgens Omgevingswet (APV art. 1:2 lid 3). Leges omgevingsplanactiviteit kappen EUR 213,20 (leges 2026 art. 2.30). Vervaltermijn vergunning: 1 jaar (art. 4:11). Standaardvoorwaarde feitelijk niet-gebruik tijdens bezwaartermijn (art. 4:12 lid 2). Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de gemeentelijke website was voor geautomatiseerde verzoeken niet bereikbaar (HTTP 403). De Bomennota (2017) noemt een Bomenlijst (september 2010) met monumentale bomen en enkele beschermde gebieden, zowel op openbaar als op particulier terrein ('duurzaam behoud van de monumentale bomen en belangrijke groene structuren op openbaar- en particulier terrein'), maar geeft geen aantal.",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst 2010 (bomen en beschermde gebieden) niet ingezien: aantal en aantal particuliere bomen onbekend; omvang van de beschermde gebieden onbekend. Bezwaar en beroep niet apart gelezen. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV 2023 art. 4:9, 4:10, 4:11, 4:12, 6:1",
+  "Bomennota 2017 par. 3.5, 6.2-6.4",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem, lijst niet ingezien (puntschatting D1, bereik vanaf D0). De lijst bevat ook 'enkele gebieden' (o.a. groene woonwijken); de omvang is onbekend en niet als gebiedsregel meegeteld.",
+  "W2: 'De vergunning kan worden geweigerd op grond van: a. de natuur- en ecologische waarde van de houtopstand;' (APV art. 4:10 lid 2).",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' De Bomennota (college, geen vaste regel) noemt 'Het uitgangspunt is dat iedere te kappen boom wordt vervangen door een nieuw exemplaar', maar 'Er dient dus telkens een afweging te worden gemaakt'; een uitgangspunt per geval maakt herplant geen vast voorschrift (besluit 14-11-2026).",
+  "S1: WED-aanwijzing in de APV (art. 6:1 lid 2 noemt art. 4:10, eerste lid). Geen bestuurlijke boete voor kap.",
+  "De Bomennota verwijst naar 'APV Roerdalen 2010' en 'artikel 4:10' van een oudere APV; de huidige APV 2023 (art. 4:10) heeft dezelfde inhoud voor de weigeringsgronden.",
+  "Praktijk: 1 besluit (ingetrokken aanvraag populieren) en 24 aanvragen op titel sinds 2025; 0 weigeringen."
+ ],
+ "modelsignalen": [
+  "Een bomenlijst die ook 'beschermde gebieden' (groene woonwijken, landgoederen) bevat: INTENT.md zegt niet of een lijstsysteem met enkele gebieden als D1 of D2 telt als de omvang van de gebieden onbekend is."
+ ]
+}

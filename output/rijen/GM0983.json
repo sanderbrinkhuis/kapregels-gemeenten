@@ -1,0 +1,72 @@
+{
+ "gm_code": "GM0983",
+ "gemeente": "Venlo",
+ "provincie": "Limburg",
+ "brondocument": "Algemene plaatselijke verordening Venlo, afdeling 4.3 'Het bewaren van houtopstanden' (CVDR54937_19); leges: Legesverordening Venlo 2026 (CVDR748005_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR54937/19",
+ "datum_geldigheid": "2026-10-21 t/m heden (CVDR54937_19, versie 19 van de APV)",
+ "laatste_wijziging": "APV-versie 19 per 2026-10-21; of afdeling 4.3 daarbij is gewijzigd, is niet vastgesteld.",
+ "juridische_plaats": "APV afd. 4.3 (art. 4:10-4:12d). Werkt als omgevingsplanactiviteit volgens leges art. 2.8.1 (\"omgevingsplanactiviteit ... als bedoeld in artikel 4:11a eerste lid van de APV Venlo ... in samenhang met artikel 22.8 van de Omgevingswet\") en omgevingsplan art. 22.299 (alleen aanvraagvereisten).",
+ "praktijkcontrole": "Sinds 2025: 60 bekendmakingen via titelzoekopdracht, waarvan 58 aanvragen en 0 besluiten of weigeringen. Past bij een beperkt lijstsysteem; er is geen aanwijzing voor een breder regime.",
+ "vergunningplicht": "Ontheffing van het kapverbod (omgevingsvergunning) voor beschermde bomen en houtopstanden: alleen voor bomen op het register waardevolle bomen en houtopstanden / bomenkaart.",
+ "drempel": "Geen omvangdrempel; alleen bomen of houtopstanden die als monumentaal of waardevol in het register staan.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Alleen aangewezen bomen. Art. 4:11a lid 1: \"Het is verboden een beschermde boom of houtopstand te kappen of te doen kappen.\" Art. 4:10 lid 1 onder a: \"beschermde houtopstand: een monumentale of waardevolle boom of een waardevolle houtopstand\"; onder j: \"register waardevolle bomen en houtopstanden inclusief de daarbij behorende verbeelding via de (digitale) bomenkaart\". Lid 3: ook houtopstanden die zijn aangelegd als herplant- en instandhoudingsplicht of op grond van een overeenkomst met een bestuursorgaan. De gemeentelijke website noemt daarnaast bomen binnen het beschermd dorpsgezicht (kleine gebiedsregel, niet in de APV-tekst gelezen).",
+ "uitzonderingen": "Art. 4:11a lid 4: periodiek knotten als regulier onderhoud bij hakhout, knotbomen, leibomen of gekandelaberde bomen en dunnen (niet bij waardevolle of monumentale bomen); bomen die moeten worden geveld krachtens de Plantenziektenwet, aanschrijving of last van het college.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 4:12a: \"Een ontheffing voor het kappen van een beschermde boom of houtopstand, mits alternatieven voor behoud uitputtend zijn onderzocht, slechts worden verleend indien: a. een algemeen maatschappelijk belang zwaarder weegt dan het duurzaam behoud van de beschermde boom of houtopstand of; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.\"",
+ "herplantplicht": "Art. 4:12c lid 1: \"Aan de ontheffing kan het voorschrift verbonden worden, dat binnen een bepaalde termijn en overeenkomstig de door het college gegeven aanwijzingen moet worden herplant.\" Lid 3: \"Indien niet ter plaatse kan worden herplant, kan worden voorgeschreven dat een geldelijke bijdrage gestort dient te worden in het gemeentelijke herplantfonds.\"",
+ "herplant_ontsnapping": "\"kan\" (bevoegdheid, geen plicht); het college beslist per geval. Betaling in plaats van herplant: art. 4:12c lid 3 (\"kan worden voorgeschreven\"). Geen beleidsregel over herplant gevonden in de aangeleverde bronnen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:12c lid 6: \"De zakelijk gerechtigde is verplicht de voorschriften en de aanwijzingen als bedoeld in dit artikel op te volgen.\" Art. 6:1: \"Overtreding van het bij of krachtens deze verordening bepaalde ... wordt, voor zover niet reeds bij of krachtens de wet strafbaar gesteld, gestraft met hechtenis van ten hoogste 3 maanden of geldboete van de tweede categorie\".",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Algemene APV-strafbepaling art. 6:1 (hechtenis max. 3 maanden of geldboete tweede categorie), geen kapspecifieke aanwijzing als WED in de APV. Herplantaanwijzing na illegale kap: art. 4:12c lid 5 (\"kan\"), lid 6 (verplicht op te volgen), met boomwaarde als maatstaf voor de omvang. Geen bestuurlijke boete. Omdat de regel als omgevingsplanactiviteit werkt (leges 2.8.1), WED via Ow 5.1 mogelijk.",
+ "procedure": "Leges (CVDR748005_3, art. 2.8.1): € 90,00 per boom, maximaal € 945,00. Vervaltermijn ontheffing één jaar (art. 4:12b, verlengbaar tot drie jaar). Schadevergoeding: art. 4:12d. Beslistermijn, publicatie en bezwaar: niet in de kapregels geregeld.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Lijst niet ingezien: de bomenkaart is een dynamische kaart en niet via een directe link gevonden. Alleen de pagina https://www.venlo.nl/boom-kappen-snoeien-of-vellen gelezen.",
+ "status": "ok",
+ "ontbrekend": "Lijst niet ingezien: register waardevolle bomen en houtopstanden / bomenkaart niet gevonden. De website zegt dat beschermde bomen ook op eigen grond een vergunning vergen (particuliere bomen aanwezig), maar het aantal is onbekend.",
+ "artikelnummers": [
+  "APV (CVDR54937_19): art. 4:10, 4:11, 4:11a, 4:12, 4:12a, 4:12b, 4:12c, 4:12d, 6:1",
+  "Legesverordening Venlo 2026 (CVDR748005_3): art. 2.8.1",
+  "Omgevingsplan (CVDR696455_2): art. 22.299 (aanvraagvereisten)"
+ ],
+ "opmerkingen": [
+  "W: art. 4:12a laat ontheffing \"slechts\" toe bij een zwaarwegend belang of onveiligheid, nadat alternatieven \"uitputtend\" zijn onderzocht: weigeren tenzij (W3).",
+  "H: art. 4:12c \"kan het voorschrift verbonden worden\" = bevoegdheid (H1); storting \"kan worden voorgeschreven\" verhoogt H niet.",
+  "Gemeentelijke website (https://www.venlo.nl/boom-kappen-snoeien-of-vellen, geraadpleegd 2026-11-14, niet-primair): \"Beschermde bomen en houtopstanden zijn opgenomen in de bomenkaart. Hier moet u altijd een vergunning voor aanvragen, ook als de boom of houtopstand op uw eigen grond staat.\" Ook genoemd: beschermd dorpsgezicht Steyl en Ronckenstein, rijks- en gemeentelijke monumenten, en groencompensatiebomen (niet in de APV-tekst gelezen; kleine gebiedsregel telt niet).",
+  "Puntschatting D1 volgens model bij niet-ingeziene lijst; bereik vanaf D0."
+ ],
+ "modelsignalen": [
+  "Website noemt categorieën (dorpsgezicht, monumenten, compensatiebomen) die niet in de APV-tekst staan; model geeft geen regel voor bronnen buiten de regeling. Niet meegewogen."
+ ]
+}

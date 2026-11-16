@@ -1,0 +1,84 @@
+{
+ "gm_code": "GM0273",
+ "gemeente": "Putten",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening Putten 2019, afdeling 4.3 Het bewaren van houtopstanden (CVDR621661_8); leges CVDR752130_1; omgevingsplan CVDR696248_6",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR621661/8",
+ "datum_geldigheid": "Geldend van 2024-01-01 t/m heden (CVDR621661_8)",
+ "laatste_wijziging": "2024-01-01 (CVDR621661_8, laatste versie)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (art. 2.30, in samenhang met art. 22.8 Omgevingswet); omgevingsplan art. 22.302 bevat alleen aanvraagvereisten (bruidsschat)",
+ "praktijkcontrole": "Sinds 2025 ca. 110 besluiten op kapaanvragen in de bekendmakingen (titelzoekmethode, 236 treffers, waarvan 5 geweigerd volgens titel); titels noemen o.a. herplantplicht en een voortuin. Geen grondslag in de besluiten genoemd; het aantal zegt weinig omdat de zoekmethode besluiten mist. Veel besluiten op particuliere kap, wat past bij het brede regime buiten de kom (de ligging van deze bomen is niet vastgesteld).",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand buiten de bebouwde kom; binnen de bebouwde kom alleen voor bomen op de bomenlijst",
+ "drempel": "Art. 4:10 lid 1 sub a: boom = \"een houtachtig, overblijvend gewas met een omtrek van de stam van minimaal 65 centimeter op 1,3 meter hoogte boven het maaiveld\"; het verbod in art. 4:10a spreekt van 'houtopstand' zonder eigen drempel (houtopstand bevat 'een of meer bomen, hakhout, ...')",
+ "omtrek_cm": 65,
+ "meethoogte": "1,3 m boven maaiveld",
+ "reikwijdte": "Art. 4:10a lid 1: \"a. buiten de bebouwde kom Wet Natuurbescherming houtopstand te vellen of te doen vellen; b. binnen de bebouwde kom Wet Natuurbescherming houtopstand te vellen of te doen vellen voor zover sprake is van houtopstand die door het college is aangewezen en als zodanig voorkomt op de bomenlijst\". Particulier en openbaar. Buiten de kom hele grondgebied; binnen de kom alleen lijst. De kom is die van de Boswet/Wet natuurbescherming (art. 4:10 lid 1 sub e).",
+ "uitzonderingen": "Art. 4:10a lid 4 sub d: \"Bomen buiten de bebouwde kom Wet Natuurbescherming die op minder dan 4 meter, gemeten vanaf de zijkant van de stam op 1,3 meter boven maaiveld, van een gebouw staan.\" (afstandsuitzondering voor tuinen/erven buiten de kom, geeft D -1 voor dat deel). Verder gangbaar: gevaar en spoed, Plantenziektenwet of aanschrijving, periodiek hakhout/knotten (lid 4 a-c); verbod geldt niet voor zover de Wet natuurbescherming voorziet (lid 3). Geen uitzondering voor achtertuinen, fruitbomen of perceelsgrootte.",
+ "weigeringsgronden": "Art. 4:11: \"De omgevingsvergunning voor het vellen van houtopstanden kan in elk geval worden geweigerd op grond van: a. natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.\" Voor lijstbomen (binnen de kom): vergunning \"slechts vergunning kan worden verleend wegens zeer zwaarwegende belangen\" (art. 4:10a lid 1 sub b), alleen vermeld.",
+ "herplantplicht": "Art. 4:11a lid 1: \"Tot de aan de vergunning te verbinden voorschriften kan het voorschrift behoren, dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.\" Na illegale kap art. 4:12 lid 1: het college \"kan\" een herbeplantingsverplichting opleggen.",
+ "herplant_ontsnapping": "Geen ontsnappingsclausule met uitweg; herplant is een bevoegdheid ('kan'), per geval door het college. Geen storting als alternatief.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:12 lid 4: \"Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.\" Art. 6:1 lid 1: \"Overtreding van de bij of krachtens de in deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie\".",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... artikel 4:10a, eerste lid van deze verordening als sprake is van een omgevingsvergunningplichtige activiteit\"; daarnaast algemene strafbepaling art. 6:1 lid 1. Ook via Omgevingswet 5.1 omdat de leges het vellen een omgevingsplanactiviteit noemen. Geen bestuurlijke boete voor kappen (art. 6:1 lid 3 gaat over de Wet veiligheidsregio's).",
+ "procedure": "Leges art. 2.30: EUR 65,50 (CVDR752130_1). Beslistermijn art. 1:2 lid 1: \"binnen acht weken\", lid 3 niet van toepassing op omgevingsvergunning (Omgevingswet). Aanvrager: zakelijk gerechtigde (art. 4:10b). Bezwaar en beroep volgens Awb (niet nader in de tekst gelezen).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Bomenlijst binnen de kom niet ingezien en niet in het dossier; geen aantal in een vastgesteld besluit gevonden.",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Bomenlijst (art. 4:10a lid 1 sub b) niet in het dossier en niet ingezien; heeft geen invloed op D omdat het regime buiten de kom breder is, wel op de voorbeeldbomen binnen de kom. Bestuurlijk beleid over herplant of handhaving niet gevonden in CVDR. Omgevingsplan in het DSO niet gecontroleerd (DSO-sleutel in aanvraag).",
+ "artikelnummers": [
+  "APV 1:1 sub a",
+  "APV 4:10",
+  "APV 4:10a",
+  "APV 4:11",
+  "APV 4:11a",
+  "APV 4:12",
+  "APV 6:1 lid 1-2",
+  "APV 1:2",
+  "Leges 2.30",
+  "Omgevingsplan 22.302"
+ ],
+ "opmerkingen": [
+  "D: breed regime alleen buiten de bebouwde kom (Boswet/Wnb-kom); binnen de kom alleen lijstbomen (D1). Het verbod spreekt van houtopstand zonder drempel, maar 'boom' heeft in art. 4:10 een drempel van 65 cm; per INTENT-besluit (houtopstand naast boom met drempel) gescoord op 65 cm: D3, minus 1 voor de afstandsuitzondering van 4 m tot een gebouw (art. 4:10a lid 4 sub d) die alleen buiten de kom geldt: D2. Zonder drempel zou het D4-1=3 zijn (max).",
+  "W: 'kan in elk geval worden geweigerd' op natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden: W2 voor het regime buiten de kom. Lijstbomen binnen de kom: alleen bij 'zeer zwaarwegende belangen' (W3), alleen vermeld.",
+  "H: 'kan het voorschrift behoren' (art. 4:11a): H1. Geen beleidsregel over herplant in CVDR gevonden (Subsidieverordening waardevolle bomen CVDR369278_1 is subsidie voor instandhouding, geen herplant). In de bekendmakingen komen herplantplichten per geval voor.",
+  "S: WED-aanwijzing in art. 6:1 lid 2 voor art. 4:10a lid 1, plus herplant na illegale kap (art. 4:12, 'kan') = S1. Geen bestuurlijke boete voor kappen.",
+  "Omgevingsplan CVDR696248_6 (in werking 2026-11-11, art. 22.302) bevat alleen aanvraagvereisten bij een vergunningplicht uit de APV; de kapregel zelf staat in de APV.",
+  "Subsidieverordening waardevolle bomen Putten (CVDR369278_1) en andere beleidsdocumenten: geen kapregel.",
+  "Verwijzing: APV art. 4:11b is vervallen. Praktijkbesluiten: o.a. gmb-2026-403614 (voortuin, met herplantplicht).",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vrijstelling voor een smalle strook bij de gevel (hier 4 m van een gebouw) geeft alleen −1 als de voorbeeldboom in de achtertuin daardoor vrij is; dat is hier niet zo: D2 (2-3) → D3 zonder bereik."
+ ],
+ "modelsignalen": [
+  "Putten: de kom in de APV is die van de Boswet/Wnb, niet die van de Wegenverkeerswet; het model kent dit onderscheid niet en scoort 'binnen de kom' alleen op de lijst.",
+  "Putten: de afstandsuitzondering van 4 m tot een gebouw geldt alleen buiten de kom; D-correctie -1 voor één deel is gescoord volgens het besluit na Overijssel. Het model zegt niet of een afstand van 4 m 'substantieel' is voor tuinen."
+ ]
+}

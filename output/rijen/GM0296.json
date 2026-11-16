@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0296",
+  "gemeente": "Wijchen",
+  "provincie": "Gelderland",
+  "brondocument": "Algemene plaatselijke verordening Wijchen, afdeling 4.3 Het bewaren van houtopstanden (art. 4:10, 4:11), art. 6:1; beleidsregels Het vellen van houtopstanden (CVDR338304_1) en Weigeringsgronden aanvraag kapvergunning (CVDR74278_1); legesverordening 2026 art. 2.30 (CVDR751350_1); Omgevingsplan art. 22.299 (CVDR696260_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR634848/11 ; https://lokaleregelgeving.overheid.nl/CVDR338304/1 ; https://lokaleregelgeving.overheid.nl/CVDR74278/1 ; https://lokaleregelgeving.overheid.nl/CVDR751350/1 ; https://lokaleregelgeving.overheid.nl/CVDR696260/3",
+  "datum_geldigheid": "APV CVDR634848_11 geldend van 2026-01-01 t/m heden; beleidsregel CVDR338304_1 van 2014-10-03; beleidsregel CVDR74278_1 van 2009-05-21; leges CVDR751350_1 van 2025-12-20; omgevingsplan CVDR696260_3 van 2026-08-05 (alle t/m heden)",
+  "laatste_wijziging": "APV: versie 11 per 2026-01-01 (welke artikelen is niet vastgesteld; art. 4:11 komt in het dossier voor in deze versie). Beleidsregel CVDR338304_1 ongeldig gewijzigd sinds 2014 (alleen versie 1). Lijst van waardevolle bomen: versie juni 2014 (website).",
+  "juridische_plaats": "APV; de vergunningplicht werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30: 'omgevingsplanactiviteit ... bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening'). WED-aanwijzing staat ook in de APV zelf (art. 6:1 lid 3). Het omgevingsplan bevat alleen aanvraagvereisten (art. 22.299) en de aanwijzing van de bebouwingscontour houtkap (art. 22.304); geen eigen kapregel.",
+  "praktijkcontrole": "Sinds 2025 120 bekendmakingen met kap in de titel (zoekmethode: titel; kan besluiten missen). Daarvan 88 'Mededeling voorgenomen kap' (gemeentelijke kap, 'Deze houtopstand is kapvergunningvrij'), 30 omgevingsvergunning en 2 omgevingsmelding. Onder de vergunningen staan enkele kapvergunningen voor bomen bij archeologische en cultuurhistorische waarde en een kap van een monumentale boom, wat past bij een lijstsysteem. De bekendmakingen noemen geen grondslag. Geen aanwijzing voor een breder regime.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen van houtopstand) alleen voor houtopstanden op het door het college vastgestelde overzicht van waardevolle bomen (APV art. 4:11 lid 1 en 2). Voor overige houtopstanden geen vergunningplicht of melding in de APV. De beleidsregel noemt wel een 'kapmelding' (par. 2.2), maar de APV bevat geen meldplicht.",
+  "drempel": "Geen stamomtrek of -diameter: aangewezen bomen op de lijst, ongeacht omvang",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (aanvraagvereisten art. 22.299 vragen diameter op 1,30 m, maar dat is geen drempel)",
+  "reikwijdte": "Alleen houtopstanden op het overzicht van waardevolle bomen: art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op het in het eerste lid genoemde overzicht.' Het overzicht omvat ook particuliere bomen, binnen en buiten de bebouwde kom, en een regel voor alle kernen: weg- en laanbeplantingen volgens het Landschapsontwikkelingsplan. Beleidsregel par. 1.4: 'Boom of bomen in particuliere tuinen* van bestaande woningen welke geen onderdeel uitmaken van monumenten zijn niet opgenomen op deze lijst.'",
+  "uitzonderingen": "Spoed: art. 4:11 lid 4 ('spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen', toestemming burgemeester). Particuliere tuinen van bestaande woningen (siertuin met directe relatie met het woonhuis) staan niet op de lijst (beleidsregel par. 1.4). Boswet-bossen en Wet natuurbescherming vallen buiten dit model.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 437,
+  "lijst_aantal_particulier": 45,
+  "lijst_telling": "regels op de lijst 'Lijst waardevolle bomen gemeente Wijchen juni 2014' (PDF op www.wijchen.nl/waardevolle-bomen, 2026-11-15, door mij geteld: 437 regels met id; 42 eigendom Particulier en 3 Gemeente/Particulier; 242+ gemeente, 151 instantie). Een regel kan meerdere bomen omvatten (bijv. een laan of groep). Eigenaar 'Particulier' is volgens de lijst en niet gecontroleerd tegen het kadaster; de bovenste regel 'alle kernen weg- en laanbeplantingen' is niet meegeteld.",
+  "weigeringsgronden": "APV art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.' Strengere beleidsregel CVDR338304_1 par. 1.5: 'De waardevolle boom is kapvergunningsplichtig. Een kapvergunning wordt slechts verleend als: - de vitaliteit van de boom zo slecht is, dat instandhouding niet langer verantwoord is om letsel of schade te voorkomen; - een zwaarwegend maatschappelijk belang zwaarder weegt dan het belang van het behoud van de boom.'",
+  "herplantplicht": "APV art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleidsregel CVDR338304_1: geen vast voorschrift; alleen de opmerking dat nieuwe bomen 'ter vervanging van een waardevolle boom' direct op de lijst kunnen komen. Geen financiele compensatie of boomwaarde gevonden.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); bevoegd gezag beslist per geval; geen regel over herplant na illegale kap gevonden.",
+  "herplant_niet_nakomen": "Geen specifieke regel. Wel art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Art. 1:4 lid 3 zegt: 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.' Een herplantplicht die krachtens art. 4:11 lid 5 wordt opgelegd valt naar de tekst onder 'krachtens deze verordening bepaalde'; of dit in de praktijk zo wordt toegepast is niet vastgesteld.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "APV art. 6:1 lid 3: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... artikel 2:12, eerste lid, en artikel 4:11, tweede lid.' WED-aanwijzing in de regeling zelf; ook via Ow 5.1 volgens de legesverordening. Geen bestuurlijke boete voor kappen (art. 6:1 lid 2 betreft alleen de Wet veiligheidsregio's).",
+  "procedure": "Omgevingsvergunning via het Omgevingsloket; leges (CVDR751350_1 art. 2.30): 'voor het kappen van maximaal 10 bomen: € 127,55', 'voor het kappen van 11 bomen of meer: € 158,65'. Beslistermijn APV art. 1:2 is 'niet van toepassing op een aanvraag om een omgevingsvergunning' (dan geldt de Ow-termijn). Beleidsregel kent daarnaast een kapmelding (reactietermijn vier weken) die niet in de APV staat.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "status": "ok",
+  "ontbrekend": "Lijst is ingezien via de PDF op de gemeentelijke website (437 regels, 45 met particulier eigendom); de kaarten per kern zijn niet bekeken. Het omgevingsplan zelf (DSO) bevat volgens de CVDR-tekst geen eigen kapregel; het tijdelijk deel is niet apart geraadpleegd.",
+  "artikelnummers": [
+    "APV art. 1:1",
+    "APV art. 1:4",
+    "APV art. 1:8",
+    "APV art. 4:10",
+    "APV art. 4:11 lid 1-5",
+    "APV art. 6:1 lid 1 en 3",
+    "Beleidsregel CVDR338304_1 par. 1.4, 1.5, 2.2",
+    "Beleidsregel CVDR74278_1 par. 2.1",
+    "Leges art. 2.30",
+    "Omgevingsplan art. 22.299 en 22.304"
+  ],
+  "opmerkingen": [
+    "D = 1: alleen individueel aangewezen bomen op het overzicht van waardevolle bomen; lijst ingezien, 45 van 437 regels hebben eigendom Particulier of Gemeente/Particulier.",
+    "W: APV 'kan worden geweigerd' op gronden natuur, landschap, stads- en dorpsschoon, beeld, cultuurhistorie en leefbaarheid (W2). De vastgestelde beleidsregel CVDR338304_1 (door het college vastgesteld, in CVDR geldend, bij de bomenlijst) beperkt de verlening tot twee gevallen: 'Een kapvergunning wordt slechts verleend als: ...'. Volgens 'Strengere toetsing in beleid' telt het beleid: W = 3, minimum 2 omdat de beleidsregel uit 2014 stamt en nog naar 'aanlegvergunning' en de Wabo verwijst.",
+    "De beleidsregel CVDR74278_1 (versie augustus 2008) hoort bij de oude APV (art. 4.3.2) en noemt andere gronden (recreatie, beleving, dendrologie); die telt niet voor W.",
+    "H = 1: APV 'kan een herplantplicht opleggen'. De beleidsregel maakt herplant niet tot vast voorschrift. De website zegt: 'Krijgt u een kapvergunning? Dan kan het zijn dat er een herplantplicht is.'",
+    "S = 1: WED-aanwijzing in APV art. 6:1 lid 3 en leges art. 2.30 noemt het vellen een omgevingsplanactiviteit. Geen bestuurlijke boete voor kappen.",
+    "Eigendom per lijstregel: de lijst heeft de kolom eigendom (Gemeente, Particulier, Instantie, Gemeente/Particulier). De waardevolle bomenlijst is volgens beleidsregel par. 1.4 samengesteld 'op basis van locatie en eigendom' en sluit particuliere tuinen van bestaande woningen uit; de website zegt anders dat het 'voor de lijst niet uit [maakt] wie eigenaar van de bomen is'.",
+    "Tuinbomen van voorbeeldbomen A en B staan volgens par. 1.4 niet op de lijst: 'alleen als op lijst' voor beide.",
+    "Kapmelding in de beleidsregel (par. 2.2) heeft geen grondslag in de APV-tekst die ik gelezen heb; niet gescoord.",
+    "Overgang naar omgevingsplan: omgevingsplan art. 22.299 bevat alleen aanvraagvereisten bij een elders vereiste vergunning; de vergunningplicht zelf staat in APV 4:11 lid 2."
+  ],
+  "modelsignalen": [
+    "Beleidsregel (2014) zegt 'slechts verleend' (W3) terwijl de verordening 'kan worden geweigerd' zegt (W2): de score hangt af van de regel 'Strengere toetsing in beleid'; bereik 2-3 gegeven.",
+    "Lijst met eigendomskolom en een beleidsregel die tuinen uitsluit: in D = 1 zichtbaar, maar de vergelijkbaarheid met gemeenten zonder eigendomsinformatie is beperkt."
+  ]
+}

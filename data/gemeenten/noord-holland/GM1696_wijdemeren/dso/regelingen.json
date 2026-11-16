@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1696/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Wijdemeren",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1696/2020/omgevingsplan/nld@2024-12-16;14232136",
+    "beginGeldigheid": "2025-01-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1696_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1696/2026/Regelingf1b7e2a01d4447ae969c3117fc7c1b84",
+    "titel": "Programma meer woningen binnen bestaande bouwmogelijkheden",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1696/2026/Regelingf1b7e2a01d4447ae969c3117fc7c1b84/nld@2026-10-12;14591960",
+    "beginGeldigheid": "2026-10-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1696_2026_Regelingf1b7e2a01d4447ae969c3117fc7c1b84?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:51Z"
+  }
+]

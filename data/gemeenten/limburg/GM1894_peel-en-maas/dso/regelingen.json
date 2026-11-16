@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1894/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Peel en Maas",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1894/2020/omgevingsplan/nld@2024-09-25;2de5be025d6046ed98566af72cd4209b",
+    "beginGeldigheid": "2024-09-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1894_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:58:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1894/2026/tijdelijkdeel-peel-en-maas",
+    "titel": "Voorbeschermingsregels Molenbiotoop Sint Anthoniusmolen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1894/2026/tijdelijkdeel-peel-en-maas/nld@2026-05-29",
+    "beginGeldigheid": "2026-06-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1894_2026_tijdelijkdeel_peel_en_maas?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:58:32Z"
+  }
+]

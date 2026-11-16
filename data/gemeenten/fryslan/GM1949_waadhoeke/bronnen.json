@@ -1,0 +1,28 @@
+{
+  "gemeente": "Waadhoeke",
+  "gm_code": "GM1949",
+  "provincie": "Fryslân",
+  "zoeknaam_cvdr": "Waadhoeke",
+  "zoeknaam_bekendmakingen": "Waadhoeke",
+  "opgehaald_op": "2026-11-14T14:45:58+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Waadhoeke\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 39,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Waadhoeke\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 8,
+  "geldende_regelingen": 14,
+  "geldend_met_kapartikelen": [
+    "CVDR621658_9",
+    "CVDR680526_1",
+    "CVDR696531_4",
+    "CVDR724908_1",
+    "CVDR742333_1",
+    "CVDR752488_1"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 3
+}

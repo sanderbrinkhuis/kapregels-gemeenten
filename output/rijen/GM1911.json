@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM1911",
+  "gemeente": "Hollands Kroon",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening fysieke leefomgeving Hollands Kroon (VFL) art. 8.27a-8.27c, 14.1 en toelichting (CVDR767932_1); Bomenlijst 2024 (CVDR716277_1); APV Hollands Kroon art. 6:1 (CVDR767901_1); Legesverordening 2026 art. 2.30.1 (CVDR753952_1); Omgevingsplan art. 22.299 (CVDR696520_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR767932/1",
+  "datum_geldigheid": "VFL: geldend van 2026-10-20 t/m heden (CVDR767932_1); Bomenlijst 2024: in werking 2024-02-29, status geldend (CVDR716277_1); leges: in werking 2026-01-01; omgevingsplan: in werking 2026-06-29",
+  "laatste_wijziging": "VFL versie 1, in werking 2026-10-20 (nieuwe VFL met APV; de bomenlijst is van 2024-02-29)",
+  "juridische_plaats": "VFL paragraaf 9a (art. 8.27b); werkt als omgevingsplanactiviteit volgens Leges 2026 art. 2.30.1 (met een sjabloonverwijzing '[artikel [4:11] van de Algemene plaatselijke verordening OF artikel […] van de [citeertitel bomenverordening]]'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. De regel geldt alleen voor bomen op de bomenlijst, dus niet voor particuliere bomen.",
+  "praktijkcontrole": "18 bekendmakingen sinds 2025 (4 besluiten, 7 aanvragen, 0 geweigerd volgens titel). Titels als 'verleende reguliere omgevingsvergunning (vellen houtopstand)' en 'kapvergunning (OPA)' (gmb-2025-317318, gmb-2025-394589, gmb-2025-427248) passen bij aanvragen voor gemeentelijk of overheidsgroen, niet bij particuliere tuinbomen. Steekproef noemt geen grondslag.",
+  "vergunningplicht": "geen voor particuliere bomen; omgevingsvergunning alleen voor bomen op de bomenlijst (gemeentebomen met stamdiameter > 30 cm en herdenkingsbomen)",
+  "drempel": "geen voor particulieren; gemeentebomen op de lijst: stamdiameter groter dan 30 cm (1,30 m boven de grond), binnen en buiten de bebouwde kom",
+  "omtrek_cm": null,
+  "meethoogte": "130 cm (alleen voor gemeentebomen op de lijst)",
+  "reikwijdte": "Art. 8.27b lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen volgens de criteria zoals vermeld op de bomenlijst.' Bomenlijst 2024 par. 2.1: tabel Eigenaar/Omgevingsvergunning: Gemeente 'Ja, bij stamdiameter > 30 cm.'; Overige overheden 'Nee'; Particulier 'Nee'. Par. 5.1: 'Particulieren hoeven voor het verwijderen van bomen op hun eigen terrein geen omgevingsvergunning aan te vragen.' Par. 5.2 (buitengebied): 'Ook in het buitengebied hoeven particulieren voor het verwijderen van hun eigen bomen geen omgevingsvergunning aan te vragen.' Toelichting VFL: 'Eerder is door de gemeenteraad besloten de vergunningsplicht voor bomen van inwoners te laten vervallen.'",
+  "uitzonderingen": "Niet van toepassing voor particuliere bomen (geen plicht). Voor gemeentebomen: geen vergunning bij ziekte, gevaar of onderhoud (dunnen of snoeien) volgens Bomenlijst par. 6. Wet natuurbescherming kan buiten de bebouwde kom gelden (melding bij de provincie), maar dat is rijksregelgeving en telt niet mee (Bal/Wnb).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Alleen voor bomen op de bomenlijst (gemeentebomen): art. 8.27b lid 2: 'De vergunning kan worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde en waarde voor de leefbaarheid van de houtopstand. Voor particuliere bomen: geen.",
+  "herplantplicht": "Voor particuliere bomen geen grondslag. Art. 8.27b lid 3 ('Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.') geldt alleen bij een vergunning voor een lijstboom (gemeentebomen). Bomenlijst par. 3.4: 'Zowel binnen de kom als in het buitengebied geldt in principe geen herplantplicht.'",
+  "herplant_ontsnapping": "geen",
+  "herplant_type": "geen grondslag",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niet van toepassing voor particuliere bomen. Voor lijstbomen geldt de algemene strafbepaling art. 14.1 lid 1 VFL: 'Overtreding van het bepaalde bij of krachtens deze verordening ... wordt bestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Bomenlijst par. 7.3 (illegaal verwijderen gemeentelijke boom): 'De veroorzaker dient daarnaast ook de kosten te betalen voor herplant'.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Geen kapregel voor particuliere bomen, dus geen kap-specifieke sanctie voor hen (S = 0). Voor lijstbomen: algemene strafbepaling art. 14.1 lid 1 VFL (hechtenis of geldboete tweede categorie); Leges 2.30.1 noemt het vellen een omgevingsplanactiviteit (zou S1 geven voor het regime van de lijstbomen).",
+  "procedure": "Omgevingsvergunning alleen voor lijstbomen; leges 549,00 euro (art. 2.30.1); VFL art. 1:2 lid 3 niet van toepassing op omgevingsvergunning; bezwaar en beroep volgens Awb.",
+  "D": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "W": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "S": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "nee",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": 0,
+  "lijst_telling": "Bomenlijst 2024 (CVDR716277_1) is een beleidsdocument met categorieen, geen opsomming van individuele bomen; particuliere bomen staan er uitdrukkelijk niet op ('Particulier | Nee'); totaal aantal lijstbomen niet genoemd; 10 herdenkingsbomen (gemeentelijk) zijn individueel vermeld",
+  "status": "ok",
+  "ontbrekend": "Geen kernbron ontbreekt. Open punt: de gemeentelijke kaart of lijst met individuele gemeentebomen is niet ingezien (niet nodig voor D, want particuliere bomen staan er uitdrukkelijk niet op). De Beleidsregels behorende bij VFL (CVDR768259_1, 'geen kaptermen') zijn niet verder gelezen. Geen apart beleid over herplant of handhaving van de kap voor particulieren.",
+  "artikelnummers": [
+    "VFL art. 8.27a-8.27c, 14.1 en toelichting bij hoofdstuk 8",
+    "Bomenlijst 2024 par. 2.1, 3.4, 5.1-5.3, 7.3",
+    "APV art. 6:1",
+    "Leges 2026 art. 2.30.1",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D0: particuliere bomen vallen niet onder de plicht. Bomenlijst 2024 par. 2.1: tabel 'Particulier | Nee'; par. 5.1: 'Particulieren hoeven voor het verwijderen van bomen op hun eigen terrein geen omgevingsvergunning aan te vragen.'; VFL-toelichting: 'Eerder is door de gemeenteraad besloten de vergunningsplicht voor bomen van inwoners te laten vervallen.' Binnen en buiten de bebouwde kom is D per deel 0, dus D = 0.",
+    "W0, H0 en S0: geen regime voor particuliere bomen. Voor lijstbomen (gemeentebomen) geldt 'De vergunning kan worden geweigerd op grond van:' natuur-, landschaps-, dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden (W2), 'Het bevoegd gezag kan een herplantplicht opleggen' (H1) en strafbepaling art. 14.1 (S1); dat telt niet voor particulier terrein en wordt alleen vermeld.",
+    "Voorbeeldbomen: boom A (80 cm) en boom B (40 cm) in een particuliere achtertuin: geen vergunning nodig.",
+    "Rekenvoorbeeld: D0 geeft strengheid 0 (D/4 x ... = 0).",
+    "Wet natuurbescherming: buiten de bebouwde kom blijft een melding bij de provincie nodig (Bomenlijst par. 5.2); dat is rijksregelgeving en telt niet mee.",
+    "Een gemeentelijk regime voor lijstbomen blijft gelden; de Leges 2.30.1 bevat nog sjabloontekst ('[artikel [4:11] van de Algemene plaatselijke verordening OF artikel […]'), wat wijst op een onvolledige verwijzing.",
+    "Regels die pas later ingaan: geen gevonden. De VFL is per 2026-10-20 in werking en telt mee."
+  ],
+  "modelsignalen": [
+    "Hollands Kroon: de kapregel bestaat wel, maar alleen voor gemeentelijke bomen op een bomenlijst; particuliere bomen staan er uitdrukkelijk niet op. Volgens het model is dat D0 en vervalt de score op W, H en S (alle 0). Het model geeft dan dezelfde score als een gemeente zonder enige kapregel (zoals Almere), terwijl het regime voor gemeentebomen wel bestaat.",
+    "Hollands Kroon: de legesverordening bevat sjabloontekst met haakjes in de verwijzing naar de kapregel."
+  ]
+}

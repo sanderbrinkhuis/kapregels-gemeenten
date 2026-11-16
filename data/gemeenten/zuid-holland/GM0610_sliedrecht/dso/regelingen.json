@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0610/2024/Programma01",
+    "titel": "Water- en rioleringsprogramma Sliedrecht 2024 - 2028",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0610/2024/Programma01/nld@2024-07-10",
+    "beginGeldigheid": "2024-07-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0610_2024_Programma01?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:37Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0610/2025/TijdelijkDeelEOS",
+    "titel": "Voorbeschermingsregels energieopslag",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0610/2025/TijdelijkDeelEOS/nld@2025-12-08",
+    "beginGeldigheid": "2025-12-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0610_2025_TijdelijkDeelEOS?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:37Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0610/2025/warmteprogramma",
+    "titel": "Warmteprogramma Sliedrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0610/2025/warmteprogramma/nld@2025-12-16",
+    "beginGeldigheid": "2025-12-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0610_2025_warmteprogramma?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:37Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0610/2026/ActieplanGeluid",
+    "titel": "Actieplan Geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0610/2026/ActieplanGeluid/nld@2026-04-24;2",
+    "beginGeldigheid": "2026-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0610_2026_ActieplanGeluid?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:37Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0610/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Sliedrecht",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0610/2020/omgevingsplan/nld@2026-06-09;4",
+    "beginGeldigheid": "2026-07-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0610_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:37Z"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "gemeente": "Hilversum",
+  "gm_code": "GM0402",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Hilversum",
+  "zoeknaam_bekendmakingen": "Hilversum",
+  "opgehaald_op": "2026-11-14T22:02:34+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hilversum\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 58,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hilversum\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 690,
+  "geldende_regelingen": 24,
+  "geldend_met_kapartikelen": [
+    "CVDR478919_1",
+    "CVDR58873_13",
+    "CVDR614923_1",
+    "CVDR662245_1",
+    "CVDR684477_1",
+    "CVDR696304_6",
+    "CVDR706743_1",
+    "CVDR711398_1",
+    "CVDR716805_1",
+    "CVDR732271_1",
+    "CVDR751165_1"
+  ],
+  "bekendmakingen_besluiten": 321,
+  "bekendmakingen_aanvragen": 339,
+  "bekendmakingen_geweigerd": 53,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

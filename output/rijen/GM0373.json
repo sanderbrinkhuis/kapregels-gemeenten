@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0373",
+  "gemeente": "Bergen (NH.)",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving Bergen (VFL 2024), afdeling 4.1 Bewaren van houtopstanden, art. 4:1 t/m 4:5, art. 8:2, art. 1:1 onder d, g, nn; leges art. 2.30 (CVDR750482_2); Lijst bijzondere en monumentale bomen 2022 (CVDR675381_1); Omgevingsplan art. 22.299 (CVDR696551_2). De kapartikelen in de APV 2023 (art. 4:10 e.v.) zijn grotendeels vervallen verklaard.",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR733769/1 ; https://lokaleregelgeving.overheid.nl/CVDR675381/1 ; https://lokaleregelgeving.overheid.nl/CVDR750482/2 ; https://lokaleregelgeving.overheid.nl/CVDR696551/2",
+  "datum_geldigheid": "VFL CVDR733769_1 geldend van 2025-01-08 t/m heden; leges CVDR750482_2 geldend van 2026-10-07 t/m heden; lijst CVDR675381_1 geldend van 2022-04-13 t/m heden",
+  "laatste_wijziging": "VFL: versie 1 in werking per 2025-01-08 (geen latere versie). Leges: versie 2 per 2026-10-07.",
+  "juridische_plaats": "VFL; de velplicht werkt als omgevingsplanactiviteit (leges art. 2.30: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:1 van de Verordening Fysieke Leefomgeving gemeente Bergen 2024 in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 512 bekendmakingen over kap op officielebekendmakingen.nl (221 besluiten, 291 aanvragen), 7 geweigerd volgens de titel. Steekproef van 10 en de recente lijst gaan over 1 tot 9 gewone bomen (o.a. berk, spar, kastanje, es, esdoorn, populier, coniferen, hulst, prunus), ook in woonstraten, vaak met herplantplicht. Past bij een regime voor de hele bebouwde kom. Geen grondslagverwijzing in de besluiten (kenmerken o.a. gmb-2026-477192, gmb-2026-481404, gmb-2026-451652).",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van een houtopstand binnen de bebouwde kom (Wet natuurbescherming)",
+  "drempel": "Boom: 'een houtachtig, opgaand gewas met een omtrek van de stam van minimaal 63 cm (ca. 20 cm diameter) op 1,3 meter hoogte boven het maaiveld' (art. 1:1 onder g). Houtopstand (art. 1:1 onder v) is 'één of meer bomen of boomvormers', een houtwal, bosplantsoen of landschapselementen, zonder eigen drempel.",
+  "omtrek_cm": 63,
+  "meethoogte": "1,3 m (omtrek in de bron zelf; geen omrekening nodig)",
+  "reikwijdte": "Art. 4:1 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.' Lid 2 onder c: verbod geldt niet voor 'het vellen van een houtopstand buiten de bebouwde kom Wet natuurbeheer'. Dus alleen binnen de bebouwde kom (grenzen volgens de Boswet per 31-12-2016, art. 1:1 onder d), particulier en openbaar, inclusief tuinen. Daarnaast een lijst van monumentale en beeldbepalende bomen (art. 4:5): telt niet voor D omdat het bredere regime geldt.",
+  "uitzonderingen": "Art. 4:1 lid 2: 'a. het knotten van populieren en wilgen als wegbeplantingen en éénrijige beplantingen op of langs landbouwgronden; b. fruitbomen en windschermen om boomgaarden; c. het vellen van een houtopstand buiten de bebouwde kom Wet natuurbeheer; d. dunning van bomen in bossen ...'. Fruitbomen zijn dus niet beperkt tot boomgaarden uitgezonderd: ruime uitzondering voor fruitbomen in tuinen (correctie -1). Buitengebied vrij (alleen buiten de kom): geeft geen extra score. Noodkap: art. 4:11a APV (toestemming van het college).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst bijzondere en monumentale bomen 2022 (CVDR675381_1) bestaat als bijlage (PDF van 38 pagina's, dc-2022-23) bij de bekendmaking. Niet geteld: PDF kon niet worden uitgelezen met de beschikbare hulpmiddelen. Niet nodig voor D, want het brede regime bepaalt D.",
+  "weigeringsgronden": "Art. 4:2: 'Het bevoegd gezag kan een omgevingsvergunning in afwijking van artikel 1:7 weigeren, dan wel aan de omgevingsvergunning voorschriften of beperkingen verbinden, in het belang van: a. ecologische waarden; b. landschappelijke / stedenbouwkundige waarden; c. cultuurhistorische waarden; d. waarden voor recreatie en leefbaarheid; e. waarden van dorpsschoon; f. beeldbepalende waarden.' Voor lijstbomen strenger (art. 4:5 lid 4: 'slechts verleend indien'): vermeld, geldt niet voor het grootste deel van de bomen.",
+  "herplantplicht": "Art. 4:3 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Daarna: 'Indien een gemeentelijk omgevings-, bomen-, groen- of landschapsplan de te vellen houtopstand direct of indirect als waardevol omschrijft, wordt zoveel mogelijk een herplantplicht opgelegd.' Geen financiële compensatie of boomwaarde gevonden. Geen aparte beleidsregel herplant in het dossier.",
+  "herplant_ontsnapping": "'kan behoren' (bevoegdheid, college per geval); voor waardevolle houtopstand 'zoveel mogelijk'. Geen betaling in plaats van herplant. Herplant na illegale kap: art. 4:4 'kan het bevoegd gezag aan de rechthebbende de verplichting opleggen te herbeplanten'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen specifieke bepaling. Art. 1:3 lid 2 ('is verplicht de daaraan verbonden voorschriften en beperkingen na te komen') is volgens lid 3 'niet van toepassing op een omgevingsvergunning'. Art. 8:2 lid 1 straft 'overtreding van de artikelen in hoofdstuk 2, 4, 5 en 7' (hechtenis van ten hoogste drie maanden of geldboete tweede categorie). Of een vergunningvoorschrift hieronder valt, is niet uitdrukkelijk geregeld; verder het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via de Omgevingswet: legesverordening noemt het vellen een omgevingsplanactiviteit (art. 2.30, 'in samenhang met artikel 22.8 van de Omgevingswet'), dus S=1. Daarnaast WED-aanwijzing in de VFL zelf: art. 8:2 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:1 en 2:3 ... en artikel 4:1, eerste lid'. Art. 8:2 lid 1: hechtenis tot drie maanden of geldboete tweede categorie. Herplant na illegale kap: art. 4:4 ('kan'). Geen bestuurlijke boete voor kap (art. 8:2 lid 3 gaat over de Wet veiligheidsregio's).",
+  "procedure": "Omgevingsvergunning (reguliere procedure); beslistermijn APV/VFL art. 1:2 is niet van toepassing op omgevingsvergunning (Omgevingswet bepaalt de termijn). Leges 2026 art. 2.30: EUR 67,60 per boom voor maximaal 10 bomen (maximum EUR 676,00). Bekendmaking in het gemeenteblad. Bezwaar en beroep volgens Awb (niet apart gelezen).",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Lijst bijzondere en monumentale bomen 2022 (bijlage-PDF, 38 pagina's) niet uitgelezen, dus aantal lijstbomen en aandeel particulier onbekend (niet nodig voor D). Groenbeleidsplan 2021-2031 (genoemd in het lijstbesluit) niet in het dossier; of het herplant vastlegt, is niet vastgesteld. Provinciale regels en bezwaar/beroep niet beoordeeld.",
+  "artikelnummers": [
+    "VFL art. 1:1 onder d, g, v, nn; 4:1; 4:2; 4:3; 4:4; 4:5; 8:2; 1:2; 1:3",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "APV 2023 art. 4:10 (definities), 4:11a (noodkap); 4:11, 4:11d, 4:11e vervallen"
+  ],
+  "opmerkingen": [
+    "D2: bebouwde kom, drempel 63 cm omtrek (D3 voor 60-100 cm), min 1 ruime uitzondering: 'fruitbomen en windschermen om boomgaarden' (lees: fruitbomen in het algemeen) tellen als fruitbomen in tuinen, dus -1 (INTENT: 'alle fruitbomen in tuinen'). Max 3 als de uitzondering anders wordt gelezen (alleen fruitbomen van boomgaarden).",
+    "Houtopstand zonder drempel naast 'boom' met drempel: art. 4:1 verbiedt het vellen van een 'houtopstand'; houtopstand is 'één of meer bomen of boomvormers', waarbij boom een omtrek van 63 cm vereist. Gescoord op de drempel voor bomen (besluit gebruiker na Utrecht).",
+    "W2: 'kan ... weigeren ... in het belang van: a. ecologische waarden; b. landschappelijke / stedenbouwkundige waarden ...' (art. 4:2), belangenafweging.",
+    "H1 (max 2): 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4:3 lid 1). 'wordt zoveel mogelijk een herplantplicht opgelegd' geldt alleen als een plan de boom als waardevol omschrijft, dus voorwaardelijk (H1 max 2). In de praktijk melden veel besluiten 'verleend met herplantplicht'; geen beleidsregel gevonden die herplant vast voorschrift maakt.",
+    "S1 zonder bereik: kapregel werkt als omgevingsplanactiviteit (leges art. 2.30). WED-aanwijzing in art. 8:2 lid 2 verwijst naar art. 4:1 lid 1 (juist).",
+    "Verschil met buurgemeenten: Bergen heeft een uitdrukkelijke lijst bijzondere en monumentale bomen (CVDR675381_1, vastgesteld door college op grond van APV art. 4:11e, die inmiddels is vervallen; de VFL art. 4:5 is de nieuwe grondslag). Het lijstbesluit zegt: 'Het is een dynamische lijst, die wordt gebruikt bij vergunningplichtige kapaanvragen.' De lijst verhoogt de bescherming van lijstbomen (art. 4:5 lid 4: 'slechts verleend indien' ... 'zwaarwegend belang') maar niet D.",
+    "Art. 4:1 lid 2 onder c gebruikt de term 'bebouwde kom Wet natuurbeheer'; de definitie in art. 1:1 onder d heet 'bebouwde kom Wet natuurbescherming' (Boswet-kom per 31-12-2016). Redactionele afwijking, zelfde bedoeling.",
+    "Andere gemeenten uit dezelfde regio (Castricum, Heiloo, Uitgeest) hebben een vergelijkbare VFL (zie hun rijen); Bevoegdhedenregeling CVDR641130_1 verdeelt de bevoegdheden voor houtopstand niet naar de burgemeester maar naar het college.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): de uitzondering 'fruitbomen en windschermen om boomgaarden' is een gangbare uitzondering voor boomgaarden en geeft geen −1 en geen bereik: D2 (2-3) → D3."
+  ],
+  "modelsignalen": [
+    "Uitzondering 'fruitbomen en windschermen om boomgaarden' is dubbelzinnig: 'om boomgaarden' kan alleen op windschermen slaan. Gelezen als fruitbomen in het algemeen; de score D2 (bereik 2-3) hangt hiervan af.",
+    "Uitzondering voor het gehele buitengebied (buiten de bebouwde kom) zonder tuin- of erfregel past niet goed in de D-regels; de kom vormt hier het enige beschermde deel."
+  ]
+}

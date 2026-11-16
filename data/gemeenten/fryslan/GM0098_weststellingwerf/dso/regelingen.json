@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0098/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Weststellingwerf",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0098/2020/omgevingsplan/nld@2024-03-29;2",
+    "beginGeldigheid": "2024-04-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0098_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0098/2025/Regelinge9a374230c244fe18a07e5cd8c4525d0",
+    "titel": "Programma uitvoering GVVP",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0098/2025/Regelinge9a374230c244fe18a07e5cd8c4525d0/nld@2026-01-13;12471267",
+    "beginGeldigheid": "2026-01-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0098_2025_Regelinge9a374230c244fe18a07e5cd8c4525d0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0098/2025/Regeling96f2571b4a38481ca4d7882574cc3277",
+    "titel": "Voorbereidingsbesluit 1 - omgevingsplan gemeente Weststellingwerf",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0098/2025/Regeling96f2571b4a38481ca4d7882574cc3277/nld@2026-01-19;12262139",
+    "beginGeldigheid": "2026-01-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0098_2025_Regeling96f2571b4a38481ca4d7882574cc3277?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:31Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0313/2026/Regelingc00d5e0351344a7f9b5b8bb414d2fe1a",
+    "titel": "Omgevingsprogramma Wonen 2025-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0313/2026/Regelingc00d5e0351344a7f9b5b8bb414d2fe1a/nld@2026-03-05;11422724",
+    "beginGeldigheid": "2025-04-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0313_2026_Regelingc00d5e0351344a7f9b5b8bb414d2fe1a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:02Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0313/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Bunschoten",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0313/2020/omgevingsplan/nld@2026-04-15;11445715",
+    "beginGeldigheid": "2026-04-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0313_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:02Z"
+  }
+]

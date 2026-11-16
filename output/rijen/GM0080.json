@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0080",
+ "gemeente": "Leeuwarden",
+ "provincie": "Fryslân",
+ "brondocument": "Algemene Plaatselijke Verordening Leeuwarden, afdeling 4.3 (CVDR701127_3); Nadere regels bomen en compensatie groen (CVDR634102_1); Lijst monumentale en waardevolle bomen 2023 (CVDR696886_1); Legesverordening 2026 (CVDR748274_5)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR701127/3",
+ "datum_geldigheid": "APV geldend van 2024-12-06 t/m heden (peildatum 2026-11-14); beleidsregel van 2020-01-01; bomenlijst van 2023-06-05",
+ "laatste_wijziging": "APV: 2024-12-06 (CVDR701127_3); beleidsregel: 2020-01-01; lijst: 2023-06-05",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (CVDR748274_5, art. 5.30: \"bedoeld in de Algemene plaatselijke verordening ... in samenhang met artikel 22.8 van de Omgevingswet\") en WED-aanwijzing in APV 6:1 lid 2; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+ "praktijkcontrole": "71 bekendmakingen sinds 2025, waarvan 26 besluiten en 1 weigering (die gaat over een kap op een bijgebouw, geen boom). In een steekproef van besluiten staan kapvergunningen voor 2, 5, 8, 16, 21 en 39 bomen. Geen grondslag in de besluiten genoemd. Een vergunning voor minder dan 10 bomen (bijv. gmb-2026-86005, 2 bomen) past bij de bomenlijst of bij andere regels (bijv. bestemmingsplan); de grondslag is niet vast te stellen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) alleen voor (a) 10 of meer bomen per jaar in een gebied en (b) bomen op de lijst met monumentale en waardevolle bomen. Voor kap van 9 of minder bomen staat in de APV geen vergunning- of meldplicht (de toelichting bij CVDR634102_1 noemt wel een kapmelding 4 weken vooraf, maar een artikel hierover staat niet in de APV-tekst en een verbodsmogelijkheid ontbreekt).",
+ "drempel": "Lijstbomen: geen drempel. Overige bomen: 10 of meer bomen per jaar per gebied; als 'boom' telt een stamomtrek van minimaal 63 cm op 1,3 m hoogte (art. 4:10 onder a)",
+ "omtrek_cm": 63,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Hele gemeente, particulier en openbaar (APV art. 4:11 lid 1: \"als: a. het aantal te vellen houtopstand 10 of meer is in een gebied per jaar; b. de te vellen houtopstand een waardevolle of monumentale houtopstand is, die is opgenomen op de lijst\"). Buiten de bebouwde kom geldt lid 1 niet voor houtopstand buiten erven en tuinen in een zelfstandige eenheid van meer dan 10 are of rijbeplanting van meer dan 20.",
+ "uitzonderingen": "Art. 4:11 lid 2: fruitbomen (behalve hoogstamfruitbomen), kerstbomen, kweekgoed, populieren of niet geknotte wilgen als wegbeplanting, langs waterwegen of eenrijig langs landbouwgrond, dunnen, biomassabeplanting. Lid 4: Plantenziektenwet, onherstelbaar ziek, hakhoutonderhoud, knotten. Lid 5: acuut gevaar (burgemeester).",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4:11b: \"De omgevingsvergunning kan niet worden verleend als dit in ieder geval nadelig is voor: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid ...\". Voor lijstbomen beleidsregel art. 2.2: \"Monumentale en waardevolle bomen worden niet gekapt. Kappen is alleen toegestaan als er sprake is van: a. een onherstelbare ziekte of beschadiging; b. een ernstige bedreiging van de veiligheid; c. een noodtoestand ...\".",
+ "herplantplicht": "APV art. 4:12a lid 1: \"Het college kan nadere verplichtingen opnemen in de omgevingsvergunning, zoals: a. een herplantplicht; ... c. het financieel compenseren van groen als er niet wordt of kan worden voldaan aan de verplichtingen om te herplanten\" (bevoegdheid). Beleidsregel CVDR634102_1 art. 3.1: \"a. Voor kapaanvragen voor 10 of meer bomen, moet een herplantplan ingediend worden waarbij de te kappen houtopstand met 110% gecompenseerd wordt. Uitzondering hierop vormt de kap van waardevolle en monumentale bomen\"; \"b. ... is voor het aantal niet te herplanten bomen, een financiële compensatie verplicht: ... € 500,- per houtopstand\"; \"c. De kap van elke waardevolle of monumentale boom moet financieel gecompenseerd worden met een bedrag van € 2000,-.. Ook kan een herplantplicht opgelegd worden.\"",
+ "herplant_ontsnapping": "Bij 10 of meer bomen: herplanten is verplicht, maar bij onmogelijkheid is \"een financiële compensatie verplicht\" (art. 3.1 onder b). Bij lijstbomen: herplant \"kan\" worden opgelegd (art. 3.1 onder c); compensatie is verplicht. Art. 4 beleidsregel: \"Er kan van deze regeling afgeweken worden in een bijzondere situatie waarbij sprake is van zwaarwegende (algemene) belangen. Dit wordt per geval beoordeeld door het college.\" Compensatieplicht vervalt bij een onherstelbaar zieke of beschadigde lijstboom (art. 2.3 onder b).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "APV art. 4:12b lid 4: \"Als een verplichting als bedoeld in dit artikel wordt opgelegd moet hier verplicht aan voldaan worden. Dit geldt ook voor de rechtsopvolger.\" APV art. 6:1 lid 1: \"Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie\".",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, eerste lid\". Ook via de Omgevingswet (WED art. 1a onder 2°, omgevingsplanactiviteit). Na illegale kap (beleidsregel art. 3.2): \"De herplantplicht ... wordt verhoogd naar 220% van het oorspronkelijke aantal en/of de financiële compensatie ... wordt verdubbeld\". Geen bestuurlijke boete voor kap in de APV (art. 6:1 lid 4 betreft alleen veiligheidsregio) en geen vastgelegd boetebeleid gevonden.",
+ "procedure": "Leges (CVDR748274_5, art. 5.30): 1 monumentale of waardevolle boom € 428,05; 2 t/m 5 € 856,11; 6 of meer € 1.284,20; 10 t/m 50 reguliere bomen € 856,11; 51 of meer € 1.284,20. Beslistermijn omgevingsvergunning: Omgevingswet (APV art. 1:2 lid 3 sluit de 8 weken uit). Aanvraagvereisten: omgevingsplan art. 22.299.",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 2444,
+ "lijst_aantal_particulier": 694,
+ "lijst_telling": "bomen op de lijst (2023): 351 gemeentelijke + 467 particuliere monumentale, 1399 gemeentelijke + 227 particuliere waardevolle; bron: overzicht in CVDR696886_1. De afzonderlijke lijst is niet ingezien; de aantallen komen uit het vaststellingsdocument.",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "De afzonderlijke bomenlijst op de gemeentelijke website is niet ingezien (aantallen komen uit het vaststellingsdocument). Het kapmeldingsartikel waarnaar de toelichting verwijst, staat niet in de APV-tekst.",
+ "artikelnummers": [
+  "APV art. 4:10, 4:11, 4:11a, 4:11b, 4:12a, 4:12b, 6:1 (CVDR701127_3)",
+  "Nadere regels bomen en compensatie groen art. 2.2, 2.3, 3.1, 3.2 (CVDR634102_1)",
+  "Legesverordening art. 5.30 (CVDR748274_5)",
+  "Omgevingsplan art. 22.299 (CVDR696174_2)"
+ ],
+ "opmerkingen": [
+  "Doorslaggevende citaten: W: \"Monumentale en waardevolle bomen worden niet gekapt.\" (CVDR634102_1 art. 2.2); H: \"De kap van elke waardevolle of monumentale boom moet financieel gecompenseerd worden met een bedrag van € 2000,-.\" (art. 3.1 onder c).",
+  "Het kapregime bestaat uit twee delen: de bomenlijst (D1, 694 van 2.444 lijstbomen zijn particulier) en een kapvergunning voor 10 of meer bomen per jaar per gebied (hele gemeente). Een gewone particuliere boom buiten de lijst valt daar niet onder, tenzij 10 of meer bomen in een jaar in één gebied vallen. Daarom boom A en B: nee.",
+  "D: punt 1 (lijst). Maximum 2 omdat de regel voor 10 of meer bomen de hele gemeente beslaat, maar geen drempel op omtrek per boom kent (alleen 'boom' = omtrek van minimaal 63 cm); het model heeft hiervoor geen categorie.",
+  "W en H gescoord op het regime voor het grootste deel van de beschermde particuliere bomen (lijstbomen): kapverbod, verplichte compensatie van € 2000 per boom, herplant 'kan'. H: voor 10 of meer bomen geldt standaard herplant van 110% plus verplichte compensatie van € 500 per niet te herplanten boom (H3); dat is het maximum.",
+  "Kapmelding: de toelichting bij CVDR634102_1 zegt \"De kap van 9 of minder bomen per jaar per gebied moet 4 weken vooraf gemeld worden.\" Een bijbehorend artikel in de APV is niet gevonden en een verbodsmogelijkheid staat er niet bij; telt daarom niet voor D.",
+  "Het Beleidsplan Groen (CVDR445058_1, 2016) is een beleidsnota en telt niet mee voor H. De nadere regels van 2020 vermelden de 'Beleidsnotitie Compensatie Groen 2015' als vervallen.",
+  "De legesverordening noemt kap in samenhang met artikel 22.8 Omgevingswet; de APV werkt dus als omgevingsplanactiviteit."
+ ],
+ "modelsignalen": [
+  "Een regel op aantal (vergunning pas bij 10 of meer bomen per jaar per gebied, hele gemeente) past niet in de D-schaal (omtrek of aangewezen bomen/gebieden). Voor een particulier met een paar bomen is het effect dat alleen lijstbomen beschermd zijn (D1); voor grote kap geldt een vergunning.",
+  "H: de beleidsregel verplicht compensatie (€ 2000) voor lijstbomen, maar herplant 'kan' alleen; het model kent geen aparte score voor 'verplichte financiële compensatie zonder standaard herplant'."
+ ]
+}

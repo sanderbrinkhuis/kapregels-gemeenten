@@ -1,0 +1,26 @@
+{
+  "gemeente": "Ommen",
+  "gm_code": "GM0175",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Ommen",
+  "zoeknaam_bekendmakingen": "Ommen",
+  "opgehaald_op": "2026-11-14T21:47:56+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Ommen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 25,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Ommen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 160,
+  "geldende_regelingen": 5,
+  "geldend_met_kapartikelen": [
+    "CVDR696206_4",
+    "CVDR718892_1",
+    "CVDR746600_2",
+    "CVDR753504_1"
+  ],
+  "bekendmakingen_besluiten": 73,
+  "bekendmakingen_aanvragen": 83,
+  "bekendmakingen_geweigerd": 6,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0755/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Boekel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0755/2020/omgevingsplan/nld@2024-03-14;2",
+    "beginGeldigheid": "2024-04-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0755_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0755/2025/Regeling06df396e8ace44fdb6f175127afbaff9",
+    "titel": "Programma kostenverhaal en financiële bijdragen 2024",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0755/2025/Regeling06df396e8ace44fdb6f175127afbaff9/nld@2025-05-21;06285430",
+    "beginGeldigheid": "2025-02-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0755_2025_Regeling06df396e8ace44fdb6f175127afbaff9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0755/2025/Regeling5c543e7b5a8c432787f4aa7b24767edc",
+    "titel": "Programma Vrijetijd 2025-2035 – Boekel Beleven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0755/2025/Regeling5c543e7b5a8c432787f4aa7b24767edc/nld@2025-06-03;08212933",
+    "beginGeldigheid": "2025-01-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0755_2025_Regeling5c543e7b5a8c432787f4aa7b24767edc?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0755/2024/Regeling1fa8a44990fe4e31be1e08586a15b705",
+    "titel": "Programma Omgevingswet Water & Riolering",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0755/2024/Regeling1fa8a44990fe4e31be1e08586a15b705/nld@2025-06-05;05344249",
+    "beginGeldigheid": "2023-01-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0755_2024_Regeling1fa8a44990fe4e31be1e08586a15b705?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0755/2024/Regelingdeeb8e4cf522489db76e65ba5f8f34ba",
+    "titel": "Programma Huisvesting tijdelijke arbeidsmigranten",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0755/2024/Regelingdeeb8e4cf522489db76e65ba5f8f34ba/nld@2025-06-10;07395280",
+    "beginGeldigheid": "2024-11-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0755_2024_Regelingdeeb8e4cf522489db76e65ba5f8f34ba?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0755/2026/Regeling709838224fd343c6992aa2d17ffe464f",
+    "titel": "Programma Warmte gemeente Boekel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0755/2026/Regeling709838224fd343c6992aa2d17ffe464f/nld@2026-04-15;12464396",
+    "beginGeldigheid": "2026-05-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0755_2026_Regeling709838224fd343c6992aa2d17ffe464f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:16Z"
+  }
+]

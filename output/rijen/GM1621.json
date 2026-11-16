@@ -1,0 +1,79 @@
+{
+ "gm_code": "GM1621",
+ "gemeente": "Lansingerland",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Bomenverordening Lansingerland 2018 (CVDR615754_2), met Bijlage C en D (toelichting en criteria); Groene Kaart (niet ingezien)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR615754/2",
+ "datum_geldigheid": "2025-12-12 t/m heden (versie 2); peildatum 2026-11-16",
+ "laatste_wijziging": "2025-12-12 (CVDR615754_2)",
+ "juridische_plaats": "bomenverordening (losse verordening, APV afd. 4.3 vervallen); werkt als omgevingsplanactiviteit volgens leges art. 2.30 (in samenhang met art. 22.8 Ow)",
+ "praktijkcontrole": "Titelzoekactie 2025-2026: 53 bekendmakingen, 1 besluit (gmb-2025-536553, ingetrokken toestemming voor kap van 14 bomen), 28 aanvragen, 0 geweigerd volgens titel. Geen grondslag genoemd. Te weinig besluiten om iets over het regime af te leiden.",
+ "vergunningplicht": "vergunning voor 'beschermde houtopstand', dat is houtopstand op de Groene Kaart (artikel 2 lid 1 en 3)",
+ "drempel": "stamomtrek van minimaal 45 centimeter op 1,3 meter hoogte (art. 1 onder a)",
+ "omtrek_cm": 45,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Alleen houtopstand op de Groene Kaart (punten en vlakken, binnen en buiten de bebouwde kom, gemeentelijk en particulier). Bijlage C: \"Ook enkele particuliere monumentale bomen vallen onder deze bescherming.\" Lichtgroene vlakken geven aan waar de verordening geldt voor bomen van derden. Kaart niet ingezien, dus niet vast te stellen hoeveel particuliere tuinbomen daarop staan.",
+ "uitzonderingen": "Art. 2 lid 4: periodiek knotten, dunning door de gemeente, Plantenziektenwet of aanschrijving, periodiek hakhout (gangbaar). Geen tuin-, soort- of oppervlakte-uitzondering. Noodkap met toestemming van de burgemeester (lid 5).",
+ "weigeringsgronden": "Donkergroen (hoog): \"slechts bij uitzondering worden verleend indien\" zwaarwegend algemeen maatschappelijk belang of onverantwoord naar boomdeskundige maatstaven (art. 4 lid 2). Lichtgroen (standaard): \"wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand\" op grond van natuur-, landschaps-, cultuurhistorische, stads- en dorpsschoon- en recreatie/leefbaarheidswaarden (art. 4 lid 3).",
+ "herplantplicht": "Art. 5 lid 1: \"Het bevoegd gezag kan aan de vergunning ondermeer het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.\" Alleen bij vergunning aan de gemeente \"wordt er altijd een herplantplicht opgelegd\". Bijlage D.2: \"Bij de kap van een gemeentelijk boom is de herplantplicht altijd van toepassing.\" (alleen gemeentebomen, telt niet.) Geen financiele compensatie of boomwaarde als verplichting.",
+ "herplant_ontsnapping": "\"kan\" (bevoegdheid, per geval door het bevoegd gezag); art. 6 lid 2: \"Indien niet ter plaatse kan worden herplant, wordt door het bevoegd gezag een andere locatie voor herplant aangewezen.\" Geen betaling in plaats van herplant.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niets geregeld in de verordening: art. 6 lid 1 en art. 5 lid 1 noemen geen gevolg. Alleen bij boomziekten is bestuursdwang genoemd (art. 7 lid 3). Het strafbare 'verplicht daaraan te voldoen' ontbreekt; de APV-strafbepaling (art. 6:1) noemt de bomenverordening niet.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via Omgevingswet: de leges noemt het vellen een omgevingsplanactiviteit (\"bestaande uit het vellen van een houtopstand, bedoeld in artikel 3 van de Bomen-verordening Lansingerland 2018 in samenhang met artikel 22.8 van de Omgevingswet\"), dus S = 1 volgens besluit stap 1a. Geen eigen strafbepaling in de verordening, geen bestuurlijke boete. Herplant na illegale kap: art. 6 lid 1 \"kan\". Handhavingsbeleid kappen: \"We prioriteren deze activiteit echter laag.\" (CVDR719008_1 3.5.1); Bijlage D.5 noemt \"proces-verbaal\" en herplantplicht of boete, zonder bestuurlijke boete in de regeling.",
+ "procedure": "Leges (CVDR752309_1, art. 2.30): 1 t/m 5 bomen EUR 90; 6 t/m 10 EUR 180; 11 t/m 50 EUR 360. Aanvraag digitaal of schriftelijk en gemotiveerd (art. 3). Beslistermijn en bezwaar via Awb; geen eigen bepaling gevonden.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Groene Kaart niet ingezien (niet gevonden op lansingerland.nl met enkele requests); geen aantal in een vastgestelde nota",
+ "status": "ok",
+ "ontbrekend": "De Groene Kaart (art. 2 lid 3) is niet ingezien: onbekend hoeveel particuliere bomen en vlakken erop staan en welk beschermingsniveau particuliere bomen krijgen.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 4, 5, 6, 7",
+  "Bijlage C en D",
+  "Leges art. 2.30",
+  "APV 2025 afd. 4.3 (vervallen), art. 6:1",
+  "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+ ],
+ "opmerkingen": [
+  "Kern: Bomenverordening art. 1 onder c: \"beschermde houtopstand : houtopstand voorkomende op de \"Groene kaart\" als bedoeld in artikel 2 lid 3.\" Kaartsysteem; particuliere bomen bevestigd door Bijlage C (\"Ook enkele particuliere monumentale bomen vallen onder deze bescherming.\"). Puntschatting D = 1, bereik 0 tot 2 omdat de kaart ook vlakken bevat (\"In deze gevallen zijn vlakken weergegeven om aan te geven dat de verordening van toepassing is.\").",
+  "W: de enige particuliere bomen waarvan de tekst het zegt (monumentaal) vallen in niveau hoog: \"slechts bij uitzondering worden verleend indien\" (art. 4 lid 2, gesloten gronden) = W3. Voor lichtgroene vlakken geldt W2 (\"wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud\"); daarom min 2.",
+  "H: \"kan\" (art. 5 lid 1, art. 6 lid 1). Bijlage D.5: \"Indien geen vergunning zou zijn verleend volgt een proces-verbaal en bij kap oplegging van herplantplicht.\" Dat is alleen een deel van de gevallen na illegale kap, dus H en herplant_na_illegale_kap blijven 'kan'.",
+  "S: verkeerde verwijzing in de leges: die noemt artikel 3 (Aanvraag) van de verordening, terwijl het verbod in artikel 2 staat. Zoals besloten (14-11-2026) blijft S = 1.",
+  "Omgevingsplan (CVDR696465_4) bevat alleen art. 22.299 (aanvraagvereisten) en art. 6.6 (instandhouding ecologisch waardevolle bomen op een locatie, geen kapregel voor particulieren): geen aparte vergunningplicht. Kleine gebiedsregel art. 6.6 telt niet mee voor D.",
+  "Boom A en B: alleen vergunningplichtig als de boom op de Groene Kaart staat; niet te controleren, dus 'alleen als op lijst'. Boom B (40 cm) valt bovendien onder de drempel van 45 cm.",
+  "Beleid: Groenstructuur 2016-2026 (CVDR702176_1) noemt een Beschermwaardige bomenlijst voor waardevolle bomen, met 'Bomenverordening 2012' als bron; geen aantal particuliere bomen. Beleidsnota snippergroen gaat over gemeentegrond. Geen herplantbeleid voor particuliere bomen gevonden dat de verordening aanscherpt.",
+  "Bomenverordening versie 2 (in werking 2025-12-12): tekst van de kapregels in het dossier is inhoudelijk die van 2018; inhoud van de wijziging niet onderzocht."
+ ],
+ "modelsignalen": [
+  "Kaartsysteem waarin de verbodstekst naar een kaart met verschillende beschermingsniveaus verwijst (donkergroen = W3, lichtgroen = W2). INTENT.md zegt niet welk niveau telt als de verdeling van particuliere bomen over de niveaus onbekend is. Gekozen: W3 met min 2, omdat alleen de monumentale particuliere bomen in de tekst genoemd zijn. Advies: een regel toevoegen dat bij onbekende verdeling het niveau geldt dat de tekst voor particuliere bomen noemt, of W2 met max 3.",
+  "Definitie 'beschermde houtopstand' = kaart, maar Bijlage C zegt \"De overige bomen binnen de gemeente vallen onder het standaard niveau\" (suggereert hele gemeente). Artikel gaat voor toelichting (regel 15-11-2026), dus D = 1 met bereik 0-2 in plaats van 3 of 4 (45 cm). Advies: bevestig dat de bereikmax 2 is of zet max op 3."
+ ]
+}

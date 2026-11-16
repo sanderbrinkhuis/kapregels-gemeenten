@@ -1,0 +1,27 @@
+{
+  "gemeente": "Kerkrade",
+  "gm_code": "GM0928",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Kerkrade",
+  "zoeknaam_bekendmakingen": "Kerkrade",
+  "opgehaald_op": "2026-11-16T14:06:02+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Kerkrade\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 51,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Kerkrade\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 207,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR103806_1",
+    "CVDR233231_1",
+    "CVDR696445_2",
+    "CVDR729427_1",
+    "CVDR753806_1"
+  ],
+  "bekendmakingen_besluiten": 49,
+  "bekendmakingen_aanvragen": 150,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

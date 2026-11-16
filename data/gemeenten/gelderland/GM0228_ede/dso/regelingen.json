@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0228/2025/Regeling41d9096eb9904a1e8eccf02fbf25378a",
+    "titel": "Gebiedsprogramma Otterlo 2040: Een visie op het dorp",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0228/2025/Regeling41d9096eb9904a1e8eccf02fbf25378a/nld@2025-06-16;08313825",
+    "beginGeldigheid": "2025-06-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0228_2025_Regeling41d9096eb9904a1e8eccf02fbf25378a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0228/2025/Regelingd04692b155b24cf58debd6d256864fd1",
+    "titel": "Programma Beter benutten bestaande woningvoorraad 2025: woningdelen, woningsplitsen, kavelsplitsen en tijdelijke huisvesting",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0228/2025/Regelingd04692b155b24cf58debd6d256864fd1/nld@2025-09-17;12561086",
+    "beginGeldigheid": "2025-09-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0228_2025_Regelingd04692b155b24cf58debd6d256864fd1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0228/2026/Regelingf509cde1de284844b585f3436e8fc2b7",
+    "titel": "Omgevingsprogramma Ede Klimaatneutraal",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0228/2026/Regelingf509cde1de284844b585f3436e8fc2b7/nld@2026-06-10;13004178",
+    "beginGeldigheid": "2026-06-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0228_2026_Regelingf509cde1de284844b585f3436e8fc2b7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0228/2025/Regeling483be09d463f4b78abe2cee47cdaf5e6",
+    "titel": "Omgevingsvisie Ede 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0228/2025/Regeling483be09d463f4b78abe2cee47cdaf5e6/nld@2026-06-15;07185940",
+    "beginGeldigheid": "2026-07-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0228_2025_Regeling483be09d463f4b78abe2cee47cdaf5e6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0228/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Ede",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0228/2020/omgevingsplan/nld@2026-07-13;11210521",
+    "beginGeldigheid": "2026-08-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0228_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:39Z"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0356",
+  "gemeente": "Nieuwegein",
+  "provincie": "Utrecht",
+  "brondocument": "Bomenverordening Nieuwegein 2012 (CVDR184668_2: art. 1, 2, 4, 7, 8, 13); Boombeschermingsplan Nieuwegein 2019 (CVDR620785_2); Verordening leges 2026 art. 2.30 (CVDR754044_1); Uitvoering- en handhavingsstrategie Regio Utrecht 2026 (CVDR749603_1); APV art. 4:10-4:12 gereserveerd (CVDR28338_12)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR184668/2",
+  "datum_geldigheid": "geldend van 2024-01-01 t/m heden (CVDR184668_2)",
+  "laatste_wijziging": "versie 2, in werking 2024-01-01; geen latere versie",
+  "juridische_plaats": "Bomenverordening (APV afdeling 4.3 is gereserveerd); werkt als omgevingsplanactiviteit volgens Leges 2026 art. 2.30; omgevingsplan art. 12.27-12.28 bevatten alleen toepassingsbereik en aanvraagvereisten",
+  "praktijkcontrole": "192 bekendmakingen sinds 2025 (92 besluiten, 29 aanvragen, 7 geweigerd volgens titel). Veel besluiten over kap in achtertuinen en voortuinen van woningen; 10 besluiten in de steekproef noemen geen grondslag. Past bij een breed regime met vergunningplicht voor particuliere bomen.",
+  "vergunningplicht": "omgevingsvergunning voor het vellen; voor particuliere bomen alleen als stamomtrek > 90 cm",
+  "drempel": "particuliere houtopstand: verbod geldt niet 'voor zover het bomen betreft met een stamomtrek tot maximaal 90 cm op 1,3 meter hoogte boven het maaiveld' (art. 2 lid 3 onder a); dus vergunning bij > 90 cm",
+  "omtrek_cm": 90,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en gemeentelijk. Particuliere bomen: alleen > 90 cm omtrek, binnen en buiten de bebouwde kom (art. 2 lid 1 en lid 3 onder a). Gemeentelijke bomen alleen als op de Bomenlijst/Bomenkaart (art. 2 lid 2, 3 onder b). Herplant van een voorheen > 90 cm boom blijft vergunningplichtig, ook als kleiner.",
+  "uitzonderingen": "Buiten de bebouwde kom: populieren en wilgen als wegbeplanting en eenrijige beplanting langs landbouwgronden, fruitbomen en windschermen om boomgaarden, kerstbomen, kweekgoed, bosbouwondernemingen (art. 2 lid 4). Overal: Plantengezondheidswet of aanschrijving, periodiek vellen van hakhout, knotten of kandelaberen (art. 2 lid 5). Geen uitzondering voor achtertuinen of tuinen; de uitzonderingen voor populier, wilg en fruit gelden alleen buiten de kom, dus geen tuincorrectie.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4 lid 1: 'Het bevoegd gezag kan de omgevingsvergunning om te vellen weigeren dan wel onder voorschriften verlenen in het belang van onder meer:' natuur- en milieuwaarden, landschappelijke, cultuurhistorische, ecologische, dendrologische en zeldzaamheidswaarden, stads- en dorpsschoon, recreatie en leefbaarheid, leeftijd, verschijningsvorm, beplantingsvorm, beeldbepaling, toekomstverwachting. Het Boombeschermingsplan (CVDR620785_2, par. 5.1) weegt boomwaarde tegen verwijderingsbelang (punten).",
+  "herplantplicht": "Art. 7 lid 1: 'Tot de aan de omgevingsvergunning voor het vellen te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 7 lid 3: 'Indien niet ter plaatse kan worden herplant, zal een verplichting worden opgelegd een financiële bijdrage voor herplant te storten in het gemeentelijk herplantfonds.' Boombeschermingsplan par. 5.3: 'Bij iedere kapaanvraag weegt de gemeente af of er redenen zijn om een herplantplicht op te leggen.' en 'legt de gemeente in ieder geval een herplantplicht op als de Boomwaarde meer is dan 68 punten'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval (plan: 'Hierdoor is maatwerk mogelijk.'). Uitweg: betaling in het herplantfonds als niet ter plaatse kan worden herplant (art. 7 lid 3). Bij illegale kap: art. 8 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten' (de tekst noemt alleen de eigenaar van gemeentelijke houtopstand; het plan zegt dat de herplantplicht aan de eigenaar van de grond kan worden opgelegd).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 13 lid 2: 'Hij die handelt in strijd met artikel 2, eerste lid, dan wel een voorschrift onderscheidenlijk een verplichting als bedoeld in het eerste lid niet nakomt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.' Daarnaast dwangsomrichtlijn (CVDR749603_1): 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "S1: eigen strafbepaling art. 13 lid 2 (hechtenis max. 2 maanden of geldboete tweede categorie, openbaarmaking, strafmaat kan rekening houden met boomwaarde). Ook WED via Ow 5.1: Leges art. 2.30 noemt het vellen een omgevingsplanactiviteit. Geen bestuurlijke boete in de verordening; geen WED-aanwijzing in de verordening zelf.",
+  "procedure": "Omgevingsvergunning; leges art. 2.30 tarief 0,00; aanvraag schriftelijk of digitaal, gemotiveerd, met situatieschets (art. 3); vergunning treedt pas in werking na afloop van de bezwaartermijn van zes weken (art. 5); plan par. 5.1: publicatie, zienswijze binnen twee weken, bezwaar binnen 6 weken. Beslistermijn: niet vastgesteld in de bomenverordening.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem voor particuliere bomen; de Bomenlijst geldt alleen voor gemeentelijke bomen",
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan in het DSO niet ingezien (CVDR-tekst bevat alleen art. 12.27-12.28 aanvraagvereisten). Beslistermijn niet vastgesteld. H: onzeker of de verplichte storting van art. 7 lid 3 een standaard herplant plus compensatie is (H1 of H2).",
+  "artikelnummers": [
+    "Bomenverordening Nieuwegein 2012: art. 1 onder f, i, m; 2 lid 1-5; 3; 4; 5; 7; 8; 13",
+    "Boombeschermingsplan 2019: par. 2.1, 5.1, 5.3 en handhaving",
+    "Leges 2026: art. 2.30",
+    "Omgevingsplan: art. 12.27, 12.28",
+    "Uitvoering- en handhavingsstrategie Regio Utrecht 2026: onderdeel P"
+  ],
+  "opmerkingen": [
+    "D3: hele gemeente, drempel > 90 cm omtrek (middelmatig, 60-100 cm). Boom A (80 cm) en B (40 cm) vallen eronder: geen vergunning nodig.",
+    "W2: 'Het bevoegd gezag kan de omgevingsvergunning om te vellen weigeren dan wel onder voorschriften verlenen in het belang van onder meer:' (art. 4 lid 1).",
+    "H1: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant' (art. 7 lid 1). Herplantplicht na kap bij een bouwproject (ruimtelijk plan, plan par. 5.2-5.3) telt niet mee voor H. Bereik tot 2 omdat 'zal worden opgelegd' bij niet-ter-plaatse-herplant (art. 7 lid 3) een verplichte storting is.",
+    "S1: art. 13 lid 2 en omgevingsplanactiviteit volgens Leges art. 2.30 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening Nieuwegein in samenhang met artikel 22.8 van de Omgevingswet'. Het plan zegt: 'De mogelijkheid tot het opleggen van een sanctie en de hoogte van de boetes zijn vastgelegd in de Bomenverordening.' en noemt 'een bestuurlijke boete' als mogelijkheid, maar de verordening bevat geen bestuurlijke boete: S blijft 1.",
+    "Artikel 2 lid 2 laat B&W gebieden en bomen aanwijzen in een Bomenlijst; die lijst is niet ingezien en wijzigt D niet, want het brede regime bepaalt D.",
+    "Nabewerking 16-11-2026: H1 (1-2) → H2 (max 3): herplant 'kan', art. 7 lid 3 'zal een verplichting worden opgelegd een financiële bijdrage ... te storten' als niet ter plaatse kan worden herplant (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Nieuwegein: een verplichte storting 'indien niet ter plaatse kan worden herplant' zonder dat herplant zelf standaard is, past niet netjes in H1-H3; H1 aangehouden met bereik tot 2."
+  ]
+}

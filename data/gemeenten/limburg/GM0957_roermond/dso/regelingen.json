@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0957/2026/Regelingd02ba16e70a84a18a86d17096f2549d7",
+    "titel": "Programma uitvoeringsprogramma Omgevingsvisie Roermond",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0957/2026/Regelingd02ba16e70a84a18a86d17096f2549d7/nld@2026-09-25;08193076",
+    "beginGeldigheid": "2026-09-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0957_2026_Regelingd02ba16e70a84a18a86d17096f2549d7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:58:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0957/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Roermond",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0957/2020/omgevingsplan/nld@2025-12-19;08330634",
+    "beginGeldigheid": "2026-01-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0957_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:58:44Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0118/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hoogeveen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0118/2020/omgevingsplan/nld@2026-06-16;13401514",
+    "beginGeldigheid": "2026-07-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0118_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0118/2026/Regeling0f5af08d753e450582cda46dedcb92db",
+    "titel": "Omgevingsprogramma gemeente Hoogeveen - 2026-001 - Hoogbouw Op en TOP Hoogeveen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0118/2026/Regeling0f5af08d753e450582cda46dedcb92db/nld@2026-09-16;09521842",
+    "beginGeldigheid": "2026-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0118_2026_Regeling0f5af08d753e450582cda46dedcb92db?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:19Z"
+  }
+]

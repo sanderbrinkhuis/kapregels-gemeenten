@@ -1,0 +1,29 @@
+{
+  "gemeente": "Nijkerk",
+  "gm_code": "GM0267",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Nijkerk",
+  "zoeknaam_bekendmakingen": "Nijkerk",
+  "opgehaald_op": "2026-11-15T14:09:53+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Nijkerk\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 74,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Nijkerk\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 129,
+  "geldende_regelingen": 23,
+  "geldend_met_kapartikelen": [
+    "CVDR2629_3",
+    "CVDR645443_1",
+    "CVDR663357_2",
+    "CVDR696245_2",
+    "CVDR752222_3",
+    "CVDR757428_1",
+    "CVDR767449_1"
+  ],
+  "bekendmakingen_besluiten": 43,
+  "bekendmakingen_aanvragen": 61,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

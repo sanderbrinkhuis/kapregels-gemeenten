@@ -1,0 +1,31 @@
+{
+  "gemeente": "Wijk bij Duurstede",
+  "gm_code": "GM0352",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Wijk bij Duurstede",
+  "zoeknaam_bekendmakingen": "Wijk bij Duurstede",
+  "opgehaald_op": "2026-11-14T18:22:27+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Wijk bij Duurstede\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 98,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Wijk bij Duurstede\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 55,
+  "geldende_regelingen": 24,
+  "geldend_met_kapartikelen": [
+    "CVDR390644_1",
+    "CVDR674566_1",
+    "CVDR696282_3",
+    "CVDR697748_1",
+    "CVDR740230_1",
+    "CVDR749741_3",
+    "CVDR755741_1",
+    "CVDR757561_2",
+    "CVDR769191_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 29,
+  "bekendmakingen_geweigerd": 1,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

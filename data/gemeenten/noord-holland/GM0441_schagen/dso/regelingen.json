@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0441/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Schagen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0441/2020/omgevingsplan/nld@2024-05-22;09235600",
+    "beginGeldigheid": "2024-05-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0441_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0441/2024/Regeling7a2164340156470bb545be2d3594a2d4",
+    "titel": "Omgevingsvisie gemeente Schagen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0441/2024/Regeling7a2164340156470bb545be2d3594a2d4/nld@2024-09-10;17495206",
+    "beginGeldigheid": "2024-09-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0441_2024_Regeling7a2164340156470bb545be2d3594a2d4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0441/2026/Regeling0f341ac9009d4c7a8ee2321fa4ab51a3",
+    "titel": "Omgevingsprogramma Zuidelijke Kernen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0441/2026/Regeling0f341ac9009d4c7a8ee2321fa4ab51a3/nld@2026-05-28;12182365",
+    "beginGeldigheid": "2026-02-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0441_2026_Regeling0f341ac9009d4c7a8ee2321fa4ab51a3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0441/2026/Regelingc98f12cef77c41bd999a0b79045810a9",
+    "titel": "Omgevingsprogramma Externe veiligheid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0441/2026/Regelingc98f12cef77c41bd999a0b79045810a9/nld@2026-07-21;13363455",
+    "beginGeldigheid": "2026-06-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0441_2026_Regelingc98f12cef77c41bd999a0b79045810a9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:09Z"
+  }
+]

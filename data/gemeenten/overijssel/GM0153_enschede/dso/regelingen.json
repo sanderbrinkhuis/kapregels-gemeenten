@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0153/2025/2_11",
+    "titel": "Programma Kostenverhaal en Financiële Bijdragen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0153/2025/2_11/nld@35",
+    "beginGeldigheid": "2025-06-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0153_2025_2_11?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0153/2025/10_14",
+    "titel": "Voorbereidingsbesluit Vredestein",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm0153/2025/10_14/nld@40",
+    "beginGeldigheid": "2025-07-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0153_2025_10_14?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0153/2025/10_16",
+    "titel": "Voorbereidingsbesluit Lipperkerkstraat 494",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm0153/2025/10_16/nld@45",
+    "beginGeldigheid": "2025-12-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0153_2025_10_16?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0153/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Enschede",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0153/2025/omgevingsvisie/nld@2026-06-26;08151653",
+    "beginGeldigheid": "2026-07-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0153_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0153/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Enschede",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0153/2020/omgevingsplan/nld@2026-04-21;14591683",
+    "beginGeldigheid": "2026-05-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0153_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:51Z"
+  }
+]

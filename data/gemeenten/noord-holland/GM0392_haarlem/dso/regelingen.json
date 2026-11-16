@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0392/2024/Regeling429f2e8f6872462f97f6f7e8ef736a3e",
+    "titel": "Omgevingsvisie Haarlem 2045",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0392/2024/Regeling429f2e8f6872462f97f6f7e8ef736a3e/nld@2024-08-28;10172842",
+    "beginGeldigheid": "2024-09-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0392_2024_Regeling429f2e8f6872462f97f6f7e8ef736a3e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0392/2024/Regelinga65790ee00f94f198743aaadae171b1b",
+    "titel": "Actieplan Geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0392/2024/Regelinga65790ee00f94f198743aaadae171b1b/nld@2025-06-10;07363671",
+    "beginGeldigheid": "2025-07-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0392_2024_Regelinga65790ee00f94f198743aaadae171b1b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0392/2025/Regeling329adc43519148f0809e1ce3dc0f1e57",
+    "titel": "Voorbereidingsbesluit Meldplicht staalslakken en grondstabilisatie gemeente Haarlem",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0392/2025/Regeling329adc43519148f0809e1ce3dc0f1e57/nld@2025-12-03;10103776",
+    "beginGeldigheid": "2025-12-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0392_2025_Regeling329adc43519148f0809e1ce3dc0f1e57?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0392/2026/Regeling444cfc5c9fa04207b7ea34354ece426c",
+    "titel": "voorbereidingsbesluit bedrijfsactiviteiten",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0392/2026/Regeling444cfc5c9fa04207b7ea34354ece426c/nld@2026-03-18;11594894",
+    "beginGeldigheid": "2026-03-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0392_2026_Regeling444cfc5c9fa04207b7ea34354ece426c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0392/2026/Regelinga921707dab254533b2649c4674732708",
+    "titel": "Programma van Eisen voor de Leefomgeving ontwikkelzone Oostpoort",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0392/2026/Regelinga921707dab254533b2649c4674732708/nld@2026-08-11;10322019",
+    "beginGeldigheid": "2026-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0392_2026_Regelinga921707dab254533b2649c4674732708?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0392/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Haarlem",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0392/2020/omgevingsplan/nld@2026-10-20;12171495",
+    "beginGeldigheid": "2026-10-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0392_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:27Z"
+  }
+]

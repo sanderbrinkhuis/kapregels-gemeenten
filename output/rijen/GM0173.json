@@ -1,0 +1,83 @@
+{
+ "provincie": "Overijssel",
+ "gm_code": "GM0173",
+ "gemeente": "Oldenzaal",
+ "brondocument": "Algemene plaatselijke verordening Oldenzaal 2025, afd. 4.3 (art. 4:10, 4:11, 4:12) en art. 6:1 lid 3; Verordening op de heffing en de invordering van leges 2026 art. 2.14; Besluit van de gemeenteraad ... Uitgiftebeleid Openbaar Groen par. 5.3; Omgevingsplan gemeente Oldenzaal art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR740096/1 ; https://lokaleregelgeving.overheid.nl/CVDR751802/2 ; https://lokaleregelgeving.overheid.nl/CVDR622978/1 ; https://lokaleregelgeving.overheid.nl/CVDR696205/2",
+ "datum_geldigheid": "APV CVDR740096_1 geldend vanaf 2025-06-06 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "APV: versie 1 per 2025-06-06 (nieuwe regeling, vervangt de eerdere APV). Legesverordening CVDR751802_2 per 2026-06-01. Uitgiftebeleid CVDR622978_1 per 2019-04-04.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR751802_2) art. 2.14 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (CVDR696205_2) bevat alleen aanvraagvereisten (art. 22.299); het verbod staat in de APV.",
+ "praktijkcontrole": "Sinds 2025: 260 bekendmakingen op titel, waarvan 1 besluit en 138 aanvragen; 0 weigeringen volgens de titel. Het ene besluit uit de steekproef (gmb-2025-249928, 2025-06-17) is een intrekking van een verleende kapvergunning voor één boom en noemt geen grondslag. Het aantal aanvragen wijst op een werkend vergunningstelsel binnen de kom; de titelzoekmethode kan ook niet-kapaanvragen bevatten.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden binnen de bebouwde kom, vanaf diameter 30 cm en op kavels van 500 m2 of groter; buiten de bebouwde kom alleen bij cascowaarden.",
+ "drempel": "Diameter 30 cm op 1,30 m boven het maaiveld (art. 4:11 lid 2 onder a): 'als de houtopstand een diameter heeft van minder dan 30 centimeter gemeten op 1,30 meter boven het maaiveld, of staat op een kavel die kleiner is dan 500 m²' is geen vergunning nodig.",
+ "omtrek_cm": 94.2,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Binnen de bebouwde kom (art. 1:1 lid a: grenzen volgens art. 20a Wegenverkeerswet 1994): alle 'houtopstanden' (art. 4:10 lid 1 onder a: 'een solitaire boom, een of meerstammig'), particulier en openbaar, vanaf 30 cm diameter en op kavels vanaf 500 m2. Buiten de bebouwde kom: alleen 'cascowaarden' (lijnvormige landschapselementen op de cascokaart; kaart niet ingezien). Hele gemeente.",
+ "uitzonderingen": "Kavel kleiner dan 500 m2 (ruime tuin-/perceeluitzondering, D-correctie -1; geldt niet voor herplantbomen en cascowaarden); diameter kleiner dan 30 cm; buiten de bebouwde kom (behalve cascowaarden); populieren/wilgen als wegbeplanting of eenrijige beplanting langs landbouwgrond (niet geknot); vruchtbomen en windschermen om boomgaarden; fijnsparren als kerstbomen; kweekgoed; dunning naar oordeel van de bomenconsulent; spoed of direct gevaar met toestemming van de burgemeester (lid 4).",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem. Het Uitgiftebeleid noemt een 'lijst met waardevolle bomen' uit het Bomenbeleid (2017), maar de APV verwijst daar niet naar en de lijst is niet in het dossier of op de site ingezien; niet nodig voor D.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'De vergunning kan worden geweigerd dan wel onder voorschriften of beperkingen worden verleend in het belang van:' a. natuur- en milieuwaarde, b. landschappelijke waarde, c. waarde voor stads- en dorpsschoon, d. cultuurhistorische waarde, e. het in stand houden van het structuurgroen, f. cascowaarden.",
+ "herplantplicht": "Art. 4:12 lid 1: 'Het bevoegd gezag kan een her-plantplicht of her-plantvergoeding opleggen onder nader te stellen voorschriften.' Lid 2: vergoeding 'is € 180,00 per boom'; herplant van 'een houtopstand met een stamomtrek van ten minste 12-14 cm gemeten op 1,00 meter boven het maaiveld'. Het Uitgiftebeleid (raadsbesluit, par. 5.3) zegt: 'Als bomen worden gekapt geldt in principe een herplantplicht en herplantver-goeding.'",
+ "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid, geen plicht), het bevoegd gezag (college) beslist per geval, 'her-plantplicht of her-plantvergoeding' (betalen kan dus in plaats van planten). Beleid: 'in principe' en 'tenzij in overleg anders is bepaald' (alleen voor de stamomtrek van de nieuwe bomen). Herplant na illegale kap: niet geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets specifieks geregeld. APV art. 6:1 lid 1 en 2 noemen art. 4:12 niet; art. 6:1 lid 3 wijst alleen 'artikel 4:11, eerste lid' aan voor de WED ('als sprake is van een omgevingsvergunningplichtige activiteit'). Art. 1:4 lid 2 ('verplicht ... voorschriften en beperkingen na te komen') is volgens lid 3 'niet van toepassing op een omgevingsvergunning'. Alleen het algemene instrumentarium (bestuursdwang, dwangsom) blijft.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via APV 6:1 lid 3: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of volgens de artikelen 2:10, 2:11 2:12, eerste lid en artikel 4:11, eerste lid van deze verordening, als sprake is van een omgevingsvergunningplichtige activiteit'; ook via Ow 5.1 omdat de leges art. 2.14 het vellen een omgevingsplanactiviteit noemt. Geen eigen strafbepaling voor 4:11 en geen bestuurlijke boete voor kappen gevonden.",
+ "procedure": "Leges € 75,00 (Legesverordening 2026 art. 2.14, CVDR751802_2). Art. 4:11 lid 1: 'Deze vergunning is maximaal 3 jaar geldig. Op deze vergunning is paragraaf 4.1.3.3 Awb van toepassing' (positieve fictieve beschikking). APV art. 1:2 (beslistermijn 8 weken) is niet van toepassing op een omgevingsvergunning. Bezwaar en beroep volgens de Awb (niet apart geregeld in de bronnen).",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "status": "ok",
+ "ontbrekend": "Beleidsregel 'de cascobenadering in Noordoost Twente' en de cascokaart (art. 4:10 lid 1 onder e, art. 4:12 lid 2 onder c) niet in het dossier of ingezien; Bomenbeleid 2017 en de lijst met waardevolle bomen niet ingezien; omgevingsplan (tijdelijk deel, DSO) niet ingezien (wacht op DSO-key). Geen invloed op de puntschatting van D.",
+ "artikelnummers": [
+  "APV 4:10",
+  "APV 4:11",
+  "APV 4:12",
+  "APV 6:1 lid 3",
+  "APV 1:1 lid a",
+  "APV 1:2",
+  "APV 1:4",
+  "Leges 2026 art. 2.14",
+  "Uitgiftebeleid Openbaar Groen par. 5.3",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D2: drempel diameter 30 cm x 3,14 = ca. 94 cm omtrek (klasse 60-100 cm, D3), min 1 voor de ruime perceeluitzondering 'staat op een kavel die kleiner is dan 500 m²' (art. 4:11 lid 2 onder a; kavel is 'een samenhangend stuk grond dat één bepaalde vorm van gebruik heeft', art. 4:10 lid 1 onder c) = D2. Buiten de kom alleen cascowaarden (aangewezen structuren, hooguit D2); het hoogste deel is dus D2.",
+  "W2 (doorslaggevend, art. 4:11 lid 3): 'De vergunning kan worden geweigerd dan wel onder voorschriften of beperkingen worden verleend in het belang van:' natuur-, landschaps-, dorpsschoon- en cultuurhistorische waarden.",
+  "H1 met bereik 1-2: verordening art. 4:12 lid 1 zegt 'kan' (H1). Het raadsbesluit Uitgiftebeleid Openbaar Groen (CVDR622978_1, geldend, par. 5.3) zegt 'Als bomen worden gekapt geldt in principe een herplantplicht en herplantver-goeding' (in beginsel = H2), maar de passage staat in een beleidsstuk over de uitgifte van groen, de herplantvergoeding van € 180 geldt volgens dat stuk alleen 'wanneer de aangevraagde boom op gemeentegrond staat', en het Bomenbeleid 2017 zelf is niet ingezien. Puntschatting daarom op de verordening (H1), maximum H2.",
+  "S1 zonder bereik: WED via APV 6:1 lid 3 en leges art. 2.14 (omgevingsplanactiviteit). Geen bestuurlijke boete.",
+  "Het Omgevingsplan (CVDR696205_2, 2024-05-28) bevat alleen aanvraagvereisten (art. 22.299); de kapregel staat in de APV, die via leges art. 2.14 als omgevingsplanactiviteit werkt. Het tijdelijk deel van het omgevingsplan is niet ingezien.",
+  "Boom A (omtrek 80 cm = ca. 25 cm diameter) en boom B (40 cm = ca. 13 cm): beide onder de drempel van 30 cm diameter en bovendien op een perceel van ca. 300 m2 (kleiner dan 500 m2): geen vergunning nodig.",
+  "Subsidieverordening Stimulering Vergroenen en Klimaatadaptatie (CVDR727981_1) art. 7: subsidie voor maximaal twee bomen per perceel 'voor zover er geen sprake is van een herplantplicht'; dit is geen kapregel en telt niet mee."
+ ],
+ "modelsignalen": [
+  "Een perceeluitzondering (kavel < 500 m2) naast een drempel van 30 cm diameter: de aftrek van 1 maakt D2, terwijl de drempel zelf al bijna D3 is (94 cm, grens 100 cm). Kleine verschillen in drempel of kavelgrens geven grote sprongen in D.",
+  "Een herplantzin in een beleidsstuk over de uitgifte van openbaar groen ('in principe een herplantplicht'): het model zegt niet of zo'n passage als beleidsregel voor kap telt. Hier als bereik 1-2 behandeld."
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "provincie": "Noord-Brabant",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "herplant_betalen_als_alternatief": "nee",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "status": "ok",
+ "gm_code": "GM1709",
+ "gemeente": "Moerdijk",
+ "brondocument": "APV gemeente Moerdijk, afd. 4.3 art. 4:10 en 4:11 (CVDR681002_3), art. 6:1; Legesverordening 2026 art. 2.30 (CVDR751442_1); Beleidsregel dwangsommen en bestuurlijke boetes 2026 (CVDR761469_1); Omgevingsplan art. 22.299 (CVDR696485_6); Beschermde bomen lijst Gemeente Moerdijk (PDF)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR681002/3 ; https://lokaleregelgeving.overheid.nl/CVDR751442/1 ; https://lokaleregelgeving.overheid.nl/CVDR761469/1 ; https://www.moerdijk.nl/app/uploads/2025/02/Beschermde-Bomen-Lijst.pdf",
+ "datum_geldigheid": "APV CVDR681002_3 geldend vanaf 2024-12-24 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 3 per 2024-12-24. Legesverordening 2026 per 2025-12-25. Beleidsregel dwangsommen/boetes per 2026-05-07.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR751442_1) art. 2.30 noemt het vellen 'welke is vermeld op de “Beschermde bomen lijst Gemeente Moerdijk” in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten; ook WED-aanwijzing in APV 6:1 lid 2.",
+ "praktijkcontrole": "Sinds 2025: 14 bekendmakingen op titel, allemaal verleende vergunningen (geen weigeringen), o.a. gmb-2026-196858 (2 bomen) en gmb-2026-491525 (5 bomen). De steekproef noemt geen grondslag. Het aantal verleende vergunningen is voor een lijstsysteem opvallend, maar de lijst bevat ca. 150 particuliere regels; bomen op gemeentegrond zijn niet te onderscheiden.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de Bomenlijst staan (art. 4:11 lid 2).",
+ "drempel": "Geen drempel: alleen houtopstanden op de Bomenlijst, ongeacht omvang.",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Hele gemeente, publiek en particulier, alleen lijstbomen. 'Vellen' omvat ook het voor de eerste maal knotten/kandelaberen (art. 4:10 lid 2).",
+ "uitzonderingen": "Art. 4:11 lid 4: verbod niet van toepassing 'als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Verder is alleen de iepziekte-aanschrijving (art. 4:12a) geregeld. Bomen die niet op de lijst staan zijn vrij.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid.",
+ "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen financiele compensatie. Geen vastgestelde beleidsregel herplant in CVDR gevonden (de Beleidsregel geveltuinen en boomspiegels gaat over gemeentegrond).",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Geen verplichte storting.",
+ "herplant_type": "kan",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets kap-specifiek geregeld. APV art. 1:4 is volgens lid 3 niet van toepassing op een omgevingsvergunning. Algemene strafbepaling art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Beleidsregel dwangsommen 2026 tabel I.B.7 noemt voor omgevingsplanactiviteiten, waaronder 'rooien van houtopstanden, herplanten etc.', 'Minimaal € 2.500,- ineens + maatwerk naar aard, ernst en omvang' (herstelmaatregel, last onder dwangsom; geen herplant-specifieke regel).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit en artikel 4:11, tweede lid.' Daarnaast WED via Ow 5.1 (leges art. 2.30). Geen bestuurlijke boete voor kappen; de beleidsregel noemt bij werkzaamheden zonder vergunning alleen een dwangsom 'ineens'.",
+ "procedure": "Aanvraag omgevingsvergunning via het Omgevingsloket. Leges EUR 54,45 (art. 2.30 leges 2026). Art. 4:12b: vergunning kan een geldigheidsduur van een half jaar krijgen. Bezwaartermijn volgens gemeentepagina 6 weken. Bezwaar en beroep niet apart gelezen.",
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 185,
+ "lijst_aantal_particulier": 150,
+ "lijst_telling": "ca. 185 regels (adressen met boom of bomen) op de 'Beschermde bomen lijst Gemeente Moerdijk', waarvan ca. 150 met eigenaar 'particulier' (PDF op gemeentelijke website, geplaatst 2025-02; gelinkt vanaf https://www.moerdijk.nl/direct-regelen/wonen-bouwen-omgeving/verbouwen-slopen/bomen-kappen/). Eenheid: regel; een regel kan meerdere bomen omvatten (bijv. een bomenrij). Telling benaderd door tekstextractie. De lijst bevat ook bomen in achtertuinen.",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "ontbrekend": "Vaststellingsbesluit van de Bomenlijst niet in CVDR gevonden. Geen aparte beleidsregel herplant. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV art. 4:10, 4:11, 4:12b, 6:1, 1:4, 1:8",
+  "Legesverordening 2026 art. 2.30 (CVDR751442_1)",
+  "Beleidsregel CVDR761469_1 tabel I.B.7",
+  "Omgevingsplan art. 22.299 (CVDR696485_6)"
+ ],
+ "opmerkingen": [
+  "D1: lijstsysteem; de lijst is ingezien en bevat particuliere bomen (ca. 150 van ca. 185 regels), ook in achter- en voortuinen.",
+  "W2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en andere waarden (art. 4:11 lid 3).",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 5). De lijst noemt bij enkele gerooide bomen een 'herplantplicht' per besluit; dat is geen vast voorschrift.",
+  "S1: WED-aanwijzing in de APV, art. 6:1 lid 2 (verwijst naar 'artikel 4:11, tweede lid').",
+  "Oudere regeling: APV van 7 februari 2019 is ingetrokken (art. 6:4 lid 3); art. 6:5 laat alleen overeenkomstige besluiten doorwerken. Geen aparte kapverordening van een voormalige gemeente (Klundert, Zevenbergen, Fijnaart) in CVDR gevonden. Geen strengere oude regel.",
+  "Gemeentepagina: 'Als de te kappen boom niet op de lijst voorkomt, heeft u geen vergunning nodig.'"
+ ],
+ "modelsignalen": [
+  "Beleidsregel dwangsommen en bestuurlijke boetes 2026 (Moerdijk) noemt bij werkzaamheden zonder omgevingsvergunning 'Minimaal € 2.500,- ineens'; dat is een dwangsom ineens, geen bestuurlijke boete in de regeling. Het model kent daar geen score voor; gescoord als S1."
+ ]
+}

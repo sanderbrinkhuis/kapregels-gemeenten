@@ -1,0 +1,27 @@
+{
+  "gemeente": "Tiel",
+  "gm_code": "GM0281",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Tiel",
+  "zoeknaam_bekendmakingen": "Tiel",
+  "opgehaald_op": "2026-11-15T14:09:56+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Tiel\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 51,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Tiel\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 97,
+  "geldende_regelingen": 15,
+  "geldend_met_kapartikelen": [
+    "CVDR304414_1",
+    "CVDR661585_1",
+    "CVDR696254_2",
+    "CVDR734748_1",
+    "CVDR754123_1"
+  ],
+  "bekendmakingen_besluiten": 30,
+  "bekendmakingen_aanvragen": 49,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

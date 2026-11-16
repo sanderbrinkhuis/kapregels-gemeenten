@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0385/2026/vbb-omgevingsplan-20260202-julianaweg",
+    "titel": "Voorbereidingsbesluit omgevingsplan bedrijventerrein Julianaweg",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0385/2026/vbb-omgevingsplan-20260202-julianaweg/nld@2026-02-03;1",
+    "beginGeldigheid": "2026-02-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0385_2026_vbb_omgevingsplan_20260202_julianaweg?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0385/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Edam-Volendam",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0385/2020/omgevingsplan/nld@2026-02-17;1",
+    "beginGeldigheid": "2026-02-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0385_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0385/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Edam-Volendam",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0385/2026/omgevingsvisie/nld@2026-07-16;1",
+    "beginGeldigheid": "2026-07-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0385_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:09Z"
+  }
+]

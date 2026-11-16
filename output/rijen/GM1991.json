@@ -1,0 +1,91 @@
+{
+  "gm_code": "GM1991",
+  "gemeente": "Maashorst",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Bomenverordening gemeente Maashorst (CVDR710558_1) art. 1, 8, 9, 10, 12-16, 24, 26, 27 en toelichting; Uitvoeringsregels bomen gemeente Maashorst (CVDR710576_1) hfst. 3; Lijst en kaarten beschermde houtopstand gemeente Maashorst 2023 (CVDR710589_1); APV Maashorst (CVDR767859_1) art. 4:10, 4:11, 6:1; Leges 2026 (CVDR763434_1) rij 2.30; Omgevingsplan (CVDR696545_2) art. 22.299; Uitvoering- en Handhavingsstrategie 2024-2029 (CVDR702285_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR710558/1",
+  "datum_geldigheid": "Bomenverordening CVDR710558_1 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "Bomenverordening: versie 1 per 2024-01-01, daarna niet gewijzigd. Uitvoeringsregels: versie 1 per 2024-01-01. APV Maashorst: versie per 2026-10-15 (kapartikelen 4:10 en 4:11 'opgenomen in de Bomenverordening', geen eigen tekst).",
+  "juridische_plaats": "Losse Bomenverordening (CVDR710558_1); de APV verwijst er alleen naar. Werkt als omgevingsplanactiviteit volgens leges 2026 rij 2.30 ('een omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 299 bekendmakingen op volledige tekst (benadering, kan niet-kapbesluiten bevatten), waarvan 129 besluiten, 160 aanvragen en 3 weigeringen volgens titel. Steekproef van 10 besluiten: geen grondslagverwijzing. Het aantal past bij een breed regime met stamdiameterdrempel.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van elke houtopstand (art. 8 lid 1), behalve bomen met een stamdiameter van 41 cm of minder; bomen op de beschermde bomenkaart (monumentaal, toekomstbomen, groenstructuren) en herplantbomen altijd vergunningplichtig (art. 13).",
+  "drempel": "Stamdiameter van meer dan 41 cm op 130 cm hoogte (art. 8 lid 2 onder a); omgerekend omtrek 41 x 3,14 = ca. 129 cm. De toelichting zegt 'ongeveer gelijk aan een stamomtrek van 130 cm'.",
+  "omtrek_cm": 129,
+  "meethoogte": "1,30 m (130 cm boven het maaiveld)",
+  "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, openbaar en particulier, ook tuinen en erven. Toelichting art. 2: 'De gemeentelijke bomenverordening is van toepassing op het hele grondgebied, dus ook buiten de bebouwde kom.' Toelichting art. 8: 'Dit zijn alle bomen in de gemeente met een stamdiameter van meer dan 41 cm'. Daarnaast beschermde bomenkaart (art. 12): monumentale bomen, toekomstbomen en groenstructuren, ongeacht omvang.",
+  "uitzonderingen": "Art. 8 lid 2: niet voor bomen van 41 cm diameter of minder (tenzij groenstructuur of herplantboom), aanschrijving, noodkap, afgestorven gemeentelijke houtopstand, eerder geknotte bomen, 'bedrijfsmatig geteelde fruit- of notenbomen, kerstbomen tot 20 jaar en bomen uit de boomkwekerijteelt', plantgezondheid. Geen tuin-, perceel-, soort- of aantalsuitzondering voor gewone particuliere bomen: geen correctie.",
+  "weigeringsgronden": "Art. 9 lid 1: 'De omgevingsvergunning voor het vellen van een boom kan worden geweigerd als de belangen van het vellen van de boom niet opwegen tegen de belangen van behoud van de boom.' Lid 2: weigering kan ook bij lichte tot matige overlast, zonnepanelen of overlast door dieren; toetsing met beoordelingsformulier (lid 3, bijlage niet in het dossier). Voor beschermde bomen (art. 14 lid 1): 'kan alleen worden verleend wanneer' zwaarwegend maatschappelijk belang, ernstige schade of levensverwachting < 5 jaar of noodkap; dat is een strenger regime voor lijstbomen en telt alleen in de opmerkingen.",
+  "herplantplicht": "Art. 10 lid 3: 'Het college kan een herplant- en instandhoudingsplicht opleggen, volgens de eisen zoals vastgesteld in de Uitvoeringsregels bomen gemeente Maashorst.' Uitvoeringsregels 3.1: voor gewone vergunningplichtige bomen die door noodkap of overmacht zijn neergegaan geldt 'meestal een herplantplicht en instandhoudingsplicht'; 'bij het vellen van monumentale en toekomstbomen altijd een herplantplicht'. Trapsgewijs: herplant op dezelfde locatie, anders elders, anders 'kan opgelegd worden dat een vergoeding wordt gestort in het gemeentelijk bomenfonds' (vergoeding naar boomwaarde, bevoegdheid). Toelichting art. 10: of een herplantplicht geldt 'hangt af van de beoordeling volgens het beoordelingsformulier'. Na illegale kap (art. 16): 'legt het bevoegd gezag een herplantplicht op en een verplichting tot financiële compensatie op basis van de boomwaarde'.",
+  "herplant_ontsnapping": "Voor gewone bomen: 'kan' (bevoegdheid van het college per geval, 'meestal' in de uitvoeringsregels). Uitweg bij onmogelijke herplant: storting in het bomenfonds, die 'kan' worden opgelegd. Na illegale kap: toelichting art. 16 'Hier zijn geen uitzonderingen op mogelijk' (herplant op dezelfde plek).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Art. 24 lid 1 (strafbaarstelling) noemt alleen overtreding van art. 8 lid 1, art. 13 lid 1 en art. 21 lid 1; niet het niet nakomen van een herplantvoorschrift. Art. 24 lid 2: strafvervolging 'laat onverlet' het 'opleggen van herstelmaatregelen in de vorm van een herplant- en instandhoudingsplicht'. Uitvoeringsregels 3.2: als de herplante boom binnen de nazorgperiode van 3 jaar verdwijnt, 'wordt een vergoeding van € 1.500,- betaald door de vellende partij aan het bomenfonds en dient opnieuw te worden voldaan aan de herplantplicht'. Verder alleen algemeen instrumentarium (niets specifiek geregeld).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Eigen strafbepaling art. 24 lid 1: 'wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie ... Bij de strafmaatbepaling kan rekening gehouden worden met de boomwaarde.' Geen WED-aanwijzing in de verordening zelf; WED via de Omgevingswet door leges rij 2.30 (omgevingsplanactiviteit art. 5.1 lid 1 onder a Ow). Na illegale kap art. 16: herplantplicht plus financiële compensatie naar boomwaarde; toelichting art. 16: 'Daarnaast betaalt de vellende partij een boetebedrag' (boomwaarde minus herplantkosten, gestort in het bomenfonds); art. 1 'Bomenfonds : hierin worden financiële herplantverplichtingen, schadevergoedingen en boetes gestort'. Een bestuurlijke boete staat niet letterlijk in een artikel. Handhavingsstrategie 2024-2029 noemt 'Vellen/illegale kap van houtopstanden' als aandachtspunt, zonder boetebeleid.",
+  "procedure": "Aanvraag omgevingsvergunning (aanvraagvereisten art. 6); art. 18: 'Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is niet van toepassing' (geen vergunning van rechtswege); vergunning vervalt na een jaar (art. 19); beslistermijn volgens Ow/Awb; leges rij 2.30 (bedrag niet in het dossier); bezwaar en beroep volgens Awb (niet apart nagegaan).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 3
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Niet van toepassing: breed regime op stamdiameter bepaalt D. Naast het brede regime geldt de beschermde bomenkaart (art. 12; overgangsperiode art. 26: lijsten en kaarten van de voormalige gemeenten Landerd en Uden, CVDR710589_1). Die lijst en kaarten zijn niet ingezien (lijst Landerd in CVDR leeg, kaarten Uden als externe bijlage).",
+  "status": "ok",
+  "ontbrekend": "Beoordelingsformulier vellen (bijlage bij de Uitvoeringsregels, extern) niet in het dossier: bepaalt per geval de weging en of een herplantplicht wordt opgelegd. Beschermde bomenkaart en bebouwingscontour houtkap (kaarten) niet ingezien. Leges-bedrag voor rij 2.30 niet in het dossier.",
+  "artikelnummers": [
+    "Bomenverordening art. 1",
+    "Bomenverordening art. 8",
+    "Bomenverordening art. 9",
+    "Bomenverordening art. 10",
+    "Bomenverordening art. 12-16",
+    "Bomenverordening art. 18",
+    "Bomenverordening art. 24",
+    "Bomenverordening art. 26-27",
+    "Uitvoeringsregels bomen hfst. 3 (3.1, 3.2)",
+    "APV Maashorst art. 4:10, 4:11, 6:1",
+    "Leges 2026 rij 2.30",
+    "Omgevingsplan art. 22.299",
+    "Handhavingsstrategie 4.2.4"
+  ],
+  "opmerkingen": [
+    "D2: 'Het is verboden om zonder omgevingsvergunning een houtopstand te vellen.' (art. 8 lid 1) met uitzondering van 'Bomen met een stamdiameter van 41 centimeter of minder gemeten op 130 centimeter vanaf het maaiveld' (art. 8 lid 2 onder a). Omtrek 41 x 3,14 = 128,7 cm, dus hoge drempel (> 100 cm). Hele gemeente, geen tuinuitzondering. De toelichting spreekt van 'stamomtrek van 130 cm'; scoor op het artikel.",
+    "Voorbeeldbomen: boom A (80 cm omtrek, ca. 25 cm diameter) en boom B (40 cm omtrek, ca. 13 cm diameter) liggen onder de drempel van 41 cm diameter, dus geen vergunning nodig, tenzij de boom op de beschermde bomenkaart staat of onder een herplantplicht valt.",
+    "W2: 'De omgevingsvergunning voor het vellen van een boom kan worden geweigerd als de belangen van het vellen van de boom niet opwegen tegen de belangen van behoud van de boom.' (art. 9 lid 1). Dit geldt voor de meeste gedekte bomen. Beschermde bomen: art. 14 lid 1 'kan alleen worden verleend wanneer' een van de uitzonderingsgevallen, dus strenger (W3), alleen genoteerd.",
+    "H1, maximum 2: 'Het college kan een herplant- en instandhoudingsplicht opleggen' (art. 10 lid 3, tekst/CVDR710558_1.md). Het vastgestelde beleid (Uitvoeringsregels 3.1) zegt 'meestal een herplantplicht en instandhoudingsplicht' voor neergegane vergunningplichtige bomen en 'altijd' voor monumentale en toekomstbomen. 'Meestal' in beleid terwijl de regeling 'kan' zegt geeft H1 met maximum 2. Een storting in het bomenfonds 'kan' worden opgelegd en verhoogt H niet.",
+    "herplant_na_illegale_kap: verplicht. Art. 16: 'legt het bevoegd gezag een herplantplicht op en een verplichting tot financiële compensatie op basis van de boomwaarde.' De verordening zegt dus 'legt op', geen 'kan'; er is geen conflict met een beleidsregel. Telt volgens het model bij S, niet bij H.",
+    "S3 (met bereik 1-3): art. 16 legt na illegale kap een verplichting tot financiële compensatie op basis van de boomwaarde op, en de toelichting noemt dit 'een boetebedrag' dat in het bomenfonds gaat. De artikeltekst zelf zegt 'financiële compensatie', niet 'boete'. Vergelijkbaar met Maasdriel (geldelijke boete ter hoogte van de vervangingswaarde, S3). Minimum 1 (strafbepaling art. 24, WED via Ow); maximum 3.",
+    "Fusie: Bomenverordening art. 27 lid 3: 'Op de dag dat deze verordening in werking treedt, vervallen 'Bomenverordening gemeente Landerd 2020' en 'Bomenverordening gemeente Uden'.' Lid 4: lopende aanvragen blijven onder de oude verordeningen. Art. 26: tot de eerste vaststelling van de beschermde bomenkaart gelden de beschermde bomen van Landerd en Uden als kaart. De oude verordeningen werken alleen via dit overgangsrecht door (bomenkaart, lopende aanvragen), niet als eigen regime. Leges 2026 rij 2.30 verwijst nog naar 'de bomenverordening van de gemeente Landerd of Uden' in plaats van de Bomenverordening Maashorst: foute verwijzing, genoteerd (S1 via omgevingsplanactiviteit blijft).",
+    "APV Maashorst (CVDR767859_1) art. 4:10 en 4:11: 'opgenomen in de Bomenverordening', zonder eigen tekst. APV art. 6:1 is een algemene strafbepaling. De Verordening Fysieke Leefomgeving (CVDR756116_1) bevat geen kapregels.",
+    "De bebouwingscontour houtkap (art. 2) is alleen relevant voor de bevoegdheid provincie/gemeente; de verordening geldt op het hele grondgebied (toelichting art. 2).",
+    "Art. 4 afstand erfgrens en art. 20 (openbaar groen) gaan niet over kap door particulieren."
+  ],
+  "modelsignalen": [
+    "Art. 16 en de toelichting: verplichte financiële compensatie naar boomwaarde na illegale kap, in de toelichting 'boetebedrag' genoemd, in het artikel 'financiële compensatie'. Het model kent S3 alleen voor een 'geldelijke boete' in de regeling zelf; hier S3 met bereik 1-3 gekozen. Beslis of dit S2/S3 telt.",
+    "Drempel in diameter (41 cm) tegen toelichting in omtrek (130 cm): artikel wint (omtrek 128,7 cm), met hetzelfde resultaat D2.",
+    "Fusiegemeente met een nieuw geldend stelsel sinds 2024-01-01; leges verwijzen nog naar de oude verordeningen van Landerd en Uden. Model kent geen regel voor foute verwijzing naar vervallen verordening naar naam (alleen verkeerd artikel).",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: verplichte 'financiële compensatie op basis van de boomwaarde' na illegale kap (art. 16) is herstel: S1; toelichting noemt het 'boetebedrag', dus maximum 3 (was S3, 1-3)."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM0627",
+  "gemeente": "Waddinxveen",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene Plaatselijke Verordening Waddinxveen 2009, afdeling 3 Het bewaren van houtopstanden (art. 4:10 en 4:11), art. 6:1 Strafbepaling, CVDR654493_6; leges 2026 art. 2.30, CVDR750068_2; omgevingsplan art. 22.299 (alleen aanvraagvereisten), CVDR696370_2; Omgevingsprogramma Duurzame Leefomgeving 2.2.3, CVDR740775_1; Beleidsplan Veiligheid en Handhaving 2019-2022, CVDR620115_1 en CVDR661468_1. Niet in het dossier: de 'Waardevolle bomenlijst Waddinxveen' (januari 2016, in 2025 geactualiseerd volgens het programma).",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR654493/6",
+  "datum_geldigheid": "APV CVDR654493_6 geldend van 2026-03-13 t/m heden; leges CVDR750068_2 geldend van 2026-01-16 t/m heden; omgevingsplan CVDR696370_2 geldend van 2024-04-17 t/m heden",
+  "laatste_wijziging": "APV versie 6 per 2026-03-13 (wijzigt o.a. art. 4:10 en 4:11); omgevingsplan versie 2 per 2024-04-17",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (met nog niet ingevulde sjabloontekst: 'bedoeld in [artikel [4:11] van de Algemene plaatselijke verordening OF artikel […] van de [citeertitel bomenverordening]] in samenhang met artikel 22.8 van de Omgevingswet') en de APV wijst zelf de WED aan (art. 6:1 lid 4, alleen voor 4:11 lid 1). Het omgevingsplan bevat alleen aanvraagvereisten (art. 22.299).",
+  "praktijkcontrole": "Slechts 4 bekendmakingen sinds 2025 (zoekmethode titel): 4 aanvragen, 0 besluiten, 0 weigeringen volgens titel. Te weinig om iets te concluderen; mogelijk worden kapbesluiten niet (alle) in het Gemeenteblad gepubliceerd of met een andere titel (open punt). Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 38 bekendmakingen sinds 1-1-2025, waarvan 19 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor houtopstanden met omtrek van meer dan 1,00 m, en voor alle houtopstanden op de waardevolle bomenlijst (art. 4:11 lid 1 en 2)",
+  "drempel": "Art. 4:11 lid 2: 'voor zover deze een omtrek hebben van meer dan 1,00 meter op een hoogte van 1,30 meter boven maaiveld'",
+  "omtrek_cm": 100,
+  "meethoogte": "1,30 m (omtrek in de bron, geen omrekening)",
+  "reikwijdte": "Binnen de bebouwde kom hele gemeente (lid 2); buiten de kom geldt het verbod volgens lid 3 alleen voor 'a. houtopstanden op erven en in tuinen; b. houtopstanden welke een zelfstandige eenheid vormen, hetzij geen groter oppervlakte beslaan dan 10 are; c. in geval van rijbeplanting gerekend over het totaal aantal rijen, niet meer bomen omvatten dan 20.' Dus ook tuinen en erven buiten de kom vallen onder de drempel van meer dan 1,00 m. Particulier en openbaar. Daarnaast lid 1: de lijst van waardevolle bomen, ongeacht omvang.",
+  "uitzonderingen": "Art. 4:11 lid 4: 'a. dode bomen; b. het periodiek vellen van hakhout ter uitvoering van regulier onderhoud, of periodiek knotten of kandelaberen als cultuurmaatregel bij daarvoor geschikte bomen; c. risicobomen.' Lid 5: spoedeisend belang of direct gevaar met toestemming van de burgemeester. Alleen gangbare uitzonderingen; geen tuin-, perceel-, soort- of aantalsuitzondering, dus geen correctie.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Waardevolle bomenlijst niet ingezien (niet in het dossier; een poging via de gemeentelijke website leverde niets op). Het beleidsplan noemt de lijst 'Waardevolle bomenlijst Waddinxveen (gemeente bomen en particuliere bomen) januari 2016' en het Omgevingsprogramma zegt dat het ook 'bomen van particulieren' kunnen zijn. Geen aantallen bekend. De lijst bepaalt D niet, omdat het brede regime (lid 2) breder is.",
+  "weigeringsgronden": "APV art. 4:11 lid 6: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.' W2. Het Omgevingsprogramma Duurzame Leefomgeving 2.2.3 noemt een verhoogde beschermingsstatus voor onder meer bomen op de Waardevolle Bomenlijst ('kap alleen mogelijk is als een onafhankelijk onderzoek aantoont dat de boom onveilig is of onherstelbaar ziek'), alleen voor lijstbomen; telt niet voor W.",
+  "herplantplicht": "APV art. 4:11 lid 7: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' H1. Beleid: het Omgevingsprogramma regelt herplant alleen voor bomen in de openbare ruimte ('Voor iedere gekapte boom in de openbare ruimte komt een nieuwe boom terug'), dat telt niet voor particulieren.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het bevoegd gezag, per geval). Ook 'Ook kan het bevoegd gezag (deels) in plaats van de herplantplicht een andere vorm van compensatie opleggen.' (betaling in plaats van herplant 'kan'). Herplant na illegale kap: niet geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets specifieks over niet nakomen van een herplantplicht. APV art. 1:4 lid 2 ('is verplicht de daaraan verbonden voorschriften en beperkingen na te komen') is niet van toepassing op omgevingsvergunningen (art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een omgevingsvergunning.'). Art. 6:1 lid 1 straft 'Overtreding van het bij of krachtens de in deze verordening opgenomen artikelen' met 'hechtenis van ten hoogstedrie maanden of geldboete van de tweede categorie', maar noemt art. 4:11 lid 7 niet.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Eigen strafbepaling APV art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete tweede categorie). WED-aanwijzing: art. 6:1 lid 4: 'zijn overtredingen van het bepaalde in de artikelen 2:10, zesde lid, 2:11, tweede lid, 2:12, eerste lid en 4:11, eerste lid strafbaar gesteld in artikel 1a van de Wet op de economische delicten.' Dit noemt alleen 4:11 lid 1 (lijst), niet lid 2 (drempel). Daarnaast geldt WED via de Omgevingswet door leges art. 2.30 (omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'). Geen bestuurlijke boete en geen herplantplicht na illegale kap: S1.",
+  "procedure": "Leges 2026 art. 2.30: € 113,10, vermeerderd met € 6,10 per boom, maximumbedrag € 187,50 (CVDR750068_2; de tekst bevat nog sjablonen tussen haken). Beslistermijn APV art. 1:2 is 'niet van toepassing op een aanvraag om een omgevingsvergunning' (lid 3), dus de Wabo/Awb-termijn geldt. Art. 4:12 Vergunning van rechtswege: 'Vervallen'. Aanvraagvereisten omgevingsplan art. 22.299. Publicatie, bezwaar en beroep: niet in de kapartikelen geregeld.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "status": "ok",
+  "ontbrekend": "Waardevolle bomenlijst (januari 2016, geactualiseerd in 2025) niet ingezien; dat verandert D, W en H voor gewone tuinbomen niet. Weinig bekendmakingen (4) sinds 2025: praktijkcontrole kan niets bevestigen.",
+  "artikelnummers": [
+    "APV 1:1",
+    "APV 1:2",
+    "APV 1:4",
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:12",
+    "APV 6:1",
+    "Leges 2.30",
+    "Omgevingsplan 22.299",
+    "Omgevingsprogramma Duurzame Leefomgeving 2.2.3"
+  ],
+  "opmerkingen": [
+    "D2: art. 4:11 lid 2 'een omtrek hebben van meer dan 1,00 meter' (meer dan 100 cm is D2, conform besluit). Buiten de bebouwde kom vallen ook erven en tuinen onder het verbod (lid 3 onder a); geen hogere D buiten de kom.",
+    "W2: 'De vergunning kan worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden. Het Omgevingsprogramma stelt een strenger regime voor lijstbomen en bomen nabij EVZ en stapstenen (alleen vermeld).",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleid voor herplant door particulieren gevonden; het Omgevingsprogramma gaat alleen over bomen in de openbare ruimte.",
+    "S1: art. 6:1 lid 4 wijst de WED aan voor 4:11 lid 1 en leges 2.30 maakt het vellen een omgevingsplanactiviteit (WED via Ow 5.1). Art. 6:1 lid 4 noemt lid 2 (de drempelregel) niet; lid 2 valt onder de eigen strafbepaling art. 6:1 lid 1. Zonder de bijzondere verwijzing blijft S1 bestaan (eigen strafbepaling).",
+    "Het Beleidsplan Veiligheid en Handhaving 2019-2022 (CVDR620115_1 en CVDR661468_1, beide nog als geldend in CVDR) geeft kap 'Laag' als prioriteit en zegt: 'De afgelopen jaren zijn er weinig tot geen meldingen of constateringen geweest rond illegale kap.' Het bevat geen boete- of herplantbeleid.",
+    "Het omgevingsplan (CVDR696370_2, versie 2 per 2024-04-17) bevat voor kap alleen aanvraagvereisten (art. 22.299), geen eigen kapverbod; het verbod staat in de APV.",
+    "Voorbeeldbomen A (omtrek 80 cm) en B (40 cm) zijn dunner dan 1,00 m omtrek: geen vergunning nodig, tenzij de boom op de waardevolle bomenlijst staat."
+  ],
+  "modelsignalen": [
+    "Waddinxveen: de WED-aanwijzing in APV 6:1 lid 4 noemt alleen 4:11 lid 1 (lijst) en niet lid 2 (drempel van 1,00 m). Advies: S1 laten (eigen strafbepaling art. 6:1 lid 1 en omgevingsplanactiviteit via de leges), conform het besluit over een verkeerde of onvolledige verwijzing; noteer de lacune.",
+    "Waddinxveen: de legesverordening bevat nog sjablooncode tussen haken ('[artikel [4:11] van de Algemene plaatselijke verordening OF artikel […] van de [citeertitel bomenverordening]]') en andere artikelen (2.31, 2.32) zijn ook niet ingevuld. Advies: toch als bewijs voor de omgevingsplanactiviteit tellen omdat 4:11 expliciet wordt genoemd, maar S1 komt ook zonder dit bewijs uit via art. 6:1 lid 1.",
+    "Waddinxveen: slechts 4 bekendmakingen sinds 2025, geen besluiten. Advies: niet als aanwijzing voor een ander regime lezen; vermeld als open punt."
+  ]
+}

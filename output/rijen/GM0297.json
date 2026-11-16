@@ -1,0 +1,74 @@
+{
+ "gm_code": "GM0297",
+ "gemeente": "Zaltbommel",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene Plaatselijke Verordening Zaltbommel 2025 (CVDR738167_1) art. 4:10, 4:11, 6:1; leges 2026 (CVDR752390_1) art. 2.30; Omgevingsplan gemeente Zaltbommel (CVDR696261_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR738167/1",
+ "datum_geldigheid": "2025-04-18 t/m heden",
+ "laatste_wijziging": "2025-04-18 (inwerkingtreding APV 2025; modified-datum 2025-04-18)",
+ "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges 2026 art. 2.30 ('in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan bevat alleen aanvraagvereisten (art. 22.299).",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 13 totaal, 3 besluiten (verleend: 2 essen, 11 bomen op meerdere locaties, 1 boom met parkeerterrein), 0 geweigerd. Weinig besluiten; past bij een lijstsysteem. Zoekmethode op titel mist mogelijk besluiten. Geen grondslag in de besluiten genoemd.",
+ "vergunningplicht": "vergunning, alleen voor bomen op de Bomenlijst: art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.'",
+ "drempel": "geen omtrekdrempel; alleen bomen op de Bomenlijst (art. 4:11 lid 1: 'waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld')",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Hele gemeente, alleen de bomen die op de door het college vastgestelde Bomenlijst staan; lijst niet ingezien, dus niet vast te stellen of er particuliere bomen op staan.",
+ "uitzonderingen": "Art. 4:11 lid 6: toestemming van de burgemeester bij spoedeisend belang voor de openbare orde of direct gevaar. Geen tuinuitzondering (niet relevant bij lijst).",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, waarde voor de leefbaarheid, of strijd met de hoofdgroenstructuur.",
+ "herplantplicht": "Art. 4:11 lid 7: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.'",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, per geval, bevoegd gezag); geen betaling als alternatief genoemd.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Geen specifieke bepaling. Art. 6:1 lid 1: 'Overtreding van het bij of krachtens in deze verordening bepaalde ... worden gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 1:4 (voorschriften bij vergunning) geldt niet voor een omgevingsvergunning (lid 3).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via art. 6:1 lid 3: 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens ... artikel 4:11, tweede lid'. Daarnaast art. 6:1 lid 1 algemene strafbepaling. Geen bestuurlijke boete voor kappen (art. 6:1 lid 4 betreft alleen de Wet veiligheidsregio's).",
+ "procedure": "Leges 2026 art. 2.30: € 247,00 voor omgevingsplanactiviteit vellen houtopstand. Beslistermijn omgevingsvergunning volgens Omgevingswet; APV art. 1:2 geldt niet voor omgevingsvergunningen. Bezwaar en beroep volgens Awb.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien (website zaltbommel.nl: bomenlijst niet gevonden, 2026-11-15)",
+ "status": "ok",
+ "ontbrekend": "De Bomenlijst zelf (art. 4:11 lid 1) is niet gevonden: niet in het dossier en niet via de gemeentelijke website (enkele pagina's geprobeerd, 404 of geen resultaat). Onbekend of er particuliere bomen op staan. Geen beleidsregel over herplant of handhaving gevonden.",
+ "artikelnummers": [
+  "APV Zaltbommel 2025 art. 4:10, 4:11, 1:4, 1:8, 6:1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Lijstsysteem: puntschatting D1, bereik 0-1 omdat de lijst niet is ingezien. Betrouwbaarheid laag.",
+  "W: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en andere waarden = W2.",
+  "H: 'kan een herplantplicht opleggen' = H1.",
+  "S1: WED via art. 6:1 lid 3. De leges 2.30 verwijst naar 'artikel 4:17 van de Algemene plaatselijke verordening' voor het vellen van houtopstand; dat is een foute verwijzing (4:17 is een definitie voor kampeermiddelen; kapregel staat in 4:11). Zie ook 'in samenhang met artikel 22.8 van de Omgevingswet'.",
+  "Art. 4:11 telt in de bron lid 1, 2, 3, 6 en 7 (leden 4 en 5 ontbreken in de tekst); lid 3 sub a eindigt in de bron met 'off' (tikfout in de bron).",
+  "Bekendmakingen: slechts 3 besluiten, 0 geweigerd."
+ ],
+ "modelsignalen": [
+  "Leges verwijst naar een verkeerd artikel (4:17); de regel werkt wel als omgevingsplanactiviteit."
+ ]
+}

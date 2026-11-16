@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0637/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zoetermeer",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0637/2020/omgevingsplan/nld@2024-06-24;1",
+    "beginGeldigheid": "2024-06-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0637/2024/programma-20241025-111259",
+    "titel": "Omgevingsprogramma gemeente Zoetermeer gebied Burgemeester Vernèdepark en Dr. J.W. Paltelaan",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0637/2024/programma-20241025-111259/nld@2025-07-22;1",
+    "beginGeldigheid": "2025-07-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2024_programma_20241025_111259?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0637/2024/programma-20241118-141928",
+    "titel": "Omgevingsprogramma gemeente Zoetermeer Gebied Entree",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0637/2024/programma-20241118-141928/nld@2025-07-24;1",
+    "beginGeldigheid": "2025-07-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2024_programma_20241118_141928?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0637/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Zoetermeer",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0637/2024/omgevingsvisie/nld@2025-11-17;1",
+    "beginGeldigheid": "2025-12-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0637/2025/regeling_20251128141539",
+    "titel": "Volkshuisvestingsprogramma gemeente Zoetermeer",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0637/2025/regeling_20251128141539/nld@2026-02-03;3-0",
+    "beginGeldigheid": "2026-02-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2025_regeling_20251128141539?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0637/2024/programma_vantuyllpark_nbt",
+    "titel": "Omgevingsprogramma gemeente Zoetermeer Gebied Van Tuyllpark en de Noordelijke Bedrijventerreinen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0637/2024/programma_vantuyllpark_nbt/nld@2026-03-27;2",
+    "beginGeldigheid": "2026-03-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2024_programma_vantuyllpark_nbt?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0637/2024/programma-20241014-093902",
+    "titel": "Omgevingsprogramma gemeente Zoetermeer Actieplan Geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0637/2024/programma-20241014-093902/nld@2026-04-01;7",
+    "beginGeldigheid": "2026-04-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0637_2024_programma_20241014_093902?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:23Z"
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM1658",
+  "gemeente": "Heeze-Leende",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Verordening fysieke leefomgeving gemeente Heeze-Leende 2026 (CVDR750289_1) afd. 6.1 (art. 6.1.1 t/m 6.1.3), art. 1, 2.2.2, 2.2.3, 9.1.2; Verordening op de heffing en de invordering van leges 2026 (CVDR748840_1) art. 2.30; Omgevingsplan gemeente Heeze-Leende (CVDR696471_3) art. 22.299; Uitvoerings- en handhavingsstrategie fysieke leefomgeving 2023-2026, herziening januari 2026 (CVDR755681_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR750289/1",
+  "datum_geldigheid": "VFL 2026 (CVDR750289_1) geldend van 2026-01-01 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "VFL 2026: versie 1 per 2026-01-01, daarna niet gewijzigd (vervangt VFL 2024, CVDR712934_1, die per 2026-01-01 is vervallen). Omgevingsplan: versie 3 per 2026-07-02. Leges 2026: versie 1 per 2025-12-05.",
+  "juridische_plaats": "VFL (raadsverordening), werkt als omgevingsplanactiviteit volgens leges 2026 art. 2.30.1 ('in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten, de materiele kapregel staat in de VFL. De oude APV-onderdelen over houtopstanden zijn in de VFL opgenomen (handhavingsstrategie bijlage 5).",
+  "praktijkcontrole": "Sinds 2025: 3 bekendmakingen op titel (2 besluiten, 1 aanvraag, 0 weigeringen volgens titel). Steekproef van 2 besluiten (gmb-2025-392565 en gmb-2025-435563): geen grondslagverwijzing. Titels spreken van 'vellen van houtopstand' op 3 locaties resp. diverse locaties; dat past bij een regime met hoge omtrekdrempel. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 136 bekendmakingen sinds 1-1-2025, waarvan 62 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning van het bevoegd gezag) voor het vellen van: (a) bomen op de bomenlijst, (b) elke houtopstand buiten de bebouwde kom met stamomtrek van 94 cm of meer, (c) houtopstand in de bebouwde kom in door burgemeester en wethouders aangewezen gebieden met stamomtrek van 94 cm of meer, (d) houtopstand in de bebouwde kom met stamomtrek van 130 cm of meer.",
+  "drempel": "Stamomtrek van 94 cm of meer (buiten de bebouwde kom en in aangewezen gebieden binnen de kom) en 130 cm of meer (overige bebouwde kom), gemeten op 130 cm boven het maaiveld (art. 6.1.1 lid 2 onder b, c, d)",
+  "omtrek_cm": 94,
+  "meethoogte": "1,30 m (130 cm boven het maaiveld)",
+  "reikwijdte": "Hele grondgebied, openbaar en particulier. Buiten de bebouwde kom (ook tuinen en erven) vanaf 94 cm; binnen de kom vanaf 130 cm, in aangewezen gebieden binnen de kom vanaf 94 cm. Daarnaast de Bomenlijst (art. 6.1.1 lid 1: 'monumentale en andere beschermingswaardige bomen' en gebieden 'die in hun geheel beschermingswaardig zijn') ongeacht omvang. D is bepaald op het deel buiten de kom (94 cm, geen tuin- of erfuitzondering): D3. Het deel binnen de kom (130 cm) zou D2 zijn.",
+  "uitzonderingen": "Art. 6.1.1 lid 4: Plantgezondheidswet of aanschrijving van het college; spoedeisend belang op bevel van de burgemeester; periodiek vellen van hakhout (regulier onderhoud); Bal afd. 11.3; dunning in aaneengesloten houtopstand van ten minste 100 m2 (tenzij in aangewezen gebied); knotten, kandelaberen, kandelaren of buitensporig opkronen die traditioneel zo worden behandeld. Allemaal gangbare uitzonderingen. Geen tuin-, perceel-, soort- of aantalsuitzondering: geen correctie.",
+  "weigeringsgronden": "Art. 6.1.2: 'wordt de vergunning voor het vellen van een houtopstand als bedoeld in artikel 6.1.1, tweede lid, geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden' (natuur-, milieu- en ecologische waarden; landschappelijke waarden; beeldbepalende waarden; cultuurhistorische waarden; stads- en dorpsschoon; levensvatbaarheid van de houtopstand). Art. 2.2.3 geeft daarnaast algemene weigeringsgronden voor vergunningen.",
+  "herplantplicht": "Art. 6.1.3 lid 1: 'kan bij de vergunning als bedoeld in artikel 6.1.1, tweede lid, worden voorgeschreven dat binnen een door het bevoegd gezag te stellen termijn en overeenkomstig door het bevoegd gezag te geven aanwijzingen moet worden herplant' (bevoegdheid). Lid 2: het voorschrift bepaalt aantal, soort en afmeting, locatie en termijn. Na illegale kap (lid 3): 'kan het bevoegd gezag de volgende maatregelen treffen' (herplantplicht of bestuurlijke boete ter hoogte van de boomwaarde). Geen vastgestelde beleidsregel over herplant of compensatie gevonden in het dossier.",
+  "herplant_ontsnapping": "Bij vergunning: 'kan' (bevoegdheid van het bevoegd gezag, per geval; geen plicht zolang niets wordt voorgeschreven). Betalen in plaats van herplant: geen. Na illegale kap: 'kan' (herplantplicht of boete naar keuze van het bevoegd gezag).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 6.1.3 lid 5: 'Degene aan wie een beschikking als bedoeld in het derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 2.2.2 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Overtreding is strafbaar via art. 9.1.2 lid 1: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling art. 9.1.2 lid 1: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'; lid 2: 'Het bepaalde in het eerste lid geldt niet voor zover de Wet op de economische delicten voorziet in strafbaarstelling.' WED via de Omgevingswet (omgevingsplanactiviteit volgens leges art. 2.30.1). Bestuurlijke boete in de regeling zelf: art. 6.1.3 lid 3 onder b: 'Het bevoegd gezag legt aan de rechthebbende een beschikking op met daarin een bestuurlijke boete ter hoogte van de door een deskundige (ETT-er) vastgestelde boomwaarde' (na kap zonder vergunning; 'kan', maar de hoogte is gekoppeld aan de boomwaarde). Het handhavingsbeleid (CVDR755681_1) noemt geen kapspecifieke boete.",
+  "procedure": "Omgevingsvergunning voor een omgevingsplanactiviteit (art. 6.1.1 lid 2); leges 2.30.1 en 2.30.2 elk EUR 88,20; aanvraagvereisten omgevingsplan art. 22.299; beslistermijn, bezwaar en beroep volgens Ow/Awb (niet apart nagegaan); vergunning persoonsgebonden en voor onbepaalde tijd (art. 2.2.4 en 2.2.5).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Niet van toepassing: het brede regime (94 cm buiten de kom) bepaalt D. De Bomenlijst (art. 6.1.1 lid 1) en de door burgemeester en wethouders aangewezen gebieden binnen de kom zijn niet in het dossier of in tekst/ gevonden en niet ingezien.",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst en aanwijzing van beschermingswaardige gebieden (art. 6.1.1 lid 1 en lid 2 onder c) niet in het dossier; geen CVDR-document en niet ingezien. Gebiedsaanwijzing 'door burgemeester en wethouders aangewezen gebieden' binnen de kom niet gevonden: het deel binnen de kom kan daardoor lokaal een lagere drempel (94 cm) hebben. Dit verandert D niet (D3 geldt al buiten de kom).",
+  "artikelnummers": [
+    "VFL art. 1",
+    "VFL art. 2.2.2",
+    "VFL art. 2.2.3",
+    "VFL art. 6.1.1",
+    "VFL art. 6.1.2",
+    "VFL art. 6.1.3",
+    "VFL art. 9.1.2",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Handhavingsstrategie bijlage 5"
+  ],
+  "opmerkingen": [
+    "W: art. 6.1.2 'wordt de vergunning ... geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' met de gebruikelijke waarden: W2 zonder bereik.",
+    "H: art. 6.1.3 lid 1 'kan bij de vergunning ... worden voorgeschreven dat ... moet worden herplant': H1. Geen beleidsregel gevonden die herplant tot vast voorschrift maakt (Groenstructuurplan CVDR680568_1 en handhavingsstrategie CVDR755681_1 gelezen: niets over herplant bij particuliere kap).",
+    "Herplant na illegale kap (lid 3) 'kan' en is een bevoegdheid; de verordening kent bij illegale kap ook de bestuurlijke boete ter hoogte van de boomwaarde. Dat telt bij S, niet bij H. Er is geen vaste herplantplicht in een beleidsregel gevonden.",
+    "S: bestuurlijke boete voor kappen in de regeling zelf (art. 6.1.3 lid 3 onder b), met de hoogte gekoppeld aan de boomwaarde: S3 (puntschatting) volgens de omschrijving een boete gekoppeld aan de boomwaarde. Er staat echter 'kan' en geen beleid dat de boete direct oplegt; bij een strengere lezing is S2. Daarom bereik 2-3. Bij S2 is de strengheid 55 (Gemiddeld), bij S3 60 (Streng): het bereik loopt over de categoriegrens.",
+    "Bij de leges (art. 2.30.1) staat artikel artikel 6.1, eerste lid van de 'Verordening fysieke leefomgeving Heeze-Leende'. Dat verwijst niet naar een bestaand artikel (bedoeld is 6.1.1 lid 2). De verkeerde verwijzing verandert de score niet (leges noemt de kap wel een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet').",
+    "D per deel: buiten de kom 94 cm voor elke houtopstand, ook in tuinen en erven (D3: omtrek 60-100 cm); binnen de kom 130 cm (D2). Hoogste deel is D3. Voorbeeldbomen A (80 cm) en B (40 cm) in een achtertuin binnen de kom zijn vrij (tenzij op de bomenlijst of in een aangewezen gebied, daar 94 cm: ook dan vrij bij 80 en 40 cm).",
+    "Artikel 5.4.3 VFL (zeer hoog waardevol historisch landschap) maakt het 'verwijderen van houtgewas, perceelrandbegroeiing of opgaande beplanting' vergunningplichtig in een aangewezen gebied; dat is een kleine gebiedsregel en telt niet mee voor D.",
+    "Kapbesluiten sinds 2025 volgens titel: 'vellen van houtopstand', geen grondslag in de besluiten."
+  ],
+  "modelsignalen": [
+    "S: een bestuurlijke boete 'ter hoogte van de boomwaarde' die het bevoegd gezag na illegale kap 'kan' opleggen (geen 'zal' zoals Maasdriel). Het model noemt een boete gekoppeld aan de boomwaarde als S3, maar het Maasdriel-besluit eist een boete die het college 'zal' opleggen. Hier S3 met bereik 2-3 gekozen; beslis of een 'kan'-boete met boomwaarde als maat S3 telt.",
+    "D: omtrekdrempel verschilt per deel van de gemeente (94 cm buiten de kom, 130 cm binnen de kom). Volgens het model telt het deel met de laagste drempel (D3), terwijl de voorbeeldbomen A en B binnen de kom vrij zijn. Het rapport laat dan de voorbeeldbomen voorgaan; geen aanpassing nodig, wel opvallend dat D3 en 'nee/nee' samengaan.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: bestuurlijke boete ter hoogte van de boomwaarde die het college 'kan' opleggen: S2, maximum 3 (S3 alleen bij verplicht opleggen, zoals Maasdriel 'zal'). Was S3 (2-3)."
+  ]
+}

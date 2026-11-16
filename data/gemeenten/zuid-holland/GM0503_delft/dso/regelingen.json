@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0503/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Delft",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0503/2020/omgevingsplan/nld@2024-03-12;2",
+    "beginGeldigheid": "2024-03-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0503_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0503/2025/Regelingcb4d6bb48e0946f2aef78685887028e7",
+    "titel": "Geluidbeleid gemeente Delft",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0503/2025/Regelingcb4d6bb48e0946f2aef78685887028e7/nld@2025-05-27;18362792",
+    "beginGeldigheid": "2025-06-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0503_2025_Regelingcb4d6bb48e0946f2aef78685887028e7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:35Z"
+  }
+]

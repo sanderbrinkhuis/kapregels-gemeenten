@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0432/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Opmeer",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0432/2020/omgevingsplan/nld@2024-07-08;927652c560434cbd80e8f7320e3eaf2d",
+    "beginGeldigheid": "2024-07-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0432_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0432/2020/kostenverhaal_en_financiele__bijdragen_202461",
+    "titel": "Kostenverhaal en financiële  bijdragen 2024",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0432/2020/kostenverhaal_en_financiele__bijdragen_202461/nld@2026-06-10;69f643243c9b48d499c65e659f419846",
+    "beginGeldigheid": "2026-06-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0432_2020_kostenverhaal_en_financiele__bijdragen_202461?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0432/2020/programma_hoogwoud-oost58",
+    "titel": "Programma Hoogwoud-Oost",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0432/2020/programma_hoogwoud-oost58/nld@2026-09-30;1c6712127eba4c958290c8d199107d6c",
+    "beginGeldigheid": "2026-10-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0432_2020_programma_hoogwoud_oost58?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:51Z"
+  }
+]

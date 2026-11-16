@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1842/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Midden-Delfland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1842/2020/omgevingsplan/nld@2025-09-29;14170240",
+    "beginGeldigheid": "2025-10-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1842_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:29Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1842/2025/Regelingabf1e0a425734d99a1f202db1b5c13cb",
+    "titel": "Voorbereidingsbesluit datacenters gemeente Midden-Delfland",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1842/2025/Regelingabf1e0a425734d99a1f202db1b5c13cb/nld@2025-10-06;13215257",
+    "beginGeldigheid": "2025-10-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1842_2025_Regelingabf1e0a425734d99a1f202db1b5c13cb?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:29Z"
+  }
+]

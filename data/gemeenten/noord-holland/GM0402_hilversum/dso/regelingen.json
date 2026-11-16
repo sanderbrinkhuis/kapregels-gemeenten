@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0402/2024/Regelingd160b5eff150461c9bebce9c66f69ddc",
+    "titel": "Omgevingsvisie Hilversum 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0402/2024/Regelingd160b5eff150461c9bebce9c66f69ddc/nld@2024-06-13;08541558",
+    "beginGeldigheid": "2024-06-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2024_Regelingd160b5eff150461c9bebce9c66f69ddc?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0402/2024/Regeling2855feb1edf442178491fb4af63242db",
+    "titel": "Actieplan Geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0402/2024/Regeling2855feb1edf442178491fb4af63242db/nld@2024-12-04;14171366",
+    "beginGeldigheid": "2024-12-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2024_Regeling2855feb1edf442178491fb4af63242db?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0402/2025/Regeling291b92c80c14454ca36c066962d024e8",
+    "titel": "Gemeente Hilversum Programma kostenverhaal en financiële bijdragen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0402/2025/Regeling291b92c80c14454ca36c066962d024e8/nld@2025-01-17;09444308",
+    "beginGeldigheid": "2025-01-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2025_Regeling291b92c80c14454ca36c066962d024e8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0402/2025/Regeling154a170b50e848cabdc7cf222140a266",
+    "titel": "Voorbeschermingsregels Bodemenergie",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0402/2025/Regeling154a170b50e848cabdc7cf222140a266/nld@2025-03-06;12400222",
+    "beginGeldigheid": "2025-03-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2025_Regeling154a170b50e848cabdc7cf222140a266?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0402/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hilversum",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0402/2020/omgevingsplan/nld@2026-10-12;11381697",
+    "beginGeldigheid": "2026-11-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0402/2026/Regeling4670543ed48f4a2389dafd7e479a9924",
+    "titel": "Omgevingsprogramma Actief",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0402/2026/Regeling4670543ed48f4a2389dafd7e479a9924/nld@2026-10-13;14534759",
+    "beginGeldigheid": "2026-10-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2026_Regeling4670543ed48f4a2389dafd7e479a9924?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0402/2026/Regelingfcdccc2bef8946a4943090a949f99c5f",
+    "titel": "Omgevingsprogramma Gebiedsagenda's",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0402/2026/Regelingfcdccc2bef8946a4943090a949f99c5f/nld@2026-10-27;10331234",
+    "beginGeldigheid": "2026-10-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0402_2026_Regelingfcdccc2bef8946a4943090a949f99c5f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:06:57Z"
+  }
+]

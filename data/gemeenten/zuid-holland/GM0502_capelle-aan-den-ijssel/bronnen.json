@@ -1,0 +1,31 @@
+{
+  "gemeente": "Capelle aan den IJssel",
+  "gm_code": "GM0502",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Capelle aan den IJssel",
+  "zoeknaam_bekendmakingen": "Capelle aan den IJssel",
+  "opgehaald_op": "2026-11-16T10:35:34+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Capelle aan den IJssel\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 101,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Capelle aan den IJssel\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 28,
+  "geldende_regelingen": 18,
+  "geldend_met_kapartikelen": [
+    "CVDR355759_1",
+    "CVDR484778_1",
+    "CVDR610246_11",
+    "CVDR658703_1",
+    "CVDR691054_1",
+    "CVDR696333_7",
+    "CVDR727492_1",
+    "CVDR753251_1",
+    "CVDR753797_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

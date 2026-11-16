@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1842",
+  "gemeente": "Midden-Delfland",
+  "provincie": "Zuid-Holland",
+  "brondocument": "APV: Algemene plaatselijke verordening Midden-Delfland 2025, afdeling 4.3 (art. 4:10, 4:11, 4.11a, 6:1), versie CVDR747656_1; Legesverordening 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR747656/1",
+  "datum_geldigheid": "geldend van 2025-12-02 t/m heden (CVDR747656_1; peildatum 2026-11-16)",
+  "laatste_wijziging": "2025-12-02 (versie 1; vervangt de eerdere APV). Een nieuwe APV (CVDR769179_1) gaat in op 2026-11-20 en telt nog niet mee.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: WED-aanwijzing in APV art. 6:1 lid 3 voor 'artikel 4:11, tweede lid' en legesverordening 2026 art. 2.30 ('in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 118 bekendmakingen (52 aanvragen, 65 overig, 1 besluit). Ca. 100 titels gaan over kappen of vellen van bomen (aanvragen en toestemmingen, onder meer voor dode of gevaarlijke bomen, bouwwerkzaamheden en populieren). Het enige besluit is een weigering (gmb-2026-440980, 3 pruimenbomen). Dit is veel voor een lijstsysteem; ook fruitbomen en een treurwilg komen voor. De bekendmakingen noemen geen grondslag. Open punt: mogelijk staan er veel gemeentebomen of lijstbomen onder, of geldt een breder regime.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de Bomenlijst staan of op een door het college vastgesteld voornemen tot aanpassing van de Bomenlijst (voorbescherming) (art. 4:11 lid 2)",
+  "drempel": "Geen stamomtrekdrempel; lijstbomen ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Alleen houtopstanden op de Bomenlijst ('monumentale en andere beschermenswaardige bomen in de gemeente', art. 4:11 lid 1) of op een vastgesteld voornemen tot aanpassing van die lijst. Hele grondgebied. Toelichting: 'Voor het vellen van houtopstanden die niet genoemd zijn in de bomenlijst is geen omgevingsvergunning nodig.' De bomenlijst is een bijlage bij de APV (toelichting); die bijlage staat niet in het dossier.",
+  "uitzonderingen": "Art. 4:11 lid 4: spoedeisend belang of direct gevaar met toestemming van de burgemeester; periodiek vellen van hakhout als regulier onderhoud; dunning als regulier onderhoud.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 4.11a lid 1 (na illegale kap): 'kan het college de verplichting opleggen dat ... wordt herplant'; lid 2: in plaats daarvan 'kan ... worden opgelegd dat de monetaire boomwaarde van de gevelde houtopstand door de overtreder van het verbod in het gemeentelijk bomenfonds wordt gestort'. Geen beleidsregel gevonden die herplant verplicht stelt.",
+  "herplant_ontsnapping": "'kan': herplant is een bevoegdheid van het bevoegd gezag (art. 4:11 lid 5), geen plicht. Na illegale kap 'kan' het college herplant opleggen (art. 4.11a lid 1), of storting van de monetaire boomwaarde in het bomenfonds als herplant niet in redelijkheid kan op hetzelfde perceel of in de directe omgeving (lid 2).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets geregeld: de strafbepaling noemt het herplantartikel niet. APV art. 4:11 lid 6: 'Ook de rechtsopvolger van degene aan wie een verplichting als bedoeld in het vijfde lid is opgelegd, is verplicht daaraan te voldoen.' Art. 6:1 lid 1 somt artikelen op: '...4:3, 4:5A., 4:5B., 4:6, 4:13, 5:2...' (dus niet 4:10 tot en met 4:12). Art. 6:1 lid 3: 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, en artikel 4:11, tweede lid.' Dat is het kapverbod (lid 2), niet de herplantverplichting (lid 5 en 6).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 3 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... en artikel 4:11, tweede lid'. Ook WED via Omgevingswet 5.1 (leges 2.30). Geen bestuurlijke boete. Herplantplicht na illegale kap mogelijk (art. 4.11a, 'kan').",
+  "procedure": "Leges 2026 art. 2.30: EUR 33,50. Beslistermijn omgevingsvergunning volgens de Omgevingswet (APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning). Bezwaar binnen 6 weken (bekendmaking gmb-2026-440980).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "bomenlijst niet ingezien: bijlage bij de APV staat niet in het dossier en is niet gevonden op de gemeentelijke website (drie pogingen met curl, 404); geen aantal in beleid of besluit",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst (bijlage bij de APV) niet ingezien; onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien. Geen herplant- of handhavingsbeleid over kap gevonden (de Uitvoerings- en Handhavingsstrategie CVDR738744_1 noemt 'Kappen van bomen' alleen als onderwerp met gemiddeld risico).",
+  "artikelnummers": [
+    "APV 2025 (CVDR747656_1) art. 1:2, 1:4, 1:8, 4:10, 4:11, 4.11a, 6:1 lid 3",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (min 0): lijstsysteem. Art. 4:11 lid 2: 'die staan vermeld op de in het eerste lid genoemde Bomenlijst'. De toelichting zegt dat het college 'de eigenaren van nieuwe beschermenswaardige bomen' informeert; dat bevestigt niet duidelijk dat er particuliere bomen op staan. Daarom minimum 0. De weigering van 3 pruimenbomen (gmb-2026-440980) is een aanwijzing dat particuliere (of andere) bomen onder het stelsel vallen.",
+    "W2: art. 4:11 lid 3 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeld-, cultuurhistorische en leefbaarheidswaarden. Geen strengere beleidsregel gevonden.",
+    "H1: art. 4:11 lid 5 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Subsidieregeling CVDR627362_1 (bijlage 2, verkaveling) gaat over ruilverkaveling en telt niet.",
+    "S1: WED-aanwijzing art. 6:1 lid 3 voor art. 4:11 lid 2. Geen bestuurlijke boete.",
+    "Peildatum: de nieuwe APV (CVDR769179_1) gaat in op 2026-11-20 en voegt art. 4:11 lid 4 sub d toe (vellen van dode of zieke bomen die gevaar vormen, vastgesteld door een deskundige). Deze wijziging verandert D, W, H en S niet; ze telt nog niet mee.",
+    "Boom A en B: een tuinboom is alleen vergunningplichtig als hij op de Bomenlijst of op een vastgesteld voornemen tot aanpassing van de lijst staat.",
+    "Art. 4:11 lid 6 ('is verplicht daaraan te voldoen') staat niet in art. 6:1; zie modelsignaal."
+  ],
+  "modelsignalen": [
+    "Veel kapbekendmakingen (ca. 100 titels sinds 2025, waaronder fruitbomen en een treurwilg) bij een lijstsysteem. Het model kan niet vaststellen of dat lijstbomen, gemeentebomen of een breder regime betreft.",
+    "Veld herplant_niet_nakomen_type: art. 4:11 lid 6 heeft 'is verplicht daaraan te voldoen', maar art. 6:1 noemt het herplantartikel niet. Volgens de regel in INTENT.md (alleen de bepaling 'is verplicht daaraan te voldoen') is dat 'strafbaar (rechter)'; feitelijk is het alleen strafbaar als het college het voorschrift als verbod-overtreding behandelt. Advies: 'niets geregeld' is juridisch zuiverder; de regel geeft geen duidelijk antwoord als de strafbepaling het artikel niet noemt."
+  ]
+}

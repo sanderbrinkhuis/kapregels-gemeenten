@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1507/2020/programma_erfgoed_gemeente_horst_aan_de_maas42",
+    "titel": "Programma voor Gemeente Horst aan de Maas",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1507/2020/programma_erfgoed_gemeente_horst_aan_de_maas42/nld@2025-07-24;51e95cc242484287900284cdfb899539",
+    "beginGeldigheid": "2025-07-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1507_2020_programma_erfgoed_gemeente_horst_aan_de_maas42?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1507/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Horst aan de Maas",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1507/2020/omgevingsvisie/nld@2026-01-13;dd26e622539f466688971c37ef73b809",
+    "beginGeldigheid": "2026-01-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1507_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1507/2020/volkshuisvestingsprogramma54",
+    "titel": "Programma voor Gemeente Horst aan de Maas",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1507/2020/volkshuisvestingsprogramma54/nld@2026-04-16;fb3c2d6e2e5745abb1d7fd2e54365928",
+    "beginGeldigheid": "2026-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1507_2020_volkshuisvestingsprogramma54?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1507/2020/mobiliteitsprogramma_2025-2035_horst_aan_de_maas62",
+    "titel": "Mobiliteitsprogramma 2025-2035 Horst aan de Maas",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1507/2020/mobiliteitsprogramma_2025-2035_horst_aan_de_maas62/nld@2026-09-14;062e5d6ba69d41c2b30e26e34083b509",
+    "beginGeldigheid": "2026-09-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1507_2020_mobiliteitsprogramma_2025_2035_horst_aan_de_maas62?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:38Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1507/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Horst aan de Maas",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1507/2020/omgevingsplan/nld@2026-10-05;8d509e8f0d364c3a9404665b0ffac386",
+    "beginGeldigheid": "2026-11-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1507_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:38Z"
+  }
+]

@@ -1,0 +1,86 @@
+{
+ "gm_code": "GM0388",
+ "gemeente": "Enkhuizen",
+ "provincie": "Noord-Holland",
+ "brondocument": "Algemene plaatselijke verordening Enkhuizen 2020, afdeling 4.3 Het bewaren van houtopstanden (art. 4:10 t/m 4:12), art. 6:1 Strafbepaling, CVDR641472_6; leges 2026 art. 2.30 (CVDR753976_1); omgevingsplan art. 22.299 (alleen aanvraagvereisten, CVDR696300_2). Niet in het dossier: de 'waardevolle bomenlijst' en het 'Omgevingsprogramma bomen 2021'.",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR641472/6",
+ "datum_geldigheid": "APV CVDR641472_6 geldend van 2025-10-24 t/m heden",
+ "laatste_wijziging": "APV versie 6 per 2025-10-24 (wijzigt alleen art. 2:10). De kapartikelen 4:10 t/m 4:12 zijn laatst gewijzigd in versie 3 per 2022-12-29 (versie 5 per 2024-01-01 wijzigde o.a. art. 1:1, 1:2, 1:4, 1:6, niet de kapartikelen). Omgevingsplan versie 2 per 2026-09-02.",
+ "juridische_plaats": "APV; de vergunningplicht werkt als omgevingsplanactiviteit: leges art. 2.30 spreekt van 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening Enkhuizen 2020 in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf bevat alleen aanvraagvereisten (art. 22.299).",
+ "praktijkcontrole": "20 bekendmakingen sinds 2025 met een kapterm in de volledige tekst (benadering, kan ook niet-kapbesluiten bevatten): 6 besluiten, 9 aanvragen, 0 weigeringen volgens titel. Steekproef van 6 besluiten: geen grondslagverwijzing over kap. Weinig besluiten; past bij een lijst- en structuurstelsel, niet bij een regime voor alle tuinbomen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning), alleen voor bomen op de waardevolle bomenlijst (art. 4:11 lid 1 onder a) en bomen in bomenstructuren (onder b)",
+ "drempel": "Boom: 'een houtachtig, overblijvend gewas met een dwarsdoorsnede van de stam van minimaal 40 centimeter op 1.3 meter boven maaiveld' (art. 4:10 lid 1 onder a); 'Particuliere bomen binnen structuren, kleiner dat 40cm diameter, hebben geen vergunningsplicht' (art. 4:11 lid 1, slotzin)",
+ "omtrek_cm": 125.6,
+ "meethoogte": "1,3 m (diameter 40 cm x 3,14 = 125,6 cm omtrek)",
+ "reikwijdte": "Alleen aangewezen bomen en structuren. Art. 4:11 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een boom te vellen of te doen vellen die: a. deel uitmaakt van de door het college vastgestelde (potentieel) waardevolle bomenlijst; b. deel uitmaakt van de bomenstructuren zoals deze zijn aangegeven in het omgevingsprogramma bomen 2021.' Art. 4:10 lid 1 onder d: 'Particuliere bomen staande op erven waarvan de voor- of zijkant is gesitueerd aan een boomstructuur maken onderdeel uit van de boomstructuur'. Art. 4:11 lid 3: binnen de bebouwde kom (verwijzing naar Wet natuurbescherming art. 4.1) en buiten de kom alleen 'door het college door openbaar besluit aangewezen bomen'. Particulier en openbaar.",
+ "uitzonderingen": "Alleen bomen met een dwarsdoorsnede van minimaal 40 cm vallen onder de afdeling (art. 4:10). Spoed of direct gevaar (art. 4:11 lid 2), dunning zonder vergunning (art. 4:11b lid 1 onder c, slot). Ziek of dood: via art. 4:11b als criterium bij waardevolle bomen, geen aparte vrijstelling. Geen tuin-, soort- of perceeluitzondering genoemd.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Lijst niet ingezien: de 'waardevolle bomenlijst' en het 'Omgevingsprogramma bomen 2021' staan niet in CVDR en niet gevonden op de gemeentelijke website (enkele pogingen).",
+ "weigeringsgronden": "Art. 4:11b lid 1: waardevolle bomen: 'zal geen omgevingsvergunning worden verleend tenzij' gevaar of verhoogd risico of ziekte, of levensverwachting minder dan 10 jaar (W3); potentieel waardevolle bomen: 'zal geen omgevingsvergunning worden verleend tenzij' gevaar, groot maatschappelijk belang of levensverwachting minder dan 10 jaar (W3); bomen in bomenstructuren: 'kan een omgevingsvergunning worden verleend indien: er sprake is van een particulier of maatschappelijk belang; de bomenstructuur of het park als zodanig intact blijft en/of er voldoende compenserende maatregelen worden genomen' (W2, afweging met structuurbehoud). Hardheidsclausule art. 4:12.",
+ "herplantplicht": "Art. 4:11e lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften behoort het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: herplant met 'tenminste 3 jaar nazorg. Als de jonge aanplant tussentijds uitvalt, is inboet (vervangende aanplant) verplicht.' Standaardvoorschrift, dus H2. Geen verplichte financiele compensatie in de APV (Omgevingsprogramma bomen niet ingezien).",
+ "herplant_ontsnapping": "geen uitweg in de tekst voor herplant als voorschrift; wel 'conform de door bevoegd gezag te geven aanwijzingen' (college bepaalt per geval hoe) en de hardheidsclausule art. 4:12 ('ten gunste van de aanvrager af te wijken'). Betalen in plaats van herplanten niet geregeld.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Art. 1:4 lid 2 APV: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen', maar lid 3: 'Dit artikel is niet van toepassing op een omgevingsvergunning'. Art. 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Een specifieke sanctie voor het niet nakomen van herplant is niet gevonden.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Kap zonder vergunning: WED via de Omgevingswet (het vellen is een omgevingsplanactiviteit, leges art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet'; WED art. 1a onder 2, besluit stap 1a) en daarnaast de algemene strafbepaling art. 6:1 lid 1 APV (hechtenis tot drie maanden of geldboete tweede categorie). Art. 4.11f 'Boetebepaling': het bevoegd gezag 'kan ... een schadevergoeding opleggen ter hoogte van de waarde van de boom' (geen bestuurlijke boete maar schadevergoeding; kap-specifiek, S1). Geen bestuurlijke boete voor kappen in de regeling.",
+ "procedure": "Leges art. 2.30: EUR 132,60. Aanvraag met situatieschets en foto (art. 4:11a). Art. 4:11c: 'geeft onverwijld kennis van de beslissing ... in een of meer dag-, nieuws- of huis-aan-huisbladen of op een andere geschikte wijze'. Vervaltermijn vergunning 2 jaar (4:11d). Art. 1:2 APV (acht weken) is 'niet van toepassing op een aanvraag om een omgevingsvergunning'; beslistermijn niet in de APV. Bezwaar en beroep: niet in de kapartikelen geregeld.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "status": "onzeker",
+ "ontbrekend": "Kernbronnen niet in het dossier en niet gevonden: de door het college vastgestelde (potentieel) waardevolle bomenlijst en de bomenstructuren/kaart in het Omgevingsprogramma bomen 2021 (en eventuele daarin vastgelegde compensatieregels). Daardoor is niet vast te stellen of en hoeveel particuliere bomen beschermd zijn (D) en of H3 geldt.",
+ "artikelnummers": [
+  "APV 4:10",
+  "APV 4:11",
+  "APV 4:11a",
+  "APV 4:11b",
+  "APV 4:11c",
+  "APV 4:11d",
+  "APV 4:11e",
+  "APV 4.11f",
+  "APV 4:12",
+  "APV 6:1",
+  "APV 1:4",
+  "Leges 2.30",
+  "Omgevingsplan 22.299"
+ ],
+ "opmerkingen": [
+  "Lijstsysteem met structuren. D puntschatting 1 (aangewezen bomen), bereik 0-2: art. 4:10 lid 1 onder d rekent particuliere bomen op erven met voor- of zijkant aan een boomstructuur tot de structuur (aangewezen structuur, hooguit D2), maar de omvang van de structuren is niet vast te stellen zonder het Omgevingsprogramma bomen 2021. Elke boom moet bovendien een dwarsdoorsnede van minimaal 40 cm (omtrek 125,6 cm) hebben.",
+  "W: waardevolle en potentieel waardevolle bomen 'zal geen omgevingsvergunning worden verleend tenzij' (W3); structuurbomen 'kan een omgevingsvergunning worden verleend indien' belang, structuur intact of compensatie (W2). Puntschatting W2 omdat structuurbomen waarschijnlijk het grootste deel van de particuliere bomen vormen; bereik 2-3.",
+  "H2: standaardvoorschrift 'behoort het voorschrift dat ... moet worden herplant' (art. 4:11e lid 1) met 3 jaar nazorg en verplichte inboet. Maximum 3 omdat het Omgevingsprogramma bomen (niet ingezien) compensatieregels kan bevatten.",
+  "Art. 4.11f heet 'Boetebepaling' maar regelt een schadevergoeding ter hoogte van de boomwaarde na illegale kap, geen bestuurlijke boete: S1.",
+  "Voorbeeldbomen A (omtrek 80 cm, ca. 25 cm doorsnee) en B (40 cm, ca. 13 cm) zijn dunner dan 40 cm doorsnee: geen 'boom' in de zin van art. 4:10, dus geen vergunning nodig, ook niet als ze langs een structuur staan (art. 4:11 lid 1, slotzin).",
+  "'Bebouwde kom' in art. 4:11 lid 3 verwijst naar de ingetrokken Wet natuurbescherming art. 4.1; art. 1:1 definieert de kom via Wegenverkeerswet art. 20a. Verouderde verwijzing, geen effect op de score.",
+  "Consistentie SED: Drechterland en Stede Broec zijn apart gescoord; zie daar voor overeenkomsten en verschillen.",
+  "Geen herplantplicht na illegale kap gevonden; art. 4.11f legt alleen een schadevergoeding op."
+ ],
+ "modelsignalen": [
+  "Enkhuizen: structuurstelsel (lijnvormige beplanting inclusief particuliere erfbomen langs de structuur) past niet goed in D1 (lijst) of D2 (gebied); de omvang is alleen met de niet-ingezien kaart te bepalen. Het scoringsmodel kent geen categorie voor 'structuren' met een drempel van 40 cm doorsnee."
+ ]
+}

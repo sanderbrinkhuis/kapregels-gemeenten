@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0214/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Buren",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0214/2020/omgevingsplan/nld@9",
+    "beginGeldigheid": "2024-05-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0214_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0214/2026/10_7",
+    "titel": "Kapel Avezaath, Burensewal 1 en 3",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0214/2026/10_7/nld@18",
+    "beginGeldigheid": "2026-11-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0214_2026_10_7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:10:09Z"
+  }
+]

@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM1960",
+ "gemeente": "West Betuwe",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene Plaatselijke Verordening gemeente West Betuwe (CVDR735180_1) art. 4:10, 4:11, 6:1; leges 2026 (CVDR754273_1) art. 2.30; Groenbeleidsplan 2021 t/m 2025 (CVDR642533_1); Omgevingsplan (CVDR696536_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR735180/1",
+ "datum_geldigheid": "2025-02-07 t/m heden",
+ "laatste_wijziging": "2025-02-07 (inwerkingtreding APV; modified-datum 2025-02-07)",
+ "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges 2026 art. 2.30 ('artikel 4:11 van de Algemene plaatselijke verordening West Betuwe in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan bevat alleen aanvraagvereisten (art. 22.299).",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 31 totaal, 4 besluiten, 19 aanvragen, 1 geweigerd (2 treurwilgen, Opijnen; volgens titel). De steekproef van besluiten noemt geen grondslag; drie van de vier gaan over de kap (dak) van een woning, niet over bomen. Zoekmethode op titel mist mogelijk besluiten.",
+ "vergunningplicht": "vergunning, alleen voor bomen op de Bomenlijst: art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.'",
+ "drempel": "geen omtrekdrempel; alleen bomen op de Bomenlijst (art. 4:11 lid 1: 'waarop de monumentale en andere beschermingswaardige bomen in de gemeente worden vermeld')",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Hele gemeente, alleen de bomen op de door het college vastgestelde Bomenlijst. Het Groenbeleidsplan zegt dat de lijsten van de voormalige gemeenten van kracht blijven tot een nieuwe West-Betuwse lijst is vastgesteld; lijst niet ingezien, dus niet vast te stellen of er particuliere bomen op staan.",
+ "uitzonderingen": "Art. 4:11 lid 4: toestemming van de burgemeester bij spoedeisend belang voor de openbare orde of direct gevaar voor personen of goederen.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, waarde voor de leefbaarheid.",
+ "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.'",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, per geval, bevoegd gezag); geen betaling als alternatief genoemd.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Geen specifieke bepaling. Art. 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen in deze verordening bepaalde en de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via art. 6:1 lid 3: 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11, als sprake is van een omgevingsvergunningplichtige activiteit als bedoeld in artikel 2.12, eerste lid wet algemene bepalingen omgevingsrecht en artikel 4:11, tweede lid.' Daarnaast art. 6:1 lid 1 algemene strafbepaling. Geen bestuurlijke boete voor kappen.",
+ "procedure": "Leges 2026 art. 2.30: € 80,00 voor omgevingsplanactiviteit vellen houtopstand. Bezwaar en beroep volgens Awb; beslistermijn omgevingsvergunning volgens Omgevingswet (APV art. 1:2 geldt niet voor omgevingsvergunning).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien (niet in het dossier; vooralsnog gelden de lijsten van de voormalige gemeenten)",
+ "status": "ok",
+ "ontbrekend": "De Bomenlijst (art. 4:11 lid 1) en de lijsten van de voormalige gemeenten Geldermalsen, Lingewaal en Neerijnen zijn niet in het dossier en niet ingezien. Onbekend of er particuliere bomen op staan. De 'waardevolle bomenlijst' van het Groenbeleidsplan is volgens het plan nog op te stellen. Geen beleidsregel over herplant of handhaving gevonden.",
+ "artikelnummers": [
+  "APV West Betuwe art. 4:10, 4:11, 1:4, 1:8, 6:1",
+  "Groenbeleidsplan 2021-2025 (CVDR642533_1) par. 4.2.3, 5.4.1, 7.2, bijlage 2",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Lijstsysteem: puntschatting D1, bereik 0-1 omdat de lijst niet is ingezien. Betrouwbaarheid laag.",
+  "W: 'kan worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en andere waarden = W2. Het Groenbeleidsplan (bijlage 2, Toetsingskader) zegt: 'Een vergunning voor een waardevolle boom of boom uit de boomstructuur wordt geweigerd behalve als:' (schade, groot maatschappelijk belang, vervanging structuur). Dat plan beschrijft een nog op te stellen stelsel ('Opstellen waardevolle bomenlijst'; 'Totdat de waardevolle bomenlijst van West Betuwe is geactualiseerd en vastgesteld blijven de huidige bomenlijsten van de voormalige gemeentes van kracht'): telt daarom niet in de puntschatting, wel in het maximum (W3).",
+  "H: 'kan een herplantplicht opleggen' = H1. Het Groenbeleidsplan bevat geen herplantregel voor particuliere bomen (alleen 'kapvergunning gemeentebomen + herplantplicht').",
+  "Het Groenbeleidsplan (par. 4.2.3) beschrijft dat in de voormalige gemeente Neerijnen een niet formeel vastgestelde bomenlijst bestond met een kapverbod voor bomen met 'een doorsnede van > 20cm op 1.30m'. Dit staat niet in de geldende APV (art. 4:11 kent alleen de Bomenlijst) en is niet meegeteld; mogelijk wel relevant voor de praktijk in het voormalige Neerijnen.",
+  "S1: WED via art. 6:1 lid 3. De verwijzing naar 'artikel 2.12, eerste lid wet algemene bepalingen omgevingsrecht' is verouderd (Wabo); leges 2.30 noemt het vellen wel een omgevingsplanactiviteit.",
+  "Bekendmakingen: slechts 4 besluiten, 1 weigering (2 treurwilgen)."
+ ],
+ "modelsignalen": [
+  "Het Groenbeleidsplan 2021-2025 staat in CVDR als geldend (beleidsregel van de gemeenteraad) maar beschrijft een nog niet ingevoerd stelsel en is naar looptijd verstreken; model 'welk beleid telt' vangt dit alleen via de toekomstig-stelsel-regel."
+ ]
+}

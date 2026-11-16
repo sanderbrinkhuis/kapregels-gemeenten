@@ -1,0 +1,90 @@
+{
+ "gm_code": "GM0569",
+ "gemeente": "Nieuwkoop",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Algemene plaatselijke verordening Nieuwkoop 2012, afdeling 3 'Het bewaren van houtopstanden' (art. 4:10 t/m 4:12c) en art. 6:1 (CVDR224536_16); Lijst beschermwaardige houtopstanden 2015 (CVDR379090_1); Nadere regels met betrekking tot het bewaren van houtopstanden (CVDR739003_1); Beleidsplan bomen 2024-2033 (CVDR721924_1); Verordening leges 2026 art. 2.30 (CVDR754309_2); Omgevingsplan art. 22.299 (CVDR696354_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR224536/16 ; https://lokaleregelgeving.overheid.nl/CVDR379090/1 ; https://lokaleregelgeving.overheid.nl/CVDR739003/1 ; https://lokaleregelgeving.overheid.nl/CVDR721924/1 ; https://lokaleregelgeving.overheid.nl/CVDR754309/2 ; https://lokaleregelgeving.overheid.nl/CVDR696354/3",
+ "datum_geldigheid": "APV CVDR224536_16 geldend vanaf 2025-05-16 t/m heden; lijst CVDR379090_1 vanaf 2015-10-15; nadere regels CVDR739003_1 vanaf 2025-05-16; beleidsplan CVDR721924_1 vanaf 2024-07-05; leges CVDR754309_2 vanaf 2026-02-11; omgevingsplan CVDR696354_3 vanaf 2026-04-23 (peildatum scoren 2026-11-16)",
+ "laatste_wijziging": "APV: versie 16 per 2025-05-16 (13e wijziging, kapregels aangescherpt in april 2025). Lijst: 2015, blijft volgens APV art. 4:12c lid 3 van kracht totdat zij wordt herzien. Nadere regels vastgesteld door het college op 24 april 2025.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 28 bekendmakingen op titel, waarvan 14 besluiten, 13 aanvragen en 0 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag, maar de titels gaan vrijwel steeds over 'beschermwaardige' of 'monumentale' bomen met een boomnummer van de lijst (bijv. gmb-2026-83466, gmb-2026-420820, gmb-2026-228122). Dit past bij een lijstsysteem. Een paar titels noemen een 'kastanje' zonder het woord beschermwaardig (gmb-2026-309997, gmb-2025-421588) maar wel met een boomnummer van de lijst.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor houtopstanden op de Lijst beschermwaardige houtopstanden (boombeleidsklasse I): 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde lijst beschermingswaardige houtopstanden en daarmee vallende in boomklasse I.' (art. 4:11 lid 3)",
+ "drempel": "Geen omtrekdrempel: bescherming volgt uit opname op de lijst (ongeacht omvang).",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (geen drempel)",
+ "reikwijdte": "Hele gemeente, particulier en openbaar, maar alleen houtopstanden op de Lijst beschermwaardige houtopstanden (art. 4:11 lid 1 en 3). Houtopstand is 'hakhout, een houtwal of een of meer bomen' (art. 4:10 lid 1). Boombeleidsklassen II tot en met IV (structuur-, overige en verkorte-omloopbomen) zijn bedoeld voor gemeentelijke bomen in de openbare ruimte en niet vergunningplichtig. De nadere regels (art. 1) beschrijven de lijst als 'een kaart met bijbehorend register' van 'boomzones', 'boomstructuren', 'monumentale bomen' en 'publieke houtopstanden'; de vastgestelde lijst van 2015 bevat individuele bomen.",
+ "uitzonderingen": "Art. 4:11 lid 5: Plantgezondheidswet of aanschrijving; periodiek vellen van hakhout bij regulier onderhoud; periodiek knotten of kandelaberen bij bestaande knotbomen, gekandelaberde bomen of leibomen. Lid 7: toestemming van de burgemeester bij spoedeisend belang. Geen tuin-, soort- of aantalsuitzondering.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan een omgevingsvergunning worden verleend indien a. een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand; b. er sprake is van onafwendbaar gevaarof vergelijkbaar spoedeisend belang van openbare orde of veiligheid; c. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.' Limitatieve verleningsgronden: weigeren tenzij.",
+ "herplantplicht": "Art. 4:11 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Nadere regels art. 5 lid 1: 'De in artikel 4:11, lid 6 van de Verordening genoemde herplantplicht kan worden opgelegd: a. Als een aan de omgevingsvergunning tot vellen te verbinden voorwaarde;' en bij vellen zonder vergunning (onder b). Lid 3: 'Indien niet ter plaatse kan worden herplant, kan in een voorschrift worden bepaald dat op een ander door het college aan te wijzen perceel wordt herplant.' Beleidsplan: 'We streven ernaar zo veel als mogelijk een herplantplicht voor te schrijven bij de beoordeling van een kapontheffing. Niet in alle gevallen is herplant mogelijk, met name bij particuliere eigenaren.'",
+ "herplant_ontsnapping": "'kan een herplantplicht opleggen' (bevoegdheid, geen plicht); het college beslist per geval. Beleidsplan: 'zo veel als mogelijk' en 'Niet in alle gevallen is herplant mogelijk, met name bij particuliere eigenaren. Dit komt veelal doordat de ruimte op het erf ontbreekt.' Een bijdrage in een bomenfonds wordt alleen als idee genoemd ('kan een bijdrage in een bomenfonds een goed alternatief zijn'), niet als regel. Herplant op een ander perceel is mogelijk (nadere regels art. 5 lid 3).",
+ "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit, legesverordening art. 2.30 in samenhang met art. 22.8 Omgevingswet) en WED-aanwijzing in APV art. 6:1 lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:11, tweede lid, 2:12, eerste lid en 4:11, eerste lid'. Die aanwijzing verwijst naar lid 1 (het vaststellen van de lijst) in plaats van lid 3 (het verbod). Art. 6:1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Geen bestuurlijke boete voor kappen (lid 3 betreft alleen de Wet veiligheidsregio's). Herplantverplichting na illegale kap: nadere regels art. 5 lid 1 onder b (kan).",
+ "procedure": "Leges 2026 art. 2.30.1: EUR 244,29 of EUR 249,42 voor het vellen van een houtopstand als omgevingsplanactiviteit (twee bedragen in de tabel, zonder duidelijke kolomkop). APV-beslistermijn (1:2) geldt niet voor een omgevingsvergunning (lid 3). Het beleidsplan overweegt leges voor beschermwaardige bomen te laten vervallen; dat is geen besluit. Bijzondere voorwaarden (nadere regels art. 4): vergunning pas bruikbaar als zij onherroepelijk is. Bezwaar en beroep volgens de Awb.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niets specifieks over het niet nakomen van een herplantvoorschrift. Art. 6:1 lid 1 straft 'het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen', maar art. 1:4 lid 3 zegt 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.' Het herplantartikel wordt in de strafbepaling niet genoemd. Nadere regels art. 5 lid 2: 'kan daarbij tevens worden bepaald binnen welke termijn na herplant en op welke wijze niet-geslaagde beplanting moet worden vervangen.'",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 1406,
+ "lijst_aantal_particulier": 548,
+ "lijst_telling": "regels (bomen) in de Lijst beschermwaardige houtopstanden 2015 (CVDR379090_1, tabel met kolom eigendom, eigen telling met awk): 1406 regels, waarvan 548 particulier (p), 675 gemeente (g), 162 provincie (pr) en 21 waterschap (w). Het beleidsplan CVDR721924_1 noemt 1465 bomen op de lijst; het verschil is niet verklaard",
+ "status": "ok",
+ "ontbrekend": "De kaart met register van boomzones en boomstructuren waarnaar de nadere regels (art. 1) verwijzen is niet in CVDR gevonden; de vastgestelde lijst van 2015 blijft volgens APV art. 4:12c lid 3 van kracht totdat zij wordt herzien. Omgevingsplan in het DSO niet ingezien. De bijlagen van het beleidsplan zijn niet volledig gelezen (afgekapt in het dossier; er is met grep gezocht op herplant, compensatie, bomenfonds en boomwaarde).",
+ "artikelnummers": [
+  "APV 1:1",
+  "APV 1:2",
+  "APV 1:4",
+  "APV 1:8",
+  "APV 4:10",
+  "APV 4:11",
+  "APV 4:12",
+  "APV 4:12a",
+  "APV 4:12b",
+  "APV 4:12c",
+  "APV 6:1",
+  "Nadere regels art. 1, 2, 4, 5",
+  "Lijst beschermwaardige houtopstanden 2015",
+  "Beleidsplan bomen 2024-2033 par. 2.1.4 en 5.2.1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Beslissend voor D: art. 4:11 lid 3, verbod voor 'houtopstanden ... die staan vermeld op de in het eerste lid genoemde lijst'. Lijst met individuele bomen, ingezien: D = 1 zonder bereik. 548 van de 1406 regels zijn particulier. Het beleidsplan zegt: 'Tot op heden zijn alleen individuele bomen als beschermwaardig aangewezen en geen bosschages'.",
+  "Beslissend voor W: 'kan een omgevingsvergunning worden verleend indien a. een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand;' (art. 4:11 lid 4): gesloten verleningsgronden, W = 3 zonder bereik.",
+  "Beslissend voor H: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 6): bevoegdheid, H = 1. Maximum 2 omdat het vastgestelde beleidsplan zegt 'We streven ernaar zo veel als mogelijk een herplantplicht voor te schrijven'; dat is een streven en geen vast voorschrift. Er is geen bomenfonds ingesteld (alleen overwogen), dus H = 3 komt niet in beeld.",
+  "Beslissend voor S: WED via de Omgevingswet (legesverordening art. 2.30 'in samenhang met artikel 22.8 van de Omgevingswet') en WED-aanwijzing in APV 6:1 lid 2: S = 1 zonder bereik. De aanwijzing verwijst naar art. 4:11 'eerste lid' (de lijst) in plaats van het derde lid (het verbod); volgens de regel blijft S = 1 bij een foute verwijzing. Geen bestuurlijke boete.",
+  "Boombeleidsklasse II tot en met IV (structuur-, overige en verkorte-omloopbomen) vallen volgens het beleidsplan onder gemeentelijk beleid voor de openbare ruimte en zijn niet vergunningplichtig; 'Alleen bomen met een beschermwaardige status zijn formeel beschermd'.",
+  "Bij het Bal (rijen van 21 of meer bomen, houtopstanden groter dan 10 are buiten de bebouwingscontour houtkap) is de Omgevingsdienst bevoegd gezag; dat telt niet mee (Bal). De gemeente heeft volgens het beleidsplan nog geen bebouwingscontour houtkap vastgesteld.",
+  "Van de 67 particuliere bomen die sinds 2015 van de lijst zijn verwijderd, zijn er 11 herplant (beleidsplan tabel 5); dat is een indicatie dat herplant bij particulieren zelden wordt afgedwongen."
+ ],
+ "modelsignalen": [
+  "De nadere regels (art. 1) beschrijven een lijst als 'kaart met bijbehorend register' van boomzones, boomstructuren, monumentale bomen en publieke houtopstanden, terwijl de geldende lijst van 2015 alleen individuele bomen bevat en 'blijft van kracht totdat zij wordt herzien'. De kaart is niet gevonden. Puntschatting D = 1 zonder bereik, omdat de ingeziene lijst individuele bomen noemt. Advies: houd D = 1; neem het bereik (maximum 2) alleen op als de kaart met zones of structuren wordt gevonden.",
+  "Foute verwijzing in de WED-aanwijzing (APV 6:1 lid 2 noemt 4:11 'eerste lid' in plaats van 'derde lid'). Volgens de regels is S = 1 door de legesverordening (omgevingsplanactiviteit). Advies: geen wijziging; wel noteren (gedaan).",
+  "Aantal lijstbomen in het beleidsplan (1465) wijkt af van de eigen telling in de lijst (1406 regels). Advies: gebruik de eigen telling van de lijst en noem de afwijking (gedaan)."
+ ]
+}

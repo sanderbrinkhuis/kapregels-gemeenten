@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0986/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Voerendaal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0986/2020/omgevingsplan/nld@7",
+    "beginGeldigheid": "2024-08-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0986_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0986/2026/2_4",
+    "titel": "Actieplan EU-richtlijn omgevingslawaai",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0986/2026/2_4/nld@13",
+    "beginGeldigheid": "2026-09-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0986_2026_2_4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0986/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Voerendaal",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0986/2026/omgevingsvisie/nld@12",
+    "beginGeldigheid": "2026-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0986_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:59:32Z"
+  }
+]

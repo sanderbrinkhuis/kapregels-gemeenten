@@ -1,0 +1,74 @@
+{
+  "gm_code": "GM0303",
+  "gemeente": "Dronten",
+  "provincie": "Flevoland",
+  "brondocument": "Verordening Fysieke Leefomgeving Dronten 2025, art. 2:35 en Bijlage 1 Bomenlijst, art. 9:1 lid 2; APV Dronten 2026 afd. 4.3 (art. 4:10-4:12a vervallen, verwijst naar VFL); Legesverordening Dronten 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR740562/1",
+  "datum_geldigheid": "geldend van 2025-06-17 t/m heden (CVDR740562_1)",
+  "laatste_wijziging": "versie 1, in werking 2025-06-17; APV 2026 (CVDR762193_1, in werking 2026-05-30) heeft de houtopstandenregels laten vervallen en verwijst naar de VFL",
+  "juridische_plaats": "VFL (met APV-afdeling 4.3 vervallen); werkt als omgevingsplanactiviteit volgens Legesverordening 2026 art. 2.30 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand, bedoeld in artikel 2:35 van de Verordening fysieke leefomgeving') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "7 bekendmakingen sinds 2025 (2 besluiten, 5 aanvragen, 0 weigeringen volgens titel); steekproef van 2 besluiten noemt geen grondslag. Klein aantal, past bij een lijst van 5 bomen.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor bomen op de Bomenlijst (Bijlage 1 bij art. 2:35)",
+  "drempel": "geen drempel; alleen individueel genoemde bomen op de Bomenlijst",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t. (aanvraagvereiste omgevingsplan 22.299: diameter op 1,30 m)",
+  "reikwijdte": "Hele gemeente, maar alleen de 5 bomen op de Bomenlijst (3 in Dronten, 1 in Swifterbant, 1 in Biddinghuizen). De titel van de vervallen APV-bijlage ('Waardevolle particuliere bomen 2026') wijst op particuliere bomen; het eigendom van de 5 bomen is verder niet getoetst.",
+  "uitzonderingen": "toestemming van de burgemeester bij spoedeisend belang voor de openbare orde of direct gevaar (2:35 lid 5)",
+  "weigeringsgronden": "Art. 2:35 lid 2: 'In afwijking van artikel 2:6 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ...; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid'",
+  "herplantplicht": "Art. 2:35 lid 3: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen herplantbeleidsregel of boomwaarderegeling gevonden (de Bomenlijst vermeldt wel een boomwaarde per boom, maar geen compensatieregel).",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval",
+  "sancties": "WED-aanwijzing in regeling: VFL 9:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 2:35, eerste lid' (ook via Ow 5.1). Geen bestuurlijke boete. Geen herplant na illegale kap geregeld.",
+  "procedure": "Omgevingsvergunning; leges € 278,15 (Legesverordening 2026 art. 2.30); geen positieve fictieve beschikking (2:35 lid 4); bezwaar en beroep volgens Awb.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets specifieks geregeld voor een opgelegde herplantplicht. VFL 9:1 lid 1 (strafbepaling) noemt 2:35 niet; lid 2 maakt alleen 'het bepaalde bij of krachtens ... 2:35, eerste lid' een economisch delict. Voorschriften bij een omgevingsvergunning vallen volgens art. 2:2 lid 3 buiten het algemene voorschriftenartikel.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Niet gecontroleerd of de 5 bomen op de lijst nog staan en in particulier eigendom zijn (afgeleid uit de titel van de vervallen APV-bijlage). Omgevingsplan in het DSO niet ingezien. Geen bomenbeleidsplan of herplantbeleidsregel gevonden in CVDR.",
+  "artikelnummers": [
+    "VFL 2025: art. 1:2 (definities vellen/houtopstand), 2:2, 2:35, 9:1 lid 2, Bijlage 1 Bomenlijst",
+    "APV 2026: art. 4:10, 4:11, 4:12, 4:12a (vervallen), Bijlage 1 (vervallen), 6:1",
+    "Legesverordening 2026: art. 2.30",
+    "Omgevingsplan: art. 22.299"
+  ],
+  "opmerkingen": [
+    "Lijstsysteem met ingezien lijst van 5 bomen (tabel in VFL Bijlage 1; geen adressen overgenomen).",
+    "W2: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en andere waarden (2:35 lid 2).",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen' (2:35 lid 3). De oudere werkwijze met herplant plus financiele compensatie (zoals in Goes) is niet in een Dronten-tekst gevonden.",
+    "S1: WED-aanwijzing in de VFL zelf (9:1 lid 2) voor 2:35 lid 1.",
+    "Strengheid 17 (Zeer soepel). De bereikscore is gelijk omdat D vaststaat."
+  ],
+  "modelsignalen": [
+    "Kleinste lijst tot nu toe (5 bomen): D1 geeft voor 5 bomen in een gemeente van ca. 40.000 inwoners dezelfde dekkingsscore als een lijst van honderden bomen; het model meet geen aantal bomen. Besluit model v2.3: D blijft 1; het aantal staat in de kolommen 'bomenlijst totaal/particulier'."
+  ],
+  "lijst_aantal_totaal": 5,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "5 bomen in Bijlage 1 Bomenlijst bij de VFL Dronten 2025; eigendom niet getoetst"
+}

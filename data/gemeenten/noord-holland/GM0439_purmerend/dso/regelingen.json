@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0439/2025/Regeling34e099acb3b442d68dea9caa863e1f7a",
+    "titel": "Voorbeschermingsregels woonactiviteiten, recreatief nachtverblijf, afvoerpijpen en bezorgservice horecabedrijven 2025",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0439/2025/Regeling34e099acb3b442d68dea9caa863e1f7a/nld@2025-06-24;13403508",
+    "beginGeldigheid": "2025-07-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0439_2025_Regeling34e099acb3b442d68dea9caa863e1f7a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0439/2025/Regelinga0f12d19c05f48328e4e3252b5fa329f",
+    "titel": "Gemeentelijk Water- en Rioleringsprogramma 2025 - 2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0439/2025/Regelinga0f12d19c05f48328e4e3252b5fa329f/nld@2025-10-06;14550999",
+    "beginGeldigheid": "2025-10-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0439_2025_Regelinga0f12d19c05f48328e4e3252b5fa329f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0439/2025/Regelingcfe21ee70cb24029bdd147378c8f0f9e",
+    "titel": "Programma kostenverhaal en financiële bijdragen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0439/2025/Regelingcfe21ee70cb24029bdd147378c8f0f9e/nld@2025-11-19;13530180",
+    "beginGeldigheid": "2025-11-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0439_2025_Regelingcfe21ee70cb24029bdd147378c8f0f9e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0439/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Purmerend",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0439/2020/omgevingsplan/nld@2025-12-30;08295823",
+    "beginGeldigheid": "2026-01-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0439_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:03Z"
+  }
+]

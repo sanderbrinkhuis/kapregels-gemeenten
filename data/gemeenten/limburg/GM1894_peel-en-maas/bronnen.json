@@ -1,0 +1,25 @@
+{
+  "gemeente": "Peel en Maas",
+  "gm_code": "GM1894",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Peel en Maas",
+  "zoeknaam_bekendmakingen": "Peel en Maas",
+  "opgehaald_op": "2026-11-14T18:00:31+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Peel en Maas\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 47,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Peel en Maas\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 41,
+  "geldende_regelingen": 13,
+  "geldend_met_kapartikelen": [
+    "CVDR696515_2",
+    "CVDR725003_2",
+    "CVDR751732_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 23,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

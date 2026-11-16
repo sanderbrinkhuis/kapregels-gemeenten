@@ -1,0 +1,27 @@
+{
+  "gemeente": "Bergen (L.)",
+  "gm_code": "GM0893",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Bergen (L)",
+  "zoeknaam_bekendmakingen": "Bergen (L)",
+  "opgehaald_op": "2026-11-14T18:00:28+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Bergen (L)\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 43,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Bergen (L)\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 188,
+  "geldende_regelingen": 14,
+  "geldend_met_kapartikelen": [
+    "CVDR656845_8",
+    "CVDR677823_4",
+    "CVDR678260_1",
+    "CVDR696440_2",
+    "CVDR752479_1"
+  ],
+  "bekendmakingen_besluiten": 90,
+  "bekendmakingen_aanvragen": 96,
+  "bekendmakingen_geweigerd": 1,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

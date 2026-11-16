@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0299/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zevenaar",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0299/2020/omgevingsplan/nld@2025-10-15;12500820",
+    "beginGeldigheid": "2025-10-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0299_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0299/2026/Regeling6f220b6e4c254c56816d5a6170020ef8",
+    "titel": "Regionale Energie Strategie Groene Metropoolregio Arnhem-Nijmegen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0299/2026/Regeling6f220b6e4c254c56816d5a6170020ef8/nld@2026-03-05;13492359",
+    "beginGeldigheid": "2026-04-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0299_2026_Regeling6f220b6e4c254c56816d5a6170020ef8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0299/2025/Regeling84bc94acd9c045abb43e9e4756ab8fb5",
+    "titel": "Omgevingsvisie Zevenaar 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0299/2025/Regeling84bc94acd9c045abb43e9e4756ab8fb5/nld@2026-07-21;10193418",
+    "beginGeldigheid": "2025-06-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0299_2025_Regeling84bc94acd9c045abb43e9e4756ab8fb5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:04Z"
+  }
+]

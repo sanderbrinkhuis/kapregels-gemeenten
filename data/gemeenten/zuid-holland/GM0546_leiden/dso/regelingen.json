@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0546/2025/Regeling911340ca353c4bfc8515ca712029ee23",
+    "titel": "Omgevingsprogramma Volkshuisvestingsprogramma Leiden 2025-2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0546/2025/Regeling911340ca353c4bfc8515ca712029ee23/nld@2025-06-11;13523185",
+    "beginGeldigheid": "2025-06-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0546_2025_Regeling911340ca353c4bfc8515ca712029ee23?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0546/2025/Regeling6651013bf6e64c89a68be9e2f26f6c35",
+    "titel": "Omgevingsvisie gemeente Leiden",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0546/2025/Regeling6651013bf6e64c89a68be9e2f26f6c35/nld@2026-01-30;14515412",
+    "beginGeldigheid": "2026-02-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0546_2025_Regeling6651013bf6e64c89a68be9e2f26f6c35?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0546/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Leiden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0546/2020/omgevingsplan/nld@2026-03-16;08093279",
+    "beginGeldigheid": "2026-04-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0546_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:58Z"
+  }
+]

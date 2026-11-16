@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm0160",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Hardenberg",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm0160/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm0160?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0160/2020/programma_energie_hardenberg43",
+    "titel": "Programma voor Gemeente Hardenberg",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0160/2020/programma_energie_hardenberg43/nld@2025-11-27;30405f1a36b14295b04b0582f67d22d3",
+    "beginGeldigheid": "2025-12-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0160_2020_programma_energie_hardenberg43?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0160/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hardenberg",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0160/2020/omgevingsplan/nld@2026-06-30;9b04fc4fdecc45d0bfa44123ae90ec2b",
+    "beginGeldigheid": "2026-08-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0160_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:03Z"
+  }
+]

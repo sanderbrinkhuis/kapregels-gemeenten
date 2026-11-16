@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0668/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente West Maas en Waal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0668/2020/omgevingsplan/nld@2025-04-23;5688edc1efe047dc9aef095247870a22",
+    "beginGeldigheid": "2025-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0668_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0668/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie Gemeente West Maas en Waal",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0668/2020/omgevingsvisie/nld@2026-06-24;71238c7b25074c5b9469bfdf56457f66",
+    "beginGeldigheid": "2026-06-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0668_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0668/2020/programma_vitaal_platteland_west_maas_en_waal69",
+    "titel": "Programma voor Gemeente West Maas en Waal",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0668/2020/programma_vitaal_platteland_west_maas_en_waal69/nld@2026-10-22;1f33f9345a7b4b53b6df5b4f1a79960b",
+    "beginGeldigheid": "2026-10-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0668_2020_programma_vitaal_platteland_west_maas_en_waal69?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:34Z"
+  }
+]

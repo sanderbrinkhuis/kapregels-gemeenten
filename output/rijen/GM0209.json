@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM0209",
+ "gemeente": "Beuningen",
+ "provincie": "Gelderland",
+ "brondocument": "Bomenverordening 2022 Beuningen (CVDR685364_1), art. 1, 3, 4, 5, 6, 7, 11, 15, toelichting; APV Beuningen 2024 (CVDR727262_1) afd. 4.3 'thans de Bomenverordening', art. 6:1; Groenbeleid Gemeente Beuningen (CVDR690314_1); Leges 2026 (CVDR751533_2) rij 2.30; Omgevingsplan (CVDR696213_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR685364/1 ; https://lokaleregelgeving.overheid.nl/CVDR727262/1 ; https://lokaleregelgeving.overheid.nl/CVDR690314/1",
+ "datum_geldigheid": "Bomenverordening CVDR685364_1 geldend vanaf 2022-12-15 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "Bomenverordening: versie 1 per 2022-12-15, nooit gewijzigd. APV 2024 (CVDR727262_1) per 2024-12-02 verwijst ernaar. Groene Lijst: 'administratieve lijst 2020'.",
+ "juridische_plaats": "Losse Bomenverordening 2022. De APV (afd. 4.3, art. 4:10-4:12) zegt 'THANS DE BOMENVERORDENING' en is gereserveerd. Leges 2026 rij 2.30 heet 'Omgevingsplanactiviteit: kappen van bomen of vellen van houtopstanden' (tarief 'Gereserveerd'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. Werkt dus vermoedelijk als omgevingsplanactiviteit; een eigen artikel in het omgevingsplan dat kap vergunningplichtig maakt is niet gevonden.",
+ "praktijkcontrole": "Sinds 2025: 38 bekendmakingen op titel, 0 als besluit geteld (zoekmethode mist waarschijnlijk besluiten); titels tonen wel toestemmingen voor kap van bomen op diverse locaties, ook een boom in een achtertuin en meerdere 'Geen vergunning nodig' (bijv. voor een berkenboom en een boom in een achtertuin). Dat past bij een lijstsysteem, maar de bekendmakingen noemen geen grondslag. Er zijn ook 106 gemeentebomen gekapt (gemeentegrond).",
+ "vergunningplicht": "Omgevingsvergunning (ontheffing) voor het vellen van houtopstanden op de Groene Lijst (art. 4 lid 1-2). Voor overige bomen geldt het verbod alleen voor bomen van de gemeente (art. 6).",
+ "drempel": "Geen drempel voor lijstbomen. Definitie boom (art. 1a): 'dwarsdoorsnede van de stam van minimaal 30 centimeter (omtrek 95 cm) op 1,3 meter hoogte', maar die geldt voor gemeentebomen (art. 6); lijstbomen vallen onder het verbod ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem); definitie boom 1,3 m",
+ "reikwijdte": "Art. 4 lid 1: 'Het is verboden om bomen die staan aangegeven op de Groene Lijst te vellen of te doen vellen.' Art. 3 lid 1: 'Het college stelt een Groene Lijst met houtopstand vast.' (monumentale en waardevolle bomen; monumentaal = in het landelijk register van de Bomenstichting, waardevol = door de gemeente aangewezen). Art. 6 lid 1: 'bomen die eigendom zijn van de gemeente'. Groenbeleid (CVDR690314_1): 'De gemeente heeft de bevoegdheid om te beslissen over de meest monumentale en waardevolle particuliere houtopstanden, maar ook over gemeentelijke houtopstanden.' Geen regel voor alle particuliere bomen of gebieden.",
+ "uitzonderingen": "Art. 4 lid 3 en 4: Plantgezondheidswet of aanschrijving, periodiek vellen van hakhout, scheren/knotten/kandelaberen, snoeien bij achterstallig onderhoud, dunning, 'vruchtbomen en windschermen om boomgaarden', kerstbomen (fijnsparren) en kweekgoed. Art. 4 lid 5: direct gevaar (noodkap). Geen tuinuitzondering (bomen buiten de lijst zijn niet beschermd).",
+ "weigeringsgronden": "Art. 5 lid 2: 'Ontheffing voor het vellen van houtopstanden die vermeld staan op de Groene Lijst kan, mits alternatieven voor behoud zijn onderzocht, slechts bij uitzondering worden verleend indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de houtopstand of; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.' Toelichting art. 3: 'in beginsel toestemming slechts bij zeer hoge uitzondering wordt verleend'. Voor gemeentebomen (art. 7): 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud' (beeldkwaliteit, cultuurhistorie, natuur, bijzondere en landschappelijke waarde); telt niet voor particulieren.",
+ "herplantplicht": "Art. 11 lid 1: bij vellen zonder vergunning 'kan het bevoegd gezag ... de verplichting opleggen te herplanten overeenkomstig de door hen te geven aanwijzingen'. Alleen na illegale kap of 'op andere wijze teniet is gegaan'; voor gewone kap met vergunning staat geen herplantplicht in de tekst. Art. 5 lid 1 en art. 7 lid 1: 'weigeren dan wel onder voorschriften verlenen' (voorschriften zijn niet nader omschreven; de toelichting bij art. 10 noemt 'Herplantvoorschriften'). Groenbeleid noemt compensatie alleen voor openbaar groen ('We compenseren openbaar groen dat verdwijnt'); geen beleid voor particulier.",
+ "herplant_ontsnapping": "Bevoegdheid ('kan'); art. 11 lid 2: 'Indien niet ter plaatse kan worden herplant wordt gezocht naar een geschikte locatie in de omgeving.' Het college beslist per geval. Geen betaling als alternatief.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 11 lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Toelichting art. 10: 'Artikel 5:18 Wabo biedt de mogelijkheid ... onder oplegging van last onder bestuursdwang of dwangsom ...'. De strafbepaling art. 15 lid 2 noemt alleen art. 14 lid 2 en art. 15 lid 1 en 2 en dekt art. 11 niet.",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "sancties": "Eigen strafbepaling (art. 15 lid 2: 'hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie') verwijst naar art. 14 lid 2 en art. 15 en dekt het velverbod (art. 4) niet: foute verwijzing. APV art. 6:1 lid 1 straft overtreding van 'het bij of krachtens de vorige artikelen bepaalde' (afd. 4.3 is gereserveerd); lid 2: 'Het bepaalde in het eerste lid is niet van toepassing voor zover via de Wet algemene bepalingen omgevingsrecht de Wet op de economische delicten van toepassing is.' Kap als omgevingsplanactiviteit (leges 2.30, omgevingsplan 22.299): WED via Ow 5.1 (S=1). Geen bestuurlijke boete.",
+ "procedure": "Aanvraag schriftelijk en gemotiveerd (art. 8); vergunning vervalt na drie jaar niet gebruikt (art. 9); leges rij 2.30 'Gereserveerd' (geen tarief). Publicatie als omgevingsvergunning kappen (bekendmakingen). Beslistermijn, bezwaar en beroep: Awb, niet nagegaan.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Groene Lijst (administratieve lijst 2020) niet ingezien: www.beuningen.nl gaf bij de gevonden paden 404. Groenbeleid noemt 'ruim 18.800 bomen' van de gemeente (gemeentelijk bomenbestand, geen lijstaantal). Het groenbeleid zegt dat het beleid ook 'particuliere houtopstanden' betreft, een aantal staat er niet bij.",
+ "status": "ok",
+ "ontbrekend": "Groene Lijst (2020) niet ingezien: onbekend hoeveel particuliere bomen erop staan en of er in tuinen bomen op staan.",
+ "artikelnummers": [
+  "Bomenverordening 2022 art. 1, 3, 4, 5, 6, 7, 10, 11, 15",
+  "APV 2024 afd. 4.3 (4:10-4:12 gereserveerd), 6:1",
+  "Leges 2026 rij 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Weigeringsgrond W3: 'slechts bij uitzondering worden verleend' (art. 5 lid 2). Herplant H1: 'kan ... de verplichting opleggen te herplanten' (art. 11 lid 1) geldt alleen na kap zonder vergunning, dus H is eigenlijk 0-1; puntschatting 1 op basis van de bevoegdheid om voorschriften te verbinden (toelichting noemt 'Herplantvoorschriften').",
+  "Beleidsstuk Groenbeleid (CVDR690314_1) bevat geen kapregel of herplantregel voor particuliere bomen; telt niet voor W en H.",
+  "Art. 6 (gemeentebomen) heeft een omtrekdrempel van 95 cm en een belangenafweging, maar geldt niet voor particulieren.",
+  "Art. 15 lid 2 noemt 'artikel 14 tweede lid, artikel 15 eerste en tweede lid' en dekt het kapverbod dus niet: foute verwijzing; S=1 via bewijs dat kap als omgevingsplanactiviteit werkt (leges rij 2.30), onder voorbehoud: de legesrij zelf zegt niet 'in samenhang met artikel 22.8'.",
+  "Besluiten zijn in de bekendmakingen niet als zodanig geteld (zoekmethode); titels tonen wel toestemmingen en 'Geen vergunning nodig' voor kap van enkele bomen."
+ ],
+ "modelsignalen": [
+  "Het model heeft geen plek voor een lijst die onder het grondslagbegrip 'Groene Lijst' ook particuliere monumentale bomen uit het Bomenstichting-register dekt zonder dat het aantal bekend is: D1 met bereik 0-1 en betrouwbaarheid laag zegt weinig.",
+  "Herplant alleen na illegale kap (art. 11) terwijl voorschriften bij een vergunning mogelijk zijn: het model kent geen tussenstap tussen H0 (geen grondslag) en H1 voor 'voorschriften verbinden' zonder uitdrukkelijke herplantregel."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "gemeente": "Maastricht",
+  "gm_code": "GM0935",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Maastricht",
+  "zoeknaam_bekendmakingen": "Maastricht",
+  "opgehaald_op": "2026-11-14T18:00:30+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Maastricht\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 108,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Maastricht\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 506,
+  "geldende_regelingen": 34,
+  "geldend_met_kapartikelen": [
+    "CVDR108857_1",
+    "CVDR32592_3",
+    "CVDR661086_1",
+    "CVDR674580_1",
+    "CVDR696446_2",
+    "CVDR748568_1"
+  ],
+  "bekendmakingen_besluiten": 215,
+  "bekendmakingen_aanvragen": 250,
+  "bekendmakingen_geweigerd": 30,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

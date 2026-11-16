@@ -1,0 +1,78 @@
+{
+ "gm_code": "GM0363",
+ "gemeente": "Amsterdam",
+ "provincie": "Noord-Holland",
+ "brondocument": "Bomenverordening 2014 (CVDR323217_2, art. 1, 3, 5, 7, 9, 10); beleidsregel Compensatie en herplant van bomen (CVDR697591_2); Algemene legesverordening Amsterdam 2026 (CVDR747167_6, art. 3.12); Beleidsregels VTH fysieke leefomgeving (CVDR705731_1, bijlage dwangsommen)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR323217/2",
+ "datum_geldigheid": "2016-10-06 t/m heden (CVDR323217_2, geldend op 2026-11-14); beleidsregel CVDR697591_2 geldend vanaf 2023-06-22",
+ "laatste_wijziging": "Bomenverordening: versie 2 sinds 2016-10-06 (CVDR-metadata: gewijzigd art. 17 en toelichting, 2018-01-30); beleidsregel herplant: 2023-06-22",
+ "juridische_plaats": "Bomenverordening 2014 (losse verordening, geen APV). Werkt als omgevingsplanactiviteit volgens leges art. 3.12 ('in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan (CVDR696291_16) heeft hoofdstuk 12 'GERESERVEERD VOOR INTEGRATIE BOMENVERORDENING' (art. 12.1 gereserveerd) en alleen aanvraagvereisten art. 22.299.",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 2407 (1194 besluiten, 1212 aanvragen), 57 geweigerd volgens titel. Veel verleende kapvergunningen voor particuliere percelen (ook Weesp); de grondslag staat niet in de besluiten (steekproef van 10: geen grondslagcitaat). Dit past bij een breed regime.",
+ "vergunningplicht": "vergunning of jaarvergunning van het college voor het vellen van een houtopstand (art. 3 lid 1)",
+ "drempel": "boom: stamomtrek van minimaal 31 centimeter op 130 centimeter hoogte (art. 1 onder b); bij meerstammigheid de dikste stam",
+ "omtrek_cm": 31,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Hele gemeente: volgens de toelichting op art. 2 loopt de bebouwde kom gelijk met de gemeentegrens, behalve het Amsterdamse deel van het Amsterdamse Bos (Boswet). Particulier en openbaar. Geen onderscheid naar stadsdeel: sinds 2016-10-01 gelden de stadsdeelbomenverordeningen niet meer (CVDR697590_2).",
+ "uitzonderingen": "Gangbare uitzonderingen (art. 3 lid 2 en 3): Boswet art. 15 lid 2 en 3 (o.a. fruitbomen en windschermen om boomgaarden, kerstbomen, kweekgoed), Plantenziektenwet, knotten als regulier onderhoud en dunnen, spoedeisend belang of direct gevaar met toestemming van het college, iepziekte (APV 5.10). Geen tuin-, perceel-, soort- of aantalsuitzondering voor gewone tuinbomen.",
+ "weigeringsgronden": "Art. 5 lid 1: \"De vergunning of jaarvergunning kan worden geweigerd in verband met: a. de natuur- en milieuwaarde van de houtopstand; b. de waarde van de houtopstand voor het stadsschoon of het landschap; c. de cultuurhistorische waarde van de houtopstand; d. de waarde van de houtopstand voor de leefbaarheid.\" Lid 2 (alleen lijstbomen): \"wordt de vergunning of jaarvergunning geweigerd\"; afwijken alleen bij \"zwaarwegende omstandigheden\". Lid 3: het college houdt rekening met het bomenbeleidsplan.",
+ "herplantplicht": "Art. 7 lid 1: \"Het college verbindt aan de vergunning en de jaarvergunning het voorschrift dat binnen een door het college te bepalen termijn en overeenkomstig door het college te geven aanwijzingen wordt herplant, tenzij zwaarwegende argumenten zich daartegen verzetten.\" Lid 3: bij onmogelijke herplant \"kan\" storting van de monetaire boomwaarde in het herplantfonds worden voorgeschreven. Beleidsregel CVDR697591_2: \"Vergunningaanvragers die niet fysiek kunnen herplanten en daarom financieel moeten compenseren, storten het verschuldigde geldbedrag\"; uitgangspunt 'kap mits herplant'; bij kap door particulieren in (binnen)tuinen is volgens de beleidsregel \"de bedoeling dat een boom die wordt gekapt, door een vergelijkbare boom wordt vervangen\".",
+ "herplant_ontsnapping": "\"tenzij zwaarwegende argumenten zich daartegen verzetten\" (art. 7 lid 1; het college moet beargumenteren waarom herplant achterwege blijft, toelichting). Uitweg via betaling: \"Als herplant niet tot de mogelijkheden behoort, kan ... de monetaire boomwaarde ... gestort\" in het herplantfonds (art. 7 lid 3). Het college beslist per geval. Na illegale kap: herplantaanschrijving verplicht (art. 9 lid 1).",
+ "sancties": "WED via Omgevingswet (leges art. 3.12 noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow). De Bomenverordening heeft geen eigen strafbepaling of WED-aanwijzing; de toelichting zegt dat de strafbepaling via de Wabo naar de WED verwijst (verouderd). Art. 9 lid 1: \"schrijft ... aan om tot herplant over te gaan\" na kap zonder vergunning. Dwangsom EUR 5.000 per houtopstand bij kappen zonder vergunning en bij niet uitvoeren herplantplicht staat alleen in handhavingsbeleid (CVDR705731_1) en is algemeen instrumentarium. Geen bestuurlijke boete voor kappen: de Verordening Bestuurlijke Boete (CVDR436209_12) noemt alleen APV-, afval-, markt-, venten- en binnenwaterartikelen.",
+ "procedure": "Leges art. 3.12: EUR 152,00 (1 tot en met 5 bomen), EUR 304,00 (6 tot en met 10), EUR 560,20 (meer dan 10 en/of jaarvergunning). Beslistermijn: volgens het dossier geen eigen bepalingen in de verordening (Wabo/Awb); bezwaar en beroep niet apart gelezen. Aanvrager: zakelijk gerechtigde (art. 4). Schadevergoeding via art. 14.",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Alleen algemeen instrumentarium. Handhavingsbeleid CVDR705731_1, bijlage 3 Richtlijnen dwangsommen: \"Niet uitvoeren herplantplicht | € 5.000 per houtopstand | 2 weken\"; en: \"Herstel van het bomenbestand door inzet van handhavingsmiddelen (dwangsom) om herplant af te dwingen.\" De Bomenverordening zelf regelt niets over niet-nakomen.",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "ja",
+ "D": {
+  "punt": 4,
+  "min": 4,
+  "max": 4
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem: breed regime voor de hele gemeente. Aanvullend een lijst van beschermwaardige houtopstanden (art. 10); die lijst is niet ingezien en bepaalt D niet.",
+ "status": "ok",
+ "ontbrekend": "Lijst van beschermwaardige houtopstanden (art. 10) niet ingezien (niet nodig voor D). Bomenbeleidsplan (art. 5 lid 3) niet in het dossier. Het besluit over de bebouwde kom (art. 2) en bezwaar/beslistermijn niet apart gelezen. Ex-gemeente Weesp (per 2022 bij Amsterdam): geen aparte regeling in het dossier gevonden.",
+ "artikelnummers": [
+  "Bomenverordening 2014 art. 1 (onder b, f, k), 2, 3, 5, 7, 9, 10 (CVDR323217_2)",
+  "Beleidsregel Compensatie en herplant van bomen (CVDR697591_2)",
+  "Legesverordening 2026 art. 3.12 (CVDR747167_6)",
+  "Omgevingsplan art. 22.299 en hoofdstuk 12 gereserveerd (CVDR696291_16)",
+  "Handhavingsbeleid CVDR705731_1 (bijlage 3 dwangsommen)"
+ ],
+ "opmerkingen": [
+  "Peildatum 2026-11-14. Stadsdelen: geen verschillen gevonden; een centrale Bomenverordening 2014 geldt sinds 2016-10-01 voor de hele stad (D per deel: overal 4).",
+  "Drempel 31 cm omtrek op 1,30 m (toelichting: ca. 10 cm doorsnee) is lager dan 60 cm, dus D = 4. Geen tuinuitzondering, dus geen correctie.",
+  "W = 2: art. 5 lid 1 \"kan worden geweigerd in verband met\" natuur, stadsschoon of landschap, cultuurhistorie en leefbaarheid. Lijstbomen (art. 5 lid 2) strenger: alleen in opmerkingen.",
+  "H = 3 volgens kalibratie: art. 7 lid 1 \"tenzij zwaarwegende argumenten zich daartegen verzetten\" (H2); lid 3 zegt \"kan\" voor storting, maar de beleidsregel CVDR697591_2 zegt dat wie niet kan herplanten \"financieel moeten compenseren\" (beleidsregel gaat voor, H3). De beleidsregel beschrijft vooral projecten en gemeentelijke beheerders; voor particuliere tuinbomen staat daar alleen vervanging door een vergelijkbare boom. Wie H3 betwist, komt op H2 (strengheid 73, categorie Streng).",
+  "S = 1: WED via Omgevingswet (leges art. 3.12) en herplantaanschrijving na illegale kap (art. 9). Dwangsom van EUR 5.000 per houtopstand staat alleen in beleid en telt als algemeen instrumentarium. Geen bestuurlijke boete voor kap.",
+  "Bekendmakingen noemen Weesp apart in titels; Weesp valt onder dezelfde Bomenverordening voor zover het dossier laat zien.",
+  "Toekomstig stelsel: omgevingsplan reserveert hoofdstuk 12 voor integratie van de bomenverordening; nu nog niet ingevuld, telt niet mee."
+ ],
+ "modelsignalen": [
+  "Een herplantbeleidsregel die voor projecten (bouw, herstructurering) financiële compensatie verplicht maar voor particuliere tuinbomen alleen vervanging noemt, geeft H3 terwijl de gewone particuliere kapper vaak alleen herplant krijgt; model v2.3 onderscheidt dit niet.",
+  "Een lage drempel (31 cm) en een weigergrond 'kan' geven D4 W2; stadsregimes met veel binnentuinen worden niet apart gewogen."
+ ]
+}

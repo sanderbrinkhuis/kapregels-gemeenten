@@ -1,0 +1,98 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0772/2024/Regeling9c6bd8220e6f4eed91a20b89dc31884b",
+    "titel": "Gebiedsplan Gebiedsgericht Grondwaterbeheer Eindhoven-Centrum",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2024/Regeling9c6bd8220e6f4eed91a20b89dc31884b/nld@2024-05-29;07084092",
+    "beginGeldigheid": "2021-10-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2024_Regeling9c6bd8220e6f4eed91a20b89dc31884b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2024/Regeling26b6fc69a2794e7cb359ef42a54c7075",
+    "titel": "Actieplan geluid gemeente Eindhoven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2024/Regeling26b6fc69a2794e7cb359ef42a54c7075/nld@2024-11-18;12134784",
+    "beginGeldigheid": "2024-11-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2024_Regeling26b6fc69a2794e7cb359ef42a54c7075?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2024/Regelinga66b0e97c06a4ee5b2307a67a7051903",
+    "titel": "Omgevingsvisie Eindhoven ",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0772/2024/Regelinga66b0e97c06a4ee5b2307a67a7051903/nld@2024-12-11;13522665",
+    "beginGeldigheid": "2024-12-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2024_Regelinga66b0e97c06a4ee5b2307a67a7051903?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2025/Regeling702a05e9add94948830d048ae8630f88",
+    "titel": "Masterplan Bodemenergie Centrumgebied Eindhoven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2025/Regeling702a05e9add94948830d048ae8630f88/nld@2025-03-25;08034036",
+    "beginGeldigheid": "2022-01-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2025_Regeling702a05e9add94948830d048ae8630f88?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2025/Regeling08df3f5e2d6c4c6283b6fdcada39128f",
+    "titel": "Omgevingsprogramma Stedelijke en maatschappelijke voorzieningen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2025/Regeling08df3f5e2d6c4c6283b6fdcada39128f/nld@2025-12-03;14552206",
+    "beginGeldigheid": "2025-12-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2025_Regeling08df3f5e2d6c4c6283b6fdcada39128f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2025/Regeling54a9635a006a49abb0d0394e70567452",
+    "titel": "Omgevingsprogramma Warmteprogramma 2026-2030 Eindhoven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2025/Regeling54a9635a006a49abb0d0394e70567452/nld@2025-12-16;15044593",
+    "beginGeldigheid": "2025-12-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2025_Regeling54a9635a006a49abb0d0394e70567452?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2025/Regeling325e784e745e4428be06aef284ec4ae7",
+    "titel": "Omgevingsprogramma Gezonde Leefomgeving 2026 - 2035",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2025/Regeling325e784e745e4428be06aef284ec4ae7/nld@2026-02-06;14423626",
+    "beginGeldigheid": "2026-02-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2025_Regeling325e784e745e4428be06aef284ec4ae7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2026/Regelinga2e5287513e740f890820a1015fa9204",
+    "titel": "Omgevingsprogramma Gebiedskader Kanaalzone",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2026/Regelinga2e5287513e740f890820a1015fa9204/nld@2026-04-07;07264104",
+    "beginGeldigheid": "2026-03-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2026_Regelinga2e5287513e740f890820a1015fa9204?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2026/Regelinga21a8fe5d5ba480490ce2a581b27cfd2",
+    "titel": "Omgevingsprogramma Herziene woonprogramma Eindhoven 2026-2030 - Voor iedereen een thuis",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2026/Regelinga21a8fe5d5ba480490ce2a581b27cfd2/nld@2026-04-08;09404278",
+    "beginGeldigheid": "2026-04-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2026_Regelinga21a8fe5d5ba480490ce2a581b27cfd2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Eindhoven",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0772/2020/omgevingsplan/nld@2026-05-28;09185590",
+    "beginGeldigheid": "2026-06-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2026/Regeling9ae5da2f02d14700936e6611f054b3d7",
+    "titel": "Omgevingsprogramma Gebiedsskader Terrein MMC en Peppelrode",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2026/Regeling9ae5da2f02d14700936e6611f054b3d7/nld@2026-07-08;11220826",
+    "beginGeldigheid": "2026-07-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2026_Regeling9ae5da2f02d14700936e6611f054b3d7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0772/2026/Regeling0b2fd63eeea24d50b98e613dfaae4d0a",
+    "titel": "Omgevingsprogramma Gebiedskader Vaartbroek",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0772/2026/Regeling0b2fd63eeea24d50b98e613dfaae4d0a/nld@2026-07-08;13042086",
+    "beginGeldigheid": "2026-07-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0772_2026_Regeling0b2fd63eeea24d50b98e613dfaae4d0a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:04Z"
+  }
+]

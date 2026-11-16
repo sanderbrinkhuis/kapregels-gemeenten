@@ -1,0 +1,89 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Ede combineert een melding zonder verbodsmogelijkheid voor alle bomen boven 80 cm omtrek (D0 voor dat deel) met een vergunningplicht voor waardevolle en monumentale bomen en groenstructuur (kaart). Daarnaast geldt een situationele vergunningplicht voor bomen boven 80 cm (kap nodig voor een vergunningplichtige activiteit, noodkap). Het model heeft geen D-regel voor een vergunningplicht die alleen bij zo'n situatie geldt; die is hier niet meegeteld (anders D3 voor de hele kom).",
+  "Bomen tot en met 80 cm omtrek zijn volledig uitgezonderd van de afdeling, ook als ze op de groenstructuurkaart of als waardevol staan: de omtrekgrens werkt dus als drempel voor alle regimes. Het model scoort zo'n drempel niet apart bij een kaartsysteem.",
+  "Beleidsregel en nadere regels (2020, CVDR644911_2, CVDR644846_3, CVDR640855_2) verwijzen naar artikelen van de APV Ede 2020/2019 en staan als geldend in CVDR, terwijl de APV inmiddels APV Ede 2026 heet; de artikelnummers 4:11b tot en met 4:11d zijn gelijk gebleven."
+ ],
+ "gm_code": "GM0228",
+ "gemeente": "Ede",
+ "brondocument": "APV Ede 2026 (CVDR762038_1) afd. 4.3 art. 4:10 tot en met 4:11f en art. 6:1; Beleidsregel houtopstanden Ede (CVDR644911_2) art. 4 en 5; Nadere regel houtopstanden Ede (CVDR644846_3) art. 2 en 3; Aanwijzingsbesluit groenstructuur (CVDR646197_1); Nadere regel Bomenfonds Ede 2020 (CVDR640855_2); Uitvoerings- en Handhavingsstrategie De Vallei (CVDR728566_1) bijlage 4; Leges 2026 (CVDR747486_3) tarief 2.30; Omgevingsplan (CVDR696227_5) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR762038/1 ; https://lokaleregelgeving.overheid.nl/CVDR644911/2 ; https://lokaleregelgeving.overheid.nl/CVDR644846/3 ; https://lokaleregelgeving.overheid.nl/CVDR646197/1 ; https://lokaleregelgeving.overheid.nl/CVDR640855/2 ; https://lokaleregelgeving.overheid.nl/CVDR728566/1 ; https://lokaleregelgeving.overheid.nl/CVDR747486/3",
+ "datum_geldigheid": "APV CVDR762038_1 geldend vanaf 2026-06-03 t/m heden; Beleidsregel CVDR644911_2 en Nadere regel CVDR644846_3 vanaf 2024-01-01; Nadere regel Bomenfonds CVDR640855_2 vanaf 2023-05-01; Aanwijzingsbesluit CVDR646197_1 vanaf 2020-11-19 (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV Ede 2026: versie 1 per 2026-06-03 (nieuwe vaststelling). Beleidsregel en Nadere regel houtopstanden: versie 2 resp. 3 per 2024-01-01. Leges: versie 3 per 2026-10-01. Omgevingsplan: versie 5 per 2026-08-17.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 tarief 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4.11b van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 1202 bekendmakingen op titel, 367 besluiten, 36 weigeringen volgens titel. Steekproef van 10 besluiten noemt geen grondslag. Veel verleende kapvergunningen voor 1 tot 3 gewone bomen (eik, berk, beuk, conifeer); dat past bij een vergunningplicht voor bomen boven 80 cm die onder groenstructuur, waardevol, bouw of noodkap vallen, maar de grondslag per besluit is niet te zien. De zoekmethode kan besluiten missen.",
+ "vergunningplicht": "Twee lagen voor bomen boven 80 cm omtrek binnen de bebouwde kom: (1) omgevingsvergunning alleen voor waardevolle of monumentale houtopstand, houtopstand in de groenstructuur, kap nodig voor een vergunningplichtige activiteit en noodkap (art. 4:11b lid 1); (2) voor alle overige houtopstand een melding ten minste tien werkdagen vooraf (art. 4:11a), zonder verbodsmogelijkheid.",
+ "drempel": "Art. 4:11 onder f: de afdeling geldt niet voor 'bomen, onverminderd de herplant- en instandhoudingsplicht en de landschappelijke inpassing op grond van het bestemmingsplan, met een stamomtrek van 80 cm of minder, op een hoogte van 1,30 meter, gemeten vanaf het maaiveld.' Dus melding of vergunning pas boven 80 cm omtrek.",
+ "omtrek_cm": 80,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Art. 4:11 onder d: de afdeling geldt niet voor 'houtopstand die gelegen is buiten een bebouwde kom, tenzij de houtopstand een zelfstandige eenheid vormt die: - een oppervlak beslaat van maximaal 10 are - bestaat uit een rijbeplanting van niet meer dan 20 bomen, gerekend over het totale aantal rijen'. Binnen de bebouwde kom (art. 4:10 onder d, verwijzing naar art. 4.1 Wet natuurbescherming zoals die luidde voor de Omgevingswet) geldt de afdeling voor particuliere en gemeentelijke bomen; gemeentegrond is vrijgesteld van de meldingsplicht (art. 4:11a lid 3 onder b). Vergunningplicht (art. 4:11b lid 1 onder a): 'een waardevolle of monumentale houtopstand of een houtopstand die onderdeel uitmaakt van de groenstructuur'. Groenstructuur: aanwijzingsbesluit CVDR646197_1: 'hoofdgroenstructuur, wijkgroenstructuur, hoofdgroenstructuur waardevol particulier groen en hoofdgroenstructuur Veluwe' (kaartbijlagen niet ingezien). Waardevolle en monumentale houtopstand: criteria in de nadere regel (art. 2: bijvoorbeeld waardevol is 'tenminste 40 jaar oud' en heeft een boomeigenschap uit tabel 2b); de uitzonderlijke lijst (bijlage 1) is 'gereserveerd' (leeg).",
+ "uitzonderingen": "Art. 4:11: windschermen om boomgaarden; fijnsparren tot twaalf jaar als kerstbomen; kweekgoed; houtopstand buiten de bebouwde kom (met uitzondering van kleine eenheden, zie reikwijdte); houtopstand die moet worden geveld krachtens de Plantenziektewet of aanschrijving; bomen met een stamomtrek van 80 cm of minder. Geen uitzondering voor tuinen, soorten of perceelgrootte (de toelichting zegt dat een tuinuitzondering uit de Boswet bewust niet is overgenomen). Art. 4:11a lid 3 onder b: houtopstand op grond van de gemeente is vrijgesteld van de melding.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4:11c lid 1: 'Het bevoegd gezag verleent een omgevingsvergunning voor het kappen van een houtopstand indien dit naar zijn oordeel noodzakelijk is wegens: a. de resultaten van boomtechnisch onderzoek; b. de gezondheidstand van de houtopstand; c. de naleving van wet- en regelgeving ...; d. concrete herinrichtingsplannen voor de openbare plaats; e. ... ; f. het bouwrijp opleveren van een perceel ...' Lid 3: 'Het bevoegd gezag kan een omgevingsvergunning voor het kappen van een houtopstand verlenen in verband met: a. het bouwen van een bouwwerk; b. de veroorzaakte overlast; c. de beperkte ontwikkelingsmogelijkheden van de houtopstand;'. Nadere regel art. 3 lid 1: 'Burgemeester en wethouders verlenen een omgevingsvergunning voor het kappen van een houtopstand als is voldaan aan één van de in tabel 3a opgenomen criteria.' Voor uitzonderlijke houtopstand gelden lid 1 onder d tot en met f niet (art. 4:11c lid 2). Een vergunning is dus alleen mogelijk op een gesloten lijst van gronden.",
+ "herplantplicht": "Beleidsregel houtopstanden art. 4 lid 1: 'Burgemeester en wethouders leggen een herplantplicht op als een omgevingsvergunning wordt verleend voor het vellen van een vergunningplichtige houtopstand.' Lid 3: 'Indien herplant in de directe omgeving niet mogelijk is wordt in plaats daarvan de verplichting opgenomen tot compensatie in de vorm van een bijdrage in het gemeentelijke bomenfonds.' APV art. 4:11d lid 1 zegt 'kan': 'Het bevoegd gezag kan aan de vergunning het voorschrift verbinden dat indien herplant geen of onvoldoende compensatie biedt de aanvrager verplicht is een vergoeding te storten in het gemeentelijk bomenfonds.' Bijdrage volgens de Compensatierekentabel (Nadere regel Bomenfonds art. 6), bijvoorbeeld EUR 1.000 tot EUR 4.500 per boom naar stamomtrek.",
+ "herplant_ontsnapping": "Geen uitweg voor herplant zelf (beleidsregel art. 4: 'leggen ... op'). Wel een alternatief: 'Indien herplant in de directe omgeving niet mogelijk is wordt in plaats daarvan de verplichting opgenomen tot compensatie in de vorm van een bijdrage in het gemeentelijke bomenfonds' (art. 4 lid 3). Art. 5 lid 3: B en W 'kunnen afwijken' van de categorie als de locatie 'kennelijk ongeschikt' is. Nadere regel Bomenfonds art. 8: 'Het college van burgemeester en wethouders kan bepalen dat een uitzondering geldt op de herplantplicht of de compensatieplicht ... voor tuinen die kleiner zijn dan een oppervlakte van: i) Voortuin kleiner dan 15 m2; ii) Achtertuin kleiner dan 25 m2.' Art. 4 lid 5: niet van toepassing als het bestemmingsplan compensatie regelt. Het college beslist.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Handhavingsstrategie De Vallei, bijlage 4: 'Zonder of in afwijking van de omgevingsvergunning kappen dan wel niet naleven herplantplicht | € 2.000 per boom | per direct tijdens het plantseizoen' (last onder dwangsom). APV art. 6:1 lid 1 straft overtreding van onder meer art. 4:11b en 4:11d: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een omgevingsvergunning.'",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "Eigen strafbepaling: APV art. 6:1 lid 1 noemt de artikelen 4:11a, 4:11b, 4:11d en 4:11e (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). WED-aanwijzing in art. 6:1 lid 3 alleen voor 2:10, 2:11 en 2:12 lid 1, niet voor 4:11b; route via Ow 5.1 (leges tarief 2.30, omgevingsplanactiviteit). Herplantplicht na illegale kap: beleidsregel art. 4 lid 4. Bestuurlijke boete in de regeling niet gevonden; de handhavingsstrategie noemt 'Bestuurlijke boete (indien mogelijk)' als beleid en een dwangsom van EUR 2.000 per boom voor kappen zonder vergunning.",
+ "procedure": "Omgevingsvergunning; leges tarief 2.30: EUR 63,00 voor 1 boom, EUR 116,50 voor 2, EUR 162,00 voor 3, EUR 198,00 voor 4 en EUR 32,00 per boom daarboven (maximaal EUR 5.000). Melding ten minste tien werkdagen vooraf (art. 4:11a). Noodkap: besluit binnen vijf werkdagen (beleidsregel art. 2). Vergunning treedt in werking na vier weken (beleidsregel art. 3). Beslistermijn APV art. 1:2 is niet van toepassing op een omgevingsvergunning; bezwaar en beroep niet apart gelezen.",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Kaarten niet ingezien: groenstructuurkaarten (bijlagen bij CVDR646197_1) en de lijst van monumentale en waardevolle bomen op de gemeentelijke website zijn niet in de bronnen opgehaald. Dat particulier groen erbij hoort blijkt uit de tekst van het aanwijzingsbesluit ('hoofdgroenstructuur waardevol particulier groen').",
+ "status": "ok",
+ "ontbrekend": "Groenstructuurkaarten en de lijst/kaart van monumentale en waardevolle bomen niet ingezien (omvang en aandeel particulier onbekend; bepaalt of het gebied substantieel is). Gemeentelijke website niet geraadpleegd. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen. Compensatierekentabel alleen via Nadere regel Bomenfonds gelezen.",
+ "artikelnummers": [
+  "APV 2026 art. 4:10",
+  "APV 4:11",
+  "APV 4:11a",
+  "APV 4:11b",
+  "APV 4:11c",
+  "APV 4:11d",
+  "APV 6:1",
+  "Beleidsregel houtopstanden art. 4, 5",
+  "Nadere regel houtopstanden art. 2, 3",
+  "Aanwijzingsbesluit groenstructuur enig artikel",
+  "Nadere regel Bomenfonds art. 6, 8",
+  "Handhavingsstrategie bijlage 4",
+  "Leges 2026 tarief 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D2 (bereik 1-2): bomen tot en met 80 cm omtrek zijn uitgezonderd; boven 80 cm is er vergunningplicht voor waardevolle en monumentale bomen en de groenstructuur (aangewezen gebieden en structuren, D2) en voor de overige bomen alleen een melding zonder verbodsmogelijkheid (D0 voor dat deel). Toelichting art. 4:11a: 'Er is hier echter geen sprake van een op rechtsgevolg gericht besluit'. Het hoogste deel bepaalt D. Minimum D1: de kaarten zijn niet ingezien en het is niet vast te stellen of de groenstructuur een substantieel deel van de gemeente beslaat. Kap boven 80 cm nodig voor een vergunningplichtige activiteit of noodkap vergt ook vergunning (art. 4:11b lid 1 onder b en c); dit is niet als aparte D-regel geteld (zie modelsignaal).",
+  "Boom A (omtrek 80 cm) valt precies op de grens 'van 80 cm of minder' en is dus uitgezonderd: nee. Boom B (40 cm): nee. Een boom van meer dan 80 cm in een achtertuin binnen de kom moet worden gemeld, tenzij hij waardevol of monumentaal is of in de groenstructuur staat.",
+  "W3 (bereik 2-3): vergunning wordt alleen verleend op een gesloten lijst van gronden ('verleent ... indien dit naar zijn oordeel noodzakelijk is wegens' en 'kan ... verlenen in verband met'); dat is weigeren-tenzij. Kleine afwijking naar W2 mogelijk doordat art. 4:11c lid 3 een belangenafweging toelaat.",
+  "H3: beleidsregel (college, geldend in CVDR, voor vergunningplichtige houtopstand) 'leggen een herplantplicht op' en bij onmogelijke herplant 'wordt in plaats daarvan de verplichting opgenomen tot compensatie in de vorm van een bijdrage in het gemeentelijke bomenfonds'. De APV zelf zegt 'kan'; de beleidsregel gaat voor (tegenstrijdige teksten).",
+  "S1: eigen strafbepaling in APV art. 6:1 lid 1 (geen WED-aanwijzing voor 4:11b) en bewijs omgevingsplanactiviteit in leges; herplant na illegale kap verplicht (beleidsregel art. 4 lid 4). Geen bestuurlijke boete in de regeling; boete alleen in handhavingsbeleid (telt als S1).",
+  "Melding art. 4:11a geldt ook voor bomen buiten de vergunningplichtige categorieën boven 80 cm; de gemeente is zelf vrijgesteld. Compensatiebedragen: EUR 1.000 tot EUR 4.500 per boom (1e en 2e grootte) volgens stamomtrek.",
+  "Eerdere beleidsregels (CVDR428604_1, CVDR601346_1) en nadere regels (CVDR428133_1, CVDR296244_1, CVDR644846_1 en _2) zijn vervallen of vervangen door de huidige versies.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+ ]
+}

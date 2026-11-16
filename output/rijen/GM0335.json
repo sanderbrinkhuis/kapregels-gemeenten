@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0335",
+  "gemeente": "Montfoort",
+  "provincie": "Utrecht",
+  "brondocument": "Bomenverordening gemeente Montfoort (CVDR37502_1), art. 1, 2, 3, 5, 8, 9, 19 en bijlage 1 (toelichting); Legesverordening Montfoort 2026 (CVDR754851_1); Omgevingsplan Montfoort art. 22.299 (CVDR696276_2); Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht (CVDR748605_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR37502/1",
+  "datum_geldigheid": "CVDR37502_1: geldend van 2010-10-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2010-10-01 (enige versie; APV 2023 afd. 4.3 art. 4:10-4:12 zijn 'Vervallen')",
+  "juridische_plaats": "Losse bomenverordening; werkt als omgevingsplanactiviteit volgens Legesverordening 2026 ('omgevingsplanactiviteit ... bestaande uit het vellen van een houtopstand, bedoeld in ... artikel 3 van de Bomenverordening gemeente Montfoort in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "16 bekendmakingen sinds 2025 (8 besluiten, 7 aanvragen, 0 weigeringen volgens titel). Alle 8 gelezen besluiten noemen 'Omgevingsplanactiviteit, artikel 5.1 lid 1a van de Omgevingswet'. Eén besluit (gmb-2025-320607) betreft een es 'geregistreerd als waardevolle houtopstand met nummer 371316' in een kerktuin: past bij een lijstsysteem. Klein aantal besluiten, past bij een beperkte lijst.",
+  "vergunningplicht": "Omgevingsvergunning (omgevingsplanactiviteit), alleen voor houtopstand in het bestand WHM (Waardevolle Houtopstanden) of PWHM (Potentieel Waardevolle Houtopstanden) en voor houtopstand die is geplant op grond van een herplantplicht (art. 3 lid 1)",
+  "drempel": "geen omtrekdrempel; alleen houtopstanden die in het bestand WHM/PWHM staan (de definitie 'boom' in art. 1 lid 1 sub a noemt wel 'een dwarsdoorsnede van de stam van minimaal 20 centimeter op 1,3 meter hoogte')",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (alleen in de definitie van 'boom')",
+  "reikwijdte": "Hele gemeente, maar alleen individuele bomen en boomgroepen, houtwallen, hakhout en bos die in het bestand WHM/PWHM zijn opgenomen, plus bomen geplant op grond van een herplantplicht. Het bestand (bijlage 5, 'los boekwerk') zit niet in het dossier en is niet ingezien. De toelichting zegt: 'Gekozen is voor het uitgangspunt dat in beginsel geen kapvergunning vereist is voor het vellen van een boom tenzij deze staat vermeld in het bestand'.",
+  "uitzonderingen": "Art. 3 lid 4: geen verbod voor dunning, vellen krachtens de Plantenziektewet, periodiek vellen van hakhout, periodiek knotten; lid 5: niet voor een dode houtopstand.",
+  "weigeringsgronden": "Art. 3 lid 2 (WHM): 'wordt in beginsel geen kapvergunning afgegeven, tenzij sprake is van: a. ernstige bedreiging van de openbare veiligheid; b. noodtoestand; c. andere uitzonderlijke situaties.' Art. 3 lid 3 (PWHM): 'kan worden geweigerd op grond van: a. de natuurwaarde ...; f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 8 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 9 lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen herplantbeleidsregel, boomwaarderegeling of herplantfonds gevonden.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Geen betaling in plaats van herplant geregeld.",
+  "sancties": "Eigen strafbepaling art. 19 lid 1: 'Hij die handelt in strijd met artikel 3, eerste lid en/of artikel 9 en/of artikel 11, kan worden gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.' Lid 2: bij de strafmaat kan rekening worden gehouden met de boomwaarde. Daarnaast werkt de regel als omgevingsplanactiviteit (leges), dus ook WED via Ow 5.1. Geen bestuurlijke boete. Herplantplicht na illegale kap: art. 9 lid 1 ('kan').",
+  "procedure": "Omgevingsvergunning; leges € 176,70 (Legesverordening 2026, tarief vellen houtopstand art. 3 Bomenverordening); art. 5: vergunning van rechtswege na 8 weken ('wordt geacht te zijn verleend'), verdagen met ten hoogste 6 weken; bezwaar en beroep volgens Awb; art. 6 voorschrift van niet-gebruik tot vergunning onherroepelijk is.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 9 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 19 lid 1 stelt strijd met artikel 9 strafbaar (hechtenis of geldboete tweede categorie). Beleidsregel Regio Utrecht bijlage P noemt een dwangsom: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien (bestand WHM/PWHM is bijlage 5, 'los boekwerk', niet in CVDR-tekst; gemeentelijke website met drie URL-pogingen niet gevonden)",
+  "status": "ok",
+  "ontbrekend": "Bestand WHM/PWHM (bijlage 5, los boekwerk) niet ingezien: aantal bomen, verhouding WHM/PWHM en eigendom onbekend; daardoor ook onzeker welk regime (W3 voor WHM of W2 voor PWHM) voor het grootste deel van de bomen geldt. Omgevingsplan in het DSO niet ingezien (alleen CVDR-tekst art. 22.299).",
+  "artikelnummers": [
+    "Bomenverordening: art. 1, 2, 3, 5, 6, 8, 9, 19",
+    "APV 2023: art. 4:10-4:12 (vervallen)",
+    "Legesverordening 2026: tarief vellen houtopstand (omgevingsplanactiviteit)",
+    "Omgevingsplan: art. 22.299",
+    "Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht: bijlage P"
+  ],
+  "opmerkingen": [
+    "Lijstsysteem; lijst niet ingezien, dus D-puntschatting 1 met bereik vanaf 0 en betrouwbaarheid laag.",
+    "W2: Art. 3 lid 3 (PWHM): 'kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand'. Voor WHM geldt 'in beginsel geen kapvergunning' (W3); het aandeel WHM/PWHM is onbekend, daarom W-bereik 2-3.",
+    "H1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' (art. 8 lid 1).",
+    "S1: eigen strafbepaling art. 19 en omgevingsplanactiviteit volgens leges (S1 zonder bereik). De legesverordening verwijst ook naar 'de provinciale verordening'.",
+    "Art. 5 (vergunning van rechtswege na 8 weken) is als procedure vastgelegd en niet als W0 gescoord; zie modelsignaal.",
+    "Art. 14 (bijdrageregeling) en art. 15-16 gaan over subsidie voor onderhoud van waardevolle bomen en zijn niet gescoord.",
+    "Aanvraagvereisten in omgevingsplan art. 22.299 zijn aanvullend; er is wel een vergunningplicht voor de lijstbomen."
+  ],
+  "modelsignalen": [
+    "Art. 5 Bomenverordening: vergunning 'geacht te zijn verleend' bij niet tijdig beslissen. INTENT.md noemt 'vergunning van rechtswege' onder W = 0, maar dat bedoelt waarschijnlijk een regime zonder toetsing, niet een fictieve beschikking als procedurefallback. Hier W op de criteria gescoord.",
+    "Lijst met twee niveaus (WHM: 'in beginsel geen kapvergunning'; PWHM: 'kan worden geweigerd'): INTENT.md zegt 'regime voor het grootste deel van de gedekte bomen', maar zonder lijst is dat aandeel onbekend."
+  ]
+}

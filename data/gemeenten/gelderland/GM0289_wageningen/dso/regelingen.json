@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0289/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente wageningen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0289/2026/omgevingsvisie/nld@20",
+    "beginGeldigheid": "2026-07-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0289_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0289/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Wageningen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0289/2020/omgevingsplan/nld@2026-09-23;10395255",
+    "beginGeldigheid": "2026-09-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0289_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:22Z"
+  }
+]

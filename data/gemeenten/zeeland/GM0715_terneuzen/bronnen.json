@@ -1,0 +1,31 @@
+{
+  "gemeente": "Terneuzen",
+  "gm_code": "GM0715",
+  "provincie": "Zeeland",
+  "zoeknaam_cvdr": "Terneuzen",
+  "zoeknaam_bekendmakingen": "Terneuzen",
+  "opgehaald_op": "2026-11-16T14:06:38+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Terneuzen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 81,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Terneuzen\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 30,
+  "geldende_regelingen": 36,
+  "geldend_met_kapartikelen": [
+    "CVDR451565_1",
+    "CVDR458513_1",
+    "CVDR460164_1",
+    "CVDR657600_1",
+    "CVDR657618_1",
+    "CVDR696382_2",
+    "CVDR708259_4",
+    "CVDR730965_2",
+    "CVDR748989_1"
+  ],
+  "bekendmakingen_besluiten": 8,
+  "bekendmakingen_aanvragen": 19,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

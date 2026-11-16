@@ -1,0 +1,74 @@
+{
+  "gm_code": "GM1961",
+  "gemeente": "Vijfheerenlanden",
+  "provincie": "Utrecht",
+  "brondocument": "Bomenverordening gemeente Vijfheerenlanden 2023 (CVDR716718_1: art. 1, 2, 4, 8, 10, 11, 14); Groene kaart en bomenregister (CVDR748841_1); Bijdrageregeling (CVDR737933_1); Leges 2026 art. 2.30 (CVDR754624_1); APV 2025 afd. 4.3 vervallen (CVDR734197_2); handhavingsstrategieën CVDR751759_1 en CVDR760637_1; Omgevingsplan art. 22.299 (CVDR696537_5)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR716718/1",
+  "datum_geldigheid": "geldend van 2024-03-08 t/m heden (CVDR716718_1)",
+  "laatste_wijziging": "versie 1, in werking 2024-03-08; Groene kaart vastgesteld in werking 2025-12-05",
+  "juridische_plaats": "Bomenverordening (APV afd. 4.3 vervallen); werkt als omgevingsplanactiviteit volgens Leges 2026 art. 2.30 ('bestaande uit het vellen van een houtopstand, bedoeld in artikel 22.8 van de Omgevingswet')",
+  "praktijkcontrole": "6 bekendmakingen sinds 2025, 4 besluiten (alle evenementenvergunningen), 0 kapbesluiten. Past bij een kleine lijst van beschermde bomen.",
+  "vergunningplicht": "vergunning, alleen voor beschermde houtopstand op de Groene Kaart",
+  "drempel": "geen drempel; alleen individueel beschermde houtopstand op de Groene Kaart/Bomenregister",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t.",
+  "reikwijdte": "Hele gemeente, maar alleen beschermde houtopstand: monumentale bomen, toekomstbomen en bomen in de hoofd- en nevengroenstructuur (art. 2 lid 2). Volgens de gemeentesite zijn bomen in de groenstructuur van de gemeente en kunnen monumentale bomen ook van inwoners zijn.",
+  "uitzonderingen": "Plantenziektenwet of aanschrijving, hakhout, knotten en kandelaberen, noodkap, afgestorven gemeentelijke houtopstand (art. 4 lid 3).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 8 lid 1: 'De omgevingsvergunning voor het vellen van beschermde houtopstand wordt geweigerd indien de belangen van het vellen van de houtopstand niet opwegen tegen de belangen van behoud van de houtopstand.' Lid 3: 'Een omgevingsvergunning voor het vellen van een beschermde houtopstand wordt geweigerd, tenzij:' ernstig gevaar of hinder, groot maatschappelijk belang, of boomdeskundig verbetering.",
+  "herplantplicht": "Art. 10 lid 1: 'Bij vergunningvoorschrift voor het vellen van een houtopstand wordt in beginsel een:' verplantingsplicht, herbeplantingsplicht en/of financiële bijdrage voor herbeplanting 'opgelegd'. Art. 11 lid 2 (na illegale kap): 'Indien niet ter plaatse kan worden herplant wordt een financiële compensatie gestort in het gemeentelijk herplantfonds.'",
+  "herplant_ontsnapping": "'in beginsel' (art. 10 lid 1); 'en/of' laat een keuze tussen verplanten, herplanten of betalen; aanvraagvereiste 'indien herplant mogelijk is' (art. 7 onder e). Het college beslist per geval.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 14: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde wordt gestraft met hechtenis maximaal twee maanden of een geldboete van de tweede categorie.' Dwangsomrichtlijn (CVDR751759_1): 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "S1: eigen strafbepaling art. 14 (hechtenis max. twee maanden of geldboete tweede categorie) en WED via Ow 5.1 (Leges 2.30 noemt het vellen een omgevingsplanactiviteit). Geen bestuurlijke boete; geen WED-aanwijzing in de verordening; APV 6:1 lid 2 wijst alleen 2:10 lid 5 aan. Handhavingsstrategie 2026-2029 noemt 'Illegale kap of ontbreken herplant' als hoge prioriteit.",
+  "procedure": "Omgevingsvergunning, schriftelijk en gemotiveerd (art. 6); leges art. 2.30 € 181,25 (tweede kolom € 205,20, kolomkop niet vastgesteld); uitgestelde inwerkingtreding bij kappen volgens handhavingsstrategie; beslistermijn niet vastgesteld.",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Groene Kaart/Bomenregister niet ingezien (interactieve kaart op de gemeentesite, aantallen niet gevonden)",
+  "status": "ok",
+  "ontbrekend": "Groene Kaart en Bomenregister niet ingezien: aantal bomen en aantal particuliere bomen onbekend. Overgangsbepaling art. 18 lid 1 laat de APV 2023 afd. 4.3 gelden 'tot het tijdstip waarop de ... Groene Kaart en Bomenregister onherroepelijk zijn geworden'; die afdeling is in alle geldende APV-versies vervallen en voor het voormalige Leerdam en Vianen verwees APV 2023 (versie 1) naar oude bomenverordeningen (Leerdam 2010, Vianen 2013) die niet in CVDR als geldend staan. Of de kaart onherroepelijk is, is niet vastgesteld. Omgevingsplan in het DSO niet ingezien; de handhavingsstrategie noemt 'karakteristieke landschapselementen in het omgevingsplan', maar zulke regels staan niet in de CVDR-tekst.",
+  "artikelnummers": [
+    "Bomenverordening 2023: art. 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 14, 18",
+    "Groene kaart en bomenregister: CVDR748841_1",
+    "Leges 2026: art. 2.30",
+    "APV 2025: art. 4:10-4:12 (vervallen), 6:1",
+    "Omgevingsplan: art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (0-1): lijstsysteem, lijst niet ingezien; particuliere bomen worden aannemelijk geacht (gemeentesite: monumentale bomen 'kunnen van de gemeente zijn, maar ook van inwoners'; bijdrageregeling voor privaateigendom).",
+    "W3: 'wordt geweigerd, tenzij:' (art. 8 lid 3).",
+    "H2: 'wordt in beginsel een:' herbeplantingsplicht en/of financiële bijdrage (art. 10 lid 1). Bereik tot 3 omdat de bijdrage als alternatief voor herplant ook verplicht kan zijn; de verplichte storting in art. 11 lid 2 geldt alleen na illegale kap en telt niet.",
+    "Besluit art. 18 lid 1: overgangsregime APV 2023 niet beoordeeld (zie ontbrekend)."
+  ],
+  "modelsignalen": [
+    "Vijfheerenlanden: 'in beginsel' met 'en/of' tussen herplanten en betalen valt tussen H2 en H3; H2 aangehouden met bereik tot 3."
+  ]
+}

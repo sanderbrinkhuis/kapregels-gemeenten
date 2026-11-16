@@ -1,0 +1,69 @@
+{
+  "gm_code": "GM1676",
+  "gemeente": "Schouwen-Duiveland",
+  "provincie": "Zeeland",
+  "brondocument": "Geen kapregeling in CVDR gevonden: APV gemeente Schouwen-Duiveland 2015 (CVDR386027_14) afd. 3 'Het bewaren van houtopstanden' luidt '(artikelen 4:10, 4:11 en 4:12 vervallen)' en is al vervallen sinds versie 1 (2015). Gemeentelijke webpagina 'Bomen kappen' met lijst van beschermde bomen (pdf, Bomenstichting-register). Vermoedelijke grondslag: tijdelijk deel omgevingsplan (voormalige bestemmingsplannen), niet gelezen.",
+  "url": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/omgevingsvergunningen/omgevingsvergunning-bomen-kappen",
+  "datum_geldigheid": "onbekend (APV CVDR386027_14 geldend sinds 2025-11-25; afdeling houtopstanden vervallen sinds 2015)",
+  "laatste_wijziging": "onbekend",
+  "juridische_plaats": "onzeker: geen APV-, VFL- of bomenverordeningsartikel. Voor Renesse bevat het bestemmingsplan Renesse (NL.IMRO.1676.00154BpaRE-VA03, art. 31.7 'overige zone - monumentale boom', 3 aanduidingsvlakken) een kapverbod voor aangewezen monumentale bomen (tijdelijk deel omgevingsplan). Voor de rest van de gemeente is geen regel gevonden",
+  "praktijkcontrole": "25 bekendmakingen sinds 2025 (11 besluiten, 13 aanvragen), 0 weigeringen; kapbesluiten vooral in Zierikzee (Weststraat, Touwbaan, Hofferplein, begraafplaats 'waardevolle boom') en Burgh-Haamstede (Noordstraat, boom staat op de lijst). Grondslag niet vermeld. Enkele besluiten betreffen bomen die niet op de pdf-lijst staan, wat kan wijzen op een (kleine) gebiedsregel in Zierikzee.",
+  "vergunningplicht": "omgevingsvergunning voor beschermde bomen volgens de website: 'Een groot aantal bomen op Schouwen-Duiveland heeft een beschermde status. U mag een beschermde boom alleen met onze toestemming kappen. Wij houden een lijst (pdf) bij van deze bomen.' Regeltekst niet gevonden.",
+  "drempel": "geen drempel bekend; lijstsysteem volgens website",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t.",
+  "reikwijdte": "volgens website alleen bomen op de lijst 'Bomen op Schouwen-Duiveland die opgenomen zijn in het landelijk register van monumentale bomen van de Bomenstichting' (ca. 32 regels, o.a. Brouwershaven, Burgh-Haamstede, Noordgouwe, Ouwerkerk, Renesse, Zierikzee); juridische koppeling tussen lijst en vergunningplicht niet gelezen",
+  "uitzonderingen": "niet gevonden",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Renesse art. 31.7.4 sub b: 'Een omgevingsvergunning als bedoeld in lid 31.7.2 wordt slechts verleend indien: ... in het geval van het verwijderen, kappen of rooien van bomen (lid 31.7.2, onder d): de instandhouding van de betreffende boom direct of indirect een gevaar oplevert voor de omgeving.' (gesloten verleningsgrond, W3). De website noemt weigeringsgronden van het VNG-type; dat is geen regeltekst.",
+  "herplantplicht": "regeltekst niet gelezen. Website: 'We kunnen aan de omgevingsvergunning extra voorwaarden verbinden, zoals een herplantplicht.'",
+  "herplant_ontsnapping": "website: 'kunnen ... verbinden' (bevoegdheid, per geval); regeltekst niet gelezen",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "onbekend",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niet gevonden in een kapregeling. Alleen de Zeeuwse dwangsomleidraad in het Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR751626_1) noemt 'Niet voldoen aan herplantplicht' (maatwerk, per strekkende km of hectare).",
+  "herplant_niet_nakomen_type": "onbekend",
+  "sancties": "Kapverbod in Renesse staat in een bestemmingsplan (tijdelijk deel omgevingsplan): WED via Ow 5.1 (S1). Geen eigen strafbepaling of bestuurlijke boete gevonden. Bestuurlijke-boetebeleid in het U&H-beleid geldt alleen voor art. 18.12 en 18.13 Ow (bouwen en erfgoed).",
+  "procedure": "omgevingsvergunning via Omgevingsloket; website: leges € 219,20 (komt overeen met het aanlegtarief in de Legesverordening 2026, CVDR750546_1), beslistermijn 8 weken plus 6 weken verlenging; publicatie in Gemeenteblad, bezwaar binnen 6 weken.",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 0,
+    "max": 3
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "volledig_gelezen": false,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "onzeker",
+  "ontbrekend": "Alleen het bestemmingsplan Renesse (2024) bevat een kapverbod voor monumentale bomen (31.7.2 sub d: 'het verwijderen, kappen of rooien van bomen'); in de plannen Burgh-Haamstede 2016, Zierikzee buiten de grachten 2020, Nieuw-Haamstede 2016, Kerkwerve e.a. 2017, Bruinisse 2015, Nieuwerkerk en Oosterland 2014, Brouwershaven e.a. 2013, Schuddebeurs 2014 en Zonnemaire e.a. 2012 staat geen aanduiding met bomen (gebiedsaanduidingen gecontroleerd; alleen natuurgebied). Niet vast te stellen: of de drie vlakken in Renesse particuliere bomen aanwijzen; hoe de lijst van ca. 32 monumentale bomen juridisch beschermd is buiten Renesse; of Zierikzee (artikel 10-plan 2009 zonder machineleesbare tekst) een regel heeft. Lijst wel ingezien (https://www.schouwen-duiveland.nl/fileadmin/Schouwen-Duiveland/Pdf/Beleidsstukken/OW/overzicht_monumentale_bomen_PDF-A.pdf): 6 van de ca. 32 regels hebben eigenaar 'Particulieren' (o.a. in Zierikzee en Burgh-Haamstede, één in een achtertuin).",
+  "artikelnummers": "APV 2015 afd. 3 hoofdstuk 4 (art. 4:10-4:12 vervallen); Legesverordening 2026 tarieventabel art. 2.30 ([gereserveerd]) en aanlegactiviteit; geen kapartikel gevonden",
+  "opmerkingen": [
+    "Lijst ingezien, maar de juridische grondslag niet. Daarom W, H en S in de puntschatting op 0 (niet gelezen) en D 1 met minimum 0. De website noemt weigeringsgronden van het VNG-type ('kunnen ... weigeren', zou W2 zijn) en een herplantplicht als mogelijkheid ('kan', zou H1 zijn); dat is geen regeltekst. Kapbesluiten voor bomen die niet op de lijst staan (Zierikzee Weststraat, Touwbaan, Hofferplein) wijzen mogelijk op een gebiedsregel in de binnenstad van Zierikzee (beschermd stadsgezicht); als kleine gebiedsregel zou die D niet verhogen.",
+    "Nabewerking DSO/RP 16-11-2026: bestemmingsplan Renesse (NL.IMRO.1676.00154BpaRE-VA03, vastgesteld 2024-11-13, regelStatus geldend; opgeslagen als dso/rp_NL.IMRO.1676.00154BpaRE-VA03_kap.md). Art. 31.7.2: 'Het is binnen gronden met de aanduiding 'overige zone - monumentale boom' verboden zonder of in afwijking van een schriftelijke vergunning van bevoegd gezag ... d. het verwijderen, kappen of rooien van bomen.' Dat is een kapverbod voor individueel aangewezen bomen (D1, 3 aanduidingsvlakken in de API), zonder drempel en zonder herplantregel. W3 omdat art. 31.7.4 sub b de vergunning alleen toestaat bij gevaar (gesloten verleningsgrond), H0 (geen herplantregel in het plan), S1 (WED via Ow 5.1 voor een regel in het tijdelijk deel omgevingsplan). Aantal bomen op de lijst in Renesse en eigendom niet vastgesteld.",
+    "Niet voor D: art. 18 Tuin - Natuur en landschap in Renesse (art. 18.4.1: 'het verwijderen, kappen of rooien van bomen of andere opgaande beplanting', duinbeplanting en houtwallen) is een kleine natuurgebiedsregel. De bestemmingsplannen met alleen aanduidingen voor natuurgebied tellen niet (besluit 16-11-2026).",
+    "Bereik: W, H en S hebben minimum 0 omdat de regel alleen voor Renesse is gelezen; voor de andere kernen is de juridische koppeling van de lijst onbekend. D blijft 1 (0-1)."
+  ],
+  "modelsignalen": [
+    "Gemeente zonder kapregel in APV of verordening (al sinds 2015 vervallen) maar met omgevingsvergunningen voor bomenkap en een gepubliceerde lijst: de grondslag zit waarschijnlijk in voormalige bestemmingsplannen, die niet in CVDR staan. Zulke gevallen zijn met de lokale bronnen niet te scoren zonder DSO- of ruimtelijkeplannen-toegang.",
+    "Een lijst monumentale bomen die maar in één van ca. negen kernplannen als aanduiding is overgenomen: W, H en S zijn op die ene kern gebaseerd. Advies: in het rapport vermelden als 'lijstregel gedeeltelijk gevonden'."
+  ],
+  "lijst_aantal_totaal": 32,
+  "lijst_aantal_particulier": 6,
+  "lijst_telling": "ca. 32 regels in het overzicht monumentale bomen (pdf, website); particulier = eigenaar 'Particulieren'"
+}

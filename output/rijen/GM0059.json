@@ -1,0 +1,78 @@
+{
+ "provincie": "Fryslân",
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "volledig_gelezen": true,
+ "status": "ok",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "gm_code": "GM0059",
+ "gemeente": "Achtkarspelen",
+ "brondocument": "Bomenverordening (Bomenverordening 1996), art. 1, 2, 3, 7, 12, 13, 17, 18, 20; APV Achtkarspelen 2026 (CVDR754614_1) art. 4:10 en 4:11 verwijzen ernaar; Beleid VTH Achtkarspelen en Tytsjerksteradiel 2024 (CVDR717487_1) bijlage 3 (leidraad)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR39911/1 ; https://lokaleregelgeving.overheid.nl/CVDR717487/1",
+ "datum_geldigheid": "CVDR39911_1 geldend van 1996-12-04 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "Bomenverordening: laatste wijziging in de metadata 2010-09-02 (CVDR39911, enige versie). APV 2026: afdeling 3 Het bewaren van houtopstanden bevat alleen 'vervallen'/verwijzingen (art. 4:11 'opgenomen in Wabo en bomenverordening Achtkarspelen'), geldend vanaf 2026-01-01.",
+ "juridische_plaats": "Losse bomenverordening (CVDR39911_1, uit 1996). De kapregel werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR754202_1, art. 2.30) noemt 'het vellen van een houtopstand, bedoeld in artikel 4 van de bomenverordening Achtkarspelen in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (CVDR696169_2) bevat alleen aanvraagvereisten (art. 22.299). De verordening bevat een eigen strafbepaling (art. 20).",
+ "praktijkcontrole": "Sinds 2025: 149 bekendmakingen over kap, 70 besluiten, 3 aanvragen, 1 weigering volgens de titel. In de steekproef en de lijst gaat het om verleende omgevingsvergunningen voor het rooien van bomen, vooral 'vitaal slechte' bomen langs straten (waarschijnlijk gemeentelijke bomen), enkele monumentale bomen en een paar particuliere kapaanvragen (bijv. 'kappen van 2 bomen', 'kappen van 5 populieren'). Geen grondslagcitaat in de besluiten. Het geschatte aantal van 155 vergunningen en 180 kapmeldingen per jaar (uitvoeringsprogramma 2022, CVDR700450_1) past bij een vergunningplicht buiten de erven en tuinen.",
+ "vergunningplicht": "Vergunning van burgemeester en wethouders (art. 2 lid 1: 'Het is verboden zonder vergunning van burgemeester en wethouders houtopstand te vellen of te doen vellen.'). Melding alleen voor groot onderhoud van houtwallen en houtsingels (art. 3).",
+ "drempel": "Geen drempel in de bron: 'houtopstand: één of meer bomen, een houtwal, een houtsingel of een grotere (lint)begroeiing van struiken' (art. 1). Een 'boom' is gedefinieerd zonder minimummaat.",
+ "omtrek_cm": null,
+ "meethoogte": "Niet van toepassing (geen drempel); 'boomwal' en 'boomwaarde' gebruiken 1,3 m",
+ "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar. Alleen voor erven en tuinen geldt een afstandsgrens: 'houtopstand op erven en in tuinen mits deze zich, vanuit het hart gemeten, bevindt binnen een afstand van 20 meter van enige gevel van het hoofdgebouw' is uitgezonderd (art. 2 lid 2). Bomen op een erf of in een tuin verder dan 20 m van een gevel vallen dus wel onder het verbod. Daarnaast een lijst met monumentale bomen (art. 17; die lijst is niet ingezien, het brede regime bepaalt D).",
+ "uitzonderingen": "Art. 2 lid 2: wegbeplantingen en eenrijige beplantingen langs landbouwgrond van populieren of wilgen (tenzij geknot); 'vruchtbomen en windschermen om boomgaarden'; kerstbomen; kweekgoed; bosbouwondernemingen buiten de bebouwde kom; Plantenziektenwet/aanschrijving; knotten; en 'houtopstand op erven en in tuinen mits deze zich, vanuit het hart gemeten, bevindt binnen een afstand van 20 meter van enige gevel van het hoofdgebouw, met uitzondering van houtwallen en houtsingels, houtopstand die op grond van artikel 17 van deze verordening als monumentaal is aangewezen en houtopstand die is geplant ingevolge een voorschrift danwel een verplichting als bedoeld in artikel 12 onderscheidenlijk artikel 13'. Correctie D: ruime erf- en tuinuitzondering (alle erven en tuinen tot 20 m van de gevel), dus D 4 min 1 = 3. Geen oppervlaktegrens.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijst_telling": "Lijst van monumentale bomen (art. 17 lid 5) niet ingezien; telt niet voor D omdat het brede regime bepaalt.",
+ "weigeringsgronden": "Art. 7 lid 1: 'Burgemeester en wethouders kunnen de vergunning weigeren, danwel onder voorschriften verlenen in het belang van onder andere: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van dorpsschoon; waarden voor recreatie en leefbaarheid'. Ook de boomwaarde kan als motivering dienen. Monumentale bomen (art. 17 lid 8): vergunning 'slechts verleend, indien sprake is van een ernstige bedreiging van de openbare veiligheid, noodtoestand of andere uitzonderlijke situaties'.",
+ "herplantplicht": "Art. 12 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant.' Art. 13 lid 1: bij kap zonder vergunning 'kunnen burgemeester en wethouders ... de verplichting opleggen te herbeplanten'. Art. 12 lid 3 en art. 13 lid 4: 'kunnen' een vergoeding opleggen, te storten in het bomenfonds (art. 18), gebaseerd op de boomwaarde.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren' (art. 12) en 'kunnen ... de verplichting opleggen' (art. 13). Het college beslist per geval. Storting in het bomenfonds is alleen een 'kunnen'-bevoegdheid, geen verplichte uitweg. Een beleidsregel die herplant verplicht stelt, is niet gevonden.",
+ "herplant_niet_nakomen": "Art. 20 lid 1: 'Degene aan wie een voorschrift als bedoeld in artikel 7, 8 of 12 is gegeven, onderscheidenlijk een verplichting als bedoeld in artikel 13 is opgelegd, ... is gehouden dienovereenkomstig te handelen.' Art. 20 lid 2: wie 'een voorschrift onderscheidenlijk een verplichting ... niet nakomt, wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie'. Handhavingsleidraad (CVDR717487_1, bijlage 3, 29-9-2023): bij 'niet uitvoeren herplantplicht' 'Dwangsom, per overtreding', hoogte '€ 1.500' per boom, bij recidive strafrechtelijk optreden.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "herplant_type": "kan",
+ "sancties": "Eigen strafbepaling in de verordening: art. 20 lid 2 (hechtenis tot 2 maanden of geldboete tweede categorie, bij strafmaat kan de boomwaarde meetellen). WED-route via de Omgevingswet is aannemelijk (de regel werkt als omgevingsplanactiviteit, zie legesverordening art. 2.30) maar niet nodig voor S1. Herplant na illegale kap kan worden opgelegd (art. 13). Geen bestuurlijke boete in de regeling. In het handhavingsbeleid (CVDR717487_1 bijlage 3) staan dwangsommen van € 1.000 per boom (kap zonder vergunning) en € 1.500 per boom (herplantplicht niet uitgevoerd); dat is een dwangsom (algemeen instrumentarium), geen bestuurlijke boete.",
+ "procedure": "Leges: 'Artikel 2.30' van de legesverordening 2026 (CVDR754202_1) is voor de omgevingsplanactiviteit kappen 'reserveren'/'n.v.t.' (geen tarief). Aanvraag wordt twee weken ter inzage gelegd (art. 4). Meldingstermijn houtwallen: drie weken (art. 3). Bezwaar en beroep volgens de Awb; beslistermijn niet apart gevonden in de verordening.",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "ontbrekend": "Lijst van monumentale bomen niet ingezien (telt niet voor D). Omgevingsplan in het DSO niet ingezien. Erfgoednota (CVDR723347_1) is niet gedownload; geen aanwijzing dat die kapregels bevat.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 3, 4, 7, 12, 13, 17, 18, 20 (CVDR39911_1)",
+  "APV 2026 art. 4:10, 4:11, 6:1 (CVDR754614_1)",
+  "Leges 2026 art. 2.30 (CVDR754202_1)",
+  "Omgevingsplan art. 22.299 (CVDR696169_2)",
+  "Handhavingsbeleid bijlage 3 (CVDR717487_1)"
+ ],
+ "opmerkingen": [
+  "Peildatum 2026-11-14. D: geen drempel (D 4) min 1 voor de erf- en tuinuitzondering = 3. Uitzondering voor tuinen en erven: tot 20 m van de gevel; geen oppervlaktegrens.",
+  "W: 'Burgemeester en wethouders kunnen de vergunning weigeren, danwel onder voorschriften verlenen in het belang van onder andere: natuur- en milieuwaarden; ...' (art. 7) = W2.",
+  "H: 'kunnen ... de verplichting opleggen te herbeplanten' (art. 13 lid 1) = H1. Een storting in het bomenfonds 'kunnen' ze alleen opleggen, dus H blijft 1.",
+  "S: eigen strafbepaling art. 20 = S1. De 'dwangsom'/'bestuurlijke boete' in de leidraad is een dwangsom-tarief; er is geen bestuurlijke boete in de regeling.",
+  "Boom A en B: gezonde boom in een achtertuin binnen de bebouwde kom blijft meestal binnen 20 m van de gevel, dus 'nee'. Staat de boom verder dan 20 m van een gevel, dan is wel vergunning nodig.",
+  "Het oude artikel 4:11 van de APV ('opgenomen in Wabo en bomenverordening') verwijst nog naar de Wabo; de legesverordening verwijst naar 'artikel 4 van de bomenverordening' voor de vergunningplicht, terwijl art. 4 alleen de aanvraag regelt (verwijzingsfout; de vergunningplicht staat in art. 2).",
+  "Bomenverordening is uit 1996 en nog niet aangepast aan de Omgevingswet (verwijst naar Boswet, Wabo-achtige begrippen, Bosschap)."
+ ],
+ "modelsignalen": [
+  "Erf- en tuinuitzondering op afstand (20 m van de gevel) valt niet netjes onder 'achter- of zijtuinen' of 'alle erven'; ik heb de correctie -1 toegepast omdat het merendeel van de gewone tuinbomen binnen die afstand valt. Een model-kwestie: afstandsgrenzen (bijv. 20 m) en uitzonderingen op zichtbaarheid vanaf de weg zouden een vaste regel nodig hebben.",
+  "Een handhavingsleidraad met 'bestuurlijke boete' als tweede sanctie maar met alleen een dwangsombedrag telt niet als S2/S3; het model kent geen aparte plek voor beleid dat een boete noemt zonder wettelijke grondslag in de regeling."
+ ]
+}

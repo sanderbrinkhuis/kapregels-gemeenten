@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0150/2024/2_36",
+    "titel": "programma Wechelerhoek gemeente Deventer",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0150/2024/2_36/nld@59",
+    "beginGeldigheid": "2024-09-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0150_2024_2_36?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0150/2024/2_38_57",
+    "titel": "Programma Piekfijnplein gemeente Deventer",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0150/2024/2_38_57/nld@57",
+    "beginGeldigheid": "2024-09-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0150_2024_2_38_57?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0150/2025/2_40",
+    "titel": "Programma Centrum&Schil gemeente Deventer",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0150/2025/2_40/nld@2025-06-04;1",
+    "beginGeldigheid": "2025-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0150_2025_2_40?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0150/2026/omgevingsprogramma-wegencategorisering",
+    "titel": "Omgevingsprogramma Wegencategorisering Deventer  ",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0150/2026/omgevingsprogramma-wegencategorisering/nld@2026-07-07;1",
+    "beginGeldigheid": "2026-07-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0150_2026_omgevingsprogramma_wegencategorisering?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0150/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Deventer",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0150/2020/omgevingsplan/nld@2026-09-30;07480969",
+    "beginGeldigheid": "2026-11-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0150_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:39Z"
+  }
+]

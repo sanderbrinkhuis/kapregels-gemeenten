@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM0995",
+  "gemeente": "Lelystad",
+  "provincie": "Flevoland",
+  "brondocument": "Omgevingsplan gemeente Lelystad (CVDR696459_12), afd. 15.5 (art. 15.21 t/m 15.25), art. 15.4 en art. 22.289; APV Lelystad 2021 (CVDR659399_5) art. 4:11 vervallen; VFL Lelystad 2021 (CVDR659733_3) hoofdstuk 7 vervallen; Legesverordening 2026 (CVDR753275_1) art. 2.30; Bomenbeleidsplan (CVDR672052_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696459/12",
+  "datum_geldigheid": "geldend van 26-08-2026 t/m heden (omgevingsplan, versie 12); APV en VFL: kapartikel vervallen ('opgenomen in het Omgevingsplan gemeente Lelystad')",
+  "laatste_wijziging": "CVDR696459_12, in werking 26-08-2026 (de kapafdeling 15.5 is overgenomen uit de VFL via 'Wijziging Omgevingsplan: Verordening fysieke leefomgeving fase 1', bekendgemaakt 30-10-2025)",
+  "juridische_plaats": "omgevingsplan (nieuw deel, afd. 15.5); omgevingsplanactiviteit volgens leges art. 2.30",
+  "praktijkcontrole": "30 bekendmakingen sinds 2025 (volledigetekstzoekopdracht, ruim), waarvan 0 kapbesluiten volgens titel; ongeveer 7 'ontvangen aanvraag' en 'mededeling niet vergunning- of ontheffingplichtig' voor locaties (adressen niet overgenomen); rest zijn omgevingsplanwijzigingen en leges. Het ene 'beschikking op aanvraag' en de mededelingen 'niet vergunningplichtig' zijn niet als kap bevestigd. Weinig kapbesluiten, past bij een lijstsysteem binnen de contour.",
+  "vergunningplicht": "vergunning (omgevingsplanactiviteit): binnen de bebouwingscontour houtkap alleen voor bomen op de kaart bijzondere bomen; buiten de contour voor alle bomen, behalve op niet-openbaar toegankelijke particuliere kavels van ten hoogste 5.000 m2 (art. 15.22).",
+  "drempel": "geen drempel voor stamomtrek of -diameter",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen drempel)",
+  "reikwijdte": "Binnen de bebouwingscontour houtkap: alleen bomen en houtopstanden aangegeven op de kaart bijzondere bomen (gemeentelijk of particulier volgens Bomenbeleidsplan). Buiten de contour: alle bomen (particulier en openbaar), behalve houtopstanden op niet-openbaar toegankelijke particuliere kavels van ten hoogste 5.000 m2. Art. 15.21 lid 2: afdeling niet van toepassing waar op locatie specifieke regels gelden (afd. 15.4 of tijdelijk deel omgevingsplan).",
+  "uitzonderingen": "Particuliere kavels <= 5.000 m2, niet openbaar toegankelijk, buiten de contour (art. 15.22 lid 2). Verder geen uitzonderingen op soort in de afdeling gevonden.",
+  "weigeringsgronden": "Art. 15.23: 'Een omgevingsvergunning wordt alleen verleend als er geen onevenredige afbreuk wordt gedaan aan: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 15.25: 'Een vergunningvoorschrift kan aan een omgevingsvergunning worden verbonden in de vorm van een herplantplicht.' Alleen voor Natuurcamping Hollandse Hout (art. 3.18 onder b, kleine gebiedsregel): herplantplicht en 'compensatieplicht elders in de gemeente, indien herplant niet mogelijk is' als mogelijk voorschrift, en herbeplanting 'kan' na illegale kap. Geen herplantfonds of boomwaarde.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per vergunning. Buiten de natuurcamping geen regel over betalen in plaats van herplanten.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets specifiek over niet-nakomen van een herplantvoorschrift gevonden in afd. 15.5. VFL art. 20.3 lid 1 (strafbepaling VFL) noemt 'niet-nakoming van een opgelegde verplichting', maar het kapartikel is uit de VFL verdwenen. Voorschrift aan een omgevingsvergunning: alleen het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "WED via Ow 5.1 (kappen zonder omgevingsvergunning is een omgevingsplanactiviteit; leges art. 2.30 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'). Geen eigen strafbepaling en geen bestuurlijke boete voor kap gevonden. Handhavingsbeleid niet gevonden.",
+  "procedure": "Leges € 128,75 (art. 2.30 leges 2026). Aanvraagvereisten: omgevingsplan art. 15.24 en 22.289. Beslistermijn, publicatie en bezwaar: niet in de kapafdeling geregeld (algemene Awb/Ow-regels).",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Kaart bijzondere bomen en bebouwingscontour houtkap niet ingezien (alleen in het DSO beschikbaar). Het Bomenbeleidsplan (CVDR672052_1) noemt wel 'gemeentelijk of particulier' bij bijzondere bomen, dus particuliere bomen op de kaart zijn aannemelijk, maar de kaart zelf is niet gezien. Regels van het tijdelijk deel (oude bestemmingsplannen) kunnen op locatie afwijken (art. 15.21 lid 2).",
+  "artikelnummers": [
+    "Omgevingsplan art. 15.4",
+    "Omgevingsplan art. 15.21",
+    "Omgevingsplan art. 15.22",
+    "Omgevingsplan art. 15.23",
+    "Omgevingsplan art. 15.24",
+    "Omgevingsplan art. 15.25",
+    "Omgevingsplan art. 3.18 onder b",
+    "Omgevingsplan art. 22.289",
+    "APV art. 4:11 (vervallen)",
+    "VFL hoofdstuk 7 (vervallen)",
+    "Leges art. 2.30"
+  ],
+  "opmerkingen": [
+    "D: twee regimes. Binnen de bebouwingscontour alleen de kaart met bijzondere bomen (D1). Buiten de contour alle bomen, maar niet op niet-openbare particuliere kavels van ten hoogste 5.000 m2 (art. 15.22 lid 2). Die uitzondering valt onder de correctie 'alle erven of bouwkavels' (model v2.3): D2 - 1 = D1. Particuliere bomen op kavels groter dan 5.000 m2 blijven beschermd, dus D is minimaal 1, ook als er geen particuliere bomen op de kaart staan.",
+    "W: 'Een omgevingsvergunning wordt alleen verleend als er geen onevenredige afbreuk wordt gedaan aan' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden: belangenafweging, W = 2. Voor de bijzondere bomen noemt het Bomenbeleidsplan (2008) 'alleen in zeer uitzonderlijke situaties' een velling; dat is een strenger regime voor lijstbomen en telt hier niet mee.",
+    "H: 'Een vergunningvoorschrift kan aan een omgevingsvergunning worden verbonden in de vorm van een herplantplicht.' H = 1. De compensatieplicht in art. 3.18 geldt alleen voor Natuurcamping Hollandse Hout (kleine gebiedsregel).",
+    "S: WED via Ow 5.1, S = 1.",
+    "Boom A en B (achtertuin binnen de kom): vergunning alleen als de boom op de kaart bijzondere bomen staat, ongeacht omvang; kaart niet ingezien.",
+    "De kapregels zijn verhuisd van APV en VFL naar het omgevingsplan (toelichting bij art. 15.21: 'voorheen opgenomen waren in de Algemene plaatselijke verordening en sinds 2021 in de Verordening fysieke leefomgeving').",
+    "Het Bomenbeleidsplan (CVDR672052_1, 2008) is een collegebesluit; uit het dossier blijkt dat het alleen voor bijzondere bomen een kapvergunningplicht kent. Het is niet getoetst op huidige werking."
+  ],
+  "modelsignalen": [
+    "Buitengebied-regime met uitzondering voor alle particuliere kavels <= 5.000 m2: niet duidelijk onder te brengen bij 'aangewezen gebieden' (D2) of de correctie -1; bij Lelystad leidt dat tot D1 met bereik 1-2. Opgelost in model v2.3 (uitzondering voor particuliere percelen tot een oppervlakte valt onder de correctie -1).",
+    "Bebouwingscontour houtkap als kaartobject in het omgevingsplan: de contour zelf is niet ingezien, dus de omvang van het 'buitengebied-regime' is niet te bepalen."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien"
+}

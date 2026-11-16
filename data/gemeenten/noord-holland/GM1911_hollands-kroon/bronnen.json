@@ -1,0 +1,29 @@
+{
+  "gemeente": "Hollands Kroon",
+  "gm_code": "GM1911",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Hollands Kroon",
+  "zoeknaam_bekendmakingen": "Hollands Kroon",
+  "opgehaald_op": "2026-11-14T22:02:35+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hollands Kroon\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 65,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hollands Kroon\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 18,
+  "geldende_regelingen": 20,
+  "geldend_met_kapartikelen": [
+    "CVDR696520_3",
+    "CVDR716277_1",
+    "CVDR723381_1",
+    "CVDR753952_1",
+    "CVDR767901_1",
+    "CVDR767932_1",
+    "CVDR768259_1"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 7,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

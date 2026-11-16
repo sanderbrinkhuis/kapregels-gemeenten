@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM1731",
+  "gemeente": "Midden-Drenthe",
+  "provincie": "Drenthe",
+  "brondocument": "Verordening Leefomgeving Midden-Drenthe 2024 (VLMD), afdeling 2.1 Houtopstanden (art. 2:1-2:12), bijlage I compensatietabel, art. 11:1; APV 2020 art. 4:10-4:12 vervallen",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR712813/2",
+  "datum_geldigheid": "2025-02-18 t/m heden (CVDR712813_2)",
+  "laatste_wijziging": "2025-02-18 (eerste wijziging; eerste versie 2023-12-30)",
+  "juridische_plaats": "VLMD; leges (CVDR669298_10 art. 2.8.2.1) noemt het vellen een omgevingsplanactiviteit 'bedoeld in artikel 2:5 van de Verordening Leefomgeving Midden-Drenthe 2024 in samenhang met artikel 22.8 van de Omgevingswet'; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "Bekendmakingen sinds 2025: 271 (104 besluiten, 149 aanvragen, 9 weigeringen volgens titel). In de steekproef van 10 besluiten staan geen grondslagcitaten. Eén bekendmaking noemt '13 bomen, waarvan 5 vergunningsplictig'. Dit past bij een drempel naar omvang; alleen een indicatie.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van bomen met een dwarsdoorsnede van 40 cm of meer, bomen op de waardevolle bomenlijst, boomwallen en herplant (art. 2:5)",
+  "drempel": "Art. 2:5 lid 3 sub a: 'dwarsdoorsnede van de stam van meer dan of gelijk aan 40 centimeter, gemeten op 1,30 meter hoogte' (bij meerstammigheid de dikste stam)",
+  "omtrek_cm": 125.6,
+  "meethoogte": "130 cm",
+  "reikwijdte": "Binnen de bebouwingscontour houtkap en op erven buiten die contour (art. 2:5 lid 3); particulier en openbaar. Daarnaast bomen op de waardevolle bomenlijst en boomwallen (lid 1 en 2), ook buiten de contour. Buiten de contour en buiten erven gelden de regels van het Rijk.",
+  "uitzonderingen": "Art. 2:5 lid 5: Plantgezondheidswet of aanschrijving, periodiek oogsten van geriefhout, dunnen als regulier onderhoud, periodiek knotten, kerstbomen, kweekgoed, spoed of grote gevaarzetting. Tuinen zijn niet uitgezonderd.",
+  "weigeringsgronden": "Art. 2:6 lid 1: 'De omgevingsvergunning voor het vellen van een houtopstand wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand.' Belangen: natuur- en milieuwaarde, beeldbepalende of landschappelijke waarde, waarde voor de groenstructuur, cultuurhistorische waarde, leefbaarheidswaarde en maatschappelijk belang.",
+  "herplantplicht": "Art. 2:8 lid 1: 'Het bevoegd gezag kan aan de vergunning het voorschrift verbinden dat ... een houtopstand ... moet worden herplant. Hiervoor gebruikt het bevoegd gezag de compensatietabel uit de bijlage.' Lid 4: storting in het Compensatiefonds 'kan' als herplant niet mogelijk is. Geen beleidsregel gevonden die dit verplicht.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'); het bevoegd gezag beslist per geval. Storting in het Compensatiefonds is een bevoegdheid als herplant volgens het bevoegd gezag niet mogelijk is (art. 2:8 lid 4).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen strafbepaling die de herplantplicht dekt; alleen de last onder dwangsom volgens de toelichting. Art. 11:1 noemt 2:8 alleen 'lid 3' (instandhouding) en niet art. 2:12 of 2:8 lid 1 en 2: 'overtreding van het bij of krachtens de volgende artikelen bepaalde ... de artikelen 2:4, 2:8 lid 3, 2:9, 2:13 tot en met 2:24 ...'. Toelichting 11:1: 'In die gevallen dat het logisch is dat een verbod alleen wordt gehandhaafd met de herstelmiddelen in de Algemene wet bestuursrecht'. Toelichting art. 2:12: 'De herplantplicht en instandhoudingsplicht worden opgelegd met de normale middelen voor een herstelsanctie. In dit geval komt de last onder dwangsom in aanmerking.' Art. 2:12 lid 2 (bestuurlijke boete) geldt voor het onrechtmatig vellen, niet voor het niet nakomen van de herplantplicht. WED via Omgevingswet 5.1 telt hier niet.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "sancties": "Art. 2:12 lid 2: 'kan het bevoegd gezag ... bovendien een bestuurlijke boete opleggen' tot ten hoogste de boomwaarde; lid 1: herplant- en instandhoudingsplicht na onrechtmatig vellen ('kan'). Art. 11:1 noemt art. 2:5 niet; WED via Omgevingswet 5.1 (omgevingsplanactiviteit). De toelichting twijfelt of de boete onder de Omgevingswet blijft gelden.",
+  "procedure": "Omgevingsvergunning; leges art. 2.8.2.1 CVDR669298_10: EUR 108,50; beslistermijn volgens Omgevingswet (reguliere procedure).",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing (breed regime bepaalt D); waardevolle bomenlijst niet ingezien",
+  "status": "ok",
+  "ontbrekend": "Geen. De Verordening Leefomgeving Midden-Drenthe 2024 (CVDR712813_2) is volledig gelezen.",
+  "artikelnummers": [
+    "VLMD art. 2:1",
+    "VLMD art. 2:2",
+    "VLMD art. 2:5",
+    "VLMD art. 2:6",
+    "VLMD art. 2:8",
+    "VLMD art. 2:12",
+    "VLMD art. 11:1",
+    "VLMD bijlage I (compensatietabel)",
+    "Leges art. 2.8.2.1 (CVDR669298_10)",
+    "Omgevingsplan art. 22.299 (CVDR696498_3)"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): de regeling maakt zelf een bestuurlijke boete mogelijk → S2 zonder bereik; de twijfel in de toelichting staat in de opmerkingen.",
+    "Doorslaggevend voor W: 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (art. 2:6); voor H: 'Het bevoegd gezag kan aan de vergunning het voorschrift verbinden' (art. 2:8 lid 1).",
+    "Drempel 40 cm diameter = ca. 126 cm omtrek (diameter x 3,14), dus boven 100 cm: D = 2. Boom A (80 cm omtrek, ca. 25 cm) en boom B (40 cm omtrek, ca. 13 cm) zijn vrij.",
+    "Waardevolle bomenlijst (art. 2:2, art. 2:5 lid 1) strenger, alleen vermeld; lijst niet ingezien.",
+    "Compensatietabel in bijlage I geeft aantallen te planten bomen, maar blijft een invulling van een 'kan'-voorschrift.",
+    "S: bestuurlijke boete in de regeling (S2); minimum 1 vanwege twijfel in de toelichting of de boete onder de Omgevingswet blijft gelden. Geen vastgelegd handhavingsbeleid gevonden.",
+    "Boomwallen (art. 2:5 lid 2) en herplantbomen (lid 3 sub b) zijn ongeacht dikte beschermd; kleine gebiedsregel, niet gescoord."
+  ],
+  "modelsignalen": [
+    "Drempel in dwarsdoorsnede (40 cm) is omgerekend naar ca. 126 cm omtrek; het model scoort op omtrek, dus de grens D2/D3 ligt hier ruim boven 100 cm.",
+    "Bestuurlijke boete in een verordening die tegelijk als omgevingsplanregel werkt: de toelichting zelf twijfelt of die boete blijft bestaan; S-bereik 1-2.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: bestuurlijke boete tot de boomwaarde die het bevoegd gezag 'kan' opleggen: S2, maximum 3 (punt ongewijzigd)."
+  ]
+}

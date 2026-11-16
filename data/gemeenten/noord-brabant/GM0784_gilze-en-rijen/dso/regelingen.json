@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0784/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Gilze en Rijen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0784/2020/omgevingsplan/nld@5",
+    "beginGeldigheid": "2024-06-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0784_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0784/2025/2_5",
+    "titel": "Programma wonen gemeente Gilze en Rijen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0784/2025/2_5/nld@11",
+    "beginGeldigheid": "2025-05-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0784_2025_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0784/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie Gilze en Rijen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0784/2026/omgevingsvisie/nld@14",
+    "beginGeldigheid": "2026-03-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0784_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0784/2025/2_4_10",
+    "titel": "Omgevingsprogramma Vrijetijdseconomie",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0784/2025/2_4_10/nld@10",
+    "beginGeldigheid": "2026-05-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0784_2025_2_4_10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0784/2026/2_8",
+    "titel": "Omgevingsprogramma Midden-Brabant Poort",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0784/2026/2_8/nld@15",
+    "beginGeldigheid": "2026-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0784_2026_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:34Z"
+  }
+]

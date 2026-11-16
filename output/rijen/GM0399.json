@@ -1,0 +1,77 @@
+{
+  "gm_code": "GM0399",
+  "gemeente": "Heiloo",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving Heiloo 2024 (VFL), afdeling 4.1 Bewaren van houtopstanden, art. 4:1 en 8:2 (CVDR719462_1); Groenbeleidsplan Heiloo 2024-2034, bijlage 1 Bomenbeleid (CVDR725933_1); leges art. 2.30 (CVDR747993_2); Omgevingsplan art. 22.299 (CVDR696303_2). APV 2023 art. 4:11 (vellen van houtopstanden) is vervallen.",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR719462/1 ; https://lokaleregelgeving.overheid.nl/CVDR725933/1 ; https://lokaleregelgeving.overheid.nl/CVDR747993/2 ; https://lokaleregelgeving.overheid.nl/CVDR696303/2",
+  "datum_geldigheid": "VFL CVDR719462_1 geldend van 2024-05-07 t/m heden; Groenbeleidsplan CVDR725933_1 geldend van 2024-10-29 t/m heden; leges CVDR747993_2 geldend van 2026-10-07 t/m heden",
+  "laatste_wijziging": "VFL: versie 1, in werking per 2024-05-07 (geen latere versie).",
+  "juridische_plaats": "VFL; de velplicht werkt als omgevingsplanactiviteit (leges art. 2.30: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:2 van de Verordening Fysieke Leefomgeving Heiloo 2024 in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; het plan zegt in het Groenbeleidsplan wel dat landgoedbomen later in het omgevingsplan worden beschermd, maar een kapregel is er niet gevonden.",
+  "praktijkcontrole": "Sinds 2025: 20 treffers op titel op officielebekendmakingen.nl (6 besluiten, 14 aanvragen), waarvan veel bouwbesluiten ('kap' van woningen). Slechts enkele echte kapbesluiten: 1 geweigerd voor 'een beeldbepalende boom' (gmb-2026-396793) en 1 in de gemeenteberm verleend met herplant (gmb-2025-458885). Weinig kapbesluiten: past bij een lijstsysteem. Geen grondslagverwijzing in de besluiten.",
+  "vergunningplicht": "Omgevingsvergunning alleen voor houtopstanden die op de Bomenlijst staan (VFL art. 4:1 lid 1)",
+  "drempel": "Geen drempel: alleen houtopstanden op de Bomenlijst, ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Art. 4:1 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op Bomenlijst.' Hele gemeente, alleen aangewezen houtopstanden. 'Bomenlijst' is in de VFL niet gedefinieerd en de lijst zelf staat niet in CVDR.",
+  "uitzonderingen": "Art. 4:1 lid 3: 'Het eerste lid is niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen' (noodkap). Geen tuin- of soortuitzondering nodig: alleen lijstbomen.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bomenlijst niet ingezien: staat niet in CVDR (geen aparte regeling gevonden) en gemeentelijke webpagina's voor 'bomenlijst' en 'kapvergunning' gaven 404. Het Groenbeleidsplan zegt over de lijst beschermwaardige bomen: 'Deze lijst bestaat uit monumentale bomen uit het landelijke register, de bijzondere en beschermwaardige gemeentelijke bomen en de bijzondere en beschermwaardige particuliere bomen.' Aantal lijstbomen en aandeel particulier onbekend.",
+  "weigeringsgronden": "Art. 4:1 lid 2: 'In afwijking van artikel 1:7 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:1 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Groenbeleidsplan bijlage 1: 'De herplantplicht wordt altijd toegepast voor te kappen bomen in de openbare ruimte.' Dat gaat over gemeentebomen en telt niet. Taxatiewaarde (NVTB) als uitgangspunt voor herplant bij 'monumentale en bijzondere bomen', ook bij illegale kap, en 'Bij gemeentelijke en particuliere plannen wordt op deze wijze een objectieve maatstaf gebruikt om de herplant te realiseren': beleidsnota, maakt herplant door een particulier geen vast voorschrift en geen verplichte storting.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, bevoegd gezag per geval). Beleid: 'Het al dan niet terugplanten van een boom op dezelfde locatie is altijd een integrale afweging.' Geen betaling in plaats van herplant geregeld voor particulieren.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Geen specifieke bepaling. Art. 8:2: 'Overtreding van de artikelen in hoofdstuk 2,4,5 en 7 en de krachtens deze artikelen gegeven voorschriften en beperkingen ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Een opgelegd herplantvoorschrift is een 'krachtens deze artikelen gegeven voorschrift' (art. 4:1 lid 4 is in hoofdstuk 4), maar een uitdrukkelijke koppeling aan herplant ontbreekt. Verder het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling in de VFL: art. 8:2 (hechtenis tot drie maanden of geldboete tweede categorie) voor overtreding van hoofdstuk 4. Geen WED-aanwijzing in de VFL zelf gevonden. Daarnaast WED via de Omgevingswet: legesverordening noemt het vellen een omgevingsplanactiviteit (art. 2.30, 'in samenhang met artikel 22.8 van de Omgevingswet'), dus S=1. Geen bestuurlijke boete voor kap. Geen bepaling over herplant na illegale kap in de VFL.",
+  "procedure": "Omgevingsvergunning (reguliere procedure); art. 4:1 lid 5: 'paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing' (procedureregel, geen W0). Leges 2026 art. 2.30: EUR 296,60. Bekendmaking in het gemeenteblad. Bezwaar en beroep volgens Awb (niet apart gelezen).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst ontbreekt: niet in het dossier, niet als CVDR-regeling en niet op de gemeentelijke website gevonden; de VFL definieert 'Bomenlijst' niet. Het Groenbeleidsplan zegt dat solitaire bomen 'moeten worden opgenomen in de Bomenlijst', wat erop wijst dat de lijst nog niet volledig is. Aantal lijstbomen en aandeel particulier onbekend, dus D=1 met bereik vanaf 0. Bezwaar/beroep niet apart gelezen.",
+  "artikelnummers": [
+    "VFL art. 1:1 onder s, kk; 4:1; 8:2",
+    "Groenbeleidsplan 2024-2034 bijlage 1 (Bomenbeleid: Kappen van bomen, Herplantplicht)",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "APV 2023 art. 4:11 vervallen"
+  ],
+  "opmerkingen": [
+    "D1 (bereik 0-1): alleen houtopstanden op de Bomenlijst, lijst niet ingezien. Groenbeleidsplan: 'bomen die op de bomenlijst staan, en bomen die beschermd zijn in het Omgevingsplan, alleen met een kapvergunning kunnen worden gekapt'; een omgevingsplanregel voor landgoedbomen is niet gevonden (toekomstig voornemen, telt niet).",
+    "W2: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...' (art. 4:1 lid 2).",
+    "H1: 'kan een herplantplicht opleggen' (art. 4:1 lid 4). Beleid 'De herplantplicht wordt altijd toegepast voor te kappen bomen in de openbare ruimte' gaat alleen over gemeentebomen en telt niet voor H.",
+    "S1: eigen strafbepaling art. 8:2 voor hoofdstuk 4 en WED via omgevingsplanactiviteit (leges art. 2.30). Foute verwijzing: leges art. 2.30 verwijst naar 'artikel 4:2' van de VFL (Bestrijding iepziekte); de velplicht staat in art. 4:1. Volgens het besluit van de gebruiker blijft S=1 zonder bereik.",
+    "Verschil met Castricum: Heiloo heeft een lijst zonder wettekst over criteria voor plaatsing en zonder vermelding van illegale kap of storting in plaats van herplant; Castricum heeft een aparte lijstregeling met criteria en W3. Verschil met Bergen: Bergen heeft een breed regime in de kom.",
+    "Zie hierboven: Groenbeleidsplan (CVDR725933_1) is wel een geldend beleidsplan, maar bevat voor particulieren geen verplichte herplant of storting."
+  ],
+  "modelsignalen": [
+    "Een lijstregeling zonder vindbare lijst: VFL verwijst naar 'Bomenlijst' zonder definitie of vindplaats. D is hierdoor niet vast te stellen; het model geeft D=1 met bereik vanaf 0.",
+    "Leges verwijzen naar een verkeerd VFL-artikel (4:2 in plaats van 4:1); regel voor foute verwijzing uit INTENT is toegepast."
+  ]
+}

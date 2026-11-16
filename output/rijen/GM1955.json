@@ -1,0 +1,81 @@
+{
+  "gm_code": "GM1955",
+  "gemeente": "Montferland",
+  "provincie": "Gelderland",
+  "brondocument": "Algemene plaatselijke verordening Montferland 2021 (CVDR244729_13), afdeling 4.3 art. 4:10-4:11, art. 6:1; Verordening op de heffing en de invordering van leges 2026 (CVDR747408_2), art. 2.13",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR244729/13",
+  "datum_geldigheid": "2024-12-28 t/m heden (CVDR-versie 13; peildatum 2026-11-15)",
+  "laatste_wijziging": "2024-12-28 (versie 13; wijziging betrof o.a. art. 1:1, 2:12 en 6:7, niet afdeling 4.3 volgens de CVDR-wijzigingsaanduiding)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens de legesverordening art. 2.13 ('artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan bevat alleen aanvraagvereisten (art. 22.299).",
+  "praktijkcontrole": "Bekendmakingen sinds 2025 (titelzoekmethode): 108 totaal, 2 besluiten (beide ingetrokken aanvragen: gmb-2026-52675, gmb-2026-39280), 59 aanvragen, 0 weigeringen volgens titel. Geen grondslag genoemd. De zoekmethode mist waarschijnlijk besluiten, dus het aantal zegt weinig.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen van houtopstanden), art. 4:11 lid 2 en 2a",
+  "drempel": "Art. 4:11 lid 2a: houtopstand 'met een diameter groter dan 50 cm op 1.30 meter stamhoogte boven het maaiveld'. Daarnaast lid 2: alle houtopstanden op de Bomenlijst.",
+  "omtrek_cm": 157,
+  "meethoogte": "1,30 m stamhoogte boven het maaiveld",
+  "reikwijdte": "Hele grondgebied, openbaar en particulier, binnen en buiten de bebouwde kom (geen beperking in de tekst). Daarnaast Bomenlijst (monumentale en andere beschermenswaardige bomen) voor alle omvang.",
+  "uitzonderingen": "Art. 4:11 lid 4: verbod niet van toepassing 'als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Geen tuin-, erf-, soort- of oppervlakte-uitzondering gevonden; geen correctie. Regulier onderhoud (hakhout, dunning), Plantgezondheidswet e.d. staan niet in de tekst (tellen toch niet).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de omgevingsvergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen verplichte financiële compensatie of boomwaarde in de APV.",
+  "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan ... opleggen'); het bevoegd gezag beslist per geval. Geen betaling-in-plaats-van-herplant geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets geregeld voor het niet nakomen van een opgelegde herplantplicht: art. 4:11 lid 5 noemt alleen 'kan een herplantplicht opleggen onder nader te stellen voorschriften'. Art. 1:4 lid 3 maakt het algemene voorschriftenartikel niet van toepassing op een omgevingsvergunning. Alleen het algemene instrumentarium (bestuursdwang of dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit, Ow 5.1): de legesverordening noemt het vellen 'bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Daarnaast APV art. 6:1 lid 3: 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van ... artikel 4:11, tweede lid' (alleen de Bomenlijst; lid 2a ontbreekt in die aanwijzing). Geen bestuurlijke boete voor kappen. S = 1.",
+  "procedure": "Leges: €94,65 per aanvraag kappen, plus €23,60 per extra boom bij meer dan 6 bomen (legesverordening 2026, art. 2.13). Beslistermijn van 8 weken uit APV art. 1:2 is 'niet van toepassing op een aanvraag om een omgevingsvergunning' (lid 4). Publicatie, bezwaar en beroep: niet in afdeling 4.3 geregeld.",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bomenlijst (art. 4:11 lid 1) niet in het dossier en niet ingezien; niet nodig voor D omdat het breedste regime (hele gemeente, diameter > 50 cm) D bepaalt.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Het Bomenbeleidsplan 'De kracht van Bomen' (genoemd in het Groenbeleidsplan CVDR702190_1) staat niet in CVDR en niet in het dossier; daarom W max 3 en H max 2. De Bomenlijst is niet ingezien (geen invloed op D). Gemeentelijke website en DSO niet bekeken.",
+  "artikelnummers": [
+    "APV art. 4:10 lid 1-2",
+    "art. 4:11 lid 1, 2, 2a, 3, 4, 5",
+    "art. 1:2 lid 4",
+    "art. 1:4 lid 3",
+    "art. 1:8",
+    "art. 6:1 lid 1, 3",
+    "Legesverordening 2026 art. 2.13",
+    "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D = 2: art. 4:11 lid 2a: 'een houtopstand te vellen of te doen vellen met een diameter groter dan 50 cm op 1.30 meter stamhoogte boven het maaiveld'. Omgerekend omtrek 50 x 3,14 = 157 cm (> 100 cm, hoge drempel). Hele gemeente. Boom A (80 cm omtrek, ca. 25 cm) en boom B (40 cm) vallen eronder.",
+    "W = 2: 'In afwijking van artikel 1:8 kan de omgevingsvergunning worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden (art. 4:11 lid 3). Max 3 omdat het Bomenbeleidsplan niet is ingezien.",
+    "H = 1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Het Groenbeleidsplan (CVDR702190_1) laat groen op particuliere terreinen buiten de scope ('vallen buiten de scope van dit beleidsplan') en telt niet voor H. Max 2 vanwege het niet ingeziene Bomenbeleidsplan.",
+    "S = 1 zonder bereik: de legesverordening maakt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (bewijs omgevingsplanroute, WED via Ow 5.1). Opmerking: APV art. 6:1 lid 3 wijst alleen art. 4:11 lid 2 (Bomenlijst) aan voor de WED, niet lid 2a, en lid 1 noemt art. 4:11 niet; de eigen strafbepaling dekt de diameterregel dus niet. Dit verandert S niet.",
+    "Houtopstand wordt in art. 4:10 omschreven als 'hakhout, een houtwal of een of meer bomen'; er is geen aparte drempel voor hakhout of houtwal.",
+    "Geen onderscheid binnen en buiten de bebouwde kom voor art. 4:11; 'bebouwde kom' is wel gedefinieerd in art. 1:1 voor andere artikelen."
+  ],
+  "modelsignalen": [
+    "APV-diameterdrempel van 50 cm (omtrek 157 cm) valt in D = 2 hoge drempel; een diameter in de bron geeft bij omrekening een veel hogere omtrek dan gebruikelijke omtrekdrempels, wat de vergelijking met gemeenten die op omtrek scoren gevoelig maakt.",
+    "WED-aanwijzing in de APV dekt lid 2 (lijst) maar niet lid 2a (diameterregel); het model kent geen regel voor een gedeeltelijke aanwijzing. Hier opgelost via de legesverordening (omgevingsplanroute), S = 1.",
+    "Bekendmakingen via titelzoekmethode leveren maar 2 besluiten op; de praktijkcontrole is hier niet bruikbaar."
+  ]
+}

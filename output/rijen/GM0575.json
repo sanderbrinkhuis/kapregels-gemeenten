@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0575",
+  "gemeente": "Noordwijk",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene plaatselijke verordening Noordwijk 2021 (APV), afdeling 4.3 art. 4:10, 4:11, 4:12a, 4:12b, 4:12c en art. 6:1 (CVDR648196_3); Algemeen aanwijzingsbesluit APV Noordwijk 2021 art. 15 (CVDR650951_6); Verordening op de heffing en invordering van leges Noordwijk 2026 art. 2.30 (CVDR752900_1); Omgevingsplan gemeente Noordwijk art. 22.299 (CVDR696353_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR648196/3 ; https://lokaleregelgeving.overheid.nl/CVDR650951/6 ; https://lokaleregelgeving.overheid.nl/CVDR752900/1 ; https://lokaleregelgeving.overheid.nl/CVDR696353/1",
+  "datum_geldigheid": "APV CVDR648196_3 geldend vanaf 2026-06-18 t/m heden (peildatum scoren 2026-11-16); aanwijzingsbesluit CVDR650951_6 vanaf 2024-12-19; leges CVDR752900_1 vanaf 2025-12-24; omgevingsplan CVDR696353_1 vanaf 2024-01-01",
+  "laatste_wijziging": "APV: versie 3 per 2026-06-18, volgens regelingen.jsonl een wijziging van artikel 4:11. Aanwijzingsbesluit: 2024-12-19.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening Noordwijk 2021 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 4 bekendmakingen op titel, waarvan 2 besluiten, geen weigering volgens titel. Steekproef van 2 besluiten (gmb-2026-461631: besluit 'vergunningsvrij' voor het kappen van 2 bomen; gmb-2026-510888: omgevingsvergunning voor het kappen van 4 bomen) noemt geen grondslag. Past bij een breed regime met vrijstellingen; zegt niets over de perceelgrootte of de voorwaarde van art. 4:11 lid 3 onder c. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 10 bekendmakingen sinds 1-1-2025, waarvan 3 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning (APV 4:11 lid 1): 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen.'",
+  "drempel": "Art. 4:11 lid 3 onder a: verbod geldt niet voor 'houtopstand binnen de bebouwde kom met een stamomtrek van minder dan 63 cm gemeten op 1,30 meter hoogte boven het maaiveld'. Dus vergunning binnen de kom vanaf omtrek 63 cm. Buiten de kom geen omtrekdrempel. Daarnaast onder c: 'houtopstand op percelen kleiner dan 1000 m2, mits de inventarisatie en bescherming van particuliere monumentale bomen in de gemeente is afgerond en er geen beschermende status aan deze bomen is toegekend'.",
+  "omtrek_cm": 63,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar; omtrekdrempel van 63 cm alleen binnen de bebouwde kom, buiten de kom geen drempel. 'Percelen' zijn 'grondgebied bestaande uit aaneengesloten voor-, achter- en zijtuinen bij woningen inclusief bebouwing, dat een zelfstandige eenheid vormt' (art. 4:10 onder e). Geen bomenlijst of gebiedsregel als grondslag van het verbod.",
+  "uitzonderingen": "Art. 4:11 lid 3: a. binnen de kom omtrek < 63 cm; b. binnen de kom omtrek < 110 cm voor 'door het college aangewezen snelgroeiende soorten' (aanwijzingsbesluit art. 15: o.a. els, berk, abeel, populier, twee wilgen, veldiep, fijnspar, Servische spar, twee levensbomen, Californische cipres, Leyland cipres; geen volledige soortgroepen); c. percelen kleiner dan 1000 m2 (voorbeeldtuin ca. 300 m2 valt daaronder), met de voorwaarde 'mits de inventarisatie en bescherming van particuliere monumentale bomen in de gemeente is afgerond en er geen beschermende status aan deze bomen is toegekend'; d. periodiek vellen hakhout; e. periodiek snoeien, knotten; f. dunning volgens beheerplan; g. Plantenziektenwet of aanschrijving; h. natuurlijk afgestorven houtopstand (melding vier weken vooraf). Lid 4: commercieel geëxploiteerde houtopstanden ('fruitbomen en windschermen om boomgaarden', kerstbomen, kweekgoed, populier- of wilgenbeplanting langs landbouwgrond, bosbouw buiten de kom). Lid 5: burgemeester bij spoedeisend belang of direct gevaar. Perceeluitzondering onder c = ruime uitzondering (-1).",
+  "weigeringsgronden": "Art. 4:11 lid 2: 'Onverminderd het bepaalde in artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand; g. de zeldzaamheidswaarde van de houtopstand; h. ouderdom en levensverwachting van de houtopstand'.",
+  "herplantplicht": "APV art. 4:12a lid 1: 'Tot aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: bij herplant wordt 'tevens bepaald binnen welke termijn na de herplant en op welke wijze niet aangeslagen herplant moet worden vervangen'. Geen beleidsregel over herplant of compensatie gevonden. Na illegale kap (art. 4:12b lid 1): 'kan het bevoegd gezag ... de verplichting opleggen tot herplant of compensatie ... De compensatie wordt vastgesteld door een erkend boomtaxateur, verhoogd met de kosten van de taxatie.'",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren het voorschrift'); het bevoegd gezag beslist per geval. Geen financiële uitweg bij gewone kap. Na illegale kap: 'herplant of compensatie' naar keuze van het bevoegd gezag ('kan ... de verplichting opleggen').",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12b lid 4: 'Degene aan wie een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens de in deze verordening opgenomen artikelen en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Een herplantvoorschrift in een vergunning (art. 4:12a) valt onder dat artikel; het algemene instrumentarium (bestuursdwang, dwangsom) staat niet apart in de APV.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "APV art. 6:1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Art. 6:1 lid 2: 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens artikel 4:11 eerste lid' (WED-aanwijzing in regeling) en daarnaast via Ow 5.1 (leges art. 2.30, in samenhang met artikel 22.8 van de Omgevingswet). Geen bestuurlijke boete voor kappen. Na illegale kap: herplant of compensatie (art. 4:12b, 'kan'). Handhavingsstrategie bouwtaken 2025-2026 (CVDR745298_1) gaat over bouwtaken, niet over kap.",
+  "procedure": "Aanvraag omgevingsvergunning; leges 2026 art. 2.30: 1 tot en met 25 bomen € 118,00; 26-50 € 236,00; 51-100 € 472,00; meer dan 100 € 950,00 (CVDR752900_1). Besluiten worden bekendgemaakt in het gemeenteblad; bezwaar bij het college (gmb-2026-510888, behandeling via Omgevingsdienst West-Holland). Beslistermijn en beroep niet apart gelezen.",
+  "boom_a_80cm": "onbekend",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "",
+  "status": "onzeker",
+  "ontbrekend": "Niet vast te stellen of aan de voorwaarde van art. 4:11 lid 3 onder c is voldaan ('mits de inventarisatie en bescherming van particuliere monumentale bomen in de gemeente is afgerond en er geen beschermende status aan deze bomen is toegekend'). Daarvan hangt af of een boom van 80 cm omtrek in een tuin van ca. 300 m2 vrij is (boom A: nee) of vergunningplichtig (ja). Geen register of beleidsstuk over monumentale bomen in de dossierbronnen. Omgevingsplan in het DSO niet ingezien. Omgevingsvisie (CVDR764653_1) en Startnota Omgevingskwaliteit (CVDR727467_1) niet gedownload.",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:12a",
+    "APV 4:12b",
+    "APV 4:12c",
+    "APV 6:1",
+    "Aanwijzingsbesluit APV 2021 art. 15",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D: binnen de kom omtrek vanaf 63 cm (middelmatige drempel, 60-100 cm: D3); buiten de kom geen drempel (D4). Perceeluitzondering onder c ('houtopstand op percelen kleiner dan 1000 m2', 'percelen' = voor-, achter- en zijtuinen bij woningen) is een ruime uitzondering voor alle particuliere percelen tot 1000 m2: -1 voor beide delen. Binnen de kom 3-1 = 2, buiten de kom 4-1 = 3; hoogste deel = D3. Puntschatting 3; als de voorwaarde van lid 3 onder c niet is vervuld, vervalt de correctie en is D4 (maximum 4).",
+    "D: de uitzondering voor snelgroeiende soorten (< 110 cm omtrek binnen de kom; lijst in aanwijzingsbesluit art. 15) bevat geen alle populieren, wilgen of coniferen en geldt alleen binnen de kom; geen correctie, en zonder invloed op het hoogste deel (buiten de kom).",
+    "W: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand' (art. 4:11 lid 2) is een belangenafweging op natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden: W2.",
+    "H: 'Tot aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant' (art. 4:12a lid 1): bevoegdheid, H1. Geen beleidsregel, geen verplichte financiële compensatie bij gewone kap. Compensatie door een erkend boomtaxateur geldt alleen na illegale kap (art. 4:12b): telt niet voor H.",
+    "S: WED-aanwijzing in de regeling (art. 6:1 lid 2, 'overtreding van het bepaalde bij of krachtens artikel 4:11 eerste lid') en legesverordening noemt de omgevingsplanactiviteit: S1. Geen bestuurlijke boete. Herplant of compensatie na illegale kap is mogelijk ('kan', art. 4:12b): ook S1, zonder bereik.",
+    "Voorbeeldboom A (80 cm omtrek, 300 m2): boven de drempel van 63 cm, maar vrijgesteld als art. 4:11 lid 3 onder c van toepassing is. Voorbeeldboom B (40 cm omtrek): onder de drempel van 63 cm, dus vrij.",
+    "Artikel 4:11 lid 3 onder a verwijst naar 'houtopstanden die op grond van artikel 4:13 of artikel 4:14 zijn herplant'; art. 4:13 gaat over opslag van voertuigen en 4:14 is vervallen: kennelijk een verouderde verwijzing, zonder effect op de score.",
+    "Toelichting art. 4:11 lid 3 onder c: 'Ook als houtopstand in deze situatie een grotere omtrek heeft dan 63 cm gemeten op 1,30 meter hoogte boven het maaiveld, mag deze zonder omgevingsvergunning worden geveld.' De toelichting noemt de voorwaarde niet."
+  ],
+  "modelsignalen": [
+    "Noordwijk: de vrijstelling voor percelen kleiner dan 1000 m2 hangt af van een feitelijke voorwaarde ('mits de inventarisatie en bescherming van particuliere monumentale bomen in de gemeente is afgerond ...') die niet uit de tekst te beoordelen is. Het model heeft geen regel voor een voorwaardelijke vrijstelling; ik heb de vrijstelling op de tekst toegepast (-1) met bereik tot D4, en voorbeeldboom A op 'onbekend' gezet.",
+    "Noordwijk: een vrijstelling voor alle percelen tot 1000 m2 geldt zowel binnen als buiten de kom; daardoor wordt het buitengebied-deel D3 en bepaalt dat de score. Het model is hier ambigu over de bedoelde correctie bij verschillende deelregimes."
+  ]
+}

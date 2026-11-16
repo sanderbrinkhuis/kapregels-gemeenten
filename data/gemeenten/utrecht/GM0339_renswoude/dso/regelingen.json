@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0339/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Renswoude",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0339/2020/omgevingsplan/nld@6",
+    "beginGeldigheid": "2024-11-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0339_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:08Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0339/2026/10_3",
+    "titel": "Voorbereidingsbesluit Spuitzone Binnen de Beken ZZW",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0339/2026/10_3/nld@2025",
+    "beginGeldigheid": "2026-07-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0339_2026_10_3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:08Z"
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0599",
+  "gemeente": "Rotterdam",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene Plaatselijke Verordening Rotterdam 2012, afdeling 4.3 Het bewaren van houtopstanden (art. 4:10-4:11k), CVDR373493_22; Legesverordening Omgevingswet 2026 (CVDR749229_1) tarief 4.2.1; Omgevingsplan gemeente Rotterdam (CVDR696362_3) art. 7.21 (alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR373493/22",
+  "datum_geldigheid": "2025-12-13 t/m heden (CVDR373493_22)",
+  "laatste_wijziging": "2025-12-13 (inwerkingtreding versie 22 van de APV; welk artikel daarbij is gewijzigd is niet nagegaan)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens de legesverordening (tarief 4.2.1: art. 4:11 APV 'in samenhang gelezen met artikel 22.8 van de Omgevingswet'). Het omgevingsplan zelf bevat alleen aanvraagvereisten (art. 7.21; paragraaf 5.2.5 is leeg).",
+  "praktijkcontrole": "921 bekendmakingen met kap-termen sinds 1-1-2025 (titelzoekopdracht), waarvan 415 als besluit gerubriceerd, 2 als aanvraag en 10 met weigering in de titel; de overige zijn niet per stuk doorgenomen. Steekproef van 10 recente besluiten: alle noemen 'Grondslag: Omgevingswet, artikel 5.1'; de redenen zijn zorgplicht, herinrichting, rioolvervanging en sanering distributiestation, het gaat meestal om meerdere bomen per besluit. De steekproef noemt niet of de boom van een natuurlijk persoon is; er zijn geen kapbesluiten voor particulieren tuinbomen herkend. Er is niet vastgesteld hoeveel van de besluiten bomen van natuurlijke personen betreffen. Besluiten noemen art. 4:11 APV niet.",
+  "vergunningplicht": "vergunning (omgevingsvergunning) voor bomen vanaf 50 cm stamomtrek, maar bomen van een natuurlijk persoon als zakelijk gerechtigde zijn vrijgesteld tenzij de stamomtrek minimaal 361 cm is",
+  "drempel": "stamomtrek minimaal 50 cm op 130 cm (art. 4:11 lid 1 sub a); voor bomen waarvan een natuurlijk persoon de zakelijk gerechtigde is minimaal 361 cm omtrek op 130 cm (art. 4:11 lid 2 sub a)",
+  "omtrek_cm": 361,
+  "meethoogte": "130 cm boven het maaiveld",
+  "reikwijdte": "Hele grondgebied van de gemeente behalve de gebieden Botlek, Europoort, Maasvlakte en Maasvlakte 2 (art. 4:10 lid 3: 'bebouwde kom' is het grondgebied van de gemeente met die uitzonderingen). Buiten die kom geldt het verbod voor houtopstand die een zelfstandige eenheid vormt van ten hoogste 10 are of een rij van ten hoogste 20 bomen. Particulier en openbaar; vrijstelling voor bomen van natuurlijke personen onder 361 cm.",
+  "uitzonderingen": "Bomen van natuurlijke personen onder 361 cm omtrek (art. 4:11 lid 2a); populieren en wilgen als wegbeplanting langs landbouwgrond; fruitbomen en windschermen om boomgaarden; kerstbomen; kweekgoed; gangbare uitzonderingen (Plantgezondheidswet of aanschrijving, hakhout, dunnen bosplantsoen, acuut gevaar met mondelinge toestemming, periodiek knotten) (art. 4:11 lid 2-4).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11b lid 4: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorwaarden verlenen in het belang van' natuur- en milieuwaarden, landschappelijke waarden, cultuurhistorische waarden, waarden van stads- en dorpsschoon en waarden voor recreatie en leefbaarheid. Lid 1: vergunning wordt verleend bij burenrecht (BW 5:42), wettelijke zorgplicht of ICAO-eisen. Lid 6: geen vergunning voor gemeentelijke monumentale bomen (BSV); dit geldt niet voor particuliere bomen.",
+  "herplantplicht": "Art. 4:11f lid 1: 'Het bevoegd gezag kan aan een vergunning de voorwaarde verbinden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Zelfde lid: 'Indien uit een gemeentelijk bestemmings-, bomen-, groen- of landschapsplan blijkt dat de te vellen houtopstand als waardevol moet worden beschouwd, wordt altijd een herplantplicht opgelegd.' Art. 4:11b lid 5: voorschriften 'kunnen inhouden' vervangende beplanting. Art. 4:11f lid 3: storting in het bomenfonds 'kan' worden voorgeschreven.",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid van het college ('kan ... de voorwaarde verbinden'), geen harde plicht; alleen bij een als waardevol aangemerkte houtopstand 'wordt altijd een herplantplicht opgelegd'. Art. 4:11f lid 3: 'Indien uitvoering van een herplantplicht niet mogelijk is of naar maatstaven van redelijkheid onvoldoende compensatie biedt ... kan het college ... het voorschrift verbinden, dat de houtopstand niet mag worden geveld alvorens een bedrag gelijk aan de herplantwaarde in het bomenfonds is gestort.' Het college beslist per geval. Na illegale kap (art. 4:11g lid 1) 'kan' herplant worden opgelegd.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11g lid 4: 'Ook de rechtsopvolger van degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd is verplicht daaraan te voldoen.' Art. 6:1 lid 1 noemt 'artikel 4:11g (herplant-/instandhoudingsplicht)' en straft met 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Kappen zonder vergunning: WED via de Omgevingswet (art. 5.1 Ow; WED art. 1a onder 2°), omdat de legesverordening het vellen een omgevingsplanactiviteit noemt ('in samenhang gelezen met artikel 22.8 van de Omgevingswet'). Art. 4:11 zelf staat niet in de lijst van art. 6:1 APV; art. 4:11g (herplant), 4:11j en 4:11k wel (hechtenis tot drie maanden of geldboete tweede categorie). Geen bestuurlijke boete voor kappen in de regeling gevonden. Herplantplicht na illegale kap is mogelijk (art. 4:11g lid 1, 'kan').",
+  "procedure": "Aanvraag door zakelijk gerechtigde (art. 4:11a); leges tarief 4.2.1: EUR 476,80 (Legesverordening Omgevingswet 2026); art. 4:12 vergunning van rechtswege is 'gereserveerd'; art. 4:11e intrekking bij niet gebruiken binnen een jaar; art. 4:11h schadevergoeding; art. 4:11d openbaarmaking is vervallen. Bezwaar, beroep en beslistermijn niet apart onderzocht (Awb).",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem; de Bomenstructuurvisie (BSV) met monumentale gemeentelijke bomen (art. 4:11b lid 6) staat niet in het dossier en betreft alleen gemeentelijke bomen",
+  "status": "ok",
+  "ontbrekend": "Bomenstructuurvisie (BSV) niet in dossier of tekst/ (alleen relevant voor gemeentelijke monumentale bomen, geen invloed op score); omgevingsplan in het DSO niet ingezien (de CVDR-versie bevat bij paragraaf 5.2.5 geen kapregel); DSO-API-key nog niet beschikbaar.",
+  "artikelnummers": [
+    "APV Rotterdam 2012 art. 4:10 lid 3",
+    "art. 4:11 lid 1, 2, 3, 4",
+    "art. 4:11b",
+    "art. 4:11f",
+    "art. 4:11g",
+    "art. 6:1",
+    "Legesverordening Omgevingswet 2026 tarief 4.2.1",
+    "Omgevingsplan art. 7.21"
+  ],
+  "opmerkingen": [
+    "D2: hele grondgebied, maar voor bomen van natuurlijke personen geldt een drempel van 361 cm omtrek (art. 4:11 lid 2a: 'bomen waarvan een natuurlijk persoon de zakelijk gerechtigde is, tenzij sprake is van een boom met een stamomtrek van minimaal 361 centimeter'). Volgens de modelregel 'drempel per soort eigenaar' scoor ik D op de drempel voor het perceel van een natuurlijk persoon, zonder bereik; 361 cm is meer dan 100 cm, dus D2. Op andere percelen (bedrijven, corporaties, gemeente) geldt 50 cm.",
+    "De toelichting bevestigt: 'Behoudens bomen van deze omvang hebben burgers geen kapvergunning nodig voor de kap van een boom op hun eigen perceel.' Voorbeeldbomen A en B zijn dus vrij (nee, nee).",
+    "W2: art. 4:11b lid 4 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorwaarden verlenen in het belang van' natuur-, landschaps-, cultuurhistorische, stads- en dorpsschoon- en recreatie- en leefbaarheidswaarden. Het college mag ook de waarde van de boom betrekken (lid 3, NVTB-richtlijnen).",
+    "H1 met maximum 2: 'kan' een herplantvoorwaarde verbinden (art. 4:11f lid 1); 'altijd' alleen als een plan de boom als waardevol aanwijst (voorwaardelijk, dus H1 max 2). Er is geen geldende beleidsregel over herplant of compensatie gevonden in het dossier.",
+    "S1: WED via Omgevingswet (art. 5.1 Ow; WED art. 1a onder 2°), bewijs: legesverordening tarief 4.2.1. Art. 6:1 APV noemt art. 4:11 niet maar wel 4:11g. Geen bestuurlijke boete en geen handhavingsbeleid voor kap gevonden.",
+    "Gebiedsregels met een ander doel dan boombescherming tellen niet: omgevingsplanwijziging Aramis, art. 2.8 (belemmeringengebied CO2-leiding, 'het aanbrengen en/of rooien van diepwortelende beplantingen en bomen'); aanwijzingsbesluit Tree House (stedelijk project, art. 4:11b lid 7).",
+    "Art. 4:11 lid 2 sub f: buiten de bebouwde kom (in dit artikel vrijwel heel de gemeente is 'kom') is niet relevant voor de score omdat de kom het hele grondgebied minus havengebieden is.",
+    "Art. 4:11 lid 1 zegt 'minimaal 50 centimeter'; de toelichting zegt 'meer dan 50 centimeter'. Het artikel gaat voor; geen invloed op de score. Het lid 2a-uitzondering voor natuurlijke personen is hier de belangrijkste factor.",
+    "Het aantal bekendmakingen (921) is geteld, niet per stuk gelezen; adressen en kenmerken van besluiten zijn niet overgenomen.",
+    "Nabewerking 16-11-2026: D2 → D1 (max 2): drempel voor natuurlijke personen 361 cm omtrek (zeer hoge drempel, 250 cm of meer) (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Rotterdam vergunt formeel alle bomen vanaf 50 cm in de hele gemeente, maar nagenoeg alle particuliere tuinbomen zijn vrij: alleen bomen van natuurlijke personen vanaf 361 cm omtrek vallen onder het verbod. Volgens de regel 'drempel per soort eigenaar' is dat D2 (score 33, Soepel). INTENT.md geeft geen duidelijk antwoord of een drempel van 361 cm (ruim boven het 100 cm-bereik, minder dan een enkele zeer oude boom per perceel) feitelijk als D0 telt. Advies: D2 aanhouden volgens de regel, maar in het rapport de voorbeeldbomen A en B (beide vrij) voorop zetten; eventueel een maximumgrens toevoegen (bijv. drempels vanaf 250 cm tellen als D1 of D0).",
+    "De drempel voor natuurlijke personen (361 cm) hangt af van wie zakelijk gerechtigde is, terwijl de scoreregel een 'gewone' tuin met een burger als eigenaar veronderstelt; voor woningcorporatie- of VvE-tuinen geldt 50 cm. Advies: in het rapport vermelden, geen modelwijziging.",
+    "Art. 6:1 APV noemt de kapverbodsbepaling (4:11) niet, maar wel het herplantartikel (4:11g). Dit past binnen het bestaande besluit (S1 via WED/Ow volgens leges); geen advies tot wijziging, wel een controlepunt bij het rapport."
+  ]
+}

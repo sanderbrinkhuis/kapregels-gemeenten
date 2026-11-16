@@ -1,0 +1,26 @@
+{
+  "gemeente": "Koggenland",
+  "gm_code": "GM1598",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Koggenland",
+  "zoeknaam_bekendmakingen": "Koggenland",
+  "opgehaald_op": "2026-11-16T14:06:33+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Koggenland\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 42,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Koggenland\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 9,
+  "geldende_regelingen": 12,
+  "geldend_met_kapartikelen": [
+    "CVDR42258_1",
+    "CVDR696466_2",
+    "CVDR747660_3",
+    "CVDR754160_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 4,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,77 @@
+{
+  "gm_code": "GM0163",
+  "gemeente": "Hellendoorn",
+  "provincie": "Overijssel",
+  "brondocument": "Kapverordening gemeente Hellendoorn 2022 (CVDR683501_2) art. 1, 2, 4, 7, 10, 12; APV 2025 (CVDR743312_1) afd. 4.3 vervallen, art. 6:1; Legesverordening 2026 (CVDR751241_1) art. 2.30; Omgevingsplan (CVDR696199_12) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR683501/2",
+  "datum_geldigheid": "Kapverordening CVDR683501_2 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "Kapverordening versie 2 per 2024-01-01 (wijziging van de aanhef, artikel 1 en de Toelichting). APV 2025 per 2025-08-16 met afdeling 'Het bewaren van houtopstanden' als '(Vervallen)'. Omgevingsplan versie 12 per 2026-08-07.",
+  "juridische_plaats": "Losse raadsverordening (Kapverordening 2022), werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, als bedoeld in het omgevingsplan of de gemeentelijke kapverordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 256 bekendmakingen op titel, waarvan 116 besluiten, 127 aanvragen en 0 weigeringen volgens de titel. De steekproef van 10 besluiten (o.a. gmb-2026-477583, gmb-2026-503126) noemt geen grondslag. Veel besluiten, ook in Nijverdal (mogelijk Zeeheldenbuurt/Noetsele, bomenkaart of gemeentebomen; niet vast te stellen).",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) van het bevoegd gezag voor niet-gemeentelijke houtopstanden: buiten de bebouwde kom vanaf 90 cm omtrek (art. 2 lid 3); binnen de kom alleen bomen op de waardevolle bomenkaart, herplantbomen sinds 2010 en alle bomen vanaf 90 cm in de Zeeheldenbuurt en Noetsele I-III (art. 2 lid 1 en 2).",
+  "drempel": "'omtrek van 90 cm of meer (te meten op 1.30 meter boven maaiveld)' (art. 2 lid 3; boom = omtrek stam 'minimaal 90 cm', art. 1 lid 1 onder a)",
+  "omtrek_cm": 90,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 2 lid 3: 'Het is zonder vergunning van het bevoegd gezag verboden buiten de bebouwde kom een niet-gemeentelijke houtopstand met een omtrek van 90 cm of meer (te meten op 1.30 meter boven maaiveld) en houtopstanden die in het kader van een herplantplicht zijn geplant na 1 januari 2010, te vellen of te doen vellen.' Binnen de kom (bebouwingscontour houtkap) lid 1: alleen 'een niet-gemeentelijke houtopstand, die staat vermeld op de door het college vast te stellen waardevolle bomenkaart' en herplantbomen. Lid 2: Zeeheldenbuurt en Noetsele I, II en III (kleine gebiedsregel, telt niet). Lid 4: gemeentelijke houtopstanden vanaf 90 cm.",
+  "uitzonderingen": "Art. 2 lid 6 en 7: kerstbomen, kweekgoed, dunning, Plantenziektenwet of aanschrijving, reguliere hakhoutonderhoud, knotten/kandelaberen (allemaal gangbaar). Geen tuin-, erf-, perceel- of soortuitzondering buiten de kom.",
+  "weigeringsgronden": "Art. 4 lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van de handhaving van het natuur-, landschaps- of dorps-/stadsschoon of om andere redenen van milieubeheer of maatschappelijk belang.' Geen beleid dat dit verder beperkt gevonden.",
+  "herplantplicht": "Art. 10 lid 1: 'Aan een vergunning voor de kap van één of meerdere houtopstanden wordt een voorschrift tot compensatie opgenomen.' Lid 2: 'Uitgangspunt is dat de compensatie in de vorm van een herplant wordt uitgevoerd. Als de herplant niet door de eigenaar zelf uitgevoerd kan worden, wordt deze afgekocht door een storting in het bomenfonds.' Lid 3: minimale richtlijn (bijv. 'storting van € 500,- in het bomenfonds' bij een boom van de eerste grootte).",
+  "herplant_ontsnapping": "'Het college kan hier in bijzondere gevallen gemotiveerd van afwijken.' (art. 10 lid 2) en lid 3: 'Dit is een minimale richtlijn, hier kan gemotiveerd van worden afgeweken'. Betalen in het bomenfonds als de eigenaar zelf niet kan herplanten ('wordt ... afgekocht'). Herplant na illegale kap: art. 10 lid 6 'kan'.",
+  "herplant_niet_nakomen": "Art. 10 lid 9: 'Degene aan wie de verplichtingen, als bedoeld in dit artikel, zijn opgelegd, ... is/zijn verplicht daaraan te voldoen.' Art. 12 lid 2: 'Hij, die handelt in strijd met artikel 2, eerste, tweede, derde of vierde lid, dan wel een voorschrift of een verplichting, als bedoeld in het vorige lid, niet nakomt, wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.'",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling in de Kapverordening art. 12 lid 2 (hechtenis of geldboete tweede categorie). Legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit (art. 22.8 Ow), dus WED via Ow 5.1 (S1 zonder bereik). WED-aanwijzing in APV 6:1 lid 2 gaat niet over kappen (2:10, 2:11, 2:12). Geen bestuurlijke boete gevonden.",
+  "procedure": "Gemotiveerde aanvraag met situatieschets (art. 3). Leges (art. 2.30): EUR 71,70. Noodkap: melden en binnen 4 weken aanvraag (art. 8). Geldigheidsduur 1 jaar mogelijk (art. 6). Bezwaar, beroep en beslistermijn niet apart gelezen; publicatie van besluiten in het gemeenteblad.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Binnen de bebouwde kom geldt een waardevolle bomenkaart (art. 1 lid 1 onder r); kaart niet ingezien. Telt niet voor D omdat het regime buiten de kom (90 cm) breder is.",
+  "status": "ok",
+  "ontbrekend": "Waardevolle bomenkaart en bijlage Bebouwingscontour houtkap niet ingezien (de bijlage staat niet als tekst in CVDR). Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "Kapverordening art. 1, 2, 4, 7, 9, 10, 12",
+    "APV 2025 afd. 4.3 (vervallen), art. 6:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: buiten de bebouwde kom (bebouwingscontour houtkap) geldt het verbod voor alle niet-gemeentelijke bomen vanaf omtrek 90 cm op 1,30 m, zonder tuin- of erfuitzondering (D3, middelmatig, 60-100 cm). Binnen de kom alleen de bomenkaart (D1) en de wijken Zeeheldenbuurt en Noetsele I-III met 90 cm (kleine gebiedsregel, telt niet). Hoogste deel geldt: D3.",
+    "W2: art. 4 lid 1 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van de handhaving van het natuur-, landschaps- of dorps-/stadsschoon ...'. Toelichting: kap om overlast van blad of eikenprocessierups is 'in de regel' geen aanleiding voor vergunning, maar dat blijft W2 (geen vastgesteld beleid).",
+    "H3: art. 10 lid 1 'wordt een voorschrift tot compensatie opgenomen' en lid 2 'wordt deze afgekocht door een storting in het bomenfonds' (verplichte storting als herplant niet mogelijk is, bijv. € 500,- voor boom eerste grootte). Art. 7 lid 4 zegt 'kan' voor de storting, maar art. 10 is het latere en specifieke voorschrift; uitweg 'in bijzondere gevallen gemotiveerd' blijft.",
+    "S1: eigen strafbepaling (art. 12) en omgevingsplanactiviteit volgens leges art. 2.30. Geen bestuurlijke boete.",
+    "Boom A en B: alleen als de boom op de waardevolle bomenkaart staat (binnen de kom, buiten Zeeheldenbuurt en Noetsele I-III; in die wijken geldt 90 cm, boom A van 80 cm blijft daar vrij).",
+    "APV 2025 afdeling 4.3 is vervallen; de Kapverordening geldt los en noemt art. 5.1 Omgevingswet in de aanhef.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 26.12 (transformatorstation Helmkruidlaan), 30.7 en 30.12 (één locatie, Veldhuizenweg 4) zijn kleine gebiedsregels en tellen niet voor D; art. 22.297 en 22.299 zijn alleen aanvraagvereisten. Geen aanvullende kapregel; D3 W2 H3 S1 ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Gebied met alleen een bomenkaart binnen de kom en een 90-cm-regel in het buitengebied: de 'hoogste deel'-regel geeft D3, terwijl de meeste particuliere tuinbomen (binnen de kom) alleen beschermd zijn als ze op de kaart staan. Strengheid 60 (Streng, precies op de grens) zegt weinig over de voorbeeldbomen A en B (beide 'alleen als op lijst').",
+    "H3 komt hier uit een verplichte afkoop in het bomenfonds ('wordt deze afgekocht') naast een herplantplicht met afwijkmogelijkheid in bijzondere gevallen; het model onderscheidt niet tussen een harde plicht en een plicht met een gemotiveerde uitweg voor H."
+  ]
+}

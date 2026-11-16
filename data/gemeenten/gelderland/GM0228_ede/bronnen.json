@@ -1,0 +1,32 @@
+{
+  "gemeente": "Ede",
+  "gm_code": "GM0228",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Ede",
+  "zoeknaam_bekendmakingen": "Ede",
+  "opgehaald_op": "2026-11-15T14:09:50+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Ede\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 95,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Ede\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 1202,
+  "geldende_regelingen": 23,
+  "geldend_met_kapartikelen": [
+    "CVDR640855_2",
+    "CVDR644625_1",
+    "CVDR644846_3",
+    "CVDR644911_2",
+    "CVDR646197_1",
+    "CVDR696227_5",
+    "CVDR705518_1",
+    "CVDR728566_1",
+    "CVDR747486_3",
+    "CVDR762038_1"
+  ],
+  "bekendmakingen_besluiten": 367,
+  "bekendmakingen_aanvragen": 448,
+  "bekendmakingen_geweigerd": 36,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

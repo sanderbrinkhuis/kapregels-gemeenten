@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0770/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Eersel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0770/2020/omgevingsplan/nld@2024-08-09;0c3ea75d85c54869bce8947465cb87d3",
+    "beginGeldigheid": "2024-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0770_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0770/2020/programma_sociale_woningbouw_gemeente_eersel44",
+    "titel": "Programma voor Gemeente Eersel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0770/2020/programma_sociale_woningbouw_gemeente_eersel44/nld@2025-07-23;559a4a5ba6df47ab807f681bc992c4c3",
+    "beginGeldigheid": "2025-07-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0770_2020_programma_sociale_woningbouw_gemeente_eersel44?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0770/2020/financieel_programma_impuls_sociale_woningbouw52",
+    "titel": "Financieel programma impuls sociale woningbouw",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0770/2020/financieel_programma_impuls_sociale_woningbouw52/nld@2025-12-16;9994ec5daa8544c5aa1a7d997db89dc0",
+    "beginGeldigheid": "2025-12-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0770_2020_financieel_programma_impuls_sociale_woningbouw52?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:58Z"
+  }
+]

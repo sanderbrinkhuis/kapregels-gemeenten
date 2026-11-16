@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0794",
+  "gemeente": "Helmond",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene plaatselijke verordening Helmond 2020, afdeling 4.3 Het bewaren van houtopstanden (art. 4.3.1 t/m 4.3.8) en art. 6.1 (CVDR716611_3); Uitvoeringsbesluit Bomenkaart Helmond 2022 (CVDR679115_3); Beleidsregel bescherming bomen Helmond 2023 (CVDR690582_1); Legesverordening 2026 art. 2.30 (CVDR750969_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR716611/3 ; https://lokaleregelgeving.overheid.nl/CVDR679115/3 ; https://lokaleregelgeving.overheid.nl/CVDR690582/1",
+  "datum_geldigheid": "APV CVDR716611_3 geldend van 2026-08-01 t/m heden; Bomenkaart CVDR679115_3 geldend van 2026-09-03 t/m heden; beleidsregel CVDR690582_1 geldend van 2023-01-03 t/m heden",
+  "laatste_wijziging": "APV: versie 3 per 2026-08-01 (welke artikelen is niet nagegaan; de tekst van afdeling 4.3 staat in het dossier). Bomenkaart: versie 3 per 2026-09-03. Beleidsregel: ongewijzigd sinds 2023-01-03.",
+  "juridische_plaats": "APV; de velplicht werkt als omgevingsplanactiviteit (legesverordening art. 2.30: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:3.3 van de Algemene plaatselijke verordening Helmond 2020 in samenhang met artikel 22.8 van de Omgevingswet') en heeft een WED-aanwijzing in de APV zelf (art. 6.1 lid 2). Het omgevingsplan (CVDR696409_5) bevat alleen art. 22.299 (aanvraagvereisten); de kapregel staat niet in het omgevingsplan.",
+  "praktijkcontrole": "Sinds 2025: 149 treffers op officielebekendmakingen.nl (titelzoekmethode), waarvan 83 aanvragen en 6 besluiten; 2 geweigerd volgens de titel. In de steekproef van 6 besluiten: 4 ingetrokken aanvragen en 2 weigeringen (gmb-2025-190621, gmb-2025-38617). Geen grondslagverwijzing in de besluiten. Past bij een lijstsysteem met een beperkt aantal beschermde bomen.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de bomenkaart staan aangegeven en in de boomcatalogus zijn beschreven (lijstsysteem); alle andere bomen vrij.",
+  "drempel": "Geen omvangdrempel; aangewezen puntelementen, lijnelementen en vlakelementen (art. 4.3.2) ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, maar alleen aangewezen elementen. Art. 4.3.3 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan aangegeven op de bomenkaart en zijn beschreven in de boomcatalogus.' Beleidsregel art. 2: 'Deze elementen kunnen zowel in gemeentelijk als particulier eigendom zijn.'",
+  "uitzonderingen": "Art. 4.3.3 lid 2 en 3: dunnen, spoedeisend belang of acuut gevaar (burgemeester), houtopstand die 'aantoonbaar op bedrijfseconomische wijze worden geëxploiteerd', fruitbomen en windschermen om boomgaarden, kerstbomen, kweekgoed, bepaalde populieren- en wilgenbeplantingen en biomassa. Allemaal gangbaar; geen uitzondering voor tuinen.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": 1797,
+  "lijst_aantal_particulier": 533,
+  "lijst_telling": "Regels in het Uitvoeringsbesluit Bomenkaart Helmond 2022 (CVDR679115_3, art. 1, tabel): 1.449 individuele bomen (puntelementen) plus 348 lijn- en vlakelementen. Eigenaar 'Derden' (alles behalve de gemeente): 513 puntelementen en 20 lijn- of vlakelementen, samen 533 regels. 'Derden' kan ook bedrijven of instellingen omvatten; de lijst noemt geen natuurlijke personen apart. Geteld in de brontekst.",
+  "weigeringsgronden": "Art. 4.3.3 lid 4: 'Het bevoegd gezag kan een vergunning als bedoeld in het eerste lid verlenen indien:' a. gevaar voor de veiligheid, b. 'zwaarwegende overlast', c. agrarische bedrijfsvoering, d. 'in afweging van alle betrokken belangen het algemeen belang prevaleert', e. boom te dicht bij de erfgrens. Lid 5: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, waarde voor de leefbaarheid. Beleidsregel art. 4 lid 1 werkt de verleningsgronden voor puntelementen nader uit (alleen bij instabiliteit en breukgevoeligheid, wortelschade aan een gebouw).",
+  "herplantplicht": "APV art. 4.3.3 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleidsregel art. 5 lid 1: 'Het college legt in beginsel een herplantplicht op, conform artikel 4.3.3, lid 6 en artikel 4.3.5 van de Algemene Plaatselijke Verordening, bij elke omgevingsvergunning voor het (gedeeltelijk) vellen van een beschermde houtopstand en bij illegale kap.' Herplant is minimaal gelijkwaardig aan de boomwaarde (art. 5 lid 2 onder a).",
+  "herplant_ontsnapping": "Beleidsregel art. 5 lid 1: 'in beginsel'; 'Alleen bij het vellen van houtopstanden voor natuurontwikkeling ... hoeft er niet gecompenseerd te worden.' Lid 4: 'Als binnen de projectgrenzen of kavelgrens niet voldoende groeiruimte is voor herplant van een gelijkwaardige houtopstand, bieden we de mogelijkheid om de herplantplicht (gedeeltelijk) te vervullen door: a. herplant elders in Helmond, of b. financiële compensatie van de getaxeerde waarde door een geldelijke bijdrage aan de Voorziening Kwaliteitsverbetering Landschap.' College beslist per geval.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Geen aparte bepaling over niet nakomen. APV art. 6.1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1.4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Art. 1.4 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' (Art. 1.4 lid 3 zegt dat het artikel niet van toepassing is op een aanvraag om een omgevingsvergunning; of een herplantvoorschrift hieronder valt, is niet zeker.) Daarnaast het algemene instrumentarium van de Awb.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de APV zelf: art. 6.1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2.1.5.1 en 2.1.5.2 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2.1.5.3, eerste lid, en artikel 4.3.3, eerste lid.' Daarnaast WED via de Omgevingswet (omgevingsplanactiviteit volgens legesverordening). Herplant na illegale kap: beleidsregel art. 5 lid 1 ('en bij illegale kap', in beginsel); APV art. 4.3.5 lid 1 zegt 'kan'. Geen bestuurlijke boete voor kappen in de regeling.",
+  "procedure": "Omgevingsvergunning. Leges 2026 (CVDR750969_2 art. 2.30): € 301,00. Beslistermijn: APV art. 1.2 lid 4 sluit omgevingsvergunningen uit; de Omgevingswet bepaalt de termijn. Bezwaar en beroep volgens Awb (het Uitvoeringsbesluit Bomenkaart noemt bezwaar binnen zes weken). Bekendmaking van aanvragen en besluiten via officielebekendmakingen.nl.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Niet nagegaan: de website helmond.nl/overzicht-beschermde-bomen (kaart met nadere beschrijving) en de boomcatalogus; de telling komt uit de lijst in CVDR679115_3. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "APV 2020 art. 4.3.1, 4.3.2, 4.3.3, 4.3.5, 6.1, 1.2, 1.4",
+    "Uitvoeringsbesluit Bomenkaart 2022 art. 1",
+    "Beleidsregel bescherming bomen 2023 art. 2, 4, 5",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1: alleen aangewezen elementen op de bomenkaart (art. 4.3.3 lid 1), ongeacht omvang. Lijst ingezien: 1.797 regels, waarvan 533 met eigenaar 'Derden'; dus particuliere (niet-gemeentelijke) bomen staan erop. Boom A en B zijn alleen beschermd als ze op de lijst staan.",
+    "W3: art. 4.3.3 lid 4 kan een vergunning verlenen indien, met een limitatieve opsomming van gronden (gesloten verleningsgronden, besluit gebruiker 15-11-2026: W = 3 zonder bereik). Lid 5 noemt ook weigeringsgronden op waarden (kan de vergunning worden geweigerd op grond van), wat voor W2 pleit; de beleidsregel (art. 4) beperkt de verlening verder. Gekozen is de regel voor gesloten verleningsgronden.",
+    "H2 met bereik 1-3: APV zegt 'kan' (art. 4.3.3 lid 6); de vastgestelde beleidsregel (art. 5 lid 1) zegt 'in beginsel' een herplantplicht opleggen bij elke vergunning en bij illegale kap. H2 volgens de definitie ('in beginsel' = standaard); H1 volgens de regel in principe in beleid terwijl de regeling kan zegt (max 2); H3 als de financiële compensatie als verplicht zou gelden. De bijdrage is een alternatief als er geen ruimte is ('bieden we de mogelijkheid'), geen extra plicht. Zie modelsignaal.",
+    "Herplant na illegale kap: verordening art. 4.3.5 lid 1 'kan' (bevoegdheid), beleidsregel art. 5 lid 1 'legt in beginsel een herplantplicht op ... bij illegale kap'. Beide genoemd; geen invloed op H (alleen S).",
+    "S1: WED-aanwijzing in APV art. 6.1 lid 2 voor art. 4.3.3 lid 1; ook via Omgevingswet 5.1 (leges art. 2.30). Geen bestuurlijke boete voor kappen.",
+    "Leges verwijst naar 'artikel 4:3.3' (met dubbele punt), de APV nummert 4.3.3; kleine afwijking, geen gevolg voor de score.",
+    "De beleidsregel zegt dat een belemmering van de agrarische bedrijfsvoering 'geen reden voor het verlenen van vergunning' is voor puntelementen (art. 4 lid 1 onder c), terwijl APV art. 4.3.3 lid 4 onder c die grond wel noemt; beleid is strenger.",
+    "Beleidsregel art. 5 lid 2 onder a: herplant 'minimaal gelijkwaardige compensatie' in kosten aan de boomwaarde (methode NVTB).",
+    "Het Uitvoeringsbesluit Bomenkaart verwijst voor de actuele kaart naar https://www.helmond.nl/overzicht-beschermde-bomen (niet bereikbaar gecontroleerd).",
+    "Provinciale regels voor houtopstanden niet beoordeeld."
+  ],
+  "modelsignalen": [
+    "'In beginsel' herplant in vastgestelde beleidsregel bij een APV die 'kan' zegt: INTENT.md geeft twee uitkomsten (H2 volgens definitie 'in beginsel'; H1 max 2 volgens de regel voor doorgaans of in principe). 'In beginsel' en 'in principe' zijn synoniem; het model zegt niet welke regel voorgaat.",
+    "Gesloten verleningsgronden (kan verlenen indien, met lijst) naast een lid dat weigeringsgronden op waarden geeft (kan worden geweigerd op grond van): de regels voor W3 en W2 wijzen allebei, het model kiest niet tussen beide.",
+    "Eigenaar 'Derden' op een bomenlijst is niet gelijk aan 'particulier' (burger): het kan ook bedrijven of instellingen zijn; lijst_aantal_particulier is daarom een bovengrens."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "gm_code": "GM0307",
+  "gemeente": "Amersfoort",
+  "provincie": "Utrecht",
+  "brondocument": "Omgevingsplan gemeente Amersfoort (CVDR696264_6), afdeling 5.6 Vellen van een houtopstand, art. 5.58 t/m 5.63 en art. 22.243 (aanvraagvereisten); legesverordening 2026 (CVDR751224_2) art. 4 lid f; Uitvoerings- en handhavingsstrategie 2025-2027 (CVDR765826_1) bijlage 11; Uitvoering- en Handhavingsstrategie Regio Utrecht 2026 (CVDR753596_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696264/6",
+  "datum_geldigheid": "2026-07-03 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2026-07-03 (versie 6 van het omgevingsplan; de datum waarop afdeling 5.6 zelf voor het laatst is gewijzigd is niet vastgesteld)",
+  "juridische_plaats": "Omgevingsplan (art. 5.59, activiteitgerichte regels). De VFL Amersfoort (CVDR642276_9) en de APV (CVDR726883_3) hebben de kapartikelen laten vervallen ('[Vervallen]'). De legesverordening noemt kappen 'een omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a van de Omgevingswet'. Daarom werkt de regel als omgevingsplanregel.",
+  "praktijkcontrole": "Sinds 2025: 1.187 bekendmakingen met kapterm in de titel (titelzoekmethode, dossier): 569 besluiten, 613 aanvragen, 54 geweigerd volgens titel. De steekproef van 10 recente besluiten noemt geen grondslag. Veel kapvergunningen voor één boom op particuliere percelen (o.a. gmb-2026-524585, gmb-2026-527808). Dit past bij een breed vergunningstelsel. Het VTH-uitvoeringsprogramma 2026 (CVDR752170_1) zegt: 'Amersfoort kent een kapvergunningenstelsel voor het kappen van bomen. Wij hebben besloten de vergunningplicht niet aan te passen.'",
+  "vergunningplicht": "Omgevingsvergunning (omgevingsplanactiviteit) voor het vellen van een houtopstand. Melding vooraf alleen bij acuut gevaar of dode houtopstand (art. 5.60).",
+  "drempel": "Art. 5.59 lid 2 onder a: het verbod geldt niet voor 'houtopstand in eigendom van een natuurlijk- of rechtspersoon, waarvan de stamomtrek, gemeten op 1,3 meter hoogte boven het maaiveld minder is dan 35 centimeter'. Drempel dus 35 cm omtrek (ca. 11 cm doorsnee).",
+  "omtrek_cm": 35,
+  "meethoogte": "1,3 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. Binnen de bebouwde kom geldt het verbod overal. Buiten de bebouwde kom (werkingsgebied) geldt het niet, 'tenzij: a. de houtopstand een zelfstandige eenheid vormt die geen grotere oppervlakte beslaat dan 10 are of bestaat uit rijbeplanting van niet meer dan 20 bomen ... of b. de houtopstand zich bevindt op erven en in tuinen' (art. 5.59 lid 3). D per deel: binnen de kom en in tuinen overal drempel 35 cm. Er is daarnaast een werkingsgebied monumentale boom (art. 5.62 lid 2).",
+  "uitzonderingen": "Art. 5.59 lid 2: bomen onder 35 cm omtrek; 'wegbeplantingen en eenrijige beplantingen op of langs landbouwgronden, beide voor zover bestaande uit niet geknotte populieren of wilgen'; 'vruchtbomen in en windschermen om boomgaarden'; kerstbomen (fijnsparren tot 12 jaar op daarvoor bestemde terreinen); kweekgoed; dunning; Plantgezondheidswet of aanschrijving; periodiek vellen van hakhout. Er is geen uitzondering voor achtertuinen, perceelgrootte, naaldbomen of fruitbomen in tuinen. Geen correctie op D.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "ja",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem als hoofdregime. Er is wel een werkingsgebied monumentale boom (art. 5.62 lid 2), maar die kaart of lijst is niet ingezien; het breedste regime bepaalt D.",
+  "weigeringsgronden": "Art. 5.62 lid 1: 'De omgevingsvergunning als bedoeld in artikel 5.59 wordt verleend als: a. de natuurwaarde van de houtopstand niet onevenredig wordt aangetast; b. de landschappelijke waarde ...; c. de waarde van de houtopstand voor stads- en dorpsschoon ...; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid ...; g. de boomwaarde van de houtopstand niet onevenredig wordt aangetast.' Lid 2: 'het is verboden om in het werkingsgebied monumentale boom een houtopstand te vellen, tenzij er zwaarwegende redenen zijn, zoals veiligheid.' Het toetsingskader is volgens de U&H-strategie 'de bomenleidraad, vastgesteld door de gemeenteraad' (niet in het dossier).",
+  "herplantplicht": "Art. 5.63: 'Op grond van de beoordelingsregels als bedoeld in artikel 5.62 kunnen de volgende voorschriften aan de omgevingsvergunning als bedoeld in artikel 5.59 worden verbonden: a. een termijn waarbinnen moet worden herplant en/of elders gecompenseerd; b. bij niet geslaagde herplant of compensatie kan een termijn van vervangen van deze niet geslaagde beplanting worden bepaald'. Dus een bevoegdheid (kan). Het Puntensysteem Groencompensatie (CVDR692919_1) geldt alleen voor ruimtelijke ontwikkelingen (bouwprojecten) en verhoogt H niet.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kunnen ... worden verbonden'); het college beslist per geval. Geen verplichte storting als alternatief in de tekst. Een eventuele vaste herplantnorm staat mogelijk in de bomenleidraad (niet gelezen).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Beleid, niet regeling: CVDR765826_1 bijlage 11, rij 'niet uitvoeren herplantplicht, per boom': Sanctie 1 'Dwangsom, per overtreding', Sanctie 2 'Bestuurlijke boete', '€500,-'. Ook CVDR673009_1 bijlage 8: 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht. | per week | 5.000 | 4 weken'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "WED via de Omgevingswet: de kapregel werkt als omgevingsplanregel (legesverordening art. 4 lid f: 'omgevingsplanactiviteit ... voor het kappen van bomen'), dus WED via Ow 5.1 (S = 1, zonder bereik). Handhavingsbeleid (CVDR765826_1 bijlage 11): zonder vergunning vellen, per boom: 'Opleggen herplantplicht, dwangsom, per boom' (sanctie 1) en 'Bestuurlijke boete' (sanctie 2), € 1.000 buiten en € 2.000 binnen (rijks)beschermd stadsgezicht; monumentale boom: 'Bestuurlijke boete' € 5.000. Een bestuurlijke boete staat niet in het omgevingsplan zelf; de rechtsgrond daarvoor is niet gelezen. VFL art. 11.1 lid 2 (WED) verwijst nog naar het vervallen art. 2.1.",
+  "procedure": "Aanvraag via omgevingsloket (aanvraagvereisten art. 22.243). Beslistermijn 8 weken, eenmaal 6 weken te verlengen (VFL art. 1.2 lid 3 verwijst naar art. 2.1 dat is vervallen; Omgevingswet 16.64 niet getoetst). Leges: tarief voor kappen niet in het dossier; vrijstelling voor kap in beschermd stadsgebied (art. 4 lid f). Bezwaar en beroep niet vastgesteld.",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": false,
+  "status": "onzeker",
+  "ontbrekend": "Kernbron ontbreekt: de 'bomenleidraad, vastgesteld door de gemeenteraad' (toetsingskader, volgens CVDR765826_1 bijlage 6) staat niet in het dossier en is niet gevonden (amersfoort.nl/bomenleidraad geeft 404). Daardoor is niet vast te stellen of herplant of boomwaarde-compensatie daarin standaard is voorgeschreven (H max 2 aangehouden) en welke criteria de weigering kleuren. Bomen van het werkingsgebied monumentale boom niet ingezien. De rechtsgrond voor de bestuurlijke boete in het handhavingsbeleid is niet gelezen (S max 3).",
+  "artikelnummers": [
+    "Omgevingsplan art. 5.58",
+    "Omgevingsplan art. 5.59",
+    "Omgevingsplan art. 5.60",
+    "Omgevingsplan art. 5.62",
+    "Omgevingsplan art. 5.63",
+    "Omgevingsplan art. 22.243",
+    "VFL art. 2.1 (vervallen)",
+    "VFL art. 11.1",
+    "APV art. 4:11 (vervallen)",
+    "Legesverordening 2026 art. 4 lid f",
+    "CVDR765826_1 bijlage 11",
+    "CVDR673009_1 bijlage 8"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): een bestuurlijke boete die alleen in handhavingsbeleid staat, telt niet voor S2 → S1 zonder bereik.",
+    "D4: drempel 35 cm omtrek (< 60 cm), hele bebouwde kom. Buiten de kom geldt het verbod alleen voor kleine houtopstanden en erven en tuinen; D per deel is dus hoogstens gelijk aan D binnen de kom. Geen tuinuitzondering, geen aantalsuitzondering, geen perceelgrens.",
+    "W2: art. 5.62 lid 1 'wordt verleend als: a. de natuurwaarde van de houtopstand niet onevenredig wordt aangetast'. Voor bomen in het werkingsgebied monumentale boom geldt strenger: 'tenzij er zwaarwegende redenen zijn, zoals veiligheid'; dat telt niet voor W.",
+    "H1: art. 5.63 'kunnen ... worden verbonden ... herplant en/of elders gecompenseerd'. Groencompensatie via het Puntensysteem (CVDR692919_1) geldt bij ruimtelijke ontwikkeling en verhoogt H niet. Het VTH-programma noemt 'toezicht op de herplantplicht', maar de omvang van de plicht staat niet in de regeling.",
+    "S1: WED via Omgevingswet (legesverordening art. 4 lid f noemt kappen een omgevingsplanactiviteit). De bestuurlijke boete in het handhavingsbeleid is niet als boetegrondslag in een regeling gevonden en telt daarom niet mee in de puntschatting (bereik tot S3).",
+    "Eerdere regeling (APV afdeling 4.3 en VFL hoofdstuk II) is vervallen; ook de Beleidsregel Bomen (CVDR366370_1 en CVDR607020_1) is vervallen.",
+    "Boom A en B (op ca. 300 m2 perceel, achtertuin binnen de kom): beide boven 35 cm omtrek, dus vergunning nodig."
+  ],
+  "modelsignalen": [
+    "Amersfoort: art. 5.62 formuleert de beoordelingsregels als 'wordt verleend als ... niet onevenredig wordt aangetast'. INTENT.md kent W1 (verlenen tenzij) en W2 (kan weigeren op waarden); deze positieve formulering valt er tussenin. Gekozen: W2 (waarden uit art. 5.62 zijn dezelfde als de VNG-gronden).",
+    "Amersfoort: handhavingsbeleid noemt bestuurlijke boete voor illegale kap, maar de regeling (omgevingsplan) bevat geen boete. INTENT.md zegt S2 = 'bestuurlijke boete in de regeling' en laat open of een boete uitsluitend in beleid telt. Gekozen: S1 met bereik tot 3.",
+    "Amersfoort: kernbron 'bomenleidraad' (gemeenteraad) is geen CVDR-regeling in het dossier; het model kent geen regel voor een toetsingskader dat buiten de gevonden regelingen staat."
+  ]
+}

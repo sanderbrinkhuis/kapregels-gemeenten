@@ -1,0 +1,86 @@
+{
+  "gm_code": "GM0606",
+  "gemeente": "Schiedam",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Bomenverordening Schiedam 2011 (art. 1, 2, 3, 6, 9, 10, 15); Nadere regels Gemeentelijk Herplantfonds Schiedam 2012 (CVDR254344_1); Verordening op de heffing en invordering van leges Schiedam 2023 art. 2.8.1.1 (CVDR684186_5); Omgevingsplan gemeente Schiedam art. 22.299 (CVDR696363_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR116792/1 ; https://lokaleregelgeving.overheid.nl/CVDR254344/1 ; https://lokaleregelgeving.overheid.nl/CVDR684186/5 ; https://lokaleregelgeving.overheid.nl/CVDR696363/2",
+  "datum_geldigheid": "Bomenverordening CVDR116792_1 geldend vanaf 2011-10-06 t/m heden (peildatum scoren 2026-11-16); nadere regels herplantfonds vanaf 2012-11-01; legesverordening CVDR684186_5 vanaf 2026-10-01; omgevingsplan CVDR696363_2 vanaf 2024-03-25",
+  "laatste_wijziging": "Bomenverordening: versie 1, ongewijzigd sinds 2011-10-06. Legesverordening: versie 5 per 2026-10-01.",
+  "juridische_plaats": "Losse bomenverordening, werkt als omgevingsplanactiviteit: legesverordening art. 2.8.1.1 noemt het vellen van een houtopstand 'bedoeld in artikel 3 van de bomenverordening Schiedam 2011 ... in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 74 bekendmakingen op volledige tekst (benadering), waarvan 6 besluiten en 33 aanvragen; geen weigering volgens titel. In de steekproef van 6 besluiten noemen 3 besluiten (o.a. gmb-2026-125445 en gmb-2026-420145) letterlijk de 'omgevingsplanactiviteit ‘Boom kappen of houtopstand vellen’ ex artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'. Dit bevestigt de route via de Omgevingswet.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor een omgevingsplanactiviteit) voor het vellen van houtopstand (art. 3 lid 1); voor Monumentale bomen een verbod met ontheffing (art. 2).",
+  "drempel": "Art. 1 onder a: boom heeft 'een dwarsdoorsnede van de stam van minimaal 25 centimeter op 1,3 meter hoogte boven het maaiveld. Indien het betreft houtopstand in privaat eigendom, geldt in afwijking van het in vorige zin bepaalde een dwarsdoorsnede van 30 centimeter op 1,3 meter hoogte.' Voor privaat eigendom omgerekend 30 x 3,14 = ca. 94 cm stamomtrek (op het openbaar terrein 25 cm doorsnee, ca. 79 cm).",
+  "omtrek_cm": 94.2,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, met een hogere drempel voor privaat eigendom. Voor particulier terrein geldt het verbod niet 'voor houtopstand dat zich bevindt op een perceel in privaat eigendom binnen een straal van 10 meter uit de gevel van een op dat perceel aanwezig pand' (art. 3 lid 3). Daarnaast een lijst met monumentale bomen (art. 2 en 4); het brede regime bepaalt D.",
+  "uitzonderingen": "Art. 3 lid 3: 'houtopstand dat zich bevindt op een perceel in privaat eigendom binnen een straal van 10 meter uit de gevel van een op dat perceel aanwezig pand' (monumentale bomen uitgezonderd). Voor een perceel van ca. 300 m2 valt vrijwel de hele tuin binnen 10 m van de gevel; daarom is dit een ruime tuinuitzondering (-1). Verder: bedrijfseconomisch geëxploiteerde houtopstand (Boswet), Plantenziektenwet of aanschrijving, periodiek vellen van hakhout, periodiek knotten of kandelaberen.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 6 lid 2: 'De (omgevings-)vergunning voor het vellen van een houtopstand als bedoeld in artikel 3 lid 1, wordt onder verwijzing naar beleid geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden: a. natuur- en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads- en dorpsschoon; e. waarden voor recreatie en leefbaarheid.' Lid 1: 'Het bevoegd gezag kan de (omgevings-)vergunning om te vellen weigeren dan wel onder voorschriften of beperkingen verlenen.'",
+  "herplantplicht": "Art. 9 lid 1: 'Tot de aan de (omgevings-)vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen, moet worden herplant.' Lid 3: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk herplantfonds.' Na illegale kap: art. 10 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten' en lid 2 'Indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort in het gemeentelijk herplantfonds.'",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren'); het bevoegd gezag beslist per geval. Als herplant ter plaatse niet kan, volgt betaling aan het herplantfonds in plaats van herplant (art. 9 lid 3, 'kan'; na illegale kap art. 10 lid 2, 'wordt'). De nadere regels kennen een hardheidsclausule: 'Burgemeester en wethouders kunnen artikel 3 buiten toepassing laten of daarvan afwijken voor zover toepassing ... leidt tot een onbillijkheid van overwegende aard.'",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit): legesverordening art. 2.8.1.1 noemt het vellen 'in samenhang met artikel 22.8 van de Omgevingswet'. De strafbepaling art. 15 lid 2 van de Bomenverordening noemt alleen art. 13 lid 2 en art. 14: 'wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie'. Geen bestuurlijke boete in de regeling. Herplant na illegale kap: art. 10 lid 1 (kan); de bijdrage is dan herplantwaarde plus boomwaarde (nadere regels art. 3 lid 2, genoemd 'financiële compensatie').",
+  "procedure": "Leges art. 2.8.1.1: EUR 373,70 basistarief voor één boom, plus EUR 24,70 per extra boom. Aanvraag schriftelijk en gemotiveerd (art. 5), met aanvraagvereisten uit omgevingsplan art. 22.299; vergunning vervalt na één jaar niet gebruikt (art. 8). Bezwaar en beroep volgens de Awb; beslistermijn volgens de Omgevingswet.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen bepaling over het niet nakomen van een herplantvoorschrift. Art. 15 lid 1 ('gehouden dienovereenkomstig te handelen') geldt alleen voor een voorschrift als bedoeld in art. 13 lid 1 (boomziekten); art. 15 lid 2 noemt art. 9 en 10 niet. Alleen het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst met monumentale bomen (art. 4) niet ingezien en niet in CVDR gevonden; geen aantallen",
+  "status": "ok",
+  "ontbrekend": "Het beleid waarnaar art. 6 lid 2 verwijst ('onder verwijzing naar beleid') en de Bomennota Schiedam (deel 3 Bomenbeheerplan, genoemd in de nadere regels herplantfonds) staan niet in het dossier of in tekst/ en niet als geldend in CVDR. Lijst met monumentale bomen niet ingezien (geen invloed op D). Omgevingsplan in het DSO niet zelf bekeken.",
+  "artikelnummers": [
+    "Bomenverordening art. 1",
+    "Bomenverordening art. 2",
+    "Bomenverordening art. 3",
+    "Bomenverordening art. 6",
+    "Bomenverordening art. 9",
+    "Bomenverordening art. 10",
+    "Bomenverordening art. 15",
+    "Nadere regels herplantfonds art. 2",
+    "Nadere regels herplantfonds art. 3",
+    "Nadere regels herplantfonds art. 8",
+    "Leges art. 2.8.1.1",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Beslissend voor D: drempel voor privaat eigendom 'dwarsdoorsnede van 30 centimeter op 1,3 meter hoogte' = ca. 94 cm omtrek (omtrek 60-100 cm): D = 3 op de drempel. Daarbij een ruime tuinuitzondering (-1): art. 3 lid 3, 'binnen een straal van 10 meter uit de gevel van een op dat perceel aanwezig pand'. Op een perceel van ca. 300 m2 valt vrijwel elke tuinboom daarbinnen (zie ook Achtkarspelen, 20 m, wel -1). D = 3 - 1 = 2; maximum 3 omdat een boom op een ruimer perceel buiten de 10 m kan staan.",
+    "Boom A (80 cm omtrek, ca. 25 cm doorsnee) en boom B (40 cm) liggen allebei onder de drempel van ca. 94 cm voor privaat eigendom en zijn dus ook zonder de 10 m-uitzondering vrij: nee. De toelichting zegt: 'Bomen in privaat eigendom met een doorsnede van minder dan 30 cm en alle bomen (uitgezonderd aangewezen monumentale bomen) op private percelen die zich bevinden binnen een straal van 10 meter vanaf de gevel zijn kapvergunningvrij.'",
+    "Beslissend voor W: 'wordt onder verwijzing naar beleid geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' met natuur-, landschaps-, cultuurhistorische, stadsschoon- en leefbaarheidswaarden: W = 2 zonder bereik. Het beleid waarnaar wordt verwezen is niet gevonden.",
+    "Beslissend voor H: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen, moet worden herplant' (art. 9 lid 1): H = 1. Maximum 2 omdat de toelichting op de nadere regels zegt: 'Herplant dient in principe uitgevoerd te worden op of in de directe nabijheid van de kaplocatie.' Dat is geen vast voorschrift. De storting in het herplantfonds ('kan', art. 9 lid 3) is geen verplichte betaling. Na illegale kap geldt wel een verplichte storting als niet ter plaatse kan worden herplant ('wordt', art. 10 lid 2): herplant na illegale kap verhoogt H niet.",
+    "Beslissend voor S: de legesverordening noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Omgevingswet, dus WED via Ow 5.1 en S = 1 zonder bereik. Art. 15 lid 2 noemt het velverbod (art. 3) niet. Geen bestuurlijke boete.",
+    "De nadere regels (art. 3 lid 2, 'de herplantwaarde vermeerderd met de boomwaarde') zijn herstel na illegale kap en vallen onder S = 1, niet onder S = 2 of 3 (geen boete).",
+    "Toelichting art. 3 lid 3: 'Met totaaloppervlakte is bedoeld het totale grondoppervlak inclusief bebouwing.' Dit is een restant van een eerdere perceelsgrens en staat niet in het artikel zelf; het artikel gaat voor.",
+    "Nabewerking 16-11-2026: D2 (2-3) → D2 zonder bereik: vrijstelling binnen 10 m van de gevel geeft vast −1 (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Afstand tot de gevel van 10 m (art. 3 lid 3): het model kent een -1 voor 'een smalle strook' (3 of 4 m) alleen als de voorbeeldboom daardoor vrij is, en noemt Achtkarspelen (20 m) wel -1. Of een boom in een tuin van 300 m2 binnen 10 m van de gevel staat, hangt van de indeling af. Advies: voor afstanden vanaf ca. 10 m altijd -1 toepassen en een bereik tot +1 laten staan (zoals hier gedaan); een vaste grens in INTENT.md vastleggen.",
+    "Verwijzing naar niet-gevonden beleid ('wordt onder verwijzing naar beleid geweigerd'): het model zegt niet wat te doen als dat beleid ontbreekt. Advies: W op de verordeningstekst scoren (W = 2) en het ontbreken melden, zoals hier gedaan."
+  ]
+}

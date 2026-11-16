@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1895/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oldambt",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1895/2020/omgevingsplan/nld@9",
+    "beginGeldigheid": "2024-05-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1895_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1895/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Oldambt",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1895/2025/omgevingsvisie/nld@15",
+    "beginGeldigheid": "2026-01-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1895_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1895/2026/10_5",
+    "titel": "Omgevingsplan gemeente Oldambt",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1895/2026/10_5/nld@17",
+    "beginGeldigheid": "2026-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1895_2026_10_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1895/2026/10_6",
+    "titel": "Omgevingsplan gemeente Oldambt",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1895/2026/10_6/nld@19",
+    "beginGeldigheid": "2026-09-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1895_2026_10_6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:19Z"
+  }
+]

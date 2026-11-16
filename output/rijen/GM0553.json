@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0553",
+  "gemeente": "Lisse",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Bomenverordening Lisse 2015 (art. 1-15); Lijst waardevolle bomen Lisse 2023; Aanwijsregels voor bomen per statuscategorie, gemeente Lisse (beleidsregel 2016); Verordening op de heffing en invordering van leges Lisse 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR377885/1",
+  "datum_geldigheid": "geldend van 2016-01-01 t/m heden (CVDR377885_1); Lijst waardevolle bomen geldend van 2023-04-14 (CVDR694628_1)",
+  "laatste_wijziging": "Bomenverordening: versie 1, in werking 2016-01-01, niet gewijzigd; lijst vastgesteld 2023 (art. 4 vraagt vaststelling 'elke drie jaar')",
+  "juridische_plaats": "Losse bomenverordening (APV-afdeling 4:10-4:12a is '(Vervallen)'), werkt als omgevingsplanactiviteit volgens leges art. 2.30 (CVDR752561_1, in samenhang met art. 22.8 Ow) en art. 22.299 (aanvraagvereisten, restant bruidsschat). Geen kapregel in het omgevingsplan zelf.",
+  "praktijkcontrole": "8 bekendmakingen sinds 2025 (0 besluiten, 4 aanvragen, 0 weigeringen volgens titel; zoekmethode titel). Geen besluiten opgehaald, dus geen grondslag te controleren. Klein aantal, past bij een lijstsysteem.",
+  "vergunningplicht": "Alleen waardevolle bomen op de Lijst waardevolle bomen Lisse: verbod met ontheffing (art. 7-8). Structuurbomen en functionele bomen: 'geen vergunning of ontheffing nodig' (art. 5 lid 2, art. 6 lid 2). Overige bomen: geen regime.",
+  "drempel": "geen drempel; alleen bomen op de lijst (definitie 'boom' in art. 1 onder b: dwarsdoorsnede van minimaal 10 cm op 1,3 m)",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t. (lijst); definitie boom op 1,3 m",
+  "reikwijdte": "Hele gemeente, binnen de bebouwde kom en buiten de kom voor Boswet-houtopstanden (art. 2 lid 1); verbod alleen voor 'waardevolle boom' = houtopstand op de Lijst waardevolle bomen Lisse (art. 1 onder p, art. 7). De lijst (CVDR694628_1, bijlage 1) bevat 379 regels, waarvan 181 met eigenaar 'Particulier', 149 'Gemeente', 40 'Publiekrechtelijke organisatie', 7 'Woningbouwvereniging' en 2 'Provincie'. Ook aangeplante herplantbomen vallen onder het verbod (art. 7 lid 3).",
+  "uitzonderingen": "Art. 2 lid 2: niet voor wegbeplantingen en eenrijige beplantingen langs landbouwgrond van populieren of wilgen (tenzij geknot), vruchtbomen en windschermen om boomgaarden, fijnsparren voor kerstbomen, kweekgoed. Art. 7 lid 2: niet voor vellen krachtens de Plantenziektewet, op bevel van de burgemeester of krachtens een opgelegde verplichting, en knotten als noodzakelijke beheermaatregel. Gangbare uitzonderingen; geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": 379,
+  "lijst_aantal_particulier": 181,
+  "lijst_telling": "regels op de Lijst waardevolle bomen Lisse 2023 (CVDR694628_1, bijlage 1), kolom Boomeigenaar; zelf geteld uit de brontekst",
+  "weigeringsgronden": "Art. 8 lid 1: 'Het college kan ontheffing verlenen van het in artikel 7, eerste lid, opgenomen verbod in de volgende gevallen:' a. instandhouding niet langer verantwoord; b. verplanten vormt geen bedreiging voor duurzaam behoud; c. een zwaarwegende maatschappelijke reden. Advies boomtechnisch deskundige bij a of b (lid 2).",
+  "herplantplicht": "Art. 10 lid 1: 'Het college verbindt aan een ontheffing in ieder geval het voorschrift dat binnen een door het college te bepalen termijn en overeenkomstig door het college te geven aanwijzingen wordt herplant, tenzij zwaarwegende redenen zich daartegen verzetten.' Art. 10 lid 3: kan herplant niet in redelijkheid op hetzelfde perceel of in de directe omgeving, dan 'wordt in plaats van het in het eerste lid bedoelde voorschrift als voorschrift opgenomen dat de boom of bomen niet mag/mogen worden geveld voordat een door het college te bepalen bedrag, dat gelijk is aan de herplantwaarde, in de voorziening herplantplicht bomen is gestort'.",
+  "herplant_ontsnapping": "'tenzij zwaarwegende redenen zich daartegen verzetten' (art. 10 lid 1); college beslist per geval; verplichte storting van de herplantwaarde in de voorziening herplantplicht bomen als herplant 'niet in redelijkheid' kan (art. 10 lid 3). Na illegale kap: 'kan' (art. 11).",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 15: 'Degene die handelt in strijd met het bepaalde in artikel 7, artikel 10, artikel 11, artikel 13 en artikel 14 van deze verordening, kan worden gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling art. 15 (hechtenis tot 3 maanden of geldboete tweede categorie) voor art. 7, 10, 11, 13, 14; geen WED-aanwijzing in de regeling en geen bestuurlijke boete. Wel omgevingsplanactiviteit: leges art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening Lisse 2015 in samenhang met artikel 22.8 van de Omgevingswet' (WED via Ow 5.1). Herplant na illegale kap: 'kan' (art. 11).",
+  "procedure": "Ontheffing van het college; leges € 102,00 (art. 2.30). Beslistermijn en publicatie niet in de verordening geregeld. Bezwaar en beroep volgens Awb. Ontheffing vervalt na 1 jaar (art. 9).",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "De 'Beleidsregels voor bescherming van het bomenareaal van gemeente Lisse' (genoemd in CVDR391518_1 hoofdstuk 1 en in de toelichting op de Bomenverordening, over 'besluiten tot handhaving of vellen met herplant') staan niet in CVDR en niet in het dossier. Mogelijk gaan ze alleen over gemeentebomen. Omgevingsplan in het DSO niet geraadpleegd.",
+  "artikelnummers": [
+    "Bomenverordening Lisse 2015: art. 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 15",
+    "Lijst waardevolle bomen Lisse 2023 (CVDR694628_1)",
+    "Legesverordening 2026: art. 2.30",
+    "Omgevingsplan: art. 22.299"
+  ],
+  "opmerkingen": [
+    "W3: 'Het college kan ontheffing verlenen van het in artikel 7, eerste lid, opgenomen verbod in de volgende gevallen:' (gesloten lijst: instandhouding niet langer verantwoord, verplanten, zwaarwegende maatschappelijke reden) (art. 8 lid 1).",
+    "H3: 'wordt herplant, tenzij zwaarwegende redenen zich daartegen verzetten' (art. 10 lid 1) en verplichte storting van de herplantwaarde als herplant niet in redelijkheid kan (art. 10 lid 3: 'wordt ... als voorschrift opgenomen').",
+    "S1: eigen strafbepaling art. 15 en omgevingsplanactiviteit volgens leges art. 2.30. De leges verwijzen naar 'artikel 2 van de Bomenverordening Lisse 2015' (toepassingsbereik); het verbod staat in art. 7 (foute verwijzing, route blijft bewezen).",
+    "Lijst: 181 van 379 regels particulier; eenheid is een regel op de lijst (kan meerdere bomen omvatten). De lijst noemt bij 'Standplaats' adressen; die zijn niet overgenomen.",
+    "Alleen waardevolle bomen zijn beschermd. Structuurbomen en functionele bomen zijn in de verordening vrijgesteld van vergunning (art. 5 lid 2, art. 6 lid 2) en 'Structuur en Functionele bomen van derden vallen buiten de gemeentelijke registratie' (CVDR391518_1).",
+    "De APV-afdeling Houtopstanden (art. 4:10-4:12a) is '(Vervallen)' in CVDR712438_3; APV art. 6:1 is dus niet van toepassing op de bomenverordening. De Bomenverordening 2015 staat als geldend in CVDR.",
+    "Aanwijsregels (CVDR391518_1, beleidsregel 2016): bomen zijn waardevol bij plantjaar meer dan 80 jaar geleden (stamdiameter meer dan 80 cm bij onbekend plantjaar); particuliere tuinbomen kunnen worden aangewezen. Geen aanvulling op W of H.",
+    "Hillegom, Lisse en Teylingen werken samen (HLT). Het omgevingsplan (bruidsschat CVDR696350_4) bevat alleen aanvraagvereisten (art. 22.299), geen kapverbod; gecontroleerd op de termen houtopstand, boom en vellen."
+  ],
+  "modelsignalen": [
+    "Leges verwijst naar art. 2 (toepassingsbereik) in plaats van art. 7 (verbod) van de Bomenverordening. Advies: foute verwijzing, S = 1 blijft (INTENT.md).",
+    "Een geldende losse bomenverordening uit 2015 naast een APV-afdeling die is vervallen: het model beschrijft dit niet als aparte situatie; de leges maken de verordening tot omgevingsplanactiviteit. Advies: juridische plaats 'losse verordening' volgens de regel voor bewijs van omgevingsplanwerking.",
+    "H3 komt hier uit de combinatie 'in beginsel herplant, tenzij zwaarwegende redenen' met een verplichte storting 'in plaats van' herplant. Advies: dit volgt de H3-regel (storting als achtervang); noteer in het rapport dat de storting alleen geldt als herplant niet in redelijkheid kan.",
+    "Een verwezen beleidsregel (Beleidsregels voor bescherming van het bomenareaal) ontbreekt in CVDR. Advies: laten staan met de melding; navragen bij de gemeente is niet nodig als de beleidsregel alleen gemeentebomen betreft."
+  ]
+}

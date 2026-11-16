@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0296/2026/Regeling28c4290c6eda4cd0acab10f42b319f6f",
+    "titel": "Omgevingsvisie gemeente Wijchen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0296/2026/Regeling28c4290c6eda4cd0acab10f42b319f6f/nld@2026-02-04;10053936",
+    "beginGeldigheid": "2026-02-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0296_2026_Regeling28c4290c6eda4cd0acab10f42b319f6f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0296/2026/Regeling31d3686fa5184f79811b796baa050640",
+    "titel": "Regionale Energie Strategie 2.0",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0296/2026/Regeling31d3686fa5184f79811b796baa050640/nld@2026-02-17;08112039",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0296_2026_Regeling31d3686fa5184f79811b796baa050640?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0296/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Wijchen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0296/2020/omgevingsplan/nld@2026-07-01;14162224",
+    "beginGeldigheid": "2026-08-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0296_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:46Z"
+  }
+]

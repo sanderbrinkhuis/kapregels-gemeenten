@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0840/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Rucphen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0840/2020/omgevingsplan/nld@2025-12-16;fcedfacb04364cb1a1ab9d6c34dd7c0f",
+    "beginGeldigheid": "2025-12-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0840_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0840/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Rucphen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0840/2020/omgevingsvisie/nld@2025-12-11;46d79226ba70437f919aa37d9b4d1ffa",
+    "beginGeldigheid": "2025-12-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0840_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:34Z"
+  }
+]

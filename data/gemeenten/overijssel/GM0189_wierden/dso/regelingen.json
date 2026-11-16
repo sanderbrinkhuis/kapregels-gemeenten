@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm0189",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Wierden",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm0189/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm0189?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0189/2025/Regeling20ff1e21771346b9a464f0f13822cf9d",
+    "titel": "Omgevingsvisie Wierden; Wierden klaar voor morgen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0189/2025/Regeling20ff1e21771346b9a464f0f13822cf9d/nld@2026-02-18;08102027",
+    "beginGeldigheid": "2026-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0189_2025_Regeling20ff1e21771346b9a464f0f13822cf9d?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0189/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Wierden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0189/2020/omgevingsplan/nld@2026-09-07;08020131",
+    "beginGeldigheid": "2026-10-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0189_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:33Z"
+  }
+]

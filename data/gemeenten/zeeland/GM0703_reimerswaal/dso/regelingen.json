@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0703/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Reimerswaal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0703/2020/omgevingsplan/nld@2025-03-17;09035567",
+    "beginGeldigheid": "2025-03-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0703_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0703/2025/Regelingdd93a9fe01954c1890ec40ac70453b4a",
+    "titel": "Omgevingsvisie 'Koers 2040'",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0703/2025/Regelingdd93a9fe01954c1890ec40ac70453b4a/nld@2026-02-23;15034966",
+    "beginGeldigheid": "2026-02-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0703_2025_Regelingdd93a9fe01954c1890ec40ac70453b4a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:25Z"
+  }
+]

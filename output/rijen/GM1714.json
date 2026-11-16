@@ -1,0 +1,63 @@
+{
+  "gm_code": "GM1714",
+  "gemeente": "Sluis",
+  "provincie": "Zeeland",
+  "brondocument": "Bomenverordening gemeente Sluis 2017 (CVDR601296_1), art. 1-14; APV Sluis afd. 3 'Het bewaren van houtopstanden' is vervallen (CVDR397155_11)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR601296/1",
+  "datum_geldigheid": "2017-01-01",
+  "laatste_wijziging": "geen wijzigingen sinds vaststelling (versie 1, vastgesteld 27-10-2016)",
+  "juridische_plaats": "Bomenverordening, werkt als omgevingsplanactiviteit volgens leges (Legesverordening 2026 art. 2.30: 'vellen van een houtopstand, bedoeld in artikel 2.1 van de Bomenverordening gemeente Sluis 2017 in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "Volledige-tekstzoekvraag sinds 2025: 4 treffers, 0 kapbesluiten, 1 aanvraag (Cadzand, onduidelijk of het om kap gaat), 0 weigeringen. Weinig besluiten past bij een lijstsysteem.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor beschermwaardige houtopstand op de Bomenlijst (art. 2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag een beschermwaardige houtopstand te vellen of te doen vellen.') en voor houtopstand aangelegd op grond van een herplantplicht of overeenkomst (art. 2 lid 3)",
+  "drempel": "geen drempel in de verbodsbepaling; alleen lijstbomen (definitie 'boom' in art. 1 onder f: stamomtrek 30 cm op 130 cm)",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t. (definitie boom: 1,30 m)",
+  "reikwijdte": "hele gemeente, alleen individueel aangewezen bomen op de Bomenlijst (art. 1 onder a en e, art. 7; lijst van 2006, geacht vastgesteld op grond van deze verordening, art. 17 lid 4). Art. 7 lid 3: college 'kan gebieden aanwijzen waar ... het behoud van groen gewenst is' (geen aanwijzing gevonden; het kapverbod geldt alleen voor lijstbomen).",
+  "uitzonderingen": "art. 2 lid 4: bedrijfseconomisch geëxploiteerde houtopstand (Wnb); Plantenziektewet of aanschrijving; periodiek vellen hakhout; periodiek knotten of kandelaberen; gevallen met omgevingsvergunning op grond van Wabo 2.2 lid 1 onder b. Art. 6: regulier onderhoud. Art. 10: noodkap met toestemming burgemeester.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "art. 2 lid 2: 'In beginsel wordt geen vergunning verleend voor houtopstanden voorkomend op de vastgestelde Bomenlijst van beschermwaardige houtopstanden'. Art. 4 lid 2: weigering 'indien het belang van verlening niet opweegt tegen' natuur- en milieuwaarden, landschappelijke, cultuurhistorische waarden, stads- en dorpsschoon, recreatie en leefbaarheid. Art. 4 lid 4: vergunning 'slechts bij uitzondering' bij zwaarwegend algemeen maatschappelijk belang of als instandhouding niet verantwoord is.",
+  "herplantplicht": "bevoegdheid: art. 8 lid 2 'Tot de aan de vergunning te verbinden voorschriften kan het voorschrift behoren dat: aanvrager binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen herplant.' Na illegale kap art. 9 lid 1: 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen herplantfonds of boomwaarde.",
+  "herplant_ontsnapping": "'kan het voorschrift behoren' (art. 8 lid 2) en 'kan' (art. 9 lid 1): bevoegdheid van het bevoegd gezag, per geval. Herplant na illegale kap: 'kan'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 9 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 14 'Strafbepaling' noemt geen straf: 'Degene aan wie een voorschrift of verplichting als bedoeld in deze verordening is gegeven of is opgelegd, alsmede diens rechtsopvolger, is gehouden dienovereenkomstig te handelen.' De Zeeuwse dwangsomleidraad in het door Sluis vastgestelde U&H-beleid (CVDR749140_1) noemt 'Niet voldoen aan herplantplicht' (maatwerk, € 10.000 per strekkende km / € 11.500 per hectare).",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "WED via Ow 5.1 (kapregel werkt als omgevingsplanactiviteit volgens leges); herplantplicht na illegale kap (art. 9, 'kan'). Geen eigen strafbedreiging: art. 14 heet 'Strafbepaling' maar noemt geen straf. Geen bestuurlijke boete voor kap: de boetebeleidsregel van Sluis 2025 (in CVDR749140_1) betreft art. 18.12 Ow (bouwen).",
+  "procedure": "omgevingsvergunning; leges € 162,65 (Legesverordening 2026 art. 2.30); melding aan Bomenstichting bij aanvraag voor monumentale boom (art. 3 lid 2); vergunning vervalt na een jaar (art. 5); gebruik pas na afloop bezwaartermijn mogelijk als voorschrift (art. 8); bezwaar en beroep.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Lijst ingezien (Excel 'Boom-kappen-locaties-gemeentelijk-monumentale-bomen.xls' via https://www.gemeentesluis.nl/direct-regelen/wonen-verbouwen-en-verhuizen/boom-kappen/, laatst opgeslagen 2018). Kolommen kern, soort, aantal en adres; de adreskolom bevat naast 'Gemeente Sluis' ook woonadressen van particulieren in binnen- en buitenland, dus er staan particuliere bomen op. Exacte telling particulier/openbaar niet gemaakt (xls niet volledig te parsen zonder spreadsheetsoftware).",
+  "artikelnummers": "Bomenverordening 2017 art. 1, 2, 4, 7, 8, 9, 14, 17; Legesverordening 2026 art. 2.30; omgevingsplan art. 22.299; APV afd. 3 (vervallen)",
+  "opmerkingen": "Lijstsysteem: alleen beschermwaardige houtopstand op de Bomenlijst (lijst van 2006, volgens art. 7 lid 1 elke 10 jaar te herzien; online versie laatst opgeslagen in 2018). W3: art. 2 lid 2 'In beginsel wordt geen vergunning verleend voor houtopstanden voorkomend op de vastgestelde Bomenlijst' en art. 4 lid 4 'slechts bij uitzondering'; art. 4 lid 2 is een belangenafweging, daarom min 2. H1: art. 8 lid 2 'kan het voorschrift behoren'. De verordening verwijst nog naar Wabo en Wnb (verouderde grondslagen). De gemeentelijke website noemt een vergunningplicht bij meer dan 20% kroonsnoei; de verordening zelf noemt 25% (art. 1 onder l). De bomenlijst bevat persoonsgegevens (adressen van eigenaren): niet overgenomen in deze rij (AVG).",
+  "modelsignalen": [
+    "Art. 14 heet 'Strafbepaling' maar bevat geen strafbedreiging; S rust daardoor alleen op de WED-route via Ow 5.1 en de bevoegdheid tot herplant na illegale kap."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst ingezien, niet geteld"
+}

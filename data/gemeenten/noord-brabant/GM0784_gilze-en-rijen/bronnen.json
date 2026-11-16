@@ -1,0 +1,28 @@
+{
+  "gemeente": "Gilze en Rijen",
+  "gm_code": "GM0784",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Gilze en Rijen",
+  "zoeknaam_bekendmakingen": "Gilze en Rijen",
+  "opgehaald_op": "2026-11-15T21:05:22+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Gilze en Rijen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 39,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Gilze en Rijen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 150,
+  "geldende_regelingen": 10,
+  "geldend_met_kapartikelen": [
+    "CVDR18134_1",
+    "CVDR640700_1",
+    "CVDR696411_2",
+    "CVDR721682_1",
+    "CVDR736643_1",
+    "CVDR757659_1"
+  ],
+  "bekendmakingen_besluiten": 64,
+  "bekendmakingen_aanvragen": 86,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

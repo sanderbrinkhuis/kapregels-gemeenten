@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0889",
+ "gemeente": "Beesel",
+ "provincie": "Limburg",
+ "brondocument": "Bomenverordening gemeente Beesel 2019 (art. 1, 2, 3, 4, 5, 6, 10, 11, 15, 16); Beleidsregel bescherming en velling van houtopstanden 2019 (CVDR672492_1); Lijst Beschermde houtopstanden gemeente Beesel 2019 (PDF, gemeentelijke website); Legesverordening 2026 art. 2.8.1; Omgevingsplan art. 22.299 (alleen aanvraagvereisten)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR622924/1 ; https://lokaleregelgeving.overheid.nl/CVDR672492/1 ; https://www.beesel.nl/inwoners/afval-en-milieu/bomenverordening-2019 ; https://www.beesel.nl/data/downloadables/3/2/8/lijst-beschermde-houtopstanden-gemeente-beesel-2019.pdf",
+ "datum_geldigheid": "CVDR622924_1 geldend vanaf 2019-04-04 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Versie 1 (in werking 2019-04-04, vervangt Bomenverordening 2013); geen latere wijziging in de CVDR-treffers.",
+ "juridische_plaats": "Bomenverordening, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR752169_1) art. 2.8.1 noemt 'het vellen van een houtopstand, bedoeld in de Bomenverordening gemeente Beesel 2019 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 15 bekendmakingen op titel, waarvan 1 besluit (kap voor de opwaardering van de Maaslijn, geen particuliere boom), 13 aanvragen en 0 weigeringen. Past bij een lijstsysteem met weinig vergunningplichtige particuliere bomen.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van beschermde houtopstanden op de Lijst Beschermde houtopstanden: monumentale, waardevolle en bomen in Laanstructuren (art. 3 lid 1). Overige particuliere bomen: geen vergunning nodig (beleidsregel art. 2).",
+ "drempel": "Geen omvangdrempel voor de lijstbomen. Definitie 'boom': 'stamdiameter van minimaal 13 cm gemeten op 1 m hoogte boven het maaiveld' (art. 1 onder f); meethoogte wijkt af van 1,30 m, niet omgerekend.",
+ "omtrek_cm": null,
+ "meethoogte": "1,00 m (art. 1 onder f; wijkt af van 1,30 m)",
+ "reikwijdte": "Art. 3 lid 1: 'Het is verboden te vellen of te doen vellen; a. Monumentale houtopstanden; b. Waardevolle houtopstanden; c. houtopstanden in Laanstructuren.' Art. 2 lid 1: 'Het college stelt een Lijst Beschermde houtopstanden vast.' Beleidsregel art. 2: 'Voor het kappen vellen van de overige particuliere bomen is geen omgevingsvergunning noodzakelijk.' Geldt binnen en buiten de bebouwde kom (beleidsregel art. 4); buiten de kom niet voor houtopstanden buiten erven en tuinen in eenheden van meer dan 10 are of rijen van meer dan 20 (art. 3 lid 5; dan Wnb/provincie). Art. 5: aanvullend verbod voor gemeentelijke bomen vanaf 40 cm diameter.",
+ "uitzonderingen": "Art. 3 lid 3 en 4: Plantenziektenwet of aanschrijving, vorm- en knotbomen, regulier onderhoud Laanstructuren, 'Limburgs Erf', 'fruitbomen mits geen hoogstamfruitbomen', windschermen om boomgaarden, kerstbomen, kweekgoed, biomassa-aanplant. Alle uitzonderingen zijn gangbaar of gelden voor lijstbomen; geen tuinuitzondering.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijst_aantal_totaal": 37,
+ "lijst_aantal_particulier": 5,
+ "lijst_telling": "Lijst Beschermde houtopstanden 2019 (PDF van de gemeentelijke website, 90 pagina's, ingezien): 37 fiches met monumentale houtopstanden (elk één locatie; sommige fiches beslaan meerdere bomen, bijv. rijen met tientallen eiken of kastanjes) plus een aparte rubriek van 5 genoemde waardevolle bomen in parken en openbaar gebied; de 'Gemeentelijke structuur' staat alleen als kaart. Particulier: ten minste 5 fiches hebben als standplaats 'in de tuin', 'in de voortuin' of 'op het erf' (eigendom staat niet bij elk fiche; werkelijk aantal waarschijnlijk hoger, ca.). Artikel 12 lid 2 noemt 'particuliere Beschermde houtopstanden' en de gemeentelijke webpagina zegt dat de lijst houtopstanden 'in gemeentelijk of particulier bezit' bevat.",
+ "weigeringsgronden": "Art. 4 lid 1: 'Een omgevingsvergunning voor het vellen van een houtopstand als bedoeld in artikel 3 kan, mits alternatieven voor behoud zijn onderzocht, slechts bij uitzondering door het bevoegd gezag worden verleend indien: a. sprake is van een Monumentale houtopstand en een zwaarwegend algemeen maatschappelijk belang ...' (waardevolle houtopstanden: 'een algemeen maatschappelijk belang of een zwaarwegend individueel belang van niet tijdelijke aard'). Daarnaast verlening mogelijk bij verwachte levensduur korter dan 5 jaar of ter voorkoming van letsel (art. 4 lid 2).",
+ "herplantplicht": "Art. 10 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'kan tot de voorschriften behoren dat een geldelijke bijdrage ter hoogte van de boomwaarde gestort dient te worden in de Herplantreserve.' De beleidsregel bevat geen herplantplicht.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren het voorschrift' (art. 10 lid 1). Betalen in plaats van planten 'kan' alleen worden voorgeschreven als niet ter plaatse of in de nabijheid kan worden herplant (art. 10 lid 2). Het bevoegd gezag beslist per geval.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 10 lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 15 lid 1 stelt alleen strafbaar 'Hij die handelt in strijd met artikel 13 of 14'; art. 10 en 11 vallen daar niet onder. Art. 8 onder c: vergunning 'kan worden ingetrokken' bij niet naleven voorschriften. Verder niets geregeld (alleen algemeen instrumentarium).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Geen eigen strafbepaling voor het velverbod: art. 15 lid 1 geldt alleen voor art. 13 (bestrijding ziekten) en art. 14 (gemeentelijke houtopstanden). WED via Omgevingswet 5.1 (omgevingsplanactiviteit, volgens leges 2.8.1). Herplant na illegale kap: 'kan' opleggen (art. 11 lid 1). Geen bestuurlijke boete.",
+ "procedure": "Schriftelijke en gemotiveerde aanvraag omgevingsvergunning (art. 7), eventueel met bomen effect analyse of compensatieplan. Leges 2026 art. 2.8.1: EUR 234 (in werking 2025-12-23). Geldigheid vergunning drie jaar (art. 9). Publicatie 'via de gebruikelijke kanalen' (beleidsregel); beslistermijn, bezwaar en beroep: algemene regels.",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "status": "ok",
+ "ontbrekend": "Geen geldende APV van Beesel in de CVDR-treffers gevonden (alleen vervallen versies); niet vastgesteld of een andere regeling kapregels bevat. Kaart 'Bomenstructuur gemeente Beesel' (Laanstructuren) niet ingezien. Eigendom per lijstfiche niet vermeld, dus aantal particuliere bomen is een ondergrens. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "Bomenverordening 2019 art. 1, 2, 3, 4, 5, 6, 8, 10, 11, 15, 16",
+  "Beleidsregel 2019 art. 1 (algemene uitgangspunten) en onderdeel Lijst Beschermde houtopstanden",
+  "Legesverordening 2026 art. 2.8.1",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1: lijstsysteem; de lijst is ingezien en bevat particuliere bomen ('ja'). Overige particuliere bomen zijn vergunningvrij: 'Voor het kappen vellen van de overige particuliere bomen is geen omgevingsvergunning noodzakelijk' (beleidsregel art. 2).",
+  "W3: 'kan, mits alternatieven voor behoud zijn onderzocht, slechts bij uitzondering door het bevoegd gezag worden verleend' (art. 4 lid 1): weigeren tenzij. Beleidsregel: 'Een kapvergunning omgevingsvergunning voor velling wordt alleen verleend als er sprake is van niet duurzaam te herstellen schade, ziekte gevaar of zware maatschappelijke belangen.'",
+  "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 10 lid 1). Storting ter hoogte van de boomwaarde in de Herplantreserve 'kan' alleen worden voorgeschreven en verhoogt H niet.",
+  "S1: kap-specifiek via herplantplicht na illegale kap ('kan ... de verplichting opleggen te herplanten', art. 11 lid 1) en WED via Ow 5.1. De eigen strafbepaling (art. 15) dekt het velverbod niet.",
+  "Lijst: 37 fiches met monumentale houtopstanden en 5 genoemde waardevolle bomen; de gemeentelijke structuur (Laanstructuren) staat alleen als kaart (niet ingezien). Fiches noemen perceelnummers en adressen; die zijn niet overgenomen.",
+  "Strenger regime voor gemeentelijke bomen (art. 5, vanaf 40 cm diameter) telt niet mee voor particulieren."
+ ],
+ "modelsignalen": [
+  "Strafbepaling (art. 15) dekt het velverbod niet; alleen de WED-route via de Omgevingswet geeft een sanctie. INTENT geeft hiervoor geen apart punt; S1 geldt via WED en herplant na illegale kap.",
+  "Lijst bevat per fiche geen eigendom (gemeente of particulier): het aantal particuliere bomen is een ondergrens op basis van standplaats in tuin of erf.",
+  "Bomenlijst met aantal fiches (37) versus aantal bomen (honderden, bijv. rijen van tientallen bomen): INTENT noemt de eenheid niet; hier is het aantal fiches gerapporteerd."
+ ]
+}

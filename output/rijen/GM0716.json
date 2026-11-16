@@ -1,0 +1,61 @@
+{
+  "gm_code": "GM0716",
+  "gemeente": "Tholen",
+  "provincie": "Zeeland",
+  "brondocument": "Algemene plaatselijke verordening gemeente Tholen 2025 (CVDR738658_1), afd. 4.3 'Het bewaren van houtopstanden' en art. 6:1; Legesverordening 2026 (CVDR749102_1); Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR755192_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR738658/1",
+  "datum_geldigheid": "2025-04-30",
+  "laatste_wijziging": "2025-04-30 (vastgesteld 17-04-2025, eerste versie)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('artikel 4.11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "41 bekendmakingen sinds 2025 (18 besluiten, 23 aanvragen), 0 weigeringen volgens titel; steekproef van 10 besluiten zonder grondslagverwijzing. Verleende vergunningen o.a. voor particuliere adressen (bijv. 'het kappen van coniferen, [adres] te Tholen', 'het kappen van een berk, [adres] te Scherpenisse'). Past bij een breed regime met hoge drempel.",
+  "vergunningplicht": "omgevingsvergunning",
+  "drempel": "particulier terrein: 'op een hoogte van 1.30 meter een diameter hebben van 40 cm. of groter, dan wel een omtrek hebben van meer dan 1,25 meter'; kleinere bomen alleen als ze zijn 'aangeplant in het kader van een herplant- of instandhoudingverplichting'; openbaar terrein: diameter 20 cm of omtrek meer dan 60 cm",
+  "omtrek_cm": 125,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "hele grondgebied (geen beperking tot bebouwde kom), particulier en openbaar terrein met verschillende drempels; geen bomenlijst",
+  "uitzonderingen": "populieren en wilgen in wegbeplantingen, langs waterwegen en eenrijig langs landbouwgronden (tenzij geknot); biomassateelt; spoed/gevaar met toestemming burgemeester (4:11 lid 2); dode houtopstand, periodiek hakhoutbeheer, knotten/kandelaberen (4:11 lid 3)",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "art. 4.11a: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: de natuurwaarde ...; de landschappelijke waarde ...; de waarde ... voor stads- en dorpsschoon; de beeldbepalende waarde ...; de cultuurhistorische waarde ...; of de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "bevoegdheid: art. 4:11b lid 2 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' Voor houtopstand die in een groenbeleids-, bestemmings-, bomen-, groen- of landschapsplan als waardevol is omschreven 'wordt, zo veel mogelijk, een herplantplicht opgelegd'. Boomwaarde (NVTB) betalen 'kan' als herplant niet mogelijk is (4:11b lid 5); gemeente moet dat geld besteden aan aanplant (lid 6). Na illegale kap 'kan' herplant worden opgelegd (4:11c lid 1).",
+  "herplant_ontsnapping": "'kan behoren' (bevoegdheid, per geval door bevoegd gezag); voor als waardevol omschreven bomen 'zo veel mogelijk'; betaling van de boomwaarde 'kan' als 'de uitvoering van de plicht tot herbeplanting niet mogelijk is dan wel naar maatstaven van redelijkheid en billijkheid onvoldoende compensatie biedt'",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11c lid 4: 'Degene aan wie de verplichting als bedoeld in de leden 1, 2 en 3 is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 1:4 lid 2 (nakomen voorschriften) geldt niet voor omgevingsvergunningen (lid 3). De Zeeuwse dwangsomleidraad (CVDR755192_1) noemt 'Niet voldoen aan herplantplicht (Lijnbeplanting)' € 10.000 per strekkende km en '(oppervlakte)' € 11.500 per hectare; niet duidelijk of die ook voor APV-herplant geldt.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via Ow 5.1 (omgevingsplanactiviteit volgens leges art. 2.30); WED-aanwijzing in APV art. 6:1 lid 2 noemt alleen 'artikel 4:11, tweede lid' (vermoedelijk verschrijving voor eerste lid); eigen strafbepaling art. 6:1 lid 1 (hechtenis max. 3 maanden of geldboete tweede categorie); herplantplicht na illegale kap 'kan' (4:11c). Bestuurlijke-boetebeleid (CVDR755192_1) alleen voor Ow art. 18.12 en 18.13 (bouwen, erfgoed), niet voor kap.",
+  "procedure": "omgevingsvergunning; leges € 175,00 (Legesverordening 2026, art. 2.30); aanvraagvereisten omgevingsplan art. 22.299; verleende vergunningen worden gepubliceerd in het Gemeenteblad",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "status": "ok",
+  "ontbrekend": "Bestemmingsplanregels in het tijdelijk deel van het omgevingsplan (aanlegvergunningen) niet gelezen; geen invloed op D verwacht omdat het APV-regime al de hele gemeente dekt.",
+  "artikelnummers": "APV 2025 art. 1:4, 1:8, 4:10, 4:11, 4.11a, 4:11b, 4:11c, 6:1; Legesverordening 2026 art. 2.30; omgevingsplan art. 22.299; Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (dwangsomleidraad)",
+  "opmerkingen": "D2: hele gemeente, particuliere drempel 'een omtrek ... van meer dan 1,25 meter' (diameter 40 cm, omgerekend 125,6 cm), dus > 100 cm. W: 'kan de vergunning worden geweigerd op grond van' (4.11a). H: 'kan behoren het voorschrift dat ... moet worden herplant' (4:11b lid 2); de 'zo veel mogelijk'-plicht geldt alleen voor als waardevol omschreven bomen, niet voor het grootste deel van de gedekte bomen; boomwaardebetaling is alleen 'kan' en verhoogt H niet. Definitie 'boom' (4:10) heeft een ondergrens van 10 cm diameter / 31,5 cm omtrek, maar het verbod voor particulier terrein geldt pas vanaf 40 cm diameter. De tekst noemt zowel 'diameter van 40 cm. of groter' als 'omtrek ... van meer dan 1,25 meter'; dat is niet exact gelijk. De WED-aanwijzing in 6:1 lid 2 verwijst naar 4:11 tweede lid (de uitzonderingen) in plaats van het verbod; S blijft 1 via WED via Ow en de eigen strafbepaling. Jaarplan U&H 2026 (CVDR761427_1) par. 7.5 verwijst alleen naar 'jaarplan organisaties'.",
+  "modelsignalen": [],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijst"
+}

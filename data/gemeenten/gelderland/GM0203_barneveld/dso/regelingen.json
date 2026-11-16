@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0203/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Barneveld 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0203/2025/omgevingsvisie/nld@1051",
+    "beginGeldigheid": "2025-08-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0203_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0203/2026/2_16",
+    "titel": "Energiebeleidsprogramma",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0203/2026/2_16/nld@1059",
+    "beginGeldigheid": "2026-04-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0203_2026_2_16?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0203/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Barneveld, verwerken Vangnetregeling 2",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0203/2020/omgevingsplan/nld@1073",
+    "beginGeldigheid": "2026-10-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0203_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:33Z"
+  }
+]

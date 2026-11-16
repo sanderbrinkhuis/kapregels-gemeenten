@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0420/2025/Regelingf25f2994339948f59903cfb159f4019e",
+    "titel": "Warmteprogramma Gemeente Medemblik",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0420/2025/Regelingf25f2994339948f59903cfb159f4019e/nld@2026-02-11;11590103",
+    "beginGeldigheid": "2026-02-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0420_2025_Regelingf25f2994339948f59903cfb159f4019e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0420/2020/omgevingsplan",
+    "titel": "omgevingsplan gemeente Medemblik",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0420/2020/omgevingsplan/nld@2026-07-09;07490712",
+    "beginGeldigheid": "2026-08-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0420_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:39Z"
+  }
+]

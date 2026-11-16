@@ -1,0 +1,77 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "modelsignalen": [
+  "WED-aanwijzing in APV art. 6:1 lid 2 verwijst naar 'artikel 4:11, tweede lid' (de uitzonderingen), terwijl het verbod in lid 1 staat. Het model vangt dit via het bewijs voor omgevingsplanactiviteit (leges), maar de aanwijzing zelf lijkt een verkeerde verwijzing."
+ ],
+ "gm_code": "GM0203",
+ "gemeente": "Barneveld",
+ "brondocument": "Algemene plaatselijke verordening gemeente Barneveld (CVDR638606_11), afd. 4.3 art. 4:10 en 4:11, art. 6:1; Verordening op de heffing en invordering van leges 2026 (CVDR748022_3) tarief 2.8.30.1; Omgevingsplan gemeente Barneveld (CVDR696215_4) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR638606/11 ; https://lokaleregelgeving.overheid.nl/CVDR748022/3 ; https://lokaleregelgeving.overheid.nl/CVDR696215/4",
+ "datum_geldigheid": "APV CVDR638606_11 geldend vanaf 2026-11-10 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 11 in werking per 2026-11-10 (welke wijziging de kapafdeling betreft is niet vastgesteld). Leges: versie 3 per 2026-03-24. Omgevingsplan: versie 4 per 2026-10-29.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 tarief 2.8.30.1 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 562 bekendmakingen op titel, 250 besluiten, 4 weigeringen volgens titel. Steekproef van 10 besluiten noemt geen grondslag. De besluiten betreffen veel kleine kapvergunningen (1 tot 3 bomen) in alle kernen, ook met herplant; dat past bij een breed regime. De zoekmethode kan besluiten missen.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstand (art. 4:11 lid 1).",
+ "drempel": "Verbod geldt niet voor 'bomen met een diameter van minder dan 25 centimeter op 1.30 meter hoogte' (art. 4:11 lid 2 onder a); bij meerstammige bomen de dikste stam.",
+ "omtrek_cm": 78.5,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar; geen tuinuitzondering. Houtopstand is 'hakhout, een houtwal of een of meer bomen' (art. 4:10).",
+ "uitzonderingen": "Art. 4:11 lid 2: diameter minder dan 25 cm (niet bij bomen geplant in het kader van een herplantplicht); 'de uitzonderingsgronden zoals opgenomen in artikel 11.111, tweede lid, onderdelen c tot en met h, van het Besluit activiteiten leefomgeving'; houtopstand die moet worden geveld krachtens de Plantgezondheidswet of een aanschrijving of last. Lid 5: toestemming van de burgemeester bij spoedeisend belang of direct gevaar. Geen uitzondering voor tuinen, soorten of perceelgrootte.",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de ruimtelijke betekenis van de houtopstand; c. de cultuurhistorische/monumentale waarde van de houtopstand; of d. de waarde voor de leefbaarheid van de houtopstand.' Geen beleidsregel gevonden die de toetsing aanscherpt.",
+ "herplantplicht": "Art. 4:11 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen financiele compensatie of boomwaarde gevonden. Geen beleidsregel herplant in het dossier.",
+ "herplant_ontsnapping": "Geen uitweg nodig: de bepaling is een bevoegdheid ('kan'), het bevoegd gezag beslist per geval. Niets geregeld over herplant na illegale kap of betalen in plaats van herplanten.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets specifieks geregeld. Art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een omgevingsvergunning.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Alleen algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED-aanwijzing in APV art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... artikel 2:12, eerste lid en artikel 4:11, tweede lid.' De verwijzing naar lid 2 (uitzonderingen) in plaats van lid 1 lijkt een fout. Route ook via Ow 5.1 (omgevingsplanactiviteit, leges 2.8.30.1). Geen bestuurlijke boete voor kappen.",
+ "procedure": "Omgevingsvergunning; leges tarief 2.8.30.1: EUR 118,00 (CVDR748022_3). Beslistermijn APV art. 1:2 is niet van toepassing op een omgevingsvergunning (lid 3); de Omgevingswet regelt de termijn. Bezwaar en beroep, en publicatie, niet apart gelezen (bekendmakingen in het gemeenteblad zijn er wel).",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "niet van toepassing (geen lijstsysteem)",
+ "status": "ok",
+ "ontbrekend": "Geen beleidsregel over herplant, compensatie of handhaving gevonden in het dossier (alleen APV, leges, omgevingsplan); gemeentelijke website niet geraadpleegd. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV art. 4:10",
+  "APV art. 4:11",
+  "APV art. 6:1",
+  "APV art. 1:4 en 1:8",
+  "Leges 2026 tarief 2.8.30.1",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D3: hele gemeente, drempel diameter 25 cm x 3,14 = 78,5 cm omtrek (meethoogte 1,30 m). Boom A (80 cm omtrek, ca. 25,5 cm doorsnee) valt net boven de drempel: vergunning nodig. Let op: de drempel is een diameter van 'minder dan 25 centimeter'; boom A met 'ongeveer 25 cm doorsnee' ligt hier op de grens.",
+  "W2: 'kan de vergunning worden geweigerd op grond van' natuurwaarde, ruimtelijke betekenis, cultuurhistorische/monumentale waarde en leefbaarheid (art. 4:11 lid 4).",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 6). Geen beleidsregel gevonden.",
+  "S1: WED-aanwijzing (art. 6:1 lid 2, met foute verwijzing naar lid 2) en bewijs omgevingsplanactiviteit in de leges. Algemene strafbepaling art. 6:1 lid 1.",
+  "Houtopstand omvat ook hakhout en houtwallen; de drempel geldt alleen voor bomen. Kap van iepen: art. 4:12 (bestrijding iepziekte) is een apart regime.",
+  "Praktijk: 4 weigeringen volgens titel (bijv. gmb-2026-401879) en veel verleende vergunningen voor 1 tot 3 bomen; geen steekproefbesluit noemt een grondslag."
+ ]
+}

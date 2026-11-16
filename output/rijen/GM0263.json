@@ -1,0 +1,82 @@
+{
+ "provincie": "Gelderland",
+ "gm_code": "GM0263",
+ "gemeente": "Maasdriel",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Art. 4:18 lid 1 APV Maasdriel: het college 'zal' na kap zonder vergunning 'een geldelijke boete opleggen ter hoogte van de vervangingswaarde volgens rekenmodel boomwaarde'. Dit is functioneel een bestuurlijke boete gekoppeld aan de boomwaarde, maar de tekst zegt niet 'bestuurlijke'. Het model (S=2 alleen bij 'bestuurlijke boete'; 'geldboete zonder meer' S=1) vangt dit niet eenduidig; hier S=3 als puntschatting met minimum 1.",
+  "Beleidsplan Groen 2026-2030 zegt in de samenvatting 'Waardevolle en monumentale bomen krijgen extra bescherming en bij kap wordt altijd gecompenseerd', maar de uitwerking (5.2.4.6) gaat alleen over gemeentelijke bomen. Het model heeft geen regel voor een algemene compensatiezin in een beleidsplan zonder voorschrift voor particuliere bomen; niet meegeteld voor H (H=1, maximum 2).",
+  "Lijst van waardevolle bomen plus lijnstructuren (boomstructuurplan): het model kent 'individuele bomen' (D1) en 'structuren' (D2), maar geen regel voor een structuur waarvan niet vaststaat of er particuliere bomen in staan.",
+  "De kaart heeft geen eigenaarveld: het aantal particuliere lijstbomen is niet vast te stellen uit de bron, waardoor het rapport alleen het totaal als feit kan gebruiken."
+ ],
+ "brondocument": "Algemene Plaatselijke Verordening Maasdriel 2024 (CVDR719956_1), afd. 4.3 art. 4:16, 4:17, 4:18, 6:1; Verordening op de heffing en de invordering van leges gemeente Maasdriel 2026 (CVDR752958_1) art. 2.30; Omgevingsplan gemeente Maasdriel (CVDR696243_3) art. 22.299; Beleidsplan Groen 2026-2030 (CVDR763715_1); Groene Kaart Maasdriel (ArcGIS webmap 'Waardevolle bomen Maasdriel')",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR719956/1 ; https://lokaleregelgeving.overheid.nl/CVDR752958/1 ; https://lokaleregelgeving.overheid.nl/CVDR696243/3 ; https://lokaleregelgeving.overheid.nl/CVDR763715/1 ; https://maasdriel.maps.arcgis.com/apps/mapviewer/index.html?webmap=9f8595f3eead403c90c97483f22bbce5",
+ "datum_geldigheid": "APV CVDR719956_1 geldend vanaf 2024-05-22 t/m heden; leges CVDR752958_1 vanaf 2026-01-01; omgevingsplan CVDR696243_3 vanaf 2026-02-02; Beleidsplan Groen CVDR763715_1 vanaf 2026-07-03 (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 1 per 2024-05-22 (nieuwe vaststelling).",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:17 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan: paragraaf 3.4.4 Beschermde houtopstanden is leeg; art. 22.299 bevat alleen aanvraagvereisten. Het Beleidsplan Groen kondigt aan dat de kapregels 'worden omgezet van Algemene plaatselijke verordening (APV) naar het Omgevingsplan Maasdriel' (toekomst, telt niet).",
+ "praktijkcontrole": "Sinds 2025: 5 bekendmakingen op titel, 1 besluit (een ingetrokken bouwaanvraag, geen kapbesluit), 0 weigeringen. Geen kapbesluiten gevonden; past bij een lijstsysteem. De zoekmethode mist soms besluiten.",
+ "vergunningplicht": "Vergunning van het college voor het vellen van houtopstanden die op de lijst van waardevolle bomen staan, onderdeel zijn van de boomstructuur of waarvoor een omgevingsplan/voorbeschermingsregels vergunning eisen (art. 4:17 lid 1).",
+ "drempel": "Geen drempel: alleen aangewezen bomen (lijst van waardevolle bomen, score 40 punten of hoger in het beoordelingssysteem) en bomen in de boomstructuur, ongeacht omvang. 'boom' is gedefinieerd als dwarsdoorsnede minimaal 10 cm (31,4 cm stamomtrek) op 130 cm (art. 4:16 lid 1 sub a).",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem); definitie 'boom' op 130 cm",
+ "reikwijdte": "Art. 4:17 lid 1: 'Het is verboden zonder vergunning van het college een houtopstand te vellen of te doen vellen: a. die is opgenomen in de lijst van waardevolle bomen; b. die onderdeel uitmaakt van de boomstructuur volgens het boomstructuurplan; c. waarvoor bij een omgevingsplan, exploitatieplan of voorbeschermingsregels een vergunning vereist is'. De Groene Kaart (ArcGIS, ingezien 2026-11-15) bevat 268 punten (waarvan 251 binnen de bebouwde kom, 15 buiten, 2 buitendijks) en 88 lijnstukken boomstructuur (hoofd-, neven- en overige structuur). Geen algemene regel voor bomen buiten lijst en structuur.",
+ "uitzonderingen": "Art. 4:17 lid 2: 'grote gevaarzetting of vergelijkbaar spoedeisend belang' (onafhankelijk boomspecialist, VTA), Plantenziektenwet, periodiek knotten of kandelaberen; lid 4: toestemming burgemeester bij spoed of direct gevaar; lid 3: college kan toestemming geven bij 'zwaarwegende economische of maatschappelijke belangen'. Knotten of kandelaberen van wilgen en platanen is geen vellen (4:16 lid 3). Geen tuin- of soortuitzondering voor bomen op de lijst.",
+ "weigeringsgronden": "Art. 4:17 lid 2: 'Voor bomen die voldoen aan minstens één van de in het eerste lid genoemde onderdelen wordt in beginsel geen omgevingsvergunning verleend, tenzij: a. ... grote gevaarzetting ...; b. ... Plantenziektenwet; c. ... knotten of kandelaberen'. Lid 3: 'Het college kan toestemming geven om bomen te vellen in die gevallen waar sprake is van zwaarwegende economische of maatschappelijke belangen.' W = 3 (weigeren tenzij). Beleidsplan Groen 5.2.4.2 bevestigt: 'Waardevolle bomen mogen alleen onder strikte voorwaarden worden weggehaald.'",
+ "herplantplicht": "Art. 4:17 lid 5: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Art. 4:18 lid 1 (na kap zonder vergunning): 'Daarnaast kan het college de verplichting opleggen te herbeplanten'. Geen verplichte storting bij vergunde kap. Beleidsplan Groen: compensatie 'altijd' alleen voor gemeentelijke bomen (5.2.4.6); groenfonds nog 'onderzoeken'.",
+ "herplant_ontsnapping": "Herplant bij vergunning is een mogelijkheid ('kan behoren'), per geval beslist door het college; geen betaling in plaats van herplant.",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:11, eerste lid en 4:17, eerste lid'; art. 6:1 lid 1 hechtenis tot drie maanden of geldboete tweede categorie. Legesverordening noemt de kap omgevingsplanactiviteit (WED ook via Ow 5.1). Art. 4:18 lid 1: bij kap zonder vergunning 'zal het college ... een geldelijke boete opleggen ter hoogte van de vervangingswaarde volgens rekenmodel boomwaarde' (door het college opgelegd, gekoppeld aan boomwaarde). Het woord 'bestuurlijke' staat er niet; zie opmerkingen.",
+ "procedure": "Leges 2026 art. 2.30: EUR 249,00. Art. 4:17 lid 6: paragraaf 4.1.3.3 Awb (positieve fictieve beschikking) is van toepassing, een procedureregel en geen W0. APV art. 1:2 (beslistermijn) niet van toepassing op omgevingsvergunning. Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "APV art. 4:18 lid 3: 'Degene aan wie een verplichting als bedoeld in het eerste en tweede lid, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Overtreding is strafbaar via art. 6:1 lid 1: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Voor voorschriften bij een vergunning (4:17 lid 5): art. 1:4 lid 2 is volgens lid 3 'niet van toepassing op een omgevingsvergunning'; dan alleen algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 268,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "punten op de Groene Kaart 'Waardevolle bomen Maasdriel' (ArcGIS FeatureServer, laag 'Waardevolle bomen', ingezien 2026-11-15): 268, gelijk aan 'In totaal zijn 268 bomen aangemerkt als waardevolle boom' (Beleidsplan Groen 2026-2030, 3.2.4). Aantal particulier niet vast te stellen: de kaart heeft geen eigenaarveld. Het Beleidsplan Groen zegt alleen over de 39 monumentale bomen: '9 in eigendom zijn van de gemeente, 5 hebben geen duidelijke eigenaar en de rest is van particulieren en stichtingen' (ca. 25 bomen, particulieren en stichtingen samen); dus er staan wel particuliere bomen op de lijst. Daarnaast 88 lijnstukken boomstructuur (kaart).",
+ "status": "ok",
+ "ontbrekend": "Boomstructuurplan gemeente Maasdriel augustus 2009 en het 'kapbeleid waardevolle bomen' (beoordelingssysteem, genoemd in art. 4:16 lid 1 sub d en f) niet in het dossier gevonden; onbekend of en hoeveel particuliere bomen in de boomstructuur staan. Aantal particuliere bomen op de lijst van 268 niet vast te stellen. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 4:16",
+  "APV 4:17",
+  "APV 4:18",
+  "APV 6:1",
+  "Leges 2.30",
+  "Omgevingsplan 22.299",
+  "Beleidsplan Groen 3.2.4, 5.2.4.2, 5.2.4.6"
+ ],
+ "opmerkingen": [
+  "W: 'Voor bomen die voldoen aan minstens één van de in het eerste lid genoemde onderdelen wordt in beginsel geen omgevingsvergunning verleend, tenzij' (APV 4:17 lid 2).",
+  "H: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' (APV 4:17 lid 5). Het Beleidsplan Groen (vastgesteld, geldend) zegt in de samenvatting 'bij kap wordt altijd gecompenseerd', maar de uitwerking gaat alleen over gemeentelijke bomen en maakt herplant door particulieren geen vast voorschrift; daarom H=1 met maximum 2.",
+  "D: lijst (D1) naast boomstructuur (aangewezen structuren, D2 als daar particuliere bomen in staan). De structuur is 88 lijnstukken op de kaart (hoofd-, neven- en overige structuur); eigendom van de bomen onbekend. Puntschatting D=1, bereik 1-2.",
+  "S: art. 4:18 lid 1 legt na kap zonder vergunning een door het college op te leggen 'geldelijke boete opleggen ter hoogte van de vervangingswaarde' op, gekoppeld aan de boomwaarde ('zal'). Als dit een bestuurlijke boete is: S=3; anders S=1 (WED, strafbepaling). Puntschatting 3, minimum 1.",
+  "Beleidsplan Groen (toekomst): kapregels worden van APV naar omgevingsplan omgezet en de lijst wordt in 2026 geactualiseerd; telt niet mee.",
+  "Kleine kaartinformatie: 251 van de 268 punten staan binnen de bebouwde kom, 15 buiten, 2 buitendijks.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): de 'geldelijke boete ... ter hoogte van de vervangingswaarde' die het college volgens de APV oplegt, is een bestuurlijke boete in de regeling zelf, gekoppeld aan de boomwaarde: S3 zonder bereik (was 1-3)."
+ ]
+}

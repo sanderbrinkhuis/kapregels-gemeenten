@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0758/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Breda",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0758/2020/omgevingsplan/nld@2025-09-23;09111786",
+    "beginGeldigheid": "2025-09-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0758_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0758/2026/Regeling412a368674414fceaada617c78891cdd",
+    "titel": "Voorbereidingsbesluit 1 Breda ",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0758/2026/Regeling412a368674414fceaada617c78891cdd/nld@2026-05-29;11143731",
+    "beginGeldigheid": "2026-06-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0758_2026_Regeling412a368674414fceaada617c78891cdd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:28Z"
+  }
+]

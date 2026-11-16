@@ -1,0 +1,26 @@
+{
+  "gemeente": "Nissewaard",
+  "gm_code": "GM1930",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Nissewaard",
+  "zoeknaam_bekendmakingen": "Nissewaard",
+  "opgehaald_op": "2026-11-16T10:35:40+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Nissewaard\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 43,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Nissewaard\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 42,
+  "geldende_regelingen": 10,
+  "geldend_met_kapartikelen": [
+    "CVDR639813_8",
+    "CVDR696526_3",
+    "CVDR711401_1",
+    "CVDR750875_2"
+  ],
+  "bekendmakingen_besluiten": 18,
+  "bekendmakingen_aanvragen": 24,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

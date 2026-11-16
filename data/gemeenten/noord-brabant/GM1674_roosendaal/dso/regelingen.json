@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1674/2026/Regelingdbb0e14c0a2a4734bf296a7fa7bbce1e",
+    "titel": "Omgevingsprogramma Centrum West",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1674/2026/Regelingdbb0e14c0a2a4734bf296a7fa7bbce1e/nld@2026-07-21;06172947",
+    "beginGeldigheid": "2026-07-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1674_2026_Regelingdbb0e14c0a2a4734bf296a7fa7bbce1e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1674/2026/Regeling8736ff738d414cd2bfc96700882eb696",
+    "titel": "Omgevingsprogramma Volkshuisvestingsprogramma Roosendaal 2026-2030",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1674/2026/Regeling8736ff738d414cd2bfc96700882eb696/nld@2026-09-07;09292686",
+    "beginGeldigheid": "2026-09-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1674_2026_Regeling8736ff738d414cd2bfc96700882eb696?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1674/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Roosendaal - Omgevingsplanwijziging Bredaseweg 88 Roosendaal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1674/2020/omgevingsplan/nld@2026-10-05;14175394",
+    "beginGeldigheid": "2026-11-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1674_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:28Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_66_gm0163",
+    "titel": "Voorbereidingsbesluit Karrensporenzones Hellendoorn - gemeente Hellendoorn",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_66_gm0163/nld@133",
+    "beginGeldigheid": "2025-07-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_66_gm0163?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0163/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hellendoorn",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0163/2020/omgevingsplan/nld@2026-07-01;14260418",
+    "beginGeldigheid": "2026-08-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0163_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:09Z"
+  }
+]

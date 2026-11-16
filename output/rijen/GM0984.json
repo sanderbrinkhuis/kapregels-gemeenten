@@ -1,0 +1,76 @@
+{
+ "gm_code": "GM0984",
+ "gemeente": "Venray",
+ "provincie": "Limburg",
+ "brondocument": "Algemene plaatselijke verordening gemeente Venray 2024, afd. 4.3 (art. 4:10 tot en met 4:12k), art. 6:1, art. 1:8; Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299 (alleen aanvraagvereisten)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR708854/1 ; https://lokaleregelgeving.overheid.nl/CVDR749912/4 ; https://lokaleregelgeving.overheid.nl/CVDR696454/3",
+ "datum_geldigheid": "CVDR708854_1 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Versie 1 (in werking 2024-01-01); geen latere wijziging van de APV in de CVDR-treffers.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR749912_4) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening Venray in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. Daarnaast eigen WED-aanwijzing in APV 6:1 lid 4.",
+ "praktijkcontrole": "Sinds 2025: 62 bekendmakingen (zoekmethode volledige tekst, kan niet-kapbesluiten bevatten), waarvan 34 besluiten, 24 aanvragen en 2 weigeringen volgens de titel. De titels zijn algemeen ('regulier Omgevingsvergunning') en de 10 opgehaalde besluiten noemen geen grondslag; niet vast te stellen hoeveel kap betreffen.",
+ "vergunningplicht": "Voor monumentale en waardevolle bomen op de Bomenlijst: verbod met ontheffing (art. 4:12). Voor bomen in aangewezen aandachtsgebieden: vergunning van het college (art. 4:12b lid 1). Buiten lijst en aandachtsgebieden geen plicht.",
+ "drempel": "Lijstbomen: geen drempel. Aandachtsgebieden: 'boom' = 'diameter van de stam van minimaal 15 cm gemeten op 1,30 meter hoogte boven het maaiveld' (art. 4:10 onder a); omgerekend ca. 47 cm stamomtrek.",
+ "omtrek_cm": 47,
+ "meethoogte": "1,30 m (art. 4:10 onder a)",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst/-kaart met beschermde houtopstanden en een kaart met aangewezen aandachtsgebieden vast.' Art. 4:12b lid 1: 'Het is verboden, onverminderd het gestelde in artikel 4:12, eerste lid, zonder vergunning van het college, bomen te vellen of te doen vellen die staan in aangewezen aandachtsgebieden.' Artikel 4:10 onder f: 'aandachtsgebieden: aandachtsgebieden die zijn aangewezen door het college'. De kaarten zijn niet ingezien, dus de omvang van de aandachtsgebieden en de aanwezigheid van particuliere bomen daarin zijn onbekend. Ook herplantbomen (art. 4:12b lid 3).",
+ "uitzonderingen": "Art. 4:12b lid 2 (aandachtsgebieden): Plantenziektenwet of aanschrijving, hakhout, scheren/knotten van vormbomen, snoeiwerk bij achterstallig onderhoud, dunning, 'f. schubconiferen; g. bomen binnen een afstand van 2 meter tot een buitenmuur van een woning'. De 2 m-strook langs de woning is een smalle uitzondering en is niet als ruime tuinuitzondering geteld (zie modelsignalen). Geen uitzondering voor achtertuinen of kavels als zodanig.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "nee",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: Bomenlijst/-kaart en kaart met aandachtsgebieden niet gevonden; de website van de gemeente gaf bij de zoekpogingen HTTP 403 (geblokkeerd voor automatische requests).",
+ "weigeringsgronden": "Aandachtsgebieden, art. 4:12c lid 2: 'In afwijking van artikel 1:8 kan de vergunning voor het vellen van een houtopstand als bedoeld in artikel 4:12b, eerste en derde lid, worden geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de bomen op basis van één of meer van de volgende waarden: a. de natuurwaarde ...; b. de landschappelijke waarde ...; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde ... voor de leefbaarheid; g. vitaliteit van een boom.' Lijstbomen (strenger): art. 4:12a lid 3: ontheffing 'slechts bij uitzondering' bij onder meer verhoogd risico op schade of letsel of een zeer zwaarwegend individueel belang.",
+ "herplantplicht": "Art. 4:12f lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat ingevolge de Uitvoeringsnota bomen Venray een geldelijke bijdrage gestort dient te worden in het fonds `Voorziening Bomen´.' De aanvraag moet 'een compensatieplan' bevatten (art. 4:12d lid 1). De Uitvoeringsnota bomen Venray is niet gevonden.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren het voorschrift' (art. 4:12f lid 1). Betalen in plaats van planten kan alleen als voorschrift worden opgelegd ('kan ... behoren'; lid 2). Het college beslist per geval.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:12f lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 3: 'Overtreding van het overigens bij of krachtens deze verordening bepaalde wordt gestraft met een geldboete van de eerste categorie.' (art. 4:12f staat niet in lid 1 of 2).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 4 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:12a en 4:12b, eerste lid.' Ook WED via Omgevingswet 5.1 (omgevingsplanactiviteit volgens leges 2.30). Geen bestuurlijke boete in de regeling. Herplant na illegale kap: 'kan' (art. 4:12g).",
+ "procedure": "Aanvraag omgevingsvergunning (ontheffing of vergunning) schriftelijk en gemotiveerd met compensatieplan (art. 4:12d). Leges 2026 art. 2.30: EUR 407,40 (CVDR749912_4, in werking 2026-06-03). Geldigheid vergunning drie jaar (art. 4:12e). Beslistermijn art. 1:2; bezwaar en beroep niet apart onderzocht.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst/-kaart en kaart met aandachtsgebieden niet ingezien (gemeentelijke website blokkeert automatische requests, HTTP 403); omvang aandachtsgebieden en aanwezigheid particuliere bomen onbekend. 'Uitvoeringsnota bomen Venray' (waarnaar art. 4:12f lid 2 verwijst) niet gevonden. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV 2024 art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 4:12c, 4:12d, 4:12e, 4:12f, 4:12g, 6:1, 1:8",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (min 0, max 2): twee regimes. (1) Bomenlijst met monumentale en waardevolle bomen: D1. (2) 'aandachtsgebieden' met een vergunningplicht voor alle bomen vanaf 15 cm diameter (ca. 47 cm omtrek): dat is D2 (aangewezen gebieden) als de gebieden een substantieel deel van de gemeente bestrijken en particuliere grond omvatten. De kaarten zijn niet ingezien: puntschatting D1 (laagste waarde van wat is gelezen), bereik 0-2.",
+  "W2: 'kan de vergunning ... worden geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de bomen op basis van één of meer van de volgende waarden' (art. 4:12c lid 2): belangenafweging, geldt voor het regime met de meeste bomen (aandachtsgebieden). Lijstbomen: ontheffing 'slechts bij uitzondering' (art. 4:12a), strenger, alleen vermeld.",
+  "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4:12f lid 1); storting in fonds 'Voorziening Bomen' 'kan' alleen worden voorgeschreven en verhoogt H niet. Max 2 omdat de Uitvoeringsnota bomen Venray (niet gevonden) mogelijk herplant of storting verplicht stelt.",
+  "S1: WED-aanwijzing in APV 6:1 lid 4 voor art. 4:12a en 4:12b lid 1. Geen bestuurlijke boete. Herplant na illegale kap: 'kan' (4:12g).",
+  "Boom B (40 cm omtrek, ca. 13 cm doorsnee) valt onder de minimumdiameter van 15 cm voor 'boom' (art. 4:10 onder a): nee. Boom A (80 cm): alleen vergunningplichtig als op de lijst of in een aandachtsgebied; onbekend voor de voorbeeldboom.",
+  "Art. 4:12 lid 4 en 4:12h verwijzen nog naar de Wet natuurbescherming (oude verwijzing); geen invloed op de score."
+ ],
+ "modelsignalen": [
+  "Aandachtsgebieden (kaart niet ingezien): het model geeft geen regel voor een gebiedsregeling met onbekende omvang. Punt D1 met bereik 0-2 geeft een strengheid van 17 (bereik 0-33) die niet op ingezien feiten rust.",
+  "Uitzondering 'bomen binnen een afstand van 2 meter tot een buitenmuur van een woning': INTENT noemt 'tuinen binnen een bepaalde afstand van de gevel' als tuinuitzondering (-1), maar een strook van 2 m sluit maar een klein deel van de tuinbomen uit. Niet geteld; het model geeft geen ondergrens.",
+  "Het model heeft geen regel voor een kapverbod 'in overige gevallen' dat gebiedsgericht werkt naast een lijst."
+ ]
+}

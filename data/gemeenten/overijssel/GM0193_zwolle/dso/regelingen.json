@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0193/2025/Regelingc48139bce4be47968b98db6a5275e1fb",
+    "titel": "Warmteprogramma Zwolle Aardgasvrij 2026-2036",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0193/2025/Regelingc48139bce4be47968b98db6a5275e1fb/nld@2026-03-05;15074887",
+    "beginGeldigheid": "2026-03-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0193_2025_Regelingc48139bce4be47968b98db6a5275e1fb?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0193/2026/Regeling3064275c07424a6fbfa3acc0b388f9fe",
+    "titel": "Omgevingsprogramma Bodem en ondergrond Zwolle 2025-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0193/2026/Regeling3064275c07424a6fbfa3acc0b388f9fe/nld@2026-03-11;08391314",
+    "beginGeldigheid": "2026-03-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0193_2026_Regeling3064275c07424a6fbfa3acc0b388f9fe?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0193/2026/Regelinga4620a216bfa4f869b855f8e8b0e7fda",
+    "titel": "Actieplan geluid Zwolle 2024-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0193/2026/Regelinga4620a216bfa4f869b855f8e8b0e7fda/nld@2026-03-23;15065142",
+    "beginGeldigheid": "2026-04-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0193_2026_Regelinga4620a216bfa4f869b855f8e8b0e7fda?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0193/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zwolle",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0193/2020/omgevingsplan/nld@2026-09-08;11044689",
+    "beginGeldigheid": "2026-11-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0193_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0193/2026/Regelingec9d64804bbe4724b0ce6ceabd36311b",
+    "titel": "Omgevingsprogramma Bedrijventerreinen Zwolle 2026-2036 ",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0193/2026/Regelingec9d64804bbe4724b0ce6ceabd36311b/nld@2026-10-28;14360968",
+    "beginGeldigheid": "2026-10-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0193_2026_Regelingec9d64804bbe4724b0ce6ceabd36311b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:45Z"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "provincie": "Noord-Brabant",
+  "gm_code": "GM0758",
+  "gemeente": "Breda",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de 'Bomenkaart; vergunningplichtige houtopstanden' (APV bijlage 1) staat niet in de CVDR-tekst en is niet gevonden; geen aantallen beschikbaar",
+  "brondocument": "Algemene Plaatselijke Verordening Breda 2018, afdeling 4.3 (art. 4:7 t/m 4:15), art. 6:1; Verordening Bestuurlijke boete overlast openbare ruimte Breda 2020 (art. 1, bijlage 2); Beleid Bescherming waardevolle bomen en boomstructuren (CVDR367446_1); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR611200/16 ; https://lokaleregelgeving.overheid.nl/CVDR654887/2 ; https://lokaleregelgeving.overheid.nl/CVDR367446/1 ; https://lokaleregelgeving.overheid.nl/CVDR750749/1 ; https://lokaleregelgeving.overheid.nl/CVDR696391/2",
+  "datum_geldigheid": "APV CVDR611200_16 geldend vanaf 2026-07-09 t/m heden (peildatum scoren 2026-11-15); boeteverordening CVDR654887_2 geldend vanaf 2021-12-31; beleid CVDR367446_1 geldend vanaf 2015-01-17",
+  "laatste_wijziging": "APV: versie 16 per 2026-07-09 (CVDR-wijziging betrof hoofdstuk 5, afdeling 8, art. 5.34 en 5.35; afdeling 4.3 niet genoemd in die wijziging). Boeteverordening: versie 2 per 2021-12-31.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR750749_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in [artikel [ 4:11 ] van de Algemene plaatselijke in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 841 bekendmakingen, waarvan 368 besluiten, 416 aanvragen en 1 weigering. Steekproef van 10 besluiten: verleend wegens slechte conditie, gevaar, bouw of wegaanleg; geen grondslag genoemd. Het grote aantal besluiten past niet bij een puur lijstsysteem voor particuliere bomen, maar veel besluiten betreffen bomen op openbare plaatsen of in parken (gemeentebomen); dat is niet vast te stellen.",
+  "vergunningplicht": "Omgevingsvergunning (ontheffing van het verbod) voor het vellen van Waardevolle houtopstanden die het college heeft aangewezen en die op de 'Bomenkaart; vergunningplichtige houtopstanden' staan (art. 4:8, 4:10, 4:11).",
+  "drempel": "Geen omvangdrempel: alleen aangewezen Waardevolle houtopstanden, ongeacht omvang. Uitzondering: 'binnen een Groengebied gelegen houtopstanden met een stamomtrek van maximaal 64 cm' (art. 4:10 lid 2 onder a).",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijst/kaart); 130 cm voor de Groengebied-uitzondering",
+  "reikwijdte": "Hele gemeente, maar alleen houtopstanden (bomen, boomvormers, Groengebieden, Landschapselementen) die het college heeft aangewezen op grond van de waarden cultuurhistorie, stedenbouw en/of landschap, ecologie, klimaat of dendrologie, en houtopstanden die op grond van een herplantplicht zijn aangeplant (art. 4:8). Aanwijzing ambtshalve of op verzoek van een belanghebbende (art. 4:9). De gemeentelijke website zegt dat de bomenkaart aangeeft of een boom in een tuin vergunningplichtig is.",
+  "uitzonderingen": "Art. 4:10 lid 2: Groengebied-houtopstanden met stamomtrek van maximaal 64 cm; houtopstanden met een vergunningplicht voor een werk, geen bouwwerk zijnde (Omgevingsplan); Plantenziektenwet of aanschrijving; periodiek onderhoud (dunnen en afzetten). Geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:11 lid 2: 'Een ontheffing als bedoeld in lid 1 van dit artikel kan slechts bij uitzondering worden verleend, als:' a. een zwaarder wegend belang dan behoud na integrale afweging en alternatieven niet haalbaar; b. 'naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.' Aanvraag moet een herplantplan bevatten (lid 5).",
+  "herplantplicht": "Art. 4:12 lid 1: 'Aan de omgevingsvergunning voor het (doen) vellen van houtopstanden kan het bevoegd gezag het voorschrift verbinden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden overgegaan tot geheel of gedeeltelijke herplant'. Lid 3: bij niet kunnen herplanten kan het voorschrift een financiële bijdrage worden. Na illegale kap: art. 4:14 lid 1 'kan het bevoegd gezag ... de verplichting opleggen dat ... moet worden herplant'.",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Art. 4:12 lid 3: 'Indien redelijkerwijs niet (volledig) kan worden voldaan aan de herplantplicht kan het bevoegd gezag afwijken van het bepaalde in het eerste en tweede lid van dit artikel en aan de omgevingsvergunning voor het (doen) vellen van houtopstanden het voorschrift verbinden dat een financiële bijdrage wordt gestort.' Herplant na illegale kap: kan (art. 4:14).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niet in de APV-afdeling over houtopstanden geregeld. Art. 6:1: 'Overtreding van het bij of krachtens deze verordening bepaalde, wordt gestraft met hechtenis van ten hoogste 3 maanden of geldboete van de tweede categorie'; of dit een voorschrift bij een omgevingsvergunning dekt, is niet vast te stellen. Het Jaarverslag VTH 2023 (CVDR719661_1) zegt dat 'handhavend optreden tegen niet uitgevoerde herplantplichten welke zijn opgelegd na de illegale kap van bomen' niet is opgepakt.",
+  "herplant_niet_nakomen_type": "onbekend",
+  "sancties": "Bestuurlijke boete in een eigen boeteverordening: Verordening Bestuurlijke boete overlast openbare ruimte Breda 2020 art. 1 lid 1: 'kan worden beboet met een bestuurlijke boete' bij overtreding van onder meer 'artikel 4:10 eerste lid' (verbod vellen waardevolle houtopstanden), bijlage 2: EUR 250,00 (natuurlijk persoon; rechtspersoon vijfvoudig). Daarnaast APV art. 6:1 (hechtenis tot 3 maanden of geldboete tweede categorie). WED via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Vastgelegd handhavingsbeleid voor kap niet gevonden.",
+  "procedure": "Omgevingsvergunning, reguliere voorbereidingsprocedure voor aanwijzing (art. 4:8 lid 4); bezwaar en (hoger) beroep via de Awb; APV art. 1:2 lid 3: beslistermijn van 8 weken geldt niet voor omgevingsvergunningen. Leges 2026 art. 2.30: EUR 309 voor de eerste boom, EUR 154 per volgende boom, maximum EUR 2.000.",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "status": "ok",
+  "ontbrekend": "Bomenkaart (bijlage 1 APV) niet ingezien: onbekend hoeveel particuliere houtopstanden erop staan en of ook structuren/gebieden zijn aangewezen. Regeling waardevolle bomen en herplantregeling uit 2010 zijn vervallen (2016) en de huidige nadere regels niet in het dossier. Beleidskader VTH Breda (CVDR694982_1) niet gelezen: geen handhavingsbeleid voor kapboetes gevonden. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV 2018 art. 4:7, 4:8, 4:9, 4:10, 4:11, 4:12, 4:14, 6:1, 1:2",
+    "Verordening Bestuurlijke boete art. 1, 2, bijlage 2",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Beleid CVDR367446_1 par. 1.4, 2.2"
+  ],
+  "opmerkingen": [
+    "D1 (min 0, max 1): lijst- of kaartsysteem; de kaart is niet ingezien, dus puntschatting D1 en bereik vanaf D0 (INTENT, ONZEKERHEID). Particuliere bomen: de gemeentelijke website (www.breda.nl/bomen-kappen) zegt 'Heb je boom of ander soort groen in de tuin die je wilt kappen? Op de bomenkaart staat of je een omgevingsvergunning (kapvergunning) nodig hebt.' en 'Staat de boom niet op de kaart, dan heb je geen vergunning nodig.' Aantallen niet gevonden.",
+    "W3: 'kan slechts bij uitzondering worden verleend, als:' (art. 4:11 lid 2) met een gesloten lijst gronden: weigeren-tenzij.",
+    "H1 (max 2): art. 4:12 lid 1 'kan' een herplantvoorschrift verbinden. Het beleid CVDR367446_1 zegt: 'Uitgangspunt van herplant is evenredige compensatie van de te kappen boom. Of herplant mogelijk is wordt in ieder individueel geval afzonderlijk beoordeeld.' (uitgangspunt per geval, dus geen vast voorschrift) en bij een herplantplan dat herplant niet mogelijk is: 'is dan een financiële compensatie verplicht'; dat deel beschrijft het voorstel voor de verordening en de vervallen regeling uit 2010 en telt niet vast mee. Art. 4:11 lid 5 maakt een herplantplan wel een aanvraagvereiste; vandaar max 2.",
+    "S2: bestuurlijke boete voor het verbod op vellen van waardevolle houtopstanden in een boeteverordening (bijlage 2: 'Verbod vellen waardevolle houtopstanden'). Een vastgelegd handhavingsbeleid voor deze boete is niet gevonden, dus geen S3. Art. 4:14 (herplant na illegale kap, 'kan') telt hier niet extra.",
+    "Voorbeeldbomen A en B: alleen vergunningplichtig als de boom op de bomenkaart staat; de kaart is niet ingezien.",
+    "Beleid CVDR367446_1 (2015) beschrijft de Bomenverordening 2010 (perceel > 200 m2 en omtrek > 65 cm) en een voorstel om dat te vervangen door een kaart; die oude drempelregel geldt niet meer (Bomenverordening 2010 vervallen per 2016-07-28).",
+    "Boswet/Wnb-houtopstanden buiten de bebouwde kom vallen onder de provincie en tellen niet mee."
+  ],
+  "modelsignalen": [
+    "Aangewezen 'Waardevolle houtopstanden' omvatten ook Groengebieden en Landschapselementen (structuren) die op een digitale kaart staan. Het model kent D1 (losse bomen) en D2 (gebieden of structuren); welke geldt hangt af van de niet ingeziene kaart. Puntschatting D1, max 1 gehouden volgens de regel voor niet-ingeziene lijsten.",
+    "Een bestuurlijke boete voor het vellen van aangewezen houtopstanden staat in een algemene boeteverordening 'overlast openbare ruimte' en is niet gekoppeld aan boomwaarde of aan beleid. Het model geeft daarvoor S2 terwijl het in de praktijk een laag vast bedrag (EUR 250) is.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst/kaart niet ingezien met ook groengebieden en landschapselementen als aangewezen objecten: D1, maximum 2 (was 1)."
+  ]
+}

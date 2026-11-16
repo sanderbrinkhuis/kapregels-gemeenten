@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0148/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Dalfsen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0148/2020/omgevingsplan/nld@2025-02-19;10533837",
+    "beginGeldigheid": "2025-04-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0148_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm0148",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Dalfsen",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm0148/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm0148?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:32Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0148/2025/Regeling948e5ead40074514aa600f857ac3a374",
+    "titel": "Programma landelijk gebied",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0148/2025/Regeling948e5ead40074514aa600f857ac3a374/nld@2026-04-09;09501934",
+    "beginGeldigheid": "2026-04-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0148_2025_Regeling948e5ead40074514aa600f857ac3a374?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:02:32Z"
+  }
+]

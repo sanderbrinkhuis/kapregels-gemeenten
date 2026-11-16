@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0893",
+  "gemeente": "Bergen (L.)",
+  "provincie": "Limburg",
+  "brondocument": "Verordening Fysieke Leefomgeving gemeente Bergen (L) 2022 (VFL), hoofdstuk 7 afdeling 1 Houtopstanden, met Beleidskader Houtopstanden (CVDR678260_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR677823/4",
+  "datum_geldigheid": "VFL CVDR677823_4: geldend van 2024-01-01 t/m heden (peildatum 2026-11-14); Beleidskader CVDR678260_1: geldend vanaf 2022-07-01",
+  "laatste_wijziging": "2024-01-01 (VFL, versie 4; de wijziging betrof o.a. art. 7:1 in versie 3 per 2023-12-31)",
+  "juridische_plaats": "VFL (gemeentelijke verordening); de APV 2021 bevat afdeling 4.3 Houtopstanden (art. 4:10 t/m 4:12) niet meer: alle artikelen staan als '[vervallen]' in CVDR656845_8 (geldend per 2026-01-01). Regel werkt als omgevingsplanactiviteit: legesverordening art. 2.30 spreekt van 'omgevingsplanactiviteit, bestaande uit het kappen van één of meerdere bomen'. Daarnaast restant bruidsschat art. 22.299 in het omgevingsplan (aanvraagvereisten).",
+  "praktijkcontrole": "Sinds 2025 188 bekendmakingen met kapterm in de titel (90 besluiten, 96 aanvragen, 1 weigering volgens titel). Steekproef van 10 besluiten (2026) noemt geen grondslag; de titels spreken van 'Omgevingsvergunning (activiteit Kappen) regulier'. Past bij een breed vergunningstelsel met ruime drempel; bij enkele besluiten gaat het om meer dan 30 bomen (bijv. gmb-2026-442459, gmb-2026-517646).",
+  "vergunningplicht": "vergunning (omgevingsvergunning voor het vellen van houtopstanden)",
+  "drempel": "Boom = stamomtrek van minimaal 31 cm op 1,30 m (bijlage 1 VFL). Vrijstelling binnen de bebouwde kom voor stamomtrek 'tot maximaal 80 cm' (art. 7:1 lid 3); buiten de bebouwde kom 'tot maximaal 80 cm' alleen op erven of tuinen bij woningen (art. 7:1 lid 4).",
+  "omtrek_cm": 80,
+  "meethoogte": "130 cm boven het maaiveld (1,30 m)",
+  "reikwijdte": "Hele grondgebied, particulier en openbaar. Binnen de kom: vergunning vanaf stamomtrek > 80 cm (uitgezonderd: gebied Bargapark, daar geen 80 cm-vrijstelling; klein gebied, telt niet mee). Buiten de kom: vergunning vanaf 31 cm omtrek, behalve op erven of tuinen bij woningen (daar > 80 cm). Vrijstelling vervalt voor bomen met een opgelegde herplantplicht (lid 5). Letterlijk lid 3: 'geen vergunning vereist voor het vellen of doen vellen van een houtopstand binnen de bebouwde kom met een stamomtrek tot maximaal 80 cm'.",
+  "uitzonderingen": "Art. 7:1 lid 2: niet-geknotte populieren of wilgen als wegbeplanting of eenrijige beplanting langs landbouwgronden; laagstamfruitbomen en windschermen om boomgaarden; kerstbomen; kweekgoed; dunning; Plantgezondheidswet of aanschrijving; aanlegvergunning; hakhout. Lid 3 en 4: de 80 cm-vrijstelling (binnen de kom overal; buiten de kom alleen op erven en tuinen bij woningen). Lid 7: toestemming tot direct vellen bij grote gevaarzetting. Hoogstamfruitbomen blijven vergunningplichtig (toelichting VFL). Geen uitzondering voor achtertuinen, oppervlakte of conifeer; de 80 cm-drempel is een gewone omtrekdrempel, geen tuinuitzondering.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 7:2 lid 1: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.' Beleidskader 3.2.2: 'Indien een houtopstand over twee of meer van bovengenoemde waarden beschikt, wordt geen omgevingsvergunning voor het vellen van houtopstanden verleend, tenzij de belangen van de aanvrager zwaarder wegen' (alleen bij twee of meer waarden).",
+  "herplantplicht": "Art. 7:1 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 7:3 lid 1: 'Tot aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' Beleidskader 3.3.1: 'Het al dan niet opleggen van een herplantplicht wordt per geval beoordeeld, er is sprake van maatwerk.' Beleidskader 3.3.2: bij herplant standaard maat 14/16 cm; 'Als herplant op dezelfde plek of directe nabijheid niet mogelijk is, dan kan een financiële compensatie van de herplant plaatsvinden' (boomwaarde, 'Fonds kwaliteitsverbetering Buitengebied').",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan een herplantplicht opleggen' (art. 7:1 lid 6), per geval door het bevoegd gezag (beleidskader 3.3.1: 'per geval beoordeeld'). Het beleidskader noemt gevallen waarin herplant 'niet wordt opgelegd' (o.a. 'voldoende groen (bomen) aanwezig is in de tuin') en gevallen waarin 'Herplant wordt wel opgelegd indien' (o.a. 'meerdere bomen tegelijk worden verwijderd'). Betalen in plaats van planten: alleen 'kan' (beleidskader 3.3.2).",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 7:3 lid 6: 'Degene aan wie een voorschrift dan wel verplichting als bedoeld in dit artikel is opgelegd ... is verplicht hieraan te voldoen.' Art. 8:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Beleidskader 3.3.2: 'Bij niet slagen van de herplant dient de herplant herhaald te worden voor onbepaalde duur.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: art. 8:1 lid 4 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 7:1, eerste lid'. Daarnaast algemene strafbepaling art. 8:1 lid 1 (hechtenis max. 3 maanden of geldboete tweede categorie). Omdat de regel als omgevingsplanactiviteit werkt, geldt ook WED via Ow 5.1. Herplant na illegale kap: art. 7:3 lid 3 'kan ... de verplichting opleggen te herbeplanten'; beleidskader 3.3.3: 'zwaardere compensatie als sanctie'. Geen bestuurlijke boete gevonden.",
+  "procedure": "Leges kappen van één of meer bomen EUR 75,00 (art. 2.30 lid 1, CVDR752479_1); vellen van houtopstand zoals hakhout of houtwal EUR 147,23. Beslistermijn: APV art. 1:4 (acht weken, verdagen met acht weken) is niet van toepassing op een omgevingsvergunning; de wettelijke termijn geldt. Bezwaar en beroep volgens de Awb (niet in de verordening). Vergunning vervalt na een jaar zonder gebruik (art. 7:7).",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen bomenlijst: breed stelsel met omtrekdrempel; geen lijst in de bronnen.",
+  "status": "ok",
+  "ontbrekend": "Niet ingezien: omgevingsplan in het DSO (tijdelijk deel) en gemeentelijke website; geen aanwijzing dat daar aanvullende kapregels staan (omgevingsplan CVDR696440_2 bevat alleen art. 22.299 aanvraagvereisten).",
+  "artikelnummers": [
+    "VFL art. 7:1 lid 1-7",
+    "VFL art. 7:2",
+    "VFL art. 7:3",
+    "VFL art. 8:1 lid 1 en 4",
+    "VFL bijlage 1 (begrip boom, vellen)",
+    "Beleidskader Houtopstanden 3.2.2, 3.3.1-3.3.3",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "APV 2021 art. 4:10-4:12 (vervallen)"
+  ],
+  "opmerkingen": [
+    "Vaststelling regel: APV art. 4:10, 4:11, 4:11a, 4:11b en 4:12 staan als '[vervallen]' in CVDR656845_8 (geldend per 2026-01-01); de kapregel staat vandaag alleen in de VFL (CVDR677823_4, art. 7:1).",
+    "D per deel: binnen de kom en op erven/tuinen buiten de kom drempel > 80 cm omtrek (middelmatig, D3); buiten de kom buiten erven en tuinen vanaf 31 cm omtrek (zou aangewezen gebied zijn, hooguit D2). Hoogste deel geldt: D3. Geen correctie: er is geen tuinuitzondering, alleen een omtrekdrempel.",
+    "W2: 'De vergunning kan worden geweigerd op grond van' zes waarden. Het beleidskader (3.2.2) keert dit om bij twee of meer waarden ('wordt geen omgevingsvergunning ... verleend, tenzij'); dat geldt niet voor het grootste deel van de gedekte bomen, dus W2.",
+    "H1: 'kan een herplantplicht opleggen'. Compensatie in geld alleen als herplant niet mogelijk is en dan 'kan'; verhoogt H niet. Herplant na illegale kap 'kan' (art. 7:3 lid 3), telt bij S.",
+    "S1: WED-aanwijzing in art. 8:1 lid 4 en herplant na illegale kap; geen bestuurlijke boete.",
+    "Beide voorbeeldbomen: 80 cm valt onder 'tot maximaal 80 cm' en is vrijgesteld; 40 cm ook. Boom A zit precies op de grens.",
+    "Koppeling: bomen met een opgelegde herplantplicht blijven vergunningplichtig ongeacht omvang (art. 7:1 lid 5).",
+    "Lijstsysteem: geen. Er staat geen bomenlijst of -kaart in de bronnen en de VFL kent geen aangewezen bomen."
+  ],
+  "modelsignalen": [
+    "Een drempel 'tot maximaal 80 cm' (vrijgesteld) betekent dat 80 cm net niet vergunningplichtig is; het model noemt 60-100 cm D3 en de grens ligt op '> 80'. Geen conflict, maar de voorbeeldboom A (80 cm) valt hier net buiten.",
+    "Beleidskader zet de weigeringsgrond om in 'weigeren tenzij' bij twee of meer waarden; INTENT.md zegt niet of een voorwaardelijke omkering van W2 naar W3 telt. Gekozen: W2 (regime voor het grootste deel van de bomen)."
+  ]
+}

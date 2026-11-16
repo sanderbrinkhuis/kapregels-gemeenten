@@ -1,0 +1,64 @@
+{
+  "gm_code": "GM0703",
+  "gemeente": "Reimerswaal",
+  "provincie": "Zeeland",
+  "brondocument": "Algemene plaatselijke verordening Reimerswaal 2025 (CVDR756006_1), hoofdstuk 4 afd. 3 'Het bewaren van houtopstanden' (art. 4:10-4:12e) en art. 6:1; aanvullend Gemeentelijk Groenplan Reimerswaal 2023-2027 (CVDR697456_1) par. 6.3 en bijlage A",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR756006/1",
+  "datum_geldigheid": "2026-01-30",
+  "laatste_wijziging": "2026-01-30 (nieuwe APV 2025, vastgesteld na voorstel college 20-01-2026; versie 1)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (Legesverordening 2026 tarieventabel art. 2.30: 'omgevingsplanactiviteit ... vellen van een houtopstand, bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "112 bekendmakingen sinds 2025 (54 besluiten, 58 aanvragen), 0 weigeringen volgens titel; steekproef van 10 verleende kapvergunningen (o.a. sierkersen, kastanjes, Gleditsia's in Krabbendijke, Rilland, Kruiningen), geen grondslag genoemd. Het hoge aantal besluiten past bij een breed regime.",
+  "vergunningplicht": "omgevingsvergunning (art. 4:11 lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.')",
+  "drempel": "stamdiameter 20 cm (art. 4:11 lid 3 onder b: vrijgesteld is 'houtopstand met een stamdiameter < 20 cm, gemeten op 1,3 m boven het maaiveld'; bij meerstammigheid de dikste stam)",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar; buiten de bebouwde kom vrijstelling voor Wnb-houtopstanden, fruitbomen/windschermen en kerstbomen (art. 4:11 lid 2); achtertuinen van woningen vrijgesteld tenzij de boom bij de Bomenstichting is geregistreerd of op de lijst 'monumentale en waardevolle bomen Reimerswaal' staat",
+  "uitzonderingen": "art. 4:11 lid 3: Plantgezondheidswet/aanschrijving; diameter < 20 cm; 'houtopstand in achtertuinen van woningen, tenzij deze geregistreerd zijn bij de Bomenstichting, of zijn opgenomen in de lijst ‘monumentale en waardevolle bomen Reimerswaal’'; 'coniferen, deze omvatten zowel naaldboom- als haagconiferen'; dunning; regulier knotten/kandelaberen; projecten op basis van plan of eerdere vergunning met beoordeling van de kap; kwekerijen. Lid 4: direct vellen bij gevaar of spoed met toestemming burgemeester.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "art. 4:12: 'Het bevoegd gezag kan de omgevingsvergunning voor het vellen van houtopstanden onder voorschriften weigeren dan wel verlenen. In de beleidsregels worden deze voorschriften nader gemotiveerd.' Geen gronden in de APV zelf. Groenplan bijlage A (uitsnede beleidsregels) noemt toetsingswaarden: natuur/milieu/ecologie, landschap, cultuurhistorie, dendrologie, recreatie en leefbaarheid, beeldbepalend; voor monumentale en lijstbomen: 'In principe wordt geen omgevingsvergunning verleend'.",
+  "herplantplicht": "bevoegdheid: art. 4:12a lid 3 'Tot de aan de omgevingsvergunning te verbinden voorschriften kunnen behoren: a. het voorschrift dat binnen een door het bevoegd gezag te bepalen termijn ... moet worden herplant'. Na illegale kap art. 4:12b lid 1: 'kan het bevoegd gezag ... de verplichting opleggen om te herplanten'. Groenplan par. 6.3 (samenvatting, APV leidend): 'In de gemeente geldt een herplant- en/of instandhoudingsplicht, tenzij in de omgevingsvergunning anders is aangegeven.' Bijlage A: 'De APV geeft de gemeente ... de mogelijkheid om een herplantplicht ... op te leggen. Het belang van het opgelegde moet afgewogen zijn'. Geen herplantfonds of boomwaardestorting in de regeling (boomwaarde wel gedefinieerd in art. 4:10, maar nergens gebruikt).",
+  "herplant_ontsnapping": "'kunnen behoren' (art. 4:12a lid 3) en 'kan' (art. 4:12b lid 1): bevoegdheid van het bevoegd gezag, per geval; Groenplan: plicht 'tenzij in de omgevingsvergunning anders is aangegeven'. Herplant na illegale kap: 'kan' worden opgelegd (Groenplan noemt dit 'sowieso', maar dat staat niet in de APV).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12b lid 3: 'Degene aan wie een verplichting als bedoeld in het eerste en tweede lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen binnen de gestelde termijn.' Art. 6:1 lid 1: overtreding van geboden en verboden en voorschriften 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Daarnaast noemt de Zeeuwse dwangsomleidraad in het Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR748125_1) 'Niet voldoen aan herplantplicht' (maatwerk, € 10.000 per strekkende km / € 11.500 per hectare).",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "WED via Ow 5.1 (kapregel werkt als omgevingsplanactiviteit); daarnaast eigen WED-aanwijzing in art. 6:1 lid 3 (verwijst naar 'artikel 4:11, tweede lid', vermoedelijk bedoeld lid 1) en algemene strafbepaling art. 6:1 lid 1; herplantplicht na illegale kap (art. 4:12b, 'kan'). Geen bestuurlijke boete voor kap: de boetebeleidsregels in het U&H-beleid Zeeland gelden alleen voor art. 18.12 en 18.13 Ow (bouwen en erfgoed).",
+  "procedure": "omgevingsvergunning; leges € 65,50 (Legesverordening 2026 art. 2.30), achteraf aangevraagd +10% met minimum € 65,50; positieve fictieve beschikking bij niet tijdig beslissen (art. 4:11 lid 5); vergunning pas te gebruiken na onherroepelijk worden en vervalt na twee jaar (art. 4:12a lid 1-2); aanvraagvereisten omgevingsplan art. 22.299; publicatie in Gemeenteblad, bezwaar en beroep.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "status": "ok",
+  "ontbrekend": "Lijst 'monumentale en waardevolle bomen Reimerswaal' en de volledige beleidsregels bij de APV (Groenplan bijlage A is een uitsnede) niet gevonden; beide veranderen D en W niet (lijst geldt alleen voor achtertuinen).",
+  "artikelnummers": "APV 2025 art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 6:1; Legesverordening 2026 tarieventabel art. 2.30 en 2.47; omgevingsplan art. 22.299; Groenplan 2023-2027 par. 6.2, 6.3 en bijlage A",
+  "opmerkingen": "Breed regime: hele gemeente vanaf diameter 20 cm (omtrek 62,8 cm, D3), met 1 punt aftrek voor de ruime uitzondering van achtertuinen (tenzij Bomenstichting- of lijstboom) en daarnaast alle coniferen: D2. W2 op grond van art. 4:12 'kan ... weigeren dan wel verlenen' (geen gronden in de APV zelf). H1: art. 4:12a lid 3 'kunnen behoren'. Groenplan par. 6.3 zegt 'In de gemeente geldt een herplant- en/of instandhoudingsplicht, tenzij in de omgevingsvergunning anders is aangegeven'; dit is een raadsnota die zegt dat de APV leidend is, en bijlage A spreekt van een 'mogelijkheid' met afweging per geval, daarom H max 2 en punt 1. Lijst- en Bomenstichtingbomen: beleidsregel 'In principe wordt geen omgevingsvergunning verleend' (strenger, alleen hier vermeld). Groenplan noemt financiële compensatie alleen voor gemeentelijke herplant in de openbare ruimte. Bestuurlijke boete alleen voor bouw en erfgoed, niet voor kap.",
+  "modelsignalen": [
+    "Twee ruime uitzonderingen tegelijk (alle achtertuinen van woningen en alle coniferen): het model zegt 'trek 1 af' en regelt niet of twee uitzonderingen samen 2 punten aftrek geven. Hier 1 punt afgetrokken (D2); bij stapelen zou D1 zijn.",
+    "WED-aanwijzing in APV art. 6:1 lid 3 verwijst naar art. 4:11 lid 2 (de vrijstellingen buiten de kom) in plaats van het verbod in lid 1; vermoedelijk een redactiefout. S verandert niet omdat WED via Ow 5.1 en de herplantplicht na illegale kap S1 al dragen."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijst"
+}

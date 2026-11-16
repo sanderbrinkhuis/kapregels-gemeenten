@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM1701",
+ "gemeente": "Westerveld",
+ "provincie": "Drenthe",
+ "brondocument": "Bomenverordening gemeente Westerveld (art. 1-14); APV afdeling 4.3 (art. 4.10-4.12) is vervallen",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR715220/1",
+ "datum_geldigheid": "2024-02-09 t/m heden (CVDR715220_1)",
+ "laatste_wijziging": "2024-02-09 (eerste versie; nieuwe verordening ter vervanging van die van 28 maart 2023)",
+ "juridische_plaats": "bomenverordening; leges (CVDR754601_3 art. 2.30) noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Omgevingswet",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 244 (119 besluiten, 4 weigeringen volgens titel). In de steekproef van 10 besluiten staan geen grondslagcitaten. Het grote aantal kapbesluiten wijst op een regime dat ook particuliere bomen raakt; dit is alleen een indicatie.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning): kapverbod voor waardevolle bomen en houtopstanden (art. 3-4, ontheffing) en voor bomen en houtopstanden in het gebied 'licht regime' op de kaart (art. 6); in het gebied 'vrij regime' geen vergunning (art. 2 lid 1)",
+ "drempel": "Definitie boom (art. 1 sub a): 'stamomtrek van minimaal 100 centimeter op 130 centimeter hoogte'; voor 'houtopstand' (art. 1 sub c) staat geen drempel; art. 6 geldt voor 'een boom of houtopstand'",
+ "omtrek_cm": 100,
+ "meethoogte": "130 cm (voor de definitie boom)",
+ "reikwijdte": "Gebiedsgericht: kaart vergunningplichtige bomen (art. 2) met waardevolle bomen, landschapselementen, bomenrijen en gebieden met licht regime (vergunning) en vrij regime (geen vergunning). Particulier en openbaar. De kaart is niet ingezien; omvang van het gebied licht regime onbekend.",
+ "uitzonderingen": "Art. 6 lid 2: Plantgezondheidswet of aanschrijving, dode bomen, periodiek knotten of kandelaberen, onderhoudswerkzaamheden, schubconiferen, bedrijfseconomisch geëxploiteerde bomen of houtopstanden. Art. 6 lid 3: spoed of direct gevaar (burgemeester).",
+ "weigeringsgronden": "Art. 8: 'Het college kan de omgevingsvergunning als bedoeld in artikel 6 weigeren in het belang van: a. de natuurwaarde ...; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde ... voor de leefbaarheid.' Waardevolle bomen (art. 5): 'slechts ontheffing verleend indien sprake is van een of meer van de volgende criteria'.",
+ "herplantplicht": "Art. 9 lid 2: 'Het college kan aan de omgevingsvergunning het voorschrift verbinden dat ... moet worden herplant.' Art. 3 lid 6 en art. 4 lid 6: 'Het college kan een herplantplicht opleggen'. Art. 7 lid 2: aanvraag 'voorzien van een herplant plan'. Geen beleidsregel over herplant of compensatie gevonden.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'); het college beslist per geval. Geen regel over betaling in plaats van herplant.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 14: 'Overtreding van het bij of krachtens deze verordening bepaalde wordt gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'. Art. 11 lid 2: 'is verplicht daaraan te voldoen' (instandhoudingsplicht).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "onbekend",
+ "boom_b_40cm": "onbekend",
+ "sancties": "Eigen strafbepaling art. 14 (hechtenis tot drie maanden of geldboete tweede categorie); herplantplicht na illegale kap art. 10 lid 1 ('kan'). Geen bestuurlijke boete. APV art. 6.1 lid 2 wijst WED aan voor APV art. 2.11, niet voor kap.",
+ "procedure": "Omgevingsvergunning; leges art. 2.30 CVDR754601_3: EUR 177,72; aanvraag met herplantplan (art. 7); beslistermijn volgens APV art. 1.2 (niet beoordeeld).",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 4
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "kaart en lijst niet ingezien (de kaart staat niet in de regelingtekst; gemeentelijke website niet bereikbaar)",
+ "status": "onzeker",
+ "ontbrekend": "Kaart vergunningplichtige bomen niet ingezien: onbekend hoe groot het gebied met licht regime is en of de bebouwde kom erbinnen valt. Daardoor onbekend of boom A en B vergunningplichtig zijn.",
+ "artikelnummers": [
+  "Bomenverordening art. 1",
+  "Bomenverordening art. 2",
+  "Bomenverordening art. 3-6",
+  "Bomenverordening art. 7-10",
+  "Bomenverordening art. 14",
+  "APV art. 4.10-4.12 (vervallen)",
+  "Leges art. 2.30 (CVDR754601_3)"
+ ],
+ "opmerkingen": [
+  "Doorslaggevend voor W: 'Het college kan de omgevingsvergunning ... weigeren in het belang van: a. de natuurwaarde van de houtopstand' (art. 8); voor H: 'Het college kan aan de omgevingsvergunning het voorschrift verbinden dat ... moet worden herplant' (art. 9 lid 2).",
+  "D = 2 (gebieden) met bereik 1-4: als het gebied licht regime klein is, tellen alleen waardevolle bomen (D1); als het de hele bebouwde kom beslaat zonder drempel voor houtopstanden, kan D4 gelden. De drempel van 100 cm geldt volgens de definitie alleen voor 'boom', niet voor 'houtopstand'.",
+  "Voor lijstbomen en waardevolle bomen geldt een strenger regime (verbod, ontheffing 'slechts' bij criteria); alleen vermeld, niet gescoord.",
+  "Bomenverordening art. 15 (Toezicht) staat niet in het dossier; niet beoordeeld."
+ ],
+ "modelsignalen": [
+  "Definitie 'boom' (>=100 cm omtrek) naast 'houtopstand' zonder drempel in dezelfde vergunningplicht (art. 6): de drempel is onduidelijk, dus omtrek_cm is een onzekere waarde.",
+  "Kaart met licht en vrij regime: omvang bepaalt D, maar het model vraagt om een oordeel dat zonder kaart niet mogelijk is."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "gemeente": "Drimmelen",
+  "gm_code": "GM1719",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Drimmelen",
+  "zoeknaam_bekendmakingen": "Drimmelen",
+  "opgehaald_op": "2026-11-15T21:05:20+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Drimmelen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 51,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Drimmelen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 72,
+  "geldende_regelingen": 12,
+  "geldend_met_kapartikelen": [
+    "CVDR651050_1",
+    "CVDR673426_1",
+    "CVDR673461_1",
+    "CVDR696490_3",
+    "CVDR740160_4",
+    "CVDR753601_1"
+  ],
+  "bekendmakingen_besluiten": 8,
+  "bekendmakingen_aanvragen": 33,
+  "bekendmakingen_geweigerd": 8,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

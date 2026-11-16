@@ -1,0 +1,33 @@
+{
+  "gemeente": "Eindhoven",
+  "gm_code": "GM0772",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Eindhoven",
+  "zoeknaam_bekendmakingen": "Eindhoven",
+  "opgehaald_op": "2026-11-15T21:05:21+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Eindhoven\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 134,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Eindhoven\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 1235,
+  "geldende_regelingen": 26,
+  "geldend_met_kapartikelen": [
+    "CVDR415534_18",
+    "CVDR652092_1",
+    "CVDR696400_4",
+    "CVDR746561_1",
+    "CVDR756755_1",
+    "CVDR760543_1",
+    "CVDR762747_2",
+    "CVDR762748_1",
+    "CVDR762752_1",
+    "CVDR762754_1",
+    "CVDR766778_1"
+  ],
+  "bekendmakingen_besluiten": 623,
+  "bekendmakingen_aanvragen": 611,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

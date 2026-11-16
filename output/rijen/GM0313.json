@@ -1,0 +1,78 @@
+{
+ "gm_code": "GM0313",
+ "gemeente": "Bunschoten",
+ "provincie": "Utrecht",
+ "brondocument": "APV gemeente Bunschoten 2025 (CVDR752559_1), art. 4:11 en 6:1; Beleidsregel Bomenbeleid gemeente Bunschoten 2018-2023 (CVDR616908_1) met bijlage 2 Bomenlijst; legesverordening 2026 (CVDR746532_2) art. 2.9.1; Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht (CVDR745715_1); Omgevingsplan (CVDR696270_3) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR752559/1",
+ "datum_geldigheid": "2025-12-24 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2025-12-24 (APV 2025 opnieuw vastgesteld, versie 1)",
+ "juridische_plaats": "APV art. 4:11. De legesverordening 2026 art. 2.9.1 noemt het vellen van een houtopstand 'een omgevingsplanactiviteit' 'in samenhang met artikel 22.8 van de Omgevingswet'. De regel werkt dus als omgevingsplanactiviteit. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 17 bekendmakingen met kapterm in de titel (titelzoekmethode, dossier): 0 besluiten, 9 aanvragen, 0 geweigerd volgens titel. Dit is weinig voor een gemeente met een breed regime en past bij een lijstsysteem; de grondslag wordt niet genoemd.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van bomen op de gemeentelijke Bomenlijst of op de kaart 'Waardevolle bomen, boomgroepen en boomstructuren gemeente Bunschoten' (art. 4:11 lid 2).",
+ "drempel": "Geen stamdrempel; alleen bomen op lijst of kaart, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "Niet van toepassing",
+ "reikwijdte": "Art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst en/of kaart ... en andere beschermenswaardige bomen in de gemeente worden vermeld.' Het beleid zegt: 'Waardevolle bomen in particulier eigendom zijn in dit beleid niet opgenomen.' Alleen aangewezen bomen en boomstructuren (straten en singels).",
+ "uitzonderingen": "Art. 4:11 lid 4: burgemeester kan toestemming verlenen bij spoedeisend belang voor de openbare orde of direct gevaar. Lid 5: voor gemeentelijke bomen die niet op de lijst staan kan een kapverzoek worden ingediend (geen vergunning).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "nee",
+ "lijst_aantal_totaal": 64,
+ "lijst_aantal_particulier": 0,
+ "lijst_telling": "ca. 64 genummerde bomen (boomgroepen en solitaire bomen) in bijlage 2 van het Bomenbeleid 2018-2023 (CVDR616908_1), geteld uit de tabel; daarnaast 19 waardevolle boomstructuren (straten) op de kaart in bijlage 1, niet geteld in bomen. Alle bomen staan op gemeentelijke standplaats ('gras JVA'); particuliere bomen niet opgenomen volgens het beleid. De door het college vastgestelde actuele lijst en kaart zijn niet apart gevonden.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand, of f. de waarde voor de leefbaarheid van de houtopstand.' Beleid par. 4.8: 'De aanvraag omgevingsvergunning zal slechts na zorgvuldige afweging en bij zeer zwaarwegende argumenten worden toegewezen.'",
+ "herplantplicht": "Art. 4:11 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleid bijlage 3: bij kap of moedwillige beschadiging 'kan de gemeente ... een (financiële) herplantplicht opleggen'; de boomwaarde volgt de NiB-richtlijnen.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'); het bevoegd gezag beslist per geval. Geen betaling-in-plaats-van-herplant in de verordening.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Regio Utrecht (CVDR745715_1, bijlage P): 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'. APV art. 6:1 lid 1 (hechtenis of geldboete tweede categorie) geldt voor 'het bij of krachtens het in deze verordening bepaalde'; of dat een opgelegde herplantplicht dekt, is niet vastgesteld (art. 1:4 is niet van toepassing op een omgevingsvergunning).",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens ... artikel 4:11 tweede lid.' Daarnaast eigen strafbepaling art. 6:1 lid 1. Legesverordening noemt het vellen een omgevingsplanactiviteit. Geen bestuurlijke boete voor kap. S = 1.",
+ "procedure": "Beslistermijn: art. 1:2 is niet van toepassing op een omgevingsvergunning. Leges art. 2.9.1: € 0,00. Aanvragen via omgevingsloket (beleid bijlage 3). Bezwaar en beroep niet apart vastgesteld.",
+ "D": {
+  "punt": 0,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "status": "onzeker",
+ "ontbrekend": "De door het college vastgestelde Bomenlijst en kaart (art. 4:11 lid 1) niet apart gevonden; gebruikt is bijlage 2 van het Bomenbeleid 2018-2023, dat geen particuliere bomen bevat. De zinsnede 'en andere beschermenswaardige bomen in de gemeente' in lid 2 is niet uitgewerkt, daardoor D-bereik 0-1. bunschoten.nl/bomen gaf 404.",
+ "artikelnummers": [
+  "APV art. 4:10",
+  "APV art. 4:11",
+  "APV art. 6:1",
+  "APV art. 1:8",
+  "Legesverordening art. 2.9.1",
+  "Omgevingsplan art. 22.299",
+  "CVDR616908_1 par. 2.4, 4.8, bijlage 2 en 3",
+  "CVDR745715_1 bijlage P"
+ ],
+ "opmerkingen": [
+  "D0: alleen lijst en kaart; 'Waardevolle bomen in particulier eigendom zijn in dit beleid niet opgenomen' en 'Particuliere bomen worden in dit beleidsstuk buiten beschouwing gelaten.' Een lijst zonder particuliere bomen is D = 0. Maximum 1 omdat lid 2 'andere beschermenswaardige bomen' noemt.",
+  "W2: art. 4:11 lid 3 'kan de vergunning worden geweigerd op grond van'. Voor lijstbomen geldt in het beleid strenger ('bij zeer zwaarwegende argumenten'); dat is alleen opmerking.",
+  "H1: art. 4:11 lid 6 'kan een herplantplicht opleggen'.",
+  "S1: WED via APV 6:1 lid 2 voor art. 4:11 lid 2, plus leges 2.9.1 omgevingsplanactiviteit.",
+  "Leges verwijzen naar 'Bomenbeleid 2018-2023' als bron van de houtopstand; die beleidsperiode is verlopen maar de regeling staat nog als geldend."
+ ],
+ "modelsignalen": [
+  "Bunschoten: lijstsysteem waarvan de lijst volgens het beleid alleen gemeentelijke bomen bevat, terwijl art. 4:11 lid 2 ook 'andere beschermenswaardige bomen' noemt. INTENT.md zegt D = 0 als er geen particuliere bomen op de lijst staan; hier is dat uit het beleid af te leiden, niet uit de vastgestelde lijst zelf (bereik 0-1)."
+ ]
+}

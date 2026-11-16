@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1978/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente molenlanden",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1978/2025/omgevingsvisie/nld@26",
+    "beginGeldigheid": "2025-07-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1978_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1978/2025/Regelingbaa98438c375496598599ed82c2037f6",
+    "titel": "Warmteprogramma Molenlanden 2025",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1978/2025/Regelingbaa98438c375496598599ed82c2037f6/nld@2025-12-16;12270533",
+    "beginGeldigheid": "2025-12-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1978_2025_Regelingbaa98438c375496598599ed82c2037f6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1978/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Molenlanden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1978/2020/omgevingsplan/nld@2026-09-23;10514335",
+    "beginGeldigheid": "2026-09-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1978_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:35Z"
+  }
+]

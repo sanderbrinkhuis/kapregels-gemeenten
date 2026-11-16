@@ -1,0 +1,25 @@
+{
+  "gemeente": "Drechterland",
+  "gm_code": "GM0498",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Drechterland",
+  "zoeknaam_bekendmakingen": "Drechterland",
+  "opgehaald_op": "2026-11-14T22:02:32+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Drechterland\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 40,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Drechterland\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 40,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR624324_7",
+    "CVDR696332_2",
+    "CVDR753134_1"
+  ],
+  "bekendmakingen_besluiten": 15,
+  "bekendmakingen_aanvragen": 22,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM0168",
+ "gemeente": "Losser",
+ "provincie": "Overijssel",
+ "brondocument": "Algemene Plaatselijke Verordening Losser (CVDR670822_6), afdeling 4.3 Het bewaren van houtopstanden: art. 4:10, 4:11, 4.12, 4.12a, 4.12b, 4.12c, 6:1; Verordening op de heffing en de invordering van leges 2026 (CVDR750174_2) art. 2.30; Omgevingsplan gemeente Losser (CVDR696202_3) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR670822/6 ; https://lokaleregelgeving.overheid.nl/CVDR750174/2 ; https://lokaleregelgeving.overheid.nl/CVDR696202/3",
+ "datum_geldigheid": "APV CVDR670822_6 geldend vanaf 2025-12-19 t/m heden (peildatum scoren 2026-11-14); leges CVDR750174_2 vanaf 2026-10-01; omgevingsplan CVDR696202_3 vanaf 2026-05-28",
+ "laatste_wijziging": "APV: versie 6 (2025-12-19) wijzigde alleen art. 2.24; art. 4:11 is voor het laatst gewijzigd in versie 5 (in werking 2025-04-09). Leges: tarieventabel per 2026-10-01.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in [artikel [4:11] van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten (geen eigen vergunningplicht).",
+ "praktijkcontrole": "Sinds 2025: 310 bekendmakingen op titel, waarvan 15 besluiten, 151 aanvragen en 10 weigeringen (volgens titel). In de steekproef van 10 besluiten gaat het om weigeringen en toestemmingen voor het kappen van 1 tot 8 bomen. Dat past bij een regime voor de hele gemeente. Geen enkel besluit noemt een grondslag.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstand (art. 4:11 lid 1), behalve houtopstand met een stamomtrek van ten hoogste 100 cm (lid 2 onder e). Buiten de bebouwde kom geldt daarnaast een vergunningplicht voor het vellen van een landschapselement (lid 3).",
+ "drempel": "Verbod voor houtopstand met stamomtrek groter dan 100 cm: 'Houtopstand met een stamomtrek van ten hoogste 100 cm, gemeten op 1.30 meter hoogte boven de grond' is uitgezonderd (art. 4:11 lid 2 onder e).",
+ "omtrek_cm": 100,
+ "meethoogte": "1,30 m boven de grond (art. 4:11 lid 2 onder e)",
+ "reikwijdte": "Hele grondgebied, particulier en openbaar. Art. 4:11 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Lid 3: 'Het is verboden om buiten de bebouwde kom zonder omgevingsvergunning van burgemeester en wethouders een landschapselement, geheel of gedeeltelijk te vellen of te doen vellen;' (begrip landschapselement niet gedefinieerd in de APV). Geen bomenlijst of kaart.",
+ "uitzonderingen": "Art. 4:11 lid 2: kerstbomen ('fijnsparren, niet ouder dan twaalf jaar'), kweekgoed, Plantenziektewet of aanschrijving, houtopstand met stamomtrek van ten hoogste 100 cm. Geen uitzondering voor tuinen, erven, soorten of perceelgrootte. Gevaar of spoed is niet als uitzondering opgenomen. De begrippen houtopstand (art. 4:10: 'hakhout, een houtwal of een of meer bomen') kennen geen aparte drempel voor 'boom'.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4.12a: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand;'",
+ "herplantplicht": "Art. 4.12b lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Geen financiële compensatie of boomwaarde. Geen beleidsregel over herplant gevonden in de CVDR-dossiers; de Beleidsregels woning- en kavelsplitsing 2026 (CVDR765806_1) vragen alleen compensatie bij kavelsplitsing ('in ruim voldoende mate gecompenseerd'), dus bij een bouwproject; dat telt niet voor H.",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren'); het college beslist per geval. Er is dus geen harde plicht, tenzij het voorschrift is opgelegd.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4.12c lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Voor herplant bij een vergunningvoorschrift (art. 4.12b) zegt de APV niets over niet nakomen (art. 1:4 is niet van toepassing op een omgevingsvergunning).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED via de Omgevingswet: legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit (art. 5.1 lid 1 onder a Ow) in samenhang met art. 22.8 Ow, dus S = 1. Daarnaast art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete tweede categorie) en lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit en artikel 4:11, tweede lid.' Herplantaanschrijving na illegale kap: art. 4.12c lid 1 ('kan'). Geen bestuurlijke boete voor kappen in de APV gevonden en geen handhavingsbeleid.",
+ "procedure": "Aanvraag voor een omgevingsvergunning (aanvraagvereisten omgevingsplan art. 22.299). Leges 2026: EUR 87,00 (art. 2.30 legesverordening). Art. 4:11 lid 5: 'Op de vergunning is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing.' Art. 1:2 lid 3 sluit de APV-beslistermijn voor een omgevingsvergunning uit. Bekendmaking in het gemeenteblad (zie praktijkcontrole). Bezwaar en beroep niet apart gelezen.",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen lijstsysteem",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien (de CVDR-tekst bevat alleen aanvraagvereisten, art. 22.299); een eventuele aparte gebiedsregel voor kap is niet vastgesteld. Bezwaar en beroep niet apart gelezen. Geen beleidsregel of handhavingsbeleid voor kap gevonden.",
+ "artikelnummers": [
+  "APV art. 4:10, 4:11, 4.12, 4.12a, 4.12b, 4.12c, 4.12d, 6:1, 1:2",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D2: hele gemeente, particulier en openbaar, hoge drempel: 'Houtopstand met een stamomtrek van ten hoogste 100 cm, gemeten op 1.30 meter hoogte boven de grond' is uitgezonderd (art. 4:11 lid 2 onder e), dus omtrek > 100 cm. Geen tuin- of soortuitzondering, dus geen correctie.",
+  "Landschapselementen buiten de bebouwde kom (art. 4:11 lid 3) zonder drempel: telt als aangewezen gebied (hooguit D2) en verandert D niet.",
+  "W2: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4.12a).",
+  "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4.12b lid 1). Herplant na illegale kap ('kan ... de verplichting opleggen te herbeplanten', art. 4.12c lid 1) telt bij S, niet bij H.",
+  "S1 zonder bereik: legesverordening noemt het vellen een omgevingsplanactiviteit (besluit 14-11-2026). Foute verwijzing: art. 6:1 lid 2 wijst voor de WED naar 'artikel 4:11, tweede lid', dat alleen de uitzonderingen bevat, en niet naar het verbod in lid 1.",
+  "Beleidsregels kavelsplitsing 2026 (CVDR765806_1, in werking 2026-08-28): compensatie van houtopstanden alleen bij kavelsplitsing of woningsplitsing (ruimtelijke ontwikkeling); verhoogt H niet.",
+  "Praktijk: 10 weigeringen volgens titel sinds 2025, voor een gemeente waar alleen bomen boven 100 cm omtrek beschermd zijn. De bekendmakingen noemen geen grondslag; dit is alleen een indicatie."
+ ],
+ "modelsignalen": [
+  "Losser: de WED-aanwijzing in APV art. 6:1 lid 2 verwijst naar het tweede lid (uitzonderingen) in plaats van het verbod. Het model vangt dit via de besluitregel voor foute verwijzingen (S1 via leges), maar de strafbaarheid via de APV zelf is daardoor onduidelijk."
+ ]
+}

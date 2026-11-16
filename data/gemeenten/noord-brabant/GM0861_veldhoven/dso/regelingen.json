@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0861/2020/actieplan_geluid_2024_-_2029_gemeente_veldhoven36",
+    "titel": "Programma voor Gemeente Veldhoven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0861/2020/actieplan_geluid_2024_-_2029_gemeente_veldhoven36/nld@2025-07-04;ed447ae7ca0743379990ec82a9c23d0a",
+    "beginGeldigheid": "2025-07-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0861_2020_actieplan_geluid_2024___2029_gemeente_veldhoven36?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0861/2020/programma_voorzieningen_veldhoven55",
+    "titel": "Programma voor Gemeente Veldhoven",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0861/2020/programma_voorzieningen_veldhoven55/nld@2026-03-12;32e9782d2ee044338cad7b746c9ef145",
+    "beginGeldigheid": "2026-03-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0861_2020_programma_voorzieningen_veldhoven55?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0861/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Veldhoven",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0861/2020/omgevingsplan/nld@2026-07-20;c2dd035510fc4348926846ce2643cb06",
+    "beginGeldigheid": "2026-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0861_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:19:16Z"
+  }
+]

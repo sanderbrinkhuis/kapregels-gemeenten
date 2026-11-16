@@ -1,0 +1,76 @@
+{
+ "provincie": "Noord-Holland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Een gebiedsregel (D2) die bomen vanaf 15 cm diameter beschermt in aangewezen gebieden, waaronder delen van de bebouwde kom, laat zich lastig vastleggen: of dat 'substantieel' is hangt van kaarten af die niet als tekst leesbaar zijn. Het model kent geen tussenstap tussen D1 en D2 voor een combinatie van lijst en gebieden."
+ ],
+ "gm_code": "GM0453",
+ "gemeente": "Velsen",
+ "brondocument": "Verordening fysieke leefomgeving Velsen 2023 art. 2:40, 3:41, 6:5, 6:6, bijlage I (begrippen), 1:2 t/m 1:4; Bomenlijst met beschermenswaardige houtopstanden en het beschermenswaardig gebied (CVDR618840_1); Selectiecriteria monumentale en waardevolle bomen en beschermenswaardige gebieden (CVDR618715_1); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR734430/1 ; https://lokaleregelgeving.overheid.nl/CVDR618840/1 ; https://lokaleregelgeving.overheid.nl/CVDR618715/1",
+ "datum_geldigheid": "VFL CVDR734430_1 geldend vanaf 2024-10-01 t/m heden; bomenlijst CVDR618840_1 en selectiecriteria CVDR618715_1 geldend vanaf 2019-01-01 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "VFL: versie 1 per 2024-10-01 (geen latere versie). Bomenlijst: vastgesteld door het college 2018-12-21 (gmb-2018-280909), omgehangen naar de VFL via art. 8:3A onder e.",
+ "juridische_plaats": "VFL; werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR753589_2) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikelen 2.34 / 3.41 van de Verordening fysieke leefomgeving 2023' een 'omgevingsplanactiviteit'. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 210 bekendmakingen op titel, waarvan 84 besluiten, 124 aanvragen en 10 weigeringen (volgens titel). De steekproef van 10 besluiten noemt geen grondslag. Veel besluiten, vooral voor groepen bomen bij landgoederen en bosgebieden (bijv. 29 en 88 bomen in een besluit), passend bij een lijst- en gebiedenstelsel. Jaarverslag 2025 (CVDR762725_1): 52 aanvragen kap/vellen, 57 verleend (24 met herplantplicht), 4 geweigerd.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de bomenlijst staan of in beschermenswaardige gebieden liggen (art. 3:41 lid 1).",
+ "drempel": "Lijstbomen: geen drempel. Bomen in beschermenswaardige gebieden: diameter van 15 cm of groter op 1,30 m hoogte.",
+ "omtrek_cm": 47,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Art. 3:41 lid 1: 'a. die zijn opgenomen in de Bomenlijst met beschermenswaardige houtopstanden; b. die gelegen zijn in beschermenswaardige gebieden zoals aangeduid in de overzichtskaarten, voor zover het gaat om een houtopstand met een diameter van 15 cm of groter op 1.30 m hoogte.' Geldt voor gemeentelijke en particuliere bomen. De selectiecriteria (CVDR618715_1) noemen als gebieden: buitenplaatsen en landgoederen, begraafplaatsen, groene buffers tussen kernen en duinrand, en 'delen van de bebouwde kom' met een parkachtig of bosachtig karakter. De overzichtskaarten zijn alleen als scan bekeken (gmb-2018-280909, externe bijlage exb-2018-74853); de gebiedsgrenzen zijn niet uitgewerkt. Sinds 2014 is de kapvergunning elders opgeheven: 'Voor het overgrote deel is het kappen, rooien, verplanten en sterk snoeien van bomen in de gemeente Velsen echter vergunningsvrij geworden.'",
+ "uitzonderingen": "Art. 3:41 lid 3: eerste lid niet van toepassing 'als de burgemeester toestemming verleent ... in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Geen tuin-, soort- of perceeluitzondering in de tekst. Bomen buiten lijst en gebieden zijn vergunningsvrij.",
+ "weigeringsgronden": "Art. 3:41 lid 2: 'In afwijking van artikel 1:3 kan de vergunning in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+ "herplantplicht": "Art. 3:41 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel gevonden die herplant verplicht stelt; de beleidsnota (CVDR327958_1) is een evaluatie over gemeentelijk groen. Jaarverslag 2025: 24 van 57 vergunningen met herplantplicht.",
+ "herplant_ontsnapping": "Geen uitweg genoemd; de tekst is een bevoegdheid ('kan'). Het bevoegd gezag (college) beslist per geval. Herplant na illegale kap niet geregeld.",
+ "sancties": "Art. 6:6 VFL: 'Artikel 1a van de Wet op de economische delicten is van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 3:8, tweede lid en 3:10, vijfde lid, indien sprake is van een omgevingsvergunningplichtige activiteit 3:7, eerste lid en 3:41, tweede lid.' Dat verwijst naar het verkeerde lid (3:41 lid 2 bevat de weigeringsgronden, het verbod staat in lid 1). Art. 6:5 noemt 3:41 niet. Geen bestuurlijke boete. Via Ow 5.1 (omgevingsplanactiviteit volgens leges) geldt WED. Jaarverslag 2025: bij overtreding 'een waarschuwing, een last onder dwangsom of bestuursdwang'.",
+ "procedure": "Beslistermijn art. 1:2 lid 3: art. 5.39 Ow van toepassing; art. 3:41 lid 6: positieve fictieve beschikking (Awb 4.1.3.3). Leges art. 2.30: EUR 107,00. Bekendmaking van besluiten in het gemeenteblad. Bezwaar en beroep: Jaarverslag 2025 noemt 3 bezwaren en 0 beroepen tegen kapvergunningen in 2025.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "onbekend",
+ "herplant_niet_nakomen": "Niet specifiek geregeld. Art. 1:4 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Jaarverslag 2025: 'een waarschuwing, een last onder dwangsom of bestuursdwang'.",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst zelf niet leesbaar ingezien: de bijlage bij gmb-2018-280909 is een gescand PDF-bestand (kaarten zichtbaar, lijst niet als tekst te lezen; de gemeentelijke website blokkeerde het ophalen). Indicatie uit de evaluatie Bomenplan (CVDR327958_1, 2014, oudere lijst): 'iets meer dan 1600 waardevolle en monumentale bomen ... Circa de helft is gemeentelijk eigendom, de rest particulier bezit' (ca. 800 particulier, niet gecontroleerd op de huidige lijst)",
+ "status": "ok",
+ "ontbrekend": "De bomenlijst en de overzichtskaarten met beschermenswaardige gebieden (scan bij gmb-2018-280909) zijn niet als tekst gelezen; omvang van de gebieden binnen de bebouwde kom niet vastgesteld, dus D2 is onzeker (min D1). Omgevingsplan in het DSO niet ingezien. Gemeentelijke website niet bereikbaar.",
+ "artikelnummers": [
+  "VFL 2023 art. 2:40, 3:41, 6:5, 6:6, 1:2, 1:3, 1:4, bijlage I",
+  "Selectiecriteria CVDR618715_1",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D2 (min 1): art. 3:41 lid 1 sub b beschermt bomen van 15 cm diameter (omtrek ca. 47 cm) in aangewezen gebieden, naast lijstbomen; het breedste regime bepaalt D. De selectiecriteria noemen groene buffers en delen van de bebouwde kom; de kaart die ik zag toont een groot aaneengesloten gebied. Of dit een substantieel deel van de gemeente is, is niet vastgesteld, daarom min D1.",
+  "W2: 'kan de vergunning in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 3:41 lid 2).",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 3:41 lid 4); geen verplichtende beleidsregel gevonden.",
+  "S1: WED-aanwijzing in art. 6:6 verwijst naar 'artikelen 3:8, tweede lid en 3:10, vijfde lid ... 3:7, eerste lid en 3:41, tweede lid' (verkeerd artikel: lid 2 bevat de weigeringsgronden). Leges art. 2.30 noemt het vellen een omgevingsplanactiviteit; daarom S1 zonder bereik (besluit 14-11-2026).",
+  "Boom A en B: alleen beschermd als de boom op de lijst staat of in een beschermenswaardig gebied ligt; voor een gewone achtertuin buiten die gebieden geldt geen vergunningplicht.",
+  "Het lijstsysteem uit art. 3:41 geldt sinds de VFL per 2024-10-01; de lijst stamt uit 2018 en wordt volgens de selectiecriteria 'ongeveer elke tien jaar' geactualiseerd.",
+  "Praktijk: 4 geweigerde kapaanvragen in 2025 volgens het jaarverslag; geen grondslag genoemd in de besluiten."
+ ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0489/2025/Regeling821d27606aef4c9ea6b5c382e6724017",
+    "titel": "Voorbereidingsbesluit Bedrijfsactiviteiten Barendrecht",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0489/2025/Regeling821d27606aef4c9ea6b5c382e6724017/nld@2025-04-17;14034113",
+    "beginGeldigheid": "2025-04-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2025_Regeling821d27606aef4c9ea6b5c382e6724017?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2025/Regeling159dc55c660345028c803c59cc832886",
+    "titel": "Voorbereidingsbesluit Supermarkten Barendrecht",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0489/2025/Regeling159dc55c660345028c803c59cc832886/nld@2025-06-02;07432353",
+    "beginGeldigheid": "2025-06-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2025_Regeling159dc55c660345028c803c59cc832886?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2024/Regeling11177ca3b36e4a46a1d1154b3de4c6b5",
+    "titel": "Programma Geluid en Lucht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0489/2024/Regeling11177ca3b36e4a46a1d1154b3de4c6b5/nld@2025-07-07;14063735",
+    "beginGeldigheid": "2025-07-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2024_Regeling11177ca3b36e4a46a1d1154b3de4c6b5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2025/Regelingc7ed80015abc420497384d7b7e90a285",
+    "titel": "Programma Erfgoed gemeente Barendrecht: Beleven, Benutten en Behouden",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0489/2025/Regelingc7ed80015abc420497384d7b7e90a285/nld@2025-07-18;14183535",
+    "beginGeldigheid": "2025-07-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2025_Regelingc7ed80015abc420497384d7b7e90a285?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2025/Regelingc57b1c578578457f968ef07dc4312b50",
+    "titel": "Programma antenne-installaties gemeente Barendrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0489/2025/Regelingc57b1c578578457f968ef07dc4312b50/nld@2025-07-21;13080531",
+    "beginGeldigheid": "2025-07-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2025_Regelingc57b1c578578457f968ef07dc4312b50?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2025/Regeling33df053476e14f0a9d158b2b5be06364",
+    "titel": "Programma Wonen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0489/2025/Regeling33df053476e14f0a9d158b2b5be06364/nld@2025-07-22;10512162",
+    "beginGeldigheid": "2025-07-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2025_Regeling33df053476e14f0a9d158b2b5be06364?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2025/Regelinge67dc2a0788a4140872622365c3003c3",
+    "titel": "Programma Kostenverhaal en financiële bijdragen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0489/2025/Regelinge67dc2a0788a4140872622365c3003c3/nld@2025-11-11;14580594",
+    "beginGeldigheid": "2025-11-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2025_Regelinge67dc2a0788a4140872622365c3003c3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2026/Regeling65b8e4c10129489d84d0221aa835adcd",
+    "titel": "Voorbereidingsbesluit evenwichtige verdeling economische ruimte",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0489/2026/Regeling65b8e4c10129489d84d0221aa835adcd/nld@2026-10-09;07214595",
+    "beginGeldigheid": "2026-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2026_Regeling65b8e4c10129489d84d0221aa835adcd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0489/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Barendrecht",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0489/2020/omgevingsplan/nld@2025-04-14;20330282",
+    "beginGeldigheid": "2025-04-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0489_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:16Z"
+  }
+]

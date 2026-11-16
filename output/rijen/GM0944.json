@@ -1,0 +1,78 @@
+{
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "modelsignalen": [
+    "Mook en Middelaar: de Bomenverordening beschermt alleen bomen op het Bomenregister (D1), maar de toetsing is zeer streng (W3, 'slechts verlenen indien'). Het model geeft bij D1 dan toch een lage strengheid, terwijl de bescherming per geregistreerde boom hoog is.",
+    "Mook en Middelaar: de Beleidsregel Compensatieplicht zegt 'kan worden opgelegd' maar geeft een beslisboom waarin herplant voor particulieren per situatie ja of nee is (ja bij menselijk falen en bouwproject, nee bij natuurgeweld, kwijnende boom en overlast). INTENT.md zegt niet of zo'n beslisboom H2 of H1 oplevert; gescoord als H1 (per geval, niet vast voorschrift).",
+    "Mook en Middelaar: verplichte storting in het Groenfonds 'indien niet ter plaatse kan worden herplant' geldt alleen als herplant is opgelegd. INTENT.md geeft niet aan of dat H3 kan geven zonder standaard herplant; gescoord als H1."
+  ],
+  "gm_code": "GM0944",
+  "gemeente": "Mook en Middelaar",
+  "brondocument": "Bomenverordening Mook en Middelaar 2020 (art. 1-5, 7, 8, 12, bijlage 3); Beleidsregel Compensatieplicht waardevol groen 2020 (art. 1-4); APV Mook en Middelaar 2026 (afd. 4.3 vervallen, art. 6:1); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR641816/1 ; https://lokaleregelgeving.overheid.nl/CVDR639810/1 ; https://lokaleregelgeving.overheid.nl/CVDR767005/1 ; https://lokaleregelgeving.overheid.nl/CVDR751569/1",
+  "datum_geldigheid": "Bomenverordening CVDR641816_1 geldend vanaf 2020-09-01 t/m heden; beleidsregel CVDR639810_1 geldend vanaf 2020-05-01 t/m heden; APV CVDR767005_1 geldend vanaf 2026-09-29 (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "Bomenverordening en beleidsregel: geen wijziging sinds vaststelling in 2020 (enige versie). APV 2026: nieuwe vaststelling per 2026-09-29; art. 4:10, 4:11 en 4:12 staan op '(Vervallen)'.",
+  "juridische_plaats": "Bomenverordening (losse verordening). Werkt als omgevingsplanactiviteit: Legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2 Bomenverordening, in samenhang met artikel 22.8 van de Omgevingswet en artikel 2.1a van het Omgevingsbesluit'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 2 bekendmakingen op titel, 0 besluiten, 0 aanvragen, 0 weigeringen. Past bij een lijstsysteem; geen aanwijzing voor een breder regime. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 28 bekendmakingen sinds 1-1-2025, waarvan 11 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand die op het Bomenregister staat (art. 2 lid 1).",
+  "drempel": "Geen omvangdrempel voor registerbomen. 'Boom' is een houtig gewas met stamdoorsnede van minimaal 10 cm op 1,30 m (art. 1 lid 2); dit definieert alleen wat een boom is.",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (definitie boom); niet van toepassing als drempel",
+  "reikwijdte": "Art. 2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag een houtopstand te vellen of te doen vellen die staat vermeld in het Bomenregister.' Alleen geregistreerde bomen en houtopstanden, ongeacht binnen of buiten de kom; het register bevat volgens art. 1 lid 13 en art. 5 lid 2 de standplaats, het kadastrale perceel en de eigenaar. Eigenaren kunnen bomen aandragen (art. 5 lid 6); herplante bomen komen automatisch op het register (art. 5 lid 7). De omgevingsplanregels (CVDR) bevatten geen eigen kapregel. De APV-afdeling over houtopstanden (art. 4:10 t/m 4:12) is vervallen.",
+  "uitzonderingen": "Art. 2 lid 2: 'a. het periodiek knotten of kandelaberen ter uitvoering van het reguliere onderhoud; b. het periodiek vellen van hakhout ...; c. het dunnen van een houtopstand ...; d. houtopstand die moet worden geveld krachtens de Plantenziektewet of krachtens een aanschrijving of last van het bevoegd gezag; e. een dode houtopstand. Velling moet vooraf aan het college worden gemeld ter controle.' Art. 6: noodkap met toestemming van het college. Bijlage 3: fruitbomen (behalve hoogstam), kerstbomen, kweekgoed en bepaalde populieren/wilgen komen 'in de regel' niet op het register. Dit zijn gangbare uitzonderingen en tellen niet voor D.",
+  "weigeringsgronden": "Art. 3 lid 1: 'Het college kan de in artikel 2 lid 1 bedoelde vergunning slechts verlenen indien is aangetoond of aannemelijk is gemaakt dat: a. De conditie van de boom of houtopstand dermate slecht is dat instandhouding niet langer verantwoord is; b. Een maatschappelijk belang zwaarder weegt dan het belang van het behoud van de boom ... c. De instandhouding ... een excessieve hinder of overlast oplevert ...'. Art. 4: 'Het college kan de ... vergunning weigeren indien de beeldbepalende, cultuurhistorische, dendrologische en/of ecologische waarde zwaarder weegt dan het maatschappelijke belang van het kappen van de boom of houtopstand.'",
+  "herplantplicht": "Verordening art. 7 lid 1: 'De vergunning kan het voorschrift bevatten dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant. Indien niet ter plaatse kan worden herplant, dient een geldelijke bijdrage te worden gestort in de Voorziening Groenfonds.' Beleidsregel art. 1 lid 1: 'Bij een omgevingsvergunning voor het vellen van een boom kan een verplichting tot herplant worden opgelegd. In beginsel geldt een kwantitatieve fysieke herplantverplichting.' Beslisboom (art. 1 lid 3): herplant voor particulieren 'ja' bij menselijk falen en bij bouw of andere ruimtelijke ontwikkeling, 'nee' bij natuurgeweld, kwijnende of dode waardevolle boom en zwaarwegende overlast. Beleidsregel art. 4 lid 1: 'dient te worden overgegaan op financiële compensatie' als herplant op hetzelfde perceel niet kan (herplantwaarde € 588,50 of € 841,50 per boom). Dit maakt herplant bij gewone kap met vergunning niet tot standaard: H1.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan het voorschrift bevatten' (art. 7 lid 1) en 'kan een verplichting tot herplant worden opgelegd' (beleidsregel art. 1 lid 1); het college beslist per geval aan de hand van de beslisboom. Uitweg voor particulier: bij kwijnende boom of overlast geldt volgens de beslisboom geen herplant. Betalen in plaats van planten is verplicht als herplant op het perceel niet kan (beleidsregel art. 4 lid 1). Herplant na illegale kap: 'kan het college ... de verplichting opleggen te compenseren' (art. 8 lid 1).",
+  "sancties": "Kap zonder vergunning: WED via Omgevingswet art. 5.1 (leges art. 2.30 behandelt het kapverbod als omgevingsplanactiviteit); de APV 2026 art. 6:1 lid 3 wijst alleen art. 2:10, 2:11 en 2:12 aan voor de WED, niet de kapregel. Eigen strafbepaling in de Bomenverordening: geen; art. 12 lid 2: 'kan handhavend worden opgetreden'; lid 3: 'laat onverlet dat een strafvervolging kan worden ingesteld'. Herplant of financiële compensatie na illegale kap: art. 8 lid 1 en beleidsregel art. 4 lid 2 sub b (compensatie op vervangingswaarde, taxatiekosten voor de eigenaar). Geen bestuurlijke boete.",
+  "procedure": "Leges (Legesverordening 2026 art. 2.30): € 69,00, plus € 15,75 per boom vanaf de tweede, maximaal € 284,65; complexe aanvraag met herplant- of inrichtingsplan € 284,65. Publicatie van de aanvraag en het besluit: toelichting op art. 14 noemt publicatie; bezwaar en beroep niet apart gelezen. Beslistermijn niet vastgelegd.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Verordening art. 8 lid 4: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 12 lid 2: 'Tegen hem die handelt in strijd met artikel 2, eerste lid, dan wel een voorschrift onderscheidenlijk een verplichting als bedoeld in het vorige lid niet nakomt, kan handhavend worden opgetreden.' Toelichting op art. 12: 'Er kan een dwangsom worden opgelegd ... Het is ook mogelijk om bestuursdwang op te leggen.' Geen eigen strafbepaling voor het niet nakomen.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: korte zoekpoging op de gemeentelijke website (directe pagina's en zoekfunctie) leverde de lijst niet op. Volgens art. 1 lid 13 en art. 5 lid 2 bevat het register eigenaar en kadastraal perceel, en art. 5 lid 6 laat eigenaren bomen aanmelden; of er nu particuliere bomen op staan en hoeveel, is niet vastgesteld.",
+  "status": "ok",
+  "ontbrekend": "Bomenregister (lijst/kaart) niet gevonden; onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan (DSO) niet ingezien; het CVDR-omgevingsplan bevat alleen aanvraagvereisten (art. 22.299). Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "Bomenverordening 2020 art. 1, 2, 3, 4, 5, 6, 7, 8, 12 en bijlage 3",
+    "Beleidsregel Compensatieplicht waardevol groen 2020 art. 1, 2, 3, 4",
+    "APV 2026 art. 4:10-4:12 (vervallen), 6:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Peildatum 2026-11-14. Kernbron compleet: Bomenverordening 2020 met bijlagen en Beleidsregel Compensatieplicht 2020 (art. 7 en 8 verwijzen ernaar) staan beide in de data. Geen kernbron ontbreekt, behalve het Bomenregister zelf.",
+    "W: art. 3 lid 1 'kan ... slechts verlenen indien' (vergunning alleen bij slechte conditie, zwaarder wegend maatschappelijk belang of excessieve hinder) is gescoord als weigeren tenzij (W3).",
+    "H: verordening 'kan'; beleidsregel 'kan worden opgelegd' met beslisboom per situatie. De beleidsregel maakt herplant bij gewone kap niet tot vast voorschrift, dus H1. Compensatie bij bouwproject (beleidsregel art. 1 lid 3, beslisboom 'Bouw- of andere ruimtelijke ontwikkeling') en na illegale kap (art. 4 lid 2 sub b) verhoogt H niet; de illegale kap telt bij S.",
+    "S: S1 via WED (Ow 5.1, volgens leges art. 2.30) en herplant/compensatie na illegale kap. Geen bestuurlijke boete in de regeling.",
+    "Kerntekst: art. 2 lid 1 'verboden zonder vergunning ... een houtopstand te vellen ... die staat vermeld in het Bomenregister'. Het kapverbod uit het bestemmingsplan dat de beleidsregel noemt (art. 2 lid 2, plantmaat 14-16 cm) is in het CVDR-omgevingsplan niet teruggevonden; het DSO is niet ingezien.",
+    "Strengheid: D1 W3 H1 S1, I = 5, 18 (puntschatting); bereik 0-18 omdat de lijst niet is ingezien."
+  ]
+}

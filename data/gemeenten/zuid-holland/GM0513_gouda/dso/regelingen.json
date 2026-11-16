@@ -1,0 +1,74 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0513/2024/2_5",
+    "titel": "Programma Groen gemeente Gouda",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2024/2_5/nld@20",
+    "beginGeldigheid": "2024-12-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2024_2_5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2024/2_8",
+    "titel": "Programma Bomen gemeente Gouda",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2024/2_8/nld@24",
+    "beginGeldigheid": "2024-12-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2024_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2024/2_9",
+    "titel": "Programma Biodiversiteit gemeente Gouda",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2024/2_9/nld@23",
+    "beginGeldigheid": "2024-12-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2024_2_9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2024/2_10",
+    "titel": "Programma Zon op veld",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2024/2_10/nld@15",
+    "beginGeldigheid": "2025-02-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2024_2_10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2024/2_13_22",
+    "titel": "Programma Geluid",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2024/2_13_22/nld@22",
+    "beginGeldigheid": "2025-04-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2024_2_13_22?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2025/2_12",
+    "titel": "Programma Parkeren",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2025/2_12/nld@1029",
+    "beginGeldigheid": "2025-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2025_2_12?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2023/2_4_9",
+    "titel": "Omgevingsprogramma Goverwelle",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2023/2_4_9/nld@9",
+    "beginGeldigheid": "2026-03-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2023_2_4_9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2026/2_19",
+    "titel": "Water- en Rioleringsprogramma",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0513/2026/2_19/nld@1035",
+    "beginGeldigheid": "2026-06-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2026_2_19?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0513/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Gouda",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0513/2020/omgevingsplan/nld@2026-08-11;08405385",
+    "beginGeldigheid": "2026-08-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0513_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:59Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0779/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Geertruidenberg",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0779/2020/omgevingsplan/nld@2024-04-04;2",
+    "beginGeldigheid": "2024-04-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0779_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0779/2026/Regelingac7d258785f54232a994f275c1aff6c4",
+    "titel": "Omgevingsvisie Geertruidenberg",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0779/2026/Regelingac7d258785f54232a994f275c1aff6c4/nld@2026-07-29;09243953",
+    "beginGeldigheid": "2021-06-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0779_2026_Regelingac7d258785f54232a994f275c1aff6c4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:16Z"
+  }
+]

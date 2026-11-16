@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0826/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oosterhout",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0826/2020/omgevingsplan/nld@2026-03-31;06583317",
+    "beginGeldigheid": "2026-04-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0826_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0826/2026/Regeling7f51a2367d5540e0a6bdc41716b01c4b",
+    "titel": "Voorbereidingsbesluit energie assets gemeente Oosterhout (2026)",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0826/2026/Regeling7f51a2367d5540e0a6bdc41716b01c4b/nld@2026-06-18;14171883",
+    "beginGeldigheid": "2026-06-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0826_2026_Regeling7f51a2367d5540e0a6bdc41716b01c4b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:10Z"
+  }
+]

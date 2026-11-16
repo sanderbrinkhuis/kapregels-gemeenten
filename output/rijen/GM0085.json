@@ -1,0 +1,78 @@
+{
+ "provincie": "Fryslân",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen bomenlijst; regime op omvang/leeftijd, niet op een lijst",
+ "status": "ok",
+ "gm_code": "GM0085",
+ "gemeente": "Ooststellingwerf",
+ "brondocument": "Algemene plaatselijke verordening 2025 van Ooststellingwerf (CVDR746351_1), afdeling 4.3 Het bewaren van houtopstanden; Omgevingsplan (CVDR696175_7) art. 21.34-21.35 en 22.299; Leges 2026 (CVDR752457_3) art. 2.30",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR746351/1",
+ "datum_geldigheid": "Geldend vanaf 2026-01-01 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2026-01-01 (inwerkingtreding APV 2025, CVDR746351_1); omgevingsplan laatste versie 2026-10-13 (CVDR696175_7)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.30 (art. 4:11 APV in samenhang met art. 22.8 Ow) en WED-aanwijzing in APV art. 6:1 lid 2; aanvullend omgevingsplan art. 21.34 (aanlegvergunning vellen in functie Agrarisch).",
+ "praktijkcontrole": "55 bekendmakingen sinds 2025 (40 besluiten, 1 aanvraag, 0 geweigerd volgens titel); in de steekproef van 10 noemt geen enkel besluit een kapgrondslag. Geen conclusie over kapbesluiten mogelijk.",
+ "vergunningplicht": "vergunning (van het college)",
+ "drempel": "Stamomtrek van minimaal 160 cm (wilg of populier: 320 cm), of leeftijd van minimaal 80 jaar, of bijzondere/geregistreerde/herplant-bomen (art. 4:11 lid 1). In de functie Agrarisch (omgevingsplan) elke houtopstand.",
+ "omtrek_cm": 160,
+ "meethoogte": "1,3 m boven maaiveld (art. 4:10 onder j)",
+ "reikwijdte": "Hele gemeente, geen onderscheid tussen binnen en buiten bebouwde kom, geen tuinuitzondering: \"een houtopstand te vellen of te doen vellen als deze: a. een leeftijd van minimaal 80 jaar heeft; of b. voor een wilg of populier een stamomtrek van minimaal 320 centimeter of voor overige soorten een stamomtrek van 160 centimeter heeft\" enz. Plus omgevingsplan art. 21.34: in H21 Agrarisch verbod zonder omgevingsvergunning \"het vellen en/of rooien van houtopstanden\".",
+ "uitzonderingen": "Spoed/direct gevaar via burgemeester (lid 4a); noodzakelijk periodiek onderhoud als beheermaatregel (lid 4b). In H21 Agrarisch: normaal onderhoud, dunning, verwijdering uit watergangen. Geen uitzondering voor tuinen of oppervlakte.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4:11 lid 3: \"De vergunning kan, naast het bepaalde in artikel 1:8 van deze verordening, worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; ... g. de dendrologische waarde van de houtopstand.\" Omgevingsplan art. 21.35 (alleen H21 Agrarisch): \"wordt alleen verleend als de activiteit geen afbreuk doet aan de in artikel 21.9 omschreven waarden\".",
+ "herplantplicht": "Art. 4:11b lid 1: \"Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herbeplant.\" Art. 4:11c lid 1: \"kan het college ... de verplichting opleggen te herplanten\".",
+ "herplant_ontsnapping": "Geen uitweg in de tekst: herplant is een bevoegdheid (\"kan\"), het college beslist; betalen in plaats van herplanten niet geregeld. Herplant na illegale kap: \"kan\" (art. 4:11c lid 1).",
+ "herplant_niet_nakomen": "Art. 4:11c bevat anders dan in andere APV's geen lid dat de opgelegde plicht verplicht stelt; wel art. 6:1 lid 1: \"Overtreding van het bij of krachtens deze verordening en de op grond van artikel 1:4 ... daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.\" Een herplantvoorschrift bij de vergunning is een voorschrift in de zin van art. 1:4.",
+ "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... 2:12, eerste lid en 4:11\"; lid 1 hechtenis tot drie maanden of geldboete tweede categorie. Geen bestuurlijke boete voor kap.",
+ "procedure": "Leges omgevingsplanactiviteit kappen: 102 euro (CVDR752457_3 art. 2.30). Beslistermijn APV art. 1:2 (acht weken, dossier toont de tekst; niet nader gelezen). Art. 4:11 lid 5: positieve fictieve beschikking niet van toepassing. Art. 4:11d: vergunning vervalt na één jaar zonder gebruik.",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "artikelnummers": [
+  "APV 2025 art. 4:10",
+  "4:11 lid 1-5",
+  "4:11a-e",
+  "6:1 lid 1-2",
+  "Leges art. 2.30",
+  "Omgevingsplan art. 21.34, 21.35, 22.299"
+ ],
+ "opmerkingen": [
+  "W2 (doorslaggevend, art. 4:11 lid 3): \"De vergunning kan, naast het bepaalde in artikel 1:8 van deze verordening, worden geweigerd op grond van: a. de natuurwaarde van de houtopstand\"; max W3 voor H21 Agrarisch (art. 21.35 \"alleen verleend als\").",
+  "H1 (art. 4:11b lid 1): \"kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herbeplant\". Subsidieregeling CVDR766074_1 art. 4.2 lid 2 noemt een \"herplantverplichting\" maar maakt herplant niet tot vast voorschrift.",
+  "D2: hele gemeente met hoge drempel (160 cm > 100) en daarnaast aangewezen gebied H21 Agrarisch zonder drempel (aangewezen gebieden = D2). De regel \"leeftijd van minimaal 80 jaar\" kan kleinere bomen raken; leeftijd is lastig toetsbaar en niet in omtrek omgerekend.",
+  "Boom A (80 cm) en B (40 cm) < 160 cm: nee, tenzij de boom 80 jaar of ouder is, bijzonder geplant of geregistreerd. In de functie Agrarisch zou elke boom vergunningplichtig zijn; voorbeeldbomen staan in een achtertuin in de kom.",
+  "Geen bomenlijst; wel verwijzing naar het Landelijk Register van Monumentale Bomen (art. 4:11 lid 1 onder d). Definitie van 'tuin' en 'bebouwde kom' voor deze afdeling ontbreekt (leden 'niet opgenomen').",
+  "Omgevingsplan: kaart/functie H21 Agrarisch niet geraadpleegd in het DSO; oppervlak onbekend."
+ ],
+ "modelsignalen": [
+  "Leeftijdscriterium (80 jaar) en omtrekdrempel naast elkaar: het model scoort alleen op omtrek.",
+  "Aanlegvergunning voor alle houtopstanden in een bestemmingsfunctie (H21 Agrarisch) zonder drempel: valt onder 'aangewezen gebieden' D2, maar omvang onbekend."
+ ],
+ "ontbrekend": "Omgevingsplankaart (functie Agrarisch) in DSO niet geraadpleegd; geen handhavingsbeleid op gemeentelijke site gecontroleerd."
+}

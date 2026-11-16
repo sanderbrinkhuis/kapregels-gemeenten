@@ -1,0 +1,30 @@
+{
+  "gemeente": "Hengelo (O.)",
+  "gm_code": "GM0164",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Hengelo",
+  "zoeknaam_bekendmakingen": "Hengelo",
+  "opgehaald_op": "2026-11-14T21:47:55+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hengelo\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 63,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hengelo\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 164,
+  "geldende_regelingen": 20,
+  "geldend_met_kapartikelen": [
+    "CVDR386122_1",
+    "CVDR614203_1",
+    "CVDR665446_6",
+    "CVDR695067_1",
+    "CVDR695461_1",
+    "CVDR696201_2",
+    "CVDR722924_1",
+    "CVDR747304_2"
+  ],
+  "bekendmakingen_besluiten": 78,
+  "bekendmakingen_aanvragen": 85,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

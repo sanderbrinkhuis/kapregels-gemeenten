@@ -1,0 +1,74 @@
+{
+ "gm_code": "GM0748",
+ "gemeente": "Bergen op Zoom",
+ "provincie": "Noord-Brabant",
+ "brondocument": "Houtopstandverordening Bergen op Zoom 2011 (CVDR114379_1), art. 1, 2, 5, 6, 7, 9; Legesverordening Bergen op Zoom 2026 (CVDR749493_2) art. 2.29; Omgevingsplan (CVDR696393_3) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR114379/1",
+ "datum_geldigheid": "CVDR114379_1 geldend van 2011-04-18 t/m heden (peildatum 2026-11-15)",
+ "laatste_wijziging": "Metadata CVDR114379: gewijzigd 2017-05-09 (enige versie). Legesverordening 2026 (CVDR749493_2) geldend per 2026-04-03.",
+ "juridische_plaats": "Losse verordening (Houtopstandverordening 2011). Werkt als omgevingsplanactiviteit: legesverordening art. 2.29 noemt 'het vellen van een houtopstand, bedoeld in artikel 5 van de Houtopstandverordening Bergen op Zoom 2011 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. De APV (CVDR748908_2) bevat geen kapregel (geen treffer op 'houtopstand', 'bomen' of 'kappen').",
+ "praktijkcontrole": "Sinds 2025: 56 bekendmakingen op titel, 21 besluiten, 23 aanvragen, 1 weigering (gmb-2025-304548, 'het kappen van vier bomen'). Er zijn ook verleende en ingetrokken kapvergunningen voor 1 boom of enkele bomen (o.a. gmb-2025-159830, gmb-2026-197633). Geen grondslag genoemd. Een aantal vergunningen voor gewone bomen past niet vanzelf bij een regeling met alleen een lijst van monumentale houtopstanden; mogelijk gaan ze over bomen op de lijst of over regels in het omgevingsplan (niet vast te stellen).",
+ "vergunningplicht": "Omgevingsvergunning (art. 5 lid 1) voor het vellen van monumentale houtopstanden op de lijst; voor andere bomen geen vergunningplicht in de verordening.",
+ "drempel": "Geen omvangdrempel voor lijstbomen. De definitie 'houtopstand' (art. 1 onder a) noemt 30 cm dwarsdoorsnede op 130 cm, maar het verbod (art. 5) geldt alleen voor de monumentale houtopstanden op de lijst.",
+ "omtrek_cm": null,
+ "meethoogte": "130 cm (alleen in de definitie van houtopstand; niet van toepassing op het verbod)",
+ "reikwijdte": "Alleen individueel aangewezen bomen: de lijst van monumentale houtopstanden (art. 2 lid 1). Hele grondgebied, publiek en privaat; de lijst vermeldt 'de eigenaar en/of zakelijk gerechtigde' (art. 2 lid 2), dus particuliere eigenaren zijn mogelijk. De lijst is niet ingezien.",
+ "uitzonderingen": "Art. 5 lid 2: niet voor een houtopstand die moet worden geveld krachtens de Plantenziektewet of een aanschrijving of last (gangbare uitzondering). Art. 6 lid 4: toestemming tot direct vellen bij grote gevaarzetting of spoed.",
+ "weigeringsgronden": "Art. 6 lid 2: 'Een omgevingsvergunning wordt geweigerd als het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van de houtopstand:' natuur- en milieuwaarden, uniekheid genbestand, landschappelijke, cultuurhistorische, stads- en dorpsschoon, recreatie en leefbaarheid, beeldbepalende waarden, houtopstandwaarde.",
+ "herplantplicht": "Geen herplant- of compensatieplicht in de verordening. Art. 7 onder 1 noemt alleen het voorschrift 'dat de te vellen houtopstand binnen een bepaalde termijn of overeenkomstig door het bevoegd gezag te geven aanwijzingen moet worden verplant'. Verplanten is geen herplanten. Er is geen beleidsregel over herplant of compensatie gevonden.",
+ "herplant_ontsnapping": "geen (er is geen herplantgrondslag)",
+ "herplant_type": "geen grondslag",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets specifieks geregeld over herplant. Art. 9 (strafbepaling): 'Overtreding van het bij of krachtens deze verordening bepaalde kan worden gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.'",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Eigen strafbepaling: art. 9 (hechtenis tot twee maanden of geldboete tweede categorie, openbaarmaking van de uitspraak). Daarnaast WED via de Omgevingswet (Ow 5.1, omgevingsplanactiviteit, zie legesverordening art. 2.29). Geen bestuurlijke boete. Geen herplant na illegale kap.",
+ "procedure": "Leges: art. 2.29 legesverordening 2026, EUR 262,70 voor het vellen van een houtopstand als bedoeld in art. 5 van de verordening. Bezwaar en beroep volgens de Awb; beslistermijn niet apart gevonden. Aanvraagvereisten: omgevingsplan art. 22.299.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de lijst van monumentale houtopstanden (art. 2 lid 1) staat niet in CVDR; de gemeentelijke pagina 'Bomen kappen' (bergenopzoom.nl/bomen-kappen, 2026-11-15) verwijst naar de verordening maar bevat geen bruikbare lijst",
+ "status": "ok",
+ "ontbrekend": "Lijst van monumentale houtopstanden niet gevonden: onbekend hoeveel bomen erop staan en of er particuliere bomen bij zijn. Omgevingsplan in het DSO niet ingezien (bestemmingsplanregels over bomen kunnen daar als tijdelijk deel gelden; niet vast te stellen). Geen beleidsregel over herplant of handhaving gevonden.",
+ "artikelnummers": [
+  "Houtopstandverordening 2011 art. 1, 2, 3, 4, 5, 6, 7, 9 (CVDR114379_1)",
+  "Legesverordening 2026 art. 2.29 (CVDR749493_2)",
+  "Omgevingsplan art. 22.299 (CVDR696393_3)"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus de puntschatting is D1 en het bereik loopt vanaf D0 (INTENT, ONZEKERHEID).",
+  "W2: 'Een omgevingsvergunning wordt geweigerd als het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van de houtopstand:' (art. 6 lid 2), met de gebruikelijke waarden: W2 zonder bereik (besluit 14-11-2026, na Utrecht).",
+  "H0: art. 7 onder 1 gaat over verplanten ('moet worden verplant'), niet over herplant of compensatie; geen beleidsregel gevonden.",
+  "S1: eigen strafbepaling art. 9; WED via Ow 5.1 volgt uit de legesverordening art. 2.29 (vellen in samenhang met art. 22.8 Ow).",
+  "De gemeentelijke website (geen primaire bron, niet als bewijs gebruikt) zegt dat er sinds 2004 geen kapvergunningen meer zijn en dat kap wordt gemeld; dat staat haaks op de verordening 2011 en de bekendmakingen sinds 2025 (verleende, ingetrokken en 1 geweigerde omgevingsvergunning). De verordening is gescoord.",
+  "Dossier is klein: de APV (CVDR748908_2, geldend sinds 2026-02-03) is zelf opgehaald en gecontroleerd; die bevat geen kapregel."
+ ],
+ "modelsignalen": [
+  "Bergen op Zoom heeft alleen een lijst van monumentale houtopstanden (D1), maar de bekendmakingen sinds 2025 tonen veel vergunningen en 1 weigering voor kap van gewone bomen. Het model kan niet vangen dat kapregels mogelijk in bestemmingsplanregels (tijdelijk deel omgevingsplan) staan die niet zijn gelezen."
+ ]
+}

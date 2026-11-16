@@ -1,0 +1,82 @@
+{
+ "provincie": "Overijssel",
+ "gm_code": "GM0189",
+ "gemeente": "Wierden",
+ "brondocument": "Bomenverordening 2018 Gemeente Wierden (art. 1-7); Beleidsregels ter bescherming van bomen en landschap gemeente Wierden 2018 (regel 1-12); APV Wierden 2021 afd. 4.3 (verwijst naar de Bomenverordening); Legesverordening 2026 art. 2.30; Omgevingsplan gemeente Wierden art. 21.34 en 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR610001/1 ; https://lokaleregelgeving.overheid.nl/CVDR610023/1 ; https://lokaleregelgeving.overheid.nl/CVDR714305/1 ; https://lokaleregelgeving.overheid.nl/CVDR749921/1 ; https://lokaleregelgeving.overheid.nl/CVDR696212/6",
+ "datum_geldigheid": "Bomenverordening CVDR610001_1 geldend vanaf 2018-03-14 t/m heden; beleidsregels CVDR610023_1 geldend vanaf 2018-03-14 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "Bomenverordening: geen wijzigingsversie; CVDR-metadata 'modified' 2019-01-15 (tekst art. 1-9 ongewijzigd in het dossier). Beleidsregels: versie 1 per 2018-03-14 (modified 2018-05-11). Legesverordening CVDR749921_1 per 2025-12-18.",
+ "juridische_plaats": "Bomenverordening (losse verordening, CVDR610001_1, 'Omgevingswet-regeling: nee'); de APV (art. 4:10-4:12) verwijst door: 'Dit is geregeld in de gemeentelijke Bomenverordening'. Werkt als omgevingsplanactiviteit volgens legesverordening 2026 art. 2.30 (met foute verwijzing naar 'Bomenverordening 2019'). Omgevingsplan art. 22.299 bevat aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 110 bekendmakingen (zoekmethode volledige tekst, dus ook niet-kapbesluiten mogelijk), waarvan 45 besluiten en 57 aanvragen; 0 weigeringen volgens de titel. De 10 steekproefbesluiten ('Kennisgeving besluit op aanvraag omgevingsvergunning') noemen geen grondslag over kap; de titels zeggen niet dat het om kap gaat. Weinig bruikbaar als indicatie.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van een houtopstand (art. 2 lid 1), met brede vrijstellingen (art. 3).",
+ "drempel": "Stamdiameter 40 cm op 130 cm hoogte (art. 3 lid 5: 'één of meerdere bomen, niet behorend tot een landschapselement, met een stamdiameter tot 40 centimeter gemeten op 130 centimeter hoogte vanaf het maaiveld' zijn vrijgesteld). Het VTH-beleidsplan 2022-2025 noemt 30 cm.",
+ "omtrek_cm": 125.6,
+ "meethoogte": "130 cm boven het maaiveld",
+ "reikwijdte": "Hele gemeente, particulier en openbaar: 'houtopstand' = 'een boom, bos, of een landschapselement' (art. 1 onder f). Bomen: alleen vanaf 40 cm diameter. Landschapselementen ('gelegen buiten de bebouwde kom', zoals bomenrijen, singels, houtwallen): geen diameterdrempel. Vrijgesteld zijn o.a. bos, bestemmingen verkeer/recreatie/sport/natuur/water.",
+ "uitzonderingen": "Art. 3: coniferen, fruitbomen, wilgen en populieren (behalve boomgaard, knotwilgen, grove den); 'kavel waarop een woonhuis staat en waarvan de oppervlakte van het kadastrale perceel minder dan 500m2 bedraagt' (ruime perceeluitzondering, D-correctie -1); bomen tot 40 cm diameter (niet in landschapselement); bestendig beheer en dunnen (tot 40 cm); vellen ter uitvoering van een vastgesteld ruimtelijk plan of groenplan; noodkap bij aantoonbaar gevaar.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem. Beleidsregel 8: bij de beleidsregels horen kaarten met beschermde landschapselementen/bomen, maar die zijn 'slechts ter informatie'; niet ingezien.",
+ "weigeringsgronden": "Art. 4 lid 1: 'Een vergunning kan worden verleend indien de aanvraag voldoende is gemotiveerd, en:' a. een deskundige heeft aangetoond dat de boom gevaarlijk is, binnen 10 jaar geveld moet worden of dat een verkeersgevaarlijke situatie ontstaat; b. 'de belangen van de aanvrager zwaarder wegen dan de beeldbepalende-, landschappelijke- en/of cultuurhistorische waarden' en er geen gelijkwaardige alternatieven zijn. Beleidsregel 1: overlast door blad, schaduw e.d. 'worden afgewezen'; regel 2: bomen vanaf 40 cm die licht wegnemen van zonnepanelen 'worden in principe niet verwijderd'.",
+ "herplantplicht": "Art. 5: 'Tot de aan de vergunning te verbinden voorschriften kunnen behoren: a. het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzing moet worden herplant en/of gecompenseerd'; b. een 'geldelijke bijdrage' in een fonds voor landschappelijke projecten. Beleidsregel 7: 'Herplant of compensatie vindt plaats waar dit mogelijk en landschappelijk gewenst is.' en 'In principe geldt daarbij het uitgangspunt dat een boom wordt herplant door een boom'; de omvang volgt uit een vervangingstabel (bijv. 1 boom wordt 2 bomen).",
+ "herplant_ontsnapping": "Verordening: 'kunnen behoren' (bevoegdheid), het bevoegd gezag bepaalt per vergunning de aanwijzing; 'herplant en/of gecompenseerd' en een geldelijke bijdrage als alternatief. Beleid: 'waar dit mogelijk en landschappelijk gewenst is', 'In principe', en regel 12 (hardheidsclausule): 'Het bevoegd gezag kan gemotiveerd afwijken van deze beleidsregels.'",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 6 lid 2: 'Het bevoegd gezag kan het bovenstaande lid ook van toepassing verklaren in het geval er niet aan de voorschriften, zoals bedoeld in artikel 5 van deze verordening, is voldaan.' Lid 1 geeft dan de bevoegdheid om te verplichten de waarden 'te herstellen overeenkomstig de door hen te geven aanwijzingen binnen een door het bevoegd gezag te stellen termijn'. Een strafbepaling of boete voor het niet nakomen staat niet in de verordening; alleen het algemene instrumentarium (bestuursdwang, dwangsom).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Geen eigen strafbepaling en geen bestuurlijke boete in de Bomenverordening. WED via de Omgevingswet: legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit ('bedoeld in de Algemene plaatselijke verordening of artikel 2 van de Bomenverordening 2019 gemeente Wierden in samenhang met artikel 22.8 van de Omgevingswet'); de verwijzing naar 'Bomenverordening 2019' is fout (de geldende verordening is van 2018). Herplant/herstel na illegale kap: art. 6 lid 1 'kan ... de verplichting opleggen'.",
+ "procedure": "Leges € 56,05 (Legesverordening 2026 art. 2.30, CVDR749921_1). APV art. 1:2 lid 3: beslistermijn niet van toepassing op een omgevingsvergunning. Bezwaar en beroep volgens de Awb (niet apart geregeld). Beleidsregel 5: taxatie door NVTB-bedrijf bij bomen groter dan 40 cm.",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan (tijdelijk deel, DSO) niet ingezien (wacht op DSO-key); beschermingskaarten bij de beleidsregels niet ingezien; vervangingstabel is in de bron onvolledig leesbaar. De bereiken komen uit de interpretatie van de weigeringsgronden (W), regel 7 van de beleidsregels (H) en de drempelstrijd 30/40 cm (D).",
+ "artikelnummers": [
+  "Bomenverordening 2018 art. 1, 2, 3, 4, 5, 6",
+  "Beleidsregels 2018 regel 1, 2, 4, 7, 12",
+  "APV 4:10-4:12 (verwijzing)",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 21.34, 22.299",
+  "VTH-beleidsplan 2022-2025 (par. Vellen van een houtopstand)"
+ ],
+ "opmerkingen": [
+  "D2 (1-2): binnen de kom gelden voor bomen een drempel van 40 cm diameter (ca. 126 cm omtrek, D2) en de perceeluitzondering 'minder dan 500m2' voor woonhuiskavels plus de soortuitzondering voor 'coniferen, fruitbomen, wilg(en) en populier(en)': D2 min 1 = D1. Landschapselementen buiten de kom zijn zonder drempel beschermd (aangewezen structuren, D2) en worden niet door de perceeluitzondering weggenomen; hoogste deel = D2. Min 1 omdat de omvang van de landschapselementen niet is vastgesteld.",
+  "W3 (2-3), doorslaggevend art. 4 lid 1: 'Een vergunning kan worden verleend indien de aanvraag voldoende is gemotiveerd, en:' gevaar/vitaliteit of 'de belangen van de aanvrager zwaarder wegen dan de beeldbepalende-, landschappelijke- en/of cultuurhistorische waarden'. Beleidsregel 1: 'worden afgewezen wanneer deze overlast bestaat uit'; regel 4: 'In beginsel wordt er geen vergunning verstrekt' (bij bouwwerken). Dit is een weigeren-tenzij-stelsel; min W2 omdat de tekst 'kan worden verleend' ook als belangenafweging gelezen kan worden.",
+  "H1 (1-2), art. 5: 'Tot de aan de vergunning te verbinden voorschriften kunnen behoren: a. het voorschrift dat ... moet worden herplant en/of gecompenseerd'. Beleidsregel 7 ('Herplant of compensatie vindt plaats waar dit mogelijk en landschappelijk gewenst is'; 'In principe geldt daarbij het uitgangspunt') is een per-geval-uitgangspunt en maakt herplant geen vast voorschrift (besluit 14-11-2026); maximum H2 bij strengere lezing.",
+  "S1 zonder bereik: WED via de Omgevingswet (legesverordening art. 2.30 met foute verwijzing naar 'Bomenverordening 2019'); geen bestuurlijke boete, geen eigen strafbepaling.",
+  "Omgevingsplan art. 21.34 ('Het is verboden zonder omgevingsvergunning een houtopstand te vellen, zoals het kappen van een of meer bomen.') staat in Afdeling 21.1.6 en hoort bij de locatie 'Wijziging De Weustevijver' (art. 21.1 lid 1). Dat is een kleine gebiedsregel en telt niet mee voor D.",
+  "Strijdige drempel in het VTH-beleidsplan 2022-2025 (CVDR677743_1): 'In Wierden geldt alleen een vergunningplicht voor bomen met een diameter van meer dan 30 centimeter.' De verordening zelf zegt 40 cm; de verordening is gescoord. Bij 30 cm (ca. 94 cm omtrek) zou D3 min 1 = D2 blijven, dus binnen het bereik.",
+  "Beleidsregels art. 2 lid 2 Bomenverordening: het college stelt beleidsregels vast over de waarden, criteria en voorschriften; die zijn CVDR610023_1. Groenvisie 2025-2033 (CVDR759140_1) zegt dat voor particuliere bomen 'het vergunningenstelsel van toepassing' is en legt het principe 'nee - tenzij' en compensatie vast voor bomen in de openbare ruimte (gemeentebomen); telt niet mee.",
+  "Boom A (80 cm omtrek, ca. 25 cm) en B (40 cm, ca. 13 cm): beide onder de drempel van 40 cm diameter en bovendien op een woonhuiskavel kleiner dan 500 m2: geen vergunning nodig.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+ ],
+ "modelsignalen": [
+  "Een verordening die bomen pas vanaf 40 cm diameter beschermt, maar landschapselementen buiten de kom zonder drempel: het model laat deze structuurbescherming meetellen als D2, terwijl gewone tuinbomen vrij zijn. Het model onderscheidt niet hoeveel van de gemeente zo'n structuurregel dekt.",
+  "Een formulering 'Een vergunning kan worden verleend indien ...' met een korte lijst van verleningsgronden valt tussen W2 (belangenafweging) en W3 (weigeren tenzij). Het model geeft geen regel voor deze omgekeerde formulering.",
+  "Strijd tussen een beleidsplan (30 cm) en de verordening (40 cm) over de drempel: het model zegt niet welk stuk voorgaat; hier de verordening."
+ ]
+}

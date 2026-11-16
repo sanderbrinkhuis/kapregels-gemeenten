@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0736/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente De Ronde Venen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0736/2020/omgevingsplan/nld@2025-03-20;bf377664be0040f5b0cbb799e6d8364d",
+    "beginGeldigheid": "2025-03-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0736_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:14Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0736/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente De Ronde Venen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0736/2020/omgevingsvisie/nld@2026-03-03;f6d5ce9179e84948bde6558602b173de",
+    "beginGeldigheid": "2026-03-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0736_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:14Z"
+  }
+]

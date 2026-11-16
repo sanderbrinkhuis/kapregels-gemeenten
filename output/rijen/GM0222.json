@@ -1,0 +1,86 @@
+{
+  "gm_code": "GM0222",
+  "gemeente": "Doetinchem",
+  "provincie": "Gelderland",
+  "brondocument": "Bomenverordening gemeente Doetinchem 2024 (CVDR702560_1), art. 1, 2, 4, 7, 8, 11; Verordening op de heffing en de invordering van leges 2026 (CVDR752544_1), art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR702560/1",
+  "datum_geldigheid": "2024-01-01 t/m heden (peildatum 2026-11-15)",
+  "laatste_wijziging": "Geen wijziging sinds vaststelling (raadsvergadering 26-10-2023, CVDR-versie 1, in werking 2024-01-01)",
+  "juridische_plaats": "Losse bomenverordening; werkt als omgevingsplanactiviteit volgens de legesverordening art. 2.30 ('in samenhang met artikel 22.8 van de Omgevingswet'). APV afdeling 4.3 (houtopstanden) is '[Gereserveerd]'.",
+  "praktijkcontrole": "Bekendmakingen sinds 2025 (titelzoekmethode): 277 totaal, 132 besluiten, 127 aanvragen, 4 weigeringen volgens titel. Veel besluiten voor kap van een enkele boom (o.a. gmb-2026-464249, gmb-2026-522113) en voor groepen bomen (gmb-2026-483815: 148 bomen). Weigering o.a. gmb-2026-206464. Geen grondslag in de besluiten genoemd; de teksten zeggen niet of de bomen particulier zijn of hoe groot ze zijn. Het aantal enkelvoudige kapbesluiten is hoog voor een drempel van 120 cm; niet vast te stellen of het gaat om gemeentelijke bomen (drempel 60 cm), bijzondere bomen of grote particuliere bomen.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor de activiteit kappen), art. 2 lid 1",
+  "drempel": "Niet openbare houtopstand (particulier eigendom): stamomtrek van 120 cm of meer op 130 cm (art. 2 lid 1 onder b). Openbare houtopstand: 60 cm of meer (onder a). Daarnaast: houtopstand met een grotere oppervlakte dan 1000 m2 binnen de bebouwde kom (onder c) en bijzondere bomenlijst (onder d).",
+  "omtrek_cm": 120,
+  "meethoogte": "1,30 m (130 cm boven het maaiveld)",
+  "reikwijdte": "Hele grondgebied, openbaar en particulier; geen onderscheid binnen of buiten de bebouwde kom voor de omtrekdrempel. Art. 2 lid 1 onder c: 'een houtopstand te vellen met een grotere oppervlakte dan 1000 m2 binnen de bebouwde kom'. Daarnaast de lijst met bijzondere bomen (art. 11).",
+  "uitzonderingen": "Art. 2 lid 2: Plantgezondheidswet of aanschrijving; grote gevaarzetting of spoedeisend belang; periodiek vellen van hakhout; dunning en regulier onderhoud; periodiek knotten; 'populieren en wilgen als wegbeplantingen en éénrijige beplantingen op of langs landbouwgronden, tenzij dit knotbomen zijn'; bedrijfseconomisch geëxploiteerde houtopstanden; houtopstanden waarop de Omgevingswet (aanvullingsspoor Natuur) van toepassing is. Geen tuin-, erf-, soort- of oppervlakte-uitzondering voor gewone tuinbomen; geen correctie.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4 lid 1: 'Vergunning voor het vellen van een houtopstand als bedoeld in artikel 2, eerste lid, wordt geweigerd in het belang van onder meer: a. natuur- en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads- en dorpsschoon; e. waarden voor recreatie en leefbaarheid.' Lid 2: 'Het college kan de boomwaarde als motivering hanteren bij het weigeren of onder voorschriften verlenen van een vergunning.' Lid 3 (bijzondere bomen): 'wordt geweigerd ... tenzij er sprake is van een zwaarwegend maatschappelijk belang, grote gevaarzetting of spoedeisend belang van openbare orde.'",
+  "herplantplicht": "Art. 7 lid 1: 'Bij een vergunning kan worden voorgeschreven dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Art. 7 lid 3: 'Als herplanting niet mogelijk is, kan bij de vergunning worden voorgeschreven dat het bedrag van de boomwaarde in het bomenfonds dient te worden gestort voor de aanplant van bomen.' Art. 8 lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag aan de rechthebbende de verplichting opleggen te herplanten'.",
+  "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan worden voorgeschreven'), het college beslist per geval. Betaling van de boomwaarde in het bomenfonds kan alleen worden voorgeschreven als herplanting niet mogelijk is (art. 7 lid 3, 'kan').",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets specifieks geregeld: de verordening bevat geen strafbepaling (art. 15 is 'Vervallen'; art. 16 'Toezichthouders') en geen bestuurlijke boete. APV art. 6:1 noemt afdeling 3 houtopstanden niet (afdeling is '[Gereserveerd]'). Alleen het algemene instrumentarium (bestuursdwang of dwangsom); een opgelegde herplantplicht (art. 8 lid 1) is wel verplicht.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Geen eigen strafbepaling of bestuurlijke boete in de Bomenverordening (art. 15 'Vervallen'). WED via de Omgevingswet (omgevingsplanactiviteit, Ow 5.1 lid 1 onder a): legesverordening art. 2.30 noemt het vellen 'bedoeld in artikel 2 van de Bomenverordening gemeente Doetinchem 2024 in samenhang met artikel 22.8 van de Omgevingswet'. Herplantverplichting na vellen zonder vergunning mogelijk (art. 8 lid 1, 'kan'). S = 1.",
+  "procedure": "Leges: €315,30 voor een omgevingsplanactiviteit kappen (legesverordening 2026, art. 2.30). Publicatie: art. 5, besluit tot verlening of weigering 'digitaal bekend gemaakt op officielebekendmakingen.nl'. Vergunning vervalt als niet binnen 2 jaar na het onherroepelijk worden gebruik is gemaakt (art. 6). Bezwaar, beroep en beslistermijn: niet in de verordening geregeld (Awb).",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst bijzondere bomen (art. 11) niet ingezien; niet nodig voor D omdat het breedste regime (hele gemeente, 120 cm) D bepaalt.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "De 'notitie Beleidsregels Bomenverordening gemeente Doetinchem' (genoemd in de toelichting bij art. 4 en 5) staat niet als regeling in CVDR en niet in het dossier; daarom W max 3 en H max 2. De lijst met bijzondere bomen is niet ingezien (heeft geen invloed op D). Gemeentelijke website en DSO niet bekeken.",
+  "artikelnummers": [
+    "Bomenverordening art. 1 lid 1 onder a, c, d, e",
+    "art. 2 lid 1 en 2",
+    "art. 4 lid 1-3",
+    "art. 7 lid 1-3",
+    "art. 8 lid 1-2",
+    "art. 11",
+    "art. 15 (vervallen)",
+    "art. 16",
+    "Legesverordening 2026 art. 2.30",
+    "APV 2016 afd. 3 hoofdstuk 4 ('[Gereserveerd]'), art. 6:1",
+    "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D = 2: art. 2 lid 1 onder b: 'een niet openbare houtopstand te vellen met een stamomtrek van 120 cm of meer, gemeten op 130 cm boven het maaiveld'. Hele grondgebied, omtrek > 100 cm. Het breedste regime bepaalt D; de lijst bijzondere bomen (onder d) en de oppervlakteregel van 1000 m2 binnen de bebouwde kom (onder c) maken D niet hoger. Boom A (80 cm) en boom B (40 cm) vallen onder de drempel van 120 cm; een perceel van ca. 300 m2 komt niet aan 1000 m2.",
+    "Drempel openbaar: 60 cm omtrek (art. 2 lid 1 onder a); voor het perceel van een burger telt 120 cm (model: drempel per soort eigenaar).",
+    "W = 2: weigeringsgronden in art. 4 lid 1 zijn natuur-, landschaps-, cultuurhistorische, stads- en dorpsschoon- en leefbaarheidswaarden: 'wordt geweigerd in het belang van onder meer'. Max 3 omdat de notitie 'Beleidsregels Bomenverordening' (waarderingscriteria) niet is ingezien.",
+    "H = 1: 'Bij een vergunning kan worden voorgeschreven dat binnen een bepaalde termijn ... moet worden herplant.' Art. 7 lid 3 (boomwaarde storten in bomenfonds) is een 'kan' en telt niet voor H = 3. Subsidieregeling water en groen (CVDR714709_2) definieert 'Herplantplicht' alleen voor subsidie en geeft geen herplantgrondslag. Max 2 vanwege de niet ingeziene beleidsnotitie.",
+    "S = 1 zonder bereik: het vellen is in de legesverordening een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (bewijs omgevingsplanroute, WED via Ow 5.1). Geen foutieve verwijzing aangetroffen. Geen bestuurlijke boete.",
+    "Juridische plaats: Bomenverordening 2024 werkt als omgevingsplanregel; het omgevingsplan (CVDR696221_6) bevat alleen aanvraagvereisten (art. 22.299) en het begrip bijzondere boom (afd. 4.2.2, gebied 'bijzondere boom'); 'bebouwingscontour houtkap' is gedefinieerd (art. 1 lid 1 onder h) maar wordt in art. 2 niet gebruikt. Kleine gebiedsregels (gebied bijzondere boom) tellen niet voor D.",
+    "Boom: omtrek minimaal 30 cm op 1,30 m (art. 1 lid 1 onder a); herplant- of instandhoudingsvoorschriften zijn ook mogelijk voor kleinere bomen.",
+    "Praktijk: het hoge aantal kapbesluiten voor enkele bomen past niet vanzelf bij 120 cm als drempel voor particuliere bomen; de bekendmakingen noemen geen omvang, eigendom of grondslag. Dit is een indicatie, geen bewijs voor een ander regime.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: geen aanvullende kapregel voor particuliere bomen. Art. 4.86-4.91 (afdeling 4.2.2 Bijzondere boom: 'De afdeling 4.2.2 gaat over bijzondere bomen.') is een kleine gebiedsregel en telt niet voor D. Art. 4.21, 4.34, 4.50, 4.67 (gasleiding, hoogspanning, riool, waterkering), 4.98 (landschappelijke waarden: bebossen) en 4.110 (molenbiotoop) hebben een ander doel. Art. 8.3 (vergunningplicht onder meer voor 'Het vellen van beplantingen' bij functies in hoofdstuk 8) noemt in het uittreksel geen functie; omdat niet blijkt dat het gewone woonpercelen dekt, is dit niet meegeteld (open punt). Art. 22.297 en 22.299 zijn alleen aanvraagvereisten."
+  ],
+  "modelsignalen": [
+    "Gemeente met twee drempels (openbaar 60 cm, particulier 120 cm) en een oppervlakteregel (1000 m2 binnen de kom): het model scoort op de drempel voor het perceel van een burger. De oppervlakteregel voor houtopstanden in de bebouwde kom kan voor grotere particuliere percelen wel gelden maar valt buiten de voorbeeldbomen.",
+    "Verordening noemt een beleidsnotitie als uitwerking van de weigeringsgronden, die niet in CVDR staat: het model kent geen regel voor beleid dat wel wordt genoemd maar niet gepubliceerd is; hier opgelost met een bereik."
+  ]
+}

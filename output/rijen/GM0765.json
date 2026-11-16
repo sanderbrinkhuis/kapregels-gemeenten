@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0765",
+  "gemeente": "Pekela",
+  "provincie": "Groningen",
+  "brondocument": "Verordening Fysieke Leefomgeving Pekela 2025 (VFL), hoofdstuk 2 afdeling 3 'Het bewaren van houtopstanden'; Algemene plaatselijke verordening Pekela 2026 bevat geen kapregel",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR743494/1",
+  "datum_geldigheid": "geldend van 2025-08-25 t/m heden (CVDR743494_1; peildatum 2026-11-14)",
+  "laatste_wijziging": "2025-08-25 (versie 1; de VFL 2024 is vervangen)",
+  "juridische_plaats": "VFL; werkt als omgevingsplanactiviteit (legesverordening 2026 tarief 2.30 noemt 'artikel 2:6 van de geldende Verordening Fysieke Leefomgeving Pekela in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 110 bekendmakingen met kapterm in de titel, 11 besluiten, 55 aanvragen, 10 geweigerd volgens titel (steekproef van 10: 9 geweigerd, 1 verleend; geen grondslagcitaat). Veel weigeringen wijst op een breed regime; past bij de VFL.",
+  "vergunningplicht": "Vergunning (verbod zonder vergunning, ontheffing alleen bij zwaarwegend algemeen maatschappelijk belang)",
+  "drempel": "diameter 20 cm op 130 cm hoogte (bomen met een diameter van minder dan 20 cm zijn vrijgesteld)",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,30 m (130 cm vanaf het maaiveld)",
+  "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar. Vergunningplicht voor het vellen van 'houtopstallen' (VFL art. 2:6 lid 1) behalve de uitzonderingen in lid 2.",
+  "uitzonderingen": "Art. 2:6 lid 2: alle hagen; bomen met een diameter < 20 cm; kweekgoed; periodiek knotten of leibomen; dunning in regulier onderhoud van een houtopstand van minimaal 50 m2 met stamtalreductie van maximaal 30%; fellen krachtens Plantenziektewet of aanschrijving of last van B&W. Geen ruime uitzondering voor tuinen, erven, fruitbomen of coniferen, dus geen D-correctie.",
+  "weigeringsgronden": "Art. 2:6 lid 3: 'Het college kan ontheffing verlenen van het in het eerste lid gestelde verbod indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstanden (en alternatieven voldoende zijn onderzocht)'. Hinder door wortelopdruk, licht, stuifmeel, blad- of vruchtval, zonnepanelen e.d. is 'in beginsel onvoldoende'. Verder ontheffing bij onverantwoord behoud naar boomdeskundige maatstaven, noodtoestand of andere uitzonderlijke situaties.",
+  "herplantplicht": "Art. 2:8 lid 1: 'Bij mogelijkheid tot herplanting op het perceel waar de boom gekapt is, behoort tot de vergunningvoorschriften dat binnen één jaar wordt herplant met een boomsoort van dezelfde orde grootte en met een minimale stamomtrek [...] van 12-14 cm.' Lid 1a: bij onmogelijkheid op eigen perceel 'wordt herplant op het dichtstbijzijnde perceel van de gemeente of op een ander aangewezen locatie'. Lid 2: verloren herplant moet binnen één jaar worden vervangen. Geen financiële compensatie. Na illegale kap (art. 2:9 lid 1) 'kan het college [...] de verplichting opleggen te herbeplanten'.",
+  "herplant_ontsnapping": "Geen echte uitweg: 'Bij mogelijkheid tot herplanting op het perceel' met als alternatief herplant op een gemeentelijk perceel of 'een ander aangewezen locatie' (art. 2:8 lid 1a). Beslissing door het college via vergunningvoorschriften. Na illegale kap alleen 'kan' (art. 2:9 lid 1).",
+  "sancties": "Eigen strafbepaling VFL art. 8:1 lid 1: overtreding van onder meer 2:6, 2:8 en 2:9 'gestraft met hechtenis van ten hoogste 3 maanden of een geldboete van de tweede categorie'. Art. 2:9 lid 1 zegt ook: 'Tevens wordt bij het vellen van een houtopstand zonder vergunning van het college een geldboete opgelegd. De hoogte van de boete wordt bepaald in artikel 8:1' (verwijst naar de strafbepaling, dus een strafrechtelijke boete, geen bestuurlijke boete). Herplantplicht na illegale kap mogelijk (art. 2:9). Geen eigen WED-aanwijzing in de VFL gelezen; WED via Ow 5.1 volgt uit de omgevingsplanactiviteit (leges 2.30).",
+  "procedure": "Leges (tarief 2.30, CVDR756134_1, 2026): EUR 81,50 voor 25 bomen of minder, EUR 602,92 voor meer dan 25 bomen; 50% teruggaaf bij weigering. Beslistermijn VFL art. 1:6: 8 weken, te verlengen met ten hoogste 6 weken. Vergunning pas bruikbaar als definitief (art. 2:8 lid 3). Publicatie van besluiten in het Gemeenteblad (zie bekendmakingen).",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "VFL art. 2:9 lid 3: 'Degene aan wie een verplichting als bedoeld in het eerste of tweede lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 8:1 lid 1 noemt 2:8 en 2:9 in de strafbepaling: 'hechtenis van ten hoogste 3 maanden of een geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing (geen lijstsysteem)",
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan in het DSO niet ingezien (alleen CVDR696397_2 art. 22.299, aanvraagvereisten). Gemeentelijke website niet geraadpleegd voor beleidsregels herplant of handhaving.",
+  "artikelnummers": [
+    "VFL 2025 art. 2:6 (verbod, uitzonderingen, ontheffing)",
+    "VFL art. 2:8 (herplant)",
+    "VFL art. 2:9 (herplant na illegale kap)",
+    "VFL art. 8:1 (strafbepaling)",
+    "VFL art. 1:6 (beslistermijn)",
+    "Leges 2026 tarief 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): art. 2:9 noemt een 'geldboete' (strafrechtelijk), geen bestuurlijke boete in de regeling → S1 zonder bereik.",
+    "W3: art. 2:6 lid 3 sub a: 'een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstanden'. Ontheffing is dus de uitzondering (weigeren tenzij).",
+    "H2: art. 2:8 lid 1: 'behoort tot de vergunningvoorschriften dat binnen één jaar wordt herplant'; bij onmogelijkheid op eigen perceel herplant elders. Geen beleidsregel gevonden die dit wijzigt.",
+    "D3: hele gemeente, diameter 20 cm x 3,14 = 62,8 cm omtrek (meethoogte 1,30 m). Boom A (80 cm omtrek, ca. 25 cm) is vergunningplichtig; boom B (40 cm omtrek, ca. 13 cm) niet.",
+    "APV Pekela 2026 (CVDR752597_1) bevat geen kapartikel; de legesverordening 2024 verwees nog naar APV 4:11 en 4:11a, de leges 2026 naar VFL art. 2:6. De APV 2025/2026 geeft alleen art. 2:48 (gevaar door houtopstand) en 6:1 (algemene strafbepaling).",
+    "Artikel 2:9 lid 1 noemt een 'geldboete' die 'wordt opgelegd'; de verwijzing naar art. 8:1 maakt aannemelijk dat dit de strafrechtelijke boete is, geen bestuurlijke boete. Daarom S1 met maximum 2.",
+    "Het bijgevoegde artikel 2:6 spreekt van 'houtopstallen' (waarschijnlijk tikfout voor houtopstanden)."
+  ],
+  "modelsignalen": [
+    "Art. 2:9 lid 1 ('wordt bij het vellen van een houtopstand zonder vergunning van het college een geldboete opgelegd', hoogte volgens strafbepaling) is dubbelzinnig tussen strafrechtelijke en bestuurlijke boete; het model kent alleen het onderscheid S1 versus S2."
+  ]
+}

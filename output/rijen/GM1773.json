@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1773",
+  "gemeente": "Olst-Wijhe",
+  "provincie": "Overijssel",
+  "brondocument": "Algemene plaatselijke verordening Olst-Wijhe (afdeling 4.3, art. 4:10, 4:11, 4.12b, 6:1); Uitvoerings- en handhavingsstrategie gemeente Olst-Wijhe (bijlage 2 Toezichtstrategie, 'Vellen houtopstand'); Legesverordening 2026 art. 2.13; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR735171/1 ; https://lokaleregelgeving.overheid.nl/CVDR757170/1 ; https://lokaleregelgeving.overheid.nl/CVDR752237/1 ; https://lokaleregelgeving.overheid.nl/CVDR696503/4",
+  "datum_geldigheid": "APV CVDR735171_1 geldend vanaf 2025-02-07 t/m heden; strategie CVDR757170_1 vanaf 2026-02-17 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV: versie 1 per 2025-02-07 (vorige versie CVDR718927_1 vervallen). Strategie: versie 1 per 2026-02-17.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: art. 6:1 lid 2 wijst art. 4:11 lid 1 aan voor WED art. 1a, en legesverordening 2026 art. 2.13 noemt 'het vellen van een houtopstand' een 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. Art. 6:6 verwijst naar een Bomenverordening (raad 3 december 2018) die niet in CVDR is gevonden.",
+  "praktijkcontrole": "Sinds 2025: 172 bekendmakingen op titel, 82 besluiten, 79 aanvragen, 4 geweigerd (volgens titel), 1 'Besluit vergunningsvrij'. Steekproef: vergunningen voor gewone bomen (beuk, es, esdoorn, kastanje) in Olst, Wijhe, Wesepe en Welsum. De steekproef noemt geen grondslag.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning): art. 4:11 lid 1 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen.'",
+  "drempel": "Binnen de bebouwde kom: art. 4:11 lid 2 sub j 'bomen binnen de bebouwde kom met een stamomtrek van minder dan 65 centimeter, gemeten op 1 meter hoogte, of een diameter van minder dan 20 centimeter' zijn uitgezonderd. Buiten de bebouwde kom: geen drempel.",
+  "omtrek_cm": 65,
+  "meethoogte": "1 m (afwijkend van 1,30 m; niet omgerekend)",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. Binnen de bebouwde kom (art. 1:1: grenzen volgens art. 20a Wegenverkeerswet 1994) pas vanaf 65 cm omtrek; buiten de bebouwde kom elke houtopstand, ook op erven en in tuinen (geen tuinuitzondering).",
+  "uitzonderingen": "Art. 4:11 lid 2: wegbeplantingen en eenrijige beplantingen van niet-geknotte populieren of wilgen langs landbouwgronden; vruchtbomen en windschermen om boomgaarden; fijnsparren tot 12 jaar als kerstboom; kweekgoed; dunning; 'f. houtopstanden die gelegen zijn buiten een bebouwde kom, een zelfstandige eenheid vormen en ofwel een grotere oppervlakte beslaan dan 10 are' of 'g.' rijbeplanting van meer dan 20 bomen; Plantenziektewet; struiken; bomen binnen de kom kleiner dan 65 cm omtrek; '(wintergroene) coniferen'; 'berken en fijnsparren binnen de bebouwde kom'. Ruime uitzondering voor coniferen en vruchtbomen: D min 1.",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'De vergunning kan in elk geval worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid van de houtopstand.' Art. 4:11 lid 4: spoed (burgemeester).",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Strategie bijlage 2: 'Als de locatie het toelaat wordt in de vergunning een herplantplicht meegenomen.' Geen verplichte financiele compensatie.",
+  "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid, college beslist per geval). Strategie: alleen 'Als de locatie het toelaat'. Geen betaling in plaats van herplant.",
+  "sancties": "Art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11, eerste lid' (WED-aanwijzing in regeling; ook omgevingsplanactiviteit volgens leges art. 2.13). Herplant na illegale kap: art. 4.12b lid 1 'kan het college ... de verplichting opleggen te herbeplanten'. Geen bestuurlijke boete voor kappen (art. 6:1 lid 3 is alleen veiligheidsregio).",
+  "procedure": "Omgevingsvergunning; art. 4:12 (vergunning van rechtswege) en 4.11a (aanvraag) zijn vervallen. APV art. 1:2 lid 3: beslistermijn 'niet van toepassing op een aanvraag om een omgevingsvergunning'. Leges art. 2.13: EUR 60,55. Herplant binnen 1,5 jaar (strategie bijlage 2).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4.12b lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Strategie bijlage 2: 'Er wordt toezicht gehouden op het nakomen van deze herplantplicht'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen bomenlijst; algemeen regime.",
+  "status": "ok",
+  "ontbrekend": "Geen kernbron ontbreekt. Wel: de Bomenverordening 2018 uit art. 6:6 is niet in CVDR gevonden (art. 4:11 geldt dus); het begrip bebouwde kom volgt art. 20a WVW 1994, de kaart is niet ingezien.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4.12b, 6:1, 1:1, 1:2",
+    "Strategie bijlage 2 (Vellen houtopstand)",
+    "Legesverordening art. 2.13",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: de regel verschilt binnen en buiten de kom. Binnen de kom geldt een drempel van 65 cm omtrek (art. 4:11 lid 2 sub j; D3 minus 1 voor coniferen en vruchtbomen = 2). Buiten de kom geldt geen drempel voor houtopstanden, ook niet op erven (D4 minus 1 voor coniferen en vruchtbomen = 3). Het hoogste deel telt: D = 3.",
+    "Drempel binnen de kom: 65 cm omtrek of 20 cm diameter, beide op 1 m hoogte (niet op 1,30 m); niet omgerekend. 20 cm x 3,14 = 63 cm.",
+    "W2: 'De vergunning kan in elk geval worden geweigerd op grond van' natuur-, landschaps-, dorpsschoon-, beeld-, cultuurhistorische en leefbaarheidswaarden (art. 4:11 lid 3).",
+    "H1 (bereik 1-2): verordening zegt 'kan' (art. 4:11 lid 5). De Uitvoerings- en handhavingsstrategie (CVDR757170_1) zegt 'Als de locatie het toelaat wordt in de vergunning een herplantplicht meegenomen'. Herplant met een voorwaarde is geen vast voorschrift (zelfde lijn als Raalte en Bergen/Mook): H1, maximum 2. (Besluit gebruiker, 14-11-2026, na Overijssel.)",
+    "S1: WED-aanwijzing in art. 6:1 lid 2 voor art. 4:11 lid 1.",
+    "Uitzondering 4:11 lid 2 sub g staat in de tekst als zelfstandige letter 'ofwel bestaat uit rijbeplanting van meer dan 20 bomen'; sub f en g zijn in de bron samen een uitzondering voor Wnb-achtige houtopstanden buiten de kom.",
+    "Boom A (80 cm omtrek, ca. 25 cm doorsnee): boven de drempel van 65 cm, geen conifeer, vruchtboom, berk of fijnspar: vergunning nodig. Boom B (40 cm): onder de drempel binnen de kom: geen vergunning."
+  ],
+  "modelsignalen": [
+    "Het model neemt bij 'buiten de kom geen drempel' en 'binnen de kom 65 cm' het hoogste deel (D3), terwijl de meeste particuliere tuinbomen in de bebouwde kom liggen en daar D2 gelden. De score weerspiegelt dan vooral het buitengebied."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0784",
+  "gemeente": "Gilze en Rijen",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem (regime voor de hele gemeente met vrijstelling voor kleine percelen en voor bomen tot 100 cm omtrek)",
+  "brondocument": "Algemene plaatselijke verordening voor de gemeente Gilze en Rijen 2024, afdeling 4.3 (art. 4:10, 4:11, 4:12) en art. 6:1; Verordening op de heffing en de invordering van leges 2026 art. 2.30; Beleidsplan Vergunningen, Toezicht & Handhaving 2020-2024",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR721682/1 ; https://lokaleregelgeving.overheid.nl/CVDR757659/1 ; https://lokaleregelgeving.overheid.nl/CVDR640700/1",
+  "datum_geldigheid": "APV CVDR721682_1 geldend vanaf 2024-07-03 t/m heden (peildatum scoren 2026-11-15); leges CVDR757659_1 vanaf 2026-02-26",
+  "laatste_wijziging": "APV: versie 1 per 2024-07-03 (nieuwe APV 2024); leges 2026 per 2026-02-26",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR757659_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening gemeente Alphen-Chaam in samenhang met artikel 22.8 van de Omgevingswet' (foute verwijzing naar de APV van Alphen-Chaam). WED-aanwijzing ook in APV art. 6:1 lid 2. Omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 150 bekendmakingen, waarvan 64 besluiten en 86 aanvragen, 0 weigeringen. Veel verleende kapvergunningen, vaak met herplantplicht (bijv. gmb-2026-471820, gmb-2026-236810). Een besluit noemt 'het kappen van vier bomen, waarvan er drie vergunningplichtig zijn' (gmb-2026-528335): dat past bij de vrijstellingen van art. 4:11 lid 2. Besluiten noemen geen grondslag.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand (art. 4:11 lid 1), behalve voor particuliere houtopstand op een perceel tot 400 m2 en voor particuliere houtopstand op een groter perceel met een stamomtrek tot 100 cm (lid 2 onder a en b). Buiten de bebouwde kom (niet-Wnb-houtopstand): melding bij het college, dat de velling kan verbieden (art. 4:12).",
+  "drempel": "Omtrek van de stam tot 100 cm op 130 cm hoogte vrij, op percelen groter dan 400 m2; percelen tot 400 m2 volledig vrij (particuliere houtopstand, niet monumentaal).",
+  "omtrek_cm": 100.0,
+  "meethoogte": "130 cm boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. 'Het is verboden zonder vergunning van het college houtopstand te vellen of te laten vellen.' (art. 4:11 lid 1). Het verbod geldt niet voor 'Houtopstand, geen monumentale boom zijnde, in privaat eigendom op een perceel dat niet groter is dan 400 m²' (lid 2 onder a) en niet voor houtopstand in privaat eigendom op een perceel groter dan 400 m² 'met een omtrek van de stam tot 100 centimeter, op 130 centimeter hoogte gemeten' (lid 2 onder b). Buiten de bebouwde kom (Wnb 4.1-kom van voor de Omgevingswet, art. 4:10) en niet behorend tot Wnb-houtopstand: melding (art. 4:12), geen verbod als het college binnen vier weken niet verbiedt (art. 4:11 lid 2 onder c). Monumentale bomen: nooit vrijgesteld.",
+  "uitzonderingen": "Art. 4:11 lid 2: particuliere houtopstand op percelen tot 400 m2 (ruime uitzondering; de voorbeeldtuin van ca. 300 m2 valt eronder); particuliere houtopstand op grotere percelen tot 100 cm omtrek; houtopstand buiten de bebouwde kom na melding; dode houtopstand in openbaar gebied; aanschrijving van het bevoegd gezag. Monumentale bomen blijven beschermd.",
+  "weigeringsgronden": "Art. 4:11 lid 4: 'Een vergunning als bedoeld in het eerste lid wordt slechts verleend indien:' a. een zwaarwegend maatschappelijk belang; b. geen waardevolle of monumentale boom; c. een waardevolle of monumentale boom ernstige schade veroorzaakt; d. een waardevolle of monumentale boom een onveilige situatie veroorzaakt; e. vitaliteit en/of ziekten noodzaken tot vellen. Gesloten lijst van verleningsgronden.",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' Lid 6: 'Indien een herplantplicht als bedoeld in het vijfde lid is opgelegd, is deze houtopstand vergunningplichtig.' Lid 7: 'Indien herplant niet mogelijk is, kan het college als voorschrift bij de vergunning bepalen dat er een geldelijke bijdrage in het gemeentelijke bomenfonds gestort dient te worden.' Geen regel over herplant na illegale kap. Geen beleidsregel over herplant of compensatie gevonden.",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het college beslist per geval. Betalen in plaats van herplanten: alleen als voorschrift ('kan', art. 4:11 lid 7).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Art. 4:11 lid 5 en 7 bevatten geen eigen 'is verplicht'-bepaling. Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Een opgelegd herplantvoorschrift valt 'krachtens deze verordening' onder die algemene strafbepaling.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en artikel 4:11, eerste lid.' Ook via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Algemene strafbepaling art. 6:1 lid 1 (hechtenis of geldboete tweede categorie). Geen bestuurlijke boete voor kappen.",
+  "procedure": "Omgevingsvergunning bij het college (art. 4:11); positieve fictieve beschikking bij niet tijdig beslissen (art. 4:11 lid 9, Awb 4.1.3.3); bomeneffectanalyse kan worden verlangd (lid 3); vergunning vervalt na drie jaar zonder gebruik (art. 4:11b); noodkap: besluit kan direct in werking treden (lid 8). Melding buiten de kom: vier weken (art. 4:12 lid 3). Leges 2026 art. 2.30: EUR 228,85. Bezwaar en beroep via de Awb.",
+  "D": {
+    "punt": 4,
+    "min": 1,
+    "max": 4
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "onzeker",
+  "ontbrekend": "(1) Het college-boomwaarderingssysteem voor 'waardevolle boom' (art. 4:10 en 4:11 lid 4 onder b, c en d) staat niet in het dossier of in tekst/ en is niet gevonden. (2) Of de meldplicht van art. 4:12 buiten de bebouwde kom ook geldt voor houtopstand die al is vrijgesteld door art. 4:11 lid 2 onder a en b (D-maximum 4); niet vast te stellen uit de tekst. (3) Omgevingsplan in het DSO niet ingezien. (4) Geen beleid over herplant of compensatie gevonden.",
+  "artikelnummers": [
+    "APV 2024 art. 4:10, 4:11, 4:11b, 4:12, 6:1",
+    "Legesverordening 2026 art. 2.30 (CVDR757659_1)",
+    "Beleidsplan VTH 2020-2024 (CVDR640700_1)"
+  ],
+  "opmerkingen": [
+    "D1 (punt en minimum): particuliere houtopstand is alleen beschermd op percelen groter dan 400 m2 met een stamomtrek van 100 cm of meer (hoge drempel, D2); 'alle particuliere percelen tot een bepaalde oppervlakte' (400 m2) is vrijgesteld en dat is meer dan de ca. 300 m2 van de voorbeeldtuin: ruime uitzondering, correctie -1, dus D1. Zelfde aanpak als Heusden (perceel kleiner dan 400 m2 vrij).",
+    "D-maximum 4: art. 4:12 lid 1 verplicht een melding voor 'het vellen of laten vellen van houtopstanden buiten de bebouwde kom en niet behorende tot houtopstand als bedoeld in artikel 4.1 van de Wet natuurbescherming' en lid 3 laat het college de velling verbieden; de tekst kent geen tuinuitzondering. Geldt de meldplicht ook voor tuinen en kleine percelen buiten de kom, dan is dat deel een melding met verbodsmogelijkheid zonder drempel (D4). Lid 2 onder a en b en lid 4 ('tenzij voor het vellen van de houtopstand een vergunning nodig is') wijzen er juist op dat de melding alleen een alternatief is voor de vergunning bij houtopstand die onder het verbod valt (dan D1). Niet te beslissen; puntschatting is de laagste lezing.",
+    "W3 zonder bereik: 'Een vergunning als bedoeld in het eerste lid wordt slechts verleend indien:' gevolgd door een gesloten lijst van gronden (art. 4:11 lid 4).",
+    "H1: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 5). Geen beleidsregel die herplant verplicht; de bomenfondsstorting is alleen een voorschrift dat 'kan' worden opgelegd. Besluiten sinds 2025 noemen vaak een herplantplicht (praktijk, geen grondslag).",
+    "S1: WED-aanwijzing in art. 6:1 lid 2. Geen regel over herplant na illegale kap (herplant_na_illegale_kap 'nee'). Het Beleidsplan VTH 2020-2024 noemt kappen zonder vergunning als hoge prioriteit maar bevat geen boete of boomwaarde-koppeling. De APV noemt 'boomwaarde' alleen als definitie.",
+    "Fout in de legesverordening 2026 art. 2.30: verwijst naar 'de Algemene plaatselijke verordening gemeente Alphen-Chaam'. Geen invloed op S: de WED-aanwijzing in art. 6:1 lid 2 noemt art. 4:11 lid 1 wel.",
+    "Boom A (omtrek 80 cm) en B (40 cm) in een achtertuin op een perceel van ca. 300 m2: beide vrij op grond van art. 4:11 lid 2 onder a (perceel niet groter dan 400 m2).",
+    "De drempel van 100 cm ligt precies op de grens tussen D2 (> 100 cm) en D3 (60-100 cm). 'tot 100 centimeter' is gelezen als 'tot en met 100 cm vrij' (D2). Bij een lezing waarbij 100 cm zelf beschermd is (D3) wordt de puntscore D3 -1 = D2: dat valt binnen het niet-gekozen bereik en is niet meegenomen."
+  ],
+  "modelsignalen": [
+    "Dubbele maatgrens (perceel tot 400 m2 volledig vrij; groter perceel pas vanaf 100 cm omtrek) is door het model niet apart voorzien: gescoord als hoge drempel (D2) met correctie -1 voor de perceeluitzondering (400 m2 > 300 m2). Zonder correctie zou D2 gelden.",
+    "Melding buiten de bebouwde kom (art. 4:12) zonder expliciete tuinuitzondering naast een verbod met brede vrijstellingen voor kleine percelen: onduidelijk of de melding ook de al vrijgestelde tuinbomen dekt. INTENT.md ('D per deel') geeft dan D4 voor het buitengebied; hier alleen als maximum.",
+    "Boomwaarderingssysteem (college) ontbreekt in de bronnen; het bepaalt of een boom 'waardevol' is en dus of W3 'slechts verleend indien' in de praktijk strenger of soepeler uitpakt. Score W3 volgt de tekst van het artikel.",
+    "Legesverordening 2026 verwijst naar de APV van Alphen-Chaam (kopieerfout), net als bij Baarle-Nassau.",
+    "Nabewerking hoofdagent (15-11-2026): D punt van 1 naar 4 gezet. Art. 4:12 lid 1 en 3: buiten de bebouwde kom melding voor 'houtopstanden' (definitie: 'hakhout, een houtwal of een of meer bomen') met verbodsmogelijkheid ('beslist dat de velling wordt verboden'), zonder drempel of tuinuitzondering. Volgens INTENT telt melding met verbodsmogelijkheid als toestemmingsplicht en geeft een regel die buiten de kom ook tuinen en erven dekt D op de drempel (zonder drempel D4); D per deel, hoogste (zoals Zwartewaterland, Rijssen-Holten). Minimum 1 blijft voor de lezing dat de vrijstelling van art. 4:11 lid 2 ook de melding dekt. Voorbeeldbomen A en B (tuin in de kom) blijven 'nee'."
+  ]
+}

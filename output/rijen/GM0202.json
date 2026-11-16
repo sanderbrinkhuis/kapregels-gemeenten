@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0202",
+  "gemeente": "Arnhem",
+  "provincie": "Gelderland",
+  "brondocument": "Algemene Plaatselijke Verordening voor Arnhem, afdeling 4.5 Het bewaren van houtopstanden (art. 4.5.1 t/m 4.5.11), art. 6.1; Besluit waardevolle bomenlijst 2013 (CVDR475562_1); Legesverordening Arnhem 2026 (CVDR748107_2, art. 4.8.1); Omgevingsplan gemeente Arnhem (CVDR696216_9)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR418922/21 ; https://lokaleregelgeving.overheid.nl/CVDR475562/1 ; https://lokaleregelgeving.overheid.nl/CVDR748107/2 ; https://lokaleregelgeving.overheid.nl/CVDR696216/9 ; https://www.arnhem.nl/alle-onderwerpen/groenbeheer/waardevolle-bomen/",
+  "datum_geldigheid": "APV CVDR418922_21 geldend van 2026-08-08 t/m heden; Besluit waardevolle bomenlijst CVDR475562_1 geldend van 2014-01-01 t/m heden; leges CVDR748107_2 geldend van 2025-12-11",
+  "laatste_wijziging": "APV: versie 21 per 2026-08-08. Er staat een toekomstige versie CVDR418922_22 (per 2027-01-01) met een andere tekst van art. 1.2 lid 3; de kapartikelen 4.5.1 t/m 4.5.10 zijn daarin gelijk aan versie 21 (tekstvergelijking). Lijstbesluit ongewijzigd sinds 2014-01-01.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens de legesverordening (art. 4.8.1: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4.5.3 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'). Het omgevingsplan (CVDR696216_9) bevat zelf alleen art. 22.299 (aanvraagvereisten) en art. 6.2 (kapactiviteit alleen via afdeling 7.3 archeologie of het tijdelijk deel).",
+  "praktijkcontrole": "Sinds 2025: 18 bekendmakingen op officielebekendmakingen.nl bij titelzoekmethode (0 besluiten, 2 aanvragen, 16 verlengingen van de beslistermijn voor kap, waaronder voor een cederboom, voor groepen van 3 tot 40 bomen en voor een aanvraag over een monumentale boom). Een steekproef van besluiten is niet opgehaald; er staat geen grondslag in de titels. Het kleine aantal zegt weinig: de zoekmethode mist besluiten. De website zegt: 'Voor het kappen van waardevolle bomen en struiken in een beschermd gebied heeft u een omgevingsvergunning nodig.' Dat past bij een lijst plus gebiedsbescherming.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning, in de APV 'ontheffing') alleen voor beschermde houtopstand, dat is een houtopstand op de lijst met waardevolle bomen (art. 4.5.1 onder c, 4.5.3 lid 1 en 2).",
+  "drempel": "Geen stamomtrekdrempel: alleen bomen op de lijst, ongeacht omvang. Art. 4.5.1 onder c: 'beschermde houtopstand: een houtopstand die is vastgelegd op de lijst met waardevolle bomen.'",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijst)",
+  "reikwijdte": "Hele gemeente (binnen en buiten de bebouwde kom), maar alleen individueel aangewezen bomen: art. 4.5.3 lid 1: 'Het is verboden beschermde houtopstand te vellen of te doen vellen.' Art. 4.5.1 onder d: 'lijst met waardevolle bomen: register met daarop aangegeven houtopstand met overzichtskaart.' Het verbod geldt ook voor aangeplante herplant en bomen op grond van een overeenkomst met een bestuursorgaan (art. 4.5.3 lid 3). Volgens de website staan op de lijst 'alle buitengewone gemeentebomen en de waardevolle particuliere bomen in de stad'.",
+  "uitzonderingen": "Art. 4.5.3 lid 4: Plantenziektewet of aanschrijving van het college; periodiek vellen van hakhout; periodiek knotten of kandelaberen (regulier onderhoud); houtopstand waarvoor het omgevingsplan of een voorbereidingsbesluit al een kapvergunningplicht stelt. Art. 4.5.5 lid 3: direct vellen bij acuut gevaar of spoedeisend belang. Het begrip vellen omvat ook snoeien van meer dan 20 procent van de kroon of het wortelgestel (art. 4.5.1 onder e).",
+  "weigeringsgronden": "Art. 4.5.5 lid 1: 'Het bevoegd gezag kan de ontheffing om te vellen weigeren dan wel onder voorschriften verlenen.' Lid 2: 'Een ontheffing voor het vellen van een beschermde houtopstand kan, mits alternatieven voor behoud uitputtend zijn onderzocht, slechts bij uitzondering worden verleend indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde houtopstand of; b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.' Verlening dus alleen bij uitzondering: weigeren tenzij.",
+  "herplantplicht": "Art. 4.5.8 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in een voorziening van de gemeente ...' (bevoegdheid, geen plicht). Na illegale kap: art. 4.5.10 lid 1: 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'. Er is geen beleidsregel over herplant of compensatie gevonden in CVDR.",
+  "herplant_ontsnapping": "Bevoegdheid ('kan'), beslissing per geval door het bevoegd gezag; niet ter plaatse herplanten kan leiden tot een geldelijke bijdrage (art. 4.5.8 lid 2, 'kan'). Bij illegale kap: art. 4.5.10 lid 2: 'Indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort' (alleen na illegale kap of teniet gaan).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4.5.10 lid 5: 'Degene aan wie een verplichting als bedoeld in dit artikel is opgelegd, alsmede zijn rechtsopvolger is verplicht daaraan te voldoen.' Art. 6.1 lid 1: 'Overtreding van een artikel uit deze verordening waarin een gebod of verbod is opgenomen, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie ...'; art. 4.5.10 staat niet in de uitzonderingen van art. 6.1 lid 3 onder c. Een bestuurlijke boete voor kappen of herplant is niet geregeld.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet (route: de legesverordening noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow; WED art. 1a onder 2 via Ow 5.1). De APV zelf wijst het kapverbod niet aan in de WED: art. 6.1 lid 4 noemt alleen afvalartikelen. Daarnaast de algemene strafbepaling art. 6.1 lid 1 ('hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'), waarop art. 4.5.3 niet is uitgezonderd. Herplantplicht na illegale kap: art. 4.5.10 lid 1 ('kan'). De bestuurlijke boete van art. 6.1a geldt niet voor art. 4.5.3. Geen handhavingsbeleid voor kap gevonden.",
+  "procedure": "Leges: art. 4.8.1 legesverordening 2026, 174,05 euro per boom (ook art. 'a. ... één of twee bomen' 174,05 euro per boom). Beslistermijn: APV art. 1.2 lid 4 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning', dus de Awb/Ow-termijn geldt (verlenging komt voor in de bekendmakingen). Vergunning vervalt na een jaar zonder gebruik (art. 4.5.6). Schadevergoeding: Boswet art. 17 (art. 4.5.7). Bezwaar en beroep: niet in de bronnen nagezocht.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien; de lijst en de interactieve kaart zijn niet als bestand opgehaald. De website (arnhem.nl, waardevolle-bomen, 2026) zegt dat 'alle buitengewone gemeentebomen en de waardevolle particuliere bomen' op de lijst staan; aantal onbekend.",
+  "status": "onzeker",
+  "ontbrekend": "Lijst met waardevolle bomen (register met overzichtskaart) niet ingezien: aantal bomen en aandeel particulier onbekend. Het 'omgevingsplan bomen' en 'Bomenplan' waarnaar de website verwijst staan niet in het dossier. De website noemt ook 'bescherming van het bestemmingsplan' en 'beschermde gebieden': kapregels in het tijdelijk deel van het omgevingsplan (bestemmingsplannen) zijn niet gelezen. Nieuwe, ruimere regels voor waardevolle bomen zijn in uitvoering (website) maar niet als regeling gevonden.",
+  "artikelnummers": [
+    "APV Arnhem art. 1.1, 4.5.1 t/m 4.5.11, 6.1, 6.1a",
+    "Besluit waardevolle bomenlijst 2013 (CVDR475562_1)",
+    "Legesverordening 2026 art. 4.8.1 (CVDR748107_2)",
+    "Omgevingsplan Arnhem art. 6.2, 7.16 t/m 7.20, 10.92, 22.299 (CVDR696216_9)"
+  ],
+  "opmerkingen": [
+    "W (letterlijk): 'slechts bij uitzondering worden verleend indien' (APV 4.5.5 lid 2).",
+    "H (letterlijk): 'tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant' (APV 4.5.8 lid 1).",
+    "D: lijstsysteem met niet-ingezien lijst: puntschatting 1, minimum 0. Maximum 2 omdat de website ook beschermde gebieden via het bestemmingsplan noemt, waarvan de omvang niet is vastgesteld.",
+    "Het omgevingsplan (CVDR696216_9) bevat kapregels in archeologische gebieden: art. 7.16 t/m 7.20 verbieden zonder omgevingsvergunning 'het rooien of planten van bomen' als de activiteit groter is dan 0, 30, 200, 500 of 5.000 m2 (afhankelijk van de archeologische categorie). Dit is een archeologische beschermingsregel met een oppervlaktegrens, geen boombeschermingsregel, en de omvang van die gebieden is niet vastgesteld. Telt daarom niet mee voor D (zie modelsignalen).",
+    "Art. 10.92 omgevingsplan: kapverbod voor houtgewassen in transformatiegebieden (landschap en natuur): kleine gebiedsregel, telt niet mee.",
+    "Art. 22.299 omgevingsplan bevat alleen aanvraagvereisten (diameter op 1,30 m, locatie voor-, zij- of achtererf); geen aparte vergunningplicht.",
+    "Besluit waardevolle bomenlijst 2013 (CVDR475562_1) stelt de lijst vast 'als bedoelde lijst in artikel 4.5.2, eerst lid, van de APV'; de lijst zelf is niet in CVDR opgenomen.",
+    "Art. 4.5.1 onder f en 4.5.8 lid 6: boomwaarde en nadere regels voor de waarde van de houtopstand bij een storting; nadere regels niet gevonden.",
+    "Art. 4.5.2 lid 2 en 4.5.6 zijn uitgezonderd van de strafbepaling (art. 6.1 lid 3 onder c)."
+  ],
+  "modelsignalen": [
+    "Arnhem: archeologische kapregels in het omgevingsplan (rooien van bomen boven een oppervlaktegrens in archeologische gebieden) vallen buiten het model; onduidelijk hoeveel particuliere bomen dat dekt.",
+    "Arnhem: de website noemt naast de lijst ook bescherming 'via het omgevingsplan bomen' en het bestemmingsplan; het model kent geen manier om niet-gelezen tijdelijk-deelregels te scoren, behalve via het D-bereik.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: archeologische kapregels in het omgevingsplan tellen niet voor D: maximum 1 (was 2)."
+  ]
+}

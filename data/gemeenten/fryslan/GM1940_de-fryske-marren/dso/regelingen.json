@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1940/2025/Regeling72daf63de0c44883bd1ee925598647d7",
+    "titel": "Voorbereidingsbesluit sierteelt Omgevingsplan gemeente De Fryske Marren",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1940/2025/Regeling72daf63de0c44883bd1ee925598647d7/nld@2025-10-02;08565869",
+    "beginGeldigheid": "2025-10-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1940_2025_Regeling72daf63de0c44883bd1ee925598647d7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1940/2026/Regeling29c739c766054effb53169dddfeed915",
+    "titel": "Omgevingsprogramma water en riolering",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1940/2026/Regeling29c739c766054effb53169dddfeed915/nld@2026-03-19;08324549",
+    "beginGeldigheid": "2026-03-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1940_2026_Regeling29c739c766054effb53169dddfeed915?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1940/2026/Regelingb8573a4380ff403590b2081d8ec91cb5",
+    "titel": "Voorbereidingsbesluit bedrijfsunits, opslag- en garageboxen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1940/2026/Regelingb8573a4380ff403590b2081d8ec91cb5/nld@2026-06-15;08232479",
+    "beginGeldigheid": "2026-06-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1940_2026_Regelingb8573a4380ff403590b2081d8ec91cb5?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1940/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente De Fryske Marren",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1940/2020/omgevingsplan/nld@2026-10-08;09502847",
+    "beginGeldigheid": "2026-11-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1940_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:07Z"
+  }
+]

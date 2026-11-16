@@ -1,0 +1,80 @@
+{
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "status": "ok",
+  "gm_code": "GM0971",
+  "gemeente": "Stein (L.)",
+  "brondocument": "Algemene Plaatselijke Verordening Gemeente Stein 2026 (CVDR748688_1), afdeling Het bewaren van houtopstanden art. 4:10, 4:11, 4:11c, 4:11d, 4:12, 6:1; Legesverordening Stein 2026 (CVDR754595_1) art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR748688/1",
+  "datum_geldigheid": "CVDR748688_1 geldend vanaf 2026-01-01 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "Versie 1 per 2026-01-01 (nieuwe regeling; art. 6:4 lid 2: 'Gelijktijdig wordt de Algemene Plaatselijke Verordening gemeente Stein 2024 ingetrokken'). Geen latere wijziging gevonden.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: leges art. 2.30 (CVDR754595_1) noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening of op grond van omgevingsplan Erfgoed Stein' en 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'. Omgevingsplan (tijdelijk deel) art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 81 bekendmakingen op titel, waarvan 0 als besluit herkend, 43 aanvragen en 0 weigeringen. Geen besluiten opgehaald; geen grondslag vast te stellen. Aantal aanvragen past bij een breed regime, maar is geen bewijs.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden, art. 4:11 lid 1.",
+  "drempel": "'een stamdiameter heeft van minimaal 20 cm, gemeten op 1.30 m boven maaiveld' (art. 4:11 lid 1 onder b); boom: 'dwarsdoorsnede ... van minimaal 20 centimeter, een omtrek van 63 centimeter' (art. 4:10 lid 1 onder c). Hakhout, houtwal, (lint)begroeiing van struiken of bosplantsoen: 'ongeacht de diameter' (lid 1 onder c).",
+  "omtrek_cm": 63,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Art. 4:11 lid 1: 'Het is verboden zonder vergunning houtopstanden te doen vellen of te laten vellen, indien de houtopstand / boom: a. beschermd zijn op grond van het omgevingsplan; b. een stamdiameter heeft van minimaal 20 cm, gemeten op 1.30 m boven maaiveld; c. bestaat uit meer bomen hakhout, houtwal, een (lint)begroeiing van struiken of een beplanting van bosplantsoen, ongeacht de diameter.' Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar; geen tuinuitzondering en geen strook langs de weg. Middelmatige drempel (omtrek 63 cm): D3.",
+  "uitzonderingen": "Art. 4:11 lid 2: 'a. houtopstand die moet worden geveld krachtens de Plantenziektenwet of krachtens een aanschrijving ...; b. het periodiek vellen van hakhout ...; c. het periodiek scheren, knotten of kandelaberen ...; d. het verrichten van snoeiwerkzaamheden aan houtopstand met achterstallig onderhoud; e. dunning van houtopstand; f. schubconiferen; g. de volgende soorten loofbomen; laagstam fruitbomen, sierkers, sierpeer en sierappel.' Schubconiferen en laagstamfruit/sierfruit zijn geen alle coniferen of alle fruitbomen; daarom geen correctie. Spoed: lid 5 en art. 4:12 lid 3 (bevoegd gezag kan toestemming geven).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11 lid 3 en art. 4:12 lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van: a. natuur-en milieuwaarden van de houtopstand; b. landschappelijke waarden ...; c. beeldbepalende waarden ...; d. cultuurhistorische waarden ...; e. waarden van de houtopstand voor stads- en dorpsschoon; f. waarden voor recreatie en leefbaarheid van de houtopstand.' Boomwaarde als motivering (lid 4). W2.",
+  "herplantplicht": "Art. 4:11 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen regels.' Art. 4:11c lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant.' Art. 4:11d lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen vastgestelde beleidsregel over herplant gevonden. Geen financiele compensatie. H1.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'; 'onder nader te stellen regels'); bevoegd gezag beslist per geval. Geen betaling in plaats van herplant.",
+  "sancties": "Eigen APV-strafbepaling art. 6:1: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Via leges art. 2.30 is de kap een omgevingsplanactiviteit (Ow 5.1 lid 1 aanhef en onder a): WED via Ow 5.1. Geen bestuurlijke boete in de regeling. Herplant na illegale kap: art. 4:11d 'kan'. S1.",
+  "procedure": "Leges art. 2.30 (CVDR754595_1): 1 t/m 5 bomen of houtopstand max 50 m2: EUR 51,50; 6 t/m 10 bomen of max 100 m2: EUR 103,00; meer dan 10 bomen of groter dan 100 m2: EUR 389,00. Art. 4:11b: vergunning voor meer dan een houtopstand is drie jaar geldig. Art. 4:11e: schadevergoeding (nadeelcompensatie). Beslistermijn APV 1:2 (twaalf weken) is niet van toepassing op een omgevingsvergunning. Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11d lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Overtreding is strafbaar via art. 6:1 ('Overtreding van het bij of krachtens deze verordening bepaalde ... gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie').",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_telling": "niet van toepassing: geen lijstsysteem (alle houtopstanden vanaf 20 cm doorsnede).",
+  "ontbrekend": "Omgevingsplan (tijdelijk deel) in het DSO niet ingezien; art. 4:11 lid 1 onder a verwijst naar bescherming 'op grond van het omgevingsplan' en de leges naar 'omgevingsplan Erfgoed Stein': die regels zijn niet gelezen. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:11b",
+    "APV 4:11c",
+    "APV 4:11d",
+    "APV 4:11e",
+    "APV 4:12",
+    "APV 6:1",
+    "Leges 2.30",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "Doorslaggevend W: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van: a. natuur-en milieuwaarden van de houtopstand' (art. 4:11 lid 3).",
+    "Doorslaggevend H: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen regels.' (art. 4:11 lid 6).",
+    "Art. 4:11 en 4:12 overlappen (dezelfde weigeringsgronden en herplantbevoegdheid in beide).",
+    "Regels over bescherming 'op grond van het omgevingsplan' (art. 4:11 lid 1 onder a) en 'omgevingsplan Erfgoed Stein' (leges) niet ingezien; kunnen extra bomen beschermen maar veranderen D niet (al hele gemeente)."
+  ],
+  "modelsignalen": [
+    "Uitzondering voor 'schubconiferen', 'laagstam fruitbomen, sierkers, sierpeer en sierappel' is smaller dan 'alle coniferen' of 'alle fruitbomen in tuinen' uit de correctieregel; INTENT.md geeft niet aan of een smalle soortuitzondering telt. Gekozen: geen correctie.",
+    "Drempel in de bron is zowel diameter (20 cm) als omtrek (63 cm); voor hakhout, houtwal en struiken geldt geen drempel. D gescoord op de drempel voor bomen."
+  ]
+}

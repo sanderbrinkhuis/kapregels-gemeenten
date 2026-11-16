@@ -1,0 +1,63 @@
+{
+  "gm_code": "GM0677",
+  "gemeente": "Hulst",
+  "provincie": "Zeeland",
+  "brondocument": "Verordening Fysieke Leefomgeving Hulst (2023), paragraaf 3.5.1 Bewaren van waardevolle bomen en art. 6.2; APV Hulst 2025 afd. 4.3 (grotendeels vervallen); Legesverordening 2026 art. 2.30; lijst waardevolle bomen (gemeentesite)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR707289/1",
+  "datum_geldigheid": "geldend van 2024-01-01 t/m heden (CVDR707289_1)",
+  "laatste_wijziging": "versie 1, vastgesteld 2023-11-09, in werking 2024-01-01; APV Hulst 2025 laatst gewijzigd per 2026-08-27 (CVDR602266_8)",
+  "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit volgens Legesverordening 2026 art. 2.30 ('vellen van een houtopstand, bedoeld in artikel 3:88 Verordening Fysieke Leefomgeving in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299. In de APV 2025 zijn 4:11, 4:13, 4:14 en 4:16 vervallen; 4:12 (lijst) en 4:15 (niet-gebruik) staan er nog.",
+  "praktijkcontrole": "Volledige-tekstzoekvraag sinds 2025 gaf 4 treffers, geen kapbesluiten of aanvragen (leges, omgevingsplanwijzigingen, beleidsplan). Geen indicatie van een breder regime.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor bomen op de lijst (plus gemeentelijke houtopstanden)",
+  "drempel": "geen drempel voor lijstbomen; definitie 'boom' (3.86 lid 3): dwarsdoorsnede stam minimaal 20 cm op 1,30 m (ca. 63 cm omtrek)",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m (definitie boom)",
+  "reikwijdte": "Hele gemeente: bomen op de lijst met beschermde bomen (3.88 lid 1) en houtopstanden in eigendom van de gemeente (3.88 lid 2). Lijst ingezien: https://api.sduconnect.nl/media/lijst-waardevolle-bomen-3-65b1064bd8219457322774.pdf (gelinkt vanaf https://www.gemeentehulst.nl/Inwoners/Wonen_ver_bouwen/Bomen_kappen_vergunning): 608 regels / ca. 1.219 bomen, waarvan 527 regels (ca. 922 bomen) met eigenaarcode 'p', meest op woonadressen. Een legenda van de code staat niet in de pdf.",
+  "uitzonderingen": "direct gevaar voor personen of goederen (3.88 lid 3); dunnen (3.88 lid 4)",
+  "weigeringsgronden": "Art. 3.91: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de waarde voor de leefbaarheid ...; f. cultuurhistorische waarden.'",
+  "herplantplicht": "Art. 3.92 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Geen herplantfonds of boomwaarde in de regeling. De gemeentesite noemt herplant met gelijke waarde volgens NVTB, maar 'Soms'.",
+  "herplant_ontsnapping": "'kan' (art. 3.92 lid 1): het college beslist per vergunning",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 3.93 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.'; art. 6.2 lid 1: 'Overtreding van het bepaalde bij of krachtens deze verordening ... wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.' (lid 2: niet van toepassing als de WED voorziet)",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via Ow 5.1 (omgevingsplanactiviteit volgens leges); daarnaast eigen strafbepaling VFL 6.2 (subsidiair aan WED, lid 2); herplantplicht na illegale kap (3.93 lid 1, 'kan'). Geen bestuurlijke boete.",
+  "procedure": "Omgevingsvergunning via Omgevingsloket; leges € 136,90 (Legesverordening 2026 art. 2.30); voorschrift van niet-gebruik tot einde bezwaartermijn mogelijk (3.90); beslistermijn 8 weken plus 6 weken (gemeentesite); bezwaar en beroep volgens Awb.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "De betekenis van eigenaarcode 'p' in de lijst is afgeleid uit de woonadressen (geen legenda). Planologische regels in het DSO (beschermd stadsgezicht Hulst, natuurbestemmingen, beschermde dijken, die de gemeentesite noemt) zijn niet ingezien.",
+  "artikelnummers": "VFL art. 3.86-3.93, 6.2, bijlage 1; APV 2025 art. 4:11-4:16, 6:1; Legesverordening 2026 art. 2.30; omgevingsplan art. 22.299",
+  "opmerkingen": "Lijstsysteem, lijst ingezien met veel particuliere bomen. W: 'De vergunning kan worden geweigerd op grond van: ...' (3.91) = W2. H: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant' (3.92) = H1. Volgens de gemeentesite is via het omgevingsplan ook een vergunning nodig 'binnen het beschermd stadsgezicht van Hulst, binnen een natuurbestemming, op een beschermde dijk etc.'. Dat zijn planologische regels (niet ingezien). Eén stadsgezicht is een kleine gebiedsregel; telt niet voor D. APV 6:1 lid 2 verwijst nog naar het vervallen art. 4:13.",
+  "modelsignalen": [
+    "Planologische vergunningplichten voor werkzaamheden (beschermde dijken, natuurbestemmingen) in het omgevingsplan of oude bestemmingsplannen kunnen particuliere bomen raken. Het model zegt niet of die meetellen voor D."
+  ],
+  "lijst_aantal_totaal": 608,
+  "lijst_aantal_particulier": 527,
+  "lijst_telling": "regels op de lijst waardevolle bomen (pdf via gemeentehulst.nl); particulier = eigenaarcode 'p'; ca. 1.219 bomen, waarvan ca. 922 met code 'p'"
+}

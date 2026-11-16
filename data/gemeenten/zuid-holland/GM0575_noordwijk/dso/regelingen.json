@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0575/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Noordwijk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0575/2020/omgevingsplan/nld@1-0",
+    "beginGeldigheid": "2024-01-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0575_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0575/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Noordwijk",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0575/2020/omgevingsvisie/nld@2026-07-15;fc40fec0d03548afa667327710ad9824",
+    "beginGeldigheid": "2026-07-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0575_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:53Z"
+  }
+]

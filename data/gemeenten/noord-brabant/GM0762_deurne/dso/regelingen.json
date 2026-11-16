@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0762/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Deurne",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0762/2020/omgevingsplan/nld@2025-04-23;14032959",
+    "beginGeldigheid": "2025-05-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0762_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0762/2026/Regelingb6279f8fe6f44b7d9f9e7ce8deac08f4",
+    "titel": "Voorbereidingsbesluit Helmondseweg 105, 105a en 107 (ged.)",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0762/2026/Regelingb6279f8fe6f44b7d9f9e7ce8deac08f4/nld@2026-10-14;10340066",
+    "beginGeldigheid": "2026-10-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0762_2026_Regelingb6279f8fe6f44b7d9f9e7ce8deac08f4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:15:40Z"
+  }
+]

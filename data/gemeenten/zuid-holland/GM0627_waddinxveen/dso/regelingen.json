@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0627/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Waddinxveen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0627/2020/omgevingsplan/nld@2024-04-15;08494881",
+    "beginGeldigheid": "2024-04-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0627_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0627/2024/Regelingca6127bc224144e597d2a12c29b93bd9",
+    "titel": "Programma Zon op Veld",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0627/2024/Regelingca6127bc224144e597d2a12c29b93bd9/nld@2024-12-19;15181311",
+    "beginGeldigheid": "2024-12-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0627_2024_Regelingca6127bc224144e597d2a12c29b93bd9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0627/2024/Regelingb38a45caa5114eb2b33cbb7ad0ee11a4",
+    "titel": "Omgevingsvisie Waddinxveen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0627/2024/Regelingb38a45caa5114eb2b33cbb7ad0ee11a4/nld@2025-03-20;16203019",
+    "beginGeldigheid": "2025-04-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0627_2024_Regelingb38a45caa5114eb2b33cbb7ad0ee11a4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0627/2025/Regeling374ff18b03e5483ab86bc7505330e760",
+    "titel": "Omgevingsprogramma Duurzame Leefomgeving",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0627/2025/Regeling374ff18b03e5483ab86bc7505330e760/nld@2025-06-17;08415234",
+    "beginGeldigheid": "2025-05-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0627_2025_Regeling374ff18b03e5483ab86bc7505330e760?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:05Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0627/2025/Regeling87ffd3ef6855416c8e4f586cfc8b1f04",
+    "titel": "Voorbereidingsbesluit bodem- en milieuregels gemeente Waddinxveen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0627/2025/Regeling87ffd3ef6855416c8e4f586cfc8b1f04/nld@2025-09-26;09590413",
+    "beginGeldigheid": "2025-09-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0627_2025_Regeling87ffd3ef6855416c8e4f586cfc8b1f04?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:24:05Z"
+  }
+]

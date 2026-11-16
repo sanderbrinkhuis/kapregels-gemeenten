@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0281",
+  "gemeente": "Tiel",
+  "provincie": "Gelderland",
+  "brondocument": "Bomenverordening Tiel2014 (CVDR304414_1); leges 2026 (CVDR754123_1) art. 2.30; Omgevingsplan gemeente Tiel (CVDR696254_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR304414/1",
+  "datum_geldigheid": "2014-01-01 t/m heden",
+  "laatste_wijziging": "2018-07-10 (modified-datum in CVDR; geen latere versie)",
+  "juridische_plaats": "Losse bomenverordening (2014, nog Wabo/Boswet-terminologie); leges 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'; omgevingsplan bevat alleen aanvraagvereisten (art. 22.299)",
+  "praktijkcontrole": "Bekendmakingen sinds 2025: 97 totaal, 30 besluiten, 49 aanvragen, 3 geweigerd (volgens titel); de besluiten gaan vooral over gemeentelijke projecten (rioolvervanging, wijkrenovatie, onveilige bomen) en enkele losse bomen. Steekproef van 10 besluiten noemt geen grondslag. Zoekmethode op titel mist mogelijk besluiten.",
+  "vergunningplicht": "vergunning (omgevingsvergunning voor vellen van houtopstand), art. 2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.'",
+  "drempel": "dwarsdoorsnede van de stam van minimaal 20 centimeter op 1.30 meter boven maaiveld (art. 1 lid 1 sub a)",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar (toelichting art. 1 sub d: 'Zowel binnen als buiten deze grenzen is de Bomenverordening van kracht'). Particuliere percelen kleiner dan 1000 m2 zijn uitgezonderd.",
+  "uitzonderingen": "Art. 2 lid 3 sub b: 'houtopstand in privaat eigendom op percelen van minder dan 1000 m2 (inclusief bebouwing)'. Verder bedrijfseconomisch geëxploiteerde houtopstand (Boswet art. 15), dunning, aanschrijving/Plantenziektenwet, periodiek knotten of snoeien (art. 2 lid 3 en 4). De uitzondering voor percelen < 1000 m2 stelt de voorbeeldtuin van ca. 300 m2 vrij: correctie -1.",
+  "weigeringsgronden": "Art. 4 lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen.' Lid 2: 'Een vergunning wordt geweigerd indien het belang van verlening van de vergunning niet opweegt tegen één of meer van de volgende waarden van behoud van houtopstand:' natuur-, milieu-, landschappelijke, cultuurhistorische waarden, waarden van stads- en dorpsschoon en waarden voor recreatie en leefbaarheid. Voor hoofdboomstructuur (alleen bomen van publiekrechtelijke lichamen) 'slechts bij uitzondering'.",
+  "herplantplicht": "Art. 7 lid 1: 'Het bevoegd gezag kan aan het verlenen van de vergunning één of meer van de volgende voorschriften verbinden: 1. Dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Dat indien niet ter plaatse kan worden herplant, aan de vergunning het voorschrift kan worden verbonden dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk herplantfonds.' Art. 8 lid 1 (na illegale kap): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Lid 2: 'Indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort in het gemeentelijk herplantfonds.' (alleen na illegale kap of verlies van beschermde houtopstand). Toelichting art. 7 lid 2: 'Als fysieke herplant niet mogelijk is, zal een geldelijke bijdrage worden verlangd'; tabel 'Overige bomen + particuliere bomen' € 500 per boom.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het bevoegd gezag, per geval); geldelijke bijdrage in herplantfonds 'indien niet ter plaatse kan worden herplant' (art. 7 lid 2 sub 2 is zelf een 'kan'-bepaling; art. 8 lid 2 'wordt', alleen na illegale kap). Herplant na illegale kap: 'kan' (art. 8 lid 1).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen strafbepaling of WED-aanwijzing die de herplantplicht dekt. Art. 7 lid 7: 'Degene aan wie een voorschrift of verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 13 lid 2 straft alleen: 'Hij die handelt in strijd met het bij of krachtens artikel 11, tweede lid bepaalde wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.' Art. 11 lid 2 is het verbod op boomziekten, niet art. 7 of art. 8. De toelichting op art. 13 zegt dat de strafbepalingen van de verordening 'niet van toepassing op dergelijk handelen.' (handelen zonder of in strijd met een omgevingsvergunning, volgens de toelichting strafbaar via de Wet economische delicten); dat is de WED-route van de Wabo en telt hier niet als aanwijzing van de herplantplicht. Geen bestuurlijke boete of dwangsom in de verordening.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via de omgevingsvergunning/omgevingsplanactiviteit: leges art. 2.30 spreekt van 'omgevingsplanactiviteit ... in samenhang met artikel 22.8 van de Omgevingswet'; toelichting art. 13: 'het handelen zonder omgevingsvergunning ... strafbaargesteld in de Wet economische delicten'. Art. 13 lid 2 eigen strafbepaling geldt alleen voor art. 11 lid 2 (boomziekten). Herplant na illegale kap: art. 8 lid 1 'kan'. Geen bestuurlijke boete in de regeling.",
+  "procedure": "Art. 3: schriftelijke, gemotiveerde aanvraag; leges (art. 2.30 leges 2026): 1 t/m 5 bomen € 100,00, 6 t/m 10 bomen € 200,00, meer dan 10 bomen € 400,00; vergunning vervalt na één jaar niet-gebruik (art. 6). Bezwaar en beroep volgens Awb; beslistermijn niet in de verordening vastgelegd.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem",
+  "status": "ok",
+  "ontbrekend": "Het Bomenbeleidsplan Tiel (herplantmaten en bedragen, genoemd in de toelichting op art. 8) staat niet als geldende regeling in het dossier; geen beleidsregel over herplant of handhaving gevonden. Het DSO (omgevingsplan tijdelijk deel) is niet geraadpleegd.",
+  "artikelnummers": [
+    "Bomenverordening Tiel 2014 art. 1, 2, 3, 4, 6, 7, 8, 13",
+    "Toelichting art. 2, 4, 7, 8, 13",
+    "Leges Tiel 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Basis: drempel 20 cm doorsnede = 62,8 cm omtrek (D3); uitzondering particuliere percelen < 1000 m2 stelt de voorbeeldtuin van ca. 300 m2 vrij: -1, dus D2. Alleen tuinen op percelen van 1000 m2 of meer vallen onder de regel.",
+    "W: 'Een vergunning wordt geweigerd indien het belang van verlening van de vergunning niet opweegt tegen' de opgesomde waarden = W2, zonder bereik.",
+    "H: artikel zegt 'kan'; toelichting (art. 7 lid 2) 'zal een geldelijke bijdrage worden verlangd' en 'In het algemeen wordt aangegeven dat niet geslaagde herplant binnen een jaar dient te worden vervangen'. Op het artikel gescoord (H1), maximum 2. Compensatie in art. 8 lid 2 geldt alleen na illegale kap en telt niet voor H.",
+    "S1: kap-specifiek via WED (omgevingsplanactiviteit volgens leges 2.30). Art. 13 verwijst naar art. 11 lid 2 en geldt niet voor kappen. De APV Tiel 2014 is vervallen.",
+    "Hoofdboomstructuur (art. 1 sub i: alleen bomen van publiekrechtelijke lichamen) heeft strengere toetsing ('slechts bij uitzondering'); telt niet voor particulieren.",
+    "Verordening noemt nog Wabo en Boswet (verouderd); de leges 2026 gebruikt de verordening als geldend. Geen tweede geldende kapregeling gevonden.",
+    "Bekendmakingen: 30 besluiten, waarvan veel gemeentelijke projecten; weigeringen 3 (op titel). Geen particuliere gegevens overgenomen."
+  ],
+  "modelsignalen": [
+    "Perceelgrens 1000 m2 (ruim boven de voorbeeldtuin) combineert een lage drempel (20 cm) met een vrijstelling voor vrijwel alle woonpercelen; D3 minus 1 geeft D2, maar de feitelijke dekking voor gewone tuinen is klein (voorbeeldbomen: nee). Het model zou dit als D1 of D0 kunnen weergeven; rapport laat A en B voorgaan."
+  ]
+}

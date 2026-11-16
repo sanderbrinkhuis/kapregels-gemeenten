@@ -1,0 +1,27 @@
+{
+  "gemeente": "Montfoort",
+  "gm_code": "GM0335",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Montfoort",
+  "zoeknaam_bekendmakingen": "Montfoort",
+  "opgehaald_op": "2026-11-14T18:22:23+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Montfoort\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 59,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Montfoort\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 16,
+  "geldende_regelingen": 9,
+  "geldend_met_kapartikelen": [
+    "CVDR37502_1",
+    "CVDR693129_1",
+    "CVDR696276_2",
+    "CVDR748605_1",
+    "CVDR754851_1"
+  ],
+  "bekendmakingen_besluiten": 8,
+  "bekendmakingen_aanvragen": 7,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 8
+}

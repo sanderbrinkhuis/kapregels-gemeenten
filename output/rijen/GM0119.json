@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0119",
+  "gemeente": "Meppel",
+  "provincie": "Drenthe",
+  "brondocument": "Verordening fysieke leefomgeving gemeente Meppel 2022 (VFL), afdeling 2.4 en paragraaf 3.6.1, met Groene Kaart (bijlage 1) en Bomenlijst (bijlage 2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR667986/5",
+  "datum_geldigheid": "2026-08-01 t/m heden (CVDR667986_5)",
+  "laatste_wijziging": "2026-08-01",
+  "juridische_plaats": "VFL; leges (CVDR749483_2 art. 2.30) noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Omgevingswet; APV afdeling 4.3 is vervallen; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "Bekendmakingen sinds 2025: 86 (27 besluiten, 48 aanvragen, 0 geweigerd volgens titel). In de steekproef van 10 besluiten staan geen grondslagcitaten. Veel kapbesluiten betreffen gemeentelijke of zieke bomen (kaplijsten); enkele betreffen mogelijk particuliere bomen. Dit is alleen een indicatie.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van monumentale bomen op de Bomenlijst en van houtopstanden op de Groene Kaart; geen algemene plicht voor andere bomen",
+  "drempel": "geen omvangdrempel; alleen bomen en houtopstanden die op de Groene Kaart staan of op de Bomenlijst",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Alleen aangewezen bomen en houtopstanden: Groene Kaart (art. 2.4.1.1, bijlage 1) en Bomenlijst met monumentale bomen (art. 2.4.2.1, bijlage 2). Kaart en lijst staan niet in de tekst van de regeling (bijlagen leeg) en zijn niet ingezien; of het om losse bomen of om gebieden gaat en hoeveel particulier is, is onbekend.",
+  "uitzonderingen": "Art. 3.6.1.2 lid 5: niet voor 'houtopstand die moet worden geveld krachtens de Plantenziektewet of krachtens een aanschrijving' en 'het periodiek knotten of kandelaberen als cultuurmaatregel bij daarvoor geschikte boomsoorten'.",
+  "weigeringsgronden": "Art. 3.6.1.1 lid 2 (monumentale bomen): 'Bij een omgevingsvergunning kan door het college worden afgeweken van het bepaalde in het eerste lid als er geen redelijke maatregelen getroffen kunnen worden om het vellen te voorkomen en als er sprake is van: a. onveilige situaties ... b. schade of dreigende schade aan de omgeving; c. een zwaarwegend geval van algemeen belang.' (weigeren tenzij). Art. 3.6.1.2 lid 2 (Groene Kaart): 'Bij een omgevingsvergunning kan door het college worden afgeweken' zonder criteria.",
+  "herplantplicht": "Art. 3.6.1.1 lid 3 en art. 3.6.1.2 lid 3: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie gevonden.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'); het college beslist per geval. Geen regel over betaling in plaats van herplant.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Art. 7.1.2.1 lid 1: 'niet nakoming van een bij of krachtens deze verordening opgelegde verplichting ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "VFL art. 7.1.2.1 lid 1: hechtenis tot drie maanden of geldboete tweede categorie; lid 2: 'In afwijking van het eerste lid is de Omgevingswet van toepassing op overtreding van een omgevingsvergunningplichtige activiteit' (WED via Omgevingswet 5.1). Geen bestuurlijke boete. U&H-strategie (CVDR729139_1) bevat geen kapspecifiek boetebeleid in het dossier.",
+  "procedure": "Omgevingsvergunning bij het college; leges art. 2.30 CVDR749483_2: EUR 22,85; beslistermijn en bezwaar niet apart vastgelegd (APV art. 1:2 en VFL 3.1.2.1 niet van toepassing gelezen op kap).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 1,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien (bijlagen 1 en 2 staan leeg in de regelingtekst; gemeentelijke website niet gevonden)",
+  "status": "onzeker",
+  "ontbrekend": "Groene Kaart en Bomenlijst niet ingezien: onbekend of ze particuliere bomen bevatten, of het losse bomen of gebieden zijn, en hoeveel. Beleidsregels over herplant en handhaving niet gevonden.",
+  "artikelnummers": [
+    "VFL art. 1.1 sub s, dd en xx",
+    "VFL art. 2.4.1.1",
+    "VFL art. 2.4.2.1",
+    "VFL art. 3.6.1.1",
+    "VFL art. 3.6.1.2",
+    "VFL art. 7.1.2.1",
+    "Leges art. 2.30 (CVDR749483_2)",
+    "Omgevingsplan art. 22.299 (CVDR696193_4)"
+  ],
+  "opmerkingen": [
+    "Doorslaggevend voor W: 'Bij een omgevingsvergunning kan door het college worden afgeweken van het bepaalde in het eerste lid als er geen redelijke maatregelen getroffen kunnen worden om het vellen te voorkomen' (art. 3.6.1.1 lid 2); voor H: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften' (art. 3.6.1.2 lid 3).",
+    "Puntschatting D = 1 want lijst en kaart zijn niet ingezien; bereik 0-2 omdat de Groene Kaart ook gebieden kan aanwijzen.",
+    "Omgevingsplan art. 22.299 vraagt aanvraagvereisten bij vellen; het omgevingsplan bevat zelf geen kapverbod.",
+    "Gemeentelijke beschermde stadsgezichten (omgevingsplan art. 4.19-4.26) bevatten geen kapregels voor bomen.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: geen aanvullende kapregel. Art. 4.19-4.26 (beschermd stadsgezicht, deelgebieden) en 2.4/4.27/8.10 (beeldbepalende panden) gaan over 'kappen' van daken en bouwwerken, niet over bomen; art. 7.65, 7.68 en 11.21 gaan over bouwen en evenementen; art. 22.297 en 22.299 zijn alleen aanvraagvereisten. D, W, H en S ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Kapverbod op een 'Groene Kaart' met houtopstanden: model kent alleen lijst (D1) of gebieden (D2); zonder inzage in de kaart is de keuze niet te maken."
+  ]
+}

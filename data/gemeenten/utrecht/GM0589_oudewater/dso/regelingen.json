@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0589/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oudewater",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0589/2020/omgevingsplan/nld@2026-03-31;16005715",
+    "beginGeldigheid": "2026-05-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0589_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:02Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0589/2026/Regeling626398c8ef3f42eebe7e6574250e8103",
+    "titel": "Warmteprogramma Oudewater",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0589/2026/Regeling626398c8ef3f42eebe7e6574250e8103/nld@2026-10-21;08331915",
+    "beginGeldigheid": "2024-07-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0589_2026_Regeling626398c8ef3f42eebe7e6574250e8103?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:02Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1509/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oude IJsselstreek",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1509/2020/omgevingsplan/nld@2026-07-14;09453549",
+    "beginGeldigheid": "2026-08-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1509_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:27Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1509/2026/Regeling0506b7bcd959464daa31424c22dd3a77",
+    "titel": "Voorbereidingsbesluit verbod gewasbeschermingsmiddelen 2026-1",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1509/2026/Regeling0506b7bcd959464daa31424c22dd3a77/nld@2026-10-27;15561312",
+    "beginGeldigheid": "2026-10-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1509_2026_Regeling0506b7bcd959464daa31424c22dd3a77?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:27Z"
+  }
+]

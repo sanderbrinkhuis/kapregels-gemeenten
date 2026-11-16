@@ -1,0 +1,33 @@
+{
+  "gemeente": "Borger-Odoorn",
+  "gm_code": "GM1681",
+  "provincie": "Drenthe",
+  "zoeknaam_cvdr": "Borger-Odoorn",
+  "zoeknaam_bekendmakingen": "Borger-Odoorn",
+  "opgehaald_op": "2026-11-14T13:47:41+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Borger-Odoorn\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 51,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Borger-Odoorn\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 319,
+  "geldende_regelingen": 28,
+  "geldend_met_kapartikelen": [
+    "CVDR22224_1",
+    "CVDR477540_1",
+    "CVDR477561_1",
+    "CVDR481403_1",
+    "CVDR488770_1",
+    "CVDR488773_1",
+    "CVDR696476_2",
+    "CVDR701083_1",
+    "CVDR715860_1",
+    "CVDR752325_2",
+    "CVDR761940_1"
+  ],
+  "bekendmakingen_besluiten": 145,
+  "bekendmakingen_aanvragen": 172,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

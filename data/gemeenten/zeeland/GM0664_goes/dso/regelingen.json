@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0664/2025/Regeling9f148d8ad72d4fdab8ef9fae1c821845",
+    "titel": "Omgevingsvisie Gemeente Goes",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0664/2025/Regeling9f148d8ad72d4fdab8ef9fae1c821845/nld@2026-03-17;09253640",
+    "beginGeldigheid": "2025-12-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0664_2025_Regeling9f148d8ad72d4fdab8ef9fae1c821845?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:55Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0664/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Goes",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0664/2020/omgevingsplan/nld@2026-08-17;10023202",
+    "beginGeldigheid": "2026-09-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0664_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:50:55Z"
+  }
+]

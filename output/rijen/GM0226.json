@@ -1,0 +1,82 @@
+{
+ "gm_code": "GM0226",
+ "gemeente": "Duiven",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening Duiven 2026 (CVDR667866_7) afd. 4.3 art. 4:10-4:12 (vervallen) en art. 6:1; Verordening Fysieke Leefomgeving gemeente Duiven (CVDR704568_2) hoofdstuk 3 Bomen (art. 3:1, 3:2) en art. 6:2-6:3; Omgevingsplan gemeente Duiven (CVDR696226_8) art. 22.299; vervallen Bomenverordening Duiven 2019 (CVDR622162_1, uitwerkingtreding 2024-01-01) en VFL-versie CVDR704568_1 (alleen ter controle gelezen)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR667866/7 ; https://lokaleregelgeving.overheid.nl/CVDR704568/2 ; https://lokaleregelgeving.overheid.nl/CVDR696226/8 ; https://lokaleregelgeving.overheid.nl/CVDR622162/1",
+ "datum_geldigheid": "APV CVDR667866_7 en VFL CVDR704568_2 geldend vanaf 2026-06-11 t/m heden; Omgevingsplan CVDR696226_8 geldend vanaf 2026-04-29 (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV en VFL: versie per 2026-06-11. Bomenverordening Duiven 2019: vervallen per 2024-01-01.",
+ "juridische_plaats": "Geen kapregel gevonden. APV art. 4:11 is vervallen ('Vervallen. Opgenomen in de Bomenverordening'); de Bomenverordening Duiven 2019 is zelf per 2024-01-01 vervallen en bevatte geen vergunningplicht. De VFL (hoofdstuk 3 Bomen) regelt alleen erfgrens en boomziekten. Omgevingsplan art. 22.299 is een restant bruidsschat (aanvraagvereisten, geen tekst), geen vergunningplicht.",
+ "praktijkcontrole": "Sinds 2025: 8 bekendmakingen op volledige tekst (zoekmethode mist soms besluiten), waarvan 4 besluiten en 0 geweigerd volgens titel. De 4 besluiten uit de steekproef gaan over wijzigingen van het omgevingsplan (bruidsschatregels, Centerpoort-Noord II) en noemen geen grondslag voor kap. Geen enkel kapbesluit gevonden; dat past bij het ontbreken van een kapregel.",
+ "vergunningplicht": "geen: geen enkele geldende regeling maakt het vellen van houtopstand op particulier terrein vergunning- of meldingplichtig (niet gevonden in APV, VFL of omgevingsplan zoals opgehaald).",
+ "drempel": "geen (geen kapregel)",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Geen kapregel. VFL art. 3:2 (boomziekten) geldt op 'een terrein' waar houtopstand gevaar van verspreiding van een boomziekte oplevert, maar is een aanschrijfbevoegdheid, geen kapverbod.",
+ "uitzonderingen": "Niet van toepassing.",
+ "weigeringsgronden": "Geen kapregel, dus geen weigeringsgronden voor kap. APV art. 1:8 en VFL art. 2:1 noemen algemene weigeringsgronden (openbare orde, openbare veiligheid, volksgezondheid, bescherming van het milieu) maar hebben geen kapvergunning als onderwerp.",
+ "herplantplicht": "Geen grondslag gevonden. Geen herplantplicht of beleidsregel over herplant in de opgehaalde regelingen.",
+ "herplant_ontsnapping": "geen",
+ "herplant_type": "geen grondslag",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niet van toepassing: geen herplantplicht. Alleen het algemene instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Geen kap-specifieke sanctie. VFL art. 6:3: 'Hij die handelt in strijd met het bij of krachtens artikel 3:2 tweede lid bepaalde, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.' (alleen het voorhanden hebben of vervoeren van gevelde bomen bij boomziekte, niet het kappen zelf). Geen WED-aanwijzing voor kap in APV 6:1 lid 2 of VFL 6:2 lid 2.",
+ "procedure": "Leges: geen legesverordening met een kaprij gevonden in CVDR (niet gevonden in CVDR; tekst/ bevat alleen APV, VFL en omgevingsplan, dus geen legesverordening die het vellen een omgevingsplanactiviteit noemt). Beslistermijn APV art. 1:2 lid 3: 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.'",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "W": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "H": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "S": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO (tijdelijk deel) niet ingezien (DSO-sleutel nog niet beschikbaar). Gemeentelijke website (duiven.nl) leverde HTTP 403, dus niet gecontroleerd. Geen bomenlijst of -register gevonden in CVDR. Geen legesverordening met kaprij gevonden. De score D=0 volgt uit de volledige tekst van de vervallen Bomenverordening 2019 (geen vergunningplicht) en uit het ontbreken van een hoofdstuk Bomen met kapregel in de VFL.",
+ "artikelnummers": [
+  "APV 4:10 (vervallen)",
+  "APV 4:11 (vervallen)",
+  "APV 4:12 (vervallen)",
+  "APV 6:1",
+  "VFL 3:1",
+  "VFL 3:2",
+  "VFL 6:2",
+  "VFL 6:3",
+  "VFL 6:6 [vervallen]",
+  "Omgevingsplan 22.299",
+  "Bomenverordening Duiven 2019 art. 1-4 (vervallen)"
+ ],
+ "opmerkingen": [
+  "APV Duiven 2026 art. 4:11: '(Vervallen. Opgenomen in de Bomenverordening)'. Dit verwijst naar een regeling die niet meer bestaat: de Bomenverordening Duiven 2019 (CVDR622162_1) is per 2024-01-01 vervallen. De VFL (CVDR704568_1, vanaf 2024-01-01) 'vervangt de Bomenverordening', maar neemt alleen erfgrens en boomziekten over (art. 3:1 en 3:2).",
+  "De Bomenverordening Duiven 2019 bevatte zelf al geen kapvergunning: alleen definities, erfgrens (art. 2), boomziekten (art. 3) en een strafbepaling voor art. 3 lid 2 (art. 4). Duiven had dus ook voor 2024 geen kapvergunningplicht in een bomenverordening.",
+  "Omgevingsplan art. 22.299 'Omgevingsplanactiviteit: vellen van houtopstand' heeft geen tekst. De toelichting zegt dat de artikelen 22.297 tot en met 22.301 'aanvraagvereisten bevatten voor aanvragen om een omgevingsvergunning voor activiteiten die op grond van een gemeentelijke verordening in samenhang met artikel 22.8 van de Omgevingswet als vergunningplichtig zijn aangemerkt'. Er is geen gemeentelijke verordening die het vellen vergunningplichtig maakt: restant bruidsschat, geen vergunningplicht.",
+  "Geen WED-aanwijzing voor kap: APV art. 6:1 lid 2 en VFL art. 6:2 lid 2 noemen geen kapartikel.",
+  "Bijzondere gebieden: de omgevingsplanartikelen over Centerpoort-Noord II (beplanting, bomen aanplanten) bevatten geen kapverbod; niet als kapregel gescoord. VFL art. 5:19-5:24 (beschermd stads- en dorpsgezicht) bevat geen kapbepaling.",
+  "Zoekmethode: de bekendmakingen (8, waarvan 4 besluiten) wijzen niet op kapbesluiten; de zoekmethode mist soms besluiten."
+ ],
+ "modelsignalen": [
+  "Duiven: de APV verwijst nog naar een 'Bomenverordening' die niet meer geldt en nooit een vergunningplicht had; het model kent hiervoor geen aparte categorie en scoort D=0 ('geen regeling'). Voor het rapport is het verschil tussen 'nooit een kapregel gehad' en 'kapregel vervallen' relevant."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "gemeente": "Krimpenerwaard",
+  "gm_code": "GM1931",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Krimpenerwaard",
+  "zoeknaam_bekendmakingen": "Krimpenerwaard",
+  "opgehaald_op": "2026-11-16T10:35:38+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Krimpenerwaard\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 82,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Krimpenerwaard\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 16,
+  "geldende_regelingen": 24,
+  "geldend_met_kapartikelen": [
+    "CVDR696527_4",
+    "CVDR700026_2",
+    "CVDR704008_1",
+    "CVDR738113_1",
+    "CVDR753335_4",
+    "CVDR759616_1"
+  ],
+  "bekendmakingen_besluiten": 6,
+  "bekendmakingen_aanvragen": 10,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

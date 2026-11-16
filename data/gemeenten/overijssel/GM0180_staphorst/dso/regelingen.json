@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0180/2025/Regeling77097f73c25746308e3cc883b763a41b",
+    "titel": "Omgevingsvisie gemeente Staphorst",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0180/2025/Regeling77097f73c25746308e3cc883b763a41b/nld@2026-03-19;17282832",
+    "beginGeldigheid": "2026-03-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0180_2025_Regeling77097f73c25746308e3cc883b763a41b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:09Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0180/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Staphorst",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0180/2020/omgevingsplan/nld@2026-06-10;09031835",
+    "beginGeldigheid": "2026-07-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0180_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:09Z"
+  }
+]

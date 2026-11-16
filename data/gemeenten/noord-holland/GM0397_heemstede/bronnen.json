@@ -1,0 +1,28 @@
+{
+  "gemeente": "Heemstede",
+  "gm_code": "GM0397",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Heemstede",
+  "zoeknaam_bekendmakingen": "Heemstede",
+  "opgehaald_op": "2026-11-14T22:02:34+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Heemstede\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 117,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Heemstede\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 75,
+  "geldende_regelingen": 24,
+  "geldend_met_kapartikelen": [
+    "CVDR402527_1",
+    "CVDR613171_1",
+    "CVDR696301_2",
+    "CVDR710899_3",
+    "CVDR726382_2",
+    "CVDR752016_1"
+  ],
+  "bekendmakingen_besluiten": 34,
+  "bekendmakingen_aanvragen": 41,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

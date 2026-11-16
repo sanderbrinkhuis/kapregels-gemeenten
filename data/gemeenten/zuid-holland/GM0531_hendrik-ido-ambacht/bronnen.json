@@ -1,0 +1,25 @@
+{
+  "gemeente": "Hendrik-Ido-Ambacht",
+  "gm_code": "GM0531",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Hendrik-Ido-Ambacht",
+  "zoeknaam_bekendmakingen": "Hendrik-Ido-Ambacht",
+  "opgehaald_op": "2026-11-16T10:35:36+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hendrik-Ido-Ambacht\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 53,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hendrik-Ido-Ambacht\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 20,
+  "geldende_regelingen": 10,
+  "geldend_met_kapartikelen": [
+    "CVDR696343_4",
+    "CVDR749667_2",
+    "CVDR764315_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 9,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

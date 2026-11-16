@@ -1,0 +1,76 @@
+{
+ "provincie": "Fryslân",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Het model scoort de strengheid van een lijstsysteem met D1 even hoog als de opbouw van I (W2 H2 S3 = 7 van 9), terwijl de lijst mogelijk geen enkele particuliere boom bevat (dan D0 en strengheid 0). De puntschatting D1 bij niet-ingeziene lijst geeft hier een score 22 die niet op feiten rust."
+ ],
+ "gm_code": "GM0060",
+ "gemeente": "Ameland",
+ "brondocument": "Algemene Plaatselijke Verordening gemeente Ameland 2026, art. 4:10 en 4:11, 6:1, 1:8; Beleidsregel Kap en Herplant van Houtopstanden op de Bomenlijst - Ameland 2025 (CVDR746140_1); Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR756606/1 ; https://lokaleregelgeving.overheid.nl/CVDR746140/1",
+ "datum_geldigheid": "APV CVDR756606_1 geldend vanaf 2026-02-10 t/m heden; beleidsregel CVDR746140_1 geldend vanaf 2025-11-04 t/m heden (peildatum scoren 2026-11-14)",
+ "laatste_wijziging": "APV: versie 1 per 2026-02-10 (nieuwe vaststelling). Beleidsregel: vastgesteld door het college op 2025-09-23, in werking 2025-11-04.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR751144_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 10 bekendmakingen op titel, waarvan 9 besluiten (allemaal 'Verleende omgevingsvergunning kappen', verspreid over meerdere dorpen) en 0 weigeringen. De steekproef van 9 besluiten noemt geen grondslag. Het aantal verleende vergunningen is voor een gemeente met een lijstsysteem opvallend, maar kan bomen op gemeentegrond betreffen; niet vast te stellen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de bomenlijst staan (art. 4:11 lid 2).",
+ "drempel": "Geen drempel: alleen aangewezen bomen op de bomenlijst ('Register beeldbepalende en monumentale bomen'), ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermingswaardige bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstanden te vellen of te doen vellen die staan vermeld op de lijst vermeld op de bomenlijst (Register beeldbepalende en monumentale bomen).' Geen gebiedsregel. De lijst (volgens de beleidsregel 'bijlage 1 APV') is niet ingezien.",
+ "uitzonderingen": "Art. 4:11 lid 5: verbod niet van toepassing 'als de burgemeester toestemming verleent ... in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Verder alleen bomen die niet op de lijst staan (niet beschermd).",
+ "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1.8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid van de houdopstand.'",
+ "herplantplicht": "APV art. 4:11 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleidsregel art. 3 lid 1: 'Een vergunning wordt alleen verleend onder het opleggen van een herplantplicht;' lid 2: 'Bij nader voorschrift wordt bepaald hoe en binnen welke termijn herplant plaats moet vinden;' Geen financiele compensatie.",
+ "herplant_ontsnapping": "Geen uitweg in de beleidsregel. De APV zegt 'kan' (bevoegdheid), de beleidsregel maakt herplant bij elke vergunning verplicht. Het college beslist per geval over de voorschriften. Beleidsregel art. 3 lid 3: vergunninghouder kan om advies en 'gratis leveren en planten van een boom aan de gemeente' vragen.",
+ "sancties": "Bestuurlijke boete in de APV: art. 4:11 lid 7 'Het bevoegd gezag kan een bestuurlijke boete opleggen van maximaal € 5.000 bij overtreding van het in het tweede lid gestelde verbod.' Beleidsregel art. 4 lid 2: 'Direct na constatering wordt de maximale bestuurlijke boete opgelegd zoals bepaald in de APV (€ 5.000);' lid 1: illegale kap 'krijgt prioriteit in de handhaving'. Ook APV art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie) noemt 4:11. WED-aanwijzing in de APV niet gevonden; via Ow art. 5.1 (omgevingsplanactiviteit) kan WED gelden.",
+ "procedure": "Aanvraag via het Omgevingsloket, ten minste 8 weken voor gebruik van de vergunning (beleidsregel art. 2). Leges 2026 (CVDR751144_1) art. 2.30: EUR 52,25. Bekendmaking van verleende vergunningen in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Beleidsregel art. 3 lid 4: 'Het niet, of niet tijdig, voldoen aan de herplantplicht zal worden afgedwongen middels bestuursrechtelijke handhaving (bestuursdwang of dwangsom).' Art. 4 lid 3: 'De opgelegde boete wordt gehalveerd indien de overtreder schriftelijk instemt met een herplantplicht'; lid 4: 'Bij het niet, of niet tijdig, voldoen aan de in lid 3 bedoelde herplantplicht wordt de resterende boete alsnog opgelegd;'",
+ "herplant_niet_nakomen_type": "meerdere",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "S": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de bomenlijst (volgens de beleidsregel 'bijlage 1 APV') staat niet in de CVDR-tekst; een korte zoekpoging op de gemeentelijke website leverde de lijst niet op",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst/register beeldbepalende en monumentale bomen niet gevonden; onbekend of er particuliere bomen op staan en hoeveel. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 2026 art. 4:10, 4:11, 6:1, 1:8",
+  "Beleidsregel CVDR746140_1 art. 2, 3, 4",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus de puntschatting is D1 en het bereik loopt vanaf D0 (INTENT, ONZEKERHEID).",
+  "W2: 'In afwijking van artikel 1.8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11 lid 4): kan-weigering op natuur-, landschaps- en cultuurhistorische waarden.",
+  "H2: APV zegt 'kan een herplantplicht opleggen' (lid 6), maar beleidsregel art. 3 lid 1 zegt: 'Een vergunning wordt alleen verleend onder het opleggen van een herplantplicht'; de beleidsregel telt (besluit 14-11-2026, tegenstrijdige teksten). Geen verplichte storting: H niet 3.",
+  "S3: bestuurlijke boete in de APV (art. 4:11 lid 7, max. EUR 5.000) plus vastgelegd handhavingsbeleid: 'Direct na constatering wordt de maximale bestuurlijke boete opgelegd'.",
+  "Kalibratie: uitkomst gelijk aan de referentiescore in INTENT (D1 W2 H2 S3, 22, bereik 0-22, Soepel, loopt over de grens, betrouwbaarheid laag).",
+  "Beleidsregel (CVDR746140_1, in werking 2025-11-04) geldt op de peildatum 2026-11-14 en is meegeteld.",
+  "Praktijk: 9 verleende kapvergunningen sinds 2025, 0 weigeringen volgens de titel; geen grondslag genoemd."
+ ]
+}

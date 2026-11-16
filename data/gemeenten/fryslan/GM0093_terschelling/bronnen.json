@@ -1,0 +1,27 @@
+{
+  "gemeente": "Terschelling",
+  "gm_code": "GM0093",
+  "provincie": "Fryslân",
+  "zoeknaam_cvdr": "Terschelling",
+  "zoeknaam_bekendmakingen": "Terschelling",
+  "opgehaald_op": "2026-11-14T14:45:57+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Terschelling\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 27,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Terschelling\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 5,
+  "geldende_regelingen": 8,
+  "geldend_met_kapartikelen": [
+    "CVDR669677_2",
+    "CVDR696183_2",
+    "CVDR709241_4",
+    "CVDR73388_1",
+    "CVDR84374_3"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 3,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

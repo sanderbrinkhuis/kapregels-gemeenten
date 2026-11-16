@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0606/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Schiedam",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0606/2020/omgevingsplan/nld@2024-03-21;2",
+    "beginGeldigheid": "2024-03-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0606_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0606/2025/Regeling3747124893ac449aae8d6b647a6fee4e",
+    "titel": "Schiedamse Omgevingsvisie",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0606/2025/Regeling3747124893ac449aae8d6b647a6fee4e/nld@2025-07-23;06583184",
+    "beginGeldigheid": "2025-07-31",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0606_2025_Regeling3747124893ac449aae8d6b647a6fee4e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:35Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0606/2026/Regelingd7909d4fcc304f8e9e22fa152748c694",
+    "titel": "Omgevingsprogramma Klimaat Schiedam 2026",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0606/2026/Regelingd7909d4fcc304f8e9e22fa152748c694/nld@2026-06-25;12210736",
+    "beginGeldigheid": "2026-07-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0606_2026_Regelingd7909d4fcc304f8e9e22fa152748c694?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:35Z"
+  }
+]

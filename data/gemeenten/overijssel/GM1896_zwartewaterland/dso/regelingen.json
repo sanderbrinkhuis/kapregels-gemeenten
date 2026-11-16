@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1896/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zwartewaterland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1896/2020/omgevingsplan/nld@2024-06-24;12081779",
+    "beginGeldigheid": "2024-06-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1896_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1896/2025/Regelingd5ca688fc99f4bb3ac8e4be6d09d6264",
+    "titel": "Omgevingsvisie gemeente Zwartewaterland",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1896/2025/Regelingd5ca688fc99f4bb3ac8e4be6d09d6264/nld@2026-09-30;09571357",
+    "beginGeldigheid": "2026-10-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1896_2025_Regelingd5ca688fc99f4bb3ac8e4be6d09d6264?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:39Z"
+  }
+]

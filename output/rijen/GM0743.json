@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0743",
+  "gemeente": "Asten",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene Plaatselijke Verordening gemeente Asten 2026, afdeling 4.3 art. 4:10, 4:11, 4:11a, 4:11c, 4:11e, 6:1; Programma Groen gemeente Asten 2024-2033 (CVDR721504_3) par. 4.2; Legesverordening 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR767928/1 ; https://lokaleregelgeving.overheid.nl/CVDR721504/3 ; https://lokaleregelgeving.overheid.nl/CVDR751173/3 ; https://lokaleregelgeving.overheid.nl/CVDR696388/3",
+  "datum_geldigheid": "APV CVDR767928_1 geldend vanaf 2026-10-16 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV Asten 2026: versie 1 per 2026-10-16 (nieuwe vaststelling; APV 2017 vervallen). Programma Groen versie 3 per 2026-10-16.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR751173_3) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene Plaatselijke Verordening in samenhang met artikel 22.8 van de Omgevingswet'. APV art. 6:1 lid 2 wijst de WED aan. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 1 bekendmaking op titel (een aanvraag), 0 besluiten en 0 weigeringen. Niet bruikbaar als indicatie. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 9 bekendmakingen sinds 1-1-2025, waarvan 2 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden (art. 4:11 lid 1).",
+  "drempel": "Stamdiameter van meer dan 20 centimeter op 130 centimeter hoogte (art. 4:11 lid 1 onder a); omgerekend omtrek ca. 62,8 cm. Daarnaast zonder maatgrens: bomen in een grotere groenstructuur, lijst beschermwaardige bomen, houtopstand bij een gebouw met maatschappelijke functie, herplante houtopstand.",
+  "omtrek_cm": 62.8,
+  "meethoogte": "130 cm",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar. Art. 4:11 lid 1: 'a. een boom met een stamdiameter van meer dan 20 centimeter op een hoogte van 130 centimeter boven het maaiveld;'. Artikel 4:10: boom is 'een houtig gewas, zowel levend als dood, met een dwarsdoorsnede van de stam van minimaal 10 centimeter op 130 centimeter hoogte boven het maaiveld'.",
+  "uitzonderingen": "Art. 4:11 lid 2: wegbeplantingen en eenrijige beplantingen op of langs landbouwgronden van populieren of wilgen (niet geknot); fruitbomen voor commerciële teelt en bijbehorende windschermen; kerstbomen (fijnsparren); kweekgoed; Besluit Plantgezondheid of last van het college; houtopstand buiten de bebouwde kom uit het Convenant van 28 februari 1996 (met voorafgaande kennisgeving); bospercelen buiten de bebouwde kom groter dan 10 are die onder het Besluit activiteiten leefomgeving vallen. Geen tuin- of perceeluitzondering in de tekst; geen uitzondering voor alle fruitbomen, naaldbomen of populieren en wilgen ongeacht locatie. Spoed of direct gevaar: art. 4:11e (toestemming burgemeester).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11a lid 3: 'Onverminderd het bepaalde in artikel 1:8 kan de vergunning worden geweigerd op grond van:' a. natuurwaarde, b. landschappelijke waarde, c. 'de waarde van de houtopstand voor stads- en dorpsschoon;' d. beeldbepalende waarde, e. cultuurhistorische waarde, f. 'de waarde voor de leefbaarheid van de houtopstand; of' g. 'andere redenen van milieubeheer.'",
+  "herplantplicht": "Art. 4:11c lid 1: 'Het bevoegd gezag kan een herbeplant- of instandhoudingsplicht opleggen onder nader te stellen voorschriften.' Bevoegdheid. Financiële compensatie (lid 6 onder c, lid 7: taxatiewaarde NVTB) alleen bij schade aan een boom, 'kan'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag (college) beslist per geval. Geen betaling als alternatief voor een gewone vergunning.",
+  "sancties": "Art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van bepalingen uit deze verordening als er sprake is van een omgevingsvergunningplichtige activiteit.' Daarnaast art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). Geen bestuurlijke boete voor kappen. Herplant of financiële compensatie na illegale kap 'kan' (art. 4:11c lid 2 en Programma Groen par. 4.2.1).",
+  "procedure": "Aanvraag via het Omgevingsloket (art. 4:11a lid 2). Leges art. 2.30: EUR 74,50. Beslistermijn: art. 1:2 lid 3 sluit omgevingsvergunning uit (termijnen van het Omgevingsrecht). Vervaltermijn vergunning: art. 4:11b (twee jaar, als voorschrift). Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11c lid 5: 'Indien er niet wordt voldaan aan de herbeplantplicht zoals bedoeld in het eerste en tweede lid ... kan het bevoegd gezag de uit te voeren plantwerkzaamheden met daarbij horende voorschriften door een derde partij laten uitvoeren.' en 'De hiervoor gemaakte kosten worden verhaald op degene die ingevolge artikel 4:11a, eerste lid, gerechtigd is tot het doen van een vergunningaanvraag.' Daarnaast art. 6:1 lid 1.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing: breed regime (omtrekdrempel); de lijst van beschermwaardige bomen (art. 4:11 lid 1 onder c, Nota Bomenbeleid module Beschermwaardige bomen) staat niet in CVDR en is niet ingezien",
+  "status": "ok",
+  "ontbrekend": "Lijst van beschermwaardige bomen en Nota Bomenbeleid (modules) niet in CVDR gevonden; niet nodig voor D (breed regime bepaalt D). Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "APV art. 4:10",
+    "APV art. 4:11",
+    "APV art. 4:11a",
+    "APV art. 4:11b",
+    "APV art. 4:11c",
+    "APV art. 4:11e",
+    "APV art. 6:1",
+    "APV art. 1:2, 1:4, 1:8",
+    "Programma Groen par. 3.2, 3.3, 4.1, 4.2",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Doorslaggevend voor D: art. 4:11 lid 1 'a. een boom met een stamdiameter van meer dan 20 centimeter op een hoogte van 130 centimeter boven het maaiveld;' (20 x 3,14 = 62,8 cm omtrek, binnen 60-100 cm: D3).",
+    "Toelichting tegenover artikel: Programma Groen par. 4.1 zegt dat 'naast bomen in een particuliere tuin ook meer bomen bij bedrijven kapvergunningvrij geworden' zijn. De APV-tekst bevat geen tuinuitzondering; er is gescoord op het artikel. Bijlage 4 van het Programma Groen ('[vervallen]') is leeg.",
+    "Doorslaggevend voor W: art. 4:11a lid 3 'kan de vergunning worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (W2).",
+    "Doorslaggevend voor H: art. 4:11c lid 1 'Het bevoegd gezag kan een herbeplant- of instandhoudingsplicht opleggen'. Het Programma Groen par. 3.3 noemt wel een verplichting tot vergoeding van waardeverlies (NVTB), maar alleen bij bouwplannen, inritten en wegreconstructies in gemeentelijke groenstructuren; dat verhoogt H niet.",
+    "Herplant na illegale kap: APV art. 4:11c lid 2 'kan' en Programma Groen par. 4.2.1: 'kan het bevoegd gezag een verplichting opleggen tot financiële compensatie op basis van de boomwaarde (Methode NVTB) ... dan wel een verplichting tot herbeplanten'. Beide 'kan'; geen vaste plicht.",
+    "Het Programma Groen kondigt aan dat 'de regels in de toekomst overgeheveld worden naar het omgevingsplan'; per peildatum staat de kapregel nog in de APV (omgevingsplan art. 22.299 bevat alleen aanvraagvereisten).",
+    "Leges 2026 versie CVDR751173_3 in werking 2026-10-01."
+  ],
+  "modelsignalen": [
+    "Het Programma Groen (vastgesteld beleid) zegt dat tuinbomen in de nieuwe APV vrijgesteld zijn, maar het artikel bevat geen tuinuitzondering. Scoren op het artikel volgt INTENT.md (artikel tegenover toelichting)."
+  ]
+}

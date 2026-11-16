@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM1876",
+  "gemeente": "Bronckhorst",
+  "provincie": "Gelderland",
+  "brondocument": "Omgevings- en Bouwverordening gemeente Bronckhorst 2017, hoofdstuk 5 (art. 5.1 t/m 5.5), CVDR456923_2; Verordening op de heffing en de invordering van leges 2026, art. 2.30 (CVDR747261_2); Omgevingsplan gemeente Bronckhorst art. 22.299 en art. 21.37, 21.38, 21.103 (CVDR696508_6); Uitvoeringsprogramma 2023-2024 (CVDR693211_1) par. 3.19 en 3.24; APV 2021 (CVDR665535_1) afd. 4.3 (art. 4:10 en 4:12 'Niet opgenomen')",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR456923/2 ; https://lokaleregelgeving.overheid.nl/CVDR747261/2 ; https://lokaleregelgeving.overheid.nl/CVDR696508/6 ; https://lokaleregelgeving.overheid.nl/CVDR693211/1",
+  "datum_geldigheid": "Omgevings- en Bouwverordening CVDR456923_2: geldend van 2024-01-01 t/m heden. Leges CVDR747261_2: in werking 2026-10-01. Omgevingsplan CVDR696508_6: in werking 2026-07-16. Peildatum scoren 2026-11-15.",
+  "laatste_wijziging": "Omgevings- en Bouwverordening: versie 2 per 2024-01-01 (volgens regelingen.jsonl alleen art. 2.32 t/m 2.39 gewijzigd, dus niet hoofdstuk 5). Leges: versie 2 per 2026-10-01.",
+  "juridische_plaats": "Omgevings- en Bouwverordening hoofdstuk 5, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Een 'Bomenverordening' staat niet in het dossier; de verwijzing is onjuist of onvolledig. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; daarnaast vergunningplicht voor vellen in het omgevingsplan zelf voor delen van het buitengebied (art. 21.37, 21.103).",
+  "praktijkcontrole": "Sinds 2025: 429 bekendmakingen op titel, 186 besluiten, 11 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. Besluiten gaan over beuken, eiken, esdoorns, kastanjes, populieren en notenbomen, dus soorten van de lijst in art. 5.2; ook weigeringen en 'noodkap'. Eén besluit betreft 259 bomen volgens vellijst op diverse locaties (waarschijnlijk gemeentebomen; niet vastgesteld). Past bij een breed regime met soortenlijst.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand (art. 5.2 lid 1).",
+  "drempel": "Stamomtrek 'van meer dan 95 centimeter, op 1,30 meter stamhoogte vanaf het maaiveld', alleen voor opgesomde soorten (art. 5.2 lid 1 onder b). Houtwal, houtsingel of hakhoutbosje van inheemse soorten (onder a) zonder drempel.",
+  "omtrek_cm": 95,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente, geen onderscheid tussen binnen en buiten de bebouwde kom in art. 5.2 (de definitie 'bebouwde kom' staat in art. 5.1 maar wordt in art. 5.2 niet gebruikt), particulier en openbaar. Alleen de soorten: Acacia (Robinia), Beuk, Eik, Els (uitsluitend geknot), Es, Esdoorn, Grove Den, Haagbeuk, Iep, Linde, Noot, Paardenkastanje, Plantaan, Populier, Tamme Kastanje en Wilg (uitsluitend geknot). Omgevingsplan: in agrarisch en natuurgebied buiten het bouwvlak ook vergunning voor 'vellen en rooien van bomen, hakhout en andere houtopstanden' zonder drempel (art. 21.37 lid 2 onder e; 21.103 onder g); dat deel telt als aangewezen gebied (D hooguit 2) en bepaalt D dus niet.",
+  "uitzonderingen": "Art. 5.2 lid 2: niet voor 'houtopstanden, welke een zelfstandige eenheid vormen' groter dan 10 are of meer dan 20 bomen in rijbeplanting; 'fruitbomen, met uitzondering van hoogstamfruitbomen'; windschermen om boomgaarden; kerstbomen (naaldbomen niet ouder dan twintig jaar); kweekgoed; populieren of wilgen (behalve geknot, als wegbeplanting of beplanting langs waterwegen); eenrijige beplanting langs landbouwgronden. Lid 3: Plantenziektewet of aanschrijving of last van het college. Lid 4: spoedeisend belang of direct gevaar (toestemming burgemeester). Geen tuin-, erf- of oppervlakte-uitzondering. Bomen 'geplant met een herplantplicht' zijn uit lid 1 onder b uitgezonderd. De beperking tot een lijst van 16 soorten sluit onder meer berk, lariks, spar, vruchtbomen en niet-geknotte els en wilg uit; dat is niet als ruime tuinuitzondering (-1) gerekend, omdat de bron geen 'alle naaldbomen' of 'alle fruitbomen in tuinen' uitzondering heeft (zie modelsignaal).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 5.3 lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand, of f. de waarde voor de leefbaarheid van de houtopstand.' Lid 2: bestemmings-, groen-, bomen- of landschapsplannen mogen worden gehanteerd. W = 2 (belangenafweging). Geen strengere vastgestelde beleidsregel over verlening gevonden.",
+  "herplantplicht": "Art. 5.4 lid 1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Lid 2: 'Indien het gemeentelijk beleid of een bestemmings-, bomen-, groen-, of landschapsplan de te vellen houtopstand direct of indirect als waardevol omschrijft, wordt, zo vaak mogelijk, een herplantplicht opgelegd.' Uitvoeringsprogramma 2023-2024 par. 3.19: 'Een herplantplicht wordt opgelegd als bomen met een vergunning worden gekapt of wanneer illegaal is gekapt.' en 'Voor basisbomen wordt een herplantplicht opgelegd wanneer de nieuwe boom zich op de aangewezen locatie duurzaam kan ontwikkelen.' Geen financiële compensatie of boomwaarde gevonden. H = 1, maximum 2 (beleid met voorwaarde).",
+  "herplant_ontsnapping": "Regeling: 'kan' (bevoegdheid, per geval door het bevoegd gezag). Beleid: 'Bij kap van een boom behorend tot een boomstructuur is herplant niet altijd vanzelfsprekend' en herplant voor basisbomen alleen 'wanneer de nieuwe boom zich op de aangewezen locatie duurzaam kan ontwikkelen'. Geen betaling als alternatief. Herplant na illegale kap: art. 5.5 lid 1 'kan ... de verplichting opleggen te herbeplanten'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Alleen beleid: 'Voor herplant welke niet binnen de gestelde termijn is uitgevoerd, geldt het gebruikelijke handhavingsprotocol.' (Uitvoeringsprogramma 2023-2024, par. 3.19). Het Beleidsplan Toezicht en Handhaving 2023-2027 (CVDR693140_1) noemt als instrumenten last onder dwangsom en last onder bestuursdwang. De regeling zelf zegt er niets over.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via de Omgevingswet: legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (kap-specifiek, S = 1; foute verwijzing naar 'Bomenverordening' genoteerd). Geen eigen strafbepaling in de Omgevings- en Bouwverordening; APV art. 6:1 B (hechtenis of geldboete tweede categorie) geldt voor de APV en afdeling 4.3 is 'Niet opgenomen'. Geen bestuurlijke boete voor kappen in de regeling. Beleid: 'Het herstellen van de strijdige situatie is in dergelijke gevallen niet meer mogelijk en hierdoor wordt er strafrechtelijk opgetreden (proces verbaal). Daarnaast wordt een herplantplicht opgelegd.' (Uitvoeringsprogramma 2023-2024, par. 3.24). Illegale kap heeft in het handhavingsbeleid prioriteit 'Laag'.",
+  "procedure": "Leges: EUR 65,00 (art. 2.30 legesverordening 2026). Art. 5.2 lid 5: positieve fictieve beschikking bij niet tijdig beslissen (paragraaf 4.1.3.3 Awb). Vergunning vervalt als niet binnen maximaal een jaar na onherroepelijk worden volledig gebruik is gemaakt (art. 5.4 lid 5). Bekendmaking in het gemeenteblad (zie praktijkcontrole). Bezwaar en beroep volgens Awb; beslistermijn niet apart in de kapartikelen gevonden.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing (geen lijstsysteem)",
+  "status": "ok",
+  "ontbrekend": "Het omgevingsplan in het DSO (tijdelijk deel) is niet ingezien; de DSO-API-key is aangevraagd. Een 'Bomenverordening' waarnaar de legesverordening verwijst staat niet in CVDR (geen treffer in regelingen.jsonl). Geen bomenlijst of -kaart van toepassing gevonden. Beslistermijn niet vastgesteld.",
+  "artikelnummers": [
+    "Omgevings- en Bouwverordening 2017 art. 5.1, 5.2, 5.3, 5.4, 5.5",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299, 21.37, 21.38, 21.103, 21.104",
+    "Uitvoeringsprogramma 2023-2024 par. 3.19, 3.24",
+    "APV 2021 art. 4:10 en 4:12 (Niet opgenomen), 6:1 B"
+  ],
+  "opmerkingen": [
+    "W (citaat): 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: a. de natuurwaarde van de houtopstand;' (art. 5.3 lid 1, CVDR456923_2).",
+    "H (citaat): 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 5.4 lid 1). Beleid: 'Voor basisbomen wordt een herplantplicht opgelegd wanneer de nieuwe boom zich op de aangewezen locatie duurzaam kan ontwikkelen.' (Uitvoeringsprogramma 2023-2024, par. 3.19): voorwaarde, dus H = 1 met maximum 2. Het uitvoeringsprogramma 2023-2024 staat in CVDR als geldend maar beslaat een afgelopen periode; het Uitvoeringsprogramma 2025 (CVDR740330_1) noemt alleen '... toe op de naleving van de herplantplicht'.",
+    "D: stamomtrek 95 cm valt in de klasse 60-100 cm (D = 3), beperkt tot 16 soorten. De soortenlijst is niet als ruime uitzondering (-1) gerekend, omdat het artikel geen van de standaard-uitzonderingen voor tuinen of 'alle naaldbomen'/'alle fruitbomen in tuinen' bevat (zie modelsignaal).",
+    "Het omgevingsplan (transitiefase) kent daarnaast een vergunningplicht zonder drempel voor het vellen van bomen in Agrarisch - landelijk gebied (art. 21.37 lid 2 onder e; art. 21.38 onder b: niet binnen het bouwvlak) en in Natuur (art. 21.103 onder g). Dat is een regel buiten de kom en buiten erven, dus aangewezen gebied (D hooguit 2); voor kleine zones (rioolleiding art. 21.116, waterberging art. 21.147) geldt hetzelfde in klein formaat en telt niet mee.",
+    "Voorbeeldbomen A (80 cm) en B (40 cm): beide onder de drempel van 95 cm, dus geen vergunning nodig volgens art. 5.2.",
+    "Juridische plaats: de materiële regel staat in de Omgevings- en Bouwverordening. Art. 4:10 en 4:12 APV zijn 'Niet opgenomen'. Het bewijs dat het werkt als omgevingsplanactiviteit is de legesverordening (art. 2.30), met een foute verwijzing naar 'artikel 2 van de Bomenverordening'.",
+    "Handhavingsbeleid: illegale kap en herplantplicht hebben de prioriteit 'Laag' respectievelijk 'Gemiddeld' (Beleidsplan Toezicht en Handhaving 2023-2027, par. 2.3). Geen beleid met bestuurlijke boete voor kappen gevonden.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een regel die alleen voor een beperkte lijst boomsoorten geldt (positieve soortenlijst), sluit veel gewone tuinbomen uit en geeft altijd −1, zonder bereik: D3 → D2.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 21.37 lid 2 onder e ('vellen en rooien van bomen, hakhout en andere houtopstanden en handelingen die kunnen leiden tot de dood of beschadiging van bomen') en art. 21.103 onder g zijn aanlegvergunningen in Agrarisch - landelijk gebied buiten het bouwvlak en in Natuur (landschap, buitengebied), geen regel voor tuinen en erven bij woningen; ze tellen niet voor D en zouden D2 niet verhogen. Art. 21.116 (rioolleiding) en 21.147 (waterberging) zijn kleine zones met een ander doel. Art. 21.38 onder d en 21.104 onder d sluiten de aanlegvergunning uit als al een vergunning voor het vellen van een houtopstand nodig is. Art. 22.297 en 22.299 zijn alleen aanvraagvereisten. D, W, H en S ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Een positieve soortenlijst (hier 16 boomsoorten, waarbij onder meer berk, lariks, spar, vruchtbomen en niet-geknotte els en wilg buiten de regeling vallen) beperkt de dekking sterk, maar het model kent alleen correcties voor 'alle naaldbomen', 'alle fruitbomen in tuinen' en 'populieren of wilgen'. Het model vangt dit onvoldoende; hier is D = 3 gehouden zonder bereik.",
+    "Een legesverordening die verwijst naar een niet-bestaande 'Bomenverordening' is voor bewijs van de omgevingsplanroute lastig; het model behandelt dit als foute verwijzing (S = 1), maar het blijft een zwak bewijs."
+  ]
+}

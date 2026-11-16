@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0358",
+  "gemeente": "Aalsmeer",
+  "provincie": "Noord-Holland",
+  "brondocument": "Algemene plaatselijke verordening Aalsmeer (CVDR445602_11) art. 4:10, 4:11, 6:1, 1:2, 1:4, 1:8; Besluit B&W vaststelling waardevolle bomenlijst Aalsmeer (CVDR738518_1); Legesverordening Aalsmeer 2026 (CVDR752866_2) art. 2.31; Omgevingsplan gemeente Aalsmeer (CVDR696290_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR445602/11 ; https://lokaleregelgeving.overheid.nl/CVDR738518/1 ; https://lokaleregelgeving.overheid.nl/CVDR752866/2 ; https://www.aalsmeer.nl/waardevolle-bomen",
+  "datum_geldigheid": "APV CVDR445602_11 geldend vanaf 2026-01-07 t/m heden; bomenlijst-besluit CVDR738518_1 vanaf 2025-04-23; legesverordening 2026 CVDR752866_2 vanaf 2026-10-22; omgevingsplan CVDR696290_3 vanaf 2026-01-14 (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV: versie 11 per 2026-01-07. Bomenlijst-besluit: vastgesteld door het college op 12 maart 2024 (kaart), gepubliceerd in CVDR per 2025-04-23.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.31 noemt 'het vellen van een houtopstand, op grond van de Algemene plaatselijke verordening, in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 13 bekendmakingen op titel, waarvan 10 aanvragen, 2 besluiten (beide 'Aanvraag vergunning geweigerd voor het kappen van een boom', gmb-2026-441850 en gmb-2025-408404) en 2 meldingen van vergunningvrije kap. Aanvragen betreffen onder meer voor- en achtertuinen, dus particuliere bomen vallen onder het regime. Twee weigeringen op een klein aantal aanvragen. De twee opgehaalde besluiten noemen geen grondslag.",
+  "vergunningplicht": "Omgevingsvergunning van het college voor het vellen van een houtopstand die op de bomenlijst (waardevolle bomenkaart) staat (APV art. 4:11 lid 2).",
+  "drempel": "Geen drempel naar omvang: alleen bomen die op de waardevolle bomenlijst/kaart staan, ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem)",
+  "reikwijdte": "APV art. 4:11 lid 1: 'Het college stelt een bomenlijst vast waarop de waardvolle en andere te beschermen bomen in de gemeente worden vermeld, op basis van in beleid opgenomen criteria.' Lid 2: 'Het is verboden zonder omgevingsvergunning van het college een houtopstand te vellen of te doen vellen die staat vermeld in de in het eerste lid benoemde lijst.' Besluit CVDR738518_1: 'het beschermen van de gemeentelijk en particuliere waardevolle bomen. Deze zijn vastgelegd op bijgevoegde kaart'. Gemeentelijke website: 'Deze bomen kunnen staan in gemeentelijk groen, maar ook in particuliere tuinen.'",
+  "uitzonderingen": "APV art. 4:11 lid 4: verbod 'niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Bomen die niet op de lijst staan zijn niet beschermd. Iepziekte: art. 4:11e (aanschrijving).",
+  "weigeringsgronden": "APV art. 4:11 lid 3: 'Het college kan de vergunning verlenen indien op het moment van vergunningsaanvraag de betreffende boom niet voldoet aan de criteria van de in het eerste lid bedoelde lijst.' Criteria (CVDR738518_1): conditie en toekomstverwachting > 10 jaar, voldoende ontwikkelruimte, en bijzondere ouderdom, afmetingen, verschijningsvorm, ecologische, cultuurhistorische of dendrologische waarde; 'Deze aanvragen worden door de gemeente getoetst op basis van de omschreven drempelcriteria.' Daarnaast art. 1:8 lid 1 (openbare orde, openbare veiligheid, volksgezondheid, bescherming van het milieu).",
+  "herplantplicht": "APV art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen regels.' Nadere regels of beleidsregel over herplant niet gevonden. Geen financiele compensatie.",
+  "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan'); het bevoegd gezag beslist per geval.",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en artikel 4:11, tweede lid.' Legesverordening 2026 art. 2.31 noemt het vellen een omgevingsplanactiviteit (WED via Ow 5.1). Geen bestuurlijke boete gevonden. Herplantplicht na illegale kap: art. 4:11d (kappen zonder vergunning en instandhoudingsplicht) is vervallen.",
+  "procedure": "Aanvraag via het Omgevingsloket (bomenlijst-besluit). Leges 2026 art. 2.31 lid 1: EUR 250,00 (voorheen leges 2019 art. 2.3.10: EUR 78,90 / 80,50). Art. 4:11 lid 6: 'Op de vergunning is paragraaf 4.1.3.3 van Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing.' Bekendmaking in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets geregeld voor een opgelegde herplantplicht. APV art. 1:4 lid 3 en art. 1:6 lid 2 sluiten omgevingsvergunningen uit ('Dit artikel is niet van toepassing op een omgevingsvergunning'); art. 6:1 lid 1 straft alleen overtreding van de op grond van art. 1:4 gegeven voorschriften. Alleen het algemene instrumentarium (Awb) blijft over.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de waardevolle bomenkaart staat in een JavaScript-kaartviewer (aa.kaartviewer.nl, dataset waardevollebomen2023-aalsmeer, met filter 'eigenaar=Particulier') waarvan de gegevens niet via een eenvoudig verzoek op te halen waren; aantal onbekend. Dat er particuliere bomen op staan blijkt uit de bronteksten (CVDR738518_1 en gemeentelijke website).",
+  "status": "ok",
+  "ontbrekend": "Aantal bomen op de waardevolle bomenkaart (totaal en particulier) niet vastgesteld. Het Bomenplan Aalsmeer (2021, raad) waarnaar het besluit verwijst staat niet in het dossier of in CVDR; of dat plan herplant of toetsing regelt, is niet na te gaan. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4:11e, 6:1, 1:2, 1:4, 1:6, 1:8",
+    "Besluit waardevolle bomenlijst CVDR738518_1",
+    "Legesverordening 2026 art. 2.31",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1: alleen bomen op de waardevolle bomenlijst/kaart (art. 4:11 lid 2), ongeacht omvang. Particuliere bomen staan er volgens de bronteksten op; het aantal is niet vastgesteld, de lijst is niet ingezien, dus het bereik loopt vanaf D0 (INTENT, ONZEKERHEID).",
+    "W2 (max 3): vergunning kan alleen worden verleend als de boom niet aan de lijstcriteria voldoet: 'Het college kan de vergunning verlenen indien op het moment van vergunningsaanvraag de betreffende boom niet voldoet aan de criteria van de in het eerste lid bedoelde lijst.' De criteria zijn waarden (ouderdom, ecologie, cultuurhistorie); dit kan als weigeren tenzij (W3) worden gelezen.",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen regels.' Geen beleidsregel over herplant in CVDR gevonden.",
+    "S1: WED-aanwijzing in APV art. 6:1 lid 2 voor art. 4:11 lid 2 en omgevingsplanactiviteit volgens leges art. 2.31. Geen bestuurlijke boete, geen herplant na illegale kap.",
+    "Voorbeeldbomen A en B: alleen vergunning als de boom op de lijst staat.",
+    "Restant bruidsschat: omgevingsplan art. 22.299 bevat aanvraagvereisten; de vergunningplicht zelf staat in de APV."
+  ],
+  "modelsignalen": [
+    "Een lijstsysteem waarvan de kaart wel particuliere bomen bevat maar niet is te tellen (JavaScript-viewer) valt tussen 'lijst ingezien' en 'lijst niet ingezien'; het model geeft dan geen aantal en de betrouwbaarheid blijft afhankelijk van de keuze voor min 0 of min 1.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst niet ingezien, maar vastgestelde regeling of beleid bevestigt dat er particuliere bomen op staan: D-minimum 1 (was 0)."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0342",
+  "gemeente": "Soest",
+  "provincie": "Utrecht",
+  "brondocument": "Algemene plaatselijke verordening Soest 2025, hoofdstuk 4 afd. 3 (art. 4:10-4:11i), art. 6:1; Nota bescherming en kap van bomen 2012 (CVDR679297_1, hoofdstuk 4, 6 en 8); Uitvoerings- en handhavingsstrategie fysieke leefomgeving 2024 (CVDR728463_1) en U&H-strategie Regio Utrecht 2026 (CVDR745536_1); Legesverordening Soest 2026 art. 2.30; Omgevingsplan Soest art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR749230/1",
+  "datum_geldigheid": "APV Soest 2025 (CVDR749230_1): geldend van 2026-01-22 t/m heden",
+  "laatste_wijziging": "APV Soest 2025 is een nieuwe regeling (CVDR749230_1, in werking 2026-01-22) die de APV Soest 2022 (CVDR685551_3, tot 2026-01-22) vervangt; de Nota bescherming en kap van bomen 2012 (CVDR679297_1) is sinds 2012-11-22 ongewijzigd",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens Legesverordening Soest 2026 art. 2.30 ('het vellen van een houtopstand, bedoeld in Hoofdstuk 4, Afdeling 3 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en WED-aanwijzing in APV 6:1 lid 2; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "727 bekendmakingen sinds 2025 (361 besluiten, 354 aanvragen, 39 weigeringen volgens titel); steekproef van 10 besluiten noemt geen grondslag. Veel besluiten, past bij een regime voor de hele gemeente.",
+  "vergunningplicht": "omgevingsvergunning (verbod op vellen behoudens vergunning), art. 4:11b (Bomenkaart) en 4:11d (overige bomen)",
+  "drempel": "Particuliere bomen buiten de Bomenkaart: vrijgesteld bij een kavelgrootte van minder dan 175 m2 (ongeacht omtrek) en bij een stamomtrek van minder dan 80 cm op percelen groter dan 175 m2 ('privaat eigendom zijn, een stamomtrek van minder dan 80 cm hebben, gemeten op 1.30 meter boven maaiveld, en op percelen met een kavelgrootte van meer dan 175 m² staan'). Bomen op de Bomenkaart (beschermwaardig): 'stamomtrek van minimaal 30 cm' (art. 4:10 definitie 'Boom').",
+  "omtrek_cm": 80,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar. Twee regimes: (1) bomen op de Bomenkaart 'de groene parels van Soest' (monumentaal, waardevol, parkwijken/bomenstructuren; alle bomen vanaf 30 cm omtrek, art. 4:10 en 4:11b); (2) alle overige bomen (art. 4:11d): particulier vanaf 80 cm omtrek op percelen groter dan 175 m2; gemeentelijk vanaf 80 cm. D is per deel bepaald: beide delen (binnen en buiten de kom) komen op drempel 80 cm met kavelsuitzondering.",
+  "uitzonderingen": "Art. 4:11d lid 3: geen verbod voor houtopstanden die niet op de Bomenkaart staan en 'ongeacht hun stamomtrek, privaat eigendom zijn en op percelen met een kavelgrootte van minder dan 175 m² staan'; en privaat eigendom met 'stamomtrek van minder dan 80 cm'. Lid 4: Plantgezondheidswet of aanschrijving, spoed/gevaar, buiten de kom bedrijfseconomische exploitatie (populier/wilg wegbeplanting, vruchtbomen, kweekgoed, kerstbomen), bos van meer dan 10 a of rijbeplanting van 20 bomen buiten kom en niet op erven/tuinen, biomassa. Perceelsuitzondering tot 175 m2 telt als tuinuitzondering (-1) volgens INTENT.",
+  "weigeringsgronden": "Art. 4:11e lid 1 (overige bomen): 'Vergunning voor het vellen van een houtopstand als bedoeld in artikel 4:11d lid 1 wordt onder verwijzing naar het Beleid geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende criteria: a. de boom heeft beeldbepalende waarde; b. ... cultuurhistorische waarde; c. ... dendrologische waarde; d. ... natuur-/natuurwetenschappelijke waarde; e. het betreft een herplantboom; f. ... educatieve waarde.' Niet van toepassing binnen een bestaand bouwvlak (lid 2). Bomenkaart-bomen (art. 4:11b lid 2): vergunning 'slechts bij uitzondering' (nee-tenzij); dat is een lijst-/gebiedsregime en telt niet voor W (grootste deel van de gedekte bomen).",
+  "herplantplicht": "Art. 4:11f lid 1 (overige bomen): 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Lid 2: 'Indien niet of niet geheel ter plaatse kan worden herplant, kan in afwijking van het eerste lid aan een vergunning tot vellen het voorschrift verbonden worden dat de houtopstand niet mag worden geveld alvorens een financiële bijdrage is gestort in het gemeentelijke Bomenfonds.' Nota 2012 hfst 6: 'Bij een vergunning voor het kappen van een boom op een particulier perceel ≥ 175 m² ... kan het voorschrift tot een herplant worden opgenomen.' Voor Bomenkaart-bomen (art. 4:11c lid 1) 'legt een herplantplicht op'; dat is niet het regime voor het grootste deel van de gedekte bomen.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag (college) beslist per geval; bij herplant die ter plaatse niet kan 'kan' een storting in het Bomenfonds als voorschrift worden verbonden (art. 4:11f lid 2). Nota 6.1.2: bij particulieren 'wordt herplantplicht opgelegd ter grootte van het aantal verwijderde bomen' zodra er een herplantplicht wordt opgelegd; opleggen zelf blijft 'kan'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen eigen bepaling in de APV over niet nakomen van een herplantvoorschrift. Uitvoerings- en handhavingsstrategie Regio Utrecht 2026 (CVDR745536_1), richtlijn dwangsombedragen: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom'; U&H 2022-2023 bijlage 8: 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht. | per week | 5.000 | 4 weken'. APV 6:1 lid 2 maakt overtreding van het bepaalde 'bij of krachtens' 4:11b en 4:11d lid 1 een economisch delict; of een niet-nagekomen voorschrift hieronder valt, is niet gecontroleerd.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "WED-aanwijzing in regeling: APV 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... 4:11b en 4:11d, eerste lid' (tevens via Ow 5.1 volgens leges art. 2.30). Herplant na illegale kap: art. 4:11h lid 1 'kan het bevoegd gezag ... de verplichting opleggen: a. te herplanten' (bevoegdheid). Geen bestuurlijke boete in de regeling; Nota 8.2.1 noemt een bestuurlijke strafbeschikking door een boa (strafrecht, geen bestuurlijke boete).",
+  "procedure": "Omgevingsvergunning; leges 2026 art. 2.30: 'Indien niet meer dan 10 bomen worden geveld € 133,05'; aanvraag door of met toestemming van de eigenaar (4:11i); aanvraagvereisten omgevingsplan 22.299; beslistermijn omgevingsvergunning volgens Awb/Ow (APV 1:2 lid 3 niet van toepassing); bezwaar en beroep volgens Awb; het dossier noemt geen openbare voorbereiding of positieve fictieve beschikking voor 4:11d.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bomenkaart 'de groene parels van Soest' naast een breed regime; niet ingezien en niet geteld (D wordt bepaald door het brede regime)",
+  "status": "ok",
+  "ontbrekend": "Bomenkaart en register 'de groene parels van Soest' niet ingezien (omvang parkwijken/particuliere bomen onbekend; telt niet voor D omdat het brede regime bepalend is). Omgevingsplan in het DSO niet ingezien, alleen art. 22.299 (aanvraagvereisten). Nota 2012 is in het dossier afgekapt; de relevante delen (hfst 4, 6, 8) zijn in tekst/CVDR679297_1.md gelezen.",
+  "artikelnummers": [
+    "APV Soest 2025: art. 1:1, 4:10, 4:11, 4:11a-4:11j, 4:12, 6:1 lid 2",
+    "Nota bescherming en kap van bomen 2012: hfst 4 (4.1.1-4.1.3), 6, 8.2.1",
+    "Uitvoerings- en handhavingsstrategie fysieke leefomgeving 2024 (4.8); U&H-strategie Regio Utrecht 2026 (bijlage P) en 2022-2023 (bijlage 8)",
+    "Legesverordening Soest 2026 art. 2.30",
+    "Omgevingsplan Soest art. 22.299"
+  ],
+  "opmerkingen": [
+    "D2: hele gemeente met drempel 80 cm omtrek (D3, middelmatig), minus 1 voor de uitzondering van alle particuliere kavels kleiner dan 175 m2 (INTENT: tuinen of percelen tot een bepaalde oppervlakte tellen als ruime uitzondering, ongeacht hoe klein). Boven 175 m2 geldt de drempel van 80 cm.",
+    "W2: 'wordt onder verwijzing naar het Beleid geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (art. 4:11e lid 1); belangenafweging op beeldbepalende, cultuurhistorische, dendrologische, natuur- en educatieve waarde. Nota 4.1.2: 'ja, mits'-principe.",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11f lid 1). Storting in Bomenfonds alleen als voorschrift bij onmogelijke herplant ('kan'), dus verhoogt H niet. Nota 6.1.2 is een beleidsnota (2012) en maakt herplant bij categorie 4 en 5 niet verplicht ('kan het voorschrift tot een herplant worden opgenomen').",
+    "S1: WED-aanwijzing in APV 6:1 lid 2 voor 4:11b en 4:11d lid 1; leges 2.30 noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow (route Ow 5.1 ook). Dwangsomrichtlijn (5.000 per week) en herplantplicht na illegale kap zijn algemeen instrumentarium resp. 'kan' (4:11h) en verhogen S niet verder. Geen bestuurlijke boete in de regeling; de strafbeschikking in Nota 8.2.1 is strafrecht.",
+    "Boom A (80 cm, perceel ca. 300 m2): niet vrijgesteld, want de uitzondering geldt voor 'een stamomtrek van minder dan 80 cm' en 300 m2 is meer dan 175 m2: vergunning nodig. Boom B (40 cm): vrijgesteld op grond van art. 4:11d lid 3 sub b. Als de boom op de Bomenkaart staat (bijv. in een parkwijk) geldt vanaf 30 cm omtrek een verbod; dat is niet getoetst voor het voorbeeld.",
+    "Vellen is breed gedefinieerd (art. 4:10): ook ingrijpende vormsnoei en handelingen in de boombeschermingszone, en het verbod geldt ook voor het aantasten van de groeiruimte (4:11d lid 1 sub b).",
+    "Peildatum 2026-11-14: APV Soest 2025 geldt sinds 2026-01-22; er is geen latere wijziging gevonden in het dossier.",
+    "Kleine gebiedsregels: Bomenkaart-gebieden (parkwijken) vallen onder het strengere 'nee-tenzij'-regime (art. 4:11b), alleen in de opmerkingen vermeld.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D2 → D3."
+  ],
+  "modelsignalen": [
+    "Kavelgrens 175 m2: een uitzondering voor alle particuliere kavels kleiner dan 175 m2 telt volgens INTENT volledig als tuinuitzondering (-1), terwijl 175 m2 in de praktijk bijna alleen kleine rijtjeswoningtuinen uitsluit en 300 m2 (voorbeeldtuin) wel beschermd is. D2 lijkt daardoor streng voor het effect van de uitzondering.",
+    "Gecombineerd regime: de Bomenkaart met 'nee-tenzij' en herplant 'altijd' voor parkwijken/monumentale bomen (hogere W en H) bepaalt de score niet, omdat INTENT het regime voor het grootste deel van de gedekte bomen scoort; de omvang van de Bomenkaart is niet bekend."
+  ]
+}

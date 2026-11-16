@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0603",
+  "gemeente": "Rijswijk (ZH.)",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving gemeente Rijswijk art. 4.1.1 en art. 11.1.1 (CVDR712412_2); Verordening op de heffing en de invordering van leges gemeente Rijswijk 2026 art. 2.30 (CVDR748114_2); Omgevingsplan gemeente Rijswijk art. 4.54 en paragraaf 5.2.35, art. 5.239-5.245 (CVDR696360_5); APV voor Rijswijk afdeling 4.3 (CVDR728359_2, art. 4:10-4:12 vervallen)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR712412/2",
+  "datum_geldigheid": "2026-01-27 t/m heden (VFL, CVDR712412_2); omgevingsplan CVDR696360_5 geldt sinds 2026-07-09",
+  "laatste_wijziging": "2026-01-27 (VFL versie 2; volgens de gegevens van CVDR betreft die wijziging artikel 1.1.2; of art. 4.1.1 in die versie is gewijzigd is niet nagegaan); omgevingsplan versie 5 per 2026-07-09 (betreft niet vermeld)",
+  "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30: art. 4.1.1 VFL 'in samenhang met artikel 22.8 van de Omgevingswet') en volgens art. 11.1.1 lid 2a VFL (WED). Daarnaast bevat het omgevingsplan zelf een gelijkluidende kapregel (art. 5.242, 5.244); zie opmerkingen. De APV-afdeling (art. 4:10-4:12) is vervallen.",
+  "praktijkcontrole": "Slechts 2 bekendmakingen met kap-termen sinds 1-1-2025 (titelzoekopdracht), waarvan 1 besluit (omgevingsvergunning voor het kappen van 4 bomen, gmb-2025-80393) en 1 aanvraag, geen weigeringen. Het besluit noemt geen grondslag. Dit lage aantal is opvallend voor een gemeente met een breed kapregime; de gemeente publiceert kapbesluiten waarschijnlijk niet (altijd) in het Gemeenteblad of onder een andere titel. De praktijkcontrole zegt daarom weinig. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 208 bekendmakingen sinds 1-1-2025, waarvan 84 besluiten en 4 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "omgevingsvergunning voor het vellen van houtopstanden (VFL art. 4.1.1 lid 1) en voor het kappen van bomen (omgevingsplan art. 5.242 lid 1)",
+  "drempel": "houtopstanden vrij bij een diameter kleiner dan 15 cm op 1,30 m (VFL art. 4.1.1 lid 2 sub a); omgerekend omtrek ca. 47,1 cm",
+  "omtrek_cm": 47.1,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele grondgebied, particulier en openbaar. VFL art. 4.1.1: geen onderscheid tussen binnen en buiten de bebouwde kom. Omgevingsplan: de paragraaf 'geldt zowel binnen als buiten de bebouwingscontour houtkap' (toelichting art. 5.239), met bescherming van ook oudere bomen op particulier terrein.",
+  "uitzonderingen": "Voortuin kleiner dan 20 m2 en achtertuin tot 50 m2 (VFL; omgevingsplan: achtertuin kleiner dan 50 m2); grens ligt ver onder de ca. 300 m2 van de voorbeeldtuin, dus geen -1. Schubconiferen ('(schub)coniferen, zoals de Chameacyparis, Cupressocyparis leylandii en Thuja'; omgevingsplan: 'schubconiferen'), geen -1 omdat het een deel van de coniferen betreft; zie modelsignaal. Verder dunning, dode houtopstanden, noodkap bij onmiddellijk dreigend gevaar, besmettelijke boomziekte.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "VFL art. 4.1.1 lid 3: 'In afwijking van artikel 9.1.7 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde en waarde voor de leefbaarheid van de houtopstand. Omgevingsplan art. 5.244 lid 1: 'De omgevingsvergunning kan worden geweigerd als de belangen, bedoeld in Artikel 5.240 , onevenredig worden geschaad.'",
+  "herplantplicht": "VFL art. 4.1.1 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Omgevingsplan art. 5.244 lid 2: 'Bij vergunningvoorschrift kan een herbeplantingsplicht worden opgelegd.' Geen bepaling over herplant na illegale kap en geen financiele compensatie voor particuliere kap. Het Groenbeleid (CVDR748564_1) noemt een Bomenfonds alleen bij verwijderen van bomen 'door gebiedsontwikkelingen of noodzakelijk onderhoud' en verandert H niet.",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan ... opleggen'), geen harde plicht; het bevoegd gezag beslist per geval. Geen beleidsregel gevonden die herplant vast voorschrijft.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "VFL art. 11.1.1 lid 2: de bepaling noemt 'artikelen ... 4.1.1 t/m 4.2.2' en 'de op grond van artikel 9.1.3 daarbij gegeven voorschriften en beperkingen' en bepaalt dat overtreding 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Een opgelegde herplantplicht is een vergunningvoorschrift en valt daarmee onder deze strafbepaling.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: VFL art. 11.1.1 lid 2a: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 4.1.1'. Daarnaast noemt de legesverordening het vellen een omgevingsplanactiviteit ('in samenhang met artikel 22.8 van de Omgevingswet'), dus ook WED via Ow 5.1. Eigen strafbepaling VFL art. 11.1.1 lid 2 (hechtenis tot drie maanden of geldboete tweede categorie). Geen bestuurlijke boete voor kappen en geen herplantplicht na illegale kap. De WED-aanwijzing in APV art. 6:1 lid 3 verwijst naar het vervallen art. 4:11 lid 2.",
+  "procedure": "Leges art. 2.30 legesverordening 2026: EUR 93,35 per boom. Beslistermijn en bezwaar en beroep volgen VFL art. 9.1.2 en de Awb en zijn niet apart onderzocht. Het omgevingsplan vraagt bij de aanvraag per boom soort, foto, locatie, diameter en de mogelijkheid tot herbeplanten (art. 5.243).",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem",
+  "status": "ok",
+  "ontbrekend": "Zeer weinig bekendmakingen (2) in de praktijkcontrole; de beleidsregel voor de beoordeling van beeldbepalende en cultuurhistorische waarden, die de toelichting op art. 5.240 'gewenst' noemt, is niet gevonden; omgevingsplan in het DSO niet ingezien (de CVDR-versie bevat de artikelen wel); gemeentelijke website niet doorzocht; DSO-API-key nog niet beschikbaar.",
+  "artikelnummers": [
+    "VFL art. 4.1.1 lid 1, 2, 3, 4",
+    "VFL art. 11.1.1 lid 2 en 2a",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 4.53, 4.54, 5.239-5.245",
+    "APV art. 6:1 lid 3"
+  ],
+  "opmerkingen": [
+    "D4: hele gemeente, drempel 'houtopstanden met een diameter kleiner dan 15 cm' vrij (VFL art. 4.1.1 lid 2 sub a), omgerekend ca. 47,1 cm omtrek (15 x 3,14), onder 60 cm. Voorbeeldboom A (80 cm omtrek, ca. 25 cm doorsnee) is vergunningplichtig; voorbeeldboom B (40 cm omtrek, ca. 12,7 cm doorsnee) valt onder de drempel en is vrij.",
+    "Twee regelingen met een kapregel zijn geldend: VFL art. 4.1.1 en omgevingsplan art. 5.242 en 5.244. Volgens de regel 'twee regelingen tegelijk geldend' scoor ik op de regeling die de gemeente zelf aanwijst, hier de VFL via de legesverordening (art. 2.30 verwijst naar art. 4.1.1 VFL). Het omgevingsplan is niet strenger op de scorepunten: dezelfde drempel van 15 cm, dezelfde tuinuitzonderingen (achtertuin kleiner dan 50 m2) en ook 'kan' voor herplant.",
+    "Verschil tussen artikel en toelichting in het omgevingsplan: art. 5.244 lid 1 zegt 'kan worden geweigerd als de belangen ... onevenredig worden geschaad', terwijl de toelichting zegt 'De enige reden om de vergunning te weigeren is een ernstige aantasting van de genoemde belangen.' Het artikel gaat voor: W2 zonder bereik.",
+    "W2: VFL art. 4.1.1 lid 3 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden.",
+    "H1: VFL art. 4.1.1 lid 4 'kan een herplantplicht opleggen'; omgevingsplan art. 5.244 lid 2 ook 'kan'. Het Groenbeleid (CVDR748564_1) spreekt over compensatie bij gebiedsontwikkelingen en noodzakelijk onderhoud, dus niet over gewone kap door een particulier, en verhoogt H niet.",
+    "S1: WED-aanwijzing in de VFL (art. 11.1.1 lid 2a) en WED via de Omgevingswet volgens de legesverordening. Het Handhaving Uitvoeringsprogramma 2019 (CVDR677318_1) geeft 'Kappen bomen (kapvergunning)' prioriteit 'Laag'; geen bestuurlijke boete voor kappen.",
+    "De APV-afdeling over houtopstanden (art. 4:10, 4:11, 4:12) is vervallen; de WED-aanwijzing in APV art. 6:1 lid 3 verwijst nog naar 'artikelen ... 4:11, tweede lid' en is dus een verouderde verwijzing.",
+    "Het omgevingsplan (CVDR696360_5) heeft in art. 22.299 de aanvraagvereisten laten vervallen; die staan nu in art. 5.243.",
+    "Rijswijk heeft slechts 2 kapbekendmakingen sinds 2025; zie ontbrekend. Het besluit uit de steekproef is niet overgenomen.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 5.242 ('Het is verboden zonder omgevingsvergunning een boom te kappen of een andere handeling te verrichten die de dood van een boom kan veroorzaken') met uitzonderingen voor 'bomen gelegen in een achtertuin kleiner dan 50 m2' en 'schubconiferen' komt overeen met VFL art. 4.1.1 en is al meegenomen; art. 4.54 verwijst ernaar, art. 5.243 zijn aanvraagvereisten. Art. 5.244 (beoordelingsregels) staat niet in het DSO-uittreksel; de score blijft op de eerder gelezen tekst. Art. 4.53 (bebouwingscontour houtkap), 5.469 en 5.470 (spoor) en 5.245 (afstand tot de perceelsgrens) geven geen extra kapregel. D, W, H en S ongewijzigd."
+  ],
+  "modelsignalen": [
+    "De VFL zegt '(schub)coniferen, zoals de Chameacyparis, Cupressocyparis leylandii en Thuja' en het omgevingsplan zegt 'schubconiferen'. Is dat 'alle coniferen' (dan -1 en D3) of alleen schubconiferen (geen -1, D4)? INTENT.md noemt 'alle naaldbomen of coniferen' en eerdere gemeenten met 'schubconiferen' kregen geen -1. Advies: D4 aanhouden zonder correctie (de voorbeelden zijn allemaal schubconiferen en het omgevingsplan zegt 'schubconiferen'); voor de voorbeeldbomen A en B maakt het niets uit omdat die geen conifeer zijn.",
+    "Twee tegelijk geldende regelingen (VFL en omgevingsplan) met bijna dezelfde kapregel, maar met verschillend woordgebruik (VFL 'houtopstanden', plan 'bomen'; VFL '(schub)coniferen', plan 'schubconiferen'). INTENT.md regelt de keuze (de regeling die de legesverordening aanwijst), maar de gemeente heeft de regel dus dubbel vastgesteld. Advies: scoren op de VFL en in het rapport vermelden dat het omgevingsplan dezelfde regel bevat.",
+    "Rijswijk heeft slechts 2 kapbekendmakingen sinds 2025 terwijl vergelijkbare gemeenten er tientallen tot honderden hebben. De praktijkcontrole is hier dus niet bruikbaar als indicatie. Advies: geen aanpassing van de score; in het rapport als beperking noemen."
+  ]
+}

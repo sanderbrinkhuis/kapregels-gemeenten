@@ -1,0 +1,91 @@
+{
+  "gm_code": "GM0518",
+  "gemeente": "'s-Gravenhage",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene plaatselijke verordening voor de gemeente Den Haag (APV), afdeling 18 'Vellen van houtopstanden en handelsreclame' (art. 2:80-2:95) en art. 6:1; Verordening leges Omgevingswet Den Haag 2024 art. 6.1 (CVDR710508_3); Omgevingsplan gemeente Den Haag art. 22.299 (CVDR696341_4); Vaststellen definitieve versie van de 7de lijst monumentale bomen (CVDR764931_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR11313/72 ; https://lokaleregelgeving.overheid.nl/CVDR710508/3 ; https://lokaleregelgeving.overheid.nl/CVDR696341/4 ; https://lokaleregelgeving.overheid.nl/CVDR764931/1",
+  "datum_geldigheid": "APV CVDR11313_72 geldend vanaf 2026-10-20 t/m heden (peildatum scoren 2026-11-16); legesverordening CVDR710508_3 vanaf 2026-01-01; omgevingsplan CVDR696341_4 vanaf 2026-01-09; lijst monumentale bomen CVDR764931_1 vanaf 2026-07-24",
+  "laatste_wijziging": "APV: versie 72 per 2026-10-20 (wanneer afdeling 18 voor het laatst inhoudelijk is gewijzigd, is niet nagelopen). Lijst monumentale bomen: besluit van 2026-06-30, in werking 2026-07-24.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening art. 6.1 noemt 'het kappen van bomen of het vellen van een houtopstand, bedoeld in artikel 2:87 van de APV in samenhang met artikel 22.8 van de wet'. APV art. 2:90 lid 2 spreekt van 'artikel 22.299 van het tijdelijk deel van het Omgevingsplan'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 7 bekendmakingen op titel, waarvan 5 besluiten en 1 geweigerd volgens titel (gedeeltelijk geweigerde omgevingsvergunning, niet specifiek voor kap). Twee 'in heroverweging verlenen'-bekendmakingen betreffen kap van een haagbeuk en van een winterlinde (omgevingsvergunning voor het kappen van 1 boom met stamomtrek). De overige zijn APV-vergunningen, ontheffingen voor monumentale bomen in de openbare ruimte en een ontheffing voor een monumentale beuk. De steekproef noemt geen grondslag voor de kap zelf. Het lage aantal bekendmakingen zegt weinig over het aantal besluiten, omdat de zoekmethode op titel veel kapbesluiten kan missen.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor een omgevingsplanactiviteit) en voor monumentale bomen een ontheffing. APV 2:87 lid 1: 'Het is verboden een houtopstand zonder vergunning of, indien de houtopstand is vermeld op de lijst van monumentale bomen zonder ontheffing, van het bevoegd gezag te vellen of te doen vellen.'",
+  "drempel": "APV 2:82 lid 2 onder b: boom is 'een houtachtig overblijvend gewas met een omtrek van de stam van minimaal 30 centimeter op 1.30 meter boven het maaiveld gerekend langs de stam, indien het bomen betreft op achtererven van woningen niet groter dan 50 vierkante meter en niet zichtbaar vanaf openbaar toegankelijk gebied, geldt een omtrek van de stam van minimaal 90 centimeter op 1,3 meter boven maaiveld'. Dus vergunning vanaf omtrek 30 cm; op achtererven van woningen van ten hoogste 50 m2 die niet zichtbaar zijn vanaf openbaar gebied vanaf 90 cm.",
+  "omtrek_cm": 30,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar; het verbod geldt voor 'houtopstand: één of meer bomen, hakhout of een houtwal' (art. 2:82 lid 2 onder a). Geen onderscheid binnen of buiten de bebouwde kom, behalve de uitzondering voor groengebieden op de kaart 'Buiten de bebouwde kom Wet natuurbescherming Den Haag 2018' (alleen dunning of boomveiligheid). Daarnaast een lijst van monumentale en bijzondere bomen (art. 2:85), waarvoor altijd ontheffing nodig is; het brede regime bepaalt D.",
+  "uitzonderingen": "Art. 2:87 lid 2: a. houtopstand in de groengebieden buiten de bebouwde kom 'die bij wijze van dunning of vanwege boomveiligheid moet worden geveld'; b. Plantenziektenwet of art. 2:94; c. 'het periodiek vellen van hakhout ter uitvoering van het reguliere onderhoud'; d. periodiek terugzetten van geknotte of gekandelaberde bomen; e. direct vellen bij mondelinge toestemming van de burgemeester vanwege acuut gevaar. Geen algemene tuin-, erf-, soort- of aantalsuitzondering. Alleen de hogere drempel van 90 cm voor achtererven van woningen van ten hoogste 50 m2 die niet zichtbaar zijn vanaf openbaar gebied; die grens ligt onder de 300 m2 van de voorbeeldtuin en geeft daarom geen correctie (besluit 15-11-2026, maatgrens).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "ja",
+  "weigeringsgronden": "APV 2:88 lid 1: 'Het bevoegd gezag kan de vergunning of ontheffing, als bedoeld in artikel 2:87, eerste lid, weigeren dan wel onder voorschriften verlenen in het belang van: natuur-, educatieve en milieuwaarden; klimaatadaptieve waarden; cultuurhistorische waarden; belevings- en gebruikswaarden.' Boomeffectanalyse verplicht bij aanvraag voor meer dan vijf bomen (lid 3). Bij een ontheffing voor monumentale bomen eerst advies van de Adviesraad Monumentale Bomen (art. 2:89).",
+  "herplantplicht": "APV 2:91 lid 2 onder b: 'Tot de in het eerste lid bedoelde voorschriften kan behoren het voorschrift: ... dat binnen een bepaalde termijn en overeenkomstig de daarbij te geven aanwijzingen moet worden herplant'. Lid 5: 'Indien uitvoering van een herplant niet mogelijk is of naar maatstaven van redelijkheid onvoldoende compensatie biedt voor het vellen van de houtopstand wordt aan de ontheffing of vergunning het voorschrift verbonden, dat de houtopstand niet mag worden geveld alvorens een bedrag gelijk aan de herplantwaarde in het bomenfonds is gestort.' Na illegale kap: art. 2:92 lid 1 'kan ... het college aan de eigenaar ... de verplichting opleggen te herbeplanten'.",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren het voorschrift'); het college beslist per geval. Bij herplant die 'niet mogelijk is' volgt geen uitweg maar betaling: 'het voorschrift verbonden, dat de houtopstand niet mag worden geveld alvorens een bedrag gelijk aan de herplantwaarde in het bomenfonds is gestort' (art. 2:91 lid 5).",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit): legesverordening art. 6.1 noemt het kappen 'in samenhang met artikel 22.8 van de wet'. APV art. 6:1 lid 1 en lid 3 noemen art. 2:87 niet. Geen bestuurlijke boete voor kappen (de Verordening bestuurlijke boete overlast openbare ruimte noemt art. 2:87 t/m 2:92 niet; APV 6:1A 'Vervallen'). Herplantverplichting na illegale kap: art. 2:92 lid 1 (kan).",
+  "procedure": "Leges (Verordening leges Omgevingswet Den Haag 2024 art. 6.1): 1-5 bomen EUR 88,15; 6-10 bomen EUR 176,35; 11-25 bomen EUR 293,85; 26-50 bomen EUR 587,75; 51-100 bomen EUR 1.469,00; 101 of meer bomen EUR 2.351,00. Aanvraag met foto's (art. 2:90 lid 2) en aanvraagvereisten uit omgevingsplan art. 22.299; vergunning vervalt na anderhalf jaar niet gebruikt (2:90 lid 3). APV 1:2 (beslistermijn) is niet van toepassing (2:81); beslistermijn volgt uit de Omgevingswet. Bezwaar en beroep volgens de Awb.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV 2:91 lid 6: 'Tot de aan de vergunning of ontheffing te verbinden voorschriften behoort het voorschrift dat ook alle rechtsopvolgers van degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, verplicht zijn daaraan te voldoen.' en art. 2:92 lid 3 (zelfde strekking). Art. 6:1 lid 1 noemt art. 2:91 en 2:92 niet; de bestuurlijke boeteverordening ook niet. Verder alleen het algemene instrumentarium (bestuursdwang of dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 1351,
+  "lijst_aantal_particulier": 242,
+  "lijst_telling": "monumentale bomen op de 7de Lijst Monumentale Bomen: 1.351 bomen, waarvan 1.109 gemeentelijk en 242 particulier (besluit CVDR764931_1, geldend per 2026-07-24; de lijst zelf is niet ingezien)",
+  "status": "ok",
+  "ontbrekend": "Lijst monumentale bomen niet zelf ingezien (aantallen komen uit het besluit CVDR764931_1); beleidsregel of handhavingsbeleid voor herplant en boomwaarde niet in CVDR gevonden (Nota omgevingskwaliteit Den Haag 2025, CVDR755919_1, is niet gedownload omdat de titel niet over kap lijkt te gaan).",
+  "artikelnummers": [
+    "APV 1:1",
+    "APV 2:80",
+    "APV 2:81",
+    "APV 2:82",
+    "APV 2:85",
+    "APV 2:87",
+    "APV 2:88",
+    "APV 2:89",
+    "APV 2:90",
+    "APV 2:91",
+    "APV 2:92",
+    "APV 2:93",
+    "APV 6:1",
+    "Leges Omgevingswet 2024 art. 6.1",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Beslissend voor W: APV 2:88 lid 1 'kan ... weigeren dan wel onder voorschriften verlenen' in het belang van natuur-, klimaat-, cultuurhistorische en belevings- en gebruikswaarden: belangenafweging, W = 2. Geen beleidsregel gevonden die de verlening verder beperkt.",
+    "Beslissend voor H: 'Tot de in het eerste lid bedoelde voorschriften kan behoren het voorschrift: ... dat binnen een bepaalde termijn en overeenkomstig de daarbij te geven aanwijzingen moet worden herplant' (APV 2:91 lid 2 onder b): bevoegdheid, H = 1. Maximum 3 omdat lid 5 bij onmogelijke herplant een storting van de herplantwaarde in het bomenfonds verplicht stelt, terwijl herplant zelf alleen een bevoegdheid is.",
+    "Beslissend voor D: drempel 30 cm op 1,30 m voor de hele gemeente (D = 4). De hogere drempel van 90 cm geldt alleen voor achtererven van woningen van ten hoogste 50 m2 die niet zichtbaar zijn vanaf openbaar gebied. Voorbeeldtuin van ca. 300 m2 perceel valt er in de regel niet onder; beide voorbeeldbomen ja. Zou de achtertuin toch kleiner zijn dan 50 m2 en onzichtbaar, dan is boom A (80 cm) en boom B (40 cm) vrij.",
+    "Beslissend voor S: kappen is volgens de legesverordening een omgevingsplanactiviteit (WED via Ow 5.1), dus S = 1 zonder bereik. APV 6:1 noemt art. 2:87 niet; er is geen eigen strafbepaling voor kappen en geen bestuurlijke boete. Herplant na illegale kap is een bevoegdheid (2:92 lid 1).",
+    "Monumentale bomen: ontheffing vereist voor bomen op de lijst, ongeacht omvang (art. 2:87 lid 1). 7de lijst: 1.351 bomen waarvan 242 particulier (besluit CVDR764931_1). Het brede regime bepaalt D.",
+    "Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; de materiele regel staat in de APV (afdeling 18). Dit is dus geen restant bruidsschat.",
+    "Bestuurlijke boete overlast openbare ruimte (CVDR697515_3): art. 2:87 t/m 2:92 staan niet in de boetebepaling.",
+    "Artikel 2:82 lid 2 onder b: herplant- of instandhoudingsplicht geldt ook voor bomen kleiner dan 30 cm (90 cm op kleine achtererven).",
+    "Nabewerking 16-11-2026: H1 (1-3) → H2 (max 3): herplant 'kan', storting verplicht als herplant niet mogelijk is (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "H bij 'kan'-herplant met verplichte storting als herplant niet mogelijk is (APV 2:91 lid 5): het model kent 'verplichte storting als vervanging voor herplant die niet mogelijk is' (telt mee) en 'H = 3 alleen bij herplant als standaard met betaling als achtervang', maar niet de combinatie 'kan'-herplant plus verplichte storting als herplant niet mogelijk is. Puntschatting H = 1, maximum 3. Advies: leg vast dat dit H = 1 met maximum 3 is, of H = 2 wanneer de storting ook zonder herplantvoorschrift verplicht is.",
+    "Kleine achtererven (max. 50 m2 en niet zichtbaar vanaf openbaar gebied) hebben een hogere drempel van 90 cm tegen 30 cm elders. Geen -1 volgens de maatgrens (50 m2 ligt onder 300 m2), maar het model zegt niets over de combinatie van maat- en zichtbaarheidsvoorwaarde als drempelverschil in plaats van uitzondering. Advies: D scoren op de algemene drempel (zoals nu), met vermelding in de opmerkingen.",
+    "Herplant_niet_nakomen_type: de bepaling 'zijn verplicht daaraan te voldoen' staat in 2:91 lid 6 en 2:92 lid 3, maar alleen voor rechtsopvolgers, en art. 6:1 noemt de artikelen niet. Advies: 'niets geregeld' zoals nu ingevuld."
+  ]
+}

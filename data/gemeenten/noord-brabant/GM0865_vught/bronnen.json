@@ -1,0 +1,27 @@
+{
+  "gemeente": "Vught",
+  "gm_code": "GM0865",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Vught",
+  "zoeknaam_bekendmakingen": "Vught",
+  "opgehaald_op": "2026-11-15T21:05:29+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Vught\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 42,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Vught\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 323,
+  "geldende_regelingen": 12,
+  "geldend_met_kapartikelen": [
+    "CVDR668593_4",
+    "CVDR690880_2",
+    "CVDR696430_2",
+    "CVDR718656_1",
+    "CVDR751561_2"
+  ],
+  "bekendmakingen_besluiten": 164,
+  "bekendmakingen_aanvragen": 159,
+  "bekendmakingen_geweigerd": 6,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

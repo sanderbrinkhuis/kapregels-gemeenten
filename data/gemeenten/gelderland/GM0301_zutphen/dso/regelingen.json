@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0301/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Zutphen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0301/2024/omgevingsvisie/nld@13",
+    "beginGeldigheid": "2026-02-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0301_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:10Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0301/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zutphen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0301/2020/omgevingsplan/nld@17",
+    "beginGeldigheid": "2026-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0301_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:10Z"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "gm_code": "GM0664",
+  "gemeente": "Goes",
+  "provincie": "Zeeland",
+  "brondocument": "Algemene plaatselijke verordening Goes 2024, afdeling 4.3 Het bewaren van houtopstanden; Monumentale en Waardevolle bomenboek (collegebesluit 5 maart 2010, CVDR694348_1); Legesverordening Goes 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR720169/1",
+  "datum_geldigheid": "geldend van 2024-06-06 t/m heden (CVDR720169_1)",
+  "laatste_wijziging": "versie 1, vastgesteld 2024-04-11, in werking 2024-06-06 (vervangt APV Goes 2018)",
+  "juridische_plaats": "APV (na 1-1-2024 opnieuw vastgesteld), werkt als omgevingsplanactiviteit volgens Legesverordening 2026 art. 2.30 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand in samenhang met artikel 22.8') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "35 bekendmakingen sinds 2025 (13 besluiten, 22 aanvragen, 0 weigeringen volgens titel). Steekproef van 10 besluiten noemt geen grondslag; daaronder particuliere adressen (bijv. [adres] en [adres], Kloetinge), passend bij een lijst met particuliere bomen.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor bomen op de Bomenlijst",
+  "drempel": "geen drempel; alleen bomen op de Bomenlijst (Monumentale en Waardevolle bomenboek)",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t.",
+  "reikwijdte": "Hele gemeente, particulier en openbaar, alleen bomen op de Bomenlijst (art. 4:11 lid 1-2). Bomenboek online ingezien (https://www.goes.nl/bomenboek-gemeente-goes): 2.292 regels, waarvan 676 met eigenaar 'Particulier' (593 'Aanwezig') en 1.616 'Gemeente'.",
+  "uitzonderingen": "toestemming burgemeester bij spoedeisend belang openbare orde of direct gevaar (4:11 lid 4)",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ...; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; of f. de waarde voor de leefbaarheid van de houtopstand.' Bomenboek (beleid 2010): 'In de volgende gevallen kan het college besluiten tot het verstrekken van een kapvergunning' (zeer slechte toestand met risico, of zwaarwegend economisch nadeel bij bouw: 'Bij hoge uitzondering').",
+  "herplantplicht": "APV 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.'; 4:12b lid 4: boomwaarde als criterium mogelijk. Bomenboek (vastgesteld collegebeleid): bij vergunning 'het college legt herplantplicht ter plaatse op' en 'Het college legt financiële compensatie op mede aan de hand van een waardebepaling (rekenmethode volgens de Richtlijnen NVTB) van de boom', gestort in het bomenfonds.",
+  "herplant_ontsnapping": "APV: 'kan'. Bomenboek: herplant 'tenzij de nieuw te plaatsen boom vanwege zijn formaat op deze plaats geen overlevingskans heeft'; 'In zo'n geval wordt in overleg met de bomeneigenaar naar een passende oplossing gezocht'; natuurlijke aftakeling (ouderdom) 'vormt een uitzondering'.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12C lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.'; art. 6:1 lid 1: 'Overtreding van de in de deze verordening gestelde geboden en verboden en op grond van artikel 1:4 gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in regeling (APV 6:1 lid 3 voor 4:11 lid 2) en WED via Ow 5.1; eigen strafbepaling 6:1 lid 1; herplantplicht na illegale kap (4:12C lid 1, 'kan'), met 'Indien niet ter plaatse kan worden herplant vindt er een financiële compensatie plaats' (4:12C lid 2). Geen bestuurlijke boete.",
+  "procedure": "Omgevingsvergunning; leges € 181,85 (Legesverordening 2026 art. 2.30); standaardvoorwaarde van niet-gebruik tot 6 weken na bekendmaking (4:12b lid 3); vergunning vervalt na een jaar (4:12b lid 5); bezwaar en beroep volgens Awb.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Niet nagegaan of bestemmingsplannen of het omgevingsplan in het DSO (via ruimtelijkeplannen.nl, waar de gemeentesite naar verwijst) bomen extra beschermen. Of het bomenboek-beleid uit 2010 nog wordt toegepast onder de APV 2024 is niet bevestigd; het staat wel als geldend in CVDR (gepubliceerd 2023).",
+  "artikelnummers": "APV 2024 art. 4:10, 4:11, 4:12a-4:12f, 6:1; Monumentale en Waardevolle bomenboek (CVDR694348_1), paragraaf 'Kapvergunning Monumentale en Waardevolle bomen'; Legesverordening 2026 art. 2.30; omgevingsplan art. 22.299",
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): het door het college vastgestelde, geldende Monumentale en Waardevolle bomenboek (CVDR694348_1) telt voor W en H: 'Bij hoge uitzondering' → W3; herplant en financiële compensatie 'legt ... op' → H3; bereik vervalt.",
+    "Lijstsysteem met ingeziene lijst (Bomenboek op goes.nl, 676 particuliere van 2.292 bomen). W: 'kan de vergunning worden geweigerd op grond van ...' (4:11 lid 3) = W2; het bomenboek-beleid beperkt verlening tot twee gevallen ('Bij hoge uitzondering kan het college over gaan tot het verlenen van een kapvergunning'), daarom maximum W3. H: de APV zegt 'kan een herplantplicht opleggen', maar het vastgestelde bomenboek-beleid: 'het college legt herplantplicht ter plaatse op' en 'legt een financiële compensatie op aan de hand van een waardebepaling (rekenmethode volgens Richtlijnen NVTB)'. Volgens de regel over tegenstrijdige teksten telt het beleid: H3, minimum H1 omdat het beleid 'in overleg ... passende oplossing' laat zoeken en uit 2010 stamt (verwijst naar APV 2009)."
+  ],
+  "modelsignalen": [
+    "Een vastgestelde beleidsregel (bomenboek) beperkt ook de toetsing tot 'bij hoge uitzondering', maar de regel over tegenstrijdige teksten geldt alleen voor H. Gekozen: W2 uit de APV, maximum W3.",
+    "De puntschatting (20) ligt precies op de grens tussen Zeer soepel en Soepel. De keuze H3 of H1 bepaalt de categorie."
+  ],
+  "lijst_aantal_totaal": 2292,
+  "lijst_aantal_particulier": 676,
+  "lijst_telling": "regels in het Bomenboek (goes.nl/bomenboek-gemeente-goes); particulier = eigenaar 'Particulier'"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0047/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente veendam",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0047/2025/omgevingsvisie/nld@56",
+    "beginGeldigheid": "2026-02-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0047_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0047/2026/2_10",
+    "titel": "Warmteprogramma 2026-2035",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0047/2026/2_10/nld@1058",
+    "beginGeldigheid": "2026-02-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0047_2026_2_10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0047/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Veendam - deelgebied Ommelanderwijk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0047/2020/omgevingsplan/nld@1059",
+    "beginGeldigheid": "2026-10-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0047_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:31Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1980/2024/omgevingsvisie",
+    "titel": "Strategische Omgevingsvisie Dijk en Waard",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1980/2024/omgevingsvisie/nld@1041",
+    "beginGeldigheid": "2024-11-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1980_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1980/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Dijk en Waard",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1980/2020/omgevingsplan/nld@2026-02-23;14534099",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1980_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:57Z"
+  }
+]

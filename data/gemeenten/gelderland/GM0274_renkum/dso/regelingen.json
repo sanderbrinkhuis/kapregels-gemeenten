@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0274/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Renkum",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0274/2020/omgevingsplan/nld@2025-03-31;14032072",
+    "beginGeldigheid": "2025-04-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0274_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0274/2026/Regeling73d7225c4df4404487468d7836eb37f4",
+    "titel": "Regionale Energie Strategie",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0274/2026/Regeling73d7225c4df4404487468d7836eb37f4/nld@2026-03-10;17144114",
+    "beginGeldigheid": "2026-03-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0274_2026_Regeling73d7225c4df4404487468d7836eb37f4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:45Z"
+  }
+]

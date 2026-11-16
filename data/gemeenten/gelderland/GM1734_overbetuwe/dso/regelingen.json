@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1734/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Overbetuwe",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1734/2020/omgevingsplan/nld@2024-06-12;09013735",
+    "beginGeldigheid": "2024-06-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1734_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:34Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1734/2025/Regeling1ba551129dab478898a82e07e8614b06",
+    "titel": "Regionale Energie Strategie 2.0 Groene Metropoolregio Arnhem Nijmegen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1734/2025/Regeling1ba551129dab478898a82e07e8614b06/nld@2026-03-31;06512372",
+    "beginGeldigheid": "2026-05-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1734_2025_Regeling1ba551129dab478898a82e07e8614b06?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:34Z"
+  }
+]

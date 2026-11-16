@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM1959",
+  "gemeente": "Altena",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 980,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "ca. 980 regels (bomen, klasse A en B) op de PDF 'Waardevolle bomenlijst' op www.gemeentealtena.nl/wonen/bomen-en-groen/bomen-kappen (2026); daarnaast ca. 224 regels op de PDF 'Waardevolle lijst met bomenrijen'. Het aantal particuliere bomen is niet vast te stellen: de lijst noemt geen eigenaar.",
+  "brondocument": "Algemene plaatselijke verordening Altena 2020, afdeling 4.3 (art. 4:10, 4:11, 4:11a, 4:12, 4:12a, 4.12b) en art. 6:1; Besluit Bomenlijst Altena 2019; Aanwijzingsbesluit gebieden waar voor het kappen van houtopstand geen vergunning nodig is Altena 2021; Verordening leges Altena 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR644380/12 ; https://lokaleregelgeving.overheid.nl/CVDR620318/1 ; https://lokaleregelgeving.overheid.nl/CVDR654410/1 ; https://lokaleregelgeving.overheid.nl/CVDR751185/1 ; https://www.gemeentealtena.nl/wonen/bomen-en-groen/bomen-kappen",
+  "datum_geldigheid": "APV CVDR644380_12 geldend vanaf 2026-10-15 t/m heden (peildatum scoren 2026-11-15); Bomenlijst CVDR620318_1 vanaf 2019-01-17; Aanwijzingsbesluit CVDR654410_1 vanaf 2021-02-19 (besluit zegt: in werking 1 januari 2021); leges CVDR751185_1 vanaf 2025-12-20",
+  "laatste_wijziging": "APV: versie 12 per 2026-10-15 (inhoud van afdeling 4.3 niet vergeleken met eerdere versies)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: de legesverordening 2026 (CVDR751185_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening Altena 2020 in samenhang met artikel 22.8 van de Omgevingswet'. WED-aanwijzing ook in APV art. 6:1 lid 2 (art. 4:11 lid 1 en art. 4:11a lid 1). Omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 68 bekendmakingen, waarvan 1 besluit en 38 aanvragen, 0 weigeringen. Het enige opgehaalde besluit (gmb-2026-224280) gaat over het verhogen van de kap van een woning (dak), niet over bomen. De zoekopdracht geeft dus nauwelijks bruikbare kapbesluiten voor bomen; de praktijk bevestigt of weerlegt de score niet.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van (1) houtopstanden op de Bomenlijst (art. 4:11) en (2) alle houtopstand op het grondgebied van de voormalige gemeente Werkendam (art. 4:11a), behalve in de gebieden van het Aanwijzingsbesluit 2021 (de kernen Dussen, Hank, Nieuwendijk, Sleeuwijk en Werkendam) en behalve buiten de bebouwde kom, tenzij de houtopstand groter is dan 10 are of uit meer dan 20 bomen in rijen bestaat. Elders in de gemeente (voormalige gemeenten Aalburg en Woudrichem): alleen de Bomenlijst.",
+  "drempel": "Geen stamomtrekdrempel. Art. 4:11: ongeacht omvang voor bomen op de lijst. Art. 4:11a: houtopstand zonder drempel, maar buiten de bebouwde kom alleen een zelfstandige eenheid groter dan 10 are of rijbeplanting van meer dan 20 bomen.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen omtrekdrempel; het omgevingsplan art. 22.299 noemt voor de aanvraag een diameter op 1,30 m)",
+  "reikwijdte": "Twee delen. (1) Hele gemeente, individueel aangewezen houtopstanden (Bomenlijst Altena 2019: lijst bomen, lijst boomlijnen en bomenkaart): 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de door het college vastgestelde lijst (Bomenlijst).' (art. 4:11 lid 1). (2) Voormalige gemeente Werkendam: 'Onverminderd het bepaalde in het voorgaande artikel is het verboden op het grondgebied van de voormalige gemeente Werkendam zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' (art. 4:11a lid 1). Het college heeft in het Aanwijzingsbesluit 2021 de gebieden op 5 tekeningen aangewezen waar het verbod niet geldt, 'met uitzondering van houtopstanden in eigendom van een publiekrechtelijke rechtspersoon'. Op de tekening van Werkendam (ingezien) is het hele bebouwde dorp aangewezen; de gemeentewebsite noemt als aangewezen gebieden de dorpen Dussen, Hank, Nieuwendijk, Sleeuwijk en Werkendam. Particulier en openbaar.",
+  "uitzonderingen": "Art. 4:11 lid 2: niet voor dunning van houtopstand in boomvlakken of boomstructuren op de lijst. Art. 4:11a lid 2: niet voor wegbeplantingen en eenrijige beplantingen langs landbouwgrond van niet-geknotte populieren of wilgen; vruchtbomen en windschermen om boomgaarden (geen correctie); fijnsparren als kerstbomen; kweekgoed; dunning; houtopstand buiten de bebouwde kom, tenzij een eenheid groter dan 10 are of rijbeplanting van meer dan 20 bomen; Plantenziektewet of aanschrijving. Lid 3 en het Aanwijzingsbesluit 2021: de kernen van de voormalige gemeente Werkendam (5 tekeningen) zijn vrijgesteld voor particuliere houtopstand.",
+  "weigeringsgronden": "Art. 4:11 lid 3 (A-lijst, 45 punten of hoger): 'wordt slechts bij uitzondering een vergunning verleend, indien:' een zwaarwegend maatschappelijk belang opweegt tegen behoud, of alternatieven uitputtend zijn onderzocht en instandhouding niet langer verantwoord is (W3). Art. 4:11 lid 4 (overige lijstbomen): 'kan worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of leefbaarheid (W2). Art. 4:11a lid 4: 'kan in elk geval worden geweigerd op grond van' dezelfde zes waarden (W2).",
+  "herplantplicht": "Art. 4:12a lid 1: 'Tot de aan de vergunning als bedoeld in de artikelen 4:11 en 4:11a te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Lid 3: bij niet kunnen herplanten 'kan' een geldelijke bijdrage in het bomenfonds als voorschrift worden opgelegd. Na illegale kap (art. 4.12b lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'; lid 3: bij onmogelijke herbeplanting 'dient ... een door het bevoegd gezag vast te stellen geldelijke bijdrage te worden gestort in het gemeentelijk bomenfonds'. Geen beleidsregel over herplant of compensatie gevonden.",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het bevoegd gezag (college) beslist per geval. Betalen in plaats van herplanten: alleen als voorschrift ('kan', art. 4:12a lid 3). Herplant na illegale kap: 'kan' (art. 4.12b lid 1); storting is dan wel verplicht als herbeplanting niet mogelijk is (lid 3).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4.12b lid 5: 'Degene aan wie een verplichting of voorschrift als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van tweede categorie.' Voor een herplantvoorschrift bij de vergunning (art. 4:12a) staat geen eigen 'is verplicht'-bepaling; art. 6:1 lid 1 dekt wel alles 'krachtens deze verordening'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, artikel 4:11, eerste lid en artikel 4:11a, eerste lid.' Ook via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Algemene strafbepaling art. 6:1 lid 1. Geen bestuurlijke boete voor kappen. Herplant na illegale kap: 'kan' (art. 4.12b).",
+  "procedure": "Omgevingsvergunning, schriftelijk en gemotiveerd met situatieschets (art. 4:12 lid 1); positieve fictieve beschikking bij niet tijdig beslissen (art. 4:12 lid 2, Awb 4.1.3.3); standaardvoorwaarde van feitelijk niet-gebruik tot de vergunning definitief is (art. 4:12a lid 5). Leges 2026 art. 2.30: EUR 176,50. Bezwaar en beroep via de Awb; beslistermijn: APV art. 1:2 (acht weken) is niet van toepassing op een omgevingsvergunning (lid 3); niet apart vastgesteld.",
+  "D": {
+    "punt": 4,
+    "min": 2,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "onzeker",
+  "ontbrekend": "(1) De 'door het college te stellen nadere regels' voor het bomenfonds (art. 4:12a lid 3 en 4.12b lid 3) en elk beleid over herplant of compensatie staan niet in het dossier of in tekst/ en zijn niet gevonden. (2) Het D-bereik loopt tot 4: of er binnen de bebouwde kom van de voormalige gemeente Werkendam gebieden buiten de 5 aangewezen tekeningen liggen waar het verbod gewoon geldt, is niet vast te stellen (alleen de tekening van Werkendam is ingezien, Dussen niet bekeken). (3) De bomenlijst noemt geen eigenaar; het aantal particuliere lijstbomen is onbekend. (4) Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV 2020 art. 4:10, 4:11, 4:11a, 4:12, 4:12a, 4.12b, 6:1",
+    "Besluit Bomenlijst Altena 2019 (CVDR620318_1)",
+    "Aanwijzingsbesluit 2021 (CVDR654410_1)",
+    "Verordening leges Altena 2026 art. 2.30 (CVDR751185_1)",
+    "Biesboschverordening Altena 2021 (CVDR650665_1) art. 2, 28, 45: telt niet",
+    "Omgevingsplan art. 22.299 (CVDR696532_2)"
+  ],
+  "opmerkingen": [
+    "D per deel (INTENT, 'D per deel, neem het hoogste'). Deel 1, rest van de gemeente (voormalige gemeenten Aalburg en Woudrichem): alleen de Bomenlijst, D1. Deel 2, voormalige gemeente Werkendam (art. 4:11a): geen drempel, maar de kernen zijn via het Aanwijzingsbesluit vrijgesteld (op de ingeziene tekening van Werkendam is het hele bebouwde dorp aangewezen). Buiten de bebouwde kom is 'houtopstand die gelegen is buiten een bebouwde kom' vrijgesteld, 'tenzij de houtopstand een zelfstandige eenheid vormt die:' groter is dan 10 are of uit rijbeplanting van meer dan 20 bomen bestaat (art. 4:11a lid 2 onder f); alleen die eenheden blijven vergunningplichtig. Dat is een regel voor aangewezen gebieden of structuren buiten de kom, geen regel voor gewone tuinbomen: D2 (punt en minimum). De voormalige gemeente Werkendam is een substantieel deel van Altena (geen kleine gebiedsregel). Geen correctie -1 op dit deel: de vrijstelling voor de kernen hoort bij het andere deel van de regel.",
+    "D-maximum 4: gelden er binnen de bebouwde kom van de voormalige gemeente Werkendam gebieden buiten de 5 aangewezen tekeningen (op de tekening van Werkendam zijn enkele stroken en terreinen niet ingekleurd; of dat bebouwde kom is, volgt niet uit de tekening), dan geldt daar art. 4:11a lid 1 zonder drempel (D4). Dat is niet vast te stellen zonder het besluit-GIO en de grens van de bebouwde kom.",
+    "Biesboschverordening Altena 2021 (CVDR650665_1): regelt alleen gedrag in het Biesboschgebied. Art. 28 lid 1 onder b verbiedt 'op openbare terreinen' bomen 'zodanig te gebruiken dat de hiervoor genoemde zaken geheel of gedeeltelijk verloren gaan danwel worden beschadigd'. Er staat geen vergunningplicht voor het vellen van bomen op particulier terrein in. Telt niet voor particuliere bomen.",
+    "W2 (maximum 3): 'kan worden geweigerd op grond van:' natuur-, landschaps-, dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden (art. 4:11 lid 4; art. 4:11a lid 4 'kan in elk geval worden geweigerd'). Voor lijstbomen met 45 punten of hoger (A-lijst) geldt W3: 'wordt slechts bij uitzondering een vergunning verleend, indien:' (art. 4:11 lid 3). Op de Bomenlijst (PDF's website) staan ca. 245 bomen en ca. 83 boomlijnen in klasse A en ca. 735 bomen en ca. 141 boomlijnen in klasse B: het grootste deel is B, dus W2.",
+    "H1: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant' (art. 4:12a lid 1). Verordening zegt 'kan' en er is geen beleidsregel gevonden die herplant of storting verplicht maakt. De 'nadere regels' voor het bomenfonds zijn niet gevonden (zie ontbrekend). De verplichte storting bij illegale kap (art. 4.12b lid 3) verhoogt H niet.",
+    "S1: WED-aanwijzing in art. 6:1 lid 2 en herplant na illegale kap ('kan', art. 4.12b). Geen bestuurlijke boete voor kappen. Het Kaderstellend Beleid PVTH 2025-2029 (CVDR735932_1) noemt houtopstand alleen als thuistaak en bevat geen boete of boomwaarde-koppeling.",
+    "Leges 2026 art. 2.30 noemt alleen art. 4:11 'in samenhang met artikel 22.8 van de Omgevingswet', niet art. 4:11a; de WED-aanwijzing in art. 6:1 lid 2 noemt beide artikelen.",
+    "Bomenlijst: het besluit van 2019 verklaart de lijsten van de voormalige gemeenten Aalburg ('bomenlijst waardevolle tuin- en erfbomen', 2006) en Woudrichem (2010) vervallen. De lijst op de website vermeldt per boom kern, straat, huisnummer, soort, stamdiameter en klasse, geen eigenaar: particuliere bomen staan er vermoedelijk op, maar het aantal is niet vast te stellen. De lijst bevat geen bomen in Dussen, Hank, Nieuwendijk, Sleeuwijk en Werkendam, in lijn met de website ('Overige dorpen').",
+    "Gemeentewebsite: 'In deze dorpen zijn gebieden aangewezen waar u geen kapvergunning nodig heeft' (Dussen, Hank, Nieuwendijk, Sleeuwijk, Werkendam) en 'Overige dorpen: ... een lijst met waardevolle bomen'. Boom A en B in een achtertuin: in de 5 kernen geen vergunning nodig, in de overige dorpen alleen als de boom op de lijst staat; daarom 'alleen als op lijst'.",
+    "Beleidsnota snippergroen 2020 (CVDR642236_1) gaat over verkoop van gemeentegrond en telt niet."
+  ],
+  "modelsignalen": [
+    "Een gebiedsregel voor de hele voormalige gemeente Werkendam met vrijstelling van alle kernen via een apart aanwijzingsbesluit (kaarten) en een buitengebiedregel op eenheden groter dan 10 are of rijen van meer dan 20 bomen. INTENT.md zegt niets over een regel die buiten de kom alleen grote eenheden dekt: is dat 'aangewezen gebied' (D2) of 'zonder drempel' (D4)? Hier D2, met maximum 4.",
+    "Combinatie van een lijst (hele gemeente) en een gebiedsregel (voormalige gemeente) met een vrijstellingsbesluit: 'D per deel' is toegepast, maar de omvang van de vrijgestelde gebieden volgt alleen uit kaarten.",
+    "Lijst zonder eigenaar: 'particuliere bomen op lijst' is niet te toetsen; lijst_aantal_particulier blijft leeg.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: in de voormalige gemeente Werkendam geldt buiten de kom het verbod (art. 4:11a) voor houtopstand ('een of meer bomen') die een zelfstandige eenheid vormt van ten hoogste 10 are of een rij van ten hoogste 20 bomen, zonder drempel en zonder tuinuitzondering. Een losse tuinboom valt daaronder: D4 voor dat deel; D per deel, hoogste. Minimum 2 voor de lezing dat een zelfstandige eenheid een groep bomen moet zijn. Voorbeeldbomen ongewijzigd. Was D2 (2-4)."
+  ]
+}

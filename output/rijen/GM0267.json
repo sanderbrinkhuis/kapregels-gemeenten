@@ -1,0 +1,79 @@
+{
+ "gm_code": "GM0267",
+ "gemeente": "Nijkerk",
+ "provincie": "Gelderland",
+ "brondocument": "Bomenverordening Nijkerk (CVDR2629_3), art. 1, 2, 3, 7, 13, 14, 17; leges CVDR752222_3 art. 2.30",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR2629/3",
+ "datum_geldigheid": "Geldend van 2010-10-01 t/m heden (CVDR2629_3)",
+ "laatste_wijziging": "2010-10-01 (CVDR2629_3, laatste versie); leges geldend per 2026-10-03",
+ "juridische_plaats": "losse bomenverordening, werkt als omgevingsplanactiviteit volgens leges (art. 2.30, 'artikel 2 van de Bomenverordening Nijkerk in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 (Onderstation De Flier) alleen aanvraagvereisten",
+ "praktijkcontrole": "Sinds 2025 ca. 43 besluiten (129 treffers, 3 geweigerd volgens titel). Het aantal zegt weinig omdat de zoekmethode besluiten mist. Geen grondslag in de besluiten genoemd; besluiten gaan over bomen op percelen in Nijkerk, Nijkerkerveen en Hoevelaken.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstand buiten de bebouwde kom; binnen de kom alleen voor bomen op de lijst van art. 3",
+ "drempel": "Art. 1 sub a: boom = \"een houtachtig, overblijvend gewas met een dwarsdoorsnede van de stam van minimaal 20 centimeter op 1,3 meter hoogte boven het maaiveld\"; verbod art. 2 lid 1 sub a spreekt van houtopstand zonder drempel",
+ "omtrek_cm": 62.8,
+ "meethoogte": "1,3 m boven maaiveld",
+ "reikwijdte": "Art. 2 lid 1: \"Het is verboden zonder vergunning van het bevoegd gezag: a. buiten de bebouwde kom houtopstand te vellen of te doen vellen; b. binnen de bebouwde kom een boom te vellen of doen vellen die voorkomt op de lijst als bedoeld in artikel 3, eerste lid, van deze verordening.\" Bebouwde kom: die van de Boswet (art. 1 sub e). Particulier en openbaar.",
+ "uitzonderingen": "Art. 2 lid 2: alleen voor houtopstanden \"die op bosbouwkundige of bedrijfseconomische wijze worden geëxploiteerd\" (populieren en wilgen langs landbouwgrond, fruitbomen, kerstbomen, kweekgoed, geregistreerde bosbouwondernemingen); lid 3: gevaar en spoed, Plantenziektenwet of aanschrijving, periodiek hakhout en knotten. Geen uitzondering voor tuinen, erven of perceelsgrootte.",
+ "weigeringsgronden": "Art. 7 lid 1: \"De vergunning kan worden geweigerd dan wel onder voorschriften worden verleen in het belang van onder meer: - natuur- en milieuwaarden van de houtopstand; - landschappelijke waarden van de houtopstand; - cultuurhistorische waarden van de houtopstand; - waarden van stads- en dorpsschoon van de houtopstand; - boomwaarde van de houtopstand: - waarden voor recreatie en leefbaarheid van de houtopstand.\" Lijstbomen: art. 3 lid 1 \"slechts vergunning kan worden verleend wegens zeer zwaarwegende belangen\" (alleen vermeld).",
+ "herplantplicht": "Art. 13 lid 1: \"Tot de aan de vergunning te verbinden voorschriften kan het voorschrift behoren, dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant. Indien een gemeentelijk bestemmings-, bomen-, groen-, of landschaps- plan de te vellen houtopstand direct of indirect als beschermingswaardig omschrijft, wordt in beginsel een herplantplicht opgelegd.\" Lid 4: voorschrift om een geldelijke bijdrage te storten \"kan\" behoren, indien er geen ruimte is voor gelijkwaardige herplant. Na illegale kap art. 14 lid 1: het college \"kan\" een herplantplicht opleggen.",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan'); 'in beginsel' alleen als een gemeentelijk plan de boom als beschermingswaardig omschrijft. Uitweg: geldelijke bijdrage 'kan' worden voorgeschreven \"indien er op het perceel waar de houtopstand stond geen ruimte is voor gelijkwaardige herplant\" (art. 13 lid 4). Het college beslist per geval.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 17: \"Hij die handelt in strijd met artikel 2, eerste lid, of artikel 16, derde lid, dan wel een verplichting, opgelegd op grond van artikel 14, eerste of derde lid, niet nakomt, wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.\" Voor een herplantvoorschrift in een vergunning (art. 13) is dit niet geregeld in de bomenverordening.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Eigen strafbepaling in de regeling (art. 17: hechtenis ten hoogste drie maanden of geldboete tweede categorie); geen WED-aanwijzing in de regeling. Via Omgevingswet: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit, dus WED via Ow 5.1. Geen bestuurlijke boete. Herplant na illegale kap 'kan' (art. 14).",
+ "procedure": "Leges art. 2.30: EUR 104,00 (CVDR752222_3). Art. 8 aanhouding, art. 9 publicatie, art. 12 vervaltermijn: titels gezien, inhoud niet nader gelezen. Art. 5 en 6 zijn vervallen. Bezwaar en beroep volgens Awb.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Lijst monumentale en waardevolle bomen (art. 3) niet in het dossier, niet ingezien; geen aantal in een vastgesteld besluit gevonden.",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 4
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Lijst van art. 3 niet ingezien (geen invloed op D, wel op de voorbeeldbomen binnen de kom). Geen beleidsregel over herplant gevonden in CVDR; de in art. 13 genoemde gemeentelijke groen-/bomenplannen zijn niet gevonden. Omgevingsplan in het DSO niet gecontroleerd.",
+ "artikelnummers": [
+  "Bomenverordening 1",
+  "Bomenverordening 2",
+  "Bomenverordening 3",
+  "Bomenverordening 7",
+  "Bomenverordening 13",
+  "Bomenverordening 14",
+  "Bomenverordening 17",
+  "Leges 2.30"
+ ],
+ "opmerkingen": [
+  "D: het verbod buiten de kom geldt voor houtopstand zonder drempel, maar 'boom' heeft een drempel van 20 cm dwarsdoorsnede (20 x 3,14 = 62,8 cm omtrek): per INTENT-besluit gescoord op de drempel voor bomen: D3. Zonder drempel zou het D4 zijn (max). Binnen de kom alleen lijstbomen (D1). Geen tuinuitzondering. Geen tweede regeling met kapregel gevonden (APV Nijkerk 2021 heeft geen kapafdeling in het dossier).",
+  "W: 'De vergunning kan worden geweigerd dan wel onder voorschriften worden verleen in het belang van onder meer' natuur-, landschaps- en cultuurhistorische waarden: W2. Lijstbomen: W3 (alleen vermeld).",
+  "H: 'kan' voorschrift herplant; 'in beginsel' alleen onder voorwaarde (plan omschrijft boom als beschermingswaardig): H1, max 2. Storting 'kan' (art. 13 lid 4) en verhoogt H niet.",
+  "S: eigen strafbepaling art. 17 en WED via Ow (leges noemt het vellen een omgevingsplanactiviteit): S1. Geen bestuurlijke boete.",
+  "Bomenverordening dateert uit 2010 (raad besloot op voorstel uit 2002); verwijst nog naar Wabo en Boswet-kom. Subsidieregeling monumentale bomen (CVDR757428_1, 2026-02-25) verwijst naar de lijst van art. 3 en bevestigt dat de lijst bestaat; geen aantal bomen."
+ ],
+ "modelsignalen": [
+  "Nijkerk: verouderde bomenverordening (2010) met verwijzing naar de Wabo en de Boswet-kom blijft als omgevingsplanactiviteit werken via de leges; art. 17 verwijst niet naar art. 13-voorschriften.",
+  "Nijkerk: 'drempel per boom' (20 cm doorsnede) tegenover verbod voor 'houtopstand' zonder drempel is een grensgeval van de besluitregel; hier gevolgd zoals besloten."
+ ]
+}

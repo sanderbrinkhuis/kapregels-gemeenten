@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0553/2023/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente lisse",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0553/2023/omgevingsvisie/nld@1021",
+    "beginGeldigheid": "2025-04-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0553_2023_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0553/2025/2_13",
+    "titel": "Programma Landelijk Gebied en Duurzame Greenport Duin en Bollenstreek gemeente Lisse",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0553/2025/2_13/nld@2026-01-22",
+    "beginGeldigheid": "2026-01-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0553_2025_2_13?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0553/2020/omgevingsplan",
+    "titel": "Technisch in beheer nemen van de bruidsschat in het Omgevingsplan gemeente Lisse",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0553/2020/omgevingsplan/nld@2026-09-04;V1",
+    "beginGeldigheid": "2026-10-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0553_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:22:16Z"
+  }
+]

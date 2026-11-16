@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM1931",
+ "gemeente": "Krimpenerwaard",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Bomenverordening gemeente Krimpenerwaard 2023, art. 1, 2, 5, 6, 8, 10 en bijlagen A, B, C (CVDR700026_2); Legesverordening Krimpenerwaard 2026 art. 2.23 (CVDR753335_4); APV Krimpenerwaard 2018 art. 4:10, 4:11, 6:1 (CVDR759616_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR700026/2 ; https://lokaleregelgeving.overheid.nl/CVDR753335/4 ; https://lokaleregelgeving.overheid.nl/CVDR759616/1",
+ "datum_geldigheid": "Bomenverordening CVDR700026_2 geldend vanaf 2024-09-24 t/m heden; leges CVDR753335_4 vanaf 2026-10-06; APV CVDR759616_1 vanaf 2026-04-04; omgevingsplan CVDR696527_4 vanaf 2026-01-09 (peildatum scoren 2026-11-16)",
+ "laatste_wijziging": "Bomenverordening: versie 2 per 2024-09-24 (versie 1 per 2023-08-09).",
+ "juridische_plaats": "bomenverordening (losse verordening); APV art. 4:11 verwijst ernaar. Het vellen is een omgevingsplanactiviteit volgens leges art. 2.23 ('in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan: restant bruidsschat (art. 22.299), geen vergunningplicht",
+ "praktijkcontrole": "Sinds 2025: 16 bekendmakingen op titel, waarvan 6 besluiten en 10 aanvragen, 0 weigeringen. Steekproef van 6 besluiten: 1 over het kappen van 'diverse bomen' (gmb-2025-498132), de rest over daken; geen grondslag genoemd. Past bij een lijstsysteem.",
+ "vergunningplicht": "Omgevingsvergunning voor het kappen van een boom op de Lijst waardevolle bomen, een Monumentale boom, een Gedenkboom, of een boom die onderdeel is van een gemeentelijk of Rijksmonument (art. 5 lid 1 t/m 4).",
+ "drempel": "Geen drempel voor het kappen; alleen bomen op de lijsten (aanwijzing vanaf 50 jaar leeftijd en 50 punten, art. 3 en 4).",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Alleen aangewezen bomen: bomen op de Lijst waardevolle bomen (bijlage C, 2024), monumentale bomen uit het Landelijk Register van de Bomenstichting (bijlage B), gedenkbomen (bijlage A) en bomen die in de redengevende beschrijving van een gemeentelijk of Rijksmonument staan. Hele gemeente, binnen en buiten de bebouwde kom. Ook bomen die zijn aangeplant als herplant (lid 6).",
+ "uitzonderingen": "Art. 5 lid 5: Plantengezondheidswet of aanschrijving, periodiek kappen van hakhout, knotten of kandelaberen als reguliere onderhoud (alle gangbaar). Geen tuin- of soortuitzonderingen.",
+ "weigeringsgronden": "Art. 6 lid 1 (waardevolle boom): 'Een omgevingsvergunning voor het vellen van een Waardevolle boom wordt geweigerd, tenzij er sprake is van een uitzonderlijke situatie waardoor instandhouding niet langer verantwoord is.' Lid 2 (monumentale boom of gedenkboom, ook van een particulier): 'kan, indien alternatieven voor behoud zijn onderzocht, worden verleend' alleen bij gevaar of schade, of bij 'een beargumenteerd individueel belang van niet-tijdelijke aard, opweegt tegen het duurzaam behoud van de Monumentale boom'.",
+ "herplantplicht": "Geen herplantplicht bij een verleende vergunning in de verordening. Art. 8 lid 1 alleen na illegale kap: 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten inclusief de nazorg'. Geen financiële compensatie of bomenfonds.",
+ "herplant_ontsnapping": "geen (geen herplantplicht bij vergunning); na illegale kap 'kan' (bevoegdheid van het bevoegd gezag per geval).",
+ "herplant_niet_nakomen": "Niets geregeld voor het niet nakomen van een opgelegde herplantplicht (art. 8 lid 2 regelt alleen termijn en vervanging van niet-geslaagde beplanting). Alleen het algemene instrumentarium; art. 10 lid 1 noemt 'een bestuurlijke sanctie' in het algemeen.",
+ "sancties": "WED via Ow 5.1 (omgevingsplanactiviteit volgens leges art. 2.23). Art. 10 lid 1: na illegale kap 'kan het bevoegd gezag een bestuurlijke sanctie opleggen' (geen bestuurlijke boete genoemd). APV art. 6:1 lid 1: hechtenis of geldboete tweede categorie voor overtreding 'van het bij of krachtens verordening bepaalde' (algemeen). Herplant na illegale kap: art. 8 lid 1 'kan'.",
+ "procedure": "Leges art. 2.23: EUR 111,40. Lijst vaststellen met voorbereidingsprocedure afd. 3.4 Awb (art. 2 lid 2); voorbereidingsbescherming ontwerplijst maximaal een jaar (art. 2 lid 4). Beslistermijn en bezwaar niet apart onderzocht.",
+ "herplant_type": "geen grondslag",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 709,
+ "lijst_aantal_particulier": 11,
+ "lijst_telling": "regels op de bijlagen A, B en C van de Bomenverordening (CVDR700026_2, 2026): A 27 gedenkbomen (eigendom niet vermeld, op openbare plekken), B 34 monumentale bomen (22 gemeente, 11 particulier, 1 stichting), C 648 waardevolle bomen (allemaal gemeente)",
+ "status": "ok",
+ "ontbrekend": "Eigendom van de 27 gedenkbomen (bijlage A) staat niet in de lijst; het aantal particuliere bomen is daarom minimaal 11. Een eventueel latere of aparte door het college vastgestelde 'Lijst waardevolle bomen' (art. 2) buiten de bijlage niet gevonden.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 3, 4, 5, 6, 8, 10, 12 en bijlagen A, B, C",
+  "Leges 2026 art. 2.23",
+  "APV art. 4:10, 4:11, 6:1",
+  "Omgevingsplan art. 22.299 (restant bruidsschat)"
+ ],
+ "opmerkingen": [
+  "Systeem: lijst. Art. 5 lid 1: 'Het is verboden zonder vergunning (omgevingsvergunning) van het bevoegd gezag een boom op de Lijst waardevolle bomen te kappen of te doen kappen.' Lid 2 en 3: zelfde verbod voor een Monumentale boom en een Gedenkboom.",
+  "Particuliere bomen: bijlage B (Monumentale bomen, Bomenstichting) bevat 11 regels met eigendom 'Particulier'. Bijlage C (Lijst waardevolle bomen 2024, 648 regels) bevat alleen gemeentelijke bomen. D1 zonder bereik: de lijst is ingezien en er staan particuliere bomen op.",
+  "W3 zonder bereik: voor de particuliere bomen (monumentale bomen) geldt art. 6 lid 2 'kan, indien alternatieven voor behoud zijn onderzocht, worden verleend' op een gesloten lijst gronden (gevaar of schade, of een 'beargumenteerd individueel belang van niet-tijdelijke aard, opweegt tegen het duurzaam behoud'); voor waardevolle bomen art. 6 lid 1 'wordt geweigerd, tenzij er sprake is van een uitzonderlijke situatie'. Besluit 15-11-2026: gesloten gronden = W3.",
+  "H0: de verordening kent geen herplantvoorschrift bij een verleende vergunning (de definitie in art. 1 lid 7 noemt wel 'een voorschrift uit de omgevingsvergunning', maar er is geen artikel dat dat voorschrift regelt). Art. 8 geldt alleen na illegale kap en telt niet voor H. De Beleidsnota Snippergroen 2025 gaat over verkoop van gemeentegrond en telt niet.",
+  "S1 zonder bereik: leges art. 2.23: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 5 van de geldende Bomenverordening Krimpenerwaard in samenhang met artikel 22.8 van de Omgevingswet'. Art. 10: 'kan het bevoegd gezag een bestuurlijke sanctie opleggen' is geen bestuurlijke boete. De WED-aanwijzing in APV art. 6:1 lid 2 noemt art. 2:10, 2:11 en 2:12 en niet de kap.",
+  "Art. 5 lid 4 beschermt ook bomen die onderdeel zijn van een gemeentelijk of Rijksmonument 'zoals opgenomen in de redengevende beschrijving'; dat blijft een lijst van losse objecten.",
+  "Art. 12 lid 5: 'De bomenlijsten van rechtsvoorgangers van de gemeente Krimpenerwaard blijven van kracht tot vaststelling van de Lijst waardevolle bomen.' De lijst 2024 (bijlage C) is in de verordening opgenomen; de oude lijsten zijn niet ingezien en kunnen alleen het aantal wijzigen, niet D."
+ ],
+ "modelsignalen": [
+  "Lijst met veel bomen waarop bijna alleen gemeentebomen staan (11 van 709 regels particulier): D1 geldt ongeacht aantal; het rapport moet het aantal als feit noemen (zo bedoeld in INTENT.md).",
+  "Bijlage A (gedenkbomen) geeft geen eigendom aan, dus het aantal particuliere bomen is een ondergrens."
+ ]
+}

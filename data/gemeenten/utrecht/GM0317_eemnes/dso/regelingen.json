@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0317/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Eemnes",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0317/2020/omgevingsplan/nld@14",
+    "beginGeldigheid": "2026-04-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0317_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:20Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0317/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie Eemnes",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0317/2026/omgevingsvisie/nld@15",
+    "beginGeldigheid": "2026-04-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0317_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:00:20Z"
+  }
+]

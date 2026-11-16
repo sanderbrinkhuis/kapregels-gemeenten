@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM0302",
+ "gemeente": "Nunspeet",
+ "provincie": "Gelderland",
+ "brondocument": "Bomenverordening van de gemeente Nunspeet 2024 (CVDR767485_1), met Herplantfonds Nunspeet 2016 (CVDR397458_1), Verordening op de heffing en de invordering van leges 2026 (CVDR752573_2) en Omgevingsplan gemeente Nunspeet (CVDR696268_2)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR767485/1",
+ "datum_geldigheid": "2026-10-08 t/m heden (CVDR767485_1; vervangt Bomenverordening 2021, CVDR663708_1, vervallen per 2026-10-08)",
+ "laatste_wijziging": "2026-10-08 (nieuwe publicatie, gmb-2026-467152)",
+ "juridische_plaats": "Losse bomenverordening; werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30: 'in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "124 bekendmakingen sinds 2025 (58 besluiten, 61 aanvragen, 3 geweigerd volgens titel); geen grondslag in de besluiten genoemd; onduidelijk hoeveel over kap gaan. Veel besluiten past bij ca. 1.100 particuliere lijstbomen, maar kan ook bouwprojecten betreffen: geen aanwijzing voor een breder regime.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) alleen voor monumentale bomen (lijst, ook particulier), bomen met stamomtrek van 120 cm of groter in boomzonegebied (binnen de bebouwde kom), gemeentelijke bomen van 120 cm of groter, herplantbomen en (subsidie)erfbeplanting. Geen vergunningplicht voor gewone particuliere bomen daarbuiten.",
+ "drempel": "Monumentale bomen: geen drempel (lijst). Boomzonegebied: 'stamomtrek van 120 centimeter of groter'. Definitie boom (art. 1 lid 1 onder d): 'stamomtrek van minimaal 30 centimeter op 1,30 meter hoogte'.",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Lijst Monumentale bomen (bijlage 4, gemeentelijk en particulier eigendom, art. 2); boomzonegebieden 'met een bosachtig karakter binnen de bebouwde kom' (kaarten bijlage 1, afbeeldingen, niet in tekst); gemeentelijke bomen; herplantbomen; erfbeplanting waarvoor subsidie is verleend (Subsidieregeling Erfbeplanting 2024, buitengebied). Verder geen kapverbod voor particuliere bomen.",
+ "uitzonderingen": "Gangbare uitzonderingen in art. 3 lid 2 en art. 4 lid 3 (Plantgezondheidswet of aanschrijving, hakhout, knotten, dunning, beheerplan, bestemmingsplan). Boomzonegebied: alleen bomen vanaf 120 cm. Noodkap: art. 9 lid 1 herplant bij noodkap op particuliere grond alleen bij aantoonbare nalatigheid.",
+ "herplantplicht": "Art. 9 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen, moet worden herplant en duurzaam in stand moet worden gehouden.' Bij illegale kap art. 10 lid 1: 'kan het college ... de verplichting opleggen te herplanten'. Herplantfonds art. 7: € 3.000 per boom bij een opgelegde bijdrage.",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan'); college beslist per geval. Art. 9 lid 7: herplantvoorschrift 'is niet van toepassing op een boom welke door een natuurlijke oorzaak in slechte kwaliteit verkeert'. Art. 9 lid 3: 'Indien niet ter plaatse kan worden herplant, kan ... het voorschrift ... dat een geldelijke bijdrage gestort moet worden in het Herplantfonds'.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 9 lid 6 en art. 10 lid 6: 'Degene aan wie de verplichting als bedoeld in dit artikel is opgelegd, alsmede zijn rechtsopvolger, is verplicht hieraan te voldoen.' Art. 14 (strafbepaling) noemt alleen art. 12 en 13, niet art. 3, 4, 9 of 10. Verder niets geregeld; algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via de Omgevingswet: legesverordening art. 2.30 noemt het vellen van een houtopstand een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (verwijst ten onrechte naar 'artikel 6 van de bomenverordening Nunspeet 2021'). Eigen strafbepaling art. 14 geldt alleen voor art. 12 en 13 (boomziekten, gemeentelijke houtopstand), niet voor het kapverbod. Herplant na illegale kap: art. 10 'kan'. Geen bestuurlijke boete.",
+ "procedure": "Aanvraag via het Omgevingsloket met situatieschets of foto (art. 6); leges € 60,30 (CVDR752573_2 art. 2.30); geldigheidsduur vergunning kan drie jaar zijn (art. 8). Beslistermijn, publicatie en bezwaar niet in de bomenverordening gevonden.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 3037,
+ "lijst_aantal_particulier": 1101,
+ "lijst_telling": "regels (bomen) in bijlage 4 Lijst Monumentale Bomen 2026 van CVDR767485_1; 1.936 gemeentelijk, 1.101 particulier (Elspeet 177, Hulshorst 53, Nunspeet 783, Vierhouten 88)",
+ "status": "ok",
+ "ontbrekend": "Kaarten van de boomzonegebieden (bijlage 1, afbeeldingen) niet te lezen: onduidelijk hoeveel van de bebouwde kom boomzonegebied is en of dat particuliere tuinen dekt (drempel 120 cm, boom A en B vallen eronder). Geen geldende APV in de bronnen gevonden (APV 2010 vervallen); of een APV-kapregel bestaat is niet vastgesteld. Beslistermijn en bezwaar niet vastgesteld.",
+ "artikelnummers": [
+  "Bomenverordening art. 1, 2, 3, 4, 5, 6, 8, 9, 10, 14, bijlage 1, 2, 4",
+  "Herplantfonds 2016 art. 7",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "W: art. 3 lid 3: 'Het bevoegd gezag kan uitsluitend ontheffing verlenen van het in het eerste lid gestelde verbod indien alternatieven voor behoud zijn onderzocht en' (onder c) 'een beargumenteerd individueel belang van niet-tijdelijke aard opweegt tegen het duurzaam behoud van de Monumentale boom' = weigeren tenzij (W3) voor de lijstbomen. Voor boomzonegebied art. 5 lid 2: 'indien de belangen van verlening niet opwegen tegen de belangen van behoud van de boom' (W2). Gescoord op de lijstbomen, het grootste deel van de beschermde particuliere bomen.",
+  "H: art. 9 lid 1 'kan'; storting in Herplantfonds art. 9 lid 3 alleen 'kan'. Art. 10 lid 2 ('wordt een financiële bijdrage gestort') geldt alleen na illegale kap en telt niet voor H. Herplantfonds 2016 (CVDR397458_1) verwijst naar de Bomenverordening 2016 en regelt de hoogte (€ 3.000 per boom, art. 7); geen beleidsregel die herplant verplicht maakt.",
+  "D: lijstsysteem met particuliere bomen (D1). Boomzonegebied is een kleine gebiedsregel ('bosachtig karakter binnen de bebouwde kom', niet aantoonbaar substantieel deel van de gemeente); bereik tot D2 omdat de kaarten niet zijn te lezen. Erfbeplanting (alleen met subsidie, buitengebied) en gemeentelijke bomen tellen niet mee.",
+  "Voorgaande Bomenverordening 2021 (CVDR663708_1) is vervallen per 2026-10-08; de nieuwe tekst geldt sinds 2026-10-08 en is gescoord. De legesverordening 2026 verwijst nog naar de verordening 2021.",
+  "Subsidie: Deelverordening Subsidie voor onderhoud van monumentale bomen 2024 (CVDR768497_1) is geen kapregel.",
+  "Let op: art. 4 lid 1 noemt art. 3 lid 1; strafbepaling art. 14 noemt alleen art. 12 en 13. In het dossier staat geen art. 15 (na art. 14 volgt art. 16)."
+ ],
+ "modelsignalen": [
+  "Lijst waarvan het grootste deel (ca. 1.100 particulier) in de bijlage van de verordening zelf staat: D1 geeft geen onderscheid tussen een lijst van enkele en van ruim duizend particuliere bomen.",
+  "Strafbepaling in een bomenverordening die alleen de kleine artikelen (boomziekten, gemeentelijke houtopstand) noemt en niet het kapverbod: S1 komt dan alleen via het omgevingsplan (WED) en de herplant na illegale kap."
+ ]
+}

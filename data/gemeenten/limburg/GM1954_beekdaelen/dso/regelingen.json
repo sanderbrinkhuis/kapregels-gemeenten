@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1954/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Beekdaelen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1954/2020/omgevingsplan/nld@2025-05-13;de148910d63e4e409d40baeec5761e87",
+    "beginGeldigheid": "2025-05-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1954_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:43Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1954/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Beekdaelen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1954/2020/omgevingsvisie/nld@2025-11-25;0d21ce77ae314f5985844adc5563d127",
+    "beginGeldigheid": "2025-11-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1954_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:56:43Z"
+  }
+]

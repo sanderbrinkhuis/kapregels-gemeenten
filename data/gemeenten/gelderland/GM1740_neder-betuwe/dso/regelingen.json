@@ -1,0 +1,42 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1740/2024/Regeling93d7a93654c3494286b114441eadff63",
+    "titel": "Programma Economie gemeente Neder-Betuwe 2024-2028",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1740/2024/Regeling93d7a93654c3494286b114441eadff63/nld@2024-12-11;11085572",
+    "beginGeldigheid": "2024-12-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1740_2024_Regeling93d7a93654c3494286b114441eadff63?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1740/2025/Regeling2e9f0dc8cd12484fb80c0f2dc317d2d8",
+    "titel": "Programma Buitengebied gemeente Neder-Betuwe",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1740/2025/Regeling2e9f0dc8cd12484fb80c0f2dc317d2d8/nld@2026-02-25;11480272",
+    "beginGeldigheid": "2026-03-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1740_2025_Regeling2e9f0dc8cd12484fb80c0f2dc317d2d8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1740/2026/Regelingb81942ac66a549e8a1467c91fd6d8f0c",
+    "titel": "Omgevingsvisie Neder-Betuwe",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1740/2026/Regelingb81942ac66a549e8a1467c91fd6d8f0c/nld@2026-04-15;09063196",
+    "beginGeldigheid": "2026-04-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1740_2026_Regelingb81942ac66a549e8a1467c91fd6d8f0c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1740/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Neder-Betuwe",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1740/2020/omgevingsplan/nld@2026-07-24;10355611",
+    "beginGeldigheid": "2026-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1740_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1740/2026/Regelingae1bdc0466cd4ccd97794ed6425d7ade",
+    "titel": "Programma Hamsestraat Opheusden",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1740/2026/Regelingae1bdc0466cd4ccd97794ed6425d7ade/nld@2026-10-13;09575436",
+    "beginGeldigheid": "2026-07-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1740_2026_Regelingae1bdc0466cd4ccd97794ed6425d7ade?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:51Z"
+  }
+]

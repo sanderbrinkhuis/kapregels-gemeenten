@@ -1,0 +1,87 @@
+{
+  "gm_code": "GM0622",
+  "gemeente": "Vlaardingen",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Bomenverordening Vlaardingen 2023 (art. 1, 3, 5, 6, 10, 12, 17); Beleidsregels Bomenverordening Vlaardingen 2023 (CVDR713818_1); Verordening op de heffing en de invordering van leges 2026 art. 2.8.1 (CVDR750290_1); Omgevingsplan gemeente Vlaardingen art. 22.299 (CVDR696366_3); Besluit regels bomenfonds Vlaardingen (CVDR77971_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR706791/1 ; https://lokaleregelgeving.overheid.nl/CVDR713818/1 ; https://lokaleregelgeving.overheid.nl/CVDR750290/1 ; https://lokaleregelgeving.overheid.nl/CVDR696366/3 ; https://lokaleregelgeving.overheid.nl/CVDR77971/1",
+  "datum_geldigheid": "Bomenverordening CVDR706791_1 geldend vanaf 2023-12-15 t/m heden (peildatum scoren 2026-11-16); beleidsregels CVDR713818_1 vanaf 2024-01-17 (met terugwerkende kracht tot 2023-12-15); legesverordening CVDR750290_1 vanaf 2025-12-20; omgevingsplan CVDR696366_3 vanaf 2026-01-26",
+  "laatste_wijziging": "Bomenverordening: versie 1, ongewijzigd sinds inwerkingtreding op 2023-12-15. Beleidsregels: versie 1 (2024-01-17).",
+  "juridische_plaats": "Losse bomenverordening, werkt als omgevingsplanactiviteit: legesverordening art. 2.8.1 noemt het vellen van een houtopstand 'bedoeld in artikel 3 en 5 van de Bomenverordening Vlaardingen 2023 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 24 bekendmakingen op titel, waarvan 1 besluit, 1 aanvraag en 1 geweigerd volgens titel (gmb-2025-562276, vergunning geweigerd voor het kappen van 1 boom). De steekproef noemt geen grondslag. Het lage aantal zegt weinig, omdat de zoekmethode op titel veel kapbesluiten kan missen.",
+  "vergunningplicht": "Omgevingsvergunning (omgevingsplanactiviteit) voor het vellen van bomen met een stamdiameter van meer dan 20 cm (art. 5 lid 1 onder a) en voor Monumentale bomen en Waardevolle houtopstand op de Lijst met bijzondere houtopstand, ongeacht omvang (art. 3).",
+  "drempel": "Art. 5 lid 1 onder a: 'boom met een stamdiameter van meer dan 20 cm gemeten op 1.30 m hoogte boven het maaiveld'. Omgerekend 20 x 3,14 = ca. 62,8 cm stamomtrek.",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Binnen de bebouwde kom de hele gemeente, particulier en openbaar (art. 5 lid 1). Buiten de bebouwde kom lijkt art. 5 lid 4 het verbod voor alle houtopstanden uit te sluiten ('alle overige houtopstanden, die niet vallen onder sub a'), maar de formulering is onduidelijk; dat deel telt hoe dan ook niet hoger dan het deel binnen de kom. Daarnaast de Lijst met bijzondere houtopstand (Monumentale bomen en Waardevolle houtopstand, art. 3); het brede regime binnen de kom bepaalt D.",
+  "uitzonderingen": "Art. 5 lid 2 onder a: het verbod geldt niet voor 'een boom met een stamdiameter van meer dan 20 cm gemeten op 1.30 m hoogte boven het maaiveld in private eigendom op een perceel van in totaal minder dan 250 m2, waarbij woning of woongebouw met voor-, achter- en/of zijtuin een eenheid vormen.' De grens van 250 m2 ligt onder de 300 m2 van de voorbeeldtuin, dus geen correctie (besluit 15-11-2026, maatgrens). Verder: Plantgezondheidswet of aanschrijving, periodiek snoeien/knotten/kandelaberen van vorm- en knotbomen, dunning, noodkap met toestemming burgemeester, 'fruitbomen, mits geen hoogstamfruitbomen' en windschermen om boomgaarden (gedeeltelijke fruitbomenuitzondering, geen correctie), kerstbomen, kweekgoed en biomassabeplantingen.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 6 lid 3: 'De omgevingsvergunning voor het vellen van een houtopstand als bedoeld in artikel 5 kan worden geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand, op basis van één of meer van de volgende waarden: a. beeldbepalende waarde; b. waarde voor de leefbaarheid; c. natuurwaarde; d. cultuurhistorische waarde;'. Beleidsregels art. 5 werken de waarden uit en beperken de verlening niet verder (art. 6 beleidsregels betreft alleen zonne-energiesystemen). Voor Monumentale bomen en Waardevolle houtopstand: art. 4, vergunning 'kan' alleen worden verleend bij zwaarwegend belang.",
+  "herplantplicht": "Art. 10 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan onder andere behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet of niet afdoende ter plaatse of in de nabijheid van de kaplocatie kan worden herplant, kan tot de voorschriften behoren dat een geldelijke bijdrage gestort dient te worden in het Bomenfonds.' Na illegale kap: art. 12 lid 1 'kan het bevoegd gezag aan de rechthebbende de verplichting opleggen, te herplanten'.",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan onder andere behoren'); het bevoegd gezag beslist per geval. Er is geen vaste plicht en dus ook geen uitweg nodig. Betaling in het Bomenfonds is alleen een bevoegdheid: 'kan tot de voorschriften behoren dat een geldelijke bijdrage gestort dient te worden in het Bomenfonds' (art. 10 lid 2).",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit): legesverordening art. 2.8.1 noemt het vellen 'in samenhang met artikel 22.8 van de Omgevingswet'. De strafbepaling art. 17 lid 1 van de Bomenverordening noemt alleen 'artikel 14, tweede lid, of artikel 16' (niet het velverbod): 'wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie'. Geen bestuurlijke boete voor kappen (APV art. 6.1a noemt geen boomartikelen). Herplant na illegale kap: art. 12 lid 1 (kan).",
+  "procedure": "Leges art. 2.8.1: EUR 57,95 (tarief omgevingsplanactiviteit vellen houtopstand, de tweede kolom noemt EUR 56,10; de tabel is niet verder uitgesplitst). Aanvraag schriftelijk en gemotiveerd (art. 7), met aanvraagvereisten uit omgevingsplan art. 22.299; vergunning vervalt na 2 jaar niet gebruikt (art. 8). Bezwaar en beroep volgens de Awb; beslistermijn volgens de Omgevingswet.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets geregeld: de strafbepaling noemt het herplantartikel niet. Bomenverordening art. 10 lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot en met het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 17 lid 1: 'Degene die handelt in strijd met artikel 14, tweede lid, of artikel 16 wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Artikel 10 en 12 (herplant) worden niet genoemd.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien; geen aantallen in regeling of beleid (de Lijst met bijzondere houtopstand en het register zijn niet in CVDR gevonden; de lijst van 2006, CVDR77970_1, bevat in de tekst alleen het aanwijzingsbesluit)",
+  "status": "ok",
+  "ontbrekend": "Lijst met bijzondere houtopstand (art. 2) niet ingezien; geen aantallen. Geen invloed op D, omdat het brede regime binnen de kom bepaalt. Omgevingsplan in het DSO niet zelf bekeken; de tekst in CVDR bevat alleen art. 22.299.",
+  "artikelnummers": [
+    "Bomenverordening art. 1",
+    "Bomenverordening art. 3",
+    "Bomenverordening art. 4",
+    "Bomenverordening art. 5",
+    "Bomenverordening art. 6",
+    "Bomenverordening art. 10",
+    "Bomenverordening art. 12",
+    "Bomenverordening art. 17",
+    "Beleidsregels art. 5",
+    "Beleidsregels art. 6",
+    "Leges art. 2.8.1",
+    "Omgevingsplan art. 22.299",
+    "Besluit regels bomenfonds art. I"
+  ],
+  "opmerkingen": [
+    "Beslissend voor D: art. 5 lid 1 onder a, 'stamdiameter van meer dan 20 cm gemeten op 1.30 m hoogte boven het maaiveld' = ca. 62,8 cm omtrek, dus D = 3 (omtrek 60-100 cm). Definitie art. 1 onder e: boom is 'een houtig opgaand gewas zowel levend als afgestorven met een stamdiameter van minimaal 20 cm gemeten op 1.30 m hoogte boven het maaiveld'; zelfde drempel.",
+    "Boom A (80 cm omtrek, ca. 25 cm doorsnee) valt boven de drempel en het perceel van ca. 300 m2 is groter dan de 250 m2 van de vrijstelling: vergunning nodig. Boom B (40 cm, ca. 13 cm) is onder de drempel: vrij.",
+    "Beslissend voor W: 'kan worden geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (art. 6 lid 3) met beeldbepalende, leefbaarheids-, natuur- en cultuurhistorische waarde: W = 2. De beleidsregels maken de verlening niet strenger, behalve voor aanvragen louter voor zonne-energie ('in beginsel door het college afgewezen').",
+    "Beslissend voor H: 'kan onder andere behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant' (art. 10 lid 1): bevoegdheid, H = 1. Een beleidsregel die herplant vast voorschrijft ontbreekt. Het Besluit regels bomenfonds (2005) is alleen bedoeld voor onvermijdelijke kap bij 'in- en uitbreidingsplannen, ophoging, reconstructie of herinrichting van wegen' en verhoogt H niet.",
+    "Beslissend voor S: de legesverordening noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Omgevingswet, dus WED via Ow 5.1 en S = 1 zonder bereik. De Bomenverordening noemt nog 'artikel 2.2, eerste lid, onder g, van de Wet algemene bepalingen omgevingsrecht' (verouderde Wabo-verwijzing). Art. 17 noemt het velverbod niet. Geen bestuurlijke boete.",
+    "Herplant_niet_nakomen_type 'strafbaar (rechter)' is ingevuld omdat de regeling 'is verplicht daaraan te voldoen' bevat; de strafbepaling (art. 17) noemt de herplantartikelen echter niet. Zie modelsignaal.",
+    "Art. 5 lid 4 (buiten de bebouwde kom) is onduidelijk geformuleerd: het sluit 'houtopstanden indien zij staan in een zelfstandige eenheid van 10 are of meer, of rijbeplanting van meer dan 20 bomen' en 'alle overige houtopstanden' uit. Letterlijk lijkt buiten de kom geen verbod te gelden. Dit verandert D niet, omdat het deel binnen de kom het hoogste is.",
+    "Gangbare uitzonderingen niet meegeteld. Naast de beleidsregels geldt het Besluit aanwijzing lijst van monumentale bomen (2006, CVDR77970_1); art. 19 lid 4 van de verordening laat die lijst van kracht tot herziening."
+  ],
+  "modelsignalen": [
+    "Herplant niet nakomen: 'is verplicht daaraan te voldoen' staat in art. 10 lid 5 en 12 lid 6, maar de strafbepaling (art. 17) noemt die artikelen niet. De regel van 16-11-2026 geeft 'strafbaar (rechter)' bij alleen de eerste voorwaarde; dat geeft hier een onjuist beeld. Advies: de regel aanscherpen naar 'is verplicht daaraan te voldoen' én een strafbepaling of WED-route die het herplantvoorschrift dekt; anders 'niets geregeld'.",
+    "Onduidelijke uitsluiting buiten de bebouwde kom (art. 5 lid 4). Advies: D op het deel binnen de kom laten bepalen en de onduidelijkheid in de opmerkingen noemen (zoals gedaan)."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Het model scoort een lijstsysteem zonder ingezien lijst met puntschatting D1 (strengheid 18 bij W2 H1 S1), terwijl niet vaststaat dat er particuliere bomen op de lijst staan. Het resultaat rust dan op een aanname.",
+  "De VFL noemt een Bomenlijst, terwijl de subsidieregeling spreekt over een 'Waardevolle en monumentale bomenkaart'. Het model kent geen regel voor de vraag of kaart en lijst dezelfde aanwijzing zijn."
+ ],
+ "gm_code": "GM1734",
+ "gemeente": "Overbetuwe",
+ "brondocument": "Verordening fysieke leefomgeving gemeente Overbetuwe 2024 (VFL), art. 2.40, 7.8, 8.3 (CVDR705083_1); APV Overbetuwe 2024 art. 4:10, 4:11 (verwijzen naar de VFL) en 6:1 (CVDR705084_1); Legesverordening 2026 art. 2.30 (CVDR751255_1); Omgevingsplan art. 22.299 (CVDR696496_2); Subsidieregeling monumentale bomen 2026 (CVDR761508_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR705083/1 ; https://lokaleregelgeving.overheid.nl/CVDR705084/1 ; https://lokaleregelgeving.overheid.nl/CVDR751255/1",
+ "datum_geldigheid": "VFL CVDR705083_1 geldend van 2024-01-01 t/m heden; APV CVDR705084_1 geldend van 2024-01-01 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "VFL en APV: versie 1 per 2024-01-01, geen latere versie in CVDR. Legesverordening 2026 per 2026-01-01.",
+ "juridische_plaats": "VFL art. 2.40 (de APV art. 4:10 en 4:11 zeggen 'Opgenomen in de VFL'); werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR751255_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in 2.40 van de Verordening Fysieke Leefomgeving in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 31 bekendmakingen via volledige tekst (benadering), waarvan 12 besluiten (omgevingsvergunning), 0 aanvragen en 0 weigeringen volgens de titel. In de steekproef van 10 besluiten noemt geen enkel besluit kappen of een grondslag. Niet vast te stellen of er kapvergunningen bij zitten. Geen indicatie voor een breder regime; de zoekmethode kan besluiten missen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Bomenlijst staan (VFL art. 2.40 lid 2).",
+ "drempel": "Geen drempel: alleen bomen op de Bomenlijst, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "VFL art. 2.40 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.' Hele gemeente, geen gebiedsregel. De lijst is niet ingezien; de subsidieregeling noemt een 'Waardevolle en monumentale bomenkaart gemeente Overbetuwe' en subsidie voor eigenaren van 'de grond waarop zich de monumentale boom bevindt' (natuurlijke persoon of rechtspersoon), wat wijst op particuliere bomen maar dat niet bewijst.",
+ "uitzonderingen": "VFL art. 2.40 lid 4: 'Het verbod is niet van toepassing als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Bomen die niet op de lijst staan zijn niet beschermd.",
+ "weigeringsgronden": "VFL art. 2.40 lid 3: 'In afwijking van artikel 7.8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+ "herplantplicht": "VFL art. 2.40 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie gevonden in CVDR. Geen financiele compensatie.",
+ "herplant_ontsnapping": "geen (bevoegdheid, geen plicht: 'kan'; het bevoegd gezag beslist per geval)",
+ "sancties": "Geen WED-aanwijzing in de regeling gevonden. Wel: legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': WED via Ow 5.1. Daarnaast VFL art. 8.3 lid 1 (algemene strafbepaling): 'geldboete van ten hoogste de tweede categorie of hechtenis van ten hoogste drie maanden'. Geen bestuurlijke boete voor kappen. Geen handhavingsbeleid gevonden.",
+ "procedure": "Omgevingsvergunning via het Omgevingsloket; aanvraagvereisten omgevingsplan art. 22.299 (soort, locatie voor-, zij- of achtererf, diameter op 1,30 m, herbeplanting). Leges 2026 (CVDR751255_1) art. 2.30: EUR 210,00. Beslistermijn, bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "VFL art. 2.40 lid 5 zegt niets over niet nakomen. Alleen de algemene strafbepaling art. 8.3 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij gegeven voorschriften en beperkingen wordt gestraft met een geldboete van ten hoogste de tweede categorie of hechtenis van ten hoogste drie maanden'. Of dit voor een herplantvoorschrift bij een omgevingsvergunning geldt, is niet vast te stellen (art. 7.4 lid 3 sluit de omgevingsvergunning uit van het voorschriftenartikel).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de Bomenlijst (VFL art. 2.40 lid 1) en de 'Waardevolle en monumentale bomenkaart gemeente Overbetuwe' staan niet in CVDR of in het dossier; korte zoekpogingen op de gemeentelijke website (overbetuwe.nl) leverden de lijst of kaart niet op",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst of waardevolle en monumentale bomenkaart niet gevonden: onbekend of en hoeveel particuliere bomen erop staan. Geen beleidsregel over herplant, compensatie of handhaving gevonden. Omgevingsplan in het DSO niet ingezien. Bezwaar, beroep en beslistermijn niet apart gelezen.",
+ "artikelnummers": [
+  "VFL 2024 art. 2.40, 7.4, 7.8, 8.3",
+  "APV 2024 art. 4:10, 4:11, 6:1",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "Subsidieregeling monumentale bomen 2026 art. 1, 2, 3"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus de puntschatting is D1 en het bereik loopt vanaf D0 (INTENT, ONZEKERHEID). Het kapregime zelf staat in de VFL; de APV-artikelen 4:10 en 4:11 zeggen 'Opgenomen in de VFL' en art. 4:12a (Monumentale en waardevolle bomen) is vervallen.",
+  "W2: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (VFL art. 2.40 lid 3): kan-weigering op natuur-, landschaps- en cultuurhistorische waarden.",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (VFL art. 2.40 lid 5). Geen beleidsregel die herplant verplicht gevonden in CVDR.",
+  "S1: legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet': WED via Ow 5.1, zonder bereik. De APV art. 6:1 en VFL art. 8.3 zijn algemene strafbepalingen; geen eigen WED-aanwijzing voor art. 2.40 gevonden. Geen bestuurlijke boete voor kappen.",
+  "De Subsidieregeling monumentale bomen 2026 (CVDR761508_1, per 2026-10-01 tot en met 2028-09-30) geeft subsidie voor instandhoudingsmaatregelen aan eigenaren van monumentale bomen op de 'Waardevolle en monumentale bomenkaart'. Het is geen kapregel en telt niet mee voor W, H of S.",
+  "Praktijk: 12 besluiten omgevingsvergunning sinds 2025 volgens volledige-tekstzoekopdracht, geen titel noemt kappen; geen grondslag genoemd."
+ ]
+}

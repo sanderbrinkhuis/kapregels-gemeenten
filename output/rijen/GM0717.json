@@ -1,0 +1,64 @@
+{
+  "gm_code": "GM0717",
+  "gemeente": "Veere",
+  "provincie": "Zeeland",
+  "brondocument": "Verordening fysieke leefomgeving Veere 2024 (CVDR708196_2), afd. 3.4 'Activiteiten met betrekking tot het bewaren van houtopstanden' (art. 3.42-3.52), art. 5.2, Bijlage 1 en Bijlage 3 (Lijst waardevolle bomen); Legesverordening 2026 (CVDR751114_1); APV Veere 2026 (CVDR750027_1, afd. 4.3 '[gereserveerd]'); Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR748927_1); Bal art. 11.111 (wetten.overheid.nl, BWBR0041330)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR708196/2",
+  "datum_geldigheid": "2025-02-21 (versie 2; regeling in werking sinds 2024-01-01, vastgesteld 14-12-2023)",
+  "laatste_wijziging": "2025-02-21 (wijzigingsbesluit 06-02-2025; niet vastgesteld welke artikelen zijn gewijzigd)",
+  "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit volgens leges art. 2.30 ('het vellen van een houtopstand, bedoeld in artikel 3.44 van de verordening fysieke leefomgeving in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299; omgevingsplan hoofdstuk 8 'Regels over kappen van houtopstanden' is leeg; APV 2026 afd. 4.3 is gereserveerd",
+  "praktijkcontrole": "17 treffers sinds 2025 (2 besluiten, 6 aanvragen), 0 weigeringen volgens titel. De 2 besluiten zijn geen kapbesluiten (buitenbehandelingstelling [adres]; omgevingsplanwijziging Neeltje Jans). Aanvragen noemen geen grondslag. Weinig kapbesluiten past bij een smal regime (lijst + buitengebied).",
+  "vergunningplicht": "omgevingsvergunning (vergunning van het bevoegd gezag)",
+  "drempel": "lijstbomen: geen drempel; buiten de bebouwde kom: 'bomen met een stamdiameter van meer dan 30 cm (gemeten op 1,30 meter hoogte boven het maaiveld)' (art. 3.43 lid 2)",
+  "omtrek_cm": 94,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente: als waardevol aangemerkte bomen op de Lijst waardevolle bomen (Bijlage 3, 118 regels, waarvan 115 met eigenaar 'Particulier'). Daarnaast buiten de bebouwde kom bomen > 30 cm diameter, maar met uitzondering van de bomen 'zoals genoemd in artikel 11.111 lid 2 van het Besluit activiteiten leefomgeving' (o.a. houtopstanden op erven of in tuinen en houtopstanden kleiner dan 10 are of rijen van 20 of minder bomen). Binnen de bebouwde kom alleen lijstbomen.",
+  "uitzonderingen": "art. 3.43 lid 3: buitengebiedsverbod geldt niet voor bomen uit Bal art. 11.111 lid 2 (o.a. 'houtopstanden op erven of in tuinen', fruitteelt, windschermen boomgaarden, kerstbomen, kweekgoed, populieren/wilgen in wegbeplanting en langs waterwegen/landbouwgronden, dunning, biomassateelt, 'houtopstanden die een kleinere oppervlakte grond beslaan dan 10 a, of bestaan uit een rijbeplanting die 20 of minder bomen omvat'); lid 4: Plantenziektewet, aanschrijving, direct gevaar of spoedeisend belang; populieren of wilgen in wegbeplantingen en eenrijige beplantingen langs landbouwgronden (tenzij geknot), behalve Populus alba en P. canescens (lid 5)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Lijstbomen, art. 3.45 lid 1: 'Het college weigert de vergunning voor het vellen van een als waardevol aangemerkte boom tenzij: a. sprake is van een gevaarlijke situatie ...; b. het bevoegd gezag bij afweging van het belang bij het behoud van de houtopstand tegenover andere zwaarwegende belangen tot de conclusie komt dat een vergunning gerechtvaardigd is.' Buitengebied, lid 2: 'Het college weigert dan wel verleent onder voorwaarden de vergunning ... in het belang van onder meer: a. natuur- en milieuwaarden; b. cultuurhistorische- en landschappelijke waarden; c. waarden van stads- en dorpsschoon; d. waarden voor recreatie en leefbaarheid; e. realisatie van infrastructurele werken.' Lid 3: boomwaarden kunnen als motivering dienen.",
+  "herplantplicht": "bevoegdheid: art. 3.46 lid 1 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant.' Na illegale kap of tenietgaan: art. 3.47 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Bij spoedkap (gevaar) 'kan' het college een herplantplicht opleggen (3.43 lid 4 onder a). Geen herplantfonds of verplichte boomwaarde; geen beleidsregel herplant gevonden (Beleidsplan Groen 2023-2031 en Beheerplan Groen 2024-2028 gaan over openbaar groen).",
+  "herplant_ontsnapping": "'kan behoren' (art. 3.46 lid 1) en 'kan ... opleggen' (art. 3.47 lid 1): bevoegdheid, per geval door het bevoegd gezag; geen betaalalternatief",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 5.2 lid 3: 'Overtreding van het bij of krachtens de volgende artikelen bepaalde ... wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie en kan bovendien worden gestraft met openbaarmaking van de rechterlijke uitspraak: artikelen 3.42, 3.43, 3.44, 3.45, 3.46, 3.47, ...' Een herplantvoorschrift (3.46) en een opgelegde herplantplicht na illegale kap (3.47) zijn dus zelf strafbaar gesteld. Art. 3.6 lid 2 (nakomen voorschriften) geldt niet voor omgevingsvergunningen (lid 3). De Zeeuwse dwangsomleidraad (CVDR748927_1) noemt 'Niet voldoen aan herplantplicht (Lijnbeplanting)' en '(oppervlakte)'; niet duidelijk of die ook voor VFL-herplant geldt.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling VFL art. 5.2 lid 3 (hechtenis max. 2 maanden of geldboete tweede categorie, openbaarmaking uitspraak) voor art. 3.42-3.52; WED via Ow 5.1 voor zover de VFL-regel als omgevingsplanregel werkt (leges art. 2.30); geen WED-aanwijzing in de VFL voor afd. 3.4 (lid 5 noemt alleen 3.18-3.22); herplantplicht na illegale kap 'kan' (3.47). Bestuurlijke-boetebeleid (CVDR748927_1) alleen voor Ow art. 18.12 en 18.13 (bouwen, erfgoed), niet voor kap.",
+  "procedure": "omgevingsvergunning; leges kosteloos (Legesverordening 2026 art. 2.30); schriftelijke aanvraag met formulier, mondeling bij spoed (3.44); aanvraagvereisten omgevingsplan art. 22.299; bezwaar schorst de werking van het besluit (3.49); vergunning vervalt na één jaar (3.50); schadevergoeding (3.52); de lijst wordt jaarlijks geactualiseerd met zienswijzemogelijkheid (3.42 lid 4); beslistermijn niet in de VFL",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Niet vastgesteld welk regime de meeste gedekte particuliere bomen beslaat (lijst: 115 particuliere lijstbomen; buitengebied: alleen grotere houtopstanden buiten erven en tuinen). Daardoor W 2-3. Welke artikelen bij de wijziging per 21-02-2025 zijn veranderd, is niet nagegaan.",
+  "artikelnummers": "VFL Veere 2024 art. 3.6, 3.42, 3.43, 3.44, 3.45, 3.46, 3.47, 3.49, 3.50, 3.52, 5.2 lid 3, Bijlage 1 (begrippen 'Boom', 'Houtopstand', 'Vellen', 'Waardevolle bomen'), Bijlage 3; Legesverordening 2026 art. 2.30; omgevingsplan art. 22.299; Bal art. 11.111 lid 2",
+  "opmerkingen": "D1: binnen de bebouwde kom alleen de Lijst waardevolle bomen (Bijlage 3, ingezien in de VFL-tekst zelf: 118 regels, 115 met eigenaar 'Particulier', in voor-, zij- en achtertuinen). Het buitengebiedsregime (diameter > 30 cm, omgerekend 94 cm) zou als gebiedsregel voor het hele buitengebied D2 geven, maar art. 3.43 lid 3 sluit via Bal 11.111 lid 2 'houtopstanden op erven of in tuinen' uit, dus correctie -1 naar D1. W: lijstbomen 'Het college weigert de vergunning ... tenzij' (W3); buitengebied 'weigert dan wel verleent onder voorwaarden ... in het belang van onder meer' (W2). Puntschatting W2 omdat niet vast te stellen is welk regime de meeste gedekte bomen beslaat. H: 'kan behoren het voorschrift dat ... moet worden herplant' (3.46 lid 1). S1: eigen strafbepaling 5.2 lid 3. De toelichting bij het omgevingsplan zegt dat de verordeningen 'in Veere niet vastgesteld en dus geen onderdeel van het omgevingsplan van rechtswege' zijn; de legesverordening behandelt kap toch als omgevingsplanactiviteit. S verandert daardoor niet. De APV 2026 afd. 4.3 (art. 4.10-4.12) is '[gereserveerd]'. Definitie 'Boom' (Bijlage 1) noemt 'een dwarsdoorsnede van de stam van minimaal 30 centimeter op 1,3 meter hoogte'.",
+  "modelsignalen": [
+    "Art. 3.43 lid 3 VFL zondert van het buitengebiedsverbod precies de houtopstanden uit die het Bal (art. 11.111 lid 2) buiten de rijksregels laat: erven en tuinen, en houtopstanden kleiner dan 10 are of rijen van 20 of minder bomen. Letterlijk gelezen geldt het gemeentelijke verbod daardoor alleen voor houtopstanden die ook onder de rijksmeldplicht vallen. Dat lijkt het omgekeerde van wat bedoeld is. Het model scoort de letterlijke tekst (D1); bij een andere lezing zou D2 gelden.",
+    "Twee regimes met verschillende toetsing (lijst 'weigert ... tenzij', buitengebied belangenafweging) en geen telling van gedekte bomen per regime: de regel 'regime voor het grootste deel van de gedekte bomen' is niet toe te passen zonder gegevens over het buitengebied."
+  ],
+  "lijst_aantal_totaal": 118,
+  "lijst_aantal_particulier": 115,
+  "lijst_telling": "regels in Bijlage 3 (Lijst waardevolle bomen) bij de VFL Veere 2024; particulier = eigenaar 'Particulier'"
+}

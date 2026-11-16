@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1659",
+  "gemeente": "Laarbeek",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Bomenverordening Laarbeek 2025, art. 1 t/m 11, 16 en toelichting (CVDR740034_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30 (CVDR754084_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR740034/1",
+  "datum_geldigheid": "CVDR740034_1 geldend van 2025-06-05 t/m heden",
+  "laatste_wijziging": "Nieuwe verordening per 2025-06-05 (vervangt de Bomenverordening Laarbeek 2021); daarna niet gewijzigd.",
+  "juridische_plaats": "Losse bomenverordening (geen APV-afdeling); werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30, 'in samenhang met artikel 22.8 van de Omgevingswet'). Het omgevingsplan (CVDR696470_3) bevat alleen art. 22.299 (aanvraagvereisten).",
+  "praktijkcontrole": "Sinds 2025: 60 treffers (volledige-tekstzoekmethode; kan niet-kapbesluiten bevatten), waarvan 27 besluiten en 29 aanvragen; geen weigering volgens de titel. De titels zeggen besluit aanvraag omgevingsvergunning zonder kap te noemen; geen grondslagverwijzing in de steekproef. Geen bruikbare aanwijzing voor het regime.",
+  "vergunningplicht": "Voor waardevolle bomen op de Groene Kaart: ontheffing. Voor houtopstand in groenvlakken, lijnstructuren, hoofdgroenstructuur en wijkgroen op de Groene Kaart en gemeentebomen dikker dan 10 cm: omgevingsvergunning. Overige particuliere bomen vrij.",
+  "drempel": "Waardevolle bomen: geen omvangdrempel. Art. 5: houtopstand op de Groene Kaart (geen omvangdrempel); gemeentebomen 'dikker dan 10 cm diameter'. Definitie boom (art. 1 onder a): dwarsdoorsnede van minimaal 10 cm op 1,3 m hoogte.",
+  "omtrek_cm": null,
+  "meethoogte": "1,3 m (diameter van 10 cm bij 'boom' en bij gemeentebomen; geldt niet voor de Groene Kaart-elementen)",
+  "reikwijdte": "Hele gemeente, maar alleen elementen op de Groene Kaart: waardevolle bomen (gemeentelijk of particulier), groenvlakken en lijnstructuren in het buitengebied, hoofdgroenstructuur en wijkgroen in de dorpen; daarnaast alle gemeentebomen. Art. 3 lid 1: 'Het is verboden waardevolle bomen zoals aangeduid op de Groene Kaart te vellen of te doen vellen.' Art. 1 onder c: 'waardevolle boom: gemeentelijke of particuliere solitaire, of in groepsverband staande boom'.",
+  "uitzonderingen": "Art. 3 lid 3 en art. 5 lid 2: Plantgezondheidswet of aanschrijving, periodiek scheren/knotten/kandelaberen, snoeien bij achterstallig onderhoud, hakhout, dunning, en bomen waarvoor het omgevingsplan al een omgevingsvergunning vraagt. Allemaal gangbaar; geen uitzondering voor tuinen.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst niet ingezien: de Groene Kaart en het register staan niet in CVDR en de gemeentelijke website (laarbeek.nl) was niet bereikbaar (HTTP 403).",
+  "weigeringsgronden": "Art. 6 lid 2 (groenvlakken, lijnstructuren, hoofdgroenstructuur, wijkgroen): 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden:' natuur- en milieuwaarden, landschappelijke waarden, cultuurhistorische waarden, beeldbepalendheid / esthetische waarden, waarden voor recreatie en leefbaarheid, specifieke bijzonderheid. Waardevolle bomen (art. 4 lid 2): 'slechts bij uitzondering worden verleend indien' een zwaarwegend algemeen maatschappelijk belang opweegt of instandhouding niet langer verantwoord is.",
+  "herplantplicht": "Art. 10 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: bij onmogelijke herplant 'kan' een geldelijke bijdrage in het gemeentelijk bomenfonds worden voorgeschreven.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); bij niet ter plaatse herplanten: 'kan ... behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in het gemeentelijk bomenfonds' (art. 10 lid 2). College beslist per geval.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 11 lid 5: 'Degene aan wie de verplichting als bedoeld in het eerste tot het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Toelichting art. 16: 'Overtreding van artikel 3 lid 1, van deze verordening en overtreding van voorschriften op grond van artikel 10 van deze verordening, heeft als strafmaat een hechtenis van maximaal 6 maanden, taakstraf en/of een geldboete tot maximaal € 19.000 (artikel 6 Wed).' Toelichting art. 11: herstel via 'last onder bestuursdwang of dwangsom'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "Art. 16 lid 2 (eigen strafbepaling) geldt alleen voor art. 14 en 15; voor kappen verwijst de toelichting naar de WED: 'Het handelen zonder omgevingsvergunning of het handelen in strijd met een omgevingsvergunning is strafbaar gesteld in de Wet economische delicten.' De legesverordening noemt het vellen een omgevingsplanactiviteit (art. 2.30). Herplant na illegale kap: art. 11 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'. Geen bestuurlijke boete.",
+  "procedure": "Omgevingsvergunning (waardevolle bomen: ontheffing). Leges 2026 (CVDR754084_1 art. 2.30): € 210,00. Beslistermijn niet in de verordening gevonden. Jaarlijkse mutaties op de Groene Kaart door het college (art. 2 lid 1). Bezwaar en beroep volgens Awb (niet apart gelezen).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Groene Kaart met register niet ingezien (niet in CVDR, website geblokkeerd); onbekend hoeveel particuliere bomen en hoeveel hectare particulier groenvlak, lijnstructuur, hoofdgroenstructuur en wijkgroen erop staan. Ook het Bomenbeleidsplan Laarbeek 2013 en het Groenbeleids- en groenstructuurplan Laarbeek 2011 (waarnaar art. 1 verwijst) staan niet in het dossier. Criteria voor 'waardevolle boom' niet gevonden.",
+  "artikelnummers": [
+    "Bomenverordening 2025 art. 1, 2, 3, 4, 5, 6, 10, 11, 16 en toelichting",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (bereik 0-2): systeem met een Groene Kaart die niet is ingezien. De kaart bevat naast losse waardevolle bomen ook structuren: groenvlakken (art. 1 onder d: 'vlakken met houtopstanden in het buitengebied die als bos, natuur of landschapselement bestemd zijn in het omgevingsplan'), lijnstructuren, hoofdgroenstructuur en wijkgroen. Zijn die voor een substantieel deel van de gemeente particulier, dan is D2; zonder kaart is dat niet vast te stellen. Zie modelsignaal.",
+    "W2 (bereik 2-3): art. 6 lid 2 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud' voor structuren (W2 zonder bereik); voor waardevolle bomen is de ontheffing 'slechts bij uitzondering' (W3), de toelichting zegt 'in beginsel een ontheffing slechts bij hoge uitzondering wordt verleend'. Het aandeel waardevolle bomen op de kaart is onbekend.",
+    "H1: art. 10 lid 1 'kan behoren' en art. 11 lid 1 'kan'. Geen beleidsregel over herplant of compensatie in CVDR gevonden. Storting in het bomenfonds alleen als 'kan'.",
+    "S1: de strafbepaling in art. 16 geldt niet voor kappen; de toelichting verwijst naar de WED. De legesverordening noemt het vellen een omgevingsplanactiviteit en verwijst daarbij naar 'de Bomenverordening Laarbeek 2021', de ingetrokken verordening (foute verwijzing; de verordening van 2025 trok die in per art. 18 lid 2). Per besluit gebruiker 14-11-2026 geldt S = 1 zonder bereik.",
+    "Waardevolle bomen: er bestaat een bijdrageregeling voor onderhoud (bijlage bij de verordening, art. 1 t/m 5); dat is een subsidie, geen kapregel.",
+    "Gemeentebomen dikker dan 10 cm (art. 5 lid 1) zijn niet particulier en tellen niet voor D.",
+    "Drempel: geen omvangdrempel voor de particuliere elementen; omtrek niet ingevuld."
+  ],
+  "modelsignalen": [
+    "Een Groene Kaart met zowel losse bomen als gebiedsstructuren (groenvlakken, lijnstructuren, wijkgroen), niet ingezien: het model zegt D1 met bereik vanaf 0 voor een lijst met individuele bomen, maar hier kunnen de structuren naar D2 trekken. Het model zegt niet hoe je gebieden scoort die alleen op een niet-ingeziene kaart staan.",
+    "Legesverordening 2026 verwijst voor het vellen naar een ingetrokken verordening (Bomenverordening Laarbeek 2021); S1 volgt volgens besluit 14-11-2026 (verkeerde verwijzing), maar het besluit gaat over een WED-aanwijzing of strafbepaling en niet over een verkeerde verwijzing in de leges."
+  ]
+}

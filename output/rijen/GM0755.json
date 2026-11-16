@@ -1,0 +1,76 @@
+{
+ "gm_code": "GM0755",
+ "gemeente": "Boekel",
+ "provincie": "Noord-Brabant",
+ "brondocument": "APV gemeente Boekel 2021, art. 4:10, 4:11, 6:1 (CVDR651762_4); Beleidsregel bomen gemeente Boekel (CVDR716200_1) art. 2-8; Legesverordening Boekel 2026 art. 2.17 (CVDR750434_1); Omgevingsplan art. 22.289 (CVDR696392_2)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR651762/4 ; https://lokaleregelgeving.overheid.nl/CVDR716200/1 ; https://lokaleregelgeving.overheid.nl/CVDR750434/1",
+ "datum_geldigheid": "APV CVDR651762_4 geldend vanaf 2024-12-19 t/m heden; beleidsregel CVDR716200_1 geldend vanaf 2024-02-27 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 4 per 2024-12-19 (wijziging betreft andere artikelen dan 4:11 volgens regelingen.jsonl); beleidsregel: versie 1 per 2024-02-27; legesverordening 2026 per 2025-12-20.",
+ "juridische_plaats": "APV art. 4:11, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.17 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de APV gemeente Boekel in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.289) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 19 bekendmakingen op titel, waarvan 2 besluiten (beide verleende vergunning, 1 boom kappen resp. 3 bomen verplanten en 1 boom kappen), 7 aanvragen en 0 weigeringen. De steekproef van 2 besluiten noemt geen grondslag. Niet vast te stellen of het om kaartbomen gaat.",
+ "vergunningplicht": "Omgevingsvergunning van het college voor het vellen van houtopstanden die op de kaart beschermde bomen Boekel staan (art. 4:11 lid 2), en voor bomen die zijn aangeplant op basis van een herplantverplichting en/of instandhoudingsverplichting (lid 3).",
+ "drempel": "Geen omtrekdrempel voor kaartbomen. Alleen aangewezen houtopstanden op de kaart (monumentale bomen, waardevolle bomen, gemeentelijke of provinciale bomen, beschermde bosgebieden).",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (kaartsysteem; 1,30 m genoemd voor gemeentebomen kleiner dan 95 cm omtrek)",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een kaart beschermde bomen Boekel vast.' Lid 2: verbod alleen voor houtopstanden 'die staat vermeld op de in het eerste lid genoemde kaart beschermde bomen Boekel'. Beleidsregel art. 7 lid 1 onder b: 'houtopstanden of bosgebieden worden aan de kaart toegevoegd op verzoek van een belanghebbende, waarbij deze toestemming dient te hebben van de eigenaar van het perceel waarop de boom of het bos staat.' Geen gebiedsregel of omtrekregel. De kaart zelf is niet ingezien, dus onbekend of en hoeveel particuliere bomen erop staan.",
+ "uitzonderingen": "Art. 4:11 lid 5: verbod niet van toepassing bij spoedeisend belang of direct gevaar (burgemeester), bij gemeentelijke boom kleiner dan 95 cm omtrek, bij periodiek knotten of kandelaberen, en bij natuurontwikkeling. Geen tuinuitzondering, geen soortuitzondering.",
+ "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan de omgevingsvergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; ...' plus g. 'het ontbreken van toestemming van de eigenaar van de boom;' en h. 'het onvoldoende vaststaan van de noodzaak om te vellen.' Beleidsregel art. 3 werkt de waarden uit met criteria.",
+ "herplantplicht": "APV art. 4:11 lid 6: 'Het bevoegd gezag legt een herplantplicht of een herplantvergoeding op onder nader te stellen voorschriften.' Beleidsregel art. 4 lid 1: 'Bij het verlenen van een vergunning voor het vellen van een houtopstand legt het college een herplantplicht op, waarbij in ieder geval de stamomtrek van de te vellen boom terug geplant dient te worden.' Lid 3: 'Het college brengt een herplantvergoeding in rekening indien de aanvrager zelf geen herplant kan verrichten of wanneer het herplantplan ontbreekt bij de vergunningaanvraag.' Bedragen per boom: monumentaal 3.800 euro, waardevol 3.400 euro, overige 1.750 euro.",
+ "herplant_ontsnapping": "Geen echte uitweg: herplant wordt opgelegd. Wel een alternatief via betaling: 'indien de aanvrager zelf geen herplant kan verrichten' (beleidsregel art. 4 lid 3) brengt het college een herplantvergoeding in rekening. Het college beslist per vergunning; de voorschriften volgen 'onder nader te stellen voorschriften' (APV art. 4:11 lid 6).",
+ "sancties": "WED-aanwijzing in APV art. 6:1 lid 3 ('is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10, ... en artikel 4:11, eerste lid'); verwijst naar lid 1 (kaart vaststellen) en niet naar lid 2 (het verbod). Daarnaast art. 6:1 lid 1: 'gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Via de leges (art. 22.8 Ow) werkt de regel ook als omgevingsplanactiviteit (WED via Ow 5.1). Geen bestuurlijke boete in de regeling. Beleidsregel art. 5: bij illegaal vellen 'Opleggen herplantplicht en last onder dwangsom' en proces-verbaal.",
+ "procedure": "Omgevingsvergunning; leges art. 2.17 Legesverordening 2026: 424,00 euro (50% bij ziekte of dood volgens rapport). Indieningsvereisten beleidsregel art. 8 en omgevingsplan art. 22.289. Beslistermijn, bekendmaking, bezwaar en beroep niet apart gelezen (APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning).",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "verplicht",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Beleidsregel art. 5 (Herplantplicht niet uitvoeren): 2e constatering 'Opleggen last onder dwangsom' en 'Opstellen proces verbaal / verzoeken O.M. om te vervolgen'; daarna 'Verbeuring last onder dwangsom'. Daarnaast APV art. 6:1 lid 1: 'gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de kaart beschermde bomen Boekel staat niet in de CVDR-tekst; korte zoekpogingen op boekel.nl leverden de kaart niet op",
+ "status": "ok",
+ "ontbrekend": "Kaart beschermde bomen Boekel (digitaal via www.boekel.nl volgens beleidsregel bijlage 1) niet ingezien; onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien. Beslistermijn, bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 2021 art. 4:10, 4:11, 6:1, 1:8",
+  "Beleidsregel bomen CVDR716200_1 art. 2-8",
+  "Legesverordening 2026 art. 2.17",
+  "Omgevingsplan art. 22.289"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): kaartsysteem (alleen individueel aangewezen houtopstanden); de kaart is niet ingezien, dus puntschatting D1 en bereik vanaf D0 (INTENT, ONZEKERHEID). Beleidsregel art. 7 lid 1 onder b laat toevoeging van bomen van particulieren op de kaart toe 'op verzoek van een belanghebbende' met toestemming van de eigenaar; of er nu particuliere bomen op staan blijft onbekend. Beleidsregel art. 6 lid 6 noemt ook beschermde bosgebieden (meer dan 300 m2) en art. 4:11 lid 1 onder e (oude tekst) een meldplicht voor bosgebieden zonder verbodsmogelijkheid; die tellen niet mee voor D (aangewezen individuele gebieden, geen substantieel deel van de gemeente).",
+  "W2 (max 3): 'In afwijking van artikel 1:8 kan de omgevingsvergunning worden geweigerd op grond van:' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden (APV art. 4:11 lid 4). Grond h ('het onvoldoende vaststaan van de noodzaak om te vellen') kan strenger gelezen worden, vandaar max 3.",
+  "H3: verordening en beleidsregel zeggen 'legt ... een herplantplicht ... op' en de beleidsregel maakt betaling verplicht als de aanvrager zelf geen herplant kan verrichten: 'Het college brengt een herplantvergoeding in rekening indien de aanvrager zelf geen herplant kan verrichten' (beleidsregel art. 4 lid 3). Dat is een verplichte storting als vervanging voor herplant die niet mogelijk is.",
+  "S1: WED-aanwijzing (APV art. 6:1 lid 3) en omgevingsplanactiviteit volgens de leges (art. 22.8 Ow): S1 zonder bereik. Foute verwijzing: art. 6:1 lid 3 noemt 'artikel 4:11, eerste lid', maar het verbod staat in lid 2 (lid 1 gaat over het vaststellen van de kaart). Herplantplicht na illegale kap (beleidsregel art. 5: 'Opleggen herplantplicht en last onder dwangsom') telt ook bij S1. Een bestuurlijke boete in de regeling zelf is niet gevonden. De Beleidsnotitie handhaving in gebruik genomen gemeentegrond (CVDR692899_1, par. 3.7) noemt 'een boete in rekening brengen' bij illegaal gekapte gemeentebomen 'overeenkomstig de beleidsregel voor het vellen van houtopstanden', maar dat gaat over gemeentegrond en staat niet in de beleidsregel bomen; telt niet.",
+  "Twee regelingen tegelijk geldend: CVDR470134_1 (1e wijziging APV 2014, 2017) staat in CVDR nog als geldend, maar de APV Boekel 2021 (CVDR651762_4) heeft de afdeling Houtopstanden opnieuw vastgesteld, en de legesverordening 2026 en de beleidsregel 2024 verwijzen naar art. 4:11 APV 2021. Gescoord op de APV 2021. De oude tekst is niet strenger (herplant 'bevoegd', vergoeding 250 tot 750 euro, viervoudiging mogelijk bij kap zonder vergunning).",
+  "Herplant: de oude APV-tekst (CVDR470134_1) noemde 'Het college is bevoegd om een herplantvergoeding in rekening te brengen'; de huidige APV en beleidsregel zeggen 'legt ... op' en 'brengt ... in rekening'.",
+  "Modelsignaal: lijstsysteem met niet-ingezien kaart; zie modelsignalen."
+ ],
+ "modelsignalen": [
+  "Het model scoort een kaartsysteem met D1 even hoog als de opbouw van I (W2 H3 S1 = 6 van 9), terwijl niet vast staat dat er particuliere bomen op de kaart staan. Bij D0 is de strengheid 0; de puntschatting D1 geeft nu 20 (Soepel) zonder feitelijke basis."
+ ]
+}

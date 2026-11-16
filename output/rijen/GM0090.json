@@ -1,0 +1,76 @@
+{
+ "gm_code": "GM0090",
+ "gemeente": "Smallingerland",
+ "provincie": "Fryslân",
+ "brondocument": "Omgevingsplan gemeente Smallingerland, afdeling 10.1 Bomen kappen en houtopstanden vellen (CVDR696182_5); leges CVDR753928_1; beleidsregels kappen CVDR85247_1 (2011, nog geldend maar verwijst naar de oude APV-artikelen 4.10B-4.10G)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR696182/5",
+ "datum_geldigheid": "2026-07-30 t/m heden (CVDR696182_5, geldend op 2026-11-14)",
+ "laatste_wijziging": "2026-07-30 (CVDR696182_5); APV 4:10B-4:11 zijn [vervallen] in CVDR270517_16 (in werking 2026-05-02)",
+ "juridische_plaats": "omgevingsplan (afdeling 10.1, art. 10.7; de APV-artikelen 4:10B, 4.10C, 4:10G en 4.11 staan op [vervallen])",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 387 (187 besluiten, 197 aanvragen), 0 geweigerd volgens titel; veel verleningen van kap van een of meer bomen, ook door particulieren (bijv. gmb-2026-519836). VTH-jaarverslag 2022 (CVDR699693_1): 191 omgevingsvergunningen kap in 2022, 'De meeste kapvergunningen worden verleend'. Besluiten noemen de grondslag niet.",
+ "vergunningplicht": "vergunning (omgevingsvergunning voor het vellen van een houtopstand, omgevingsplanactiviteit)",
+ "drempel": "stamomtrek van minder dan 63 cm is uitgezonderd (art. 10.7 lid 2 onder a); dus vergunning vanaf 63 cm",
+ "omtrek_cm": 63,
+ "meethoogte": "1,30 m (art. 10.8 lid 2 onder c, aanvraagvereisten; art. 10.7 zelf noemt geen meethoogte)",
+ "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwingscontour houtkap, particulier en openbaar: \"Het is verboden zonder omgevingsvergunning een houtopstand te vellen.\" (art. 10.7 lid 1). Uit de toelichting: \"Deze paragraaf geldt zowel binnen als buiten de bebouwingscontour houtkap\".",
+ "uitzonderingen": "Art. 10.7 lid 2: omtrek < 63 cm (behalve herdenkingsboom); teelt voor oogst van fruit/noten/vruchten; windschermen om boomgaarden; kerstbomen; kweekgoed; populieren/wilgen in wegbeplanting, langs waterwegen of eenrijig langs landbouwgrond; biomassa-beplanting; \"buiten de bebouwingscontour houtkap en buiten een erf of tuin\" begroeiing kleiner dan 10 are of rijbeplanting van 20 of minder bomen; aanschrijving/Plantgezondheidswet; lid 3 spoed. Geen uitzondering voor tuinen of percelen, dus geen D-correctie. Bomen geplant als herplant vallen ongeacht omvang onder de plicht (beleidsregel CVDR85247_1).",
+ "weigeringsgronden": "Art. 10.9 lid 1: \"De omgevingsvergunning kan worden geweigerd als de belangen, bedoeld in artikel 10.2 , onevenredig worden geschaad.\" Art. 10.2: landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid. Lid 2: ook weigering op basis van de financiële boomwaarde.",
+ "herplantplicht": "Art. 10.9 lid 3: \"Bij vergunningvoorschrift kan een herplantplicht worden opgelegd.\" Art. 10.4 lid 1: bij kap zonder vergunning \"kan het bevoegd gezag bij maatwerkvoorschrift als bedoeld in artikel 5.3 de verplichting opleggen binnen een bepaalde termijn te herbeplanten\". Beleidsregels (CVDR85247_1): \"Het al dan niet opleggen van een herplantplicht wordt per geval beoordeeld.\"",
+ "herplant_ontsnapping": "Geen verplichting zonder besluit: \"kan\" (bevoegdheid), per geval door het bevoegd gezag; \"Het al dan niet opleggen van een herplantplicht wordt per geval beoordeeld.\" Geen betaling in plaats van herplant geregeld.",
+ "sancties": "WED via Omgevingswet: kap zonder vergunning is een omgevingsplanactiviteit (art. 5.1 lid 1 onder a Ow; leges art. 2.30 spreekt van 'omgevingsplanactiviteit'), WED art. 1a onder 2 (besluit stap 1a). Geen bestuurlijke boete in de regeling gevonden. Herplant na illegale kap kan worden opgelegd (art. 10.4).",
+ "procedure": "Leges art. 2.30: EUR 246 (CVDR753928_1, in werking 2025-12-31). Aanvraagvereisten art. 10.8. Procedure volgens Omgevingswet/Awb (beleidsregels CVDR85247_1: bezwaar en beroep volgens Awb). Beslistermijn niet in de kapartikelen gevonden.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niets specifieks geregeld in afdeling 10.1: art. 10.4 lid 1 en 10.9 lid 3 regelen alleen de bevoegdheid; \"Bij het maatwerkvoorschrift kan worden bepaald binnen welke termijn na de herbeplanting en op welke wijze niet-geslaagde beplanting moet worden vervangen\" (art. 10.4 lid 3). Geen eigen boete of strafbepaling gelezen; alleen algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen lijstsysteem",
+ "status": "ok",
+ "ontbrekend": "",
+ "artikelnummers": [
+  "Omgevingsplan art. 10.1, 10.2, 10.4, 10.7, 10.8, 10.9 (CVDR696182_5)",
+  "art. 4.47, 4.78, 4.85",
+  "art. 22.299 (bruidsschat, alleen aanvraagvereisten)",
+  "leges art. 2.30 (CVDR753928_1)",
+  "APV 4:10B, 4.10C, 4:10G, 4.11 [vervallen] (CVDR270517_16)"
+ ],
+ "opmerkingen": [
+  "Peildatum 2026-11-14. De kapregel staat sinds de (laatste) wijziging van het omgevingsplan (CVDR696182_5, in werking 2026-07-30) in afdeling 10.1; de APV-artikelen zijn vervallen. De leges (CVDR753928_1) verwijzen nog naar APV art. 4:10b; dat is een verouderde verwijzing.",
+  "W: \"De omgevingsvergunning kan worden geweigerd als de belangen, bedoeld in artikel 10.2 , onevenredig worden geschaad.\" (art. 10.9 lid 1) = W2 (belangenafweging op landschaps-, cultuurhistorische en leefbaarheidswaarden).",
+  "H: \"Bij vergunningvoorschrift kan een herplantplicht worden opgelegd.\" (art. 10.9 lid 3) = H1. De beleidsregels van 2011 maken herplant niet tot vast voorschrift (per geval).",
+  "S1: WED via Ow 5.1 (omgevingsplanactiviteit); geen bestuurlijke boete gevonden.",
+  "Art. 4.78 en 4.85 (groenblauwe hoofd- en wijkstructuur) kennen een eigen verbod \"het kappen van bomen en verwijderen van ander groen\" in aangewezen gebieden; telt niet mee omdat art. 10.7 al de hele gemeente dekt.",
+  "Drempel 63 cm valt in de klasse 60-100 cm (D3). Geen tuin- of perceelsuitzondering, dus geen correctie."
+ ],
+ "modelsignalen": [
+  "Omgevingsplanregel die de drempel als uitzondering formuleert (\"minder dan 63 cm\") terwijl de meethoogte alleen in de aanvraagvereisten (art. 10.8) staat."
+ ]
+}

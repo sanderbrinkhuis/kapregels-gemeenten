@@ -1,0 +1,88 @@
+{
+  "gm_code": "GM0147",
+  "gemeente": "Borne",
+  "provincie": "Overijssel",
+  "brondocument": "Bomenverordening Borne 2010 (CVDR41212_1), art. 1.7, 2.1, 2.2, 3, 5, 6, 9, 10, 12, 16 en bijlage A; legesverordening 2026 (CVDR747696_2) art. 2.14; APV 2024 (CVDR709792_2) art. 4:10-4:12 '(vervallen)'; Toezicht- en handhavingswerkwijze 2025 (CVDR751782_1 en CVDR751785_1) bijlage 3",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR41212/1",
+  "datum_geldigheid": "2010-10-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "Geen wijziging: alleen versie 1 (2010-10-01). De APV 2024 (CVDR709792_2, 2025-04-18) heeft afdeling 4.3 laten vervallen.",
+  "juridische_plaats": "Losse Bomenverordening Borne 2010. De APV-artikelen 4:10, 4:11 en 4:12 zijn '(vervallen)'; de APV zegt zelf 'wijkt af van VNG model, omdat wij een aparte Bomenverordening hebben'. De legesverordening 2026 art. 2.14 noemt het vellen 'een omgevingsplanactiviteit ... bedoeld in artikel 2 van de gemeentelijke Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. De regel werkt dus als omgevingsplanregel. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 124 bekendmakingen met kapterm in de titel (titelzoekmethode): 56 besluiten, 66 aanvragen, 0 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. Veel vergunningen voor 1 tot 3 bomen op particuliere percelen; gmb-2026-78862 (6 bomen, 'waarvan 2 niet vergunning plichtig') past bij een drempel naar stamdikte. Past bij een breed vergunningstelsel met drempel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen) voor een 'vergunningsplichtige boom'. Art. 2.1: 'Het is verboden zonder vergunning van het bevoegd gezag bomen of andersoortige houtopstanden; a. te vellen of te doen vellen, te rooien of te verplanten'.",
+  "drempel": "Art. 1.7: 'Vergunningsplichtige boom: Boom met een stamdiameter van dertig centimeter of meer, gemeten op een hoogte van 1.30 meter, op een kavel dat groter is dan 300m2.' Art. 2.2 lid 1 onder a: vrijstelling voor 'houtopstand binnen de bebouwde kom met een diameter tot 30 cm (stamomtrek 94 cm)'. Bomen op de bijzondere bomenlijst: 'vergunningsplichtig ongeacht de stamdiameter en de kavelgrootte'.",
+  "omtrek_cm": 94,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente (binnen en buiten de bebouwde kom), particulier en openbaar. Een boom (diameter vanaf 10 cm) is een 'Boom' in de zin van art. 1.1; vergunningplicht pas bij diameter vanaf 30 cm op kavels groter dan 300 m2. Daarnaast een Bijzondere bomenlijst (bijlage D, art. 3) met ook particuliere bomen; die lijst is niet ingezien. Het breedste regime (alle bomen vanaf 30 cm op kavels > 300 m2) bepaalt D.",
+  "uitzonderingen": "Kavel van 300 m2 of kleiner (volgens de toelichting 'inclusief bebouwing'): 'Vergunningsplichtige boom' geldt alleen 'op een kavel dat groter is dan 300m2'. Art. 2.2 lid 1 onder e: 'houtopstand binnen de bebouwde kom met een diameter tot 40 (stamomtrek 126 cm) ... behorende tot de in bijlage A opgesomde soorten' (o.a. els, berk, es, populier, wilg, fijnspar). Verder: periodiek vellen van hakhout, knotten, kerstbomen, kweekgoed, bedrijfseconomisch geexploiteerde populieren/wilgen, Plantenziektenwet of aanschrijving; spoed (art. 6 lid 6). De kavelgrens telt als ruime uitzondering (percelen tot 300 m2): -1 op D.",
+  "weigeringsgronden": "Art. 6 lid 1: 'Het bevoegd gezag kan de vergunning om te vellen weigeren dan wel onder voorschriften verlenen.' Lid 3: 'Een vergunning wordt geweigerd indien het belang van de aanvrager bij verlening, niet opweegt tegen één of meer van de volgende waarden van behoud van houtopstanden: natuur- en milieuwaarden; landschappelijke waarden; dendrologische waarde; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie en leefbaarheid.' Voor bomen op de bijzondere bomenlijst (lid 2) geldt een strengere toets: 'alleen om zwaar wegende redenen'.",
+  "herplantplicht": "Art. 9 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door burgemeester en wethouders te geven aanwijzingen moet worden herplant.' Compensatiebedrag volgens lid 2: '€ 250,- voor particuliere eigenaren'. Art. 10: 'Voor zover herplant niet of onvoldoende mogelijk is, dient een compenserende vergoeding te worden betaald door storting in het Compensatiefonds.' Herplant is dus een bevoegdheid; de storting hoort bij een opgelegde herplant.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan behoren het voorschrift'); het college beslist per geval. Uitweg bij herplant die niet mogelijk is: 'dient een compenserende vergoeding te worden betaald door storting in het Compensatiefonds' (art. 10). Na illegale kap (art. 12 lid 1): 'kan het bevoegd gezag ... de verplichting opleggen tot (financiële-) herplant'.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 12 lid 4: 'Degene aan wie een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 9 lid 3: 'is blijvend verplicht daaraan te voldoen.' Art. 16: 'Overtreding van het bij of krachtens deze verordening bepaalde wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Handhavingswerkwijze (CVDR751782_1 bijlage 3), 'niet uitvoeren herplantplicht': 'Dwangsom, per overtreding' en 'Bestuursdwang en bestuurlijke boete', dwangsom € 1.500 per boom.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "WED via de Omgevingswet: de legesverordening (art. 2.14) noemt het vellen een omgevingsplanactiviteit, dus WED via Ow 5.1 (S = 1, zonder bereik). Daarnaast eigen strafbepaling in art. 16 (hechtenis of geldboete tweede categorie; 'Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde'). De bestuurlijke boete staat alleen in het handhavingsbeleid (bijlage 3 van CVDR751782_1, voor niet uitvoeren herplantplicht en voorbereidende werkzaamheden), niet in de verordening zelf: telt dus niet als S = 2.",
+  "procedure": "Aanvraag omgevingsvergunning (art. 5, indieningsvereisten Mor). Leges 2026 (CVDR747696_2 art. 2.14): € 103,00 voor 1 tot en met 3 bomen, € 206,00 voor 4 tot en met 10 bomen, € 309,00 per 10 bomen daarboven; voor 2027 € 107,00 / € 215,00 / € 323,00 (CVDR769261_1, toekomstig). Niet-gebruik tot na bezwaartermijn (art. 7); vergunning vervalt na een jaar (art. 8). Beslistermijn en beroep: niet in de verordening zelf vastgesteld.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Bijzondere bomenlijst (bijlage D, art. 3 lid 2: 'Ook particuliere bomen maken daarom onderdeel uit van de bijzondere bomenlijst') niet ingezien. Geen telling.",
+  "status": "ok",
+  "ontbrekend": "Bijzondere bomenlijst (bijlage D) en bijlage B compensatietabel (cijfers) niet ingezien; de lijst bepaalt D niet, want het breedste regime telt. Of de kavelgrens van 300 m2 ook buiten de bebouwde kom geldt, is niet uitdrukkelijk bepaald (art. 2.2 lid 1 onder a geldt alleen binnen de kom; art. 1.7 geldt algemeen).",
+  "artikelnummers": [
+    "Bomenverordening art. 1.7",
+    "Bomenverordening art. 2.1 en 2.2",
+    "Bomenverordening art. 3",
+    "Bomenverordening art. 5",
+    "Bomenverordening art. 6",
+    "Bomenverordening art. 9",
+    "Bomenverordening art. 10",
+    "Bomenverordening art. 12",
+    "Bomenverordening art. 16",
+    "Bomenverordening bijlage A",
+    "Legesverordening 2026 art. 2.14",
+    "APV 2024 art. 4:10-4:12 (vervallen)",
+    "CVDR751782_1 bijlage 3",
+    "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D: de drempel is 30 cm diameter (omtrek 94 cm, door de bron zelf genoemd) = D3; de kavelgrens van 300 m2 ('een kavel dat groter is dan 300m2') is een ruime uitzondering voor kleine percelen: D3 min 1 = D2. Daarnaast zijn veel gangbare soorten tot 40 cm diameter vrijgesteld binnen de kom (bijlage A); dat is een tweede uitzondering, maar de correctie telt maar een keer.",
+    "W: citaat 'Een vergunning wordt geweigerd indien het belang van de aanvrager bij verlening, niet opweegt tegen één of meer van de volgende waarden van behoud van houtopstanden' (art. 6 lid 3) = belangenafweging, W2. Strengere regel voor lijstbomen (art. 6 lid 2) is alleen vermeld.",
+    "H: 'kan behoren het voorschrift' (art. 9 lid 1) = H1. Art. 10 maakt storting verplicht als herplant niet mogelijk is, maar alleen binnen een opgelegde herplant; daarom max 2 en geen H3.",
+    "S: eigen strafbepaling (art. 16) en WED via Ow (legesverordening noemt omgevingsplanactiviteit): S1. De APV 6:1 lid 3 noemt WED alleen voor APV-artikelen 2:11 en 2:12, niet voor de bomenverordening.",
+    "Boom A en B: 'nee'. Boom A (omtrek 80 cm, ca. 25 cm doorsnee) blijft onder de 30 cm diameter; een perceel van ca. 300 m2 is niet 'groter dan 300m2' (toelichting: 'inclusief bebouwing').",
+    "Herplant na illegale kap: art. 12 lid 1 ('kan ... de verplichting opleggen tot (financiële-) herplant'): 'kan'; bij bomen vanaf 60 cm diameter financiële compensatie vastgesteld door een boomtaxateur. Dit telt bij S (het is al S1 via WED).",
+    "De verordening is uit 2010 en verwijst nog naar de Wabo en Boswet; geen wijziging na de Omgevingswet. De legesverordening 2026 koppelt haar aan art. 22.8 Ow.",
+    "Nabewerking 16-11-2026: H1 (1-2) → H2 (max 3): herplant 'kan', art. 10 'dient een compenserende vergoeding te worden betaald' als herplant niet mogelijk is (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Kavelgrens in plaats van een uitzondering voor achtertuinen: percelen tot 300 m2 (inclusief bebouwing) zijn vrijgesteld. Het model telt dit als ruime uitzondering (-1); of dit evenwichtig is voor gemeenten met veel kleine kavels is open.",
+    "Een oude losse bomenverordening (2010) die door de legesverordening aan art. 22.8 Ow wordt gekoppeld: de koppeling blijkt alleen uit de leges, niet uit de verordening zelf."
+  ]
+}

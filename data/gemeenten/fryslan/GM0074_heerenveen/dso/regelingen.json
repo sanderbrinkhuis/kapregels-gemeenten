@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0074/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Heerenveen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0074/2020/omgevingsplan/nld@44",
+    "beginGeldigheid": "2024-08-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0074/2025/10_31",
+    "titel": "Voorbereidingsbesluit Heerenveen-Centrum",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm0074/2025/10_31/nld@51",
+    "beginGeldigheid": "2025-07-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2025_10_31?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0074/2025/10_32",
+    "titel": "Omgevingsplan Heerenveen",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm0074/2025/10_32/nld@1052",
+    "beginGeldigheid": "2025-07-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2025_10_32?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0074/2025/2_34",
+    "titel": "Financiële bijdrage bouw sociale huurwoningen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0074/2025/2_34/nld@1055",
+    "beginGeldigheid": "2025-08-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2025_2_34?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0074/2026/2_40",
+    "titel": "Huishoudelijk afval en grondstoffen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0074/2026/2_40/nld@1063",
+    "beginGeldigheid": "2026-02-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2026_2_40?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0074/2026/2_41",
+    "titel": "Omgevingsprogramma Gebiedsvisie A32",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0074/2026/2_41/nld@1064",
+    "beginGeldigheid": "2026-03-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2026_2_41?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0074/2026/2_44",
+    "titel": "Locatiestudie Akkrum",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0074/2026/2_44/nld@1070",
+    "beginGeldigheid": "2026-07-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0074_2026_2_44?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:55:19Z"
+  }
+]

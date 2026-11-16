@@ -1,0 +1,84 @@
+{
+ "gm_code": "GM1948",
+ "gemeente": "Meierijstad",
+ "provincie": "Noord-Brabant",
+ "volledig_gelezen": true,
+ "brondocument": "Bomenverordening Gemeente Meierijstad 2023 (art. 1, 2, 3, 4, 5, 7, 8, 13 en toelichting); Groene kaart (besluit college 20 juli 2021, CVDR661421_2); Bomenbeleid gemeente Meierijstad (beleidsplan 2020, CVDR640267_1); Verordening leges Meierijstad 2026 (tarief 2.9.1); Omgevingsplan gemeente Meierijstad art. 22.299; APV Meierijstad afdeling 3 (vervallen) en art. 6:4; VFL hoofdstuk 5 (vervallen)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR712523/1 ; https://lokaleregelgeving.overheid.nl/CVDR661421/2 ; https://lokaleregelgeving.overheid.nl/CVDR640267/1 ; https://lokaleregelgeving.overheid.nl/CVDR750704/2 ; https://lokaleregelgeving.overheid.nl/CVDR696524/8 ; https://lokaleregelgeving.overheid.nl/CVDR601381/14 ; https://lokaleregelgeving.overheid.nl/CVDR684361/2",
+ "datum_geldigheid": "CVDR712523_1 geldend van 2024-01-01 t/m heden (peildatum 2026-11-15)",
+ "laatste_wijziging": "2024-01-01 (inwerkingtreding; versie 1, daarna niet gewijzigd)",
+ "juridische_plaats": "Losse Bomenverordening 2023 (raad, 14 december 2023). Werkt als omgevingsplanactiviteit: de legesverordening 2026 (tarief 2.9.1) noemt het vellen van een houtopstand 'bedoeld in de Bomenverordening Meierijstad in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. APV afdeling 3 en VFL hoofdstuk 5 zijn vervallen.",
+ "praktijkcontrole": "239 bekendmakingen sinds 2025 met kapterm in de titel (17 aangemerkt als besluit, 0 geweigerd volgens titel). 10 besluiten ingezien: alle 10 zijn ingetrokken aanvragen (kenmerken o.a. gmb-2025-234003, gmb-2026-401521, gmb-2026-427024); geen grondslag vermeld. Het hoge aantal vergunningaanvragen (o.a. voor losse bomen en een aantal van vijf bomen) wijst mogelijk op een breder regime of op bouwprojecten en buitengebied; dat is niet vast te stellen.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van beschermde houtopstanden, dat zijn alleen houtopstanden die op de Groene kaart staan (art. 1 onder b, art. 3 lid 1). Bomen die niet op de kaart staan zijn vrij. Melding alleen voor vervanging van populierenlanen (art. 5).",
+ "drempel": "Geen drempel voor houtopstanden op de Groene kaart. 'Boom' = 'een stamomtrek van minimaal 30 cm gemeten op 1,30 m hoogte' (art. 1 onder g). Laanbeplantingen en solitaire bomen met een 'stamomtrek minder dan 75 cm' zijn vrijgesteld (art. 3 lid 3 onder g).",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m boven maaiveld",
+ "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, maar alleen houtopstanden die staan vermeld op de Groene kaart: art. 3 lid 1 'Het is verboden Beschermde houtopstanden zoals aangeduid op de Groene Kaart te vellen of te doen vellen.' Art. 2 lid 2: de kaart 'bevat een samenhangend geheel van te beschermen hoofdgroenstructuren, wijkgroenstructuren, landschapselementen, bomenlanen, bomenrijen, erfbeplantingen, solitaire houtopstanden, landschapselementen, monumentale en waardevolle houtopstanden'. Gemeentelijke en particuliere bomen (Bomenbeleid: 'Dit zijn zowel gemeentelijke als particuliere bomen'). Buiten de bebouwde kom vallen houtopstanden die provincie/Rijk beschermen er buiten (art. 3 lid 3 onder b). De Groene kaart zelf is niet ingezien.",
+ "uitzonderingen": "Art. 3 lid 3: Plantenziektenwet of aanschrijving (a); houtopstanden buiten de kom onder Wnb/Bal en provinciale verordening (b); scheren, knotten, kandelaberen (c); begeleidings- en onderhoudssnoei (d); dunning (e); biomassaplantages van populier, wilg, es of els (f); 'laanbeplantingen of solitaire bomen en een stamomtrek minder dan 75 cm gemeten op 1,30 m hoogte boven het maaiveld, met uitzondering van bomen die zijn geplant op grond van herplantverplichtingen' (g); vervanging populierenlanen buiten de kom (h); vellen waarvoor al een omgevingsvergunning nodig is (i); houtopstand aangeplant volgens 'nieuw groen is vrij groen' van de oorspronkelijke gemeenten Sint-Oedenrode en Veghel (j). Geen tuin-, perceel- of soortuitzondering voor kaartbomen (gangbare uitzonderingen, geen correctie).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de Groene kaart (CVDR661421_2) is een kaartbijlage zonder tekst; gemeentelijke website niet te vinden (alle geprobeerde pagina's gaven 404). Geen aantal in beleidsnota of besluit: Bomenbeleid zegt 'Het is nog niet bekend hoeveel monumentale houtopstanden van particulieren er op de Groene kaart komen.' De 117.452 bomen in het beheersysteem zijn gemeentebomen en tellen niet als lijstbomen.",
+ "weigeringsgronden": "Art. 4 (aanhef): 'Een omgevingsvergunning voor het vellen van een Beschermde houtopstand kan, mits alternatieven voor behoud naar het oordeel van het bevoegd gezag niet haalbaar blijken, slechts bij uitzondering door het bevoegd gezag worden verleend als:' Monumentaal: zwaarwegend algemeen maatschappelijk belang, letsel of ernstige schade, vordering uit art. 5:42 BW, of noodzakelijke behoudsmaatregelen (gesloten gronden). Waardevol: 'de belangen van verlening zwaarder wegen dan de belangen van behoud' op basis van natuur-, milieu-, landschaps-, cultuurhistorische, stads- en dorpsschoon- en recreatie-/leefbaarheidswaarden, of levensduur korter dan 5 jaar, of letsel of ernstige schade. Bomenbeleid: monumentale houtopstanden 'nee-tenzij'.",
+ "herplantplicht": "Art. 7 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Bomenbeleid (beleidsplan): 'Er wordt herplant opgelegd als de locatie voldoende ruimte biedt om de herplant uit te laten groeien tot een volwassen exemplaar.' Na kap zonder vergunning (art. 8 lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid van het bevoegd gezag per geval); in het beleid een voorwaarde: 'als de locatie voldoende ruimte biedt'. Geen betaling in plaats van herplant geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 7 lid 4: 'Degene aan wie de verplichting als bedoeld in het eerste tot het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Toelichting art. 8: 'Artikel 5:18 Wabo biedt de mogelijkheid ... onder oplegging van last onder bestuursdwang of dwangsom bij het besluit tot herplantverplichting'. Geen eigen strafbepaling of bestuurlijke boete.",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "sancties": "Geen eigen strafbepaling en geen bestuurlijke boete in de Bomenverordening. WED via de Omgevingswet: het vellen is een omgevingsplanactiviteit (legesverordening tarief 2.9.1 'in samenhang met artikel 22.8 van de Omgevingswet'), dus WED via Ow 5.1. Herplantplicht na illegale kap: art. 8 lid 1 ('kan'). Bomenbeleid: bij illegale kap 'wordt als sanctie een zwaardere herplant opgelegd' (handelsmaat 60 cm). Toelichting art. 8: bestuursdwang of dwangsom.",
+ "procedure": "Leges 2026 tarief 2.9.1: € 90,70 resp. € 97,20 (twee tariefkolommen). Aanvraag schriftelijk en gemotiveerd, college kan bomeneffectanalyse of compensatieplan vragen (art. 6). Beslistermijn en bezwaar in de verordening niet apart geregeld (Awb); de APV kent 8 weken (art. 1:2) maar die afdeling is vervallen.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "onzeker",
+ "ontbrekend": "Groene kaart niet ingezien (kaartbijlage zonder tekst; website niet gevonden): onbekend hoeveel particuliere bomen en hoeveel structuren/gebieden erop staan. Geen aantal lijstbomen in een nota of besluit. Besluit Groene kaart bevat de kaart alleen als afbeelding.",
+ "artikelnummers": [
+  "Bomenverordening 2023 art. 1 onder b, g, l, m; art. 2; art. 3 lid 1 en lid 3; art. 4; art. 5; art. 6; art. 7; art. 8; art. 13",
+  "Groene kaart (CVDR661421_2) besluit 20 juli 2021",
+  "Bomenbeleid 2020 (CVDR640267_1) par. Boombescherming",
+  "Legesverordening 2026 tarief 2.9.1",
+  "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)",
+  "APV art. 6:4 en afdeling 3 [vervallen]; VFL hoofdstuk 5 [vervallen]"
+ ],
+ "opmerkingen": [
+  "Welke tekst geldt: de Bomenverordening Meierijstad 2023 (CVDR712523_1) is de enige kapregel. Zij trekt in art. 13 lid 1 de Bomenverordening Meierijstad 2018 in. APV afdeling 3 'HET BEWAREN VAN HOUTOPSTANDEN' staat als '[vervallen]' en VFL hoofdstuk 5 is '[vervallen]'.",
+  "Fusiegemeente: de oude regelingen van Schijndel, Sint-Oedenrode en Veghel gelden niet meer voor kap, behalve het restant in APV art. 6:4 lid 2 en 3: de oude APV's van Sint-Oedenrode (art. 4:10 en 4:11j) en Veghel (art. 4:10 tot en met 4:11) 'het bewaren van houtopstanden' zijn uitgezonderd van intrekking. Die oude APV's zijn niet als geldende regeling in CVDR gevonden en de Bomenverordening 2018 en 2023 regelen het onderwerp opnieuw; dit restant is waarschijnlijk achterhaald maar niet formeel vastgesteld. Open punt.",
+  "Fusiespoor in de verordening: art. 3 lid 3 onder j vrijstelling voor 'houtopstand aangeplant volgens de regeling van de oorspronkelijke gemeenten Sint-Oedenrode en Veghel ‘nieuw groen is vrij groen’ Groenconvenant buitengebied.'",
+  "W3: 'slechts bij uitzondering' (art. 4) met gesloten gronden voor monumentale houtopstanden; voor waardevolle houtopstanden is er daarnaast een belangenafweging (art. 4 lid 2 onder a), maar de aanhef 'slechts bij uitzondering' geldt voor beide. Bomenbeleid: monumentale houtopstanden 'nee-tenzij', waardevolle 'Middelhoge bescherming -Zwaarwegend belang'.",
+  "H1, max 2: de verordening zegt 'kan'. Het Bomenbeleid (beleidsplan, geldend in CVDR) zegt 'Bij het verlenen van een omgevingsvergunning voor kappen kan een herplant of compensatie opgelegd worden.' en 'Er wordt herplant opgelegd als de locatie voldoende ruimte biedt'; dat is herplant met een voorwaarde (H1, max 2). Voor bomen in hoofd- en wijkstructuren zegt het beleid 'Bomen binnen belangrijke structuren moeten altijd gecompenseerd worden' (1,5 boom per gekapte boom); die structuren zijn vooral gemeentelijk en het aandeel particuliere structuurbomen is onbekend. Geen financiële compensatie of herplantfonds. Herplant door bouwplannen of na illegale kap telt niet voor H.",
+  "S1: WED via de Omgevingswet (legesverordening noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow). Geen bestuurlijke boete in de regeling; geen handhavingsbeleid met boetes gevonden. Toelichting art. 8 noemt bestuursdwang of dwangsom bij herplant (algemeen instrumentarium).",
+  "D1 (bereik 0-2): lijstsysteem met niet-ingezien Groene kaart. Art. 2 lid 2 noemt ook structuren en gebieden (hoofd- en wijkgroenstructuren, bomenlanen, erfbeplantingen), wat D2 kan opleveren als die substantieel en particulier zijn. Het Bomenbeleid zegt: 'Alleen de particuliere bomen die waardevol zijn voor het karakter van Meierijstad, zeldzaam zijn, beeldbepalend zijn of bomen met grote milieu- en/of natuurwaarde vallen onder het kapverbod' en 'Overige particuliere bomen ... staan namelijk niet op de Groene kaart'. Puntschatting daarom D1 volgens de regel voor niet-ingezien lijstsystemen.",
+  "Boom A en B: 'alleen als op lijst'. Solitaire bomen en laanbeplantingen met stamomtrek minder dan 75 cm zijn vrijgesteld (art. 3 lid 3 onder g), dus boom B (40 cm) is vrijwel zeker vrij; boom A (80 cm) is alleen vergunningplichtig als hij op de Groene kaart staat. Geen tuinuitzondering voor kaartbomen.",
+  "Peildatum: Omgevingsplan versie CVDR696524_8 (in werking 2026-11-11) bevat geen kapverbod. Legesverordening 2026 versie CVDR750704_2 (2026-03-10).",
+  "Verwijzing in de verordening: art. 3 lid 3 onder b verwijst naar het 'Wet natuurbescherming of, na de inwerkingtreding van het Omgevingswet, het besluit activiteiten leefomgeving' (verouderde formulering); de definitie van bebouwde kom in art. 1 onder a verwijst naar de bebouwingscontour houtkap.",
+  "Open punten: (1) de Groene kaart zelf (kaartbeeld, aantal particuliere bomen); (2) restant oude APV's Sint-Oedenrode en Veghel (art. 6:4 APV); (3) de Bomenverordening bevat geen eigen WED-aanwijzing of strafbepaling; (4) het 'afwegingskader' en 'waarderingsmodel overlast en boomwaarde' uit het Bomenbeleid zijn niet als vastgesteld stuk gevonden."
+ ],
+ "modelsignalen": [
+  "Groene kaart met zowel losse monumentale/waardevolle bomen als structuren en gebieden (hoofd- en wijkgroenstructuren, erfbeplantingen, bomenlanen): valt tussen D1 en D2; zonder de kaart is niet vast te stellen of het gebied substantieel is en of het particulier is. Vergelijkbaar met Maasgouw, waar de eerdere score D2 (bereik 0-2) was gekozen; hier is volgens de regel voor niet-ingezien lijsten D1 (bereik 0-2) gekozen. Een eenduidige regel voor 'kaart met structuren, niet ingezien' ontbreekt.",
+  "Verordening met drempel in de definitie van 'boom' (30 cm) en uitzondering voor solitaire bomen onder 75 cm: het model kent geen onderscheid tussen een drempel voor lijstbomen en een vrijstelling voor kleine kaartbomen.",
+  "Fusiegemeente met een intrekkingsbepaling die oude APV-artikelen over houtopstanden laat voortbestaan (APV art. 6:4) terwijl een nieuwere verordening hetzelfde regelt: het model heeft geen regel voor een restant van een formeel niet ingetrokken oude regeling die niet in CVDR staat."
+ ]
+}

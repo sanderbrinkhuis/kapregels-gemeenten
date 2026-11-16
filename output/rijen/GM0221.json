@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0221",
+  "gemeente": "Doesburg",
+  "provincie": "Gelderland",
+  "brondocument": "Bomenverordening 2010 gemeente Doesburg (art. 1, 2, 4, 5, 8, 9, 14; CVDR41376_1); Verordening op de heffing en de invordering van leges Doesburg 2026 art. 2.30 (CVDR752605_1); APV Doesburg 2020 afd. 4.3 (vervallen) en art. 6:1 (CVDR645707_3); Omgevingsplan art. 22.299 (CVDR696222_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR41376/1 ; https://lokaleregelgeving.overheid.nl/CVDR752605/1 ; https://lokaleregelgeving.overheid.nl/CVDR645707/3 ; https://lokaleregelgeving.overheid.nl/CVDR696222/3",
+  "datum_geldigheid": "Bomenverordening CVDR41376_1 geldend vanaf 2010-10-01 t/m heden (peildatum scoren 2026-11-15); leges CVDR752605_1 vanaf 2025-12-24; APV CVDR645707_3 vanaf 2024-01-01; Omgevingsplan CVDR696222_3 vanaf 2026-07-01",
+  "laatste_wijziging": "Bomenverordening: geen wijzigingsversie; enige versie, in CVDR laatst bewerkt 2018-03-13. APV: versie 3 per 2024-01-01 (afdeling 4.3 vervallen).",
+  "juridische_plaats": "Losse Bomenverordening 2010, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in een bepaling van de Bomenverordening 2010 gemeente Doesburg in samenhang met artikel 22.8 van de Omgevingswet'. APV afd. 4.3 is vervallen; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 4 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 3 besluiten en 0 geweigerd volgens titel. De 3 besluiten gaan over het kappen van een kastanje, een kersenboom en 34 bomen in een bosperceel; geen grondslag genoemd. Kappen van losse tuinbomen (ook een kersenboom) onder een vergunning past bij een breed regime voor de hele gemeente. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 189 bekendmakingen sinds 1-1-2025, waarvan 90 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning. Art. 2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.'",
+  "drempel": "Art. 1 sub a: boom is 'Een houtachtig, opgaand gewas, zowel vitaal als afgestorven, met een stamomtrek van minimaal 45 centimeter op 1,3 meter hoogte boven het maaiveld.' Kleiner mag bij bijzonder waardevolle houtopstand, bomenstructuur in het groenstructuurplan en houtopstand uit een herplant- of instandhoudingsplicht. Vergunning dus vanaf omtrek 45 cm.",
+  "omtrek_cm": 45,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar (geen onderscheid; art. 2 lid 4 spreekt van 'houtopstanden binnen en buiten de bebouwde kom'). Aanvullend een lijst met bijzondere waardevolle houtopstand (art. 5) met een strenger regime; die lijst is niet ingezien.",
+  "uitzonderingen": "Art. 2 lid 2: houtopstand die 'aantoonbaar op bedrijfseconomische wijze worden geëxploiteerd als bedoeld in artikel 15 van de Boswet'. Lid 3: Plantenziektewet of aanschrijving, periodiek vellen van hakhout, periodiek knotten of kandelaberen (regulier onderhoud). Lid 4: 'Het in lid 1 gestelde verbod geldt niet voor houtopstanden binnen en buiten de bebouwde kom, voor zover het berken, naaldbomen en coniferen betreft; de bepaling vindt pas toepassing nadat de lijst Bijzonder Waardevolle Houtopstanden door het bevoegd gezag is vastgesteld.' Art. 4 lid 8: direct vellen bij acuut gevaar. Geen tuin-, erf- of perceeluitzondering en geen aantalsuitzondering.",
+  "weigeringsgronden": "Art. 4 lid 1: 'Het bevoegd gezag kan de vergunning om te vellen weigeren dan wel onder voorschriften verlenen.' Lid 2: 'Een vergunning wordt geweigerd indien het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van houtopstand:' natuur- en milieuwaarden, landschappelijke waarden, cultuurhistorische waarden, waarden van stadsschoon, beeldbepalende waarden en waarden voor recreatie en leefbaarheid. Lid 3 en art. 5 lid 1: voor lijstbomen 'In beginsel wordt geen vergunning verleend' (strenger, alleen lijstbomen). Lid 7 verwijst naar 'de hieraan ten grondslag liggende beleidsregels' (niet gevonden).",
+  "herplantplicht": "Art. 8 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een vergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden.' Beide zijn een bevoegdheid.",
+  "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren'); het bevoegd gezag beslist per vergunning. Betalen is alleen een mogelijk voorschrift als niet ter plaatse kan worden herplant ('kan ... behoren'). Na illegale kap: art. 9 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen 'tenzij'-uitweg.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 8 lid 7: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 14 lid 2: 'Hij die handelt in strijd met artikel 2, eerste lid, danwel een voorschrift onderscheidenlijk een verplichting als bedoeld in het vorige lid niet na komt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.' Art. 14 lid 1 noemt art. 8 eerste en tweede lid en art. 9 eerste lid (letterlijk opgesomd), dus niet nakomen van een herplantvoorschrift is strafbaar.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling in de regeling: Bomenverordening art. 14 lid 2: 'Hij die handelt in strijd met artikel 2, eerste lid, danwel een voorschrift onderscheidenlijk een verplichting als bedoeld in het vorige lid niet na komt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie. Tevens kan een rechterlijke beoordeling op grond van dit artikel openbaar gemaakt worden. Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde.' Geen WED-aanwijzing gevonden; wel route via Ow 5.1 (legesverordening 2.30 noemt het vellen een omgevingsplanactiviteit). Geen bestuurlijke boete. Herplant na illegale kap: art. 9 lid 1 (kan).",
+  "procedure": "Aanvraag schriftelijk en gemotiveerd met situatieschets (art. 3). Leges 2026 art. 2.30: € 37,75 (tweede kolom € 38,70). Vergunning vervalt na een jaar zonder gebruik (art. 7). Schadevergoeding bij weigering: art. 10. Beslistermijn en bezwaar niet apart gelezen (APV afd. 4.3 is vervallen).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 4,
+    "min": 3,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "",
+  "status": "ok",
+  "ontbrekend": "Lijst Bijzonder Waardevolle Houtopstanden (art. 5) niet gevonden of ingezien; niet nodig voor D omdat het brede regime bepaalt, maar onbekend of de lijst al is vastgesteld, en dat bepaalt of de uitzondering voor berken, naaldbomen en coniferen (art. 2 lid 4) geldt (daarom D-minimum 3). Beleidsregels waar art. 4 lid 7 naar verwijst en het groenstructuurplan (art. 1 sub a) niet gevonden in CVDR. Omgevingsplan in het DSO niet ingezien (sleutel nog niet beschikbaar). Gemeentelijke website niet geraadpleegd. Beslistermijn en bezwaar niet apart gelezen.",
+  "artikelnummers": [
+    "Bomenverordening 2010 art. 1",
+    "art. 2",
+    "art. 3",
+    "art. 4",
+    "art. 5",
+    "art. 8",
+    "art. 9",
+    "art. 14",
+    "Leges 2026 art. 2.30",
+    "APV 4:10-4:12 (vervallen)",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "Doorslaggevende formulering W: 'Een vergunning wordt geweigerd indien het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van houtopstand' (art. 4 lid 2). W = 2 zonder bereik. De beleidsregels uit lid 7 zijn niet gevonden en niet gescoord.",
+    "Doorslaggevende formulering H: 'kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant' (art. 8 lid 1). H = 1.",
+    "D = 4: omtrek vanaf 45 cm, hele gemeente, geen tuinuitzondering. Boom A (80 cm) ja, boom B (40 cm) nee, want onder de 45 cm.",
+    "Art. 2 lid 4 sluit berken, naaldbomen en coniferen uit van het verbod, maar 'de bepaling vindt pas toepassing nadat de lijst Bijzonder Waardevolle Houtopstanden door het bevoegd gezag is vastgesteld'. Is dat zo, dan is dat een ruime uitzondering (alle naaldbomen of coniferen) en wordt D = 3 (omtrek 45 cm met correctie -1); of de lijst is vastgesteld is niet vastgesteld. Puntschatting D = 4, minimum 3. Dit geeft een bereik over de categoriegrens (50 tot 67).",
+    "APV Doesburg 2020 afd. 4.3 'Het bewaren van houtopstanden (vervallen)': art. 4:10, 4:11 en 4:12 'Vervallen.' De Bomenverordening 2010 staat als enige kapregeling geldend in CVDR (geen intrekking gevonden). De gemeente wijst haar zelf aan via legesverordening 2026 art. 2.30.",
+    "Tikfouten in de bron zijn behouden: art. 8 lid 3 verwijst naar 'dit artikel 9' en art. 9 lid 2 naar 'dit artikel 10'; art. 9 sub lid 4 is afgekapt; art. 14 lid 1 verwijst naar artikelen die niet bestaan (bijvoorbeeld art. 9 achtste lid, art. 10 derde lid, art. 14). De strafbepaling noemt wel letterlijk art. 2 eerste lid en art. 8 eerste en tweede lid.",
+    "Art. 4 lid 2 kent het woord 'beeldbepalende waarden' (zonder puntkomma in de bron). Art. 5 lid 3: de lijst bevat per boom ook eigenaar en kadastraal perceelnummer; niet overgenomen.",
+    "Art. 2 lid 4 noemt 'binnen en buiten de bebouwde kom': geen onderscheid per gebied, dus geen D per deel."
+  ],
+  "modelsignalen": [
+    "Doesburg: een uitzondering die pas gaat gelden 'nadat de lijst ... is vastgesteld' is een voorwaardelijke uitzondering waarvan de ingangsdatum niet uit de bron blijkt; het model zegt niet hoe je D scoort als niet vast te stellen is of een ruime uitzondering (-1) al geldt. Hier gescoord als puntschatting zonder uitzondering, met minimum met uitzondering.",
+    "Doesburg: een regeling uit 2010 met verouderde verwijzingen (Wabo, Flora- en faunawet, Boswet) is nog de geldende kapregeling; de legesverordening wijst haar aan als omgevingsplanactiviteit."
+  ]
+}

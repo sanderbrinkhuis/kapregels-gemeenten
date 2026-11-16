@@ -1,0 +1,66 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1931/2024/2_10",
+    "titel": "Programma Zon op Veld",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1931/2024/2_10/nld@11",
+    "beginGeldigheid": "2024-12-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2024_2_10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Krimpenerwaard",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1931/2025/omgevingsvisie/nld@6",
+    "beginGeldigheid": "2025-04-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2025/2_12",
+    "titel": "Omgevingsprogramma Landbouw",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1931/2025/2_12/nld@20",
+    "beginGeldigheid": "2025-10-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2025_2_12?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2025/10_14",
+    "titel": "Voorbereidingsbesluit detailhandel november 2025",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm1931/2025/10_14/nld@25",
+    "beginGeldigheid": "2025-12-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2025_10_14?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Krimpenerwaard",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1931/2020/omgevingsplan/nld@2026-01-08;09504016",
+    "beginGeldigheid": "2026-01-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2026/Regeling31ee121712024fbdabe766baf3d6706b",
+    "titel": "Omgevingsprogramma Grondstoffen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1931/2026/Regeling31ee121712024fbdabe766baf3d6706b/nld@2026-03-05;08250673",
+    "beginGeldigheid": "2026-01-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2026_Regeling31ee121712024fbdabe766baf3d6706b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2026/Regelingf5d318b1756b432da17f8856a331dba3",
+    "titel": "Omgevingsprogramma Mobiliteit",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1931/2026/Regelingf5d318b1756b432da17f8856a331dba3/nld@2026-07-24;09443854",
+    "beginGeldigheid": "2026-06-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2026_Regelingf5d318b1756b432da17f8856a331dba3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1931/2026/Regeling443b25896d544200ae049d82eaa04799",
+    "titel": "Omgevingsprogramma Woningbouw",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1931/2026/Regeling443b25896d544200ae049d82eaa04799/nld@2026-10-19;12474452",
+    "beginGeldigheid": "2026-10-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1931_2026_Regeling443b25896d544200ae049d82eaa04799?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:46Z"
+  }
+]

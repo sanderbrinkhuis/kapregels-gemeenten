@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0823/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Oirschot",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0823/2020/omgevingsplan/nld@2025-12-18;13402939",
+    "beginGeldigheid": "2025-12-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0823_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0823/2026/Regeling8eaab8d266904dd588ab2e94890887fd",
+    "titel": "Omgevingsvisie gemeente Oirschot",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0823/2026/Regeling8eaab8d266904dd588ab2e94890887fd/nld@2026-07-08;10280934",
+    "beginGeldigheid": "2026-08-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0823_2026_Regeling8eaab8d266904dd588ab2e94890887fd?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:58Z"
+  }
+]

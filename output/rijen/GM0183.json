@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0183",
+  "gemeente": "Tubbergen",
+  "provincie": "Overijssel",
+  "brondocument": "Kapverordening Tubbergen 2021, art. 1 t/m 7 (CVDR661316_1); Beleidsregels uitvoering Kapverordening 2021, art. 2, 4, 6 (CVDR672648_1); Verordening op de heffing en de invordering van leges 2026, art. 2.22 (CVDR752464_2); Handhaving- en gedoogstrategie fysieke leefomgeving Overijssel met leidraad 'Handhavingsacties en begunstigingstermijnen' (CVDR97862_3); Omgevingsplan gemeente Tubbergen, art. 22.299 (CVDR696208_2, alleen aanvraagvereisten)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR661316/1 ; https://lokaleregelgeving.overheid.nl/CVDR672648/1 ; https://lokaleregelgeving.overheid.nl/CVDR752464/2 ; https://lokaleregelgeving.overheid.nl/CVDR97862/3 ; https://lokaleregelgeving.overheid.nl/CVDR696208/2",
+  "datum_geldigheid": "Kapverordening CVDR661316_1: geldend van 2021-08-10 t/m heden; beleidsregels CVDR672648_1: geldend vanaf 2022-02-11 t/m heden; leges CVDR752464_2 vanaf 2026-03-01; omgevingsplan CVDR696208_2 vanaf 2024-07-03. Peildatum scoren 2026-11-14.",
+  "laatste_wijziging": "Kapverordening 2021: nooit gewijzigd (alleen versie 1 in CVDR); beleidsregels: nooit gewijzigd (versie 1); legesverordening 2026 (versie 2, 2026-03-01).",
+  "juridische_plaats": "Losse Kapverordening 2021 (eigen verordening); werkt als omgevingsplanactiviteit volgens de legesverordening art. 2.22 ('in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; de vergunningplicht zelf staat in de Kapverordening.",
+  "praktijkcontrole": "Sinds 2025: 171 bekendmakingen over kap (66 besluiten, 105 aanvragen); geen weigering volgens de titel. Besluiten gaan om verleende vergunningen voor enkele bomen (eik, beuk, berk) in kernen en buitengebied; geen grondslag in de besluiten (o.a. gmb-2026-396345, gmb-2026-467560).",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen van een boom of boomvormer)",
+  "drempel": "Art. 2 lid 1 en art. 3 lid 1: 'stamomtrek groter dan 100 cm' (art. 3 lid 1 Tubbergen: '100cm'), gemeten op 1.30 m vanaf het maaiveld",
+  "omtrek_cm": 100,
+  "meethoogte": "1,30 m vanaf het maaiveld (omtrek in de bron, niet omgerekend)",
+  "reikwijdte": "Hele grondgebied: art. 2 binnen de bebouwde kom (bomen en boomvormers) en art. 3 buiten de bebouwde kom (bomen en boomvormers, plus alle landschapselementen zonder drempel); particulier en openbaar. Geen uitzondering voor tuinen of erven. 'Bebouwde kom' (art. 1 lid 1 onder b): 'zoals vastgesteld ingevolge artikel 4.1, onderdeel a. van de Wet Natuurbescherming'. Daarnaast art. 2 lid 2 en art. 3 lid 3: houtopstanden die 'in het kader van een herplantplicht of inpassingsverplichting geplant' zijn, ongeacht omvang.",
+  "uitzonderingen": "Art. 4: verbod geldt niet voor periodiek afzetten van hakhout, dunning, kweekgoed en houtopstanden uit Wnb art. 4.1 onder c 'fruitbomen en windschermen om boomgaarden', onder d kerstbomen, onder f populieren of wilgen als wegbeplanting, langs waterwegen of eenrijig langs landbouwgrond, onder h biomassabeplanting; aanschrijving; noodkap; gevallen waarin een bestemmingsplan of omgevingsplan zelf een vergunning eist; landschappelijk inpassingsplan; Natura 2000/NNN. Ruime uitzondering voor D: 'fruitbomen' (alle fruitbomen, dus ook in tuinen; -1). Populieren en wilgen zijn alleen uitgezonderd als wegbeplanting, langs waterwegen of eenrijig langs landbouwgrond (geen uitzondering ongeacht locatie). Beleidsregels art. 2 lid 1 onder c: voor 'bomen en/of boomvormers op een woonperceel kleiner dan 500m 2' wordt 'in beginsel een omgevingsvergunning wordt verleend'; dat is geen vrijstelling (de vergunningplicht blijft) en telt dus niet als tuinuitzondering.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem: breed regime voor de hele gemeente. Wel een inventaris van monumentale en waardevolle bomen in het Besluit regels kwaliteit openbaar groen (CVDR647034_1 par. 3.7, ijkdatum 1 juli 2018: 175 monumentale en 146 waardevolle bomen, ook op particuliere grond); geen regeling met vergunningplicht, telt niet voor D.",
+  "weigeringsgronden": "Art. 2 lid 3 en art. 3 lid 4: vergunning 'kan worden geweigerd, of onder voorschriften of beperkingen worden verleend, als het belang bij het vellen van een boom of boomvormer niet opweegt tegen het belang van behoud van:' natuur- en milieuwaarden, landschappelijke waarden, ecologische waarden, cultuurhistorische waarden, waarden van stads- en dorpsschoon, waarden voor recreatie en leefbaarheid. Beleidsregels art. 2 lid 2: 'In beginsel wordt een vergunning geweigerd als de motivatie voor het vellen alleen overlast betreft.' Beleidsregels art. 2 lid 1: 'In beginsel wordt vergunning verleend' voor dode bomen, sportterreinen, woonperceel kleiner dan 500 m2, gevaar en zieke bomen.",
+  "herplantplicht": "Verordening art. 5 lid 1: 'Aan een omgevingsvergunning zoals bedoelt in artikel 2 en 3 kan de verplichting worden verbonden om elders in de gemeente in compenserende beplanting te voorzien.' Beleidsregels art. 4 lid 1 (binnen de kom, behalve woonperceel kleiner dan 500 m2): 'wordt, ... in beginsel een voorschrift verbonden waarin een compensatieverplichting wordt opgelegd' (ten minste één boom per gevelde boom, maat 10-12 cm). Art. 4 lid 2 (buiten de kom): 'wordt een voorschrift verbonden waarin een compensatieverplichting wordt opgelegd' (drie bomen per gevelde boom of een landschapselement). Geen financiële compensatie of boomwaarde.",
+  "herplant_ontsnapping": "Binnen de kom: 'in beginsel' (beleidsregels art. 4 lid 1) en geen voorschrift voor een woonperceel kleiner dan 500 m2. Buiten de kom geen uitweg. Geen betaling als alternatief. In de verordening zelf alleen een bevoegdheid ('kan', art. 5 lid 1); het college beslist per vergunning.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Alleen een dwangsom uit beleid; geen strafbepaling of WED-aanwijzing in de Kapverordening die het herplantvoorschrift dekt. Verordening art. 7 lid 3: 'Degene aan wie een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Handhaving- en gedoogstrategie fysieke leefomgeving Overijssel (CVDR97862_3), rij 'Niet naleven herplantplicht': '| Niet naleven herplantplicht | Matig | Dwangsom | € 20.000 | Max. 6 mnd |'. De WED-route via de Omgevingswet (omgevingsplanactiviteit) telt hier niet. Geen bestuurlijke boete in de regeling.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "Geen eigen strafbepaling of WED-aanwijzing in de Kapverordening (art. 8 is een slot- en overgangsbepaling). De regel werkt als omgevingsplanregel: leges art. 2.22 'het vellen van een houtopstand, bedoeld in artikel 3 van de Kapverordening Tubbergen 2021 in samenhang met artikel 22.8 van de Omgevingswet en artikel 2.1a van het Omgevingsbesluit'. Route: WED via Ow 5.1 (S = 1, stap 1a). Geen bestuurlijke boete in de regeling. Herplant na illegale kap: art. 7 lid 2 'kunnen burgemeester en wethouders ... de verplichting opleggen te herplanten'. Dwangsom bij niet naleven herplantplicht in de leidraad (€ 20.000).",
+  "procedure": "Omgevingsvergunning; leges 2026 art. 2.22: € 105,00 voor het vellen van een houtopstand. Bekendmaking via kennisgevingen op officielebekendmakingen.nl. Bezwaar, beroep en beslistermijn niet apart gelezen (Awb/Omgevingswet).",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "status": "ok",
+  "ontbrekend": "Bezwaar, beroep en beslistermijn niet apart gelezen. Omgevingsplan in het DSO niet geraadpleegd (CVDR-versie van het omgevingsplan wel gelezen: alleen aanvraagvereisten art. 22.299). Geen kaart of bomenlijst nodig: geen lijstsysteem.",
+  "artikelnummers": [
+    "Kapverordening Tubbergen 2021 art. 1, 2, 3, 4, 5, 6, 7",
+    "Beleidsregels uitvoering Kapverordening 2021 art. 2, 4, 6",
+    "Legesverordening 2026 art. 2.22",
+    "Omgevingsplan art. 22.299",
+    "Handhaving- en gedoogstrategie fysieke leefomgeving Overijssel met leidraad 'Handhavingsacties en begunstigingstermijnen'"
+  ],
+  "opmerkingen": [
+    "D: hele gemeente (binnen en buiten de kom) met drempel 'groter dan' 100 cm omtrek = hoge drempel = D2. Correctie -1 omdat art. 4 onder 3 c alle 'fruitbomen' uitzondert (ook in tuinen): D1. Maximum 2 omdat 'fruitbomen en windschermen om boomgaarden' ook kan worden gelezen als alleen fruitbomen in boomgaarden.",
+    "W2: 'kan worden geweigerd, of onder voorschriften of beperkingen worden verleend, als het belang bij het vellen van een boom of boomvormer niet opweegt tegen het belang van behoud van: natuur- en milieuwaarden' (art. 2 lid 3). Beleid maakt dit niet strenger (alleen 'in beginsel' weigeren bij louter overlast). Op een woonperceel kleiner dan 500 m2 geldt 'in beginsel wordt vergunning verleend' (lichter); het regime voor het grootste deel van de gedekte bomen (grotere percelen, buitengebied) is W2.",
+    "H2: verordening zegt 'kan' (art. 5 lid 1), maar de beleidsregels maken herplant standaard: 'wordt ... in beginsel een voorschrift verbonden waarin een compensatieverplichting wordt opgelegd' (binnen de kom) en 'wordt een voorschrift verbonden' (buiten de kom). Volgens het besluit over tegenstrijdige teksten telt de beleidsregel. Geen verplichte financiële compensatie, dus geen H3. Op een woonperceel kleiner dan 500 m2 binnen de kom geldt de herplantplicht niet.",
+    "S1: WED via Ow 5.1, bewezen door de legesverordening. De legesverordening noemt alleen 'artikel 3 van de Kapverordening' (buiten de kom) en niet art. 2; dat is een onvolledige verwijzing, S1 zonder bereik (besluit na Limburg).",
+    "Boom A (80 cm) en boom B (40 cm) liggen onder de drempel 'groter dan' 100 cm: geen vergunning nodig, ook los van de 500 m2-regel.",
+    "Niet-scorend: art. 3 lid 2 landschapselementen buiten de kom (zonder drempel; buitengebied, regime van art. 3); beleidsnota Kwaliteitsplan openbaar groen (inventaris monumentale en waardevolle bomen, geen vergunningplicht; relicten 'niet zomaar' kappen, alleen beleidsnota). Omgevingsplan art. 22.299: restant bruidsschat-aanvraagvereisten, de vergunningplicht staat in de Kapverordening.",
+    "Verschillen met Dinkelland (CVDR661307_1): Tubbergen art. 7 lid 1 noemt alleen 'het verbod tot vellen van toepassing is' (zonder 'of waarvoor vergunningplicht geldt') en art. 6 zegt 'binnen een bepaalde termijn' (Dinkelland: 'binnen een jaar'). Tubbergen heeft de handhavingsstrategie met leidraad als CVDR97862_3 (Dinkelland: leidraad CVDR328597_2); de dwangsom van € 20.000 voor niet naleven herplantplicht staat in beide. Het Tubbergense kwaliteitsplan bevat geen zin 'geen kapvergunning voor een monumentale boom'. Dezelfde scores als Dinkelland.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): de uitzondering 'fruitbomen en windschermen om boomgaarden' is een gangbare uitzondering voor boomgaarden en geeft geen −1 en geen bereik: D1 (1-2) → D2."
+  ],
+  "modelsignalen": [
+    "Uitzondering voor alle 'fruitbomen' (Wnb 4.1 onder c) geeft -1 op D bij een regime voor de hele gemeente met drempel 100 cm: D2 wordt D1 en scoort gelijk aan een kleine lijst. De correctie lijkt hier te zwaar, omdat de uitzondering weinig tuinbomen raakt en de 'ruime uitzondering' in het model niet is gekwantificeerd.",
+    "Beleidsregel 'in beginsel vergunning voor woonperceel kleiner dan 500 m2' en geen herplantvoorschrift daar: geen vrijstelling, dus geen D-correctie, maar de dagelijkse toetsing is voor kleine tuinen lichter (W1, H0). Het model scoort alleen het regime voor het grootste deel van de bomen.",
+    "Legesverordening verwijst alleen naar art. 3 van de Kapverordening (buiten de kom); S1 volgens de regel voor een onvolledige verwijzing."
+  ]
+}

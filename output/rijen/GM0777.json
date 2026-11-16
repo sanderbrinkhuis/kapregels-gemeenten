@@ -1,0 +1,75 @@
+{
+ "provincie": "Noord-Brabant",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "herplant_betalen_als_alternatief": "nee",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "status": "ok",
+ "gm_code": "GM0777",
+ "gemeente": "Etten-Leur",
+ "brondocument": "APV Etten-Leur 2021, afd. 4.3 art. 4:10 en 4:11 (CVDR657255_5), art. 6:1; Legesverordening 2026 art. 2.23 (CVDR748736_1); Omgevingsplan art. 22.299 (CVDR696401_6); Beschermde bomenlijst (PDF op gemeentelijke website)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR657255/5 ; https://lokaleregelgeving.overheid.nl/CVDR748736/1 ; https://openpdc-etten-leur-nl.prod.stuurlui.dev/wp-content/uploads/2023/07/Beschermde-bomenlijst-totaaloverzicht-2014.pdf (gelinkt vanaf https://www.etten-leur.nl/product/bomen-kappen/)",
+ "datum_geldigheid": "APV CVDR657255_5 geldend vanaf 2025-09-02 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 5 per 2025-09-02. Afdeling 4.3 is anders geredigeerd sinds de APV 2021 (toelichting: criteria naar de bomenlijst, Bomenfonds geschrapt). Legesverordening 2026 per 2025-12-05.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR748736_1) art. 2.23 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 24 bekendmakingen op titel, waarvan 9 besluiten (allemaal verleende vergunningen kappen, o.a. gmb-2025-307809 en gmb-2025-457609) en 0 weigeringen. De steekproef van 9 besluiten noemt geen grondslag. Bomen op gemeentegrond of lijstbomen zijn niet te onderscheiden.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de Bomenlijst staan (art. 4:11 lid 2).",
+ "drempel": "Geen drempel: alleen houtopstanden op de Bomenlijst (ongeacht omvang) en houtopstanden geplant uit herplantplicht.",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen en overige beschermenswaardige houtopstanden in de gemeente worden vermeld.' Hele gemeente, publiek en particulier, alleen lijstbomen. Ook verboden voor bomen die 'zijn geplant in het kader van de herplantplicht op basis van dit artikel of voorgaande regelingen'.",
+ "uitzonderingen": "Art. 4:11 lid 4: verbod niet van toepassing 'als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen.' Bomen die niet op de lijst staan zijn vrij. De APV-toelichting noemt dat dubbelingen met de Wet natuurbescherming uit de APV zijn gehaald.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid, karakteristiek in relatie tot de standplaats, bijzonderheid van leeftijd/verschijning, dendrologische waarde, adoptie- of herdenkingsboom.",
+ "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen financiele compensatie in de APV (het Bomenfonds is volgens de toelichting nooit van de grond gekomen). Geen vastgestelde beleidsregel in CVDR gevonden.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Geen verplichte storting.",
+ "herplant_type": "kan",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets kap-specifiek geregeld. APV art. 1:4 lid 2 ('is verplicht de daaraan verbonden voorschriften en beperkingen na te komen') is volgens lid 3 niet van toepassing op een omgevingsvergunning. Algemene strafbepaling art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Verder alleen algemeen bestuursrechtelijk instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED via de Omgevingswet (art. 5.1, omgevingsplanactiviteit; bewijs: legesverordening art. 2.23 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'). Geen WED-aanwijzing in de APV, geen bestuurlijke boete. Algemene strafbepaling APV art. 6:1 lid 1.",
+ "procedure": "Aanvraag omgevingsvergunning via het Omgevingsloket. Leges EUR 86,00 (art. 2.23 leges 2026). Beslistermijn: APV art. 1:2 is niet van toepassing op een omgevingsvergunning. Bezwaar en beroep niet apart gelezen.",
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 324,
+ "lijst_aantal_particulier": 99,
+ "lijst_telling": "ca. 324 regels (vermeldingen) op de Beschermde bomenlijst, waarvan ca. 99 met eigenaar 'particulier' en ca. 225 'gemeentelijk' (PDF 'Beschermde bomenlijst totaaloverzicht', op 2026-11-15 gelinkt vanaf de gemeentelijke pagina Bomen kappen; bestandsnaam noemt 2014). Eenheid: regel, niet boom; een regel kan meerdere bomen of een houtwal omvatten. De lijst staat niet in CVDR.",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "ontbrekend": "Het vaststellingsbesluit van de Bomenlijst (en de herplantcriteria die volgens de APV-toelichting 'in de bomenlijst staan uitgewerkt') zijn niet in CVDR of in het dossier gevonden; de PDF bevat alleen de tabel. Daarom H max 2. Geen aparte beleidsregel herplant gevonden. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 2021 art. 4:10, 4:11, 6:1, 1:2, 1:4, 1:8",
+  "Legesverordening 2026 art. 2.23 (CVDR748736_1)",
+  "Omgevingsplan art. 22.299 (CVDR696401_6)"
+ ],
+ "opmerkingen": [
+  "D1: lijstsysteem; de lijst is ingezien (ca. 324 regels, ca. 99 particulier) en bevat particuliere bomen, ook in tuinen en houtwallen. Beschermde particuliere bomen: ja, dus D1 zonder bereik naar 0.",
+  "W2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en andere waarden (art. 4:11 lid 3).",
+  "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:11 lid 5). H max 2 omdat de herplantcriteria uit de bomenlijst niet zijn gevonden.",
+  "S1: WED via Ow 5.1 (omgevingsplanactiviteit), zie legesverordening 2026 art. 2.23 'in samenhang met artikel 22.8 van de Omgevingswet'.",
+  "Oudere regeling: APV 2017 is ingetrokken door APV 2021 art. 6:4; art. 6:5 laat alleen besluiten doorwerken die 'overeenkomstige besluiten' kennen. De Legesverordening 2017 (CVDR424460_4) staat nog als geldend in CVDR en verwijst naar 'artikel 4.11 van de Algemene plaatselijke verordening'; de gemeente past leges 2026 toe (EUR 86,00). Geen strengere regel gevonden. De vervallen APV 2017 had volgens de toelichting een extra regel (lid 4 sub c) voor bomen die niet op de lijst staan; die geldt niet meer.",
+  "Praktijk: de gemeentepagina zegt 'Als uw boom niet op de beschermde bomenlijst staat, mag hij zonder vergunning gekapt worden.'",
+  "Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten; de materiële regel staat in de APV. Het DSO-omgevingsplan zelf is niet ingezien."
+ ],
+ "modelsignalen": [
+  "Etten-Leur beschermt ook bomen die zijn geplant uit een herplantplicht 'op basis van dit artikel of voorgaande regelingen': een uitbreiding buiten de lijst die D niet verandert, maar het aantal beschermde bomen vergroot."
+ ]
+}

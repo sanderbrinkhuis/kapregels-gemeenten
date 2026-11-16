@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM1525",
+  "gemeente": "Teylingen",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemene plaatselijke verordening Teylingen 2024, afd. 4.3 art. 4:10-4:12 en art. 6:1; Lijst waardevolle bomen en structuren Teylingen (2023); Bomenbeleid Teylingen - De juiste boom op de juiste plek (2022); Verordening op de heffing en de invordering van leges Teylingen 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR710710/5",
+  "datum_geldigheid": "geldend van 2026-08-08 t/m heden (CVDR710710_5); lijst geldend van 2023-04-21 (CVDR695044_1); Bomenbeleid geldend van 2022-01-01 (CVDR678765_1)",
+  "laatste_wijziging": "APV versie 5, in werking 2026-08-08",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.30 (CVDR750954_1, in samenhang met art. 22.8 Ow) en art. 22.299 (aanvraagvereisten, restant bruidsschat). Geen kapregel in het omgevingsplan zelf.",
+  "praktijkcontrole": "31 bekendmakingen sinds 2025 (1 besluit, 18 aanvragen, 1 weigering volgens titel; zoekmethode titel). Steekproef van 1 besluit (gmb-2025-314392, kap van 2 bomen met herplanting van 2 bomen) noemt geen grondslag. Past bij een lijstsysteem met een grote lijst (402 particuliere regels).",
+  "vergunningplicht": "Alleen 'waardevolle bomen en structuren' die het college heeft aangewezen (Lijst waardevolle bomen en structuren Teylingen): omgevingsvergunning (art. 4:11a lid 1). Het Bomenbeleid: 'Bij de overige bomen van particulieren is geen toestemming of vergunning voor kap nodig, en hoeft dit ook niet gemeld.'",
+  "drempel": "geen drempel; alleen aangewezen bomen en structuren op de lijst",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t.",
+  "reikwijdte": "Hele gemeente; alleen houtopstand (solitair of historische structuur) 'door het college aangewezen als waardevol' (art. 4:10 onder d). De lijst (CVDR695044_1, bijlage 1) bevat 1.407 regels: 1.005 gemeente, 325 particulier (categorie Waardevolle boom) en 77 particulier met categorie Structuur. Beschermd dorpsgezicht Warmond: vergunning op grond van het bestemmingsplan (art. 4:11a lid 5 onder c; klein gebied, telt niet mee voor D).",
+  "uitzonderingen": "Art. 4:11a lid 5: niet bij dunnen, bij toestemming van de burgemeester bij ernstige bedreiging of direct gevaar (lid 4), of als voor de houtopstand in het beschermd dorpsgebied Warmond een omgevingsvergunning op grond van het bestemmingsplan vereist is. Alle gangbare uitzonderingen; geen tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": 1407,
+  "lijst_aantal_particulier": 402,
+  "lijst_telling": "regels op de Lijst waardevolle bomen en structuren Teylingen (CVDR695044_1, bijlage 1), kolom Boomeigenaar; zelf geteld uit de brontekst; 402 = 325 Waardevolle boom + 77 Structuur, regels met 'Diverse' soorten kunnen meerdere bomen omvatten",
+  "weigeringsgronden": "Art. 4:11a lid 2: 'Een vergunning kan worden verleend als sprake is van: a. een veiligheidsrisico voor omgeving en/of verkeer; b. maatregelen in het kader van de Plantgezondheidswet, of; c. een groot maatschappelijk belang.' (gesloten lijst). Bomenbeleid 4.4.2: waardevolle bomen 'worden alleen gekapt als er sprake is van een veiligheidsrisico'.",
+  "herplantplicht": "APV art. 4:11b lid 2 onder b: 'kan behoren het voorschrift' dat 'herplant moet plaatsvinden'. Bomenbeleid (raadsbesluit 16 december 2021) 4.4.3: 'Bij verwijderen van een boom (vergunning, melding) dient herplant plaats te vinden, met een boom die potentieel dezelfde of een betere status heeft als de te verwijderen boom.'",
+  "herplant_ontsnapping": "Beleid: 'vervalt de herplant- en compensatieplicht voor de eigenaar' bij een particuliere waardevolle boom die weg moet vanwege onomkeerbare aantasting of veiligheidsrisico (gemeente plant dan elders); verder geen uitweg of betaling in plaats van herplant. APV zelf: 'kan'.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Niets specifieks over niet nakomen van een herplantvoorschrift. APV art. 6:1 is een algemene strafbepaling voor 'het bij of krachtens de in deze verordening opgenomen artikelen bepaalde' (hechtenis of geldboete tweede categorie); noemt art. 4:11b niet en kent geen 'is verplicht daaraan te voldoen'. Bomenbeleid 4.4.5: 'Bij illegale kap van bomen wordt onder bestuursdwang een herplantplicht ... opgelegd.'",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Algemene APV-strafbepaling art. 6:1 (hechtenis tot 3 maanden of geldboete tweede categorie); geen WED-aanwijzing in de APV en geen bestuurlijke boete. Wel omgevingsplanactiviteit: leges art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening Teylingen in samenhang met artikel 22.8 van de Omgevingswet' (WED via Ow 5.1). Herplant na illegale kap: vast beleid (bestuursdwang).",
+  "procedure": "Omgevingsvergunning van het college; leges € 111,80 (art. 2.30). Beslistermijn art. 1:2 niet van toepassing op omgevingsvergunning. Bezwaar en beroep volgens Awb; het Bomenbeleid noemt 'Zienswijze en bezwaar' en 'Publicatie van besluit'.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan in het DSO niet geraadpleegd. Onduidelijk of de 77 particuliere regels met categorie Structuur vergunningplichtig zijn (APV: alleen 'waardevolle bomen en structuren'; Bomenbeleid: Structuur = melding, voor gemeentelijke structuurbomen); heeft geen invloed op D (blijft 1).",
+  "artikelnummers": [
+    "APV 2024: art. 1:4, 4:10, 4:11, 4:11a, 4:11b, 4:12, 6:1",
+    "Lijst waardevolle bomen en structuren Teylingen (CVDR695044_1)",
+    "Bomenbeleid Teylingen (CVDR678765_1): 4.4.2, 4.4.3, 4.4.5",
+    "Legesverordening 2026: art. 2.30",
+    "Omgevingsplan: art. 22.299"
+  ],
+  "opmerkingen": [
+    "W3: 'Een vergunning kan worden verleend als sprake is van: a. een veiligheidsrisico voor omgeving en/of verkeer;' ... 'c. een groot maatschappelijk belang.' (art. 4:11a lid 2, gesloten verleningsgronden).",
+    "H2: de APV zegt 'kan behoren het voorschrift' (art. 4:11b lid 2), maar het vastgestelde Bomenbeleid (raad, CVDR geldend) zegt 'Bij verwijderen van een boom (vergunning, melding) dient herplant plaats te vinden'; volgens de regel voor tegenstrijdige teksten telt het beleid. Het Bomenbeleid noemt geen verplichte storting voor gewone kap.",
+    "S1: omgevingsplanactiviteit volgens leges art. 2.30 (verwijst naar 'artikel 4:11', de aanwijsbepaling; het verbod staat in art. 4:11a; foute verwijzing) en vast beleid voor herplant na illegale kap: 'Bij illegale kap van bomen wordt onder bestuursdwang een herplantplicht van een boom van vergelijkbare omvang en leeftijd opgelegd. Indien dit praktisch niet mogelijk is (zeer oude grote bomen) kan deze herplant financieel gecompenseerd worden.'",
+    "Herplant na illegale kap: beleid 'verplicht' (vast beleid gaat voor); de APV zegt hierover niets.",
+    "De lijst noemt adressen van standplaatsen; die zijn niet overgenomen.",
+    "Bomenbeleid 4.4.1: 'Daarnaast zijn er nog de overige, particuliere bomen zonder beleidsstatus' (vrij). Het beleid kondigt aan dat 'De regels in de APV ... zullen moeten worden aangepast'; dat is nog niet gebeurd in de geldende APV.",
+    "Hillegom, Lisse en Teylingen werken samen (HLT). Het omgevingsplan (bruidsschat CVDR696462_4) bevat alleen aanvraagvereisten (art. 22.299), geen kapverbod; gecontroleerd op de termen houtopstand, boom en vellen."
+  ],
+  "modelsignalen": [
+    "Vergunningplichtige 'structuren' op de lijst: 77 particuliere regels hebben categorie Structuur, terwijl het beleid Structuur als melding behandelt (alleen gemeentelijke structuurbomen) en de APV alleen waardevolle bomen en structuren verbiedt. Advies: tel alle 402 particuliere regels als lijstbomen (de lijst is door het college vastgesteld op grond van art. 4:11), maar vermeld de verdeling in het rapport.",
+    "Herplant: APV 'kan', beleid 'dient ... plaats te vinden' met een uitzondering voor particuliere waardevolle bomen bij onomkeerbare aantasting of veiligheidsrisico. Advies: H2 volgens de regel 'tegenstrijdige teksten', herplant_type 'harde plicht' met vermelding van de beperkte uitzondering.",
+    "Leges verwijst naar art. 4:11 (aanwijzing) in plaats van art. 4:11a (verbod). Advies: foute verwijzing, S = 1 blijft.",
+    "Lijstregels kunnen meerdere bomen omvatten ('Diverse', groepen, structuren): de eenheid 'regel' geeft geen aantal bomen. Advies: in het rapport altijd 'regels' noemen."
+  ]
+}

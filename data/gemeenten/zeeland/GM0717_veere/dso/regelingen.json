@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0717/2025/Regeling9098a0470d954ceba6c2fe19254c4cf9",
+    "titel": "Omgevingsvisie Veere 2047",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0717/2025/Regeling9098a0470d954ceba6c2fe19254c4cf9/nld@2026-02-12;12274950",
+    "beginGeldigheid": "2026-02-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0717_2025_Regeling9098a0470d954ceba6c2fe19254c4cf9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:55Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0717/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Veere",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0717/2020/omgevingsplan/nld@2026-03-17;10365042",
+    "beginGeldigheid": "2026-05-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0717_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:55Z"
+  }
+]

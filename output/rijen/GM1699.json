@@ -1,0 +1,75 @@
+{
+ "provincie": "Drenthe",
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "volledig_gelezen": true,
+ "status": "ok",
+ "gm_code": "GM1699",
+ "gemeente": "Noordenveld",
+ "brondocument": "APV gemeente Noordenveld (versie 2021), afd. 4.3 art. 4:10-4:12c en art. 6:1 (CVDR661179_3); Legesverordening (versie 2026) art. 2.30 (CVDR751945_3); Omgevingsplan art. 22.299 (CVDR696480_6); Uitvoerings- en handhavingsstrategie 2024-2028 (CVDR726051_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR661179/3",
+ "datum_geldigheid": "geldend van 2024-04-26 t/m heden (CVDR661179_3)",
+ "laatste_wijziging": "2024-04-26 (diverse wijzigingen, versie 3)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens legesverordening art. 2.30 ('vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299; WED-aanwijzing in APV art. 6:1 lid 2",
+ "praktijkcontrole": "105 bekendmakingen sinds 2025 (18 besluiten), waarvan 13 weigeringen volgens de titel. Alle 10 steekproefbesluiten noemen geen grondslag; titels betreffen vooral weigeringen voor kap van naaldbomen (zilversparren, lariksen, grove dennen), een eik, populieren en essen, ook met herplant (bijv. gmb-2026-124482). Er worden dus daadwerkelijk kapvergunningen geweigerd.",
+ "vergunningplicht": "vergunning (omgevingsvergunning van het bevoegd gezag, art. 4:11 lid 1)",
+ "drempel": "Verschilt per categorie (art. 4:11 lid 1): terreinen met recreatiewoningen: doorsnede 10 cm op 1,3 m (omtrek ca. 31 cm); erfbeplanting bij monumentale of agrarische bebouwing: doorsnede meer dan 30 cm (omtrek ca. 94 cm); laan-, houtwal- en houtsingelbomen binnen de bebouwde kom, brinkbomen en bomen op de waardevolle en monumentale lijst: geen drempel (boom = doorsnede minimaal 10 cm); buiten de bebouwde kom: eenheden kleiner dan 10 are en rijbeplanting van minder dan 20 bomen.",
+ "omtrek_cm": 31.4,
+ "meethoogte": "1,3 m",
+ "reikwijdte": "Hele gemeente, maar alleen aangewezen categorieen: recreatieterreinen, bomen in houtwal, houtsingel of laanstructuur binnen de bebouwde kom, erfbeplanting (bij monumentale of agrarische panden), bomen op de lijst met waardevolle en monumentale bomen, bomen buiten de bebouwde kom in eenheden onder 10 are of rijbeplanting van minder dan 20 bomen, herplant-bomen en bomen op een brink. Particulier en gemeentelijk (gemeentebomen vallen onder het Bomenbeleidsplan en zijn uitgezonderd, art. 4:11 lid 2 sub b).",
+ "uitzonderingen": "Art. 4:11 lid 2: acuut gevaar met toestemming; gemeentebomen die niet monumentaal zijn; dunning; periodiek afzetten; wegbeplantingen en eenrijige beplantingen op of langs landbouwgrond bestaande uit niet geknotte populieren of wilgen; houtopstand onder het Besluit activiteiten leefomgeving; Plantenziektewet of aanschrijving. Lid 4: niet van toepassing in het gebied Oosterveld fase 2 en 3. Gewone tuinbomen binnen de bebouwde kom zijn niet beschermd, tenzij zij onder een genoemde categorie vallen.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "lijstsysteem": false,
+ "lijst_telling": "Lijst met waardevolle en monumentale bomen (art. 4:11 lid 1 sub d, 4:12c) niet ingezien. Niet nodig voor D, omdat een breder regime (categorieen in art. 4:11) geldt.",
+ "weigeringsgronden": "Art. 4:12a: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de monumentale waarde van de houtopstand; b. de natuurwaarde ...; c. de landschappelijke waarde ...; d. de waarde ... voor het dorpsschoon; e. de leeftijd ...; f. de cultuurhistorische waarde ...; g. de waarde ... als speelobject en/of voor de recreatie.'",
+ "herplantplicht": "Art. 4:11 lid 3: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 4:12b lid 1 (na kap zonder vergunning): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen beleidsregel gevonden die herplant verplicht maakt (de Compensatieverordening CVDR81185_1 gaat over natuur-, bos- en landschapscompensatie bij ruimtelijke ingrepen).",
+ "herplant_ontsnapping": "Geen uitweg nodig: het is een bevoegdheid ('kan'). Het bevoegd gezag beslist per geval; geen betaling als alternatief gevonden.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:12b lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in APV art. 6:1 lid 2 voor art. 4:11 (en via Ow 5.1 lid 1 aanhef en onder a, omdat de regel als omgevingsplanactiviteit werkt); algemene strafbepaling art. 6:1 lid 1; herplantplicht na illegale kap kan worden opgelegd (art. 4:12b). Geen bestuurlijke boete voor kap gevonden; de handhavingsstrategie 2024-2028 noemt 'illegale kap en het niet uitvoeren van herplantplichten' als handhavingstaak met een risiconiveau en bevat een algemene tabel met sancties (waaronder bestuurlijke boete), zonder kapspecifieke bepaling.",
+ "procedure": "Leges € 134,00 (Legesverordening 2026 art. 2.30). Beslistermijn: APV art. 1:2 is niet van toepassing op omgevingsvergunning. Bezwaar en beroep volgens de Awb (niet apart geregeld in de bronnen).",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "artikelnummers": [
+  "APV art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 4:12c, 6:1 (CVDR661179_3)",
+  "Legesverordening 2026 art. 2.30 (CVDR751945_3)",
+  "Omgevingsplan art. 22.299 (CVDR696480_6)",
+  "Handhavingsstrategie 2024-2028 par. 4.3.4 (CVDR726051_1)"
+ ],
+ "opmerkingen": [
+  "D = 2: beschermd zijn aangewezen categorieen die samen een substantieel deel van het buitengebied en de dorpen beslaan (eenheden onder 10 are en rijbeplanting buiten de bebouwde kom, laan- en houtwalstructuren binnen de bebouwde kom, erfbeplanting, brinken, recreatieterreinen, lijst). Gewone tuinbomen binnen de bebouwde kom zijn niet beschermd, dus geen D = 3.",
+  "W = 2: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, dorpsschoon- en cultuurhistorische waarden (art. 4:12a).",
+  "H = 1: 'kan een herplantplicht opleggen' (art. 4:11 lid 3). Een opgelegde plicht is wel verplicht en strafbaar (art. 4:12b lid 4, 6:1).",
+  "S = 1: WED via art. 6:1 lid 2 APV en Ow 5.1 (stap 1a).",
+  "Boom A en B (achtertuin, bebouwde kom, doorsnede ca. 25 en 13 cm) vallen buiten de genoemde categorieen, tenzij het erfbeplanting is: die drempel (doorsnede meer dan 30 cm) wordt bij beide niet gehaald. Beide: nee.",
+  "Het Bomenbeleidsplan Noordenveld (genoemd in art. 4:11 lid 2 sub b) staat niet in de bronnen en betreft gemeentebomen. Het omgevingsplan (tijdelijk deel) en de lijst van waardevolle bomen zijn niet ingezien."
+ ],
+ "modelsignalen": [
+  "Zeer gemengd categorie-regime (recreatieterreinen vanaf doorsnede 10 cm, erfbeplanting vanaf doorsnede 30 cm, structuren zonder drempel, buitengebied-eenheden onder 10 are): geen enkele drempelwaarde dekt het regime; omtrek_cm = 31,4 is alleen de laagste drempel (recreatieterreinen)."
+ ],
+ "ontbrekend": "Lijst waardevolle en monumentale bomen en omgevingsplan (DSO) niet ingezien; geen invloed op de puntschatting van D."
+}

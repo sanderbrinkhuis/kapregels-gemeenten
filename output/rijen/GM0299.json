@@ -1,0 +1,84 @@
+{
+ "gm_code": "GM0299",
+ "gemeente": "Zevenaar",
+ "provincie": "Gelderland",
+ "brondocument": "Verordening fysieke leefomgeving gemeente Zevenaar 2024 (VFL) par. 5.3 Bomen (art. 5.3.1-5.3.11) en art. 11.1.1 (CVDR713692_4); Verordening op de heffing en de invordering van leges 2026 art. 2.30 (CVDR752168_1); Subsidieverordening waardevolle/monumentale bomen Zevenaar 2019 (CVDR630488_1); Omgevingsplan art. 22.299 (CVDR696263_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR713692/4 ; https://lokaleregelgeving.overheid.nl/CVDR752168/1 ; https://lokaleregelgeving.overheid.nl/CVDR630488/1",
+ "datum_geldigheid": "VFL CVDR713692_4 geldend vanaf 2026-01-15 t/m heden (peildatum scoren 2026-11-15); eerste versie van de VFL in werking 2024-01-01 (art. 12.1.3)",
+ "laatste_wijziging": "VFL: versie 4 per 2026-01-15; de bomenparagraaf is niet vergeleken met eerdere versies. Bomenverordening Zevenaar 2019 is per 2024-01-01 geheel overgenomen en ingetrokken (art. 12.1.3).",
+ "juridische_plaats": "VFL par. 5.3 (verordening, overgenomen uit de Bomenverordening 2019). Werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 5.3.1, eerste lid, van de Verordening Fysieke Leefomgeving gemeente Zevenaar in samenhang met artikel 22.8 van de Omgevingswet'. De verwijzing is naar art. 5.3.1 (de lijst) en niet naar art. 5.3.2 (het verbod); zie opmerkingen. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 9 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 2 besluiten en 0 geweigerd volgens titel. Een besluit betreft het kappen van een boom in Lobith (gmb-2025-186329); de grondslag staat er niet in. Het andere besluit (gmb-2026-106044) gaat over een woning. Past bij een lijstsysteem met weinig kapbesluiten; geen aanwijzing voor een breder regime.",
+ "vergunningplicht": "Vergunning, alleen voor waardevolle houtopstanden (VFL 5.3.2 lid 1): 'Het is verboden zonder vergunning van het bevoegd gezag de als waardevolle houtopstanden aangemerkte houtopstanden te vellen of te doen vellen'. Geen vergunningplicht voor andere houtopstanden.",
+ "drempel": "Geen omvangdrempel voor lijstbomen. De definitie van 'Boom' (art. 1.1.1 onder 17) noemt 'een dwarsdoorsnede van de stam van minimaal 10 centimeter op 1,3 meter hoogte', maar het verbod geldt alleen voor aangemerkte houtopstanden.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem); definitie boom: 1,3 m",
+ "reikwijdte": "Alleen individueel aangewezen 'waardevolle houtopstanden': 'de als zodanig door het college aangegeven houtopstanden, zoals opgenomen op de lijst van waardevolle houtopstanden' (art. 1.1.1 onder 66). Volgens de toelichting bij de subsidieverordening staan op de lijst bomen op 'particulier terrein en gemeentegrond binnen buiten de bebouwde kom'. Lijst: https://www.zevenaar.nl/waardevolle-en-monumentale-bomen (niet ingezien).",
+ "uitzonderingen": "Art. 5.3.2 lid 2: niet voor waardevolle houtopstanden die moeten worden geveld op grond van de Plantenziektewet of een aanschrijving op last van het college, of 'indien sprake is van direct gevaar of vergelijkbaar spoedeisend belang'. Geen tuin-, perceel- of soortuitzondering gelezen.",
+ "weigeringsgronden": "Art. 5.3.4: 'Het college weigert de vergunning, tenzij: a. sprake is van een gevaarlijke situatie voor zaken of personen door instabiliteit van de houtopstand; b. het bevoegd gezag bij afweging van het belang bij het behoud van de houtopstand tegenover andere zwaarwegende belangen tot de conclusie komt dat een vergunning gerechtvaardigd is.' Toelichting subsidieverordening: 'Voor deze bomen wordt in beginsel geen kapvergunning verleend.' Waarden voor de lijst (art. 5.3.1 lid 2): natuur, landschap, cultuurhistorie, straat- en dorpsschoon, leefbaarheid, beeldbepalend.",
+ "herplantplicht": "Art. 5.3.6 lid 1: 'Tot aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant'. Na kap zonder vergunning: art. 5.3.7 lid 1 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen financiële compensatie of boomwaarde gevonden. Geen beleidsregel over herplant gevonden.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan behoren' (5.3.6 lid 1) en 'kan het bevoegd gezag' (5.3.7 lid 1). Het college (bevoegd gezag) beslist per geval. Betaling in plaats van herplant: geen. Herplant na illegale kap: 'kan'.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 5.3.7 lid 5: 'Degene aan wie een verplichting is opgelegd als bedoeld in het eerste, tweede of derde lid, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Lid 6: 'Een gedraging in strijd met een opgelegde verplichting als bedoeld in het eerste tot en met het derde lid van dit artikel is verboden.' Art. 11.1.1 lid 3: 'Overtreding van de in paragraaf 5.3 opgenomen artikelen en op grond van deze artikelen gegeven voorschriften, beperkingen en verplichtingen wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie'. Voor een herplantvoorschrift bij een vergunning (5.3.6) geldt dezelfde strafbepaling ('voorschriften').",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Eigen strafbepaling VFL 11.1.1 lid 3 voor par. 5.3: 'gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie'. Geen WED-aanwijzing voor par. 5.3 (11.1.1 lid 6 noemt alleen 7.1.1, 7.1.2 en 7.1.3). Via Ow 5.1: legesverordening 2026 art. 2.30 noemt het vellen een omgevingsplanactiviteit. Geen bestuurlijke boete gevonden. Herplant na illegale kap: art. 5.3.7 lid 1 ('kan').",
+ "procedure": "Aanvraag schriftelijk, gemotiveerd, met formulier (5.3.3). Beslistermijn: 5.3.5 'Artikel 16.64 van de Omgevingswet is van toepassing'. Leges 2026 art. 2.30: € 60,45. Bezwaar schorst de werking van het besluit (5.3.8). Vergunning vervalt na een jaar zonder gebruik (5.3.9). Besluiten worden bekendgemaakt (kennisgevingen in het gemeenteblad).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de gemeentelijke website (https://www.zevenaar.nl/waardevolle-en-monumentale-bomen) gaf een 403-melding bij één geautomatiseerde aanvraag; verder niet geprobeerd. Geen aantal in een geldende nota of besluit gevonden.",
+ "status": "ok",
+ "ontbrekend": "Lijst van waardevolle houtopstanden niet ingezien (website geblokkeerd, 403): aantal bomen en aantal particuliere bomen onbekend. De toelichting bij de Subsidieverordening zegt wel dat de lijst bomen op 'particulier terrein' kan bevatten, maar dat is geen telling. Geen beleidsregel over herplant of handhaving gevonden; omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "VFL 1.1.1",
+  "VFL 5.3.1",
+  "VFL 5.3.2",
+  "VFL 5.3.3",
+  "VFL 5.3.4",
+  "VFL 5.3.5",
+  "VFL 5.3.6",
+  "VFL 5.3.7",
+  "VFL 11.1.1",
+  "VFL 12.1.3",
+  "Leges 2026 art. 2.30",
+  "Subsidieverordening 2019 art. 1 en toelichting"
+ ],
+ "opmerkingen": [
+  "D = 1 (bereik 0-1): alleen aangewezen waardevolle houtopstanden, ongeacht omvang. De lijst is niet ingezien, dus is niet vastgesteld of er particuliere bomen op staan. De toelichting bij de geldende Subsidieverordening 2019 zegt dat de bevoegdheid geldt voor 'particulier terrein en gemeentegrond'; de subsidie is bedoeld om 'particuliere eigenaren te ondersteunen'. Volgens het model blijft het bereik vanaf D = 0 staan zolang de lijst niet is ingezien.",
+  "W = 3: 'Het college weigert de vergunning, tenzij: a. sprake is van een gevaarlijke situatie ...; b. ... tot de conclusie komt dat een vergunning gerechtvaardigd is.' (VFL 5.3.4). De toelichting bij de subsidieverordening bevestigt: 'Voor deze bomen wordt in beginsel geen kapvergunning verleend.'",
+  "H = 1: 'Tot aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat ... moet worden herplant' (VFL 5.3.6 lid 1). Geen beleidsregel die herplant verplicht stelt.",
+  "S = 1: eigen strafbepaling VFL 11.1.1 lid 3 (hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie) en herplantplicht na illegale kap (5.3.7). Daarnaast bewijs dat de regel als omgevingsplanactiviteit werkt (leges 2.30), dus S = 1 zonder bereik. Verkeerde verwijzing: leges 2.30 verwijst naar 'artikel 5.3.1, eerste lid' (de lijst) in plaats van art. 5.3.2 (het verbod); WED art. 1a is niet in de VFL aangewezen voor par. 5.3 (11.1.1 lid 6).",
+  "Begrip 'Boom' met dwarsdoorsnede van minimaal 10 cm (art. 1.1.1 onder 17) is alleen een definitie; het verbod van 5.3.2 geldt niet voor bomen in het algemeen. De Bomenverordening Zevenaar 2019 is vervallen (art. 12.1.3).",
+  "Aantal bekendmakingen (9 op titel, 2 besluiten) zegt weinig: de zoekmethode mist soms besluiten."
+ ],
+ "modelsignalen": [
+  "Een legesverordening die het vellen van een houtopstand aanwijst met een verwijzing naar het artikel over de lijst (5.3.1) in plaats van het artikel met het verbod (5.3.2): het model vraagt dit als foute verwijzing te noteren; het verandert S niet.",
+  "Gemeentelijke websites blokkeren soms geautomatiseerde aanvragen (403). Daardoor blijft de lijst van een lijstsysteem ongezien en komt de gemeente bij 'betrouwbaarheid laag' terecht, hoewel de regel zelf eenduidig is."
+ ]
+}

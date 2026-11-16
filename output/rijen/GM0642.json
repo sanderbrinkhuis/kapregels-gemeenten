@@ -1,0 +1,87 @@
+{
+  "gm_code": "GM0642",
+  "gemeente": "Zwijndrecht",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Bomenverordening gemeente Zwijndrecht (CVDR695364_1) art. 1 tot en met 5, 9, 10, 15; Beleidsregels selectiecriteria waardevolle particuliere bomen (CVDR695502_1); Verordening op de heffing en invordering van leges Gemeente Zwijndrecht 2026 (CVDR749173_1) art. 2.30; Omgevingsplan gemeente Zwijndrecht (CVDR696372_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR695364/1 ; https://lokaleregelgeving.overheid.nl/CVDR695502/1 ; https://lokaleregelgeving.overheid.nl/CVDR749173/1",
+  "datum_geldigheid": "Bomenverordening CVDR695364_1 geldend vanaf 2023-05-01 t/m heden; beleidsregels CVDR695502_1 vanaf 2023-05-03; leges CVDR749173_1 vanaf 2026-01-01; omgevingsplan CVDR696372_3 vanaf 2025-08-06 (peildatum scoren 2026-11-16)",
+  "laatste_wijziging": "Bomenverordening: versie 1 per 2023-05-01 (geen latere versie in CVDR; vervangt de Bomenverordening Zwijndrecht 2011). Beleidsregels: versie 1 per 2023-05-03.",
+  "juridische_plaats": "Losse bomenverordening, werkt als omgevingsplanactiviteit: de legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening Zwijndrecht in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 149 bekendmakingen op titel, waarvan 75 aanvragen en 73 toestemmingen voor kappen (geen weigeringen). In de vijf bekeken titels gaat het om lanen, een park en wegbermen (bijv. kap van 51 essen in een park); dat past bij gemeentelijke of niet-tuinbomen, maar niet alle titels zijn bekeken. Steekproef met grondslag is niet opgehaald.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van een boom (art. 4 lid 1) en voor waardevolle particuliere bomen op de lijst (art. 3 lid 1). Melding (zonder verbodsmogelijkheid) voor kleine bomen (art. 1), niet voor kleine bomen op erven en tuinen van woningen.",
+  "drempel": "Boom: dwarsdoorsnede van minimaal 20 cm op 1,3 m (art. 1 onder a) = omtrek ca. 62,8 cm. Kleine boom (melding): minimaal 10 cm maar kleiner dan 20 cm doorsnee. Waardevolle particuliere bomen op de lijst: ongeacht omvang.",
+  "omtrek_cm": 62.8,
+  "meethoogte": "1,3 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente, particulier en openbaar (geen bebouwde-komgrens). Art. 4 lid 3: 'Het in het eerste lid gestelde verbod geldt niet voor een boom op erven en tuinen van woningen, onverminderd het gestelde in artikel 3.' Het verbod geldt dus voor bomen op niet-woningterrein (bijv. bedrijfsterreinen, openbaar gebied) en voor de waardevolle particuliere bomen op de lijst, ook in tuinen.",
+  "uitzonderingen": "Art. 4 lid 3: bomen 'op erven en tuinen van woningen' zijn uitgezonderd (alle erven en tuinen van woningen, geen maatgrens); onverminderd art. 3 (lijst). Art. 4 lid 4: noodkap en dode boom. Art. 4 lid 5: Plantgezondheidswet of aanschrijving en periodiek knotten of kandelaberen. Art. 1 lid 2: geen melding voor kleine bomen op erven en tuinen van woningen. Gangbare uitzonderingen tellen niet; de tuinuitzondering geeft correctie -1.",
+  "weigeringsgronden": "Art. 5 lid 2: 'Deze omgevingsvergunning wordt onder verwijzing naar beleid geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden:' 'a. natuurwaarde- en milieuwaarde;' 'b. beeldbepalende/landschappelijke waarde;' 'c. cultuurhistorische waarde.' Voor lijstbomen strenger: art. 3 lid 2 'slechts bij uitzondering worden verleend indien sprake is van: a. een zwaarwegend belang of;'.",
+  "herplantplicht": "Art. 9 lid 1: 'behoort tot aan de omgevingsvergunning tot vellen te verbinden voorschriften, het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen, herplant plaats moet vinden of een geldelijke bijdrage moet worden gestort in het Bomenfonds, overeenkomstig vastgesteld beleid.' Voor lijstbomen: art. 3 lid 3 'kan geen voorschrift tot herplant of tot het doen van een geldelijke storting in het Bomenfonds worden verbonden'. De nadere regels (art. 9 lid 4 en 5) staan niet in het dossier.",
+  "herplant_ontsnapping": "Herplant of storting: 'of een geldelijke bijdrage moet worden gestort in het Bomenfonds' (betalen als alternatief voor herplanten). Het bevoegd gezag bepaalt per geval 'overeenkomstig vastgesteld beleid'; dat beleid (nadere regels art. 9 lid 4 en 5) is niet gevonden.",
+  "sancties": "WED via de Omgevingswet (omgevingsplanactiviteit): legesverordening art. 2.30 noemt het vellen van een houtopstand in samenhang met art. 22.8 Ow. Eigen strafbepaling art. 15 lid 2 geldt alleen voor art. 13 lid 2 en art. 14 lid 1 en 2 (boomziekten en gemeentelijke houtopstanden), niet voor de kapverboden art. 3 en 4. Geen bestuurlijke boete in de regeling. Herplant of storting na illegale kap: art. 10 lid 1 'kan' opleggen.",
+  "procedure": "Aanvraag online via het omgevingsloket (art. 6 lid 1). Leges art. 2.30: EUR 137,00. Vergunning vervalt na twee jaar zonder gebruik (art. 8 lid 1). Melding kleine bomen: acceptatie door het college, publicatie en 4 weken wachttijd (art. 1 lid 5 tot en met 7). Beslistermijn en bezwaar niet apart gelezen.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 9 lid 1: 'behoort tot aan de omgevingsvergunning tot vellen te verbinden voorschriften, het voorschrift dat binnen een bepaalde termijn'. Gevolg bij niet nakomen niet geregeld: art. 15 lid 1 en 2 noemen art. 9 niet; art. 7 onder c 'indien aan de vergunning verbonden voorschriften en beperkingen niet zijn of worden nagekomen' geeft alleen een bevoegdheid tot intrekking of wijziging van de vergunning.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst waardevolle particuliere bomen (art. 2) niet ingezien: niet in het dossier en niet via de gemeentelijke website gevonden; aantal onbekend. Het brede regime bepaalt D.",
+  "status": "ok",
+  "ontbrekend": "Lijst waardevolle particuliere bomen (art. 2) niet ingezien. Nadere regels over herplant en Bomenfonds (art. 9 lid 4 en 5, 'vastgesteld beleid') niet in het dossier of in CVDR gevonden; ze kunnen H of W beinvloeden. Bomenbeleidsplan 2021-2030 ('Werken aan een gevarieerde, boomrijke leefomgeving') niet als regeling in CVDR gevonden.",
+  "artikelnummers": [
+    "Bomenverordening art. 1",
+    "art. 2",
+    "art. 3",
+    "art. 4",
+    "art. 5",
+    "art. 7",
+    "art. 8",
+    "art. 9",
+    "art. 10",
+    "art. 15",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Beslissend voor D: 'boom' is een gewas met een dwarsdoorsnede van minimaal 20 cm (omtrek ca. 62,8 cm), hele gemeente: D = 3 op de drempel. Art. 4 lid 3 sluit 'een boom op erven en tuinen van woningen' uit (ruime uitzondering voor alle erven en tuinen): correctie -1, D = 2. Er blijven beschermde particuliere bomen over (niet-woningterrein en de lijst), dus niet D = 0.",
+    "Voorbeeldbomen: boom A (80 cm omtrek, ca. 25 cm doorsnee) en boom B (40 cm, ca. 13 cm) staan in een tuin van een woning en zijn vrij van het kapverbod en van de melding (art. 4 lid 3; art. 1 lid 2), tenzij ze op de lijst waardevolle particuliere bomen staan (art. 3). Daarom 'alleen als op lijst' voor beide.",
+    "Beslissend voor W: art. 5 lid 2 'wordt onder verwijzing naar beleid geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand': belangenafweging, W = 2 zonder bereik. Voor lijstbomen geldt het strengere art. 3 lid 2 ('slechts bij uitzondering', W = 3); dat telt alleen in de opmerkingen omdat het brede regime voor het grootste deel van de gedekte bomen geldt. Er is geen beleid gevonden waarnaar art. 5 verwijst.",
+    "Beslissend voor H: art. 9 lid 1 'behoort ... te verbinden ... het voorschrift dat ... herplant plaats moet ... of een geldelijke bijdrage moet worden gestort in het Bomenfonds'. Standaard herplant of storting als alternatief: H = 2, maximum 3 (besluit gebruiker 14-11-2026: herplant en/of financiele bijdrage als alternatief).",
+    "Beslissend voor S: kappen is volgens de legesverordening een omgevingsplanactiviteit, S = 1 zonder bereik. Foute verwijzing in de legesverordening: 'artikel 2 van de Bomenverordening' (dat is de lijst waardevolle bomen); de kapverboden staan in art. 3 en 4. De eigen strafbepaling (art. 15) noemt de kapverboden niet.",
+    "Toekomstig beleid, telt niet: 'Groen leeft' (CVDR680097_1): 'We willen ervoor zorgen dat de kap van private bomen vergunningvrij wordt, door te werken met een beschermde bomenlijst.' De Uitvoerings- en Handhavingsstrategie 2026-2029 (CVDR768270_1) noemt 'illegale bomenkap' alleen als toezichtsthema; de strategie verwijst naar 'de Vfl/APV', maar een APV- of VFL-kapregel is in het dossier niet gevonden.",
+    "De melding voor kleine bomen (10 tot 20 cm doorsnee, art. 1) geldt niet in tuinen en heeft geen verbodsmogelijkheid ('Het college accepteert de melding indien alle gevraagde gegevens ... correct en volledig zijn ingediend'); telt niet voor D.",
+    "Nabewerking 16-11-2026: D2 → D1 (max 2): alle erven en tuinen van woningen zijn uitgezonderd; in tuinen blijven alleen lijstbomen beschermd (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Een brede verbodsregel met een uitzondering voor alle 'erven en tuinen van woningen', plus een aparte lijst voor waardevolle particuliere bomen. Het model telt dit als D = 3 min 1 (ruime tuinuitzondering) = 2, maar de voorbeeldbomen A en B zijn alleen via de lijst beschermd. Advies: D = 2 laten staan en de voorbeeldbomen als feit laten voorgaan in het rapport (zoals bij Overijssel besloten).",
+    "H bij herplant of storting als alternatief in de standaardvoorschriften, met nadere regels die ontbreken: het model kent 'in beginsel herplant en/of bijdrage' (H = 2, maximum 3). Toegepast zoals besloten; de ontbrekende nadere regels zijn open punt.",
+    "Een omgevingsvergunning met 'wordt ... geweigerd indien de belangen van verlening niet opwegen' en een verwijzing naar niet-gevonden beleid: W = 2 zonder bereik volgens het model. Advies: zo laten."
+  ]
+}

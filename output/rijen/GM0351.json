@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0351",
+ "gemeente": "Woudenberg",
+ "provincie": "Utrecht",
+ "brondocument": "Bomenverordening Gemeente Woudenberg 2024 (CVDR711958_1); Verordening op de heffing en invordering van leges 2026 (CVDR753153_1) art. 2.30; Omgevingsplan gemeente Woudenberg (CVDR696283_2) art. 22.299; Uniforme Uitvoering- en Handhavingsstrategie (CVDR717214_1) Bijlage 8; APV 2023 (CVDR706623_3, afdeling 3 'gereserveerd')",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR711958/1",
+ "datum_geldigheid": "2023-12-31 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2023-12-31 (eerste versie CVDR711958_1)",
+ "juridische_plaats": "Losse bomenverordening; de legesverordening 2026 noemt het vellen een omgevingsplanactiviteit 'bedoeld in de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. APV afdeling 3 'Het bewaren van houtopstanden' is [gereserveerd].",
+ "praktijkcontrole": "33 bekendmakingen sinds 2025 (19 aanvragen, 14 toestemmingen volgens titel, 0 weigeringen volgens titel; zoekmethode titel; telling door mij op titelwoorden); enkele publicaties betreffen kap en herplant van meerdere bomen (bijv. gmb-2026-258599, 22 bomen) en een zieke kastanje (gmb-2026-379669); grondslag niet genoemd. Een deel kan bomen van de gemeente betreffen; niet vast te stellen.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van een 'beschermde boom of houtopstand' (art. 5 lid 1): alleen bomen en houtopstanden op de bomenkaart.",
+ "drempel": "Geen stamdrempel voor beschermde bomen (alleen bomen op de bomenkaart). Definitie 'boom' zonder minimummaat (art. 1 sub a). Aanvraagvereiste (omgevingsplan art. 22.299): diameter op 1,30 m.",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m (alleen aanvraagvereiste in omgevingsplan art. 22.299)",
+ "reikwijdte": "Art. 5 lid 1: 'een beschermde boom of houtopstand'; art. 1 sub i: 'een boom of houtopstand die is vastgelegd op de bomenkaart'. Art. 4 lid 1: kaart met a. boomstructuren; b. groenzones; c. monumentale bomen; d. waardevolle bomen; e. beschermde houtopstanden; f. beschermde kleine landschapselementen. Art. 3 lid 1: waardering van 'openbare en particuliere bomen en houtopstanden' bepaalt of een boom beschermd is ('Uitvoeringsbesluit boomwaarderingsmethode Woudenberg'). Art. 2 lid 1 bepaalt waar de verordening van toepassing is (o.a. binnen de bebouwingscontour houtkap, erven en tuinen, hoogstamfruitbomen), maar het kapverbod van art. 5 geldt alleen voor beschermde bomen. Boomstructuren staan op 'waardevolle potentiële groeiplaats: een groeiplaats in eigendom van gemeente Woudenberg'.",
+ "uitzonderingen": "Art. 5 lid 5: Plantenziektenwet of aanschrijving, periodiek vellen van hakhout, knotten of kandelaberen, dunnen (gangbaar, telt niet). Art. 2 lid 2 t/m 4: o.a. kerstbomen, kweekgoed, windschermen om boomgaarden, biomassa en agroforestry vallen buiten de houtopstanden van art. 2. Geen tuinuitzondering; geen correctie op D.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "bomenkaart niet ingezien (niet gevonden op woudenberg.nl; enkele requests gaven 404; DSO-sleutel niet beschikbaar)",
+ "weigeringsgronden": "Art. 7 lid 1: 'Het bevoegd gezag kan de aanvraag voor een omgevingsvergunning tot vellen weigeren dan wel onder voorschriften honoreren.' Lid 2: 'Een vergunning tot vellen van een beschermde boom of houtopstand kan worden afgegeven indien: a. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel; b. er gevaar bestaat of dreigt voor de veiligheid; c. bij een ruimtelijke herinrichting; d. bij schade aan gebouwen; e. als de houtopstand te dicht op de erfgrenslijn staat.' Lid 3: 'kan enkel worden verleend als alternatieve oplossingen voor vellen niet mogelijk zijn of naar redelijkheid niet van de zakelijk gerechtigde kan worden geëist.'",
+ "herplantplicht": "Art. 9 lid 1: 'Tot aan de omgevingsvergunning tot vellen van een boom of houtopstand te verbinden voorschriften, behoort het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen, moet worden herplant.' Art. 6 lid 2 sub e: aanvraag bevat 'een beplantingsplan voor de herbeplanting, op hetzelfde kadastrale perceel als waar de beschermde boom of houtopstand teniet zal worden gedaan'. Na illegale kap (art. 10 lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'.",
+ "herplant_ontsnapping": "geen (geen 'tenzij'- of betalingsuitweg gevonden); wel 'Het college kan hiervoor nadere regels stellen' (art. 9 lid 1) en aanwijzingen per geval door het bevoegd gezag.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 15 lid 1: 'Degene aan wie een voorschrift als bedoeld in artikel 8, artikel 9, artikel 12, artikel 13, artikel 14 is gegeven, is gehouden dienovereenkomstig te handelen.' Lid 2: 'of een voorschrift onderscheidenlijk een verplichting als bedoeld in het vorige lid niet nakomt, wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Bijlage 8 richtlijn dwangsombedragen (CVDR717214_1): 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht | per week | 5.000 | 4 weken'.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "Eigen strafbepaling (art. 15 lid 2: hechtenis tot twee maanden of geldboete tweede categorie) en WED-aanwijzing in de verordening (art. 15 lid 3: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens artikel 5'); legesverordening noemt bovendien een omgevingsplanactiviteit in samenhang met art. 22.8 Ow. Dwangsomrichtlijn voor kappen (algemeen instrumentarium). Geen bestuurlijke boete. S = 1.",
+ "procedure": "Aanvraag via het Omgevingsloket (art. 6); publicatie en zienswijze twee weken (art. 6 lid 4 en 5); bezwaartermijn zes weken (art. 6 lid 6); leges € 418,- (legesverordening 2026 art. 2.30); geldigheid een jaar, verlengbaar tot drie jaar (art. 8); beslistermijn niet vastgelegd.",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "onzeker",
+ "ontbrekend": "KERNBRONNEN ONTBREKEN: de bomenkaart (beschermde bomen, boomstructuren, groenzones, kleine landschapselementen) en het 'Uitvoeringsbesluit boomwaarderingsmethode Woudenberg' (bepaalt welke particuliere bomen beschermd zijn) zitten niet in het dossier en zijn niet gevonden. Niet vast te stellen of en hoeveel particuliere bomen beschermd zijn. Omgevingsplan in het DSO niet ingezien (DSO-sleutel nog niet beschikbaar).",
+ "artikelnummers": [
+  "Bomenverordening 2024 art. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 17",
+  "Legesverordening 2026 (CVDR753153_1) art. 2.30",
+  "Omgevingsplan (CVDR696283_2) art. 22.299",
+  "Uniforme Uitvoering- en Handhavingsstrategie (CVDR717214_1) Bijlage 8"
+ ],
+ "opmerkingen": [
+  "D1 met bereik 0 tot 2: lijstsysteem (bomenkaart) niet ingezien. Boomstructuren en groenzones zouden als aangewezen gebied D2 kunnen zijn, maar staan volgens art. 1 sub l en c op gemeentegrond; of particuliere bomen en kleine landschapselementen (kleiner dan 10 are) op de kaart staan, is onbekend.",
+  "W3 (minimum 2): art. 7 lid 2 'kan worden afgegeven indien' met alleen limitatieve gronden (letsel, gevaar, ruimtelijke herinrichting, schade aan gebouwen, erfgrens) en lid 3 'kan enkel worden verleend als alternatieve oplossingen ... niet mogelijk zijn'. Dat lijkt op weigeren tenzij; lid 1 zegt 'kan ... weigeren'. Modelsignaal.",
+  "H2: art. 9 lid 1 'behoort het voorschrift dat ... moet worden herplant'; geen betalingsalternatief of financiele compensatie gevonden, dus H2, niet H3. Herplantplicht moet volgens art. 6 lid 2 sub e op hetzelfde kadastrale perceel worden gepland.",
+  "Herplant na illegale kap (art. 10) is 'kan'; telt bij S, niet bij H.",
+  "Art. 2 lid 1 noemt tuinen en erven, maar het kapverbod geldt alleen voor beschermde bomen op de kaart. Hoogstamfruitbomen vallen onder art. 2, niet onder art. 5.",
+  "Boom A en B (particuliere achtertuin): vergunning alleen als de boom op de bomenkaart staat; kaart niet ingezien.",
+  "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+ ],
+ "modelsignalen": [
+  "Bomenverordening met een brede toepassingsbepaling (art. 2: tuinen, erven, hoogstamfruitbomen) maar een kapverbod dat alleen voor beschermde bomen op de kaart geldt: INTENT behandelt dit als lijstsysteem (D1), maar de dekking hangt af van een waarderingsmethode die niet in het dossier zit.",
+  "Vergunning die 'kan worden afgegeven indien' limitatieve gronden: W2 of W3 is niet eenduidig in INTENT."
+ ]
+}

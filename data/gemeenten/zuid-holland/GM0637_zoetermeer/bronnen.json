@@ -1,0 +1,28 @@
+{
+  "gemeente": "Zoetermeer",
+  "gm_code": "GM0637",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Zoetermeer",
+  "zoeknaam_bekendmakingen": "Zoetermeer",
+  "opgehaald_op": "2026-11-16T10:35:46+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Zoetermeer\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 76,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Zoetermeer\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 524,
+  "geldende_regelingen": 24,
+  "geldend_met_kapartikelen": [
+    "CVDR129535_31",
+    "CVDR695562_2",
+    "CVDR696369_2",
+    "CVDR713311_1",
+    "CVDR737220_1",
+    "CVDR753799_1"
+  ],
+  "bekendmakingen_besluiten": 235,
+  "bekendmakingen_aanvragen": 284,
+  "bekendmakingen_geweigerd": 5,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

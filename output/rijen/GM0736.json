@@ -1,0 +1,81 @@
+{
+ "gm_code": "GM0736",
+ "gemeente": "De Ronde Venen",
+ "provincie": "Utrecht",
+ "brondocument": "Verordening Fysieke Leefomgeving De Ronde Venen (VFL), CVDR657129_2, art. 1.2.1, 2.2, 4.3.1, 4.3.2, 9.1; Lijst waardevolle bomen 2014 (CVDR344239_3); Beleidsnotitie omgang met bomen (CVDR615453_1) par. 3.1; APV 2025 (CVDR736547_1) afd. 3 'Het bewaren van houtopstanden' is vervallen; Legesverordening 2026 (CVDR758250_2) art. 2.30; Omgevingsplan (CVDR696386_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR657129/2 ; https://lokaleregelgeving.overheid.nl/CVDR344239/3 ; https://lokaleregelgeving.overheid.nl/CVDR615453/1",
+ "datum_geldigheid": "VFL CVDR657129_2 geldend vanaf 2025-03-15 t/m heden (peildatum scoren 2026-11-14). Lijst waardevolle bomen CVDR344239_3 geldend vanaf 2022-06-17 t/m heden.",
+ "laatste_wijziging": "VFL: versie 2 per 2025-03-15 (wijziging o.a. art. 4.3.2 en 4.3.3; art. 4.3.1 lijkt ongewijzigd, niet per artikel vergeleken). APV: afdeling 3 'Het bewaren van houtopstanden' staat op '(Vervallen)' in versie per 2025-03-15.",
+ "juridische_plaats": "VFL (gemeentelijke verordening); werkt niet aantoonbaar als omgevingsplanactiviteit voor de lijstbomen: de legesverordening art. 2.30 noemt alleen 'artikel 4:3.2' (publieke houtopstanden). Wel eigen WED-aanwijzing in VFL art. 9.1 lid 2 voor art. 4.3.1 lid 1. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten (geen vergunningplicht). Omgevingsplan in het DSO niet ingezien.",
+ "praktijkcontrole": "Sinds 2025: 57 bekendmakingen op titel, waarvan 24 besluiten, 31 aanvragen en 0 weigeringen (volgens de titel). Steekproef van 10 besluiten noemt geen grondslag. De besluiten gaan vooral over gemeentelijke bomen (riool, herinrichting, veiligheidscontrole, vervangingsplan) en grote aantallen; een besluit 'omgevingsvergunningvrij' voor 1 boom (gmb-2026-371548) is niet te duiden zonder de grondslag. De uitkomst past bij een lijstsysteem; geen indicatie van een breder regime.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Bomenlijst staan (VFL art. 4.3.1 lid 1). Voor particuliere bomen niet op de lijst geldt geen vergunningplicht: art. 4.3.2 lid 1 geldt alleen voor 'publieke houtopstand' (houtopstand op grond van overheden).",
+ "drempel": "Geen drempel: alleen de bomen op de Bomenlijst (Lijst waardevolle bomen 2014), ongeacht omvang. Voor publieke houtopstanden (overheidsgrond) geldt art. 4.3.2: 'een stamdiameter ... kleiner dan 20 cm , of een omtrek kleiner dan 70 cm, gemeten op 1,3 meter vanaf maaiveld' is vrijgesteld; dat geldt niet voor particulier terrein.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing voor lijstbomen (1,30 m alleen bij publieke houtopstanden)",
+ "reikwijdte": "Art. 4.3.1 lid 1: 'Het is verboden zonder vergunning van burgemeester en wethouders een houtopstand te vellen of te laten vellen die staat vermeld op de Bomenlijst.' Art. 1.2.1: 'bomenlijst: de door burgemeester en wethouders vastgestelde lijst met waardevolle bomen'. Art. 4.3.2 (breed regime vanaf 20 cm diameter / 70 cm omtrek) geldt alleen voor 'publieke houtopstand: houtopstand staande op grond van overheden'. Particuliere bomen zonder lijstvermelding zijn niet beschermd. De Lijst waardevolle bomen 2014 vermeldt: 'Dit verbod geldt niet voor particuliere bomen, met uitzondering van de bomen op de lijst van waardevolle bomen.'",
+ "uitzonderingen": "Art. 4.3.1 lid 3: verbod niet van toepassing 'als de burgemeester toestemming verleent voor het vellen van een houtopstand in verband met een spoedeisend belang voor de openbare orde, een direct gevaar voor personen of goederen of de houtopstand wegens ziekte besmettingsgevaar oplevert (noodkap).' (gangbare uitzondering, telt niet). Randvoorwaarde voor opname op de lijst: 'De kroon van de boom moet zichtbaar zijn vanaf openbaar gebied.'",
+ "weigeringsgronden": "Art. 4.3.1 lid 2: 'Burgemeester en wethouders kunnen de in het eerste lid bedoelde vergunning alleen verlenen als aannemelijk is gemaakt dat: a. de conditie van de houtopstand dermate slecht is dat instandhouding niet langer verantwoord is; b. een zwaarwegend belang zwaarder weegt dan het belang van het behoud van de houtopstand; c. de instandhouding van de houtopstand zo een onevenredige overlast oplevert ...' (weigeren tenzij).",
+ "herplantplicht": "Art. 4.3.1 lid 4: 'Burgemeester en wethouders kunnen een herplantplicht opleggen voor waardevolle publieke houtopstand.' Voor particuliere lijstbomen geen grondslag; Beleidsnotitie par. 3.1: 'Voor een waardvolle particuliere boom geldt geen herplantplicht;'. Geen financiele compensatie gevonden.",
+ "herplant_ontsnapping": "geen (er is geen herplantplicht voor particuliere lijstbomen)",
+ "sancties": "WED-aanwijzing in de regeling: VFL art. 9.1 lid 2 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 3.1.1, vijfde lid, 3.1.2, tweede lid, 4.3.1, eerste lid en 4.3.2, eerste lid.' Geen bestuurlijke boete in de VFL. Bestuurlijke boete of boetebeleid voor kap niet gevonden (Uitvoerings- en Handhavingsstrategie 2026.1 noemt kappen zonder vergunning alleen in een risicotabel).",
+ "procedure": "Beslistermijn VFL: acht weken, eenmaal te verdagen met ten hoogste acht weken (APV art. 1:2 geldt; in VFL niet apart gelezen). Leges: art. 2.30 legesverordening 2026 (CVDR758250_2) noemt alleen art. 4:3.2 (publieke houtopstanden), tarief EUR 159,00; leges voor lijstbomen (art. 4.3.1) niet apart gevonden. Bekendmaking van besluiten in het gemeenteblad met bezwaar bij het college.",
+ "herplant_type": "geen grondslag",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Voor particuliere lijstbomen is geen herplantplicht geregeld. Voor het niet nakomen van een opgelegde herplantplicht (publieke houtopstand) bestaat alleen algemeen instrumentarium: Beleidsregel CVDR747140_1 onder P noemt dwangsombedragen 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 579,
+ "lijst_aantal_particulier": 358,
+ "lijst_telling": "ca. 579 regels (adres/boomgroep) op de Lijst waardevolle bomen 2014 (CVDR344239_3, vastgesteld 25 november 2014); een regel kan meerdere bomen betreffen. Daarvan 358 regels gemarkeerd als particulier (waarvan 31 'Part./gem. (mandelig)'), 75 als gemeentelijk en 146 zonder markering. Eigen telling uit de CVDR-tekst; of de lijst nog actueel is, is niet vast te stellen.",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien (de kapregel staat in de VFL, niet in het omgevingsplan). Of de tekst van art. 4.3.1 lid 4 later is gewijzigd is niet nagegaan. Leges voor kap van lijstbomen niet apart gevonden.",
+ "artikelnummers": [
+  "VFL art. 1.2.1 (bomenlijst, publieke houtopstand)",
+  "VFL art. 4.3.1",
+  "VFL art. 4.3.2",
+  "VFL art. 9.1 lid 1 en 2",
+  "Lijst waardevolle bomen 2014, rubriek 'Status'",
+  "Beleidsnotitie omgang met bomen par. 3.1",
+  "Legesverordening 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1: alleen de bomen op de Bomenlijst zijn beschermd op particulier terrein (art. 4.3.1). Het brede regime van art. 4.3.2 (vanaf 70 cm omtrek) geldt alleen voor 'publieke houtopstand', dus niet voor particuliere tuinbomen. Lijst ingezien: 358 regels zijn als particulier gemarkeerd.",
+  "Brug naar de lijst: VFL art. 1.2.1 definieert 'bomenlijst' als 'de door burgemeester en wethouders vastgestelde lijst met waardevolle bomen'. De enige gevonden lijst is CVDR344239_3 (Lijst waardevolle bomen 2014, vastgesteld op grond van APV 2014); de VFL noemt deze lijst niet bij naam. Aanname dat dit de lijst van art. 4.3.1 is.",
+  "W3: 'Burgemeester en wethouders kunnen de in het eerste lid bedoelde vergunning alleen verlenen als aannemelijk is gemaakt dat:' conditie slecht, zwaarwegend belang of onevenredige overlast (weigeren tenzij).",
+  "H0: 'Burgemeester en wethouders kunnen een herplantplicht opleggen voor waardevolle publieke houtopstand.' (art. 4.3.1 lid 4) geldt niet voor particuliere bomen; beleidsnotitie: 'Voor een waardvolle particuliere boom geldt geen herplantplicht;'. Herplanting wordt wel gevraagd in de aanvraagvereisten (omgevingsplan art. 22.299 lid 2 sub d: 'de mogelijkheid tot herbeplanten of het voornemen ...') maar dat is geen plicht.",
+  "S1: WED-aanwijzing in de regeling (VFL art. 9.1 lid 2 voor art. 4.3.1 lid 1) naast strafbepaling lid 1 (hechtenis tot 3 maanden of geldboete tweede categorie). Geen bestuurlijke boete.",
+  "Beschermde tuinbomen op de voorbeeldbomen: boom A en B zijn alleen beschermd als ze op de lijst staan.",
+  "Kleine afwijking in de bron: leges art. 2.30 noemt 'artikel 4:3.2' in plaats van 4.3.2 (notatie). De legesverordening dekt de lijstbomen (art. 4.3.1) niet; dat is geen onjuiste verwijzing maar een mogelijke leemte.",
+  "Vervallen APV: afdeling 3 'Het bewaren van houtopstanden' staat op '(Vervallen)'; de oude APV-lijstregeling (art. 4:11 APV 2014) is vervangen door de VFL."
+ ],
+ "modelsignalen": [
+  "De Ronde Venen heeft een breed regime voor publieke houtopstand (vanaf 70 cm omtrek, vergunning) en een lijstregime voor particulieren. Het model scoort alleen het particuliere regime (D1), terwijl de lijst met 358 particuliere regels wel groot is; D1 houdt geen rekening met het aantal lijstbomen (besluit v2.3), dus de score zegt weinig over werkelijke dekking."
+ ]
+}

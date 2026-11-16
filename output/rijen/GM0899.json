@@ -1,0 +1,79 @@
+{
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "status": "ok",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "gm_code": "GM0899",
+  "gemeente": "Brunssum",
+  "brondocument": "Bomenverordening gemeente Brunssum (2010), art. 1.1, 1.2, 1.3, 2.1, 3.1; APV Brunssum 2026 art. 4:10 ('Vervallen'), 6:1; Leges Brunssum 2026 art. 2.30; Omgevingsplan art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR53343/1 ; https://lokaleregelgeving.overheid.nl/CVDR760750/1 ; https://lokaleregelgeving.overheid.nl/CVDR696443/3",
+  "datum_geldigheid": "Bomenverordening CVDR53343_1 geldend vanaf 2010-11-25 t/m heden (peildatum 2026-11-14); APV 2026 CVDR760750_1 geldend vanaf 2026-04-23; Omgevingsplan CVDR696443_3 geldend vanaf 2026-11-13",
+  "laatste_wijziging": "Bomenverordening: versie 1 per 2010-11-25, niet gewijzigd. APV 2026: nieuwe vaststelling per 2026-04-23 waarbij art. 4:10 'Vervallen' is.",
+  "juridische_plaats": "Bomenverordening gemeente Brunssum 2010 (zelfstandige gemeentelijke verordening). APV 2026 art. 4:10 'Bescherming bomen' is 'Vervallen'. De legesverordening (CVDR751312_1) art. 2.30 noemt het vellen van een houtopstand 'als bedoeld in de Bomenverordening gemeente Brunssum' een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. De bomenverordening is niet aangepast aan de Omgevingswet (verwijst naar Boswet en Wabo). Omgevingsplan art. 22.299: alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 112 bekendmakingen op titel, waarvan 12 aanvragen 'vergunning voor een omgevingsplanactiviteit boom kappen of houtopstand vellen' (2025 en 2026, o.a. gmb-2026-106638, gmb-2026-520678), 0 besluiten en 0 weigeringen op titel. De overige zijn bouw-'kap' en dergelijke. De grondslag staat niet in de titels. Aanvragen worden gepubliceerd als omgevingsplanactiviteit; dat past bij een breder systeem dan alleen een kleine lijst, maar de grondslag is niet bekend.",
+  "vergunningplicht": "Vergunning van het bevoegd gezag voor het vellen van houtopstanden die eigendom zijn van de gemeente Brunssum of die 'op perceelsniveau zijn aangeduid op de Bomenkaart (Bijlage 1)' (art. 1.2 lid 1).",
+  "drempel": "Geen drempel voor bomen op de Bomenkaart; wel definitie 'boom': 'een houtachtig, overblijvend gewas met een dwarsdoorsnede van de stam van minimaal 20 cm. op 1,3 meter hoogte boven het maaiveld' (art. 1.1 lid 1), dat is een omtrek van ca. 63 cm (20 x 3,14). Dit geldt voor bomen op de kaart en voor gemeentelijke bomen.",
+  "reikwijdte": "Art. 1.2 lid 1: 'houtopstanden ... die eigendom zijn van de gemeente Brunssum of op perceelsniveau zijn aangeduid op de Bomenkaart (Bijlage 1).' Art. 2.1 lid 1: 'nader te bepalen bomen en houtopstanden dan wel binnen de groenstructuur waardevolle gebieden op perceelsniveau'. Alleen bomen en percelen op de kaart, plus gemeentelijke bomen. Toelichting: de kaart 'omvat bomen met een monumentale status, bomen met een beeldbepalende waarde voor het straatbeeld alsmede particuliere percelen die van waarde zijn voor de groenstructuur.'",
+  "uitzonderingen": "Art. 1.2 lid 3: verbod 'niet voor: houtopstanden die moeten worden geveld krachtens de Plantenziektewet of krachtens een aanschrijving of last van burgemeester en wethouders; het periodiek vellen van hakhout ... het periodiek knotten of kandelaberen ... het dunnen van een bosbeplanting als onderhoudsmaatregel.' Art. 1.3: de burgemeester kan ontheffing verlenen 'indien er sprake is van grote gevaarzetting of vergelijkbaar spoedeisend belang'. De toelichting noemt ook de Boswet-uitzonderingen (fruitbomen, hagen, kerstbomen, kweekgoed en dergelijke). Geen uitzondering voor tuinen.",
+  "weigeringsgronden": "Art. 1.2 lid 2: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van: natuur- en milieuwaarden; landschappelijke- en ecologische waarden; de cultuurhistorische waarden; waarden voor stads- en dorpsschoon, waarden voor de leefbaarheid; de beeldbepalende waarde; monumentale waarden.'",
+  "herplantplicht": "Art. 1.2 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorwaarden.' Lid 5: 'Indien een voorschrift als bedoeld in het vierde lid feitelijk niet uitvoerbaar blijkt, kan aan een vergunning een voorschrift worden verbonden dat een door het bevoegd gezag vast te stellen financiële bijdrage in het Bomenfonds wordt gedaan, ten behoeve van een compensatiebeplanting op een andere locatie.' Beide zijn bevoegdheden (kan). Toelichting: 'het beleid uitgaat van ruime compensatie indien beeldbepalende- of monumentale gekapt worden'; dat is geen vastgestelde beleidsregel.",
+  "herplant_ontsnapping": "Geen uitweg nodig: herplant is een bevoegdheid ('kan'). Bij herplant die 'feitelijk niet uitvoerbaar blijkt' kan een financiële bijdrage in het Bomenfonds worden opgelegd (art. 1.2 lid 5, 'kan'). Het bevoegd gezag beslist per geval.",
+  "herplant_niet_nakomen": "Niets specifieks geregeld. De Bomenverordening bevat geen strafbepaling en geen boete. Het handhavingsbeleid (CVDR625770_1) noemt 'Kapvergunning, illegaal kappen van bomen' alleen als handhavingstaak en geeft 'Toezicht kapvergunning, illegaal kappen' risico 'LAAG'. Alleen het algemene instrumentarium (bestuursdwang, dwangsom) blijft.",
+  "sancties": "Geen strafbepaling in de Bomenverordening. APV art. 6:1 lid 1 geldt voor 'het bij of krachtens deze verordening bepaalde' (de APV) en lid 2 (WED) alleen voor de artikelen 2:10 en 2:11, niet voor de Bomenverordening. Kappen zonder vergunning in strijd met de als omgevingsplanactiviteit behandelde regel: WED via Ow 5.1 (INTENT stap 1a); de legesverordening en de aanvragen noemen de kap een omgevingsplanactiviteit. S = 1, min 0 omdat de tekst zelf geen kap-specifieke sanctie noemt en de route via het omgevingsplan niet in de eigen regeling is bevestigd.",
+  "procedure": "Art. 3.1: 'Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is niet van toepassing' (geen vergunning van rechtswege). Art. 1.4: schadevergoeding via art. 17 Boswet door het college. Leges 2026 (CVDR751312_1) art. 2.30: € 60,-- (tweede kolom € 55,--). Beslistermijn niet in de verordening.",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "lijst_telling": "Bomenkaart (Bijlage 1) niet ingezien: in de CVDR-tekst staat alleen de kop 'Bomenkaart'; korte zoekpoging op brunssum.nl leverde de kaart niet op. De toelichting noemt wel 'particuliere percelen die van waarde zijn voor de groenstructuur'.",
+  "ontbrekend": "Bomenkaart (Bijlage 1) niet ingezien; onbekend of en hoeveel particuliere bomen en percelen erop staan (de toelichting noemt particuliere percelen). Omgevingsplan in het DSO niet ingezien. Geen vastgestelde beleidsregel voor herplant of compensatie gevonden; 'Bomenfonds' is niet als regeling gevonden.",
+  "artikelnummers": [
+    "Bomenverordening 2010 art. 1.1, 1.2, 1.3, 1.4, 2.1, 3.1",
+    "APV 2026 art. 4:10 (vervallen), 6:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Handhavingsbeleid Wabo CVDR625770_1 par. 4.2, 5.2"
+  ],
+  "opmerkingen": [
+    "Welke tekst geldt: de APV 2026 (CVDR760750_1) heeft art. 4:10 'Bescherming bomen' op 'Vervallen' staan. De kapregel staat in de Bomenverordening gemeente Brunssum (CVDR53343_1, in werking 2010-11-25, nog geldend volgens CVDR). Die is dus de bron voor W, H en S.",
+    "D1 (min 0): lijstsysteem (kaart op perceelsniveau); de kaart is niet ingezien, dus puntschatting D1 en bereik vanaf D0. Betrouwbaarheid laag. De toelichting zegt dat de kaart 'particuliere percelen' bevat. Het verbod geldt daarnaast voor alle bomen van de gemeente zelf (niet particulier, telt niet voor D).",
+    "W2: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van: natuur- en milieuwaarden ...' (art. 1.2 lid 2).",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorwaarden.' (art. 1.2 lid 4). De storting in het Bomenfonds (lid 5) is alleen een 'kan' en verhoogt H niet (INTENT v2.3). De toelichting meldt boomwaardetaxatie na kap ('de waarde van de boom financieel worden vertaald'), maar legt geen verplichting op.",
+    "Het toelichtingsdeel in de CVDR-tekst zegt dat de gemeente 'ruime compensatie' beoogt bij monumentale of beeldbepalende bomen; dit is toelichting, geen beleidsregel, dus geen invloed op H.",
+    "S1, min 0: de Bomenverordening bevat geen eigen strafbepaling; de WED-route loopt via het omgevingsplan (leges art. 2.30 spreekt van omgevingsplanactiviteit). Het effect op de score is klein (S0: strengheid 15, S1: 17; beide Zeer soepel).",
+    "De aanvragen in de bekendmakingen (12 sinds 2025) noemen de kap een omgevingsplanactiviteit; ik heb geen adressen overgenomen.",
+    "S1 zonder bereik: de legesverordening noemt het vellen een omgevingsplanactiviteit, dus WED via Ow 5.1. (Nabewerking 14-11-2026, besluit gebruiker)"
+  ],
+  "modelsignalen": [
+    "Brunssum: een verordening uit 2010 (voor de Omgevingswet) zonder eigen strafbepaling of WED-aanwijzing; S hangt volledig af van de route via het omgevingsplan. INTENT stap 1a zegt dat WED via Ow telt als de kapregel 'als omgevingsplanregel werkt', maar niet of dat ook voor oude gemeentelijke verordeningen buiten APV/VFL geldt. Ik heb S1 met min 0 gescoord.",
+    "Brunssum: de toelichting noemt de kaart expliciet als bevattend 'particuliere percelen', maar de kaart zelf is niet ingezien; het model kent geen tussenstap tussen 'lijst niet ingezien' (D1, min 0) en 'lijst ingezien'."
+  ]
+}

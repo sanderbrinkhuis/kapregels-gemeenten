@@ -1,0 +1,80 @@
+{
+  "provincie": "Fryslân",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "modelsignalen": [
+    "Lijstsysteem dat via een bijlage met gebiedscategorieen (hele kavels in een woonwijk in het bos) ook particuliere bomen buiten een individuele lijst beschermt: het model kent dan D1 (lijst) of D2 (gebieden), maar de omvang van het gebied bepaalt of D2 terecht is; zonder kaart blijft dat onzeker.",
+    "Beleidsregel (beleidskaders) zegt 'zal ... verleend worden met herplantplicht', terwijl de APV 'kan' zegt; scoring volgt de besluitregel voor tegenstrijdige teksten (H2)."
+  ],
+  "gm_code": "GM0096",
+  "gemeente": "Vlieland",
+  "brondocument": "Algemene Plaatselijke Verordening Vlieland 2011, art. 4:10, 4:11, 6:1 en bijlage 5 (Beschermde bomenlijst); Beleidskaders voor het kappen van bomen en heggen (CVDR697291_1); Verordening bestuurlijke boete overlast in de openbare ruimte gemeente Vlieland 2025 (CVDR732337_1, art. 1 en bijlage 1); Omgevingsplan art. 22.299; Legesverordening 2026 art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR692279/5 ; https://lokaleregelgeving.overheid.nl/CVDR697291/1 ; https://lokaleregelgeving.overheid.nl/CVDR732337/1",
+  "datum_geldigheid": "APV CVDR692279_5 geldend vanaf 2024-01-01 t/m heden; beleidskaders CVDR697291_1 vanaf 2023-06-15; boeteverordening CVDR732337_1 vanaf 2025-01-01; omgevingsplan CVDR696184_3 vanaf 2026-11-04 (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV: versie 5 per 2024-01-01 (laatste versie in het dossier). Bijlage 5 draagt de datering 10 januari 2017; de APV zegt dat de specifieke lijst jaarlijks wordt herzien en op de website wordt gepubliceerd (niet ingezien).",
+  "juridische_plaats": "APV (afdeling 4.3 Het bewaren van houtopstanden); de vergunning heet 'omgevingsvergunning'. Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten 'op grond van een andere gemeentelijke regeling' en de legesverordening kent art. 2.30 (kappen) als 'Gereserveerd'. Route naar de Omgevingswet (WED via Ow 5.1) niet vast te stellen uit de gelezen tekst; S is daarom gescoord op de eigen APV-bepalingen.",
+  "praktijkcontrole": "Sinds 2025: 9 bekendmakingen op titel, waarvan 5 aanvragen, 0 besluiten en 0 weigeringen volgens de titel; geen besluit opgehaald, dus geen grondslag te controleren. Weinig activiteit, in lijn met een beperkt regime.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de bomenlijst staan (art. 4:11 lid 1).",
+  "drempel": "Geen drempel in omtrek of diameter: beschermd zijn de bomen op de lijst en in de aangewezen gebieden van bijlage 5, ongeacht omvang.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen maatdrempel)",
+  "reikwijdte": "Art. 4:11 lid 1: 'houtopstanden ... die staan vermeld op een door het college van burgemeester en wethouders vast te stellen bomenlijst'. Bijlage 5 (gebieden in vier categorieen): 1 alle bomen op gemeentegrond; 2 'Het gedeelte dat ooit is opgezet als \"wonen in het bos\". Hieronder vallen allebomen op de gehele kaveloppervlakte aan de Dennenlaan, Boslaan, Burg. Rablaan, Berkenlaan en Havenweg' en 'de bomen aan de voor- en zijkanten van de woningen op de Lutinelaan, Midscheeps, Sparrenlaan, Gangboord, Bremweg, Duinweg, Helmweg, Rozenbottelweg en Esdoornlaan. Dit geldt voor zowel eigen grond als op Gemeentegrond.'; 3 gemeentelijke bomen op erfscheidingen aan de Middenweg en Nieuwestraat; 4 'Bomen op particuliere gronden met een bijdrage voor het Dorpsgezicht', 'voornamelijk bomen in de tuinen aan de wadzijde van de Dorpsstraat'. Particulier terrein is dus beschermd in categorie 2 (gebied, hele kavel of voor- en zijkanten) en categorie 4 (aangewezen tuinen).",
+  "uitzonderingen": "Art. 4:11 lid 5: geen verbod bij toestemming van de burgemeester 'in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen'. Beleidskaders: bomen die voor een bouw- of aanlegvergunning moeten wijken mogen mee worden gekapt. Geen uitzondering voor tuinen of soorten in de tekst; in de gebieden met 'voor- en zijkanten' valt de achtertuin buiten de bescherming (in de straten met 'gehele kaveloppervlakte' niet).",
+  "weigeringsgronden": "Art. 4:11 lid 2: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ...; f. de waarde voor de leefbaarheid van de houtopstand.' Beleidskaders (CVDR697291_1, par. 3): 'kappen van bomen en heggen is het uiterste en herplant is gewenst'; het belang bij boombehoud van lijstbomen geldt als 'groot'; weigeren of vergunning met herplantplicht volgens een matrix.",
+  "herplantplicht": "APV art. 4:11 lid 3: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Beleidskaders (CVDR697291_1, par. 3): 'Indien een van de criteria - scoort, zal de kapvergunning verleend worden met herplantplicht.' en 'De herplantplicht wordt in de vergunning omschreven.' en 'De verplichting tot opnieuw herplanten bij niet aangeslagen beplanting kan opgelegd worden binnen een termijn van 3 jaar.' Geen financiele compensatie of boomwaarde.",
+  "herplant_ontsnapping": "Geen uitweg in de beleidsregel zelf (bij een vergunning volgt de herplantplicht); de APV-tekst is een bevoegdheid ('kan'). In de andere gevallen wordt de vergunning geweigerd ('In alle andere gevallen wordt de kapvergunning geweigerd'). Het college beslist per geval; bij twijfel in de matrix 'wordt er een advies voorgelegd aan het college'.",
+  "sancties": "Bestuurlijke boete: Verordening bestuurlijke boete overlast (CVDR732337_1) art. 1 lid 1 noemt '4:11 eerste lid'; bijlage 1: 'Art. 4:11, eerste lid ... € 225'. Daarnaast APV art. 6:1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Geen beleid over direct opleggen of boomwaarde gevonden. WED-aanwijzing in de APV niet gevonden.",
+  "procedure": "Omgevingsvergunning; beslistermijn APV art. 1:2 is niet van toepassing op omgevingsvergunningen (lid 3). Leges: legesverordening 2026 (CVDR751083_1) art. 2.30 (kappen) 'Gereserveerd', dus geen tarief. Publicatie: aanvragen en besluiten in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets specifieks geregeld. Beleidskaders: 'De verplichting tot opnieuw herplanten bij niet aangeslagen beplanting kan opgelegd worden binnen een termijn van 3 jaar.' APV art. 6:1 stelt overtreding van 'de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen' strafbaar, maar art. 1:4 lid 3 zegt: 'Dit artikel is niet van toepassing op een omgevingsvergunning.' Dus alleen algemeen instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": 215,
+  "lijst_aantal_particulier": 33,
+  "lijst_telling": "ca. 215 regels (boomvermeldingen, per huisnummer of straat) in de tabel van APV bijlage 5 (versie 2017, in de CVDR-tekst); ca. 33 daarvan in categorie 3 (tuinen aan de Dorpsstraat), dat is het particuliere deel van de lijst. Niet meegeteld: de bomen in de gebieden van categorie 2 (gehele kavels of voor- en zijkanten), want die staan niet individueel op de lijst. De jaarlijks herziene lijst op vlieland.nl is niet ingezien.",
+  "status": "ok",
+  "ontbrekend": "Kaart van het gebied 'Wonen in het bos' (bijlage 5 verwijst naar een kaart) en de actuele jaarlijkse lijst op de gemeentelijke website niet ingezien, dus het aandeel van de gemeente dat onder categorie 2 valt is niet vast te stellen (D 1-2). Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "APV 2011 art. 4:10, 4:11, 6:1, 1:2, 1:4, bijlage 5",
+    "Beleidskaders kappen (CVDR697291_1) par. 3",
+    "Boeteverordening CVDR732337_1 art. 1, bijlage 1",
+    "Omgevingsplan art. 22.299",
+    "Legesverordening 2026 art. 2.30"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): de boeteverordening maakt zelf een bestuurlijke boete voor art. 4:11 lid 1 mogelijk → S2 zonder bereik; of de boete in de praktijk wordt toegepast, telt niet.",
+    "D2: lijstsysteem met aangewezen gebieden. APV bijlage 5 beschermt op particulier terrein de bomen op de gehele kavel in het gebied 'wonen in het bos' (vijf straten) en de bomen aan voor- en zijkanten van de woningen in nog eens negen straten, plus aangewezen tuinen aan de Dorpsstraat (categorie 4). Geen drempel. Min 1 omdat de omvang van het gebied zonder de kaart niet is vast te stellen; max 2. Geen correctie voor voorerf/zijkant: in de vijf straten met 'gehele kaveloppervlakte' geldt de regel ook voor de achtertuin.",
+    "W2: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;' (art. 4:11 lid 2). Het beleid zegt 'kappen van bomen en heggen is het uiterste' en geeft lijstbomen altijd een groot belang bij behoud; max 3.",
+    "H2: APV zegt 'kan een herplantplicht opleggen' (art. 4:11 lid 3), maar de vastgestelde beleidsregel zegt 'zal de kapvergunning verleend worden met herplantplicht' (CVDR697291_1 par. 3). Volgens de besluitregel in INTENT (tegenstrijdige teksten) telt de beleidsregel. Min 1 omdat de formulering ('zal') bij een beleidskader en niet in een regeling met vaste voorschriften staat.",
+    "S2: bestuurlijke boete van EUR 225 voor art. 4:11 lid 1 (boeteverordening CVDR732337_1, bijlage 1). Geen handhavingsbeleid gevonden (geen S3). Min 1: de boeteverordening heet 'overlast in de openbare ruimte' en is gericht op lichte overtredingen; of een kapboete hier in de praktijk wordt toegepast is niet vastgesteld.",
+    "Boom A en B: alleen beschermd als op de lijst of in een aangewezen gebied. Een gewone achtertuinboom buiten de gebieden is niet beschermd; in de straten met 'gehele kaveloppervlakte' wel. Daarom 'alleen als op lijst' voor beide.",
+    "Omgevingsplan: art. 22.299 stelt alleen aanvraagvereisten; de vergunningplicht staat in de APV (art. 4:11). Behandeld als APV met omgevingsvergunning; geen restant-bruidsschat-situatie.",
+    "Kleine afwijking: tekst bijlage 5 bevat 'allebomen' (in de bron zo geschreven).",
+    "Bijlage 2 van de beleidskaders noemt de lijst 'dynamisch': bomen kunnen door een besluit van B&W worden toegevoegd of afgevoerd."
+  ]
+}

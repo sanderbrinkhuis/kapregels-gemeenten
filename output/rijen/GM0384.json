@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0384",
+  "gemeente": "Diemen",
+  "provincie": "Noord-Holland",
+  "brondocument": "Bomenverordening Diemen 2010 (CVDR49139_2) art. 1, 2, 4, 7, 8, 12 en bijlage Beleidsnotitie Bomenverordening Diemen 2010; APV Diemen 2015 (CVDR483831_8) afd. 3 Het bewaren van houtopstanden verwijst naar de Bomenverordening",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR49139/2",
+  "datum_geldigheid": "Bomenverordening: versie 2 geldend vanaf 2024-01-12 t/m heden",
+  "laatste_wijziging": "2024-01-12 (artikel 1, 2, 4, bijlage en toelichting gewijzigd, bekendmaking gmb-2024-21473)",
+  "juridische_plaats": "losse bomenverordening; werkt als omgevingsplanregel: legesverordening 2026 art. 30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. APV 2015 afd. 3 regelt zelf niets: '(Geregeld in de ‘Bomenverordening Diemen 2010’)'. De Bomenverordening geldt dus vandaag, ondanks de naam 2010.",
+  "praktijkcontrole": "53 bekendmakingen sinds 2025: 22 besluiten (allen verleend), 27 aanvragen, 0 weigeringen volgens titel. Veel besluiten gaan over gemeentelijke herinrichting of groen; enkele over bomen in een voortuin of tuin van een woning (o.a. gmb-2025-82498, gmb-2026-468598), wat past bij een breed regime. Grondslag niet in de besluiten genoemd.",
+  "vergunningplicht": "vergunning (omgevingsvergunning vellen houtopstand)",
+  "drempel": "Art. 2 lid 3 sub a: 'een boom met een omtrek van minder dan 63 cm gemeten vanaf 1.30 meter boven het maaiveld' is vrijgesteld, 'met dien verstande dat wanneer de eigenaar of zakelijk gerechtigde van de boom een publiekrechtelijk lichaam is, een omtrek van minder dan 32 cm geldt'. Particulier: vergunning vanaf omtrek 63 cm.",
+  "omtrek_cm": 63,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 2 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag een houtopstand te vellen.' Lid 5: 'Het in het eerste lid gestelde verbod geldt niet voor houtopstanden buiten de bebouwde komgrens, zoals die in het kader van de Boswet is bepaald, tenzij het houtopstanden in tuinen of erven betreft.' Hele grondgebied, particulier en openbaar. Definitie boom: 'dwarsdoorsnede van de stam van minimaal 10 centimeter'.",
+  "uitzonderingen": "Art. 2 lid 2 sub b: 'een houtopstand in een achtertuin van een woning waarvan deze tuin niet groter is dan 100 m2'. Lid 2 sub a: Besluit activiteiten leefomgeving, Plantgezondheidswet of aanschrijving. Lid 3: houtwal, struweel, heg, bosplantsoen of (lint)begroeiing onder een bepaalde omvang, periodiek hakhout, knotten en kandelaberen, dunning tot 30%, klimplant minder dan 5 m, sierplantsoen met niet-inheemse heesters. Lid 6: noodvelvergunning door de burgemeester. Geen soortuitzondering voor fruitbomen of coniferen.",
+  "weigeringsgronden": "Art. 4: 'Een vergunning wordt onder verwijzing naar de “Beleidsnotitie Bomenverordening Diemen 2010”, geweigerd indien het belang van degene die de velvergunning vraagt niet opweegt tegen het belang van' natuur- en milieuwaarden, landschappelijke, cultuurhistorische waarden, stads- en dorpsschoon, recreatie en leefbaarheid, leeftijd, toekomstverwachting en ruimtelijke structuur. Beleidsnotitie: puntensysteem, 50 punten of meer geeft advies tot weigering.",
+  "herplantplicht": "Art. 7 lid 1: 'Het bevoegd gezag kan aan de vergunning ... het voorschrift verbinden dat ... moet worden herplant.' Art. 8 lid 1: bij kap zonder vergunning 'kan aan de overtreder, de verplichting opgelegd worden, te herplanten'. Beleidsnotitie: 'Een herplantplicht wordt opgelegd, indien een houtopstand geveld wordt die: zonder de benodigde vergunningen geveld is; en/of deel uitmaakt van de hoofdbomen- of groenstructuur ... de houtopstand 50 of meer punten scoort.' Geen financiële compensatie of boomwaarde.",
+  "herplant_ontsnapping": "Beleidsnotitie, uitzondering voor het niet opleggen van herplant: 'indien blijkt dat het feitelijk onmogelijk is om houtopstand te herplanten' en 'indien blijkt dat de locatie niet geschikt is dan wel te klein is om houtopstand te kunnen herplanten'. Voor gewone vergunde kap is herplant een bevoegdheid (art. 7 'kan'). Beslist het bevoegd gezag per geval.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "Art. 12: 'Overtreding van de artikelen 8, en 11, derde lid, of de niet-naleving van de aan de verplichting of ontheffing verbonden voorschriften of beperkingen wordt gestraft met een geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via Omgevingswet 5.1 (legesverordening art. 30: vellen is omgevingsplanactiviteit in samenhang met art. 22.8 Ow). Eigen strafbepaling art. 12: 'geldboete van de tweede categorie', maar die noemt alleen art. 8 en 11 lid 3, niet het velverbod art. 2 (verkeerde verwijzing). APV 6:1: 'hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie' voor 'voorgaande artikelen'. Geen bestuurlijke boete voor kappen gevonden. Herplant na kap zonder vergunning volgens beleidsnotitie 'wordt opgelegd'.",
+  "procedure": "Leges 2026 (CVDR751316_1) art. 30 lid 1.1: € 69,35 'voor bomen in privaatrechtelijke eigendom'; € 211,40 voor één tot en met zes bomen in publiekrechtelijk eigendom; € 459,50 voor meer dan zes. Beslistermijn en bezwaar/beroep volgens Awb en Omgevingswet; mandatering volgens beleidsnotitie. Publicatie in het Gemeenteblad (gmb).",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem (herdenkingsbomen staan op een lijst bij het groenbeleidsplan, niet bepalend voor het verbod)",
+  "status": "ok",
+  "ontbrekend": "Niet vastgesteld hoe groot de achtertuin bij de voorbeeldboom A is (de vrijstelling geldt tot 100 m2 achtertuin; bij een perceel van ca. 300 m2 kan de achtertuin groter of kleiner zijn). Omgevingsplan in het DSO niet ingezien. Hoofdbomenstructuur uit groenplan/groenstructuurplan niet ingezien (geen onderdeel van het verbod).",
+  "artikelnummers": [
+    "Bomenverordening 2010 art. 1, 2, 4, 7, 8, 12, 14 en bijlage Beleidsnotitie",
+    "APV 2015 afd. 3 (verwijzing), 6:1",
+    "Legesverordening 2026 art. 30",
+    "Omgevingsplan 22.299 (alleen aanvraagvereisten)",
+    "Groenplan Diemen 6.9.1"
+  ],
+  "opmerkingen": [
+    "Peildatum 2026-11-14. Vastgesteld: de Bomenverordening Diemen 2010, versie 2 (geldend vanaf 2024-01-12), regelt vandaag de kap; de APV 2015 verwijst ernaar en bevat alleen de algemene strafbepaling 6:1. Een oudere Bomenverordening 2009 is ingetrokken (art. 14 lid 2).",
+    "D=2: hele gemeente (en tuinen en erven buiten de kom) met omtrek 63 cm = D3 (omtrek 60-100), min 1 voor de ruime tuinuitzondering: 'een houtopstand in een achtertuin van een woning waarvan deze tuin niet groter is dan 100 m2' (achtertuinen tot 100 m2 vrij, groter wel vergunningplichtig). Bij publiekrechtelijk eigenaar omtrek 32 cm (andere drempel, apart vermeld).",
+    "W=2: 'geweigerd indien het belang ... niet opweegt tegen het belang van' natuur, landschap, cultuurhistorie enz.",
+    "H=1: 'kan'; het beleid maakt herplant alleen verplicht bij kap zonder vergunning, hoofdbomenstructuur of 50 punten of meer (maximum 2). Dat laatste is voor gewone vergunde kap door een particulier de uitzondering.",
+    "S=1: WED via Ow (bewijs: leges art. 30). Foutieve verwijzing: art. 12 Bomenverordening noemt art. 8 en 11 lid 3, niet het velverbod art. 2; art. 12 noemt alleen een geldboete (tweede categorie).",
+    "Bomenverordening verwijst naar de Boswet (ingetrokken) voor de bebouwde komgrens (art. 2 lid 5); definitie van vellen telt 30% van de kroon, dunnen valt er wel onder (art. 1 sub c) maar dunning tot 30% is vrijgesteld (art. 2 lid 3 sub g).",
+    "Voorbeeldbomen: B (omtrek 40 cm) is vrijgesteld (minder dan 63 cm). A (omtrek 80 cm) is vergunningplichtig tenzij de achtertuin niet groter is dan 100 m2; dat hangt van het perceel af.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D2 → D3. Boom A: 'ja', want de achtertuinuitzondering (≤ 100 m²) stelt de voorbeeldtuin niet vrij (geen onderscheid tussen achtertuin, tuin en perceel)."
+  ],
+  "modelsignalen": [
+    "Tuinuitzondering op basis van tuinoppervlak (100 m2) wordt door het model altijd als -1 gerekend, ook al blijft een deel van de tuinen vergunningplichtig; voorbeeldboom A kan daardoor 'onbekend' blijven.",
+    "Een verordening met een jaartal in de titel (2010) die in 2024 is gewijzigd en nog geldt: de titel suggereert verouderd.",
+    "Strafbepaling die het velverbod niet noemt (art. 12) maar wel hulpvoorschriften: S rust op WED via Ow, niet op de regeling zelf."
+  ]
+}

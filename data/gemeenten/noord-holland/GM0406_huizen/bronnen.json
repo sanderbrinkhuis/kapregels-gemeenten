@@ -1,0 +1,31 @@
+{
+  "gemeente": "Huizen",
+  "gm_code": "GM0406",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Huizen",
+  "zoeknaam_bekendmakingen": "Huizen",
+  "opgehaald_op": "2026-11-14T22:02:36+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Huizen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 49,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Huizen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 194,
+  "geldende_regelingen": 15,
+  "geldend_met_kapartikelen": [
+    "CVDR34458_14",
+    "CVDR683183_2",
+    "CVDR696307_2",
+    "CVDR715187_1",
+    "CVDR742905_1",
+    "CVDR743099_1",
+    "CVDR746772_1",
+    "CVDR767467_1",
+    "CVDR768838_2"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

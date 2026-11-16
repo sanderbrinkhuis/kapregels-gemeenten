@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM1681",
+  "gemeente": "Borger-Odoorn",
+  "provincie": "Drenthe",
+  "brondocument": "Bomenverordening gemeente Borger-Odoorn 2004 (CVDR22224_1); beleidsregels CVDR477561_1 (bijlage 2) en CVDR488770_1; leges CVDR752325_2 (art. 2.9.1); Omgevingsplan CVDR696476_2 (art. 22.286)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR22224/1",
+  "datum_geldigheid": "2004-10-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "Geen wijziging: CVDR22224 kent alleen versie 1 (2004-10-01)",
+  "juridische_plaats": "Bomenverordening 2004; werkt als omgevingsplanactiviteit volgens de legesverordening 2026 (art. 2.9.1: 'in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.286 bevat alleen aanvraagvereisten. Geen geldende APV-afdeling over houtopstanden in het dossier gevonden.",
+  "praktijkcontrole": "Bekendmakingen sinds 2025 (titelzoekopdracht): 319 totaal, 145 besluiten, 172 aanvragen, 3 geweigerd volgens titel. Tien besluiten uit de steekproef noemen geen grondslag. Veel kapbesluiten past bij een breed vergunningstelsel.",
+  "vergunningplicht": "Vergunning van burgemeester en wethouders (omgevingsvergunning) voor het vellen van houtopstand.",
+  "drempel": "Boom = dwarsdoorsnede stam van minimaal 15 cm op 1,3 m hoogte (art. 1 lid 1 sub a)",
+  "omtrek_cm": 47,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar (art. 2 lid 1). Buiten de bebouwde kom gelden de uitzonderingen van lid 2.",
+  "uitzonderingen": "Art. 2 lid 3 sub e: houtopstand in tuinen of erven bij woningen met een totale kadastrale oppervlakte tot 500 m2 (incl. bebouwing), niet zichtbaar vanaf de openbare weg en niet op de lijst van monumentale of waardevolle tuin- of erfbomen. Sub f: coniferen in tuinen of erven, niet inheems en kleiner dan 10 are. Buiten de bebouwde kom (lid 2): populieren en wilgen als wegbeplanting of rij langs landbouwgrond, fruitbomen, kerstbomen, kweekgoed, bosbouwondernemingen. Gangbaar (niet meegeteld): Plantenziektenwet of aanschrijving, hakhout, knotten, dunning, spoed (art. 5 lid 3).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 5 lid 1: 'Burgemeester en Wethouders kunnen de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie en leefbaarheid.' Beleidsregel CVDR477561_1: puntenvergelijking bomenbelang tegen verwijderingsbelang; bij een verschil van meer dan 5 punten 'moet de vergunning worden geweigerd'.",
+  "herplantplicht": "Art. 9 lid 1: 'kan behoren het voorschrift dat ... moet worden herplant'; bij waardevolle houtopstand 'wordt, zo vaak mogelijk, een herplantplicht opgelegd'. Beleidsregel CVDR477561_1 bijlage 2: 'Op advies van de Backoffice kan een herplantvoorschrift worden opgelegd. Voor bomen/houtopstand van de hoogste en midden beleidstatus wordt altijd een herplantplicht opgegelegd.' Art. 10 lid 1: na illegale kap 'kunnen Burgemeester en Wethouders ... de verplichting opleggen te herbeplanten'. Boomwaarde alleen in de strafmaat (art. 17 lid 2) en als motivering (art. 5 lid 2), geen verplichte storting.",
+  "herplant_ontsnapping": "Bevoegdheid per geval door het college ('kan'); voor lage beleidsstatus alleen op advies van de Backoffice. Geen betaling in plaats van herplant geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 17 lid 1: 'Degene aan wie een voorschrift als bedoeld in ... artikel 9, eerste of tweede lid, is gegeven, onderscheidenlijk een verplichting als bedoeld in artikel 10 is opgelegd ... is gehouden dienovereenkomstig te handelen.' Lid 2: 'wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling art. 17 lid 2 (hechtenis tot twee maanden of geldboete tweede categorie; 'Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde'). Via de legesverordening werkt de kapregel als omgevingsplanactiviteit, dus WED via Ow 5.1 mogelijk. Geen bestuurlijke boete; VTH-strategie CVDR715860_1 noemt voor kappen alleen de vergunningplicht.",
+  "procedure": "Leges CVDR752325_2 art. 2.9.1: 1 boom EUR 72,00; 2 bomen EUR 123,00; 3 bomen EUR 165,00; 4 bomen EUR 192,00; elke boom extra EUR 29,00; maximum EUR 5.000. Publicatie, bezwaar en beslistermijn: niet apart vastgelegd (volgt Awb/Omgevingswet).",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen bomenlijst als beschermingsgrond; wel een lijst van monumentale of waardevolle tuin- en erfbomen (Landschapsbeheer Drenthe/gemeente) die de tuinuitzondering opheft; niet ingezien.",
+  "status": "ok",
+  "ontbrekend": "Geen geldende APV-afdeling over houtopstanden gevonden in het dossier (niet apart gecontroleerd). Lijst van waardevolle tuin- en erfbomen niet ingezien. Omgevingsplan in het DSO (tijdelijk deel) niet ingezien.",
+  "artikelnummers": [
+    "Bomenverordening 2004 art. 1 lid 1 sub a, art. 2 lid 1-3, art. 5, art. 9, art. 10, art. 17",
+    "Leges CVDR752325_2 art. 2.9.1",
+    "Omgevingsplan CVDR696476_2 art. 22.286",
+    "Beleidsregel CVDR477561_1 bijlage 2"
+  ],
+  "opmerkingen": [
+    "Hele gemeente met drempel 15 cm doorsnede (omgerekend 47 cm omtrek, minder dan 60 cm): D = 4. Trek 1 af in het minimum, omdat de tuinuitzondering (tuin of erf tot 500 m2, niet zichtbaar vanaf de openbare weg) een deel van de tuinbomen uitsluit; die uitzondering is smal (alleen niet zichtbare bomen), daarom puntschatting 4.",
+    "Boom A (80 cm omtrek, ca. 25 cm doorsnede): vergunning nodig, tenzij de achtertuin onderdeel is van een kavel tot 500 m2 en de boom niet zichtbaar is vanaf de openbare weg. Boom B (40 cm omtrek, ca. 12,7 cm doorsnede) is kleiner dan 15 cm en dus geen 'boom' in de zin van art. 1.",
+    "W = 2: 'kunnen de vergunning weigeren ... in het belang van onder meer' natuur-, landschaps- en cultuurhistorische waarden.",
+    "H = 1: 'kan' voor het grootste deel van de bomen; voor bomen met hoogste of middelste beleidsstatus 'altijd een herplantplicht' (beleidsregel), dus maximum 2.",
+    "S = 1: eigen strafbepaling (art. 17 lid 2), geen bestuurlijke boete.",
+    "D: hele gemeente vanaf 15 cm doorsnede (D4), min 1 voor de tuinuitzondering (art. 2 lid 3 sub e: tuinen tot 500 m² die niet zichtbaar zijn vanaf de openbare weg); tuinuitzonderingen tellen ook in combinatie (besluit gebruiker 14-11-2026).",
+    "Boom A 'nee': de voorbeeldtuin ligt op een perceel van ca. 300 m², dus geldt sub e (tot 500 m²), op voorwaarde dat de boom in de achtertuin niet zichtbaar is vanaf de openbare weg. (Nabewerking 14-11-2026, besluit gebruiker)"
+  ],
+  "modelsignalen": [
+    "De bomenverordening uit 2004 verwijst nog naar de Boswet, Wabo en Plantenziektenwet; de regel werkt alleen via de legesrij als omgevingsplanactiviteit. Het dossier bevat geen APV of VFL die de verordening opnieuw vaststelt."
+  ]
+}

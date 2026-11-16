@@ -1,0 +1,25 @@
+{
+  "gemeente": "Wassenaar",
+  "gm_code": "GM0629",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Wassenaar",
+  "zoeknaam_bekendmakingen": "Wassenaar",
+  "opgehaald_op": "2026-11-16T10:35:45+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Wassenaar\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 78,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Wassenaar\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 496,
+  "geldende_regelingen": 18,
+  "geldend_met_kapartikelen": [
+    "CVDR696371_2",
+    "CVDR725819_1",
+    "CVDR751543_1"
+  ],
+  "bekendmakingen_besluiten": 224,
+  "bekendmakingen_aanvragen": 11,
+  "bekendmakingen_geweigerd": 6,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

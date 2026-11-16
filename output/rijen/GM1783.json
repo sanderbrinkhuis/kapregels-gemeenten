@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM1783",
+ "gemeente": "Westland",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Algemene plaatselijke verordening Westland 2019, afdeling 4.3 (art. 4:10, 4:11, 6:1); Legesverordening 2026 art. 2.30; Omgevingsplan gemeente Westland art. 22.289 (alleen aanvraagvereisten)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR631146/4",
+ "datum_geldigheid": "geldend van 2024-10-15 t/m heden (CVDR631146_4; peildatum 2026-11-16)",
+ "laatste_wijziging": "2024-10-15 (versie 4 van de APV Westland 2019)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt het vellen van een houtopstand 'bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.289 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 192 bekendmakingen (184 aanvragen, 8 overig; de zoekmethode telt 0 besluiten onder 'besluit', maar de titels bevatten ca. 74 'Beschikking op aanvraag' over kap en ca. 97 aanvragen over kappen of vellen van bomen). Veel kapbesluiten voor een lijstsysteem: dat kan komen doordat art. 4:11 lid 1 sub b ook alle bomen van de gemeente of een ander publiekrechtelijk lichaam dekt, of door een breder regime in de praktijk. Een grondslag staat niet in de bekendmakingen; ik noem er geen. Open punt.",
+ "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die op de door het college vastgestelde bomenlijst staan of eigendom zijn van de gemeente of een ander publiekrechtelijk lichaam (art. 4:11 lid 1)",
+ "drempel": "Geen stamomtrekdrempel voor lijstbomen (ongeacht omvang). 'boom' in art. 4:10 heeft een omtrek van minimaal 30 cm op 1,3 m, maar dat is alleen de definitie; het verbod geldt niet voor een tuinboom die niet op de lijst staat.",
+ "omtrek_cm": null,
+ "meethoogte": "1,3 m (alleen in de definitie van 'boom')",
+ "reikwijdte": "Alleen bomen op de bomenlijst ('monumentale en andere beschermwaardige bomen', art. 4:11 lid 2) en bomen in eigendom van de gemeente of een ander publiekrechtelijk lichaam (niet particulier). Hele grondgebied. Particuliere bomen op de lijst: niet bevestigd.",
+ "uitzonderingen": "Art. 4:11 lid 4: periodiek vellen van hakhout, periodiek knotten, kandelaberen of snoeien als regulier onderhoud, inboeten. Lid 7: spoedeisend belang of direct gevaar met toestemming van de burgemeester.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 4:11 lid 5: 'kan, als alternatieven voor het behoud uitputtend zijn onderzocht, slechts bij uitzondering worden verleend indien: a. een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde boom; of b. naar boomdeskundige maatstaven instandhouding niet langer verantwoord is ter voorkoming van letsel of schade.' Lid 6: weigering mogelijk op natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde en waarde voor de leefbaarheid.",
+ "herplantplicht": "Art. 4:11 lid 8: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Lid 9: 'kan in de omgevingsvergunning worden opgenomen dat een geldelijke bijdrage dient te worden gestort in het gemeentelijke herplantfonds' als ter plaatse niet kan worden herplant, vastgesteld op de monetaire boomwaarde. Geen beleidsregel gevonden die herplant of storting verplicht maakt.",
+ "herplant_ontsnapping": "'kan': herplant is een bevoegdheid van het bevoegd gezag (art. 4:11 lid 8), geen plicht. Een geldelijke bijdrage in het herplantfonds 'kan' alleen worden opgenomen als ter plaatse niet kan worden herplant (lid 9). Herplant na illegale kap: niet geregeld.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niets specifieks geregeld. Art. 1:4 lid 2 ('verplicht de daaraan verbonden voorschriften en beperkingen na te komen') en lid 3 ('Dit artikel is niet van toepassing op een omgevingsvergunning') sluiten dat uit voor een omgevingsvergunning; alleen het algemene instrumentarium (bestuursdwang of dwangsom) blijft over.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Art. 6:1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Geen bestuurlijke boete. WED via Omgevingswet art. 5.1 (omgevingsplanactiviteit, leges 2.30). Geen herplant- of compensatieplicht na illegale kap in de tekst.",
+ "procedure": "Leges 2026 art. 2.30: EUR 148,00 plus EUR 23,55 per te kappen boom, maximum EUR 1.090,00. Beslistermijn omgevingsvergunning volgens de Omgevingswet (APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning). Bezwaar en beroep volgens de Awb; publicatie niet in de APV geregeld.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "bomenlijst niet ingezien: niet in het dossier en niet gevonden op de gemeentelijke website (twee pogingen met curl, geen resultaat); geen aantal in beleid of besluit; de APV zegt alleen 'monumentale en andere beschermwaardige bomen'",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst (art. 4:11 lid 2) niet ingezien; onbekend of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien. Geen herplant- of handhavingsbeleid gevonden. Omgevingsvisie Westland 2.0 (CVDR749646_1) niet gelezen.",
+ "artikelnummers": [
+  "APV 2019 art. 1:4, 1:8, 4:10, 4:11, 6:1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.289"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem. Art. 4:11 lid 1 sub a: 'staan vermeld op een door het college vastgestelde bomenlijst'; sub b dekt alleen bomen van de gemeente of een ander publiekrechtelijk lichaam en telt niet voor D. Lijst niet ingezien en niet bevestigd dat er particuliere bomen op staan, dus minimum 0.",
+  "W3: art. 4:11 lid 5 'kan ... slechts bij uitzondering worden verleend indien' (gesloten verleningsgronden, weigeren-tenzij). Lid 6 geeft daarnaast weigeringsgronden op natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden.",
+  "H1: art. 4:11 lid 8 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Lid 9 (storting herplantfonds) is ook 'kan' en verhoogt H niet. De Notitie uitgangspunten bomen in relatie tot zonnepanelen (CVDR331284_1) gaat over zonnepanelen, niet over herplant.",
+  "S1: WED via Omgevingswet art. 5.1 (leges 2.30 noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow). Daarnaast de algemene strafbepaling APV art. 6:1.",
+  "Boom A en B: een tuinboom is alleen vergunningplichtig als hij op de bomenlijst staat.",
+  "Gemeentebomen: art. 4:11 lid 1 sub b dekt alle bomen in eigendom van de gemeente of een ander publiekrechtelijk lichaam; dat is geen particulier terrein.",
+  "Omgevingsplan art. 22.289 bevat alleen aanvraagvereisten; de materiële kapregel staat in de APV."
+ ],
+ "modelsignalen": [
+  "Veel kapbesluiten (ca. 74 beschikkingen sinds 2025) bij een lijstsysteem met alleen lijstbomen en bomen van publiekrechtelijke lichamen; de bekendmakingen noemen geen grondslag. Het model kan niet vaststellen of dit gemeentebomen, lijstbomen of een breder regime betreft."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "gemeente": "Reimerswaal",
+  "gm_code": "GM0703",
+  "provincie": "Zeeland",
+  "zoeknaam_cvdr": "Reimerswaal",
+  "zoeknaam_bekendmakingen": "Reimerswaal",
+  "opgehaald_op": "2026-11-14T13:00:33+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Reimerswaal\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 30,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Reimerswaal\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 112,
+  "geldende_regelingen": 8,
+  "geldend_met_kapartikelen": [
+    "CVDR444528_1",
+    "CVDR696381_2",
+    "CVDR697456_1",
+    "CVDR748125_1",
+    "CVDR748635_1",
+    "CVDR756006_1"
+  ],
+  "bekendmakingen_besluiten": 54,
+  "bekendmakingen_aanvragen": 58,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

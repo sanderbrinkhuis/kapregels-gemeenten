@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0243/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Harderwijk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0243/2020/omgevingsplan/nld@2024-10-10;14325709",
+    "beginGeldigheid": "2024-11-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0243/2024/Regelingc0d87dafa5f0474986543add09de25ac",
+    "titel": "Omgevingsvisie gemeente Harderwijk 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0243/2024/Regelingc0d87dafa5f0474986543add09de25ac/nld@2024-12-13;12091921",
+    "beginGeldigheid": "2024-12-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2024_Regelingc0d87dafa5f0474986543add09de25ac?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0243/2025/Regeling5d3caae845b8488dbe26bcd7371a1005",
+    "titel": "Omgevingsprogramma bouw en infrastructuur, onderdeel parkeren",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0243/2025/Regeling5d3caae845b8488dbe26bcd7371a1005/nld@2025-02-20;11351018",
+    "beginGeldigheid": "2025-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2025_Regeling5d3caae845b8488dbe26bcd7371a1005?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0243/2026/Regelingecf8c336ac634dc787e76a12eed678f9",
+    "titel": "Omgevingsprogramma bouw en infrastructuur gemeente Harderwijk",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0243/2026/Regelingecf8c336ac634dc787e76a12eed678f9/nld@2026-02-17;16314774",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2026_Regelingecf8c336ac634dc787e76a12eed678f9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0243/2026/Regeling5399a0b4e8bb4569abf1111b086c3119",
+    "titel": "Gebiedsprogramma Hierden dorp",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0243/2026/Regeling5399a0b4e8bb4569abf1111b086c3119/nld@2026-08-10;11201853",
+    "beginGeldigheid": "2026-08-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2026_Regeling5399a0b4e8bb4569abf1111b086c3119?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0243/2026/Regeling922f5f646c6e4407ba5c3e2adedda15f",
+    "titel": "Omgevingsprogramma mens en maatschappij gemeente Harderwijk",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0243/2026/Regeling922f5f646c6e4407ba5c3e2adedda15f/nld@2026-08-18;07265514",
+    "beginGeldigheid": "2026-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2026_Regeling922f5f646c6e4407ba5c3e2adedda15f?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0243/2026/Regelingfc97da527ebb4777b1fb440003c948d4",
+    "titel": "Omgevingsprogramma natuurlijk systeem gemeente Harderwijk",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0243/2026/Regelingfc97da527ebb4777b1fb440003c948d4/nld@2026-08-18;07310029",
+    "beginGeldigheid": "2026-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0243_2026_Regelingfc97da527ebb4777b1fb440003c948d4?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:03Z"
+  }
+]

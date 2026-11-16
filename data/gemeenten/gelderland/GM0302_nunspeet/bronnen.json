@@ -1,0 +1,28 @@
+{
+  "gemeente": "Nunspeet",
+  "gm_code": "GM0302",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Nunspeet",
+  "zoeknaam_bekendmakingen": "Nunspeet",
+  "opgehaald_op": "2026-11-15T14:09:54+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Nunspeet\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 49,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Nunspeet\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 124,
+  "geldende_regelingen": 21,
+  "geldend_met_kapartikelen": [
+    "CVDR397458_1",
+    "CVDR696268_2",
+    "CVDR721905_1",
+    "CVDR752573_2",
+    "CVDR767485_1",
+    "CVDR768497_1"
+  ],
+  "bekendmakingen_besluiten": 58,
+  "bekendmakingen_aanvragen": 61,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

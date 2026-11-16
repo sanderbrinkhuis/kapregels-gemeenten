@@ -1,0 +1,28 @@
+{
+  "gemeente": "Zandvoort",
+  "gm_code": "GM0473",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Zandvoort",
+  "zoeknaam_bekendmakingen": "Zandvoort",
+  "opgehaald_op": "2026-11-14T22:02:40+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Zandvoort\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 97,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Zandvoort\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 97,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR164685_1",
+    "CVDR604001_18",
+    "CVDR641777_1",
+    "CVDR696326_5",
+    "CVDR748469_1",
+    "CVDR751892_1"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 49,
+  "bekendmakingen_geweigerd": 3,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1963/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hoeksche Waard",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1963/2020/omgevingsplan/nld@2024-06-18;08180877",
+    "beginGeldigheid": "2024-06-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1963_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1963/2025/Regelinge95ea75b98b84da89a990f7452e4b378",
+    "titel": "Programma Volkshuisvesting Hoeksche Waard",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1963/2025/Regelinge95ea75b98b84da89a990f7452e4b378/nld@2026-01-20;14102375",
+    "beginGeldigheid": "2026-01-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1963_2025_Regelinge95ea75b98b84da89a990f7452e4b378?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1963/2026/Regelingee07d13e09794ee683cfbfc1f465a419",
+    "titel": "Uitvoeringsprogramma Mobiliteitsplan Hoeksche Waard",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1963/2026/Regelingee07d13e09794ee683cfbfc1f465a419/nld@2026-01-21;10541268",
+    "beginGeldigheid": "2026-01-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1963_2026_Regelingee07d13e09794ee683cfbfc1f465a419?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1963/2026/Regeling4e024983eb714ae996a28c0cd97fa6cb",
+    "titel": "Voorbeschermingsregels energieopslag en reken- en datacentra",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1963/2026/Regeling4e024983eb714ae996a28c0cd97fa6cb/nld@2026-07-23;12342068",
+    "beginGeldigheid": "2026-07-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1963_2026_Regeling4e024983eb714ae996a28c0cd97fa6cb?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1963/2026/Regeling24450ce9acca4a45b668718368ed44d6",
+    "titel": "Programma Kostenverhaal en Financiële bijdragen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1963/2026/Regeling24450ce9acca4a45b668718368ed44d6/nld@2026-09-15;08003485",
+    "beginGeldigheid": "2026-10-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1963_2026_Regeling24450ce9acca4a45b668718368ed44d6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1963/2026/Regeling8b872346ebc64c04abeb5f50b4ee341a",
+    "titel": "Voorbeschermingsregels kleinschalige bedrijfs- en opslagunits",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1963/2026/Regeling8b872346ebc64c04abeb5f50b4ee341a/nld@2026-10-15;12511345",
+    "beginGeldigheid": "2026-10-21",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1963_2026_Regeling8b872346ebc64c04abeb5f50b4ee341a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:22Z"
+  }
+]

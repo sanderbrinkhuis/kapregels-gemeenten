@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1655/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Halderberge",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1655/2020/omgevingsplan/nld@2026-08-19;88842162400d49f6aebb62e26ddf3c1d",
+    "beginGeldigheid": "2026-10-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1655_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:46Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1655/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Halderberge",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1655/2020/omgevingsvisie/nld@2026-09-15;878e04a4071648ab8860cb687e18045a",
+    "beginGeldigheid": "2026-10-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1655_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:16:46Z"
+  }
+]

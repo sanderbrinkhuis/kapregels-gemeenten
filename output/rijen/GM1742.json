@@ -1,0 +1,85 @@
+{
+  "provincie": "Overijssel",
+  "gm_code": "GM1742",
+  "gemeente": "Rijssen-Holten",
+  "brondocument": "Omgevingsplan gemeente Rijssen-Holten, hoofdstuk 9 afd. 9.2 (art. 9.1, 9.3, 9.4, 9.6, 9.12, 9.13, 9.16, 9.17, 9.19, 9.20) en toelichting; Verordening op de heffing en de invordering van leges 2026 art. 2.30; APV 2025 art. 4:10-4:12 (vervallen) en 6:1",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696501/7 ; https://lokaleregelgeving.overheid.nl/CVDR753851/1 ; https://lokaleregelgeving.overheid.nl/CVDR739781/1",
+  "datum_geldigheid": "Omgevingsplan CVDR696501_7 geldend vanaf 2026-05-22 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "Omgevingsplan versie 7 per 2026-05-22 (eerdere versies 1-6 vervallen). De Kapverordening Rijssen-Holten 2024 (CVDR733963_1) is vervallen per 2025-06-26; de Kapverordening 2017 per 2024-05-23.",
+  "juridische_plaats": "omgevingsplan (permanent deel, hoofdstuk 9). De toelichting zegt dat art. 9.12 en 9.13 de voormalige Kapverordening overnemen. Leges art. 2.30 noemt het vellen een omgevingsplanactiviteit.",
+  "praktijkcontrole": "Sinds 2025 is er maar 1 bekendmaking gevonden (zoekmethode titel): een kennisgeving ontvangst aanvraag (gmb-2026-354783, 2026-07-29) voor het kappen van één boom in Holten, met de vermelding 'omgevingsvergunning (omgevingsplan)'; 0 besluiten en 0 weigeringen. De zoekmethode is waarschijnlijk te smal (andere titels met 'omgevingsvergunning' zonder kapwoord zijn gemist); de praktijkcontrole is dus nauwelijks bruikbaar. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 14 bekendmakingen sinds 1-1-2025, waarvan 1 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning, omgevingsplanactiviteit). Binnen de bebouwingscontour houtkap alleen voor 'waardevolle bomen' (aangewezen locaties); buiten die contour voor bomen op erven en in tuinen en voor kleine houtopstanden.",
+  "drempel": "Geen omtrek- of diameterdrempel in art. 9.12 en 9.13. Binnen de contour: alleen aangewezen waardevolle bomen, ongeacht omvang. Buiten de contour: elke boom op een erf of in een tuin.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen drempel); aanvraagvereiste: diameter op 1,30 m (art. 9.19)",
+  "reikwijdte": "Twee delen. (1) Binnen de bebouwingscontour houtkap (art. 9.1): art. 9.12 lid 1 'Het is verboden zonder omgevingsvergunning binnen de bebouwingscontour houtkap waardevolle bomen te kappen.' De locaties staan 'in het plan' (art. 9.4); kaart niet ingezien. (2) Buiten de contour (art. 9.3): art. 9.13 lid 1 'Het is verboden om zonder omgevingsvergunning buiten de bebouwingscontour houtkap een boom te kappen.' Lid 2: alleen voor 'houtopstanden op erven of in tuinen', biomassabeplantingen onder voorwaarden en houtopstanden 'die een kleinere oppervlakte grond beslaan dan 10 a, of bestaan uit een rijbeplanting die 20 of minder bomen omvat'. Toelichting: buiten de contour is de provincie voor een groot deel bevoegd, daarom is het toepassingsbereik beperkt.",
+  "uitzonderingen": "Art. 9.13 lid 3 (buiten de contour): Plantgezondheidswet, aanschrijving door het college, kerstbomen jonger dan 20 jaar, niet-geknotte populieren/wilgen als wegbeplanting of eenrijige beplanting langs landbouwgrond, vruchtbomen en windschermen om boomgaarden, kweekgoed, bomen die voor de instandhouding van andere bomen worden gekapt (allemaal gangbaar). Geen tuin-, perceel- of soortuitzondering voor tuinbomen. Binnen de contour is alles behalve de aangewezen waardevolle bomen vrij.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Waardevolle bomen binnen de bebouwingscontour houtkap (art. 9.4: 'In het plan zijn locaties aangewezen als waardevolle bomen'): kaart/locaties in het DSO niet ingezien, aantal onbekend. Het brede regime buiten de contour bepaalt D; de kaart is daarvoor niet nodig.",
+  "weigeringsgronden": "Binnen de contour, art. 9.16: 'De beoordeling voor het verlenen van een omgevingsvergunning voor het kappen van waardevolle bomen binnen de bebouwingscontour houtkap wordt gemaakt op basis van;' o.a. 'het behoud van stedelijk groen als beeldvormend element', ecologische waarde, biodiversiteit, hittestress, 'het behoud van een duurzaam en veilig bomenbestand'. Buiten de contour, art. 9.17: 'Bij de belangenafweging voor het verlenen van een omgevingsvergunning voor het kappen van een boom buiten de bebouwingscontour houtkap worden de oogmerken van artikel 9.6 a, b, c, e, f, g, h en j betrokken.'",
+  "herplantplicht": "Art. 9.20: 'Het college van burgemeester en wethouders kan bij het verlenen van de omgevingsvergunning of zelfstandig: a. een herplantplicht opleggen met voorwaarden of; b. een geldigheidsduur van de te verlenen omgevingsvergunning bepalen.' Geen financiële compensatie of boomwaarde gevonden.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het college beslist per geval, 'bij het verlenen van de omgevingsvergunning of zelfstandig'. Geen betalen in plaats van planten. Herplant na illegale kap: niet geregeld (art. 9.14 lid 2 over herstel geldt alleen voor beschermde landschapselementen).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets specifieks geregeld in hoofdstuk 9. De APV 2025 art. 6:1 lid 1 straft 'overtredingen van het bij of krachtens de artikelen van deze verordening bepaalde', maar de afdeling over houtopstanden is daar vervallen ('Artikel 4:10-4:12 (vervallen)'), en art. 1:4 lid 3 zegt 'Dit artikel is niet van toepassing op een omgevingsvergunning'. Alleen het algemene instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via de Omgevingswet: art. 9.12 en 9.13 zijn omgevingsplanregels (omgevingsvergunning voor een omgevingsplanactiviteit, Ow art. 5.1 lid 1 aanhef en onder a); leges art. 2.30 noemt het vellen een omgevingsplanactiviteit, met een verouderde verwijzing naar de 'Kapverordening gemeente Rijssen-Holten 2017' (vervallen 2024-05-23). APV art. 6:1 lid 2 wijst voor de WED alleen 2:10 en 2:11 aan. Geen eigen strafbepaling, geen bestuurlijke boete voor kappen gevonden.",
+  "procedure": "Leges € 134,00 (Legesverordening 2026 art. 2.30, CVDR753851_1). Art. 9.12 lid 2 en 9.13 lid 4: een week voor aanvang wordt het college schriftelijk geïnformeerd. Bezwaar en beroep volgens de Awb (niet apart geregeld). Beslistermijn volgens de Omgevingswet (APV 1:2 lid 3: niet van toepassing op een omgevingsvergunning).",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "status": "ok",
+  "ontbrekend": "Slechts 1 bekendmaking gevonden (praktijkcontrole nauwelijks bruikbaar). Kaart van de bebouwingscontour houtkap en van de waardevolle bomen (DSO) niet ingezien, dus onbekend hoeveel van de gemeente buiten de contour valt en hoeveel particuliere waardevolle bomen er zijn. 'Visie op groen (2023)' (onderdeel van de Omgevingsvisie, CVDR726629_2) is grondslag van de oogmerken maar niet gedownload en niet gelezen; mogelijk staat daar herplantbeleid in (H gescoord zonder). De gemeentelijke website niet geraadpleegd.",
+  "artikelnummers": [
+    "Omgevingsplan art. 9.1",
+    "Omgevingsplan art. 9.3",
+    "Omgevingsplan art. 9.4",
+    "Omgevingsplan art. 9.6",
+    "Omgevingsplan art. 9.12",
+    "Omgevingsplan art. 9.13",
+    "Omgevingsplan art. 9.16",
+    "Omgevingsplan art. 9.17",
+    "Omgevingsplan art. 9.19",
+    "Omgevingsplan art. 9.20",
+    "Leges 2026 art. 2.30",
+    "APV 2025 art. 4:10-4:12 (vervallen), 6:1"
+  ],
+  "opmerkingen": [
+    "D4 (2-4): twee delen. Binnen de bebouwingscontour houtkap alleen aangewezen waardevolle bomen (D1). Buiten de contour is elke boom op een erf of in een tuin vergunningplichtig zonder drempel en zonder tuin- of perceeluitzondering (art. 9.13 lid 1 en lid 2 onder a): D4 voor dat deel. Volgens het besluit 'verschillende regels binnen en buiten de bebouwde kom' telt het hoogste deel (vergelijk Hellendoorn). De regel geldt niet alleen buiten tuinen en erven, dus de begrenzing tot D2 voor 'alleen buiten kom én buiten tuinen en erven' is niet van toepassing. De regel 'D per deel, neem het hoogste' blijft gelden, ook als de tuinboom in de kernen vrij is; daarom geen bereik. (Besluit gebruiker, 14-11-2026, na Overijssel.)",
+    "W2 (doorslaggevend, art. 9.17 en 9.16): 'Bij de belangenafweging voor het verlenen van een omgevingsvergunning voor het kappen van een boom buiten de bebouwingscontour houtkap worden de oogmerken van artikel 9.6 a, b, c, e, f, g, h en j betrokken.' Oogmerken zijn landschaps-, beeld-, ecologische en leefbaarheidswaarden.",
+    "H1 (art. 9.20): 'kan ... een herplantplicht opleggen met voorwaarden'.",
+    "S1 zonder bereik: omgevingsplanregel, dus WED via Ow 5.1; geen bestuurlijke boete.",
+    "Boom A (80 cm omtrek) en boom B (40 cm) in een achtertuin binnen de bebouwde kom: binnen de bebouwingscontour houtkap beschermt art. 9.12 alleen aangewezen waardevolle bomen; zonder kaart niet vast te stellen of dit er een is, daarom 'alleen als op lijst'. Buiten de contour (rurale erven en tuinen) zou een vergunning nodig zijn. De bebouwingscontour houtkap is niet gelijk aan de bebouwde kom van art. 1:1 APV; de kaart is niet ingezien.",
+    "Het dossier bevat slechts 1 bekendmaking; dit is in de opdracht vooraf gemeld. Het aantal kapbesluiten is daardoor niet bruikbaar als indicatie.",
+    "Art. 9.13 lid 3 bevat 'bomen of beplanting die voor de instandhouding van andere bomen worden gekapt' en de gangbare uitzonderingen; toelichting: buiten de contour is de provincie voor een groot deel bevoegd (Bal), daarom is het bereik van art. 9.13 beperkt."
+  ],
+  "modelsignalen": [
+    "De bebouwingscontour houtkap is niet gelijk aan de bebouwde kom, en binnen die contour geldt alleen een lijst (waardevolle bomen) terwijl het brede regime juist daarbuiten (erven en tuinen in het buitengebied) geldt. Het model laat D hierdoor oplopen tot D4 terwijl een gewone tuinboom in de dorpskernen vrij is. De regel 'hoogste deel telt' geeft hier een sterk afwijkende uitkomst; de dekking van het deel buiten de contour (aandeel van de gemeente en van de bevolking) wordt niet meegewogen.",
+    "Een deel dat onder de Bal-bevoegdheid van de provincie valt (buiten de contour) beperkt de gemeentelijke regel tot erven, tuinen en kleine houtopstanden: het model heeft geen manier om dat zichtbaar te maken."
+  ]
+}

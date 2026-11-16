@@ -1,0 +1,30 @@
+{
+  "gemeente": "Gooise Meren",
+  "gm_code": "GM1942",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Gooise Meren",
+  "zoeknaam_bekendmakingen": "Gooise Meren",
+  "opgehaald_op": "2026-11-16T14:06:34+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Gooise Meren\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 59,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Gooise Meren\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 1207,
+  "geldende_regelingen": 21,
+  "geldend_met_kapartikelen": [
+    "CVDR696529_3",
+    "CVDR718989_1",
+    "CVDR727913_1",
+    "CVDR749240_1",
+    "CVDR752711_1",
+    "CVDR753488_1",
+    "CVDR753496_1",
+    "CVDR758893_1"
+  ],
+  "bekendmakingen_besluiten": 1101,
+  "bekendmakingen_aanvragen": 3,
+  "bekendmakingen_geweigerd": 62,
+  "bekendmakingen_steekproef_met_grondslag": 3
+}

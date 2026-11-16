@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0327",
+  "gemeente": "Leusden",
+  "provincie": "Utrecht",
+  "brondocument": "Bomenverordening 2024 (CVDR713836_1), beleidsdocument Bomenplan 2012-2021 module D (CVDR654264_1), Verordening op de heffing en de invordering van leges 2026 (CVDR750201_2) tarief 2.30, Omgevingsplan gemeente Leusden (CVDR696275_3) art. 22.299, APV Leusden 2025 (CVDR744800_1, afdeling 4.3 vervallen)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR713836/1",
+  "datum_geldigheid": "Bomenverordening 2024: 2024-01-17 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2024-01-17 (eerste versie, nieuwe regeling CVDR713836_1; APV-afdeling 4.3 vervallen per APV 2025, in werking 2025-10-04)",
+  "juridische_plaats": "Losse bomenverordening; de legesverordening 2026 (tarief 2.30) noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet', dus de regel werkt als omgevingsplanregel. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten (geen eigen vergunningplicht).",
+  "praktijkcontrole": "10 bekendmakingen sinds 2025 (4 besluiten, 4 aanvragen volgens titel, 0 weigeringen volgens titel; zoekmethode titel); 4 besluiten ingezien (gmb-2026-478852, gmb-2026-468979, gmb-2026-457031, gmb-2026-479015), geen grondslag genoemd. Titels gaan over bomen in gemeentelijk beheer of op diverse locaties; Bomenplan module D noemt vroeger 200 tot 215 kapaanvragen per jaar onder het oude, brede stelsel. Past bij een lijst- en kaartstelsel; niet vast te stellen of de bomen particulier zijn.",
+  "vergunningplicht": "Ontheffing (omgevingsvergunning) van het bevoegd gezag voor het vellen van 'beschermde houtopstand' (art. 3 lid 1 en 2). Alleen bomen op de Groene Kaart.",
+  "drempel": "Geen stamdrempel voor beschermde houtopstand (alleen bomen op de Groene Kaart). Definitie 'boom': dwarsdoorsnede van minimaal 10 cm op 1,3 m (art. 1 sub a); die minimale doorsnede geldt niet voor art. 8, 9, 11, 12 en 13.",
+  "omtrek_cm": null,
+  "meethoogte": "1,3 m (alleen in de definitie van 'boom')",
+  "reikwijdte": "Alleen 'beschermde houtopstand: een houtopstand die is vastgelegd op de Groene Kaart' (art. 1 sub g). Art. 2 lid 1: Groene Kaart met a. bomenstructuren; b. bospercelen op de Liniedijk; c. bomen uit het landelijk Register van Monumentale Bomen; d. lokale monumentale en waardevolle bomen. Bomenplan module D 4.1: 'Op de lijst kunnen bomen in particulier of gemeentelijk eigendom staan.' en 'Alleen bomen die formeel zijn aangewezen en op een vastgestelde Groene Kaart zijn opgenomen, zijn beschermd.' Bomenstructuren zijn gemeentelijk ('bomenstructuren ( gemeentelijk)'). Hele gemeente, geen onderscheid binnen of buiten de bebouwde kom.",
+  "uitzonderingen": "Art. 3 lid 4: niet voor vellen krachtens de Plantenziektenwet of aanschrijving, periodiek vellen van hakhout, knotten of kandelaberen, dunnen, snoeien met achterstallig onderhoud (gangbare uitzonderingen, tellen niet). Art. 3 lid 5: noodkap bij direct gevaar. Geen tuinuitzondering; D = 1 geeft geen correctie.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien (Groene Kaart en register niet gevonden; enkele requests naar leusden.nl gaven niets; DSO-sleutel nog niet beschikbaar)",
+  "weigeringsgronden": "Art. 4 lid a: 'Het bevoegd gezag kan de ontheffing om te vellen weigeren dan wel onder voorschriften verlenen.' Lid b: 'Een ontheffing voor het vellen van een beschermde houtopstand kan, mits alternatieven voor behoud uitputtend zijn onderzocht, slechts bij uitzondering worden verleend:' (veiligheid; zwaarwegend algemeen maatschappelijk belang bij monumentale boom; algemeen maatschappelijk belang bij waardevolle boom; maatschappelijk belang of duurzaam individueel belang bij bomenstructuur of bosperceel Liniedijk). Bomenplan module D: 'ontheffing = kappen is verboden, tenzij sprake is van een zwaarwegend maatschappelijk belang, of een onveilige situatie (‘nee-tenzij’-principe).'",
+  "herplantplicht": "Art. 8 lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 2: 'Indien niet ter plaatse kan worden herplant, kan tot de aan een omgevingsvergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort dient te worden in de gemeentelijke voorziening ‘Groot onderhoud groen’.' Bomenplan module D 4.3 (beleid bij de verordening): 'In principe wordt aan elke ontheffing een herplantverplichting gekoppeld.' en bij technisch onmogelijke herplant 'wordt een financiële compensatie vereist van 500 euro per boom.' Na illegale kap (art. 9 lid 1): 'kan het bevoegd gezag ... de verplichting opleggen te herplanten'; lid 2: 'Indien niet ter plaatse kan worden herplant wordt een financiële bijdrage gestort in'.",
+  "herplant_ontsnapping": "Verordening: bevoegdheid ('kan behoren'), per geval door het bevoegd gezag; betalen in plaats van herplanten is mogelijk ('kan' bij vergunning, 'wordt' na illegale kap, art. 9 lid 2). Beleid (Bomenplan module D): 'In principe', en 'Alleen als het technisch niet mogelijk is om een boom terug te planten wordt van dit principe afgeweken.'",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 9 lid 6: 'Degene aan wie de verplichting als bedoeld in het eerste tot het vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 14 lid 2 (strafbepaling) noemt art. 12 lid 2 en art. 13, niet art. 3, 8 of 9. Regio Utrecht Bijlage P (CVDR749084_1): 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen' (dwangsom, algemeen instrumentarium).",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "WED via de Omgevingswet (art. 5.1 lid 1 onder a Ow, omgevingsplanactiviteit): de legesverordening 2026 noemt het vellen 'een omgevingsplanactiviteit ... bestaande uit het vellen van een houtopstand, bedoeld in de Bomenverordening in samenhang met artikel 22.8 van de Omgevingswet'. Bomenverordening art. 14 heeft geen strafbepaling voor het kapverbod van art. 3 en geen WED-aanwijzing; APV art. 6:1 lid 2 noemt alleen nog 4:11 lid 2 (vervallen). Geen bestuurlijke boete. S = 1 zonder bereik (besluit 14-11-2026).",
+  "procedure": "Aanvraag schriftelijk en gemotiveerd (art. 5); leges omgevingsplanactiviteit vellen € 19,30 (tarief 2.30, legesverordening 2026); ontheffing vervalt na een jaar (art. 7); beslistermijn, publicatie en bezwaar: niet vastgelegd in de verordening (algemene Awb-regels). Noodkap: art. 3 lid 5.",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "onzeker",
+  "ontbrekend": "Groene Kaart met register (monumentale en waardevolle bomen, bomenstructuren, bospercelen Liniedijk) niet gevonden; niet vast te stellen of en hoeveel particuliere bomen erop staan. Omgevingsplan in het DSO niet ingezien (DSO-sleutel aangevraagd, nog niet beschikbaar); de tekst van het omgevingsplan in het dossier bevat alleen art. 22.299 (aanvraagvereisten).",
+  "artikelnummers": [
+    "Bomenverordening 2024 art. 1, 2, 3, 4, 5, 7, 8, 9, 14, 16",
+    "Bomenplan module D (CVDR654264_1) par. 4.1 t/m 4.3",
+    "Legesverordening 2026 (CVDR750201_2) tarief 2.30",
+    "Omgevingsplan (CVDR696275_3) art. 22.299",
+    "APV 2025 (CVDR744800_1) art. 4:10 t/m 4:12 vervallen, art. 6:1",
+    "Beleidsregel Uitvoerings- en handhavingsstrategie Regio Utrecht (CVDR749084_1) Bijlage P"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): Bomenplan module D (2013) hoort bij de ingetrokken bomenverordening en telt niet; H volgt de Bomenverordening 2024 ('kan behoren') → H1 zonder bereik.",
+    "W3: art. 4 lid b 'slechts bij uitzondering worden verleend'; Bomenplan module D noemt het 'nee-tenzij'-principe.",
+    "H1 (puntschatting): de verordening zegt 'kan'. Bomenplan module D is een beleidsdocument van het college uit 2011-2013 (bij de oude verordening) en noemt 'In principe' herplant en een compensatie van 500 euro; per INTENT telt een 'uitgangspunt' in een nota niet als vast voorschrift. Maximum H3 als dit toch als beleidsregel telt. Modelsignaal.",
+    "Compensatie bij grote ruimtelijke ontwikkelingen door derden (Bomenplan module D 4.3) en herplant na illegale kap verhogen H niet; herplant na illegale kap telt bij S (hier 'kan', niet verplicht).",
+    "S1 via leges (omgevingsplanactiviteit); de Bomenverordening zelf heeft geen strafbepaling voor art. 3 (art. 14 noemt art. 12 lid 2 en 13).",
+    "Peildatum 2026-11-14. Omgevingsplan: restant bruidsschat-achtige aanvraagvereisten (art. 22.299), de kapregel zelf staat in de Bomenverordening.",
+    "Bomenplan module D 2: onder de oude verordening gold meldplicht 10-20 cm en vergunningplicht >20 cm; die verordening is per 2024-01-17 ingetrokken (art. 16 lid 2).",
+    "Boom A en B (particuliere achtertuin): alleen een vergunningplicht als de boom op de Groene Kaart staat; de kaart is niet ingezien."
+  ],
+  "modelsignalen": [
+    "Een beleidsdocument uit 2013 bij een ingetrokken verordening zegt 'In principe' herplant en 500 euro compensatie; INTENT is niet eenduidig of dit een 'beleidsregel die herplant tot vast voorschrift maakt' is (H2/H3) of een 'uitgangspunt' (H1)."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "gemeente": "Baarn",
+  "gm_code": "GM0308",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Baarn",
+  "zoeknaam_bekendmakingen": "Baarn",
+  "opgehaald_op": "2026-11-14T18:22:20+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Baarn\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 70,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Baarn\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 259,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR417814_1",
+    "CVDR654058_1",
+    "CVDR696265_4",
+    "CVDR753052_1",
+    "CVDR757721_1",
+    "CVDR758788_1",
+    "CVDR759795_1",
+    "CVDR761989_1"
+  ],
+  "bekendmakingen_besluiten": 103,
+  "bekendmakingen_aanvragen": 154,
+  "bekendmakingen_geweigerd": 11,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

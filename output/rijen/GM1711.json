@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM1711",
+ "gemeente": "Echt-Susteren",
+ "provincie": "Limburg",
+ "brondocument": "Algemene Plaatselijke Verordening Echt-Susteren 2022, afdeling 4.3 Het bewaren van houtopstanden (art. 4:10-4:12a)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR679839/3",
+ "datum_geldigheid": "CVDR679839_3: geldend van 2026-01-01 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2026-01-01 (APV versie 3; deze wijziging betrof o.a. art. 1:6, 2:1, 2:12 e.a.)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening CVDR751182_1 art. 2.30 spreekt van 'omgevingsplanactiviteit ... bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan (CVDR696489_3) bevat alleen art. 22.299 (aanvraagvereisten).",
+ "praktijkcontrole": "Sinds 2025 48 bekendmakingen met kapterm in de titel (4 besluiten, 22 aanvragen, 1 weigering volgens titel). Veel titels noemen 'vergunning' of 'toestemming' voor het kappen van bomen langs wegen, in kernen en op bedrijfsterrein; enkele noemen 'vergunningsvrij kappen'. Dit past niet eenduidig bij een puur lijstsysteem (kan ook gemeentelijke bomen of lijstbomen betreffen); grondslag staat in de steekproef (4 besluiten) niet vermeld.",
+ "vergunningplicht": "vergunning (omgevingsvergunning) alleen voor bomen op de Bomenlijst of Bomenstructuurkaart en voor bomen geplant op grond van een herplantplicht",
+ "drempel": "Geen omtrekdrempel; alleen aangewezen bomen (art. 4:11 lid 2).",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Alleen houtopstanden 'die staan vermeld op de in het eerste lid genoemde Bomenlijst of de Bomenstructuurkaart' (art. 4:11 lid 2 onder a) en 'houtopstanden ... die geplant zijn in het kader van de herplantplicht' (lid 2 onder b). Of daarop particuliere bomen staan, is niet vast te stellen: lijst en kaart zijn niet gevonden.",
+ "uitzonderingen": "Art. 4:11 lid 4: dode of niet levensvatbare houtopstand; snoeien dat noodzakelijk is voor instandhouding; knotten of kandelaberen van reeds geknotte of gekandelaberde bomen; Plantgezondheidswet of bevel op grond van Gemeentewet 172 lid 2 of Wvr 4 lid 2. Lid 5: toestemming burgemeester bij spoedeisend belang of direct gevaar.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+ "herplantplicht": "Art. 4:12a: 'Voor een houtopstand op de Bomenlijst of de Bomenstructuurkaart die gekapt wordt of onherstelbaar beschadigd, geldt een herplantplicht of financiële compensatie als genoemd in het Bomenbeleid van de gemeente.' Het Bomenbeleid is niet gevonden en niet gelezen.",
+ "herplant_type": "harde plicht",
+ "herplant_betalen_als_alternatief": "onbekend",
+ "herplant_ontsnapping": "Geen uitweg in de verordeningstekst ('geldt een herplantplicht'); wel 'of financiële compensatie als genoemd in het Bomenbeleid'. Inhoud en voorwaarden staan in het Bomenbeleid, dat niet is gelezen: onbekend wie beslist en of betalen een keuze of verplichting is.",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening en op grond van artikel 1:4 daarbij gegeven voorschriften, voorwaarden en beperkingen wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Of art. 4:12a daaronder valt, is niet vastgesteld (WED-aanwijzing in lid 2 noemt alleen art. 4:11 lid 2).",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, 2:12 eerste lid, en 4:11 tweede lid'. Daarnaast algemene strafbepaling art. 6:1 lid 1. Omdat de regel als omgevingsplanactiviteit werkt, geldt ook WED via Ow 5.1. Geen bestuurlijke boete voor kap gevonden.",
+ "procedure": "Leges EUR 54,50 voor het vellen van een houtopstand (art. 2.30, CVDR751182_1). Beslistermijn APV art. 1:2 (acht weken) is niet van toepassing op een omgevingsvergunning; wettelijke termijn geldt. Vergunning vervalt een jaar na onherroepelijk worden (art. 4:11 lid 6). Bezwaar en beroep volgens de Awb.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: Bomenlijst en Bomenstructuurkaart zijn niet in de CVDR-bronnen gevonden en de gemeentelijke website was niet bereikbaar (HTTP 403).",
+ "status": "onzeker",
+ "ontbrekend": "Bomenlijst en Bomenstructuurkaart (art. 4:11 lid 1) niet gevonden: niet vast te stellen of er particuliere bomen op staan (D onzeker, 0-1). Het Bomenbeleid waarnaar art. 4:12a verwijst (herplant of financiële compensatie) is niet gevonden en niet gelezen (H onzeker, 2-3). Gemeentelijke website gaf HTTP 403. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV art. 4:10",
+  "APV art. 4:11 lid 1-7",
+  "APV art. 4:12a",
+  "APV art. 6:1 lid 1 en 2",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "Lijstsysteem: 'Het college stelt een Bomenlijst en een Bomenstructuurkaart vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld' (art. 4:11 lid 1). Puntschatting D1 met bereik vanaf D0 volgens INTENT.md.",
+  "W2: 'kan worden geweigerd op grond van' zes waarden (art. 4:11 lid 3).",
+  "H2 (min 2, max 3): 'geldt een herplantplicht of financiële compensatie als genoemd in het Bomenbeleid'. Het Bomenbeleid is niet gelezen; of de compensatie verplicht is (H3) is onbekend.",
+  "S1: WED-aanwijzing in art. 6:1 lid 2. Herplant bij kap of onherstelbare beschadiging van lijstbomen (art. 4:12a) geldt ook na illegale kap; dat is zo gelezen maar niet apart bevestigd.",
+  "Praktijkcontrole: de titels spreken van 'vergunning' en 'toestemming' voor kap in kernen en langs wegen (o.a. 36 bomen, 14 bomen, 28 bomen in een kern). Dat kan duiden op een breder regime of op lijst-/structuurbomen; niet vast te stellen zonder de lijst.",
+  "Bestanden uit de APV (externe bijlagen exb-2022-44866, -44868, -44869, exb-2026-10203) zijn PDF's; alleen formulieren, niet als bomenlijst herkend."
+ ],
+ "modelsignalen": [
+  "Art. 4:12a: 'geldt een herplantplicht of financiële compensatie als genoemd in het Bomenbeleid': harde plicht met verwijzing naar een beleidsstuk dat ontbreekt. INTENT.md zegt niet hoe H te scoren als de beleidsregel waarnaar de verordening verwijst niet beschikbaar is (hier H2 met max 3)."
+ ]
+}

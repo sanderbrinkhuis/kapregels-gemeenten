@@ -1,0 +1,27 @@
+{
+  "gemeente": "Amstelveen",
+  "gm_code": "GM0362",
+  "provincie": "Noord-Holland",
+  "zoeknaam_cvdr": "Amstelveen",
+  "zoeknaam_bekendmakingen": "Amstelveen",
+  "opgehaald_op": "2026-11-14T22:02:28+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Amstelveen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 83,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Amstelveen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 41,
+  "geldende_regelingen": 22,
+  "geldend_met_kapartikelen": [
+    "CVDR416039_10",
+    "CVDR696289_5",
+    "CVDR735108_1",
+    "CVDR751012_2",
+    "CVDR759674_1"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 37,
+  "bekendmakingen_geweigerd": 2,
+  "bekendmakingen_steekproef_met_grondslag": 1
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1992/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Voorne aan Zee",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1992/2020/omgevingsplan/nld@9",
+    "beginGeldigheid": "2024-03-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1992_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1992/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente voorne aan zee",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1992/2025/omgevingsvisie/nld@13",
+    "beginGeldigheid": "2025-07-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1992_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1992/2026/10_8",
+    "titel": "Voorbeschermingsregels Omgevingsplan gemeente Voorne aan Zee biomassacentrales",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm1992/2026/10_8/nld@17",
+    "beginGeldigheid": "2026-02-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1992_2026_10_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:53Z"
+  }
+]

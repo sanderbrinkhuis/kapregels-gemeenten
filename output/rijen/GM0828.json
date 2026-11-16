@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM0828",
+  "gemeente": "Oss",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene plaatselijke verordening Oss 2025 (CVDR744979_2) afd. 4.3 art. 4:10A t/m 4:10J, 6:1, 1:8; Verordening op de heffing en invordering van leges Oss 2026 (CVDR750053_2) art. 2.30; Omgevingsplan gemeente Oss (CVDR696418_8) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR744979/2",
+  "datum_geldigheid": "APV Oss 2025 (CVDR744979_2) geldend vanaf 2026-01-08 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 2 per 2026-01-08. Leges 2026: versie 2 per 2026-10-01. Omgevingsplan: versie 8 per 2026-10-16.",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (verwijst naar 'artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet' en 'artikel 22.8 van de Omgevingswet'). Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 1 bekendmaking op titel, geen kapbesluiten of weigeringen (zoekmethode alleen op titel, dus waarschijnlijk onvolledig). Geen indicatie voor een breder regime dan de lijst. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 33 bekendmakingen sinds 1-1-2025, waarvan 10 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning of ontheffing voor het vellen van houtopstanden op de Lijst Bijzondere Bomen (art. 4:10C). Daarnaast vergunning voor gemeentelijke bomen (houtwal/houtsingel, stamdiameter > 40 cm) en voor bomen die zijn aangeplant op grond van een herplant- en instandhoudingsplicht (art. 4:10E). Voor gewone particuliere bomen geen vergunningplicht.",
+  "drempel": "Geen drempel: alleen bomen op de Lijst Bijzondere Bomen (LBB), ongeacht omvang. (Art. 4:10E lid 1 onder b: stamdiameter > 40 cm op 1,30 m, maar alleen voor bomen die eigendom zijn van de gemeente Oss.)",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem); art. 4:10E lid 1 onder b voor gemeentebomen: 1,30 m",
+  "reikwijdte": "Art. 4:10A lid 1 onder a: 'bijzondere bomen: bijzondere beschermingswaardige individuele houtopstanden die staan op de Lijst Bijzondere Bomen (LBB).' Art. 4:10C lid 1: 'Het is verboden de houtopstanden te vellen of te doen vellen die staan vermeld op de Lijst Bijzondere Bomen.' Art. 4:10E lid 1: kapverbod voor houtopstanden die 'a. eigendom zijn van de gemeente Oss en onderdeel zijn van een houtwal of houtsingel; b. eigendom zijn van de gemeente Oss en ... een stamdiameter van meer dan 40 cm hebben; c. zijn aangelegd op basis van een herplant- en instandhoudingsplicht'. Alleen onder c kunnen particuliere bomen vallen (alleen herplantbomen, geen substantieel deel).",
+  "uitzonderingen": "Art. 4:10C lid 3: verbod niet voor plantgezondheidswet of aanschrijving, periodiek hakhout, scheren/knotten/kandelaberen, achterstallig snoeiwerk en dunning; lid 5 spoedeisend belang of direct gevaar (burgemeester). Gangbare uitzonderingen, tellen niet.",
+  "weigeringsgronden": "Art. 4:10D lid 2: 'De ontheffing voor het vellen van Bijzondere Boom kan, mits alternatieven voor behoud uitputtend zijn onderzocht, slechts bij uitzondering worden verleend indien:' a. zwaarwegend algemeen maatschappelijk belang of zeer zwaarwegend individueel belang, b. instandhouding naar boomdeskundige maatstaven niet langer verantwoord (letsel of schade). Gesloten gronden en 'slechts bij uitzondering': W3. (Voor art. 4:10E-bomen, art. 4:10F: kan worden geweigerd op natuur-, landschaps-, beeld-, cultuurhistorische en leefbaarheidswaarden; telt niet mee want niet de bomen die D bepalen.)",
+  "herplantplicht": "Art. 4:10I lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Art. 4:10J lid 1: bij kap zonder ontheffing of vergunning 'kan het bevoegd gezag ... de verplichting opleggen te herplanten volgens aanwijzingen'. Geen financiële compensatie of boomwaarde als verplichting; boomwaarde alleen als definitie (art. 4:10A lid 1 onder i). Geen beleidsregel voor herplant gevonden (CVDR658262_1 betreft het uitsterfbeleid bij windturbines; bijlage niet in het dossier).",
+  "herplant_ontsnapping": "Bevoegdheid ('kan'): het bevoegd gezag beslist per geval. Geen betaling als alternatief. Herplant na illegale kap: 'kan' (art. 4:10J lid 1).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:10I lid 4: 'Degene aan wie de verplichting als bedoeld in het eerste tot het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' (ook art. 4:10J lid 4). Overtreding is strafbaar via art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... kan worden gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Geen bestuurlijke boete.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit (art. 5.1 lid 1 onder a Ow), dus S = 1 (WED art. 1a onder 2). De WED-aanwijzing in APV art. 6:1 lid 2 geldt alleen voor art. 2:10, 2:11 en 2:12 (niet voor kap). Daarnaast eigen strafbepaling art. 6:1 lid 1 (hechtenis max. 3 maanden of geldboete tweede categorie). Geen bestuurlijke boete voor kappen en geen handhavingsbeleid voor kap gevonden.",
+  "procedure": "Aanvraag omgevingsvergunning of ontheffing (art. 4:10G); leges art. 2.30 lid 2: EUR 53,10 voor LBB-bomen (lid 1: EUR 211,35 voor art. 4:10E); beslistermijn APV art. 1:2 (8 weken, niet voor omgevingsvergunning); vergunning vervalt na een jaar (art. 4:10H). Bezwaar en beroep volgens Awb (niet apart nagegaan).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst Bijzondere Bomen (LBB) niet ingezien en niet gevonden in dossier of CVDR; poging via oss.nl leverde niets op. Aantal onbekend. Art. 4:10B lid 2 schrijft voor dat de lijst 'de eigenaar en/of zakelijk gerechtigde' vermeldt, maar dat bewijst niet dat er particuliere bomen op staan.",
+  "status": "ok",
+  "ontbrekend": "Lijst Bijzondere Bomen (art. 4:10B) niet ingezien: onbekend of er particuliere bomen op staan en hoeveel. Het besluit tot vaststelling van de lijst is niet gevonden. De bijlage van beleidsregel CVDR658262_1 (uitsterfbeleid windturbines) staat niet in het dossier; die gaat naar verwachting niet over particuliere bomen.",
+  "artikelnummers": [
+    "APV Oss 2025 art. 4:10A",
+    "APV art. 4:10B",
+    "APV art. 4:10C",
+    "APV art. 4:10D",
+    "APV art. 4:10E",
+    "APV art. 4:10F",
+    "APV art. 4:10G",
+    "APV art. 4:10I",
+    "APV art. 4:10J",
+    "APV art. 6:1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "W3: 'De ontheffing voor het vellen van Bijzondere Boom kan, mits alternatieven voor behoud uitputtend zijn onderzocht, slechts bij uitzondering worden verleend indien:' (APV art. 4:10D lid 2, tekst/CVDR744979_2.md).",
+    "H1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' (APV art. 4:10I lid 1).",
+    "S1: leges art. 2.30 lid 2 noemt 'een omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand' (CVDR750053_2). De leges verwijzen naar 'artikel 4:10 C van de Algemene plaatselijke verordening Oss 2019' en 'artikel 4:10 E van de Algemene plaatselijke verordening Oss 2019': dat is de vervallen APV 2019, de nummering is gelijk in de APV Oss 2025. Foute of verouderde verwijzing, genoteerd.",
+    "D: alleen individueel aangewezen bomen (LBB). Puntschatting D = 1, bereik vanaf 0 omdat de lijst niet is ingezien. Art. 4:10E beschermt alleen bomen van de gemeente zelf en herplantbomen; daarmee geen breed regime voor particuliere bomen.",
+    "Art. 4:10J lid 1: herplant na illegale kap alleen 'kan', dus H wordt hierdoor niet verhoogd en S niet verhoogd (bevoegdheid, geen plicht; S is al 1 via WED).",
+    "De APV Oss 2025 is gewijzigd per 2026-01-08; oudere APV's (2019 e.d.) zijn vervallen."
+  ],
+  "modelsignalen": [
+    "Leges verwijzen naar een vervallen APV (2019) terwijl de APV 2025 geldt; het model vraagt alleen noteren van foute verwijzing, geen scoreverschil.",
+    "Een lijstsysteem naast een kapverbod voor alleen gemeentebomen (art. 4:10E): het model kent geen duidelijke regel voor 'gemeentebomen met drempel' naast een particuliere lijst; behandeld als D1 (lijst)."
+  ]
+}

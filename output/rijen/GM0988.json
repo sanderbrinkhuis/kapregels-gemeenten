@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0988",
+  "gemeente": "Weert",
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: het Bomenregister staat in een kaartviewer (geo.ecgeo.nl, via weert.nl/kadernota-groen-en-bomenbeleid) die niet is doorzocht. De gemeentelijke webpagina bevestigt wel particuliere bomen ('Heb je een monumentale of waardevolle boom in je tuin?'), maar geeft geen aantallen",
+  "brondocument": "Algemene Plaatselijke Verordening gemeente Weert (CVDR379525_17) afd. 4.3 art. 4:10-4:12, 1:2, 1:4, 1:8, 6:1; Omgevingsplan gemeente Weert (CVDR696458_3) art. 3.3, 6.20, 6.28, 6.18, 6.27, 22.299; Legesverordening Weert 2026 (CVDR751628_1) art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR379525/17 ; https://lokaleregelgeving.overheid.nl/CVDR696458/3 ; https://lokaleregelgeving.overheid.nl/CVDR751628/1",
+  "datum_geldigheid": "APV CVDR379525_17 geldend vanaf 2026-01-01 t/m heden; Omgevingsplan CVDR696458_3 geldend vanaf 2025-12-20 t/m heden (peildatum scoren 2026-11-14)",
+  "laatste_wijziging": "APV: versie 17 per 2026-01-01. Omgevingsplan: versie 3 per 2025-12-20.",
+  "juridische_plaats": "APV (afd. 4.3 Het bewaren van houtopstanden, werkt als omgevingsplanactiviteit volgens leges art. 2.30) naast het omgevingsplan (art. 6.20 waardevolle boom; art. 6.18 landschapswaarde). Twee regimes voor deels dezelfde bomen.",
+  "praktijkcontrole": "Sinds 2025: 291 bekendmakingen op titel (4 besluiten, 150 aanvragen), 0 weigeringen volgens de titel. De 4 opgehaalde besluiten zijn ingetrokken aanvragen (o.a. gmb-2026-408740, gmb-2026-497248, gmb-2025-383282, gmb-2025-16321); geen grondslag genoemd. Het grote aantal aanvragen (150) is hoog voor een pure lijstregeling; mogelijk wijst dit op een bredere vergunning- of meldpraktijk, maar dat blijkt niet uit de tekst. De gemeentewebsite zegt: 'Voor het kappen van bomen of andere houtopstanden geldt een meldingsplicht' en 'Als een boom in het bomenregister staat vermeld, is het wel nodig een omgevingsvergunning aan te vragen.'",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van een houtopstand die in het plaatselijk bomenregister staat (APV art. 4:11b lid 1) en voor het verwijderen van een waardevolle boom op de aangewezen locatie (omgevingsplan art. 6.20). Daarnaast een melding voor elke houtopstand (APV 4:11a) zonder verbodsmogelijkheid: aan de melder wordt 'meegedeeld of wel of geen omgevingsvergunning voor het vellen ...' nodig is.",
+  "drempel": "Geen omvangsdrempel voor lijstbomen. ('boom' = dwarsdoorsnede minimaal 10 cm op 1,30 m, art. 4:10 onder a.)",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (lijstsysteem; definitie boom 1,30 m)",
+  "reikwijdte": "APV 4:11b lid 1: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag een houtopstand, welke voorkomt in het plaatselijk bomenregister, te vellen of te doen vellen.' Omgevingsplan 6.20: 'Het is verboden zonder omgevingsvergunning een waardevolle boom te verwijderen.' Art. 6.18: 'Het is verboden zonder omgevingsvergunning groen met landschapswaarde te verwijderen' (aangewezen gebied 'landschapswaarde', omvang niet vastgesteld, kaart niet ingezien). Gemeentelijke website: beschermingsgebieden 'een deel van de wijk Rond de Kazerne ('het Bungalowpark') en het stadscentrum met het stadspark' (kleine gebiedsregel, telt niet).",
+  "uitzonderingen": "APV 4:11b lid 2: 'a. houtopstand, die moet worden geveld krachtens de Plantenziektenwet of krachtens een aanschrijving of last van het college; b. het periodiek vellen van hakhout ...; c. het periodiek knotten ...' (gangbaar). APV 4:11d lid 3: burgemeester kan 'toestemming geven tot direct vellen' bij 'grote gevaarzetting'.",
+  "weigeringsgronden": "APV 4:11d lid 1: 'kan het bevoegd gezag de omgevingsvergunning ... weigeren dan wel (onder voorschriften) verlenen in het belang van onder meer: - natuur- en milieuwaarden; - landschappelijke waarden; - cultuurhistorische waarden; - waarden van stads- en dorpsschoon; - waarden voor recreatie en leefbaarheid.' Omgevingsplan 6.28 lid 1: 'De omgevingsvergunning ... wordt verleend als aan alle onderstaande regels wordt voldaan: a. het kappen van de waardevolle boom naar het oordeel van het college ... noodzakelijk is uit het oogpunt van veiligheid; b. ... vanwege ziekte van de boom; of c. sprake is van een groot openbaar belang waarvoor het kappen van de waardevolle boom nodig is.'",
+  "herplantplicht": "Omgevingsplan 6.28 lid 2: 'Een omgevingsvergunning, bedoeld in artikel 6.20 wordt alleen verleend als: a. wordt voorzien in herplant ter plaatse; of b. wordt voorzien compensatie van de waardevolle boom volgens een door het college van burgemeester en wethouders goedgekeurd beplantingsplan.' APV 4:11d1 lid 1 (alleen na kap zonder vergunning): 'kan het bevoegd gezag aan de rechthebbende op een houtopstand een herplantplicht opleggen ...; de rechthebbende op de houtopstand is verplicht daaraan te voldoen.' De APV kent bij vergunning geen herplantbepaling.",
+  "herplant_ontsnapping": "Omgevingsplan 6.28 lid 2: herplant 'ter plaatse; of' compensatie 'volgens een door het college ... goedgekeurd beplantingsplan' (keuze; geen betaling vereist). APV 4:11d1: 'kan' (na illegale kap).",
+  "sancties": "APV art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Kappen zonder vergunning werkt als omgevingsplanactiviteit (leges art. 2.30), dus WED via Ow 5.1; art. 6:1 lid 2 WED-aanwijzing noemt art. 4:11b niet. Herplant na illegale kap: APV 4:11d1. Geen bestuurlijke boete.",
+  "procedure": "Leges 2026 (CVDR751628_1) art. 2.30: EUR 67,00 resp. EUR 69,00 (twee kolommen in de tarieventabel). APV art. 1:2 lid 1 beslistermijn acht weken, verdagen ten hoogste acht weken; websitepagina noemt 8 weken en bezwaartermijn van 6 weken. Aanvraagvereisten omgevingsplan art. 22.299. Meldingsplicht APV 4:11a: binnen twee weken mededeling of vergunning nodig is.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV 4:11d1 lid 1: 'de rechthebbende op de houtopstand is verplicht daaraan te voldoen'. APV 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 0,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Bomenregister (kaartviewer) niet ingezien: aantallen en omvang van de gebieden 'landschapswaarde' en 'waardevolle boom' niet vastgesteld; het register bevat volgens de website ook particuliere bomen.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11a, 4:11b, 4:11d, 4:11d1, 4:12, 1:2, 1:4, 1:8, 6:1",
+    "Omgevingsplan art. 3.3, 3.4, 6.18, 6.20, 6.27, 6.28, 22.299",
+    "Legesverordening 2026 art. 2.30"
+  ],
+  "opmerkingen": [
+    "D1 (min 0, max 2): lijstsysteem (APV: bomenregister; omgevingsplan: locatie 'waardevolle boom'); lijst niet ingezien, dus puntschatting D1 en bereik vanaf D0. Max 2: de locatie 'landschapswaarde' (omgevingsplan art. 3.4 en 6.18) is een aangewezen gebied waarvan de omvang niet is vastgesteld; telt het een substantieel deel van de gemeente, dan D2. Particuliere bomen op de lijst: de gemeentewebsite noemt 'monumentale of waardevolle boom in je tuin'; bomenregister bevat volgens APV 4:12 lid 2 'de eigenaar en/of zakelijk gerechtigde'.",
+    "Twee regimes voor de lijstbomen: APV 4:11b (bomenregister) en omgevingsplan 6.20 (waardevolle boom). Er is niet vastgesteld welke bomen onder welk regime vallen.",
+    "W3 (min 2): omgevingsplan 6.28 lid 1: 'wordt verleend als aan alle onderstaande regels wordt voldaan: ... noodzakelijk is uit het oogpunt van veiligheid; ... vanwege ziekte van de boom; of ... een groot openbaar belang' = weigeren tenzij. APV 4:11d lid 1 'kan ... weigeren ... in het belang van onder meer: - natuur- en milieuwaarden' = W2. Puntschatting W3 omdat het omgevingsplan het specifiekere en jongste kader voor waardevolle bomen is (particuliere monumentale/waardevolle bomen); min 2 als de APV leidend is.",
+    "H2 (min 0, max 2): omgevingsplan 6.28 lid 2 'wordt alleen verleend als: a. wordt voorzien in herplant ter plaatse; of b. ... compensatie ... volgens een door het college ... goedgekeurd beplantingsplan' = standaard herplant of compensatie (H2); geen verplichte storting (H niet 3). De APV kent geen herplantplicht bij vergunning; als de APV leidend is H0. Herplant na kap zonder vergunning (APV 4:11d1, 'kan') telt niet voor H.",
+    "S1: eigen strafbepaling APV 6:1 lid 1 (hechtenis of geldboete tweede categorie), herplantplicht na illegale kap (4:11d1) en WED via Ow 5.1. Geen bestuurlijke boete.",
+    "Meldingsplicht APV 4:11a: 'moet dat voornemen schriftelijk melden aan het college'; de gemeente deelt binnen twee weken mee of een vergunning nodig is. Dit is geen verbodsmogelijkheid voor niet-geregistreerde bomen; telt niet voor D. Boom A en B: 'alleen als op lijst' (beide moeten wel gemeld worden).",
+    "Groen met landschapswaarde (art. 6.18/6.27: herplant ter plaatse of compensatie) is een aangewezen gebied; omvang niet vastgesteld, kaart (GIO) niet ingezien.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 6.27 (beoordelingsregel landschapswaarde, bij art. 6.18) en 6.28 (beoordelingsregel waardevolle boom, bij art. 6.20) zijn al in de rij verwerkt (W3, herplant ter plaatse of compensatie); art. 22.297 en 22.299 zijn alleen aanvraagvereisten. Geen aanvullende kapregel; D1 W3 H2 S1 ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Twee naast elkaar werkende lijstregimes (APV-bomenregister en omgevingsplan-locatie 'waardevolle boom') met verschillende toetsing (W2 versus W3) en herplant (H0 versus H2) voor dezelfde bomen: INTENT zegt 'het regime voor het grootste deel van de gedekte bomen', maar dat is zonder inzage in de lijst niet vast te stellen. Gekozen: omgevingsplan als puntschatting, APV als minimum.",
+    "Meldingsplicht voor elke houtopstand zonder verbod voor niet-geregistreerde bomen (APV 4:11a): de brief geeft hiervoor 'melden' bij 'melding waarbij de gemeente de kap kan verbieden'; hier is geen verbod mogelijk, dus voorbeeldboom 'alleen als op lijst'. Het model onderscheidt een louter administratieve melding niet in de voorbeeldboomwaarden.",
+    "Herplantvoorwaarde in de omgevingsplanregel ('alleen verleend als herplant ter plaatse of compensatie volgens beplantingsplan') is geen 'wordt' of 'kan' en kent een keuze tussen herplant en niet-financiële compensatie: past tussen H1 en H3; hier H2."
+  ]
+}

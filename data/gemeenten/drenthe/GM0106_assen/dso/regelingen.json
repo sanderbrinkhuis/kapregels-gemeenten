@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0106/2025/Regeling464be21ac79e4734bb3b935d3dc4082a",
+    "titel": "Programma Water en riolering 2026-2031",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0106/2025/Regeling464be21ac79e4734bb3b935d3dc4082a/nld@2025-12-15;13071354",
+    "beginGeldigheid": "2026-01-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0106_2025_Regeling464be21ac79e4734bb3b935d3dc4082a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:49Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0106/2025/Regeling65a3a433acc144dfb05d4bba0df4ff05",
+    "titel": "Omgevingsvisie gemeente Assen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0106/2025/Regeling65a3a433acc144dfb05d4bba0df4ff05/nld@2026-02-25;11030458",
+    "beginGeldigheid": "2026-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0106_2025_Regeling65a3a433acc144dfb05d4bba0df4ff05?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:49Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0106/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Assen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0106/2020/omgevingsplan/nld@2025-10-28;13494458",
+    "beginGeldigheid": "2025-10-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0106_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:49Z"
+  }
+]

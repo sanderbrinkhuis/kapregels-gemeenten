@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm0175",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Ommen",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm0175/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm0175?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:51Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0175/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Ommen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0175/2020/omgevingsplan/nld@2026-01-21;24f29877e8ef416380b06ee6b926162a",
+    "beginGeldigheid": "2026-01-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0175_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:51Z"
+  }
+]

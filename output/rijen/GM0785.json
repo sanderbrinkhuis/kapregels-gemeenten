@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0785",
+  "gemeente": "Goirle",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene plaatselijke verordening gemeente Goirle 2024 (CVDR711513_1) afdeling 4.3 art. 4:10, 4:11, 4:12a en art. 6:1; Leges 2026 art. 2.30 (CVDR753092_2); Omgevingsplan art. 22.299 (CVDR696403_3); Uitvoering- en Handhavingsstrategie 2025-2028 (CVDR735638_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR711513/1 ; https://lokaleregelgeving.overheid.nl/CVDR753092/2 ; https://lokaleregelgeving.overheid.nl/CVDR696403/3 ; https://lokaleregelgeving.overheid.nl/CVDR735638/1",
+  "datum_geldigheid": "APV 2024 CVDR711513_1 geldend vanaf 2024-01-01 t/m heden (peildatum scoren 2026-11-15); Leges 2026 CVDR753092_2 geldend vanaf 2026-01-01",
+  "laatste_wijziging": "APV: 2024-01-01 (enige versie in CVDR, geen latere wijziging gevonden). Legesverordening: 2026-01-01.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt het vellen van een houtopstand 'bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 maar 3 bekendmakingen op titel, waarvan 1 besluit (gmb-2025-95516, een wijzigingsbesluit kapvergunning) zonder grondslagverwijzing. De zoekmethode (alleen titel) mist waarschijnlijk besluiten. Te weinig om iets over het regime te zeggen. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 132 bekendmakingen sinds 1-1-2025, waarvan 56 besluiten en 6 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning (APV 4:11 lid 1): 'Het is verboden zonder vergunning van het bevoegd gezag een beschermde houtopstand te vellen of te doen vellen.' Beschermd is een houtopstand die op de Groene kaart staat, een stamomtrek heeft van 100 cm of meer, of uit meerdere bomen bestaat met samen een grondoppervlak van 100 m2 of meer (lid 2).",
+  "drempel": "Lid 2 onder b: 'deze een stamomtrek heeft van ≥100 centimeter, gemeten op 130 centimeter vanaf maaiveld. In geval van meerstammigheid geldt de dikste stam'. Lid 2 onder c: 'deze bestaat uit meerdere bomen, die tezamen een grondoppervlak hebben van ≥ 100m²'. Lid 2 onder a: bomen en zones op de Groene kaart, ongeacht omvang boven 32 cm (lid 3 onder a: vrij bij omtrek < 32 cm). Boom = minimaal 32 cm omtrek (art. 4:10 onder c).",
+  "omtrek_cm": 100,
+  "meethoogte": "130 cm vanaf het maaiveld",
+  "reikwijdte": "Hele gemeente (geen onderscheid binnen of buiten de bebouwde kom), particulier en openbaar. Naast de omtrekdrempel van 100 cm geldt de Groene kaart ('topografische kaart met bijhorend register' met beschermde waardevolle houtopstanden: boomstructuren, boomzones en solitaire bomen of boomgroepen). De gemeentelijke website noemt zones in Riel en Goirle en bomen buiten de zones met een stip; de kaartafbeeldingen zelf en het register zijn niet ingezien, dus de aantallen zijn onbekend. Het brede regime (100 cm) bepaalt D.",
+  "uitzonderingen": "APV 4:11 lid 3: a. 'houtopstanden met een stamomtrek < 32 centimeter'; b. Plantenziektenwet of aanschrijving; c. periodiek vellen van hakhout; d. periodiek knotten of kandelaberen; e. dunnen tot 40% van de kroonprojectie (meldingsplicht); f. boom jonger dan 20 jaar binnen 50 cm van de erfgrens (art. 5:42 BW); g. houtopstanden van 10 are of meer of rijen van meer dan 20 bomen buiten de bebouwde kom, 'behoudens houtopstanden op erven en in tuinen'; h. 'fruitbomen en windschermen om boomgaarden', kerstbomen, kweekgoed en wegbeplanting of beplanting langs waterwegen of landbouwgrond van populieren of wilgen (niet alle populieren of wilgen). Geen tuin-, erf-, perceel-, soort- of aantalsuitzondering die gewone tuinbomen uitsluit: geen correctie.",
+  "weigeringsgronden": "APV 4:11 lid 4: 'Een vergunning kan worden geweigerd op grond van onder andere: ... b. natuurwaarde van de houtopstand; c. landschappelijke waarde van de houtopstand; d. waarde van de houtopstand voor stads- en dorpsschoon; e. beeldbepalende waarde van de houtopstand; f. cultuurhistorische waarde van de houtopstand; g. waarde voor de leefbaarheid van de houtopstand; h. concreetheid en haalbaarheid project.' Beleid dat de verlening beperkt is niet gevonden.",
+  "herplantplicht": "APV 4:11 lid 6: 'Het bevoegd gezag kan, conform het dan geldende kapbeleid, voorschriften opleggen bij de vergunning omtrent herplantplicht en uitvoeren van Boom effect analyses.' Art. 4:12a (na illegale kap): 'kan bevoegd gezag de zakelijkgerechtigde tot de grond waarop zich de beschermde houtopstand bevond ... de verplichting opleggen te herplanten'. Het 'kapbeleid' waarnaar lid 6 verwijst staat niet in CVDR en is niet gevonden. Geen compensatie in geld of boomwaarde geregeld.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht): het bevoegd gezag (college) beslist per vergunning 'conform het dan geldende kapbeleid'. Geen betaling als alternatief geregeld. De website van de gemeente zegt dat de gemeente bij de aanvraag laat weten of herplant nodig is (geen bewijs, alleen indicatie).",
+  "sancties": "APV 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid en 4:11, eerste lid.' (WED-aanwijzing in de regeling; ook via Ow 5.1 omdat de legesverordening het vellen een omgevingsplanactiviteit noemt). Herplantplicht na illegale kap (art. 4:12a, 'kan'). Geen bestuurlijke boete voor kappen (art. 6:1 lid 3 betreft alleen de Wet veiligheidsregio's) en geen kap-specifiek handhavingsbeleid: de Uitvoering- en Handhavingsstrategie noemt alleen 'Toezicht op illegale kap' en 'Toezicht op de herplantplichten'.",
+  "procedure": "Leges 2026 art. 2.30: EUR 129,00 voor een boom, EUR 64,35 per extra boom, maximum EUR 1.222,95. Vergunning vervalt na 1 jaar (lid 5, tot maximaal 3 jaar). Lid 7: 'paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing' (procedureregel, geen W0). Bezwaar, beroep en beslistermijn: niet apart gelezen.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11 lid 6 regelt het voorschrift ('kan ... voorschriften opleggen ... omtrent herplantplicht'). APV 6:1 lid 1 stelt alleen overtreding van 'de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen' strafbaar, en art. 1:4 lid 3 zegt 'Dit artikel is niet van toepassing op een omgevingsvergunning'. Een gevolg voor niet-nakomen van een herplantvoorschrift staat niet in de regeling; het algemene instrumentarium (bestuursdwang, dwangsom) geldt. De handhavingsstrategie noemt 'Toezicht op de herplantplichten'.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "",
+  "status": "ok",
+  "ontbrekend": "De Groene kaart met register (APV 4:11 lid 2 onder a) is niet ingezien: de gemeentelijke website toont alleen een tekstlijst van zones en kaartafbeeldingen, zonder aantal bomen. Het 'dan geldende kapbeleid' waarnaar APV 4:11 lid 6 verwijst (herplant) is niet in CVDR en niet gevonden. Het omgevingsplan in het DSO is niet ingezien. Bezwaar, beroep en beslistermijn niet apart gelezen.",
+  "artikelnummers": [
+    "APV 1:1",
+    "APV 1:4",
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:12a",
+    "APV 6:1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Uitvoering- en Handhavingsstrategie 2025-2028 par. 3.11.2"
+  ],
+  "opmerkingen": [
+    "D: de APV (geldend sinds 2024-01-01) beschermt houtopstanden die 'een stamomtrek heeft van ≥100 centimeter'. Precies 100 cm valt in de band 60-100 cm (D3). Hele gemeente, geen tuin- of soortuitzondering die gewone tuinbomen uitsluit: geen correctie. Dezelfde keuze als bij Waalwijk (zelfde drempel).",
+    "Boom A (80 cm) en B (40 cm) blijven onder de drempel van 100 cm: geen vergunning, tenzij de boom op de Groene kaart staat of met andere bomen samen een grondoppervlak van 100 m2 of meer beslaat (lid 2 onder a en c). De voorbeeldbomen zijn niet op de kaart gezet.",
+    "Naast het brede regime geldt de Groene kaart (bomen en zones, ongeacht omvang boven 32 cm omtrek). Het breedste regime bepaalt D; de kaart is hooguit een strenger regime voor kaartbomen. Aantal bomen op de kaart: niet vastgesteld.",
+    "W: APV 4:11 lid 4 'Een vergunning kan worden geweigerd op grond van onder andere:' natuur-, landschappelijke, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarde: belangenafweging, W2 zonder bereik. Beleid dat dit aanscherpt is niet gevonden.",
+    "H: 'kan' (art. 4:11 lid 6: 'Het bevoegd gezag kan, conform het dan geldende kapbeleid, voorschriften opleggen bij de vergunning omtrent herplantplicht'): H1. Het kapbeleid ontbreekt in het dossier en in CVDR; als dat herplant vast zou maken, zou H2 zijn. Daarom maximum 2.",
+    "S: WED-aanwijzing in APV 6:1 lid 2 voor 4:11 lid 1 en omgevingsplanactiviteit volgens de legesverordening: S1 zonder bereik. Geen bestuurlijke boete en geen vastgelegd boetebeleid voor kap.",
+    "Praktijkcontrole en website zijn alleen indicaties: de website noemt een vergunning bij een omtrek groter dan 1 meter en bij bomen op de Groene kaart met een omtrek van meer dan 32 centimeter; de APV zelf zegt 'een stamomtrek heeft van ≥100 centimeter'. Gescoord op de APV (artikel gaat voor).",
+    "Het omgevingsplan (CVDR696403_3, sinds 2026-02-13) bevat alleen aanvraagvereisten (art. 22.299), geen vergunningplicht: de materiële kapregel staat in de APV."
+  ],
+  "modelsignalen": [
+    "Drempel 'een stamomtrek heeft van ≥100 centimeter': het model kent D3 voor 60-100 cm en D2 voor > 100 cm; precies 100 cm valt tussen beide. Gescoord als D3 zonder bereik, omdat de tekst 'minimaal' (≥) 100 zegt (zelfde keuze als Waalwijk).",
+    "Het artikel verwijst naar 'het dan geldende kapbeleid' voor herplant, maar dat beleid is niet vastgesteld in CVDR. INTENT.md zegt niet hoe een verwijzing naar niet-gevonden beleid scoort; gescoord als H1 met maximum 2."
+  ]
+}

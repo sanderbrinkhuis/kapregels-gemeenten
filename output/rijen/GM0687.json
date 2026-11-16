@@ -1,0 +1,66 @@
+{
+  "gm_code": "GM0687",
+  "gemeente": "Middelburg (Z.)",
+  "provincie": "Zeeland",
+  "brondocument": "Omgevingsplan gemeente Middelburg (CVDR696383_4), afd. 9.7 'Vellen van houtopstanden' (art. 9.26-9.33) en begrippen; Aanwijzingsbesluit monumentale en waardevolle bomen 2025 (CVDR741622_1); APV Middelburg 2025 (CVDR738878_1) afd. 4.2 vervallen",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696383/4 ; https://lokaleregelgeving.overheid.nl/CVDR741622/1 ; https://www.middelburg.nl/monumentale-en-waardevolle-bomen",
+  "datum_geldigheid": "omgevingsplan geldend van 04-06-2025 t/m heden; aanwijzingsbesluit geldend van 05-07-2025 t/m heden",
+  "laatste_wijziging": "omgevingsplan versie in werking 04-06-2025; bomenlijst vastgesteld door college 01-07-2025",
+  "juridische_plaats": "omgevingsplan (eigen regels afd. 9.7; APV-afdeling 'Het bewaren van houtopstanden' VERVALLEN)",
+  "praktijkcontrole": "7 bekendmakingen sinds 2025, waarvan 5 over bomen: 4 verleende toestemmingen (o.a. boom in voortuin [adres], abeel [adres], afstervende berk [adres], 3 abelen Kanaaldijk) en 1 aanvraag (3 bomen [adres]). 0 weigeringen. Grondslag niet genoemd. Laag aantal past bij lijstsysteem.",
+  "vergunningplicht": "vergunning, op particulier terrein alleen voor houtopstanden op de Bomenlijst; op openbaar terrein alle houtopstanden",
+  "drempel": "geen drempel voor lijstbomen; definitie boom: 'diameter op een hoogte van 1.30 meter boven het maaiveld van ten minste 25 centimeter'; lijstcriterium: ouder dan 50 jaar",
+  "omtrek_cm": 79,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 9.28: 'Het is op particulier terrein toegestaan om zonder vergunning houtopstanden te vellen of te doen vellen die niet staan vermeld op de Bomenlijst.' Art. 9.29 lid 1: verbod voor lijstbomen op particulier terrein. Bomenlijst = 'monumentale en waardevolle bomen in particulier eigendom'. Hele gemeente.",
+  "uitzonderingen": "Voor particuliere lijstbomen geen uitzonderingen in art. 9.29 (de uitzonderingen in lid 3 gelden alleen voor het verbod op openbaar terrein: populieren/wilgen langs landbouwgrond, dunning, Plantgezondheidswet/aanschrijving, vervanging gemeentebomen).",
+  "weigeringsgronden": "Art. 9.30: 'De omgevingsvergunning voor het vellen van houtopstanden wordt alleen verleend als verlening van de vergunning naar het oordeel van het college niet leidt tot een onevenredige aantasting van: a. de natuur- en milieuwaarde; b. de landschappelijke waarde; c. de cultuurhistorische. beeldbepalende en landschappelijke waarde; d. de waarde van het stads- en dorpsschoon; en e. de waarde voor leefbaarheid.'",
+  "herplantplicht": "Art. 9.31: 'Bij vergunningvoorschrift kan een herbeplantingsplicht worden opgelegd.' Geen herplantfonds of boomwaarde; geen regeling voor herplant na illegale kap.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); college beslist per vergunning. Herplant na illegale kap niet geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets geregeld in de regeling zelf; art. 9.31 zegt alleen 'kan een herbeplantingsplicht worden opgelegd'. Alleen het algemene instrumentarium (Ow/Awb, WED via Ow 5.1).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "nee",
+  "sancties": "WED via Ow 5.1 (omgevingsplanactiviteit). Geen eigen strafbepaling of bestuurlijke boete in afd. 9.7; APV art. 6.1 is niet meer relevant nu de afdeling vervallen is. Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR757268_1) bevat niets kap-specifieks.",
+  "procedure": "Omgevingsvergunning (Ow), reguliere procedure; leges € 178,65 (leges 2026 art. 2.30); aanvraagvereisten art. 9.33 (o.a. diameter en herplantmogelijkheid); website: 6 weken wachten i.v.m. bezwaar; extern boomadvies bij kap lijstboom.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "De bij het aanwijzingsbesluit van 1-7-2025 gevoegde lijst is niet in de bekendmaking (gmb-2025-291487) opgenomen. Ingezien is de lijst op middelburg.nl (PDF 'Bomenlijst particuliere monumentale en waardevolle bomen'), die nog de versie van 17-12-2019 is (verwijst naar APV art. 4.6): ca. 588 regels, waarvan 533 met beheerder 'Particulier'. De lijst van 2025 is per definitie een lijst van bomen in particulier eigendom.",
+  "artikelnummers": "Omgevingsplan art. 9.26, 9.27, 9.28, 9.29, 9.30, 9.31, 9.32, 9.33 en begrippen 'bomenlijst' en 'boom'; Aanwijzingsbesluit CVDR741622_1; leges art. 2.30",
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): 'wordt alleen verleend als ... niet leidt tot een onevenredige aantasting van' met de gebruikelijke waarden = W2 (staande lijn bevestigd); bereik vervalt.",
+    "Let op: tekst/CVDR696383_4.md is onvolledig (art. 9.28 en 9.29 lid 3 onder c afgekapt); de XML is gebruikt. W: 'wordt alleen verleend als ... niet leidt tot een onevenredige aantasting van' -> gescoord als W2 (belangenafweging op limitatief opgesomde waarden), bereik tot W3 omdat de formulering de vorm 'weigeren tenzij' heeft. H: 'kan een herbeplantingsplicht worden opgelegd' -> H1. Boom B (omtrek 40 cm, ca. 13 cm doorsnee) is geen 'boom' in de zin van het omgevingsplan (min. 25 cm doorsnee) en kan niet op de lijst staan; boom A (ca. 25,5 cm doorsnee) alleen als hij op de lijst staat. Art. 9.32: beschermde bomen kunnen niet via de BW-afstandsregel (art. 5:42 BW) worden verwijderd."
+  ],
+  "modelsignalen": [
+    "Beoordelingsregel in Ow-stijl 'wordt alleen verleend als ... niet leidt tot een onevenredige aantasting van [waarden]' valt tussen W2 (belangenafweging) en W3 (weigeren tenzij); het model geeft geen vaste regel voor deze formulering, die in omgevingsplannen vaker zal voorkomen."
+  ],
+  "lijst_aantal_totaal": 588,
+  "lijst_aantal_particulier": 533,
+  "lijst_telling": "ca. 588 regels op de Bomenlijst (versie 17-12-2019); particulier = beheerder 'Particulier'"
+}

@@ -1,0 +1,79 @@
+{
+ "gm_code": "GM1859",
+ "gemeente": "Berkelland",
+ "provincie": "Gelderland",
+ "brondocument": "Bomenverordening 2023, art. 1, 2, 3, 4, 5, 7, 8 (CVDR703573_1); Verordening op de heffing en de invordering van leges 2026, art. 2.27 (CVDR749933_1); Omgevingsplan gemeente Berkelland art. 22.299 (CVDR696507_3); Handhaafbeleid Fysieke leefomgeving 2010-2011, bijlage B (CVDR677104_1); Beleidsregel Bomenbeleidsplan 2020-2029 (CVDR653547_1); APV 2024 art. 4:10 t/m 4:12 en 6:1 (CVDR709800_1)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR703573/1 ; https://lokaleregelgeving.overheid.nl/CVDR749933/1 ; https://lokaleregelgeving.overheid.nl/CVDR696507/3 ; https://lokaleregelgeving.overheid.nl/CVDR677104/1",
+ "datum_geldigheid": "Bomenverordening 2023 CVDR703573_1: geldend van 2023-11-21 t/m heden. Leges CVDR749933_1: in werking 2026-01-01. Omgevingsplan CVDR696507_3: in werking 2025-09-30. Peildatum scoren 2026-11-15.",
+ "laatste_wijziging": "Bomenverordening 2023: versie 1 per 2023-11-21 (nieuwe vaststelling; Bomenverordening 2019 ingetrokken, art. 12 lid 4). Geen latere wijziging in regelingen.jsonl.",
+ "juridische_plaats": "Losse Bomenverordening 2023, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.27 noemt 'het vellen van een houtopstand, bedoeld in artikel 3.1 van de Bomenverordening 2023 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. APV 2024 art. 4:10 t/m 4:12: '(Niet opgenomen; geregeld in de Bomenverordening 2019)' (verouderde verwijzing).",
+ "praktijkcontrole": "Sinds 2025: 293 bekendmakingen op titel, waarvan 2 besluiten en 2 weigeringen volgens titel (gevonden met de zoekmethode op titel; het aantal zegt weinig, want de methode mist soms besluiten). De twee opgehaalde besluiten (gmb-2026-103991 en gmb-2025-173848) zijn weigeringen van het kappen van één boom in Eibergen en noemen geen grondslag.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning voor het kappen van een houtopstand) voor drie categorieen (art. 3 lid 1): houtopstand op een bijzondere bomenlijst; houtopstand buiten de bebouwde kom die niet op een erf of tuin staat; en bij herplant geplante bomen. Voor een dode boom en Amerikaanse Vogelkers geldt een melding waarbij het college het vellen kan verbieden (art. 4).",
+ "drempel": "Geen stamdrempel voor 'houtopstand' (art. 3 lid 1 onder b). 'boom' is gedefinieerd als 'diameter van de stam van minimaal 15 centimeter op 1,3 meter hoogte' (art. 1 onder e), omgerekend ca. 47 cm omtrek, maar dat begrip wordt in art. 3 lid 1 niet gebruikt; de toelichting zegt dat de minimumgrootte niet geldt voor herplant.",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m (alleen voor de definitie 'boom'); niet van toepassing op de vergunningplicht",
+ "reikwijdte": "Art. 3 lid 1: 'Het is verboden zonder vergunning ... een houtopstand te vellen of te doen vellen als deze: a. op een bijzondere bomenlijst staat; b. buiten de bebouwde kom en niet op een erf of een tuin staat; c. meldingsplichtig is op grond van de Wet natuurbescherming of afdeling 11.3 van het Besluit activiteiten leefomgeving; of, d. op grond van artikel 7 en 8 (herplant) is geplant'. Binnen de bebouwde kom en op erven en tuinen buiten de kom dus alleen bomen op de bijzondere bomenlijst (art. 2: deellijsten 'Bomen binnen de bebouwde kom' en 'Bomen op erven en tuinen buiten de bebouwde kom'). Particulier en openbaar. Het buitengebied buiten erven en tuinen telt als aangewezen gebied (D hooguit 2).",
+ "uitzonderingen": "Art. 5: dode bomen of de Amerikaanse Vogelkers (meldingsplicht); noodkap; snoeien tot 25% van de kroon; populieren of niet-geknotte wilgen als wegbeplanting, beplanting langs waterwegen of eenrijige beplanting langs landbouwgronden; kerstbomen; kweekgoed; periodiek vellen van hakhout; dunning; knotten of kandelaberen; biomassabeplantingen van populieren, essen of elzen; vellen op grond van art. 10, de Plantgezondheidswet of een aanschrijving. Geen uitzondering voor fruitbomen (toelichting: 'De uitzondering voor fruitbomen en windschermen om boomgaarden is daarbij niet opgenomen'). Definities 'erf' (art. 1 onder h) en 'tuin' (onder r): randbeplanting, bomen langs een toegangsweg en lijnvormige landschapselementen horen niet bij het erf.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 3 lid 2: 'De vergunning kan worden geweigerd indien het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van de houtopstand: a. waarden van milieu en leefbaarheid; b. cultuurhistorische waarden; c. waarden van landschaps-, stads- en dorpsschoon; d. waarden van biodiversiteit.' W = 2 zonder bereik. Lid 3: 'In beginsel wordt de vergunning geweigerd indien' de houtopstand is aangelegd op basis van herplant (art. 7 en 8), met overheidssubsidie of op basis van een vergunningvoorwaarde; dat geldt alleen voor die bomen en is niet het hoofdregime. Het Bomenbeleidsplan 2020-2029 zegt over beoordeling: 'Als de reden van kap niet opweegt tegen de waarde van de beplanting, kan de vergunning geweigerd worden.' (geen strengere toets).",
+ "herplantplicht": "Art. 7 lid 1: 'Het college kan bij de vergunning of bij het accepteren van een melding een herplantplicht opleggen en daaraan voorschriften verbinden.' Toelichting: 'Dat zal in de regel gebeuren, indien de te vellen houtopstand waardevol is.' Bomenbeleidsplan 2020-2029 par. 4.1.2: 'Als de vergunning wordt verleend, kan in bepaalde gevallen een herplant worden geëist. ... is maatwerk.' Geen verplichte financiële compensatie of boomwaarde gevonden voor particuliere kap. H = 1.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid van het college, per geval; art. 7 lid 1). Geen betaling als alternatief gevonden. Herplant na illegale kap: art. 8 lid 1 'kan het college ... de verplichting opleggen te herplanten'.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 7 lid 3: 'Degene aan wie een vergunning is verleend of waarvan de melding is geaccepteerd, is verplicht de daaraan verbonden voorschriften na te komen en aan het college mededeling te doen dat de herplant is uitgevoerd'. Handhaafbeleid Fysieke leefomgeving 2010-2011, bijlage B: 'Niet voldoen aan herplantplicht | Matig | dwangsom ineens | € 10.000,--'. De verordening zelf heeft geen strafbepaling of boete voor niet nakomen.",
+ "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+ "sancties": "WED via de Omgevingswet: legesverordening art. 2.27 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (kap-specifiek, S = 1). De Bomenverordening 2023 heeft geen eigen strafbepaling en geen bestuurlijke boete; APV art. 6:1 lid 1 (hechtenis of geldboete tweede categorie) geldt voor de APV, waarin afdeling 4.3 'Niet opgenomen' is. Herplant na illegale kap: art. 8 lid 1 ('kan'). Bestuursdwang alleen bij boomziekten (art. 10 lid 4). Toezichthouders: art. 11.",
+ "procedure": "Leges (art. 2.27): EUR 26,35 voor 1 boom, EUR 52,75 voor 2, EUR 79,10 voor 3, EUR 105,45 voor 4 of meer. Vergunning maximaal een jaar geldig na onherroepelijk worden (art. 9). Bomen Effect Analyse kan worden gevraagd (art. 3 lid 5). Melding dode boom ten minste vier weken van tevoren; na vier weken zonder besluit geldt de melding als geaccepteerd (art. 4). Aanvragen worden wekelijks gepubliceerd (Bomenbeleidsplan). Beslistermijn en bezwaar niet apart gevonden.",
+ "D": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "bijzondere bomenlijst (bijlage bij het 'Uitvoeringsbeleid bij Bomenverordening 2023') niet ingezien; geen aantal gevonden",
+ "status": "ok",
+ "ontbrekend": "De bijzondere bomenlijst en het 'Uitvoeringsbeleid bij Bomenverordening 2023' (met selectiecriteria, meetbare waarden voor de weigeringsgronden en mogelijk herplantbeleid) staan niet in CVDR en niet in het dossier; de website van de gemeente leidde bij een snelle poging naar een andere site (overborculo.nl). Daardoor onbekend hoeveel particuliere bomen binnen de kom en op erven en tuinen buiten de kom beschermd zijn, en of dat beleid W of H aanpast. Het omgevingsplan in het DSO is niet ingezien. Het Uitvoeringsbeleid kan H of W veranderen; D niet (het buitengebied bepaalt D).",
+ "artikelnummers": [
+  "Bomenverordening 2023 art. 1, 2, 3, 4, 5, 7, 8, 9, 10, 11",
+  "Leges 2026 art. 2.27",
+  "Omgevingsplan art. 22.299",
+  "Handhaafbeleid 2010-2011 bijlage B",
+  "APV 2024 art. 4:10 t/m 4:12, 6:1"
+ ],
+ "opmerkingen": [
+  "W (citaat): 'De vergunning kan worden geweigerd indien het belang van verlening niet opweegt tegen één of meer van de volgende waarden van behoud van de houtopstand' (art. 3 lid 2, CVDR703573_1): W = 2 zonder bereik.",
+  "H (citaat): 'Het college kan bij de vergunning of bij het accepteren van een melding een herplantplicht opleggen en daaraan voorschriften verbinden.' (art. 7 lid 1): H = 1. Een opgelegd voorschrift is wel verplicht (art. 7 lid 3).",
+  "D: er zijn twee delen. Binnen de bebouwde kom en op erven en tuinen buiten de kom zijn alleen bomen op de bijzondere bomenlijst beschermd (D = 1). Buiten de kom en buiten erven en tuinen geldt de plicht voor elke houtopstand zonder drempel; dat is een aangewezen gebied (D hooguit 2). Hoogste deel: D = 2. Voorbeeldbomen A en B staan in een achtertuin binnen de kom: alleen vergunning als de boom op de lijst staat (lijst niet ingezien).",
+  "Het buitengebied is groot (Bomenbeleidsplan: grondgebied ca. 26.000 hectare, 11 kernen) en telt daarom als substantieel deel van de gemeente.",
+  "Dode bomen en Amerikaanse Vogelkers: melding waarbij het college kan verbieden (art. 4). Dood is een gangbare uitzondering en telt niet voor D.",
+  "Bomenbeleidsplan 2020-2029 (CVDR653547_1) beschrijft de Bomenverordening 2019 (ingetrokken per 2023-11-21); het beleid over herplant ('kan in bepaalde gevallen een herplant worden geëist') is niet strenger dan de verordening en telt niet voor een hogere score. Het oudere college-besluit 'Bomenbeleidsplan Bijzondere bomen in Berkelland' (CVDR638980_1) is per 2022-11-16 vervallen.",
+  "Het Handhaafbeleid 2010-2011 (CVDR677104_1) is oud maar staat als geldend in CVDR; de sanctietabel is alleen gebruikt voor het gevolg bij niet nakomen van herplant. Geen bestuurlijke boete voor kappen gevonden, dus S = 1.",
+  "De APV 2024 verwijst nog naar de 'Bomenverordening 2019', die is ingetrokken; de Bomenverordening 2023 geldt."
+ ],
+ "modelsignalen": [
+  "Een gecombineerd regime (lijst binnen de kom en op erven en tuinen, alle houtopstanden zonder drempel in het buitengebied) geeft D = 2 door het buitengebied, terwijl voor de meeste particuliere tuinbomen (voorbeeldbomen A en B) alleen de lijst telt. Het model laat de strengheid hier door het buitengebied bepalen; de voorbeeldbomen laten het verschil zien.",
+  "Een melding voor dode bomen met een verbodsmogelijkheid valt onder de gangbare uitzondering 'dood of ziek' en telt niet, terwijl het formeel een meldplicht met verbod is."
+ ]
+}

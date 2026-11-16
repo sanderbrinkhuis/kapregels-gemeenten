@@ -1,0 +1,29 @@
+{
+  "gemeente": "Hof van Twente",
+  "gm_code": "GM1735",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Hof van Twente",
+  "zoeknaam_bekendmakingen": "Hof van Twente",
+  "opgehaald_op": "2026-11-14T21:47:56+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Hof van Twente\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 76,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Hof van Twente\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 479,
+  "geldende_regelingen": 20,
+  "geldend_met_kapartikelen": [
+    "CVDR12556_1",
+    "CVDR15202_1",
+    "CVDR683001_1",
+    "CVDR696500_2",
+    "CVDR702792_1",
+    "CVDR740985_1",
+    "CVDR752050_1"
+  ],
+  "bekendmakingen_besluiten": 214,
+  "bekendmakingen_aanvragen": 265,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

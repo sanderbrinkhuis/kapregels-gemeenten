@@ -1,0 +1,78 @@
+{
+  "provincie": "Drenthe",
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "volledig_gelezen": true,
+  "status": "ok",
+  "gm_code": "GM0118",
+  "gemeente": "Hoogeveen",
+  "brondocument": "APV Hoogeveen art. 4:10-4:12c en 6:1 (CVDR748159_1); Beleidsregels voor bomen gemeente Hoogeveen art. 6 (CVDR767896_1); Nadere regels houtkap gemeente Hoogeveen art. 2-5 (CVDR767895_1); Beleidsregels ter uitvoering van artikel 4:11 APV (CVDR600295_2); Legesverordening 2026 art. 2.30 (CVDR750670_1); Omgevingsplan art. 22.299 (CVDR696189_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR748159/1",
+  "datum_geldigheid": "APV: geldend van 2026-01-01 t/m heden (CVDR748159_1); Nadere regels houtkap en Beleidsregels voor bomen: van 2026-10-16 t/m heden",
+  "laatste_wijziging": "APV: versie 1 per 2026-01-01 (nieuwe regeling); Nadere regels houtkap (CVDR767895_1) en Beleidsregels voor bomen (CVDR767896_1) in werking 2026-10-16",
+  "juridische_plaats": "APV (afdeling 4.3), werkt als omgevingsplanactiviteit volgens legesverordening art. 2.30 (vellen van houtopstand 'bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299 (aanvraagvereisten); daarnaast WED-aanwijzing in APV art. 6:1 lid 2",
+  "praktijkcontrole": "64 bekendmakingen sinds 2025 (23 besluiten, 37 aanvragen), 0 weigeringen volgens de titel. In 10 steekproefbesluiten staat als activiteit 'Omgevingsplanactiviteit: vellen van houtopstand (artikel 5.1 lid 1 sub a Ow)'; de grondslag in de APV of nadere regels wordt niet genoemd (bijv. gmb-2026-531682, gmb-2026-471181). Eén besluit betreft 41 bomen in een wijk (gmb-2026-354396).",
+  "vergunningplicht": "vergunning (omgevingsvergunning van het college, art. 4:11 lid 1 APV)",
+  "drempel": "Doorsnede 40 cm of meer, gemeten op 1,30 m, alleen in een strook van 10 m vanaf het midden van de weg (art. 4:11 lid 1 onder c APV; Nadere regels art. 2 lid 1 en art. 3 onder b). Omgerekend omtrek ca. 125,6 cm. Daarnaast: bomen op de waardevolle bomenlijst (particulier) en gemeentelijke houtopstanden, ongeacht omvang. Nadere regels: ook snoeien van meer dan 30% van het kroonvolume, verplanten en voor het eerst kandelaberen bij stamomtrek van minimaal 40 cm, en vellen van een boom die is aangelegd als herplant/compensatie, ongeacht omvang.",
+  "omtrek_cm": 125.6,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente (binnen en buiten de bebouwingscontour houtkap) voor bomen binnen 10 m van het midden van de weg met doorsnede van 40 cm of meer; waardevolle bomenlijst (particuliere bomen); gemeentelijke houtopstand. Buiten de bebouwingscontour houtkap geldt volgens art. 3 Nadere regels bovendien een vergunningplicht voor houtopstanden kleiner dan 10 are en rijbeplanting van niet meer dan 20 bomen. Particulier en openbaar.",
+  "uitzonderingen": "Spoedeisend belang voor openbare orde of direct gevaar met toestemming van de burgemeester (art. 4:11 lid 7 APV); noodvelling (Nadere regels art. 2 lid 2). Geen uitzondering voor achtertuinen, soorten of coniferen. Bomen buiten de 10 m-strook en met doorsnede onder 40 cm vallen buiten het verbod.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijstsysteem": false,
+  "lijst_telling": "Waardevolle bomenlijst (art. 4:12 APV; particuliere bomen) niet ingezien. Niet nodig voor D, omdat het brede strookregime het breedste regime is.",
+  "weigeringsgronden": "APV art. 4:12a lid 1: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie en leefbaarheid.' Nadere regels art. 5 lid 1: 'Het college weigert een omgevingsvergunning ... als ... 40 of meer punten per boom verkrijgt' (puntentabel op vitaliteit, klimaatadaptatie, natuurwaarde, landschappelijke en cultuurhistorische waarde); art. 5 lid 3: vergunning voor kap wegens zonnepanelen, blad-, bloesem- en vruchtval, vogels, allergie en schaduw 'wordt geweigerd'. Waardevolle bomen: alleen om veiligheid of besmettelijke ziekte (art. 4:11 lid 5 APV).",
+  "herplantplicht": "Beleidsregels voor bomen art. 6 lid 1: 'Het college legt voor iedere gevelde boom waarvoor een omgevingsvergunning nodig is een herplantplicht voor een nieuwe boom op.' Als herplant niet mogelijk is: 'wordt het bedrag voor herplant gestort in het gemeentelijke boomcompensatiefonds' (bedrag volgens NVTB-richtlijnen). Nadere regels bijlage 1: 'Voor elke boom die wel gekapt wordt, geldt een herplantplicht.' APV art. 4:11 lid 6 sub a zelf: 'Het college kan aan een vergunning voorschriften of beperkingen verbinden, zoals: het opleggen van een herplantplicht'.",
+  "herplant_ontsnapping": "Geen uitweg om niet te herplanten; wel een uitweg naar betaling: 'Als herplant niet mogelijk is binnen het plangebied zelf, wordt het bedrag voor herplant gestort in het gemeentelijke boomcompensatiefonds' (Beleidsregels voor bomen art. 6 lid 1). Het college beslist per vergunning. Herplant 'bij voorkeur' op dezelfde locatie.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "APV art. 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Een herplantverplichting volgt uit voorschriften krachtens art. 4:11 lid 6 of uit art. 4:12b. De tekst noemt het niet nakomen van herplant niet uitdrukkelijk. Art. 4:12b lid 1 (na illegale kap): 'kan het bevoegd gezag ... de verplichting opleggen herplant te plegen'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in APV art. 6:1 lid 2 voor 4:11 lid 1 (en via de Omgevingswet 5.1 lid 1 aanhef en onder a, omdat de regel als omgevingsplanactiviteit werkt); algemene strafbepaling art. 6:1 lid 1 (hechtenis max. 3 maanden of geldboete tweede categorie); herplantverplichting na illegale kap (art. 4:12b, 'kan'). Geen bestuurlijke boete gevonden in APV, nadere regels of beleidsregels.",
+  "procedure": "Leges € 113,20 (Legesverordening 2026 art. 2.30). Aanvraag via omgevingsloket; beslistermijn: art. 1:2 APV is niet van toepassing op omgevingsvergunning; geen positieve fictieve beschikking (art. 4:11 lid 8 APV, Nadere regels art. 5 lid 7). Publicatie als kennisgeving van besluit (gmb). Bezwaar en beroep volgens de Awb (niet apart geregeld in de bronnen).",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 6:1 (CVDR748159_1)",
+    "Beleidsregels voor bomen art. 6 (CVDR767896_1)",
+    "Nadere regels houtkap art. 2, 3, 5, bijlage 1 (CVDR767895_1)",
+    "Beleidsregels art. 4:11 APV art. 2 (CVDR600295_2)",
+    "Legesverordening art. 2.30 (CVDR750670_1)",
+    "Omgevingsplan art. 22.299 (CVDR696189_3)"
+  ],
+  "opmerkingen": [
+    "D = 2: bomen met doorsnede van 40 cm of meer binnen 10 m van het midden van de weg (aangewezen structuur met hoge drempel, omtrek ca. 125,6 cm) plus waardevolle bomenlijst; geen verbod voor gewone tuinbomen. De lijst is niet ingezien en niet nodig voor D.",
+    "W = 2: 'kan de vergunning weigeren ... in het belang van onder meer: natuur- en milieuwaarden ...' (APV 4:12a). De Nadere regels (per 2026-10-16) voegen een puntentoets toe: weigeren bij 40 of meer punten. Dat is een belangenafweging, geen 'weigeren tenzij'.",
+    "H = 3: de APV zegt 'kan', maar de Beleidsregels voor bomen art. 6 lid 1 zeggen 'legt ... een herplantplicht ... op' en schrijven storting in het boomcompensatiefonds voor als herplant niet mogelijk is (beleidsregel telt, besluit 14-11-2026). Let op: de beleidsregel gaat in per 2026-10-16, een maand voor de peildatum.",
+    "S = 1: WED via art. 6:1 lid 2 APV en via Ow 5.1 (stap 1a). Geen bestuurlijke boete gevonden.",
+    "De Nadere regels houtkap (CVDR767895_1) zijn volledig gelezen; ze staan in data/gemeenten/drenthe/GM0118_hoogeveen/cvdr/.",
+    "Het omgevingsplan (tijdelijk deel) en de waardevolle bomenlijst zijn niet in het DSO of op de website ingezien.",
+    "Opgelost (besluit gebruiker 14-11-2026): een kapregel die alleen geldt in een strook langs wegen telt als uitzondering van achtertuinen. D = hoge drempel (2) min 1 = 1, zoals bij Tynaarlo (alleen voorerf)."
+  ],
+  "modelsignalen": [
+    "Beleidsregel maakt van een APV-'kan' een harde plicht plus fondsstorting, per 2026-10-16: H springt van 1 naar 3 door één nieuwe beleidsregel."
+  ],
+  "ontbrekend": "Waardevolle bomenlijst en omgevingsplan (DSO) niet ingezien; geen invloed op de puntschatting van D."
+}

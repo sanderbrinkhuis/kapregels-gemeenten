@@ -1,0 +1,76 @@
+{
+  "gm_code": "GM0321",
+  "gemeente": "Houten",
+  "provincie": "Utrecht",
+  "brondocument": "APV Houten art. 4:10-4:11c, 6:1 (CVDR249789_9); Beleidsplan Bomen met bijzondere waarde 2012-2020 (CVDR123458_1); Leges 2026 art. 2.30 (CVDR752474_1); Uitvoerings- & Handhavingsbeleid VTH (CVDR674259_2); Omgevingsplan art. 22.299 (CVDR696273_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR249789/9",
+  "datum_geldigheid": "APV: geldend van 2024-01-04 t/m heden (CVDR249789_9); beleidsplan: in werking 2011-12-01, status geldend",
+  "laatste_wijziging": "APV versie 9, in werking 2024-01-04",
+  "juridische_plaats": "APV afd. 4.3 (art. 4:11); werkt als omgevingsplanactiviteit volgens Leges 2026 art. 2.30 en WED-aanwijzing in APV 6:1 lid 2; omgevingsplan art. 22.299 alleen aanvraagvereisten",
+  "praktijkcontrole": "17 bekendmakingen sinds 2025 (7 besluiten, 9 aanvragen, 0 geweigerd volgens titel). Een besluit betreft verlenen voor twee bomen en weigeren voor twee bomen (titel). Steekproef noemt geen grondslag. Past bij een lijstsysteem.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor bomen op de lijst Bomen met bijzondere waarde",
+  "drempel": "geen drempel; alleen bomen op de lijst",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t.",
+  "reikwijdte": "Hele gemeente, maar alleen bomen op de lijst: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de lijst Bomen met bijzondere waarde.' (art. 4:11 lid 2). Het beleidsplan zegt dat de lijst gemeentelijke en particuliere bomen bevat.",
+  "uitzonderingen": "Burgemeester kan toestemming geven bij spoedeisend belang voor de openbare orde of direct gevaar (art. 4:11 lid 4). Geen aparte tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid. Beleidsplan par. 5.3: 'Een vergunning voor het vellen van een boom met een bijzondere waarde wordt slechts bij uitzondering verleend (mits alternatieven voor behoud van de boom met een bijzondere waarde uitputtend zijn onderzocht), indien:' zwaarwegend maatschappelijk belang, instandhouding niet langer verantwoord, laanstructuur of bosperceel.",
+  "herplantplicht": "APV 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader bij de vergunning te stellen voorschriften.' Beleidsplan par. 5.4: 'Daarom wordt er altijd een herplantplicht opgelegd wanneer een kapvergunning wordt verleend om een element uit de lijst “Bomen met bijzondere waarde” te vellen.'",
+  "herplant_ontsnapping": "Verordening: 'kan' (bevoegdheid). Beleidsplan: 'wordt er altijd' opgelegd, maar met vrijstelling: 'Er kan ontheffing aangevraagd worden van de herplantplicht zoals hierboven omschreven staat.' om redenen als zwaarwegend maatschappelijk belang of niet te handhaven standplaats; het college beslist. Geen betaling in plaats van herplant gevonden.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "APV 6:1 lid 1: 'Overtreding van het bij of krachtens de artikelen van deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Dwangsomrichtlijn VTH-beleid (CVDR674259_2): 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht' per week € 5.000, 4 weken.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "S1: WED-aanwijzing in APV 6:1 lid 2 ('is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10, 2:11, 2:12 en 4:11 voor zover die betrekking hebben op de Omgevingswet') en WED via Ow 5.1 (Leges 2.30 noemt het vellen een omgevingsplanactiviteit). Eigen strafbepaling 6:1 lid 1. Geen bestuurlijke boete. Herplant na illegale kap: art. 4:11a lid 1 'kan'; beleidsplan: 'legt het college van B&W de verplichting tot herplanten op'.",
+  "procedure": "Omgevingsvergunning; leges € 205,05 (art. 2.30); APV 4:11 lid 6 verwijst naar positieve fictieve beschikking; beslistermijn APV 1:2 niet van toepassing op omgevingsvergunning; aanvrager dient schriftelijk en gemotiveerd aan (beleidsplan); bezwaar en beroep volgens Awb.",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst zelf niet ingezien; beleidsplan CVDR123458_1 (anno 2011): 712 gemeentelijke en 1529 particuliere bomen, ca. 190 adressen met meerdere bomen en enkele straten; cijfers uit 2011, niet geverifieerd",
+  "status": "ok",
+  "ontbrekend": "Lijst Bomen met bijzondere waarde zelf niet ingezien (alleen aantallen uit beleidsplan 2011). Looptijd beleidsplan 2012-2020 verstreken maar status geldend in CVDR. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "APV Houten: art. 4:10, 4:11, 4:11a, 4:11b, 6:1, 1:4, 1:8",
+    "Beleidsplan Bomen met bijzondere waarde: par. 5.3, 5.4",
+    "Leges 2026: art. 2.30",
+    "VTH-beleid: richtlijn dwangsommen (kappen)",
+    "Omgevingsplan: art. 22.299"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): het geldende Beleidsplan Bomen met bijzondere waarde (college) telt voor W en H ('slechts bij uitzondering verleend' → W3; 'altijd een herplantplicht', met ontheffingsmogelijkheid → H2); bereik vervalt.",
+    "D1 (0-1): lijstsysteem, lijst niet ingezien. Het beleidsplan noemt particuliere bomen op de lijst, maar de cijfers zijn van 2011.",
+    "W2: 'kan de vergunning worden geweigerd op grond van:' (art. 4:11 lid 3). Het beleidsplan zegt 'slechts bij uitzondering verleend' (W3); bereik tot 3 omdat onzeker is of dat beleid het kader bepaalt.",
+    "H2: verordening 'kan'; het beleidsplan maakt herplant vast: 'wordt er altijd een herplantplicht opgelegd'. Bereik 1-2 omdat onzeker is of het beleidsplan een vastgestelde beleidsregel is.",
+    "Bomenlijst heet in lid 1 'Bomenlijst' en in lid 2 'lijst Bomen met bijzondere waarde'."
+  ],
+  "modelsignalen": [
+    "Houten: een beleidsplan (raad, 2011-2020, nog 'geldend' in CVDR) wijkt af van de verordening voor W en H; INTENT regelt dit alleen voor H via 'beleidsregel'. Onduidelijk of een beleidsplan telt.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: lijst niet ingezien, maar vastgestelde regeling of beleid bevestigt dat er particuliere bomen op staan: D-minimum 1 (was 0)."
+  ]
+}

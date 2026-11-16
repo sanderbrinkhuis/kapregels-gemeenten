@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1901/2024/programma-zon-op-veld",
+    "titel": "Programma Zon op Veld",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1901/2024/programma-zon-op-veld/nld@2025-01-13;1",
+    "beginGeldigheid": "2025-01-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1901_2024_programma_zon_op_veld?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1901/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Bodegraven-Reeuwijk",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1901/2020/omgevingsplan/nld@2026-09-14;3f7c75de69d4476ab239e81e27fa466b",
+    "beginGeldigheid": "2026-09-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1901_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:22Z"
+  }
+]

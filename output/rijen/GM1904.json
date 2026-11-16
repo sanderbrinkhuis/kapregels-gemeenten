@@ -1,0 +1,90 @@
+{
+  "gm_code": "GM1904",
+  "gemeente": "Stichtse Vecht",
+  "provincie": "Utrecht",
+  "brondocument": "Verordening fysieke leefomgeving Stichtse Vecht 2023 (VFL), CVDR730307_4, hoofdstuk 7 (art. 7.1, 7.7-7.13, 7.14-7.18, 7.21, 7.22) en art. 10.1, 10.1a; APV Stichtse Vecht 2024 (CVDR730298_5) afd. 3 art. 4.10-4.12 'Eerder vervallen'; Beleidsregel criteria beschermde houtopstand (CVDR641177_1); Legesverordening 2026 (CVDR753229_1) art. 2.30; Handhavingsprogramma 2025-2026 (CVDR744009_1) bijlage 1; Uitvoerings- en handhavingsstrategie (CVDR759699_1) onder P; Vangnetregeling omgevingsplan (CVDR696518_6) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR730307/4 ; https://lokaleregelgeving.overheid.nl/CVDR641177/1 ; https://lokaleregelgeving.overheid.nl/CVDR753229/1",
+  "datum_geldigheid": "VFL CVDR730307_4 geldend vanaf 2025-08-28 t/m heden (peildatum scoren 2026-11-14).",
+  "laatste_wijziging": "VFL versie 4 per 2025-08-28 (betreft alleen 'bijlage artikel 10.1a, tweede lid'); eerdere versies 2023-12-31 (vaststelling, vervangt de Bomenverordening Stichtse Vecht 2015), 2025-01-01 en 2025-01-02.",
+  "juridische_plaats": "VFL (hoofdstuk 7 Bomen en houtopstanden). Er is geen omgevingsplan met kapregel in het dossier: het tijdelijk deel van het omgevingsplan (CVDR696518_6) bevat bij 'Afdeling 10.2 Boom kappen of houtopstand vellen' geen tekst en alleen art. 11.4 Beschermingszone bomen en aanvraagvereisten art. 22.299. De kapregel zelf staat dus in de VFL. De legesverordening noemt het vellen van een houtopstand 'bedoeld in artikel 7.11 of artikel 7.16 van de Verordening fysieke leefomgeving Stichtse Vecht in samenhang met artikel 22.8 van de Omgevingswet': de VFL-kapregel werkt dus als omgevingsplanactiviteit.",
+  "praktijkcontrole": "Sinds 2025: 90 bekendmakingen op titel, waarvan 12 besluiten, 70 aanvragen en 0 weigeringen (volgens de titel). Meerdere aanvragen betreffen bomen in voor-, achter- of voorerf van een woning (9 titels noemen tuin of erf) en 3 titels noemen monumentale bomen; veel aanvragen zijn ingetrokken. Dat wijst erop dat ook voor particuliere tuinbomen soms een aanvraag nodig is (mogelijk op niet-geinventariseerd terrein of Groene Kaart), maar de besluiten noemen geen grondslag en de kaart is niet ingezien.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van (a) 'beschermde houtopstand' op de Groene Kaart (art. 7.11 lid 1 sub a) en (b) een houtopstand op een 'niet geinventariseerd terrein' (art. 7.16 lid 1 sub a). Voor overige particuliere bomen geen vergunningplicht.",
+  "drempel": "Voor beschermde houtopstand op de Groene Kaart geen omvangdrempel. Voor 'boom' (art. 7.1 sub f): 'met een dwarsdoorsnede van de stam van minimaal 10 cm gemeten op 1,30 meter hoogte boven het maaiveld' (omgerekend ca. 31 cm omtrek); 'houtopstand' omvat ook struiken, hakhout en griend zonder maat.",
+  "omtrek_cm": 31,
+  "meethoogte": "1,30 m (art. 7.1 sub f en art. 7.4: 'De stamdiameter van een houtopstand wordt gemeten op een hoogte van 130 cm vanaf het maaiveld.')",
+  "reikwijdte": "Alleen op de Groene Kaart: art. 7.7 'Dit artikel gaat over het vellen van beschermde houtopstand die is opgenomen in het geometrische informatieobject Groene Kaart.' en art. 7.14 'Dit artikel gaat over het vellen van houtopstanden op niet geinventariseerde terreinen zoals opgenomen in het geometrische informatieobject Groene Kaart.' Beschermde houtopstanden (art. 7.8 lid 3): Boomzones, Boomstructuren, Monumentale bomen, Historische groenstructuren, Kleine landschapselementen. 'Niet geinventariseerd terrein: een terrein dat door de gemeente nog niet geinventariseerd is op de aanwezigheid van Monumentale bomen'. Particulier en openbaar (VFL maakt geen onderscheid). De Groene Kaart is niet ingezien; omvang en ligging van de zones en terreinen zijn onbekend.",
+  "uitzonderingen": "Art. 7.11 lid 3 en 7.16 lid 3: 'houtopstand die moet worden geveld krachtens de Plantgezondheidswet'; 'het periodiek vellen van hak- of griendhout'; 'het dunnen van een houtopstand'; 'schubconiferen met een stamdwarsdoorsnede tot 50 cm gemeten op 1,30 meter hoogte' (alleen Chamaecyparis, Cupressocyparis, Platycladus, Thuja, Thujopsis: geen ruime uitzondering voor alle coniferen); 'bedrijfsmatig geteelde fruitbomen, notenbomen, kerstbomen tot 20 jaar en bomen uit de boomkwekerijteelt'. Geen uitzondering voor achtertuinen of tuinen tot een oppervlakte. Noodkap: art. 7.11 lid 4.",
+  "weigeringsgronden": "Beschermde houtopstand, art. 7.13 lid 1: 'De omgevingsvergunning voor het vellen van beschermde houtopstand wordt geweigerd indien de belangen van het vellen van de houtopstand niet opwegen tegen de belangen van behoud van de houtopstand.' Lid 3 (Boomzones en Kleine landschapselementen) en lid 4 (Monumentale bomen, Boomstructuren, Historische groenstructuren): 'wordt, nadat alternatieven zijn onderzocht, slechts bij uitzondering verleend'. Niet geinventariseerd terrein, art. 7.18 lid 2: 'wordt geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van een of meer van de volgende waarden:' natuur, landschap, cultuurhistorie, beeldbepalend, stads- en dorpsschoon, leefbaarheid.",
+  "herplantplicht": "Art. 7.21 lid 1: 'Bij vergunningvoorschrift voor het vellen van een houtopstand wordt in beginsel een: a. verplantingsplicht; en/of b. een herbeplantingsplicht, en/of c. een financiele bijdrage voor herbeplanting op een nieuwe locatie opgelegd.' Herplantfonds en boomwaarde zijn gedefinieerd (art. 7.1 sub h en o). Bij vellen zonder vergunning: art. 7.22 lid 2 'kan het bevoegd gezag een verplichting opleggen tot financiele compensatie op basis van de boomwaarde, dan wel een verplichting tot herbeplanten'.",
+  "herplant_ontsnapping": "'in beginsel' (art. 7.21 lid 1); het college (bevoegd gezag) beslist per vergunning welke voorschriften worden opgelegd; uitweg via 'een financiele bijdrage voor herbeplanting op een nieuwe locatie' in plaats van of naast herplant. Na illegale kap: 'kan' (art. 7.22 lid 2).",
+  "sancties": "Strafbepaling VFL art. 10.1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 1:5 gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' WED-aanwijzing lid 2 verwijst naar de verkeerde artikelen ('2.1, 2.2 en 2.3 eerste lid'), niet naar 7.11 of 7.16. Bestuurlijke boete: art. 7.22 lid 4 'Indien sprake is van vellen zonder verplichte vergunning of in strijd met de vergunningsvoorschriften kan, eventueel naast een plicht tot herbeplanten of het in rekening brengen van de boomwaarde een bestuurlijke boete opgelegd worden.' Art. 10.1a en de boetebijlage noemen art. 7.x niet en bevatten geen bedrag voor kap. Handhavingsprogramma 2025-2026 bijlage 1: 'Kappen | Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht | per week | 5.000 | 4 weken' (dwangsom). Route WED: via Omgevingswet 5.1 omdat de legesverordening het vellen een omgevingsplanactiviteit noemt.",
+  "procedure": "Beslistermijn: art. 1.4 VFL 'binnen acht weken', verdagen met ten hoogste acht weken. Leges (CVDR753229_1 art. 2.30): per boom bij maximaal 10 bomen EUR 200,99, minimum EUR 425,28, plus EUR 66,05 per boom boven de 10. Bekendmaking van aanvragen en besluiten in het gemeenteblad. Bezwaar en beroep: algemene Awb-route, niet apart gelezen. Adviescommissie houtopstand mogelijk (art. 7.20).",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 10.1 lid 1 (strafbaar bij overtreding van 'voorschriften en beperkingen' van art. 1:5, dat verplicht tot naleving: 'Degene aan wie een vergunning is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.'); art. 7.22 lid 4 (bestuurlijke boete bij 'in strijd met de vergunningsvoorschriften'); Handhavingsprogramma 2025-2026: 'Zonder of in afwijking omgevingsvergunning kappen dan wel het niet naleven herplantplicht | per week | 5.000 | 4 weken'; Beleidsregel CVDR759699_1: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Groene Kaart en Register niet ingezien: de kaart staat niet in de CVDR-tekst, de gemeentelijke website leverde bij korte zoekpogingen geen kaart op (pagina's 404) en het DSO is niet doorzocht (API-sleutel nog niet beschikbaar). Aantallen onbekend.",
+  "status": "onzeker",
+  "ontbrekend": "Groene Kaart met Register en de geometrie van de 'niet geinventariseerde terreinen' (bepalen D: aangewezen gebieden en structuren of alleen losse monumentale bomen) niet ingezien; omgevingsplan in het DSO niet ingezien. Omvang van particuliere bomen onder de kaart onbekend. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "VFL art. 1.4, 1.5",
+    "VFL art. 7.1 (sub c, f, m, w, x)",
+    "VFL art. 7.4",
+    "VFL art. 7.7-7.13",
+    "VFL art. 7.14-7.18",
+    "VFL art. 7.21",
+    "VFL art. 7.22",
+    "VFL art. 10.1, 10.1a",
+    "APV 2024 art. 4.10-4.12 (eerder vervallen)",
+    "Legesverordening 2026 art. 2.30",
+    "Handhavingsprogramma 2025-2026 bijlage 1",
+    "Beleidsregel CVDR641177_1",
+    "Omgevingsplan art. 22.299 en 11.4"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): de regeling zelf maakt een bestuurlijke boete bij kap mogelijk (art. 7.22 lid 4: 'kan, eventueel naast een plicht tot herbeplanten of het in rekening brengen van de boomwaarde een bestuurlijke boete opgelegd worden') → S2 zonder bereik, ook zonder bedrag.",
+    "Waar de kapregel staat: APV 2024 art. 4.10 t/m 4.12 zijn 'Eerder vervallen'; de regel staat in de VFL hoofdstuk 7 (de Bomenverordening 2015 is vervangen). De VFL bevat de kapregel; in het dossier zit geen omgevingsplan met kapregel.",
+    "D1 (min 0, max 2): systeem met Groene Kaart (aangewezen zones, structuren, monumentale bomen) en 'niet geinventariseerde terreinen'. De kaart is niet ingezien; volgens het model is de puntschatting D1 en loopt het bereik vanaf D0. Maximum D2 omdat een gebiedsregel hooguit D2 geeft. Beleidsregel niet-beschermde gemeentelijke bomen (CVDR641175_1): 'Als gevolg hiervan genieten de meeste bomen zowel particulier als publiek, geen formele bescherming.' Dat past bij een beperkt kaartsysteem.",
+    "W3 (min 2): voor beschermde houtopstand geldt art. 7.13 lid 3 en 4: 'slechts bij uitzondering verleend'. Voor niet geinventariseerde terreinen geldt art. 7.18 (belangenafweging, W2). Niet vast te stellen welk regime het grootste deel van de gedekte bomen treft.",
+    "H2 (max 3): 'wordt in beginsel een: a. verplantingsplicht; en/of b. een herbeplantingsplicht, en/of c. een financiele bijdrage voor herbeplanting op een nieuwe locatie opgelegd.' De financiele bijdrage staat als 'en/of'-alternatief naast herplant en is niet apart verplicht; daarom H2, met maximum H3 als de bijdrage als verplichte storting telt. Compensatie op boomwaarde na vellen zonder vergunning (art. 7.22 lid 2, 'kan') verhoogt H niet en telt bij S.",
+    "S2 (min 1): art. 7.22 lid 4 noemt een bestuurlijke boete in de regeling zelf, maar geeft geen bedrag en art. 10.1a en de bijlage noemen art. 7.x niet. Daarom minimum S1: eigen strafbepaling (art. 10.1 lid 1), herplantplicht na illegale kap en leges art. 2.30 die het vellen een omgevingsplanactiviteit noemen (WED via Omgevingswet). Geen vastgelegd boetebeleid; de dwangsomrichtlijn is geen boete, dus geen S3.",
+    "Foute verwijzing: art. 10.1 lid 2 wijst de WED aan voor 'de artikelen 2.1, 2.2 en 2.3 eerste lid', niet voor art. 7.11 of 7.16.",
+    "Boom A (omtrek 80 cm) en boom B (omtrek 40 cm) zijn beide groter dan de minimummaat van 10 cm diameter van art. 7.1 sub f; ze zijn alleen vergunningplichtig als ze op de Groene Kaart (of niet geinventariseerd terrein) staan. Daarom 'alleen als op lijst'; kan 'ja' worden als de tuin op een niet geinventariseerd terrein ligt.",
+    "Eerdere beleidsregel criteria beschermde houtopstand (CVDR641177_1, 2015) bepaalt op basis van de Bomenverordening 2015 welke bomen op de Groene Kaart komen; de verwijzing naar de Bomenverordening is verouderd (die is ingetrokken).",
+    "Leges: art. 2.30 noemt het vellen 'in samenhang met artikel 22.8 van de Omgevingswet': bewijs dat de regel als omgevingsplanactiviteit werkt (S1 zonder bereik)."
+  ],
+  "modelsignalen": [
+    "Kaartsysteem met 'niet geinventariseerde terreinen': het model kent alleen lijst of gebied. Een vergunningplicht voor alle houtopstand op terreinen die nog niet geinventariseerd zijn (art. 7.16) is een tijdelijke vangnetregel waarvan de omvang van de kaart afhangt; D is zonder kaart niet vast te stellen.",
+    "Bestuurlijke boete 'kan' in de regeling (art. 7.22 lid 4) zonder bedrag of aanwijzing in de boetebijlage: het model telt dat als 'boete in de regeling' (S2), maar de juridische bruikbaarheid is twijfelachtig.",
+    "H: 'in beginsel ... en/of een financiele bijdrage' is geen duidelijke H3-formulering (verplichte storting) of H2-formulering; keuze H2 met bereik tot H3."
+  ]
+}

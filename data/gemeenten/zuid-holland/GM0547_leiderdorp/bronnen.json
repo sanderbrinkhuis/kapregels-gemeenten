@@ -1,0 +1,29 @@
+{
+  "gemeente": "Leiderdorp",
+  "gm_code": "GM0547",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Leiderdorp",
+  "zoeknaam_bekendmakingen": "Leiderdorp",
+  "opgehaald_op": "2026-11-16T10:35:38+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Leiderdorp\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 60,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Leiderdorp\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 207,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR298195_6",
+    "CVDR392752_1",
+    "CVDR489903_3",
+    "CVDR647349_3",
+    "CVDR696351_3",
+    "CVDR706330_1",
+    "CVDR752367_2"
+  ],
+  "bekendmakingen_besluiten": 99,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

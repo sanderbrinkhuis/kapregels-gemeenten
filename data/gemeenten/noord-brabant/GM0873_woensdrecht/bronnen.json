@@ -1,0 +1,26 @@
+{
+  "gemeente": "Woensdrecht",
+  "gm_code": "GM0873",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Woensdrecht",
+  "zoeknaam_bekendmakingen": "Woensdrecht",
+  "opgehaald_op": "2026-11-16T14:06:27+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Woensdrecht\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 42,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Woensdrecht\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 7,
+  "geldende_regelingen": 10,
+  "geldend_met_kapartikelen": [
+    "CVDR674801_1",
+    "CVDR696433_3",
+    "CVDR717097_3",
+    "CVDR751645_1"
+  ],
+  "bekendmakingen_besluiten": 3,
+  "bekendmakingen_aanvragen": 2,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

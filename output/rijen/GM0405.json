@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM0405",
+  "gemeente": "Hoorn",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving gemeente Hoorn (VFL Hoorn), afdeling 3 Kappen van bomen (art. 7.29 t/m 7.31), begrippen in bijlage 1 (boom, houtopstand, vellen), art. 9.2 Strafbepaling(en), CVDR709229_3; leges CVDR752663_1 tarief 2.6.17; omgevingsplan CVDR696308_2 art. 22.299 (alleen aanvraagvereisten). De APV Hoorn art. 4:11 (CVDR709239_3) is '[vervallen]'.",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR709229/3",
+  "datum_geldigheid": "VFL CVDR709229_3 geldend van 2026-11-05 t/m heden",
+  "laatste_wijziging": "VFL versie 3 per 2026-11-05 (jaarlijkse actualisatie, o.a. art. 7.29 gewijzigd; de toelichting noemt art. 7.29 in de lijst van gewijzigde artikelen). Eerdere versie 2025-11-11 t/m 2026-11-04. Beleidsregel VTH CVDR756493_1 per 2026-02-07.",
+  "juridische_plaats": "VFL; de vergunningplicht werkt als omgevingsplanactiviteit: leges 2.6.17 spreekt van 'een omgevingsplanactiviteit bestaande uit het kappen van een boom, zoals bedoeld in het omgevingsplan of zoals bedoeld in de Verordening Fysieke leefomgeving' en omgevingsplan art. 22.299 noemt het vellen van een houtopstand een activiteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Geen materiele kapregel in het omgevingsplan zelf (alleen aanvraagvereisten).",
+  "praktijkcontrole": "Slechts 1 bekendmaking sinds 2025 gevonden met kap in de titel (0 besluiten, 0 aanvragen, 0 weigeringen volgens titel; zoekmethode alleen op titel). Dat is geen bruikbare indicatie: Hoorn publiceert kapbesluiten kennelijk niet of niet onder deze titelwoorden. Geen grondslagverwijzing beoordeeld. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 2 bekendmakingen sinds 1-1-2025, waarvan 0 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning voor het vellen van houtopstanden)",
+  "drempel": "Boom: 'een overblijvend houtig gewas met een doorgaande stam van minimaal 220 centimeter en met een dwarsdoorsnede van de stam van minimaal 15 centimeter op een hoogte van 130 centimeter boven het maaiveld' (bijlage 1 onder 7); houtopstand: 'één of meer bomen' (onder 33)",
+  "omtrek_cm": 47.1,
+  "meethoogte": "130 cm (diameter 15 cm x 3,14 = 47,1 cm omtrek)",
+  "reikwijdte": "Hele gemeente, particulier en openbaar. Art. 7.29 lid 1: 'Het is verboden zonder vergunning van het college houtopstand te (doen) vellen.' De uitzonderingen in lid 2 gelden alleen 'binnen de bebouwde kom'. Daarbuiten geldt het verbod zonder tuinuitzondering. Daarnaast worden in Hoorn volgens beleidsregel CVDR756493_1 'monumentale en/of beeldbepalende bomen aangewezen' (lijst niet ingezien; telt niet voor D omdat het bredere regime geldt). Beschermd stads- of dorpsgezicht: art. 4.17 lid 5 onder e vergunningplicht voor 'cultuurhistorisch waardevolle bomen' (kleine gebiedsregel, telt niet).",
+  "uitzonderingen": "Art. 7.29 lid 2, binnen de bebouwde kom: onder h 'houtopstand(en) in een bij een woning behorende tuin van maximaal 500m² waarop de functie wonen/woondoeleinden rust zoals bedoeld in het vigerende omgevingsplan, tenzij de boom in kwestie is geplant ingevolge de herplantplicht' (ruime tuinuitzondering, oppervlakte 500 m2); onder c fruitbomen en windschermen om boomgaarden; onder a populieren en wilgen als wegbeplanting tenzij geknot; verder gangbaar: dunning, knotten en kandelaberen, Plantenziektewet of aanschrijving, besmette bomen, dode houtopstanden (lid 2 onder d t/m g, i), spoed (lid 4). De uitzonderingen gelden niet voor aangewezen beschermde monumenten. 'Bebouwde kom' is in bijlage 1 gedefinieerd via 'artikel 4.1 eerste lid van de Wet natuurbescherming' (die wet is ingetrokken; verwijzing verouderd, in art. 1:1 APV staat wel Wegenverkeerswet art. 20a).",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Niet van toepassing voor D (breed regime). Aangewezen monumentale/beeldbepalende bomen: lijst niet ingezien.",
+  "weigeringsgronden": "Art. 7.30: 'In afwijking van artikel 1:6 kan het college de vergunning alleen weigeren, dan wel onder voorschriften verlenen als de omstandigheden dit wenselijk of noodzakelijk maken, in het belang van:' natuur- en milieuwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, recreatie en leefbaarheid, en 'de boomwaarde met verwijzingen naar gemeentelijke bestemmings-, groen-, bomen- of landschapsplannen' (limitatief). Dit is W2 (kan weigeren op natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden).",
+  "herplantplicht": "Art. 7.29 lid 5: 'Het college kan een herplantplicht opleggen in de voorschriften behorende bij de omgevingsvergunning.' Bevoegdheid, geen standaardplicht. Geen beleidsregel over herplant of compensatie gevonden in het dossier; geen financiele compensatie of boomwaarde als verplichting.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college, per geval; geen plicht zolang het college niets oplegt). Geen betaling in plaats van herplant geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niet specifiek geregeld. Art. 1.5 lid 2 VFL: 'Degene aan wie krachtens deze verordening een vergunning is verleend, is verplicht de daaraan verbonden voorschriften in acht te nemen.' Art. 9.2: 'Overtreding van het bepaalde bij of krachtens de artikelen in deze verordening is een strafbaar feit en wordt gestraft met inachtneming het bepaalde in hoofdstuk 18 van de wet en de Wet op de economische delicten.' Een opgelegde herplantplicht is dus een voorschrift waarvan niet-naleving strafbaar is; daarnaast het algemene bestuursrechtelijke instrumentarium (niet in de tekst genoemd).",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED via de Omgevingswet: art. 9.2 VFL 'is een strafbaar feit en wordt gestraft met inachtneming het bepaalde in hoofdstuk 18 van de wet en de Wet op de economische delicten'; het vellen is een omgevingsplanactiviteit (leges 2.6.17, omgevingsplan art. 22.299 'in samenhang met artikel 22.8 van de Omgevingswet'), dus WED art. 1a onder 2 via Ow 5.1 (besluit stap 1a). Geen bestuurlijke boete voor kappen in de regeling. In de APV (art. 6:1 lid 2) bestaat een bestuurlijke boete alleen voor Wet veiligheidsregio's. Handhavingsbeleid CVDR756493_1 heeft geen kap-specifieke boete (niet gevonden).",
+  "procedure": "Leges: tarief 2.6.17 onder a 'Kappen reguliere bomen' EUR 334,90; onder b 'Kappen monumentale/ beschermde bomen' EUR 631,60 (CVDR752663_1, 2026). Beslistermijn, publicatie en bezwaar voor kap: niet in de VFL-kapartikelen gevonden (APV art. 1:2 noemt acht weken voor APV-vergunningen; toepasselijkheid op VFL niet vastgesteld). Beleidsregel CVDR756493_1 noemt kappen onder 'overige (omgevingsplan) activiteiten'.",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "status": "ok",
+  "ontbrekend": "Lijst of kaart van aangewezen monumentale en beeldbepalende bomen niet ingezien (telt niet voor D). Praktijkcontrole: slechts 1 bekendmaking gevonden (zoek op titel), dus geen indicatie over aantal kapbesluiten. Beslistermijn en bezwaarregeling voor kap in de VFL niet gevonden.",
+  "artikelnummers": [
+    "VFL 7.29",
+    "VFL 7.30",
+    "VFL 7.31",
+    "VFL 1.5",
+    "VFL 1.6",
+    "VFL 9.2",
+    "VFL bijlage 1 onder 2, 7, 33, 71",
+    "VFL 4.17 lid 5 onder e",
+    "APV 4:11 (vervallen)",
+    "Leges tarief 2.6.17",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "D4: de drempel is een dwarsdoorsnede van 15 cm (omtrek ca. 47 cm) in de hele gemeente. De tuinuitzondering (tuin bij een woning van maximaal 500 m2) geldt alleen binnen de bebouwde kom (art. 7.29 lid 2 aanhef). Buiten de kom dekt het verbod ook tuinen en erven zonder uitzondering. Volgens het besluit 'na Overijssel' telt dat deel gewoon (D4, ook als een tuinboom binnen de kom vrij is). Zonder dat besluit zou de correctie -1 gelden en komt D op 3 (strengheid 50 in plaats van 67). Zie modelsignaal.",
+    "W2: 'kan het college de vergunning alleen weigeren, dan wel onder voorschriften verlenen als de omstandigheden dit wenselijk of noodzakelijk maken, in het belang van' een limitatieve lijst waarden. H1: 'Het college kan een herplantplicht opleggen'.",
+    "Voorbeeldbomen A en B: beide in een tuin van ca. 300 m2 bij een woning, binnen de kom, dus vrijgesteld op grond van art. 7.29 lid 2 onder h; boom B (13 cm doorsnee) valt bovendien onder de drempel van 15 cm. Beide 'nee'.",
+    "Een boom die is geplant op grond van een herplantplicht valt niet onder de tuinuitzondering (lid 2 onder h, 'tenzij').",
+    "Het verbod geldt niet voor houtopstanden 'niet zijnde bomen die door het bevoegd gezag zijn aangewezen als beschermd monument': voor aangewezen bomen geldt dus het verbod ook in kleine tuinen (kleine groep, lijst niet ingezien).",
+    "Beleidsregel VTH (CVDR756493_1): 'In aanvulling hierop zijn in Hoorn ook monumentale en/of beeldbepalende bomen aangewezen.' Bevat geen weigerings-, herplant- of boetebeleid voor kap.",
+    "Geen toekomstige wijziging van de kapregels gevonden. APV art. 4:11 is vervallen; de VFL is sinds 2024-01-01 de plaats van de kapregel (versie 1 van de VFL ingegaan 2024-01-01).",
+    "Open punt: slechts 1 bekendmaking sinds 2025 gevonden; zoeken op titelwoorden is waarschijnlijk te smal voor Hoorn. Het ontbreekt als praktijkindicatie maar verandert de score niet."
+  ],
+  "modelsignalen": [
+    "Hoorn: de tuinuitzondering (<= 500 m2) geldt alleen binnen de bebouwde kom, terwijl bijna alle woontuinen daar liggen. Volgens de regel 'D per deel, neem het hoogste' (besluit na Overijssel) wordt D4, ook al is vrijwel elke gewone tuinboom vrij. Het rapport moet voorbeeldbomen A en B als feit laten voorgaan; de score 67 overschat de bescherming van de gemiddelde tuinboom. Vergelijkbaar met het open signaal bij Zeist."
+  ]
+}

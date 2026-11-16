@@ -1,0 +1,85 @@
+{
+ "gm_code": "GM0823",
+ "gemeente": "Oirschot",
+ "provincie": "Noord-Brabant",
+ "volledig_gelezen": true,
+ "brondocument": "Bomenverordening Oirschot 2010 (CVDR82672_3), art. 1, 2, 3, 5, 8, 9, 12, 18 en Lijst beschermde houtopstanden (aan de verordening toegevoegd, 138 genummerde regels); APV Oirschot 2025 (CVDR734966_1) art. 4:10-4:12 (niet opgenomen), 6:1; Legesverordening 2026 art. 2.30 (CVDR750828_1); Omgevingsplan art. 22.299 (CVDR696416_2)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR82672/3 ; https://lokaleregelgeving.overheid.nl/CVDR734966/1 ; https://lokaleregelgeving.overheid.nl/CVDR750828/1",
+ "datum_geldigheid": "Bomenverordening CVDR82672_3 geldend vanaf 2026-06-26 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "CVDR82672_3: gewijzigd per 2026-06-26 (artikel 3, 5, 6, 8, 8a, bijlage 1 en 2; vastgesteld 2026-05-26). Oorspronkelijk in werking 2010-10-01.",
+ "juridische_plaats": "losse bomenverordening, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening Oirschot in samenhang met artikel 22.8 van de Omgevingswet'. De APV heeft de afdeling houtopstanden niet meer (art. 4:10, 4:11 'niet opgenomen', 4:12 gereserveerd). Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 70 bekendmakingen op titel (39 aanvragen, 1 besluit met weigering voor twee bomen: gmb-2026-194929, 'Vergunning voor het kappen van acht bomen met herplantplicht en de weigering voor twee bomen'). Veel aanvragen, maar de gemeentelijke website zegt dat ook alle bomen op gemeentegrond vergunningplichtig blijven; de besluiten noemen de grondslag niet. Past bij een lijstsysteem met overheidsgrond.",
+ "vergunningplicht": "vergunning voor houtopstanden op de Lijst beschermde houtopstanden, op grondgebied van een overheidsinstelling en geplant als herplant (art. 2 lid 2)",
+ "drempel": "Geen omtrekdrempel voor lijstbomen; de definitie van 'boom' noemt een stamdiameter van minimaal 20 cm op 1,30 m (omtrek ca. 63 cm), maar het kapverbod geldt voor 'houtopstanden' op de lijst",
+ "omtrek_cm": null,
+ "meethoogte": "1,30 m (definitie boom)",
+ "reikwijdte": "Art. 2 lid 2: 'Het verbod geldt uitsluitend voor: a. houtopstanden die opgenomen zijn in de Lijst beschermde houtopstanden van Oirschot; b. houtopstanden die op grondgebied staan van een overheidsinstelling; c. houtopstanden die geplant zijn in het kader van de herplantplicht zoals genoemd in artikel 9.' Voor particuliere bomen dus alleen de lijst (art. 12 lid 1: 'een lijst vast met beschermde particuliere houtopstanden') en herplantbomen. Gewone tuinbomen zijn vrij.",
+ "uitzonderingen": "Art. 2 lid 3: Plantenziektenwet of aanschrijving, periodiek hakhout, knotten of kandelaberen, dunning. Lid 4: omgevingsvergunning aanleggen. Lid 5: Boswet. Lid 6: erfbeplanting uit het register (art. 13). Art. 4: bevel burgemeester bij gevaar. Gangbare uitzonderingen.",
+ "weigeringsgronden": "Art. 5 lid 1: 'Het bevoegd gezag kan de vergunning weigeren, dan wel onder voorschriften verlenen, in het belang van onder meer:- natuur- en milieuwaarden;- landschappelijke/stedenbouwkundige waarden;- cultuurhistorische waarden;- waarden van stads- en dorpsschoon:- waarden van recreatie en/of leefbaarheid;- monumentale waarden;- beeldbepalende waarden.' Art. 3 (voor lijstbomen en gemeentelijke bomen) noemt situaties waarin 'de boom gekapt worden' mag (bijv. lid 6: 'Als een boom een aantasting en/of een levensverwachting heeft van minder dan 5 jaar kan een omgevingsvergunning voor kappen verleend worden.'), met snoei als voorkeursmaatregel.",
+ "herplantplicht": "Art. 8 lid 1 en 3: aan een vergunning 'kunnen ... voorschriften worden verbonden'; 'Tot deze voorschriften kan behoren het voorschrift: ... b. Compensatie van groen dat verloren gaat aan herinrichting of ruimtelijke ontwikkeling gebeurt volgens de onderstaande compensatieladder' (herplant, dan in de wijk, dan in het dorp, dan financieel in het Fonds Stedelijk Groen, bedrag volgens bijlage 2). Art. 8 lid 2: 'Als bij herinrichting van de openbare ruimte of bij een ruimtelijke ontwikkeling openbaar groen verloren gaat, moet dit altijd worden gecompenseerd.' Dat laatste geldt voor openbaar groen en ruimtelijke ontwikkeling, niet voor gewone kap door een particulier. Art. 9 lid 1: herplant na illegale kap 'kan'.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); de compensatieladder (art. 8 lid 3 onder b) eindigt bij financiele compensatie als herplant elders niet haalbaar is, met 'een goede onderbouwing' die 'wordt beoordeeld door de gemeente' (lid 4); alleen voor ruimtelijke ontwikkeling en herinrichting",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 9 lid 4: 'Degene aan wie de verplichting als bedoeld in het eerste, tweede en derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 18 lid 1: 'Degene, die handelt in strijd met artikel 2, eerste lid, of een verplichting opgelegd krachtens artikel 9 wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' (geldt voor herplant na illegale kap; voor een herplantvoorschrift bij een vergunning verwijst art. 18 niet naar art. 8)",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "sancties": "Eigen strafbepaling in de bomenverordening, art. 18 lid 1: 'Degene, die handelt in strijd met artikel 2, eerste lid, of een verplichting opgelegd krachtens artikel 9 wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' 'Bij de strafmaatbepaling kan rekening gehouden worden met de boomwaarde' (rechter, geen bestuurlijke boete). Daarnaast omgevingsplanactiviteit volgens de legesverordening (WED via Ow 5.1, S1 zonder bereik). Geen bestuurlijke boete voor kappen.",
+ "procedure": "Leges omgevingsplanactiviteit kappen: EUR 104,90 (CVDR750828_1 art. 2.30). Beslistermijn, publicatie, bezwaar en beroep: niet in de bomenverordening geregeld (Awb). Aanvrager: 'door of namens dan wel met toestemming van degene die krachtens zakelijk recht ... gerechtigd is' (art. 5 lid 3). Tegemoetkoming: eenmalige onderhoudsbijdrage EUR 500 bij opname op de lijst (art. 6 lid 2).",
+ "lijstsysteem": true,
+ "lijst_ingezien": true,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 138,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "138 genummerde regels op de Lijst beschermde houtopstanden (achter art. 22 van CVDR82672_3, 'beschermde particuliere houtopstanden' volgens art. 12 lid 1); het aantal bomen per regel verschilt en een deel van de regels is niet particulier (bijv. kerkhof, plein); het exacte aantal particuliere regels is niet vast te stellen",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Aantal particuliere regels op de lijst niet exact vast te stellen. Of art. 8 lid 3 onder b (compensatieladder) ook bij gewone kap met vergunning als herplantvoorschrift wordt gebruikt is niet uit een beleidsregel vast te stellen.",
+ "artikelnummers": [
+  "Bomenverordening 1",
+  "Bomenverordening 2",
+  "Bomenverordening 3",
+  "Bomenverordening 5",
+  "Bomenverordening 8",
+  "Bomenverordening 8a",
+  "Bomenverordening 9",
+  "Bomenverordening 12",
+  "Bomenverordening 18",
+  "APV 4:10-4:12 (niet opgenomen)",
+  "Leges 2.30",
+  "Omgevingsplan 22.299"
+ ],
+ "opmerkingen": [
+  "D1: lijstsysteem. Art. 2 lid 2: 'Het verbod geldt uitsluitend voor: a. houtopstanden die opgenomen zijn in de Lijst beschermde houtopstanden van Oirschot; b. houtopstanden die op grondgebied staan van een overheidsinstelling; c. houtopstanden die geplant zijn in het kader van de herplantplicht zoals genoemd in artikel 9.' De lijst is ingezien (138 regels, adressen, niet overgenomen) en bevat particuliere houtopstanden (art. 12 lid 1: 'beschermde particuliere houtopstanden'). Onderdeel b dekt geen burgerpercelen; onderdeel c dekt alleen bomen die al eerder als herplant zijn opgelegd.",
+  "W2 (bereik 2-3): art. 5 lid 1 'kan de vergunning weigeren, dan wel onder voorschriften verlenen, in het belang van onder meer' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden is belangenafweging (W2). Art. 3 (toetsingscriteria voor lijstbomen) geeft een lijst situaties waarin kap kan of mag worden verleend (aantasting of levensverwachting minder dan 5 jaar, schade aan bouwwerk, 100% schaduw, zwaarwegend algemeen belang) en zegt 'Snoei is altijd de voorkeursmaatregel'; dat komt in de buurt van gesloten verleningsgronden (W3). Maximaal 3.",
+  "H1: alleen 'kan'. Art. 8 lid 2 ('moet dit altijd worden gecompenseerd') en de compensatieladder met boomwaarde (bijlage 2) gelden voor openbaar groen bij herinrichting en ruimtelijke ontwikkeling, en art. 8a (boomwaarde bij nieuwe ontwikkelingen) voor ontwikkelaars. Die verhogen H niet (INTENT, ruimtelijke ontwikkeling). De bekendmaking gmb-2026-194929 spreekt van een vergunning 'met herplantplicht', maar dat is een indicatie en noemt geen grondslag.",
+  "S1: eigen strafbepaling (art. 18) en omgevingsplanactiviteit (leges art. 2.30). De APV Oirschot 2025 (CVDR734966_1) regelt geen kap meer; art. 6:1 lid 2 noemt art. 4:15 en niet een kapartikel.",
+  "Twee regelingen met een kapregel: de Bomenverordening 2010 (CVDR82672_3, gewijzigd per 2026-06-26) en de APV 2025, waarin afdeling 4.3 is 'niet opgenomen'. De legesverordening wijst de Bomenverordening aan als grondslag; gescoord op de Bomenverordening.",
+  "Artikel 1 definieert 'boom' met een diameter van minimaal 20 cm (ca. 63 cm omtrek), maar het verbod in art. 2 gebruikt 'houtopstand' en de lijstbomen zijn beschermd ongeacht omvang; scoor D op het verbod.",
+  "De gemeentelijke website (https://www.oirschot.nl/boom-kappen) bevestigt dit: 'Bomen van particulieren zijn alleen vergunningsplichtig wanneer deze voorkomen op de Lijst beschermde houtopstanden van Oirschot. De overige bomen kun je dus zonder vergunning kappen.' Dit is geen bron voor de score, wel een indicatie."
+ ],
+ "modelsignalen": [
+  "De lijst staat als bijlage in dezelfde tekst als de verordening, maar zonder eigendomsgegevens per regel; het aantal particuliere bomen is daardoor niet exact te geven. Art. 2 lid 2 onder c (bomen die als herplant zijn aangeplant) beschermt ook particuliere bomen buiten de lijst, zonder dat het model dat kent.",
+  "Art. 3 (Toetsingscriteria) beschrijft wanneer een lijstboom mag worden gekapt (gesloten situaties), terwijl art. 5 een 'kan weigeren'-belangenafweging geeft: de toetsing is niet eenduidig W2 of W3 volgens INTENT."
+ ]
+}

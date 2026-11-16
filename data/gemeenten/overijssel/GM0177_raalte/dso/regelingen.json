@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0177/2025/programma-20250709-111648",
+    "titel": "Programma Groei, wonen en werken",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0177/2025/programma-20250709-111648/nld@2025-12-24;1",
+    "beginGeldigheid": "2025-12-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0177_2025_programma_20250709_111648?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0177/2026/vbb-old_heino",
+    "titel": "Voorbeschermingsregels Vakantiepark Landgoed Old Heino",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0177/2026/vbb-old_heino/nld@2026-04-24;1",
+    "beginGeldigheid": "2026-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0177_2026_vbb_old_heino?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0177/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Raalte",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0177/2020/omgevingsplan/nld@2026-07-15;08025241",
+    "beginGeldigheid": "2026-08-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0177_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:57Z"
+  }
+]

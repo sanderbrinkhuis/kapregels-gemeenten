@@ -1,0 +1,29 @@
+{
+  "gemeente": "Valkenswaard",
+  "gm_code": "GM0858",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Valkenswaard",
+  "zoeknaam_bekendmakingen": "Valkenswaard",
+  "opgehaald_op": "2026-11-15T21:05:29+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Valkenswaard\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 44,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Valkenswaard\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 239,
+  "geldende_regelingen": 13,
+  "geldend_met_kapartikelen": [
+    "CVDR411522_1",
+    "CVDR444015_1",
+    "CVDR477051_2",
+    "CVDR692145_1",
+    "CVDR696426_4",
+    "CVDR710714_1",
+    "CVDR748612_1"
+  ],
+  "bekendmakingen_besluiten": 121,
+  "bekendmakingen_aanvragen": 116,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

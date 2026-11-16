@@ -1,0 +1,29 @@
+{
+  "gemeente": "Noordenveld",
+  "gm_code": "GM1699",
+  "provincie": "Drenthe",
+  "zoeknaam_cvdr": "Noordenveld",
+  "zoeknaam_bekendmakingen": "Noordenveld",
+  "opgehaald_op": "2026-11-14T13:47:43+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Noordenveld\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 69,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Noordenveld\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 105,
+  "geldende_regelingen": 11,
+  "geldend_met_kapartikelen": [
+    "CVDR447277_1",
+    "CVDR658026_1",
+    "CVDR661179_3",
+    "CVDR696480_6",
+    "CVDR726051_1",
+    "CVDR751945_3",
+    "CVDR81185_1"
+  ],
+  "bekendmakingen_besluiten": 18,
+  "bekendmakingen_aanvragen": 0,
+  "bekendmakingen_geweigerd": 13,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,75 @@
+{
+  "provincie": "Groningen",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet van toepassing: geen lijstsysteem",
+  "volledig_gelezen": true,
+  "status": "ok",
+  "herplant_betalen_als_alternatief": "nee",
+  "gm_code": "GM1950",
+  "gemeente": "Westerwolde",
+  "brondocument": "APV Westerwolde 2026 afd. 4.3 (CVDR758851_1) art. 4:10, 4:11, 6:1; Bomenbeleidsplan Westerwolde 2019 (CVDR724142_1); Legesverordening 2026 (CVDR754062_1) art. 2.30; Omgevingsplan (CVDR696530_3) art. 22.299; Uitvoering- en handhavingsstrategie (CVDR739016_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR758851/1",
+  "datum_geldigheid": "APV: geldend van 19-03-2026 t/m heden (peildatum 14-11-2026)",
+  "laatste_wijziging": "APV 2026 in werking 19-03-2026; omgevingsplan versie 3 in werking 01-10-2026 (alleen aanvraagvereisten)",
+  "juridische_plaats": "APV; werkt als omgevingsplanactiviteit (leges art. 2.30 'vellen van een houtopstand, bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "411 bekendmakingen sinds 2025: 166 besluiten, 233 aanvragen, 6 geweigerd volgens titel. Steekproef van 10: allemaal verleende vergunningen of ingetrokken aanvragen, meestal 'kap 1 boom', veelal 'met herplant'. Past bij een regime voor de hele gemeente met een gemiddelde tot hoge drempel; geen grondslagcitaat in de besluiten.",
+  "vergunningplicht": "vergunning (omgevingsvergunning)",
+  "drempel": "Boom = dwarsdoorsnede van minimaal 40 cm op 1,3 m (art. 4:10 lid 1 sub c)",
+  "omtrek_cm": 125.6,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele grondgebied, binnen en buiten de bebouwde kom, particulier en openbaar; 'houtopstanden' = hakhout, houtwal of bomen (art. 4:10); geen uitzondering voor tuinen, erven of bebouwde kom. Het bevoegd gezag buiten de bebouwde kom kan de provincie zijn (Bal).",
+  "uitzonderingen": "Niet-geknotte populieren of wilgen als wegbeplanting of eenrijige beplanting op of langs landbouwgrond; vruchtbomen en windschermen om boomgaarden; kerstbomen (fijnspar, max. 12 jaar); kweekgoed; dunning; bosbouwondernemingen buiten de bebouwde kom; Plantenziektewet of aanschrijving; spoed of direct gevaar (art. 4:11 lid 2 en 3). Gangbaar, geen correctie op D.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:11 lid 4: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ... b. de landschappelijke waarde ... c. ... stads- en dorpsschoon; d. de beeldbepalende waarde; e. de cultuurhistorische waarde; f. de waarde voor de leefbaarheid'. Bomenbeleidsplan: 'Bomen worden niet gekapt, tenzij...' (beleidsvisie, geen bindende toetsing).",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel gevonden die herplant tot vast voorschrift maakt (bomenbeleidsplan noemt herplant alleen als onderdeel van 'de tenzij').",
+  "herplant_ontsnapping": "Niet van toepassing: herplant is een bevoegdheid ('kan'); het college beslist per geval. Geen regel over betaling in plaats van herplant.",
+  "herplant_type": "kan",
+  "herplant_na_illegale_kap": "onbekend",
+  "herplant_niet_nakomen": "Niet specifiek geregeld. Art. 6:1 lid 1 noemt art. 1:4 (voorschriften en beperkingen): overtreding wordt 'gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'; lid 3: WED art. 1a van toepassing bij art. 4:11.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de regeling: art. 6:1 lid 3 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10, 2:11, 2:12 en 4:11'; geen bestuurlijke boete. Handhavingsstrategie 2025-2029: 'De gemeente bestrijdt het handelen zonder of in strijd met een omgevingsvergunning voor vellen van houtopstand' (algemene doelstelling, geen boetebeleid)",
+  "procedure": "Leges art. 2.30: EUR 82,05. Beslistermijn en bezwaar/beroep volgens Omgevingswet en Awb (APV 1:2 niet van toepassing op omgevingsvergunning). Publicatie in Gemeenteblad.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "ontbrekend": "Omgevingsplan (tijdelijk deel) in het DSO niet ingezien. Bomencatalogus en bomenkaart uit het bomenbeleidsplan (alleen gemeentelijke bomen) niet ingezien. Herplant na illegale kap: geen bepaling gevonden.",
+  "artikelnummers": [
+    "APV 4:10",
+    "APV 4:11 lid 1-5",
+    "APV 6:1 lid 1 en 3",
+    "Leges art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Bomenbeleidsplan 2019 (CVDR724142_1)"
+  ],
+  "opmerkingen": [
+    "D2: alle bomen met een dwarsdoorsnede van minimaal 40 cm (omtrek ca. 125,6 cm) binnen en buiten de bebouwde kom, hoge drempel (>100 cm). Geen tuinuitzondering.",
+    "W2: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (art. 4:11 lid 4).",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften' (art. 4:11 lid 5). Bomenbeleidsplan 2019 (CVDR724142_1) is een visie en maakt herplant niet tot vast voorschrift. De steekproef bekendmakingen noemt vaak 'met herplant', maar ook 'zonder herplant', dus per geval.",
+    "S1: WED-aanwijzing in APV 6:1 lid 3 plus strafbepaling; geen bestuurlijke boete en geen boetebeleid gevonden.",
+    "Het bomenbeleidsplan noemt aanwijzing van elementen en bomen met meer dan 23 punten met kapverbod, maar 'Deze elementen kunnen enkel gemeentelijk eigendom zijn'; telt niet voor particulier terrein.",
+    "Het bomenbeleidsplan verwijst naar 'artikel 4.11, derde lid' voor de ontheffing wegens spoed; in de APV 2026 is dat lid 3 (burgemeester). Geen invloed op de score."
+  ],
+  "modelsignalen": []
+}

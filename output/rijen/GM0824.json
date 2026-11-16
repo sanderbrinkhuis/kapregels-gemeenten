@@ -1,0 +1,82 @@
+{
+  "gm_code": "GM0824",
+  "gemeente": "Oisterwijk",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene plaatselijke verordening gemeente Oisterwijk 2021, hoofdstuk 4 afdeling 3 'Het bewaren van houtopstanden' (art. 4:10, 4:11a-4:11f, 6:1); Beleidskader groene kaart (CVDR681266_1); Besluit vaststelling Groene kaart en bomenregister (CVDR469258_1); Legesverordening 2026 (CVDR752250_2); Omgevingsplan (CVDR696419_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR653126/4",
+  "datum_geldigheid": "geldend van 2024-12-25 t/m heden (CVDR653126_4; peildatum 2026-11-15)",
+  "laatste_wijziging": "2024-12-25 (wijziging o.a. art. 4:10 en 4:11a, CVDR653126_4); Groene Kaart vastgesteld 2017-10-17 (CVDR469258_1), met deelkaart Haaren sinds de herindeling 2021",
+  "juridische_plaats": "APV 2021 afd. 4.3; werkt als omgevingsplanactiviteit: legesverordening 2026 tarief 2.30 noemt het vellen 'bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 7.7 (vergunningplicht voor bomen) geldt alleen op locaties met de functie natuur of openbaar gebied; art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 178 bekendmakingen over kap, 87 besluiten, 5 weigeringen volgens titel (o.a. een weigering voor het kappen van 4 populieren, gmb-2026-389483, en een vergunning voor het kappen van 12 vergunningplichtige bomen, gmb-2026-522401). Hoog aantal besluiten past bij vergunningplicht voor de Groene Kaart plus bomen > 40 cm doorsnee buiten de kom. Geen grondslag genoemd in de 10 gelezen besluiten.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van beschermde houtopstanden: binnen de kom alleen bomen, boomvlakken en boomstructuren op de Groene Kaart; buiten de kom bomen > 40 cm doorsnee op erven en in tuinen (art. 4:11a lid 1 en 2)",
+  "drempel": "Binnen de bebouwde kom: geen maat, alleen wat op de Groene Kaart staat (art. 4:11a lid 1; een 'boom' is vanaf 10 cm doorsnee, art. 4:10 sub a). Buiten de bebouwde kom: diameter > 40 cm op 1,3 m op erven of in tuinen (art. 4:11a lid 2 sub a), omgerekend 40 x 3,14 = 125,6 cm omtrek (de website noemt 125 cm).",
+  "omtrek_cm": 125.6,
+  "meethoogte": "1,3 m boven het maaiveld",
+  "reikwijdte": "Binnen de bebouwde kom: alleen 'een houtopstand die is opgenomen op de door het college vastgestelde Groene Kaart' (3 deelkaarten Oisterwijk, Moergestel en Haaren, met bomenregister; boomvlakken, boomstructuren en waardevolle bomen, particulier en gemeentelijk) en herplantbomen. Buiten de bebouwde kom: bomen > 40 cm op erven of in tuinen (hele buitengebied), en zelfstandige eenheden tot 10 are of 20 bomen. Bebouwde kom is de komgrens van art. 4:10 sub n (bebouwingscontour houtkap 2017).",
+  "uitzonderingen": "Art. 4:11a lid 3: Plantgezondheidswet of aanschrijving; periodiek hakhout, scheren, knotten, kandelaberen; snoeien bij achterstallig onderhoud; dunning; productiematige teelt van boomkwekerijen; houtopstanden hoger dan de bouwmassa binnen het molenbiotoop bij aantoonbare windhinder. Lid 4: spoedeisend belang of direct gevaar (burgemeester). Geen uitzondering voor tuinen of percelen; buiten de kom vallen tuinen en erven juist onder het verbod. Art. 4:11c: hardheidsclausule.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": 370,
+  "lijst_aantal_particulier": 125,
+  "weigeringsgronden": "Art. 4:11b lid 1 (Groene Kaart in de kom): 'mag slechts en moet worden verleend indien alternatieven voor behoud uitputtend zijn onderzocht en een zwaarwegend algemeen maatschappelijk belang, van niet-tijdelijke aard opweegt tegen duurzaam behoud van de houtopstand of naar boomdeskundige maatstaven instandhouding van de houtopstand niet langer verantwoord is ter voorkoming van letsel of schade'. Lid 2 (buiten de kom): verlenen bij een puntentotaal < 19 (beleidskader), bij 19 of meer dezelfde gesloten gronden. Beleidskader: vergunning voor Groene-Kaartbomen 'alleen in uitzonderlijke situaties'.",
+  "herplantplicht": "Art. 4:11e lid 1: 'Tot de aan de vergunning voor het vellen, het doen vellen of het laten vellen van beschermde houtopstanden te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Na illegale kap art. 4:11f lid 1: 'kan het bevoegd gezag' de verplichting opleggen. Instandhouding minimaal 40 jaar (lid 3). Geen beleidsregel over herplant of compensatie gevonden (Beleidskader groene kaart bevat geen herplantregel). Geen financiele compensatie.",
+  "herplant_ontsnapping": "'kan': bevoegdheid van het bevoegd gezag per geval, geen plicht (art. 4:11e lid 1 en 4:11f lid 1). Geen betaling in plaats van herplant.",
+  "sancties": "WED-aanwijzing in de regeling: APV 6:1 lid 2: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit en artikel 4:11a, eerste en tweede lid'. Daarnaast leges 2.30 (omgevingsplanactiviteit, in samenhang met art. 22.8 Ow). Lid 1: algemene strafbepaling (hechtenis tot drie maanden of geldboete tweede categorie). Geen bestuurlijke boete voor kap. Uitvoerings- en handhavingsstrategie 2024-2027 (CVDR709416_1) noemt kap alleen in de risicomatrix ('Verwijderen of beschadigen van waardevolle bomen' hoog).",
+  "procedure": "Leges 2026 tarief 2.30: EUR 38,60 per boom, maximum EUR 772,00. Beslistermijn: APV art. 1:2 lid 4 niet van toepassing op omgevingsvergunning. Geen positieve fictieve beschikking: art. 4:11b lid 4. Vergunning vervalt na 1 jaar (art. 4:11d). Groene Kaart en register worden elke 5 jaar geactualiseerd; eigenaren worden aangeschreven en kunnen bezwaar maken (Beleidskader 3.1-3.2).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:11e lid 5 en 4:11f lid 5: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: overtreding van het bij of krachtens de artikelen van de verordening bepaalde 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 1,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_telling": "ca. 370 regels (genummerde waardevolle bomen) op de bomenlijst-pdf van oisterwijk.nl (https://www.oisterwijk.nl/fileadmin/Oisterwijk/Documenten/Bouwen_en_verbouwen/bomenlijst.pdf, opgehaald 2026-11-15; tekstextractie): 125 met eigenaar 'particulier', 143 'gemeentelijk' en ca. 102 zonder leesbare eigenaarsvermelding. Boomvlakken en boomstructuren op de drie kaart-pdf's (Oisterwijk, Moergestel, Haaren) niet geteld.",
+  "status": "ok",
+  "ontbrekend": "De drie kaarten van de Groene Kaart (pdf op oisterwijk.nl) niet geanalyseerd; aantal boomvlakken en -structuren onbekend. Bomenlijst telt 102 regels zonder leesbare eigenaar; het aantal particuliere bomen is dus een ondergrens. De bomenlijst en kaarten staan niet in CVDR. Beoordelingscriteria hoofdstuk 2/3 van het Beleidskader: alleen deels gelezen (grep). DSO-omgevingsplan niet ingezien.",
+  "artikelnummers": [
+    "APV 2021 art. 4:10, 4:11a, 4:11b, 4:11c, 4:11d, 4:11e, 4:11f, 1:2, 1:8, 6:1",
+    "Beleidskader groene kaart (CVDR681266_1) par. 1.1-2.3",
+    "Groene Kaart (CVDR469258_1)",
+    "Leges 2026 tarief 2.30",
+    "Omgevingsplan art. 7.6-7.9 (natuur en openbaar gebied), 22.299"
+  ],
+  "opmerkingen": [
+    "D2: buiten de kom geldt het verbod voor bomen met 40 cm doorsnee (omtrek 125,6 cm) op erven en in tuinen: hoge drempel, D2. Binnen de kom is alleen de Groene Kaart beschermd (lijst, boomvlakken, boomstructuren; D1-2). Hoogste deel bepaalt D (regel 14-11-2026 na Overijssel).",
+    "Voorbeeldbomen A en B (achtertuin binnen de kom): alleen vergunningplichtig als op de Groene Kaart of bomenlijst; de website (https://www.oisterwijk.nl/bouwen-en-verbouwen/kapvergunning, bekeken 2026-11-15) zegt hetzelfde: binnen de kom vergunning voor bomen op de groene kaart.",
+    "W3 (min 1): art. 4:11b lid 1 'mag slechts en moet worden verleend indien' met een gesloten lijst gronden (zwaarwegend algemeen maatschappelijk belang of onverantwoord behoud); gesloten verleningsgronden = W3. Voor bomen buiten de kom met een puntentotaal < 19 moet de vergunning worden verleend (lid 2 sub a), dus daar W1; het regime voor de Groene Kaart telt het zwaarst. Het bereik loopt daarom van 1 tot 3.",
+    "H1: 'kan behoren het voorschrift dat ... moet worden herplant'; geen vastgestelde beleidsregel die herplant verplicht stelt.",
+    "S1: WED-aanwijzing in APV 6:1 lid 2 voor art. 4:11a lid 1 en 2 (juist verwezen), en omgevingsplanactiviteit volgens leges 2.30.",
+    "Haaren: er zijn geen geldende kapregels van de voormalige gemeente Haaren; alle Haarense CVDR-regelingen over bomen/APV/beleidsregels waardevolle houtopstanden (SRU-zoekopdracht creator Haaren, 52 treffers) hebben een uitwerkingtredingsdatum uiterlijk 2023-01-01. De APV Oisterwijk 2021 geldt voor het hele nieuwe grondgebied; de Groene Kaart heeft sinds 2021 een deelkaart Haaren (art. 4:10 sub f).",
+    "Omgevingsplan art. 7.7: 'Voor het verwijderen, kappen of rooien van bomen of andere opgaande beplanting ... is een omgevingsvergunning nodig' op locaties met de functie natuur en openbaar gebied (art. 3.16 en 3.18). Dit is een aangewezen gebied (natuur) zonder omvangsdrempel; het raakt D niet omdat het hoogste deel D2 blijft en particuliere burgerpercelen niet de functie natuur hebben. Beoordelingsregel 7.9: 'de natuur- en landschapswaarden niet onevenredig worden aangetast'.",
+    "Beleidskader groene kaart stelt: 'Voor het kappen van de overige bomen is geen vergunning noodzakelijk.' (binnen de kom); bomen op de Groene Kaart: kapvergunning 'alleen in uitzonderlijke situaties'. Bij 19 punten of meer wordt een boom op de Groene Kaart geplaatst.",
+    "Bomenlijst op oisterwijk.nl: 370 regels, waarvan 125 particulier, 143 gemeentelijk en ca. 102 zonder eigenaarsvermelding (tekstextractie uit pdf; ondergrens). Aantallen van particuliere bomen op de kaarten voor boomvlakken en structuren onbekend.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 3.16 en 3.18 verwijzen alleen naar paragraaf 7.2.1; art. 7.6 en 7.7 ('Voor het verwijderen, kappen of rooien van bomen ... is een omgevingsvergunning nodig') gelden alleen op locaties met de functie natuur of openbaar gebied en raken geen particuliere tuinen; art. 22.297 en 22.299 zijn alleen aanvraagvereisten. Geen aanvullende kapregel voor particuliere bomen; D2 W3 H1 S1 ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Gecombineerd systeem: lijst/kaart binnen de kom (boomvlakken, structuren, waardevolle bomen) plus een omtrekdrempel van 40 cm doorsnee voor erven en tuinen buiten de kom. Volgens INTENT.md bepaalt het hoogste deel D (D2); de voorbeeldbomen A en B zijn 'alleen als op lijst'. De regel 'binnen de kom andere regels dan buiten' geeft hier geen onderscheid in D.",
+    "W verschilt per deel: Groene Kaart in de kom W3 (gesloten gronden), buiten de kom W1 voor bomen met < 19 punten en W3 daarboven. INTENT.md zegt 'regime voor het grootste deel van de gedekte bomen', maar het aantal bomen per deel is onbekend; W3 met minimum 1 gekozen.",
+    "Verleningsplicht bij laag puntentotaal ('moet worden verleend') combineert een vergunningplicht met in feite een verlening-altijd-regel; het model heeft hier geen aparte W-waarde voor (W1 als dichtstbijzijnde)."
+  ]
+}

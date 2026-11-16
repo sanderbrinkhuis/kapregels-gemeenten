@@ -1,0 +1,88 @@
+{
+ "gm_code": "GM0579",
+ "gemeente": "Oegstgeest",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Verordening fysieke leefomgeving Oegstgeest 2024 (VFL), art. 2.12, 3.98 t/m 3.106, 7.2, 7.3 en bijlage I (begrippen), CVDR702100_1; Bomenbeleid 2025 (hoofdstuk 7), CVDR738456_1; Bomenlijst 2021, CVDR665233_1; Besluit beoordelingscriteria bomenlijst, CVDR645294_1; leges 2026 art. 2.30, CVDR752346_2; omgevingsplan art. 22.298 (alleen aanvraagvereisten), CVDR696357_2. Niet ingezien: Groene Kaart 2024 (boomgebieden) en de Bomenlijst zelf.",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR702100/1",
+ "datum_geldigheid": "VFL CVDR702100_1 geldend van 2024-01-01 t/m heden; Bomenbeleid CVDR738456_1 geldend van 2025-04-24 t/m heden; leges CVDR752346_2 geldend van 2026-10-01 t/m heden; omgevingsplan CVDR696357_2 geldend van 2024-12-20 t/m heden",
+ "laatste_wijziging": "VFL versie 1 per 2024-01-01 (geen latere versie); Groene Kaart technisch aangepast op 2024-12-10 (gemeentelijke website)",
+ "juridische_plaats": "VFL (paragraaf 3.6.2), werkt als omgevingsplanactiviteit: leges art. 2.30 spreekt van 'het vellen van een houtopstand, bedoeld in artikel 3:100 en 3:101 van de Verordening fysieke leefomgeving Oegstgeest, in samenhang met artikel 22.8 van de Omgevingswet'. APV afdeling 4.3 is vervallen (art. 4:10 t/m 4:12). Het omgevingsplan bevat alleen aanvraagvereisten (art. 22.298).",
+ "praktijkcontrole": "80 bekendmakingen sinds 2025 (zoekmethode titel): 1 besluit, 41 aanvragen, 1 weigering volgens titel (kenmerk gmb-2025-92513, weigering kap van een linde). Geen grondslag genoemd. Weinig besluiten gevonden; geen indicatie van een breder regime.",
+ "vergunningplicht": "Vergunning (art. 3.100 en 3.101) voor het vellen van (1) monumentale of waardevolle houtopstanden op de bomenlijst en (2) overige bomen vanaf 15 cm diameter in een 'boomgebied' op de groene kaart.",
+ "drempel": "Art. 3.101 lid 1 onder a: 'een boom met een stamdiameter van ten minste 15 cm in een boomgebied'. Voor bomen op de bomenlijst geldt geen drempel (art. 3.100).",
+ "omtrek_cm": 47.1,
+ "meethoogte": "1,30 m (art. 3.112 lid 1: 'gemeten op een hoogte van 130 cm boven het maaiveld'); 15 cm x 3,14 = 47,1 cm omtrek",
+ "reikwijdte": "Twee stelsels. (1) Bomenlijst (art. 2.12 lid 3: 'De bomenlijst bevat monumentale en waardevolle houtopstanden'); volgens Bomenbeleid 2025 7.2 staan die 'zowel in particuliere tuinen als in openbaar gebied'. (2) Boomgebieden op de groene kaart (art. 2.12 lid 2: 'De groene kaart bevat een samenhangend geheel van boomgebieden met houtopstanden'); particulieren en overheid zijn gebonden (Bomenbeleid 7.1: 'Voor alle 'boomgebieden' ... kunnen particulieren, en ook de overheid zelf, voortaan niet zomaar meer bomen of struiken kappen'). Houtopstand: 'een of meer bomen, boomvormers of andere houtachtige gewassen'. De kaart toont volgens het beleid 'groenstructuren' zoals lanen en bomenrijen; niet ingezien, dus onbekend hoeveel particuliere tuinen erin liggen.",
+ "uitzonderingen": "Art. 3.100 lid 2: Plantgezondheidswet of bestuurlijke sanctie; scheren, knotten of kandelaberen van vorm- en knotbomen; gemeentelijke dunning of velling. Art. 3.101 lid 2 onder d: 'fruitbomen, tenzij het gaat om hoogstamfruitbomen', windschermen om boomgaarden, kerstbomen, kweekgoed en biomassabeplantingen. Fruitbomen (deels) en boomgaarden geven geen correctie (besluit 15-11-2026). Geen tuin-, perceel- of soortuitzondering voor alle tuinbomen, dus geen correctie.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": 613,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "613 beschermwaardige bomen (aantal bomen), bron: Bomenbeleid 2025 par. 7.1, CVDR738456_1 (vastgesteld beleid, geldend). Het aantal particuliere bomen is niet bekend; Bomenbeleid 7.2 zegt dat de bomen 'zowel in particuliere tuinen als in openbaar gebied' staan. Lijst zelf niet ingezien.",
+ "weigeringsgronden": "VFL art. 3.103 lid 3 (overige houtopstand, dus boomgebied): 'Een vergunning voor het vellen van een andere dan een monumentale of waardevolle houtopstand kan, onverminderd het eerste lid, worden verleend als het belang dat is gediend bij het vellen opweegt tegen een waarde als bedoeld in artikel 3.98, tweede lid, onder c.' (natuur, landschap, cultuurhistorie, dendrologie, beeld, stads- en dorpsschoon, recreatie): W2 zonder bereik. Voor lijstbomen (lid 2) strenger: 'kan ... worden verleend: ... als een zwaarwegend algemeen maatschappelijk belang opweegt tegen het belang van behoud van de houtopstand' (monumentaal) en 'als een algemeen maatschappelijk belang of een zwaarwegend individueel belang van niet tijdelijke aard opweegt' (waardevol): W3-achtig, alleen vermeld.",
+ "herplantplicht": "VFL art. 3.105 lid 1: 'Aan een vergunning wordt in ieder geval het voorschrift verbonden dat binnen een bij dat voorschrift gestelde termijn en volgens de door het college gegeven aanwijzingen wordt overgegaan tot het herplanten van houtopstand, tenzij daarvan met redenen omkleed wordt afgeweken.' Lid 2: bij onmogelijke herplant 'kan aan de vergunning een voorschrift worden verbonden die inhoudt dat een geldelijke bijdrage moet worden geleverd aan een fonds, waarvan de hoogte is gebaseerd op de maximale boomwaarde van de gevelde houtopstand' (alleen 'kan', telt niet voor H3). Bomenbeleid 7.5 zegt: 'Een herplantplicht kan worden opgelegd indien houtopstanden verdwijnen door een ruimtelijke ontwikkeling.' H2.",
+ "herplant_ontsnapping": "Art. 3.105 lid 1: 'tenzij daarvan met redenen omkleed wordt afgeweken'. Betalen in plaats van herplanten 'kan' (lid 2 en 3), niet verplicht. Het college beslist, per geval. Na illegale kap: geen regeling gevonden.",
+ "herplant_type": "in beginsel/tenzij",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Strafbepaling art. 7.2: 'Overtreding van artikel 3.3, 3.6, derde lid, of 3.12 of een bij of krachtens een artikel in de paragrafen 3.3.2 en 3.3.3 of de afdelingen 3.4 tot en met 3.6 en 4.1 gestelde regel, wordt gestraft met een geldboete van de tweede categorie of met hechtenis van ten hoogste drie maanden.' Het herplantartikel wordt niet bij nummer genoemd; een vergunningvoorschrift 'krachtens' art. 3.105 valt wel onder 'afdelingen 3.4 tot en met 3.6'. Geen 'is verplicht daaraan te voldoen'-bepaling. Op grond van de vaste invulling: niets geregeld (zie modelsignaal).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Eigen strafbepaling VFL art. 7.2 ('geldboete van de tweede categorie of met hechtenis van ten hoogste drie maanden') voor regels in afdeling 3.6. WED via de Omgevingswet (route: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'). De WED-aanwijzing art. 7.3 verwijst naar paragraaf 3.3.4 (afvalbeheer) en niet naar de kapregels (foute verwijzing). Geen bestuurlijke boete in de regeling. Herplant na illegale kap niet geregeld (art. 3.106 geldt alleen na Plantgezondheidswet of bestuurlijke sanctie). Bomenbeleid 7.6 noemt wel 'geldboetes ... bij illegale kap' die in het fonds komen, maar dat is beleid. S1.",
+ "procedure": "Leges 2026 art. 2.30: € 211,30 (CVDR752346_2). Vergunning geldt drie jaar (art. 3.104). Aanvraagvereisten art. 3.102 en omgevingsplan art. 22.298. Bezwaar en beroep en beslistermijn: algemene Awb-procedure (VFL art. 1.2 beslistermijn niet nagelezen voor kap).",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "status": "onzeker",
+ "ontbrekend": "Groene Kaart (boomgebieden) en de Bomenlijst 2021 niet ingezien: onbekend hoeveel particuliere tuinen in boomgebieden liggen en hoeveel van de 613 lijstbomen particulier zijn. Besluit beoordelingscriteria bomenlijst verwijst nog naar de ingetrokken Bomenverordening 2019 en is alleen gebruikt als achtergrond.",
+ "artikelnummers": [
+  "VFL 2.12",
+  "VFL 3.98",
+  "VFL 3.100",
+  "VFL 3.101",
+  "VFL 3.103",
+  "VFL 3.105",
+  "VFL 3.106",
+  "VFL 3.112",
+  "VFL 7.2",
+  "VFL 7.3",
+  "VFL bijlage I (boomgebied, houtopstand, waardevolle houtopstand)",
+  "Bomenbeleid 2025 7.1, 7.2, 7.5, 7.6",
+  "Leges 2.30",
+  "Omgevingsplan 22.298"
+ ],
+ "opmerkingen": [
+  "D2, bereik 1-2: de verbodstekst (art. 3.101) beschermt bomen vanaf 15 cm diameter (47,1 cm omtrek) in boomgebieden op de groene kaart. Dat is een aangewezen gebied of structuur; de kaart is niet ingezien. Volgens het besluit voor niet-ingezien kaarten met gebieden of structuren: D=2 met minimum 1. Naast de boomgebieden geldt een bomenlijst (613 bomen, deels particulier); het breedste regime bepaalt D.",
+  "W2 (max 3): voor het breedste stelsel (boomgebied) 'kan ... worden verleend als het belang dat is gediend bij het vellen opweegt tegen een waarde' = belangenafweging. Voor de lijstbomen, waarvan een groter deel particulier kan zijn, geldt een strengere, gesloten toets (art. 3.103 lid 2); daarom maximum 3. Lid 1 (alleen vellen bij vordering ex art. 5:42 BW of direct gevaar) geldt voor alle gevallen en is geen toetsing van de boomwaarden.",
+  "H2: art. 3.105 lid 1 'wordt in ieder geval het voorschrift verbonden' herplant, 'tenzij ... met redenen omkleed wordt afgeweken'. Het Bomenbeleid 2025 7.5 zegt dat een herplantplicht 'kan worden opgelegd indien houtopstanden verdwijnen door een ruimtelijke ontwikkeling'; dat spreekt de verordening niet tegen voor zover het over ruimtelijke projecten gaat, en de verordening gaat voor. Betaling in plaats van herplant 'kan' alleen: geen H3.",
+  "S1: eigen strafbepaling art. 7.2 en WED via de Omgevingswet (leges 2.30). De WED-aanwijzing art. 7.3 verwijst naar het verkeerde artikel (paragraaf 3.3.4 afvalbeheer). Geen bestuurlijke boete in de regeling.",
+  "Boom A (80 cm omtrek, ca. 25 cm) en boom B (40 cm omtrek, ca. 13 cm): 'alleen als op lijst'. A valt boven de 15 cm diameter, maar in een achtertuin alleen onder de regeling als de boom op de bomenlijst staat of binnen een boomgebied valt (niet beoordeeld, kaart niet ingezien). B ligt onder 15 cm (47,1 cm omtrek) en is dus alleen beschermd als lijstboom (de lijst kent geen drempel).",
+  "De Bomenlijst bevat volgens de beoordelingscriteria bomen ouder dan 50 jaar (waardevol) of 80 jaar (monumentaal) en herdenkingsbomen; jonge particuliere tuinbomen komen er dus nauwelijks op.",
+  "Art. 3.101 lid 1 onder c en d beschermen ook bomen die op grond van een herplantvoorschrift of anterieure overeenkomst zijn aangeplant, ongeacht omvang; dat telt niet voor D.",
+  "Het omgevingsplan (art. 22.298) bevat alleen aanvraagvereisten; de kapregel staat in de VFL. De APV afdeling 'Het bewaren van houtopstanden' is vervallen."
+ ],
+ "modelsignalen": [
+  "Oegstgeest: twee stelsels naast elkaar (lijst en boomgebieden) waarvan geen van beide is ingezien. De puntschatting D2 volgt uit de regel voor niet-ingezien kaarten (D2, min 1), maar de lijst van 613 bomen zou alleen D1 geven. Advies: zo laten; vermeld in het rapport dat het aandeel particuliere tuinen in boomgebieden onbekend is.",
+  "Oegstgeest: strafbepaling 'bij of krachtens ... afdelingen 3.4 tot en met 3.6' noemt het herplantartikel niet bij nummer, maar dekt een vergunningvoorschrift krachtens art. 3.105 wel. De regel 'strafbaar (rechter) alleen als het herplantartikel wordt genoemd' geeft hier 'niets geregeld', terwijl feitelijk wel een strafbaar gevolg bestaat. Advies: regel verruimen naar 'ook als de strafbepaling regels krachtens de afdeling noemt waar het herplantvoorschrift onder valt', of in het rapport als nuance noemen."
+ ]
+}

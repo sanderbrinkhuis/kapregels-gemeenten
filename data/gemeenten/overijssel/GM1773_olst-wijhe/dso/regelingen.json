@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1773/2026/vbb_bedrijfsverzamelgebouwen",
+    "titel": "Voorbereidingsbesluit bedrijfsverzamelgebouwen en opslag/of garageboxen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1773/2026/vbb_bedrijfsverzamelgebouwen/nld@2026-03-11;1",
+    "beginGeldigheid": "2026-03-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1773_2026_vbb_bedrijfsverzamelgebouwen?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1773/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Olst-Wijhe",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1773/2020/omgevingsplan/nld@2026-09-02;06200908",
+    "beginGeldigheid": "2026-09-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1773_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:45Z"
+  }
+]

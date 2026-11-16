@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0796/2025/Regeling0fda8a97472442ee8d9a9c771055bcb2",
+    "titel": "Programma Duurzame Polder",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0796/2025/Regeling0fda8a97472442ee8d9a9c771055bcb2/nld@2025-07-17;14010928",
+    "beginGeldigheid": "2025-07-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0796_2025_Regeling0fda8a97472442ee8d9a9c771055bcb2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0796/2025/Regeling5c0e5d539d4d41928c58ca58a322146c",
+    "titel": "Omgevingsvisie gemeente 's-Hertogenbosch",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0796/2025/Regeling5c0e5d539d4d41928c58ca58a322146c/nld@2025-09-17;11355801",
+    "beginGeldigheid": "2025-09-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0796_2025_Regeling5c0e5d539d4d41928c58ca58a322146c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0796/2026/Regeling5b84b3b2a56d4f0da4670223104acb7d",
+    "titel": "Programma Actieplan Geluid gemeente 's-Hertogenbosch 2025-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0796/2026/Regeling5b84b3b2a56d4f0da4670223104acb7d/nld@2026-06-10;13275463",
+    "beginGeldigheid": "2026-06-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0796_2026_Regeling5b84b3b2a56d4f0da4670223104acb7d?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:16Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0796/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente 's-Hertogenbosch",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0796/2020/omgevingsplan/nld@2026-01-28;14055388",
+    "beginGeldigheid": "2026-01-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0796_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:14:16Z"
+  }
+]

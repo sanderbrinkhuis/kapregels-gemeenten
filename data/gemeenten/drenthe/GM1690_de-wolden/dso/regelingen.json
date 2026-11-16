@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1690/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente De Wolden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1690/2020/omgevingsplan/nld@2026-06-16;13363513",
+    "beginGeldigheid": "2026-07-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1690_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1690/2026/Regeling89454764022a44d09dfe3fefae1111bc",
+    "titel": "Voorbereidingsbesluit spuitzonering - Ruinerwold, Kerkweg Zuid",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1690/2026/Regeling89454764022a44d09dfe3fefae1111bc/nld@2026-10-23;09000632",
+    "beginGeldigheid": "2026-10-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1690_2026_Regeling89454764022a44d09dfe3fefae1111bc?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:07Z"
+  }
+]

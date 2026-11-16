@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0437/2024/Regeling6f488050d3ec4f1a944072bf2b6cfd67",
+    "titel": "Actieplan geluid 2024 - 2029. Gemeente Ouder-Amstel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0437/2024/Regeling6f488050d3ec4f1a944072bf2b6cfd67/nld@2024-12-18;12032911",
+    "beginGeldigheid": "2025-01-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0437_2024_Regeling6f488050d3ec4f1a944072bf2b6cfd67?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0437/2025/Regeling4702bf52e1094d929409e6b444d91782",
+    "titel": "Omgevingsvisie Ouder-Amstel 2040",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0437/2025/Regeling4702bf52e1094d929409e6b444d91782/nld@2025-04-28;14255691",
+    "beginGeldigheid": "2025-05-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0437_2025_Regeling4702bf52e1094d929409e6b444d91782?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0437/2025/Regeling922ef1a7f6964cd3bec03d80cdd6ca0a",
+    "titel": "Voorbereidingsbesluit De Nieuwe Kern",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0437/2025/Regeling922ef1a7f6964cd3bec03d80cdd6ca0a/nld@2025-06-18;13595440",
+    "beginGeldigheid": "2025-06-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0437_2025_Regeling922ef1a7f6964cd3bec03d80cdd6ca0a?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0437/2026/Regelinge20535b85d324e45bc5fd9bc65db427b",
+    "titel": "Voorbereidingsbesluit clubhuis AOC",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0437/2026/Regelinge20535b85d324e45bc5fd9bc65db427b/nld@2026-03-09;08065052",
+    "beginGeldigheid": "2026-03-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0437_2026_Regelinge20535b85d324e45bc5fd9bc65db427b?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0437/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Ouder-Amstel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0437/2020/omgevingsplan/nld@2026-09-02;06324135",
+    "beginGeldigheid": "2026-10-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0437_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:57Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0437/2026/Regeling0088351ea1ff43238b4601dd72f1891d",
+    "titel": "Voorbereidingsbesluit buitengebied",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0437/2026/Regeling0088351ea1ff43238b4601dd72f1891d/nld@2026-09-23;07455566",
+    "beginGeldigheid": "2026-09-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0437_2026_Regeling0088351ea1ff43238b4601dd72f1891d?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:07:57Z"
+  }
+]

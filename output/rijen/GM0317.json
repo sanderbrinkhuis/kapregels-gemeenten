@@ -1,0 +1,88 @@
+{
+  "gm_code": "GM0317",
+  "gemeente": "Eemnes",
+  "provincie": "Utrecht",
+  "brondocument": "Omgevingsplan gemeente Eemnes, paragraaf 5.2.24 Kappen van beschermde bomen (art. 5.132 t/m 5.139), art. 4.34 en 4.35 en art. 22.299 (CVDR696269_3); legesverordening 2026 art. 2.30 (CVDR753237_2); Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht (CVDR750033_1); Beleidsregels gemeentelijke houtopstand (CVDR251239_1, alleen gemeentelijke bomen)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696269/3",
+  "datum_geldigheid": "2026-04-03 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2026-04-03 (CVDR696269_3, integrale tekstvervanging)",
+  "juridische_plaats": "omgevingsplan (art. 5.134: 'Het is verboden zonder omgevingsvergunning een aangewezen boom te kappen'). De APV Eemnes 2025 (art. 4.10 t/m 4.19) en de VFL Eemnes 2023 (art. 3.70 t/m 3.78) zijn voor houtopstanden vervallen.",
+  "praktijkcontrole": "11 bekendmakingen sinds 2025 (5 aanvragen, 0 besluiten en 0 weigeringen volgens titel). In 6 titels gaat het om het vellen van 'gemeentebomen' (o.a. gmb-2025-7401, gmb-2026-226248, gmb-2026-480348); 2 titels noemen het vellen van 1 boom bij een bouwproject zonder eigendom te noemen (gmb-2025-180805, gmb-2026-206390); 3 titels gaan over de kap van een dak. Geen enkele titel noemt een particuliere boom. De grondslag staat niet in de titels. Dit past bij een stelsel van aangewezen bomen waarbij vooral gemeentebomen zijn aangewezen.",
+  "vergunningplicht": "Omgevingsvergunning voor het kappen van een 'aangewezen boom' (art. 5.134 lid 1); aangewezen bomen staan in het geometrische informatieobject 'beschermde gemeentelijke bomen' (toelichting art. 5.134).",
+  "drempel": "Geen stamdrempel: alleen individueel aangewezen bomen en houtopstanden. De aanvraag moet de stamomtrek en diameter vermelden (art. 5.135 sub c en d), maar dat is geen drempel.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (alleen aangewezen bomen); 1,30 m bij de aanvraagvereisten van art. 22.299 lid 2 sub c",
+  "reikwijdte": "Alleen bomen en houtopstanden die zijn opgenomen in het informatieobject 'beschermde gemeentelijke bomen' (toelichting art. 5.134: 'De bomen en houtopstanden die in stand moeten blijven, zijn opgenomen in het geometrische informatieobject “beschermde gemeentelijke bomen” in Bijlage II'). Hele gemeente. Toelichting art. 5.137: 'De gemeentelijke bescherming van bomen via het omgevingsplan geldt voor bomen die zichtbaar zijn vanaf openbaar toegankelijk gebied.' Of er particuliere bomen in het informatieobject staan, is niet vastgesteld. Art. 4.34 wijst een bebouwingscontour houtkap aan; de toelichting zegt: 'In dit omgevingsplan is vooralsnog alleen van de eerste mogelijkheid gebruik gemaakt' (regels voor erven en tuinen).",
+  "uitzonderingen": "Art. 5.134 lid 2: 'Het verbod geldt niet voor het vellen van bomen die een onmiddellijk dreigend gevaar voor de omgeving vormen of bomen met een besmettelijke boomziekte.' Geen tuin- of aantalsuitzondering. Geen correctie op D.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: het informatieobject 'beschermde gemeentelijke bomen' staat alleen in het DSO (omgevingsplan, Bijlage II); één request naar eemnes.nl gaf een 404. Geen telling.",
+  "weigeringsgronden": "Art. 5.136 lid 1: 'De omgevingsvergunning wordt alleen geweigerd als de belangen, bedoeld in artikel Artikel 5.133 , onevenredig worden geschaad.' De oogmerken in de toelichting zijn natuurwaarde, landschappelijke waarde, beeldbepalende en cultuurhistorische waarde en leefbaarheid. Voor gemeentelijke bomen geldt een lijst van limitatieve verleningsgronden (lid 2).",
+  "herplantplicht": "Art. 5.136 lid 3: 'Bij vergunningvoorschrift kan een herplantplicht worden opgelegd.' Art. 5.138 lid 1: 'Als een boom, waarop deze afdeling van toepassing is, zonder vergunning is gekapt of op andere wijze is tenietgegaan, kan het college bij maatwerkvoorschrift de verplichting opleggen binnen een bepaalde termijn te herbeplanten.' De beleidsregels CVDR251239_1 (art. 3) gelden alleen voor gemeentelijke houtopstand. Geen financiële compensatie of herplantfonds in de tekst.",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'); het college beslist per geval. Geen betaling in plaats van herplant. Voor gemeentelijke bomen: 'Deze herplant kan alleen plaatsvinden indien een geschikte locatie voorhanden is.' (CVDR251239_1 art. 3).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "In de regeling zelf niets over het niet nakomen van een maatwerkvoorschrift of herplantvoorschrift. De Beleidsregel Uitvoering- en handhavingstrategie Regio Utrecht (CVDR750033_1, onderdeel P) noemt een dwangsomrichtlijn: 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom per gevalt e beoordelen'. Of de WED hier ook geldt, is in de tekst niet uitgewerkt.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "WED via Ow 5.1: de legesverordening (art. 2.30) noemt het vellen een omgevingsplanactiviteit 'bedoeld in artikel 5.134 van het omgevingsplan in samenhang met artikel 22.8 van de Omgevingswet'; dat is volgens het model S = 1. Geen bestuurlijke boete in de regeling. Handhavingsbeleid: dwangsomrichtlijn voor niet-herplanten (CVDR750033_1 onderdeel P).",
+  "procedure": "Leges art. 2.30: € 205,00 per boom, € 405,00 voor legalisatie van een illegale velling per boom of houtopstand (CVDR753237_2). Beslistermijn: acht weken, eenmaal te verlengen met ten hoogste acht weken (APV art. 1.2). Publicatie en bezwaar: niet uit de regeling zelf vastgesteld.",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Kernbron ontbreekt: het informatieobject 'beschermde gemeentelijke bomen' (DSO, Bijlage II omgevingsplan) is niet ingezien (geen DSO-key; eemnes.nl gaf 404). Niet bekend of en hoeveel particuliere bomen beschermd zijn. Puntschatting D = 1, bereik vanaf 0. De naam van het object en de bekendmakingen (alleen gemeentebomen) wijzen mogelijk op uitsluitend gemeentebomen.",
+  "artikelnummers": [
+    "omgevingsplan art. 4.34",
+    "omgevingsplan art. 4.35",
+    "omgevingsplan art. 5.132",
+    "omgevingsplan art. 5.133 (toelichting)",
+    "omgevingsplan art. 5.134",
+    "omgevingsplan art. 5.135",
+    "omgevingsplan art. 5.136",
+    "omgevingsplan art. 5.137",
+    "omgevingsplan art. 5.138",
+    "omgevingsplan art. 22.299",
+    "legesverordening art. 2.30",
+    "APV art. 1.2",
+    "CVDR750033_1 onderdeel P",
+    "CVDR251239_1 art. 3"
+  ],
+  "opmerkingen": [
+    "Nabewerking na besluit gebruiker 14-11-2026 (Na Utrecht): 'wordt alleen geweigerd als de belangen ... onevenredig worden geschaad' met de gebruikelijke waarden = W2 (staande lijn bevestigd); bereik vervalt.",
+    "Lijstsysteem: D = 1, bereik vanaf 0, omdat niet vaststaat dat er particuliere bomen op de lijst staan.",
+    "W2 (bereik 1-2): art. 5.136 lid 1 'wordt alleen geweigerd als de belangen ... onevenredig worden geschaad'. Die formulering lijkt op 'kan slechts worden geweigerd' (W1), maar de gronden zijn natuur-, landschaps- en cultuurhistorische waarden (W2). De toelichting zegt: 'Een aantasting van de genoemde belangen, leidt tot het weigeren van de vergunning.'",
+    "H1: art. 5.136 lid 3 'Bij vergunningvoorschrift kan een herplantplicht worden opgelegd.' De beleidsregel met 'dienen vervangen of herplant te worden' geldt alleen voor gemeentelijke houtopstand en telt niet.",
+    "S1 zonder bereik: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit (art. 5.134 van het omgevingsplan in samenhang met art. 22.8 Ow). De APV-afdeling en VFL-paragraaf met de oude kapregels zijn vervallen; de VFL-strafbepaling (art. 6.2) is daardoor niet de grond.",
+    "Restant bruidsschat art. 22.299 (aanvraagvereisten) staat naast een echte kapregel in paragraaf 5.2.24; geen restant zonder vergunningplicht.",
+    "Omgevingsplan art. 22.299 en 5.135 vragen om stamomtrek of diameter bij de aanvraag; dat is geen drempel.",
+    "Beleidsregels gemeentelijke houtopstand (CVDR251239_1, 2013) gelden alleen voor gemeentelijke bomen; vermeld als context."
+  ],
+  "modelsignalen": [
+    "Eemnes: W voor 'wordt alleen geweigerd als de belangen ... onevenredig worden geschaad' valt tussen W1 (verlenen tenzij) en W2 (belangenafweging); het model beslist dit niet eenduidig.",
+    "Eemnes: de aanwijzing 'beschermde gemeentelijke bomen' lijkt vooral gemeentebomen te dekken; het model kent geen D-waarde voor 'lijst waarvan vermoedelijk geen enkele boom particulier is' behalve de bereikregel (puntschatting 1, minimum 0)."
+  ]
+}

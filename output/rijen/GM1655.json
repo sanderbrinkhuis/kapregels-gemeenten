@@ -1,0 +1,74 @@
+{
+ "gm_code": "GM1655",
+ "gemeente": "Halderberge",
+ "provincie": "Noord-Brabant",
+ "brondocument": "Bomenverordening Halderberge 2011 (CVDR111433_1) art. 1, 2, 3, 5, 7, 10; APV (CVDR730550_1) art. 4:10 t/m 4:12 [Vervallen] en 6:1; Legesverordening 2026 (CVDR750932_1) art. 2.30; Omgevingsplan (CVDR696469_4) art. 21.31 en 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR111433/1",
+ "datum_geldigheid": "CVDR111433_1 geldend van 2011-08-01 t/m heden (peildatum 2026-11-15)",
+ "laatste_wijziging": "Metadata CVDR111433: gewijzigd 2019-01-29 (enige versie).",
+ "juridische_plaats": "Losse bomenverordening (2011). APV art. 4:10, 4:11 en 4:12 zijn '[Vervallen]'. Werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in de Bomenverordening Halderberge 2011 in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten; art. 21.31 geldt alleen voor het gebied 'Verkeer' (kleine gebiedsregel, telt niet).",
+ "praktijkcontrole": "Sinds 2025: 9 bekendmakingen (zoekmethode volledige tekst, benadering), 1 besluit (gmb-2026-122973, verleende omgevingsvergunning zonder kapterm in de titel), 1 aanvraag, 0 weigeringen. Niets af te leiden.",
+ "vergunningplicht": "Vergunning van het bevoegd gezag (art. 3 lid 1) voor het kappen van een boom 'die is vermeld op de lijst “Waardevolle bomen Halderberge”'.",
+ "drempel": "Geen omvangdrempel; alleen bomen op de lijst.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (geen drempel)",
+ "reikwijdte": "Alleen individueel aangewezen bomen: het gemeentelijk register 'Waardevolle bomen Halderberge' (art. 1 onder b, art. 2). Hele gemeente. Lijst niet ingezien; eigenaren worden schriftelijk op de hoogte gesteld (art. 2 lid 2), dus particuliere eigenaren zijn mogelijk.",
+ "uitzonderingen": "Art. 3 lid 2: Plantenziektewet of aanschrijving; periodiek boomonderhoud (gangbaar). Lid 3: vergunning voor direct kappen bij grote gevaarzetting of spoed.",
+ "weigeringsgronden": "Art. 5 lid 2: 'Een vergunning wordt geweigerd als, naar oordeel van het bevoegd gezag, het belang van behoud van een boom op de lijst “Waardevolle Bomen Halderberge” zwaarder weegt dan het belang van kap.' (lid 1: 'Het bevoegd gezag kan de vergunning om te kappen weigeren, dan wel onder voorschriften verlenen.') Geen opgesomde waarden.",
+ "herplantplicht": "Art. 7 lid 1: 'Aan de vergunning kan het voorschrift verbonden worden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 3: na kap zonder vergunning 'kan het bevoegd gezag de eigenaar de verplichting opleggen dat binnen een bepaalde termijn ... moet worden herplant.' Geen financiële compensatie. Geen beleidsregel gevonden.",
+ "herplant_ontsnapping": "Bevoegdheid, geen plicht: 'kan het voorschrift verbonden worden' (lid 1). Het bevoegd gezag beslist per geval. Geen betaling als alternatief.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niets geregeld over niet nakomen van een herplantvoorschrift in de bomenverordening (geen strafbepaling; art. 10 gaat alleen over toezicht). Alleen het algemene instrumentarium (Awb). Art. 9 lid 3 noemt bestuursdwang alleen voor de aanschrijving bij boomziekten.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "Geen eigen strafbepaling en geen bestuurlijke boete in de verordening. APV art. 6:1 noemt art. 4:11 lid 2, maar dat artikel is vervallen (verkeerde verwijzing). WED via de Omgevingswet (Ow 5.1): de legesverordening art. 2.30 noemt het vellen een omgevingsplanactiviteit, dus S1 zonder bereik. Herplant na illegale kap 'kan' worden opgelegd (art. 7 lid 3).",
+ "procedure": "Leges: EUR 72,00 (art. 2.30 legesverordening 2026). Aanvraag schriftelijk en gemotiveerd (art. 4). Vergunning vervalt na een jaar zonder gebruik (art. 6). Bezwaar en beroep volgens de Awb; beslistermijn niet apart gevonden.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: het register 'Waardevolle bomen Halderberge' staat niet in CVDR en niet als bijlage; een korte zoekpoging op de gemeentelijke website (halderberge.nl) leverde de lijst niet op",
+ "status": "ok",
+ "ontbrekend": "Register 'Waardevolle bomen Halderberge' niet gevonden: onbekend hoeveel bomen erop staan en of er particuliere bomen bij zijn. Omgevingsplan in het DSO niet ingezien (art. 21.31 betreft alleen het gebied Verkeer). Geen beleidsregel over herplant of handhaving gevonden (VTH-beleid CVDR683538_1 niet gelezen).",
+ "artikelnummers": [
+  "Bomenverordening 2011 art. 1, 2, 3, 4, 5, 6, 7, 9, 10 (CVDR111433_1)",
+  "APV art. 4:10, 4:11, 4:12 [Vervallen], 6:1 (CVDR730550_1)",
+  "Legesverordening 2026 art. 2.30 (CVDR750932_1)",
+  "Omgevingsplan art. 21.31, 22.299 (CVDR696469_4)"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; de lijst is niet ingezien, dus de puntschatting is D1 en het bereik loopt vanaf D0.",
+  "W2: 'Een vergunning wordt geweigerd als, naar oordeel van het bevoegd gezag, het belang van behoud van een boom op de lijst “Waardevolle Bomen Halderberge” zwaarder weegt dan het belang van kap.' (art. 5 lid 2): belangenafweging zonder opgesomde waarden, W2 zonder bereik.",
+  "H1: 'Aan de vergunning kan het voorschrift verbonden worden dat ... moet worden herplant.' (art. 7 lid 1); geen beleidsregel gevonden die dit verplicht maakt.",
+  "S1: WED via Ow 5.1 volgens de legesverordening (omgevingsplanactiviteit). De verordening zelf heeft geen strafbepaling; de verwijzing in APV art. 6:1 lid 2 naar het vervallen art. 4:11 is onjuist.",
+  "De definitie 'boom' (art. 1 onder a) is breed ('houtige gewassen', haag), maar het verbod geldt alleen voor bomen op de lijst."
+ ],
+ "modelsignalen": [
+  "Halderberge heeft geen eigen strafbepaling in de bomenverordening; S1 volgt alleen uit de WED-route via de legesverordening (besluit 14-11-2026, geval 'losse verordening zonder eigen strafbepaling')."
+ ]
+}

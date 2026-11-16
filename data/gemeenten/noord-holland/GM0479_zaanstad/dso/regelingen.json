@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0479/2024/Regeling498d5b69eef247a590428081bb4d0cd6",
+    "titel": "Programma actieplan geluid gemeente Zaanstad ",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0479/2024/Regeling498d5b69eef247a590428081bb4d0cd6/nld@2024-12-16;15330219",
+    "beginGeldigheid": "2024-12-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0479_2024_Regeling498d5b69eef247a590428081bb4d0cd6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0479/2024/Regeling1b090f925d2e47efb714780609e60700",
+    "titel": "Omgevingsvisie gemeente Zaanstad",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0479/2024/Regeling1b090f925d2e47efb714780609e60700/nld@2025-02-24;14434649",
+    "beginGeldigheid": "2025-02-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0479_2024_Regeling1b090f925d2e47efb714780609e60700?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0479/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Zaanstad",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0479/2020/omgevingsplan/nld@2025-06-25;11501733",
+    "beginGeldigheid": "2025-07-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0479_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:09:03Z"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "gemeente": "Maasgouw",
+  "gm_code": "GM1641",
+  "provincie": "Limburg",
+  "zoeknaam_cvdr": "Maasgouw",
+  "zoeknaam_bekendmakingen": "Maasgouw",
+  "opgehaald_op": "2026-11-14T18:00:30+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Maasgouw\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 62,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Maasgouw\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 35,
+  "geldende_regelingen": 23,
+  "geldend_met_kapartikelen": [
+    "CVDR651735_6",
+    "CVDR657629_2",
+    "CVDR658539_1",
+    "CVDR690651_1",
+    "CVDR695817_1",
+    "CVDR696468_3",
+    "CVDR751767_1"
+  ],
+  "bekendmakingen_besluiten": 18,
+  "bekendmakingen_aanvragen": 14,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,31 @@
+{
+  "gemeente": "Rhenen",
+  "gm_code": "GM0340",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Rhenen",
+  "zoeknaam_bekendmakingen": "Rhenen",
+  "opgehaald_op": "2026-11-14T18:22:25+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Rhenen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 70,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Rhenen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 52,
+  "geldende_regelingen": 18,
+  "geldend_met_kapartikelen": [
+    "CVDR407317_1",
+    "CVDR619420_1",
+    "CVDR635285_4",
+    "CVDR661771_1",
+    "CVDR696278_6",
+    "CVDR700921_1",
+    "CVDR718296_2",
+    "CVDR748577_1",
+    "CVDR751746_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 29,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

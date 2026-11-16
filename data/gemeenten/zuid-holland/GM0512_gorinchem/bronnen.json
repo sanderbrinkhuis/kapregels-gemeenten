@@ -1,0 +1,28 @@
+{
+  "gemeente": "Gorinchem",
+  "gm_code": "GM0512",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Gorinchem",
+  "zoeknaam_bekendmakingen": "Gorinchem",
+  "opgehaald_op": "2026-11-16T10:35:35+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Gorinchem\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 56,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Gorinchem\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 57,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR607584_1",
+    "CVDR664991_3",
+    "CVDR671912_2",
+    "CVDR696336_4",
+    "CVDR743131_1",
+    "CVDR753034_1"
+  ],
+  "bekendmakingen_besluiten": 0,
+  "bekendmakingen_aanvragen": 30,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

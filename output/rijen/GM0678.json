@@ -1,0 +1,61 @@
+{
+  "gm_code": "GM0678",
+  "gemeente": "Kapelle",
+  "provincie": "Zeeland",
+  "brondocument": "Algemene plaatselijke verordening gemeente Kapelle (CVDR652781_3), afd. 4.3 'Het bewaren van houtopstanden'; Bomenlijst (collegebesluit, niet gepubliceerd in CVDR); Omgevingsplan gemeente Kapelle (CVDR696377_2) art. 22.299; Legesverordening 2026 (CVDR752117_1) art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR652781/3 ; https://www.kapelle.nl/boom-kappen",
+  "datum_geldigheid": "geldend van 14-03-2024 t/m heden",
+  "laatste_wijziging": "raadsbesluit 27-02-2024, in werking 14-03-2024",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit (tijdelijk deel omgevingsplan) volgens leges art. 2.30 ('vellen van een houtopstand, bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "22 bekendmakingen sinds 2025 (11 aanvragen, 0 besluiten in titel, 0 weigeringen). Vrijwel alle betreffen gemeentelijke of openbare bomen (waterleiding, groenplan, 60 bomen i.v.m. veiligheid, monumentale boom [adres]); enkele particuliere adressen ([adres] 'aan de voorzijde van de woning', [adres] Wemeldinge). Grondslag niet genoemd. Past bij lijstsysteem.",
+  "vergunningplicht": "vergunning, alleen voor houtopstanden op de door het college vastgestelde Bomenlijst",
+  "drempel": "geen drempel voor lijstbomen; definitie boom: 'dwarsdoorsnede van de stam van minimaal 20 centimeter op 1,3 meter hoogte'",
+  "omtrek_cm": 63,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Alleen bomen op de Bomenlijst. Volgens leges-definitie drie categorieën: A (nationaal monument Bomenstichting), B (door gemeente als monument aangemerkt), C (beeldbepalende bomen in de openbare ruimte). Website: 'Voor alle overige bomen is geen kapvergunning nodig.' Lijst niet online gevonden.",
+  "uitzonderingen": "Toestemming burgemeester bij spoedeisend belang openbare orde of direct gevaar (art. 4:11 lid 4).",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ... b. de landschappelijke waarde ... c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ... e. de cultuurhistorische waarde ... f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4.12b lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn ... moet worden herplant.' Na illegale kap kan het college herbeplanting opleggen (art. 4:12c lid 1). Geen herplantfonds of boomwaarde.",
+  "herplant_ontsnapping": "'kan behoren' (bevoegdheid, geen plicht); college beslist per vergunning. Na illegale kap: 'kan het college ... de verplichting opleggen te herbeplanten' (art. 4:12c lid 1).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12c lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: overtreding 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "nee",
+  "sancties": "WED-aanwijzing in regeling: art. 6:1 lid 3 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van ... 4:11, tweede lid'; daarnaast WED via Ow 5.1 (omgevingsplanactiviteit). Eigen strafbepaling art. 6:1 lid 1. Geen bestuurlijke boete voor kap; Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR758323_1) bevat niets kap-specifieks.",
+  "procedure": "Omgevingsvergunning (Ow); geen leges ('zijn geen leges verschuldigd', leges art. 2.30); standaardvoorwaarde feitelijk niet-gebruik tot vergunning onherroepelijk/voorlopige voorziening beslist (art. 4.12b lid 3); aanvraag door of met toestemming van zakelijk gerechtigde (art. 4.12a).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst (categorie A/B/C) niet online gevonden (kapelle.nl/boom-kappen verwijst alleen naar de lijst; zoekfunctie leverde niets op). Onbekend of er particuliere bomen op categorie A of B staan; website: 'Alle eigenaren van bomen die op een lijst voorkomen zijn daarvan op de hoogte.'",
+  "artikelnummers": "APV art. 1:4 lid 3, 4:10, 4:11, 4.12a, 4.12b, 4:12c, 6:1; omgevingsplan art. 22.299; leges art. 2.30",
+  "opmerkingen": "W: 'kan de vergunning worden geweigerd op grond van' (limitatieve opsomming, VNG-model) -> W2. H: 'kan behoren het voorschrift dat ... moet worden herplant' -> H1. Categorie C van de lijst betreft per definitie bomen in de openbare ruimte; alleen A en B kunnen particuliere bomen bevatten. Boom B (omtrek 40 cm, ca. 13 cm doorsnee) valt buiten de definitie 'boom' (min. 20 cm doorsnee) en is dus nooit vergunningplichtig; boom A (ca. 25 cm doorsnee) alleen als hij op de lijst staat. Website verwijst nog naar Boswet en bestemmingsplan (verouderd).",
+  "modelsignalen": [],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien"
+}

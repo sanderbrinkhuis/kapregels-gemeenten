@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0861",
+  "gemeente": "Veldhoven",
+  "provincie": "Noord-Brabant",
+  "volledig_gelezen": true,
+  "brondocument": "Algemene plaatselijke verordening Veldhoven (CVDR430978_9) afdeling 4.3 art. 4:9 en 4:10, art. 1:2, 1:4, 6:1; Uitvoeringsbesluit ex artikel 4:10 Apv, Lijst van beschermde bomen (CVDR27066_1); Legesverordening 2026 art. 2.14 (CVDR755241_2); Omgevingsplan art. 3.1 en 22.299 (CVDR696429_3)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR430978/9 ; https://lokaleregelgeving.overheid.nl/CVDR27066/1 ; https://lokaleregelgeving.overheid.nl/CVDR755241/2",
+  "datum_geldigheid": "APV CVDR430978_9 geldend vanaf 2026-01-13 t/m heden; lijst CVDR27066_1 geldend vanaf 2009-09-01 t/m heden (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 9 per 2026-01-13 (wijziging; afdeling 4.3 zelf niet herkend als gewijzigd). Lijst vastgesteld 2009-08-18 (CVDR modified 2017-05-02). Leges CVDR755241_2 per 2026-11-07.",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR755241_2) art. 2.14.1 noemt 'een omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:10 van de Algemene plaatselijke verordening'. Het omgevingsplan zelf (art. 22.299) bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 6 bekendmakingen op volledige tekst (benadering), waarvan geen duidelijk kapbesluit en 0 weigeringen; de 4 opgehaalde besluiten gaan over andere onderwerpen (omgevingsplan, leges, mandaten, een vergunning voor meerdere straten). Geen indicatie voor een breder regime.",
+  "vergunningplicht": "vergunning voor bomen op de lijst van beschermde bomen en voor kleine houtopstanden (max. 10 are) buiten de bebouwde kom",
+  "drempel": "Geen omtrekdrempel: lijstbomen ongeacht omvang; buiten de bebouwde kom houtopstanden die een zelfstandige eenheid vormen van niet meer dan 10 are",
+  "omtrek_cm": null,
+  "meethoogte": "niet genoemd",
+  "reikwijdte": "Art. 4:10 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag: a. een houtopstand te vellen of te doen vellen die staat vermeld op de door het bevoegd gezag vastgestelde lijst van beschermde bomen. b. houtopstanden, gelegen buiten de bebouwde kom, die een zelfstandige eenheid vormen en geen grotere oppervlakte beslaan dan 10 are te vellen of te doen vellen.' Binnen de bebouwde kom dus alleen lijstbomen; buiten de kom ook kleine houtopstanden (zonder uitsluiting van erven of tuinen).",
+  "uitzonderingen": "Art. 4:10 lid 5: spoed of direct gevaar (burgemeester). Geen tuinuitzondering, geen soortuitzondering. Gangbare uitzonderingen. Omgevingsplan art. 3.1: bebouwingscontour houtkap, waarbinnen de Bal-regels over houtopstanden (afdeling 11.3) niet gelden (rijksregime, telt niet mee).",
+  "weigeringsgronden": "Art. 4:10 lid 2: 'De vergunning kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; f. de waarde voor de leefbaarheid van de houtopstand.' (W2, belangenafweging)",
+  "herplantplicht": "Art. 4:10 lid 3: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant, compensatie of handhaving gevonden in CVDR.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval; geen betalen in plaats van herplant",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Art. 1:4 lid 2: 'Degene aan wie een vergunning of ontheffing is verleend of van wie een melding is geaccepteerd, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' (art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.') Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Bij een omgevingsvergunning voor het vellen is art. 1:4 volgens lid 3 niet van toepassing; het gevolg bij niet nakomen van een herplantvoorschrift is daarom niet duidelijk geregeld (algemeen instrumentarium).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "WED-aanwijzing in de APV, art. 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:7 en 4:10.' Daarnaast art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie) en omgevingsplanactiviteit volgens de legesverordening (art. 2.14.1, WED via Ow 5.1). Geen bestuurlijke boete voor kappen.",
+  "procedure": "Leges omgevingsplanactiviteit kappen: EUR 131,84 (CVDR755241_2 art. 2.14.1). Beslistermijn: art. 1:2 lid 3 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning' (dus Wabo/Ow-termijn). Art. 4:10 lid 4: 'Een vergunning wordt verleend onder de voorwaarde van feitelijk niet-gebruik tot het moment van onherroepelijk worden van de vergunning.' Bezwaar en beroep: Awb.",
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": 3554,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "bomen op de Lijst van beschermde bomen (vastgesteld 2009-08-18, CVDR27066_1): 3.554 bomen in 243 regels; de lijst noemt straat of locatie en wijk, geen eigenaar; ca. 109 regels hebben een huisnummer; het aantal particuliere bomen is niet vast te stellen",
+  "D": {
+    "punt": 4,
+    "min": 1,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Eigendom van de lijstbomen is niet vast te stellen. Of een losse tuinboom buiten de bebouwde kom een 'zelfstandige eenheid' is (art. 4:10 lid 1 onder b) staat niet in de tekst. Geen beleidsregel voor herplant of handhaving gevonden. Omgevingsplan in DSO niet gecontroleerd.",
+  "artikelnummers": [
+    "APV 4:9",
+    "APV 4:10",
+    "APV 1:2",
+    "APV 1:4",
+    "APV 6:1",
+    "Uitvoeringsbesluit lijst (CVDR27066_1)",
+    "Leges 2.14",
+    "Omgevingsplan 3.1",
+    "Omgevingsplan 22.299"
+  ],
+  "opmerkingen": [
+    "D2 (bereik 1-4): twee delen. (1) Lijstbomen: D1 (3.554 bomen in 243 regels, eigendom niet vermeld). (2) Buiten de bebouwde kom vallen kleine houtopstanden (zelfstandige eenheid, niet meer dan 10 are) onder het verbod, zonder drempel en zonder uitsluiting van erven en tuinen. Dat is een regel voor een deel van de gemeente (alleen buiten de kom): aangewezen gebied, D2. Minimum 1: als 'zelfstandige eenheid' geen losse tuinbomen omvat, telt alleen het lijstdeel (D1). Maximum 4: als buiten de kom ook tuinen en erven onder de regel vallen, geeft dat deel zonder drempel D4 (INTENT, besluit Overijssel). De puntschatting kiest D2 omdat 'zelfstandige eenheid' een houtopstand als geheel aanduidt en niet vaststaat dat een losse tuinboom daaronder valt.",
+    "Boom A (80 cm) en B (40 cm) in een achtertuin binnen de bebouwde kom: alleen vergunningplichtig als de boom op de lijst staat.",
+    "W2: 'De vergunning kan worden geweigerd op grond van' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden. Geen strengere beleidsregel gevonden.",
+    "H1: alleen 'kan' (art. 4:10 lid 3); geen beleidsregel. S1: WED-aanwijzing (art. 6:1 lid 2) en omgevingsplanactiviteit volgens de legesverordening. De Uitvoeringsbesluit-lijst uit 2009 is nog geldend in CVDR en wordt door de APV gebruikt ('lijst van beschermde bomen'); de legesverordening noemt art. 4:10 als grondslag.",
+    "Omgevingsplan art. 3.1 wijst een 'bebouwingscontour houtkap' aan waarbinnen de Bal-regels over houtopstanden niet gelden; dat regime is van het Rijk en telt niet mee. Afdeling 7.7 Houtopstanden in het omgevingsplan heeft geen tekst.",
+    "Niet gecontroleerd of de lijst uit 2009 nog actueel is (bijv. bomen die inmiddels zijn verdwenen); het Uitvoeringsbesluit staat als geldend in CVDR."
+  ],
+  "modelsignalen": [
+    "Art. 4:10 lid 1 onder b (houtopstanden buiten de bebouwde kom, zelfstandige eenheid tot 10 are, zonder uitsluiting van tuinen en erven) valt tussen 'aangewezen gebied' (D2) en 'buiten de kom ook tuinen en erven' (zonder drempel D4). Of een losse tuinboom een 'zelfstandige eenheid' is, geeft INTENT.md niet aan; D2 met bereik 1-4 gekozen.",
+    "Art. 1:4 lid 3 zegt dat de voorschriftenplicht niet geldt 'op een aanvraag om een omgevingsvergunning'; hierdoor is voor een herplantvoorschrift bij een vergunning niet duidelijk dat art. 6:1 lid 1 bij niet nakomen van toepassing is. Het model kent hiervoor alleen 'niets geregeld' (algemeen instrumentarium).",
+    "Bij lijstsystemen zonder eigendomsinformatie (Veldhoven, Best): lijst_aantal_particulier niet vast te stellen.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: buiten de kom geldt het verbod voor 'houtopstanden ... die een zelfstandige eenheid vormen en geen grotere oppervlakte beslaan dan 10 are'; houtopstand is 'een of meer bomen', zonder drempel en zonder tuinuitzondering. Een losse tuinboom valt daaronder: D op de drempel (zonder drempel D4) voor dat deel; D per deel, hoogste. Minimum 1 voor de lezing dat een zelfstandige eenheid een groep bomen moet zijn. Voorbeeldbomen A en B (tuin in de kom) ongewijzigd. Was D2 (1-4)."
+  ]
+}

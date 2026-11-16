@@ -1,0 +1,79 @@
+{
+ "gm_code": "GM1901",
+ "gemeente": "Bodegraven-Reeuwijk",
+ "provincie": "Zuid-Holland",
+ "brondocument": "Omgevingsplan gemeente Bodegraven-Reeuwijk, par. 5.5.1 (art. 5.173 t/m 5.178) en art. 4.53, 4.54 (CVDR696514_5); Legesverordening 2026 art. 2.26 (CVDR754156_1); APV art. 4:10, 4:11 (vervallen) en art. 6:1 lid 3 (CVDR436906_21); Register nadere regels APV, bijlage 4 Bomenlijst (CVDR296950_33)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR696514/5 ; https://lokaleregelgeving.overheid.nl/CVDR754156/1 ; https://lokaleregelgeving.overheid.nl/CVDR436906/21 ; https://lokaleregelgeving.overheid.nl/CVDR296950/33",
+ "datum_geldigheid": "Omgevingsplan CVDR696514_5 geldend vanaf 2026-09-15 t/m heden; leges CVDR754156_1 vanaf 2025-12-30; APV CVDR436906_21 vanaf 2026-04-23; register CVDR296950_33 vanaf 2026-04-23 (peildatum scoren 2026-11-16)",
+ "laatste_wijziging": "Omgevingsplan: versie 5 per 2026-09-15. APV: versie 21 per 2026-04-23 (afdeling 4.3 is daarin vervallen).",
+ "juridische_plaats": "omgevingsplan (art. 5.175 e.v.: aangewezen beschermde bomen); de APV-afdeling 4.3 (art. 4:10 t/m 4:12) is vervallen. Legesverordening art. 2.26 noemt het vellen een omgevingsplanactiviteit",
+ "praktijkcontrole": "Sinds 2025: 5 bekendmakingen op titel, alle aanvragen, 0 besluiten, 0 weigeringen. Geen steekproef mogelijk; geen indicatie van een breder regime.",
+ "vergunningplicht": "Omgevingsvergunning voor het kappen van een als zodanig aangewezen beschermde boom of het vellen van een beschermde houtopstand (art. 5.175).",
+ "drempel": "Geen drempel in de tekst; alleen aangewezen bomen en houtopstanden.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing",
+ "reikwijdte": "Alleen als zodanig aangewezen beschermde bomen en houtopstanden, vastgelegd in het geometrisch informatieobject 'beschermde gemeentelijke houtopstanden' (bijlage II omgevingsplan, kaart niet ingezien). Geldt binnen en buiten de bebouwingscontour houtkap. Volgens de toelichting vallen ook oudere bomen op particulier terrein eronder als ze zichtbaar zijn vanaf openbaar toegankelijk gebied.",
+ "uitzonderingen": "Dunnen van beschermde bomen of houtopstanden valt buiten de paragraaf (art. 5.173 lid 2). Geen tuin- of soortuitzonderingen.",
+ "weigeringsgronden": "Art. 5.177: 'De omgevingsvergunning wordt alleen verleend, als de belangen, bedoeld in Artikel 5.174 , niet onevenredig worden geschaad.' Art. 5.174: natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde en waarde voor de leefbaarheid.",
+ "herplantplicht": "Geen herplantplicht of compensatieplicht in de regeling. Art. 5.176 onder c vraagt alleen om vermelding van 'de mogelijkheid tot herbeplanten' bij de aanvraag. Buiten de bebouwingscontour houtkap geldt volgens de toelichting daarnaast de herbeplantingsplicht van afdeling 11.3 Bal (rijksregel, telt niet mee).",
+ "herplant_ontsnapping": "geen (geen herplantplicht)",
+ "herplant_niet_nakomen": "Niets geregeld: er is geen herplantplicht in de regeling, dus ook geen gevolg bij niet nakomen. Alleen het algemene instrumentarium.",
+ "sancties": "Kappen zonder vergunning in strijd met het omgevingsplan is een omgevingsplanactiviteit: WED via Ow 5.1 (art. 1a WED), blijkens leges art. 2.26. Geen bestuurlijke boete. APV art. 6:1 lid 3 (WED-aanwijzing) verwijst nog naar het vervallen art. 4:11 lid 2 (foute verwijzing). Algemene APV-strafbepaling verwijst niet naar kap.",
+ "procedure": "Leges art. 2.26: EUR 66,25. Beslistermijn niet apart onderzocht (APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning, de Omgevingswet geldt). Bezwaar en beroep volgens Awb; niet apart gelezen.",
+ "herplant_type": "geen grondslag",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "ja",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de kaart (GIO bijlage II omgevingsplan) en de lijsten in bijlage 4 van het APV-register staan niet als tekst in CVDR; gemeentelijke website gaf 403",
+ "status": "ok",
+ "ontbrekend": "Kaart 'beschermde gemeentelijke houtopstanden' (bijlage II omgevingsplan, DSO) en de lijsten in bijlage 4 van het APV-register (gemeentelijke en particuliere bomen, 2025) niet ingezien: aantallen onbekend. Geen herplant- of handhavingsbeleid voor kap gevonden.",
+ "artikelnummers": [
+  "Omgevingsplan art. 4.53, 4.54, 5.173, 5.174, 5.175, 5.176, 5.177, 5.178, 22.299 (vervallen)",
+  "Leges 2026 art. 2.26",
+  "APV art. 4:10, 4:11, 4:12 (vervallen), 6:1 lid 3",
+  "Register APV bijlage 4 Bomenlijst"
+ ],
+ "opmerkingen": [
+  "Systeem: lijst/kaart. Verbod art. 5.175: 'Het is verboden zonder omgevingsvergunning een als zodanig aangewezen beschermde boom te kappen of een beschermde houtopstand te vellen.' Aanwijzing (toelichting 5.175): 'De bomen en houtopstanden die in stand moeten blijven, zijn opgenomen in het geometrische informatieobject “beschermde gemeentelijke houtopstanden” in bijlage II bij dit omgevingsplan.'",
+  "Particuliere bomen: toelichting 5.173: 'Ook oudere bomen op particulier terrein kunnen immers een beeldbepalende waarde hebben, mits zij zichtbaar zijn vanaf openbaar toegankelijk gebied.' Het APV-register bevat bovendien een bijlage met de titel 'Lijst behoudenswaardige (monumentale) particuliere bomen in gemeente Bodegraven-Reeuwijk - 2025'. Daarmee staat vast dat particuliere bomen beschermd zijn: D-minimum 1.",
+  "D1, maximum 2: de toelichting 5.173 noemt naast individuele bomen ook 'eenheden zoals houtwallen, windsingels en groenstructuren'; de kaart is niet ingezien, dus het kan een gebieds- of structuurbescherming zijn (D2). De verbodstekst zelf noemt alleen aangewezen bomen en houtopstanden.",
+  "W2 zonder bereik: art. 5.177 'De omgevingsvergunning wordt alleen verleend, als de belangen, bedoeld in Artikel 5.174 , niet onevenredig worden geschaad.' (gebruikelijke waarden, besluit 14-11-2026).",
+  "H0: geen herplant- of compensatieplicht; alleen aanvraagvereiste art. 5.176 onder c: 'de mogelijkheid tot herbeplanten en, als het voornemen tot herbeplanten bestaat, de locatie daarvan, het aantal en de soorten.' Geen beleidsregel over herplant of compensatie gevonden; de ODMH-nota (CVDR725860_1) noemt kappen alleen als handhavingsonderwerp.",
+  "S1 zonder bereik: leges art. 2.26: 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. De verwijzing naar APV art. 4:11 is fout: dat artikel is vervallen en het verbod staat nu in omgevingsplan art. 5.175. Idem APV art. 6:1 lid 3: 'artikel 1a van de Wet op de economische delicten van toepassing ... artikel 4:11, tweede lid'. Besluit 14-11-2026: S1 zonder bereik.",
+  "Toelichting 5.174 zegt: 'De gemeente heeft geen inventarisatie gemaakt van alle bomen met beeldbepalende of cultuurhistorische waarden. Of een boom dergelijke waarden heeft, wordt per individueel geval beoordeeld, als er een omgevingsvergunning voor het kappen wordt aangevraagd.' Het artikel zelf beperkt het verbod tot aangewezen bomen; het artikel gaat voor.",
+  "Art. 5.178: ook beschadigen, vernielen en onderhoud onthouden van aangewezen bomen is verboden (geen kap; telt niet mee).",
+  "Bebouwingscontour houtkap (art. 4.53): buiten de contour gelden volgens de toelichting ook de rijksregels van afdeling 11.3 Bal (meldplicht, herbeplantingsplicht); telt niet mee (bevoegdheid Rijk/provincie, gangbare uitzondering).",
+  "Bekendmakingen: 5 aanvragen, geen besluiten; geen indicatie van een breder regime."
+ ],
+ "modelsignalen": [
+  "Omgevingsplan beschermt 'als zodanig aangewezen' bomen via een kaart die niet is ingezien, terwijl de toelichting ook houtwallen, windsingels en groenstructuren noemt: D1 (maximum 2) is een inschatting binnen het model."
+ ]
+}

@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM1892",
+  "gemeente": "Zuidplas",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Verordening fysieke leefomgeving Zuidplas 2023 Omgevingswet, art. 2.14, 3.24 t/m 3.28, 4.1, 5.2, 6.30, 7.1 (CVDR705994_1); Legesverordening 2026 art. 2.28 (CVDR752413_2); APV art. 4:10 en 4:11 (vervallen) (CVDR386407_8)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR705994/1 ; https://lokaleregelgeving.overheid.nl/CVDR752413/2 ; https://lokaleregelgeving.overheid.nl/CVDR386407/8",
+  "datum_geldigheid": "VFL CVDR705994_1 geldend vanaf 2024-01-01 t/m heden; leges CVDR752413_2 vanaf 2026-02-07; APV CVDR386407_8 vanaf 2025-06-17; omgevingsplan CVDR696509_4 vanaf 2026-05-28 (peildatum scoren 2026-11-16)",
+  "laatste_wijziging": "VFL: versie 1 per 2024-01-01 (geen latere versie). Omgevingsplan: versie 4 per 2026-05-28.",
+  "juridische_plaats": "VFL (losse verordening); het vellen is een omgevingsplanactiviteit volgens leges art. 2.28 ('in samenhang met artikel 22.8 van de Omgevingswet'). APV-afdeling 4.3 is vervallen. Omgevingsplan: restant bruidsschat (art. 22.299), geen vergunningplicht; de paragrafen 5.1.2.5 Monumentale bomen en 7.3.6.2 Kappen van bomen zijn leeg ('Gereserveerd')",
+  "praktijkcontrole": "Sinds 2025: 6 bekendmakingen op titel, alle aanvragen, 0 besluiten, 0 weigeringen. Geen steekproef mogelijk; geen indicatie van een breder regime.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstanden die staan vermeld op de 'Monumentale- en waardevolle bomen - Zuidplas lijst' (art. 3.25 lid 1).",
+  "drempel": "Geen drempel in de tekst; alleen bomen op de lijst.",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Alleen houtopstanden op de Monumentale- en waardevolle bomen - Zuidplas lijst, ongeacht omvang (lijst vastgesteld door het college, elke negen jaar). Het toepassingsbereik (art. 3.24) noemt binnen de bebouwingscontour houtkap alle bomen en houtopstanden en daarbuiten populier- of wilgenbeplantingen op erven of in tuinen, maar het verbod in art. 3.25 geldt alleen voor de lijstbomen.",
+  "uitzonderingen": "Art. 3.25 lid 2: Plantenziektewet, opgelegde verplichting van het college, knotten als noodzakelijke beheermaatregel, gebied met ernstige bodemdaling, periodiek vellen van hakhout (gangbaar). Geen tuin- of soortuitzonderingen.",
+  "weigeringsgronden": "Art. 3.25 lid 3: 'Een omgevingsvergunning voor het vellen van een houtopstand als bedoeld in lid 1 wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand op basis van één of meer van de volgende waarden:' natuur, landschap, dorpsschoon, beeldbepalend, cultuurhistorie, leefbaarheid. Lid 4: het college 'kan een omgevingsvergunning verlenen voor afwijken van het in het eerste lid opgenomen verbod indien sprake is van' instandhouding die niet langer verantwoord is, verplanten, of een zwaarwegende maatschappelijke reden.",
+  "herplantplicht": "Art. 3.27 lid 1: 'Het college kan aan een omgevingsvergunning in ieder geval als voorschrift verbinden dat ... wordt herplant, tenzij zwaarwegende redenen zich daartegen verzetten.' Lid 3: kan herplant niet in redelijkheid, dan 'wordt in plaats van het in het eerste lid bedoelde voorschrift als voorschrift opgenomen dat de houtopstand niet mag worden geveld voordat een door het college te bepalen bedrag, dat gelijk is aan de herplantwaarde, in de Voorziening Groen is gestort.' Na illegale kap (art. 3.28): 'kan het college de verplichting opleggen ... dat ... wordt herplant'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college per geval) en 'tenzij zwaarwegende redenen zich daartegen verzetten' (art. 3.27 lid 1); bij niet redelijkerwijs mogelijke herplant verplichte storting in de Voorziening Groen in plaats van herplant (art. 3.27 lid 3).",
+  "herplant_niet_nakomen": "Niets geregeld voor het niet nakomen van een opgelegd herplantvoorschrift: de strafbepaling art. 7.1 noemt alleen 'de in deze verordening opgenomen artikelen' in het algemeen. Alleen het algemene instrumentarium.",
+  "sancties": "Eigen strafbepaling art. 7.1: 'Overtreding van de in deze verordening opgenomen artikelen ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' WED via Ow 5.1 (omgevingsplanactiviteit volgens leges art. 2.28). Herplant na illegale kap: art. 3.28 'kan'. Geen bestuurlijke boete in de regeling.",
+  "procedure": "Leges art. 2.28: EUR 183,85 en EUR 188,80 (twee tariefkolommen in de tabel; niet vastgesteld welke voor 2026 geldt). Art. 3.26: vergunning vervalt als niet binnen een jaar na het onaantastbaar worden gebruik is gemaakt. Art. 3.25 lid 5: advies van een boomtechnisch deskundige bij afwijken wegens grond a of b. Beslistermijn en bezwaar niet apart onderzocht.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de 'Monumentale- en waardevolle bomen - Zuidplas lijst' staat niet in CVDR; gemeentelijke website (zuidplas.nl/bomen) bevatte geen lijst",
+  "status": "ok",
+  "ontbrekend": "De Monumentale- en waardevolle bomen - Zuidplas lijst en het 'bomenbeleidsplan' waarnaar de Nota Snippergroen verwijst niet gevonden; aantallen en eigendom onbekend. Aanwijsregels (art. 6.30 lid 1) niet gevonden.",
+  "artikelnummers": [
+    "VFL art. 2.14, 3.24, 3.25, 3.26, 3.27, 3.28, 4.1, 5.2, 6.30, 7.1",
+    "Leges 2026 art. 2.28",
+    "APV art. 4:10, 4:11 (vervallen)",
+    "Omgevingsplan art. 22.299 (restant bruidsschat)"
+  ],
+  "opmerkingen": [
+    "Systeem: lijst. Art. 3.25 lid 1: 'Het is verboden zonder omgevingsvergunning de houtopstanden te vellen of te doen vellen die staan vermeld op de Monumentale- en waardevolle bomen - Zuidplas lijst.' Particuliere bomen: art. 6.30 lid 2 bepaalt dat per lijstboom 'het kadastrale perceelnummer, de zakelijk gerechtigden en de reden voor plaatsing op de lijst' worden vermeld en art. 4.1 legt lasten op aan 'de zakelijk gerechtigde tot de grond'. Dat wijst op particuliere eigenaren, maar bevestigt het niet uitdrukkelijk: D-minimum 0.",
+    "W2, maximum 3: art. 3.25 lid 3 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van behoud' met de gebruikelijke waarden (W2 zonder bereik volgens besluit 15-11-2026). Maximum 3 omdat lid 4 het afwijken van het verbod beperkt tot 'instandhouding die niet langer verantwoord is', verplanten of een 'zwaarwegende maatschappelijke reden' (gesloten gronden).",
+    "H1, maximum 3: art. 3.27 lid 1 'kan ... als voorschrift verbinden dat ... wordt herplant, tenzij zwaarwegende redenen zich daartegen verzetten' (bevoegdheid). Lid 3 maakt storting van de herplantwaarde in de Voorziening Groen verplicht ('wordt ... als voorschrift opgenomen') als herplant niet in redelijkheid kan. Omdat herplant zelf 'kan' blijft, is de punt H1; het model zegt niet duidelijk of dit H3 is. Geen beleidsregel over herplant gevonden. Herplant na illegale kap (art. 3.28) telt niet voor H.",
+    "S1 zonder bereik: eigen strafbepaling art. 7.1 en WED via Ow 5.1: leges art. 2.28 'bestaande uit het vellen van een houtopstand, bedoeld in artikel 3.25 van de Verordening Fysieke Leefomgeving in samenhang met artikel 22.8 van de Omgevingswet'. Art. 7.1 verwijst naar 'artikel 1:9' dat in de VFL niet bestaat (foute verwijzing: de VFL heeft geen art. 1:9); de strafbepaling dekt art. 3.25 wel als 'in deze verordening opgenomen artikelen'.",
+    "Omgevingsplan: paragrafen 5.1.2.5 (Monumentale bomen) en 7.3.6.2 (Kappen van bomen) zijn gereserveerd en leeg; art. 22.299 bevat alleen aanvraagvereisten (restant bruidsschat). Het omgevingsplan telt niet.",
+    "Nota Snippergroen Zuidplas 2025 (CVDR745761_1) noemt 'een bomenbeleidsplan' en een bomenlijst 'op de website van de gemeente'; dat beleid gaat over verkoop van gemeentegrond en telt niet voor W of H.",
+    "Bebouwingscontour houtkap (art. 2.14, bijlage 1) bepaalt alleen het toepassingsbereik (art. 3.24); het verbod blijft beperkt tot lijstbomen.",
+    "Nabewerking 16-11-2026: H1 (1-3) → H2 (max 3): herplant 'kan', storting van de herplantwaarde verplicht als herplant niet kan (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Verplichte storting als vervanging voor herplant (art. 3.27 lid 3) bij een herplantvoorschrift dat zelf 'kan' is: model geeft geen duidelijk antwoord tussen H1 en H3; hier H1 met maximum 3.",
+    "Gesloten afwijkingsgronden (art. 3.25 lid 4) naast een belangenafweging (lid 3): W2 met maximum 3; model zegt niet welke bepaling voorgaat."
+  ]
+}

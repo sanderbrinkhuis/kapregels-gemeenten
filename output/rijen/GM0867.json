@@ -1,0 +1,87 @@
+{
+  "gm_code": "GM0867",
+  "gemeente": "Waalwijk",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Algemene plaatselijke verordening gemeente Waalwijk 2026 (APV) afdeling 4.3 (art. 4:10, 4:11, 4:16) en art. 6:1 (CVDR752611_1); Beleidsregels Bomen 2025 (CVDR735649_1); Aanwijzingsbesluit kapvergunningplicht bomen particulier eigendom 2024 (CVDR711109_1); Legesverordening 2026 art. 2.30 (CVDR752256_1); Omgevingsplan art. 22.299 (CVDR696432_2); Uitvoerings- en handhavingsstrategie 2024-2028 (CVDR724106_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR752611/1 ; https://lokaleregelgeving.overheid.nl/CVDR735649/1 ; https://lokaleregelgeving.overheid.nl/CVDR711109/1 ; https://lokaleregelgeving.overheid.nl/CVDR752256/1 ; https://lokaleregelgeving.overheid.nl/CVDR696432/2",
+  "datum_geldigheid": "APV CVDR752611_1 geldend vanaf 2025-12-25 t/m heden (peildatum scoren 2026-11-15); Beleidsregels Bomen 2025 CVDR735649_1 geldend vanaf 2025-02-20; Aanwijzingsbesluit CVDR711109_1 geldend vanaf 2024-01-01",
+  "laatste_wijziging": "APV: versie van 2025-12-25 (vorige versie CVDR735654_1, 2025-02-20 t/m 2025-12-24; de tekst van die versie is niet vergeleken). Beleidsregels Bomen: 2025-02-20 (vervangt Beleidsregels bomen 2024, CVDR711403_1).",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt het vellen van een houtopstand 'bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025 maar 1 bekendmaking op titel (zoekmethode mist waarschijnlijk besluiten): gmb-2025-497504, een verleende vergunning voor het kappen van 2 bomen met slechte toekomstverwachting. Geen grondslag in het besluit. Te weinig om iets over het regime te zeggen. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 113 bekendmakingen sinds 1-1-2025, waarvan 93 besluiten en 2 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Omgevingsvergunning (APV 4:11 lid 1b): 'Het is verboden zonder vergunning van het bevoegd gezag een houtopstand, met een omtrek van de stam van minimaal 100 centimeter (=31,83 cm doorsnede) op 1,3 meter hoogte boven het maaiveld, op alle andere gronden dan grond die in eigendom is van de gemeente Waalwijk, te vellen of te doen vellen.'",
+  "drempel": "Particuliere grond (lid 1b): stamomtrek minimaal 100 cm op 1,3 m hoogte (= 31,83 cm doorsnede). Gemeentegrond (lid 1a): minimaal 50 cm. Bomen die zijn geplant ter compensatie (lid 1c): ongeacht omvang vergunningplichtig.",
+  "omtrek_cm": 100,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Hele gemeente (geen onderscheid binnen of buiten de bebouwde kom), particulier en openbaar met verschillende drempels. Particulier: alle andere gronden dan gemeentegrond, vanaf 100 cm omtrek. Naast het brede regime bestaat een aanwijzingsbesluit (CVDR711109_1) waarbij bomen in de 'Bomencatalogus' (waardevolle particuliere bomen, bomen bij een monumentaal pand en waardevolle boomvlakken, opgesteld 12 september 2008) ongeacht omvang onder de vergunningplicht vallen; die catalogus staat niet in het dossier.",
+  "uitzonderingen": "APV 4:11 lid 3: a. 'bomen die vanwege een wettelijke plicht moeten worden geveld'; b. 'bomen waarvoor de rijksregels over vellen en herbeplanten gelden'; c. 'dode bomen'; d. periodiek knotten, kandelaren of kandelaberen (niet de eerste keer). Geen tuin-, erf-, perceel-, soort- of aantalsuitzondering: geen correctie. Beleidsregels 3.2 en 7.1 noemen uitzonderingen op de indieningsvereisten en op de compensatieplicht (slechte toekomstverwachting, invasieve exoten, beheertechnisch, natuur), maar die schrappen de vergunningplicht niet.",
+  "weigeringsgronden": "APV 4:11 lid 2: 'In afwijking van het bepaalde in artikel 1:8 kan de vergunning worden geweigerd als de waarde van de houtopstand hoger is dan, of gelijk is aan de verwijderingsbelangen (overlast) van de houtopstand als bedoeld in de gemeentelijke beleidsregels.' Beleidsregels Bomen 2025 par. 4: 'wordt slechts verleend als de boom een hoger puntenaantal scoort op overlast dan dat de boom scoort op waarde'. Waarde-criteria: o.a. toekomstverwachting, inheemse soort, vervangbaarheid, grootte, monumentaal. Bij projecten: weigeren bij waarde van 35 punten of meer; bij meer dan 70 punten 'blijft behouden'.",
+  "herplantplicht": "APV 4:16 lid 2: 'kan, middels een bomencompensatieplicht, het voorschrift behoren dat pas tot vellen van de boom/bomen mag worden overgegaan indien is voldaan aan de financiële compensatieplicht'. Beleidsregels Bomen 2025 par. 7.1: 'Bomencompensatie is verplicht voor alle bomen op gemeentelijke gronden en bomen op particuliere gronden, waarvoor voor het vellen een vergunningplicht geldt.' Par. 7.5 (maximaal 2 bomen op particuliere grond): herplant op het kadastrale perceel binnen 1 jaar na verlening; 'Indien herplant op het kadastrale perceel, waarop de te vellen boom staat, niet mogelijk is, dan is financiële bomencompensatie verplicht.' Bedrag per omtrek: 100-160 cm EUR 500, 160-250 cm EUR 1000, vanaf 250 cm EUR 2000, in het gemeentelijke bomencompensatiefonds.",
+  "herplant_ontsnapping": "Herplant kan op het perceel niet altijd: dan is storting in het bomencompensatiefonds verplicht (par. 7.5, betalen als vervanging, geen vrijstelling). Uitwegen zijn de uitzonderingen in par. 7.1: 'Bomen met een slechte toekomstverwachting', invasieve exoten, beheertechnische kap en kap voor natuur. De APV zelf zegt 'kan'; het college legt het voorschrift op per vergunning.",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Beleidsregels par. 7.5: 'Herplantbomen moeten, als ze dood gaan, vervangen worden door een boom van dezelfde soort en omvang.' APV art. 4:16 bevat het voorschrift; art. 6:1 lid 1 strafbaar stelt alleen overtreding van 'de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen', en art. 1:4 lid 3 zegt 'Dit artikel is niet van toepassing op een omgevingsvergunning'. Een specifiek gevolg voor niet-nakomen van een herplantvoorschrift staat niet in de regeling; het algemene instrumentarium (bestuursdwang, dwangsom) geldt.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "APV 6:1 lid 2: 'In afwijking van het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10, 2:11, als sprake is van een omgevingsvergunningplichtige activiteit, 2:12, eerste lid en 4:11, eerste lid.' (WED-aanwijzing in regeling; ook via Ow 5.1 omdat de legesverordening het vellen een omgevingsplanactiviteit noemt). Geen bestuurlijke boete voor kappen in de regeling en geen kap-specifiek handhavingsbeleid in de Uitvoerings- en handhavingsstrategie (alleen risicoscores 'Houtopstanden'). Geen herplantplicht na illegale kap gevonden.",
+  "procedure": "Leges 2026 art. 2.30: EUR 115,03 voor de eerste houtopstand, EUR 10,00 extra per houtopstand, maximum EUR 217,00. APV 4:12 (vergunning van rechtswege), 4:13 (aanvraag) en 4:14 (procedure) zijn vervallen; de procedure volgt dan de Omgevingswet. Beslistermijn volgens APV 1:2 lid 3 niet van toepassing op omgevingsvergunningen. Aanvraagvereisten: Omgevingsplan art. 22.299 en Beleidsregels par. 3 (voor maximaal 2 bomen op particuliere grond alleen een kaart met herplant). Bezwaar en beroep: niet apart gelezen.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "",
+  "status": "ok",
+  "ontbrekend": "De Bomencatalogus (BTL Advies, 12 september 2008) waarnaar het Aanwijzingsbesluit CVDR711109_1 verwijst, staat niet in het dossier en is niet gevonden; aantal particuliere bomen daarop onbekend. Bijlagen 2, 4 en 5 van de Beleidsregels Bomen 2025 (herplanttabel) niet gelezen. Bezwaar en beroep niet apart gelezen. Omgevingsplan in het DSO niet ingezien. De vorige APV-versie (CVDR735654_1) is niet vergeleken.",
+  "artikelnummers": [
+    "APV 1:1",
+    "APV 1:8",
+    "APV 4:10",
+    "APV 4:11",
+    "APV 4:16",
+    "APV 6:1",
+    "Aanwijzingsbesluit 2024 (CVDR711109_1)",
+    "Beleidsregels Bomen 2025 par. 4, 5, 7.1, 7.5",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "Duinverordening 2025 art. 9, 14, 22 (telt niet)"
+  ],
+  "opmerkingen": [
+    "D: de APV (geldend sinds 2025-12-25) verbiedt vellen op particuliere grond vanaf een stamomtrek van 'minimaal 100 centimeter'. 100 cm valt in de band 60-100 cm (D3). De tekst zegt 'minimaal 100', dus 100 cm valt zelf onder het verbod. Hele gemeente, geen tuin- of soortuitzondering, dus geen correctie.",
+    "Het Aanwijzingsbesluit (CVDR711109_1) verwijst naar de oude APV-tekst ('nader door het college te nemen aanwijzingsbesluit') die niet meer in art. 4:11 staat. De huidige APV regelt de particuliere drempel zelf; de catalogusbomen (ongeacht omvang) zijn hooguit een strenger regime voor lijstbomen en geven geen hogere D, omdat het brede regime bepaalt.",
+    "Boom A (80 cm) en boom B (40 cm) blijven onder de drempel van 100 cm: geen vergunning nodig, tenzij de boom in de Bomencatalogus staat of als compensatieboom is geplant (lid 1c).",
+    "W: APV 4:11 lid 2 ('kan worden geweigerd als de waarde ... hoger is dan, of gelijk is aan de verwijderingsbelangen') en Beleidsregels Bomen 2025 par. 4 ('wordt slechts verleend als de boom een hoger puntenaantal scoort op overlast dan dat de boom scoort op waarde'): belangenafweging met puntenstelsel, W2. Maximum 3 omdat de beleidsregel zegt 'wordt slechts verleend'. Zonnepanelen en allergie tellen volgens de beleidsregel niet als overlast.",
+    "H: de APV zegt 'kan' (art. 4:16 lid 2), maar de beleidsregel (vastgesteld, geldend in CVDR) maakt herplant en bij onmogelijke herplant storting verplicht: 'Bomencompensatie is verplicht ...' en 'dan is financiële bomencompensatie verplicht.' Volgens de regel over tegenstrijdige teksten telt de beleidsregel: H3. Compensatie bij projecten (BKV + 10%, boomwaarde x 2 + 15%) geldt niet voor gewone particuliere kap en telt niet.",
+    "S: WED-aanwijzing in APV 6:1 lid 2 en omgevingsplanactiviteit volgens de legesverordening: S1 zonder bereik. Geen bestuurlijke boete in de regeling.",
+    "Duinverordening gemeente Waalwijk 2025 (CVDR742150_1) telt niet voor particuliere bomen: ze regelt de openbare orde en het gedrag op de openbare terreinen van het deelgebied Loonse en Drunense Duinen van het Van Gogh Nationaal Park (art. 9 'In op de openbare terreinen staande bomen ... te klimmen', art. 14 lid 2 verbiedt 'bomen, takken ... te beschadigen, uit te steken, af te snijden' in het park). Er is geen vergunning- of ontheffingsstelsel voor het vellen, geen drempel en geen herplant; de toelichting zegt dat de regels gericht zijn 'op het voorkomen van het wijzigen van de fysieke leefomgeving, niet op het daadwerkelijk wijzigen daarvan'. Het kappen van bomen is volgens de toelichting een zaak van het omgevingsplan.",
+    "Beleid: 'Werkwijze bomen Gemeente Waalwijk' (CVDR621828_1) is vervallen per 2024-01-03; de 'Beleidsregels bomen 2024' (CVDR711403_1) zijn vervallen per 2025-02-20. Geldend zijn de Beleidsregels Bomen 2025 (CVDR735649_1). De Subsidieregeling onderhoudskosten grote particuliere bomen (CVDR746927_1) is een subsidie en telt niet.",
+    "APV 4:10 definieert 'boom' als houtig gewas met stamomtrek van minimaal 14 cm op 1 m hoogte; dat is een definitie, de vergunningplicht begint bij 100 cm op 1,3 m.",
+    "Leges art. 2.30: 'bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'."
+  ],
+  "modelsignalen": [
+    "Drempel 'minimaal 100 centimeter': het model kent D3 voor 60-100 cm en D2 voor > 100 cm; een drempel van precies 100 cm (vergunning vanaf 100 cm) valt tussen beide. Gescoord als D3 zonder bereik, omdat de tekst 'minimaal 100' zegt.",
+    "Waalwijk heeft naast een breed regime een aanwijzingsbesluit voor een bomencatalogus uit 2008 dat verwijst naar een APV-tekst die niet meer bestaat; het model kent geen regel voor een verouderd aanwijzingsbesluit naast een nieuwe drempel."
+  ]
+}

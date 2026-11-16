@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0453/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Velsen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0453/2020/omgevingsplan/nld@2024-04-17;fdf8f2c15e9a4ec0b4fdee3d2d723349",
+    "beginGeldigheid": "2024-04-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0453_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:39Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0453/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie voor Gemeente Velsen",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0453/2020/omgevingsvisie/nld@2026-10-12;16a8d161c0fd4f96a5b11e8962b1e197",
+    "beginGeldigheid": "2026-10-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0453_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:08:39Z"
+  }
+]

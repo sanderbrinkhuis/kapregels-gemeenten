@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0034/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Almere",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0034/2020/omgevingsplan/nld@2025-08-19;1",
+    "beginGeldigheid": "2025-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0034_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0034/2025/2_9",
+    "titel": "Programma Kostenverhaal Almere",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0034/2025/2_9/nld@2025-09-30;1",
+    "beginGeldigheid": "2025-10-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0034_2025_2_9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0034/2025/weksetomgevingsvisie",
+    "titel": "Omgevingsvisie Almere 2050. Behouden, versterken en vernieuwen voor een gezonde toekomst",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0034/2025/weksetomgevingsvisie/nld@2026-07-03;1",
+    "beginGeldigheid": "2026-07-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0034_2025_weksetomgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:07Z"
+  }
+]

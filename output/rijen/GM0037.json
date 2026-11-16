@@ -1,0 +1,83 @@
+{
+  "gm_code": "GM0037",
+  "gemeente": "Stadskanaal",
+  "provincie": "Groningen",
+  "brondocument": "APV Stadskanaal 2024 (CVDR709904_4), afd. 4.3 art. 4:11 t/m 4:17: alle artikelen '[Vervallen]'; Leges 2026 (CVDR751113_2) art. 2.30 verwijst naar 'artikel 108.2 van het Chw-bestemmingsplan gemeente Stadskanaal'; Omgevingsplan (CVDR696165_2) art. 22.299 (alleen aanvraagvereisten); Chw bestemmingsplan gemeente Stadskanaal (NL.IMRO.0037.CHW2207-vs02) art. 108 (Ruimtelijke plannen API v4, tekst in dso/rp_chw_artikel108.md)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR709904/4 ; https://lokaleregelgeving.overheid.nl/CVDR751113/2 ; https://lokaleregelgeving.overheid.nl/CVDR696165/2 ; https://www.ruimtelijkeplannen.nl/plannen/NL.IMRO.0037.CHW2207-vs02 (API: https://ruimte.omgevingswet.overheid.nl/ruimtelijke-plannen/api/opvragen/v4/plannen/NL.IMRO.0037.CHW2207-vs02)",
+  "datum_geldigheid": "APV versie 4 geldend van 12-05-2026 t/m heden (art. 4:11-4:17 vervallen sinds 27-06-2024, versie 2); leges versie 2 geldend van 01-01-2026; omgevingsplan versie 2 geldend van 02-07-2026; Chw-plan: planstatus vastgesteld op 2026-09-14, regelStatus volgens de API 'in ontwikkeling'; inwerkingtreding niet vastgesteld",
+  "laatste_wijziging": "APV versie 4 in werking 12-05-2026; afdeling houtopstanden vervallen met versie 2 (27-06-2024, wijziging 'artt. 2:7, 2:9, 4:11 t/m 4:17, 4:19')",
+  "juridische_plaats": "omgevingsplan (tijdelijk deel): Chw-bestemmingsplan gemeente Stadskanaal art. 108 (aanduiding 'overige zone - regels met betrekking tot bomen', één vlak van 116,4 km², vrijwel de hele gemeente); leges art. 2.30 noemt kap een omgevingsplanactiviteit. Onzekerheid: inwerkingtreding van versie vs02 niet vastgesteld (zie opmerkingen)",
+  "praktijkcontrole": "173 bekendmakingen sinds 2025: 83 besluiten, 84 aanvragen, 1 weigering volgens titel. De besluiten zijn 'Verleende omgevingsvergunning (reguliere procedure) voor het kappen van ...' en gaan over losse particuliere bomen in woonstraten en erven van diverse soorten (kastanjes, acacia, meelbessen, zuilpopulier, beuken, wilgen) en ook grote aantallen (bijv. 180 leilindes in gmb-2026-425952, 29 beuken in gmb-2026-452789). Dat wijst op een regime dat verder gaat dan een lijst, maar de bekendmakingen noemen geen grondslag. Alle besluiten noemen als activiteit 'boom kappen of houtopstand vellen'.",
+  "vergunningplicht": "vergunning: 108.2 'Het is verboden zonder vergunning van burgemeester en wethouders een houtopstand te vellen of te doen vellen.'",
+  "drempel": "geen drempel in art. 108; 108.1 sub a: houtopstand is 'hakhout, een houtwal of een of meer bomen'",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen drempel)",
+  "reikwijdte": "Ter plaatse van de aanduiding 'overige zone - regels met betrekking tot bomen' (art. 108, aanhef). Die aanduiding is één vlak van 116,4 km², vrijwel de hele gemeente (API, 2026-11-16); binnen en buiten de bebouwde kom, particulier en openbaar, tuinen niet uitgezonderd.",
+  "uitzonderingen": "108.4 sub a: 'alle hagen; 3. alle soorten naaldbomen (waaronder coniferen, dennen en sparren); 4. alle soorten fruitbomen; 5. meidoornbomen; 6. berken; 7. kweekgoed'; wegbeplantingen en eenrijige beplantingen op of langs landbouwgronden van populieren of wilgen; bos van bosbouwondernemingen buiten de kom. Sub b: spoed/gevaar en regulier onderhoud. Alle naaldbomen uitgezonderd: ruime uitzondering (-1). Alle fruitbomen en berken/meidoorns: geen extra correctie.",
+  "weigeringsgronden": "108.5 sub a: 'Burgemeester en wethouders kunnen de vergunning weigeren op grond van: 1. de natuurwaarde ...; 2. de landschappelijke waarde ...; 3. de waarde ... voor stads- en dorpsschoon; 4. de beeldbepalende waarde ...; 5. de cultuurhistorische waarde'. Sub b: 'Burgemeester en wethouders verlenen in beginsel geen velvergunningen anders dan na een zorgvuldige belangenafweging op basis van minimaal één van de criteria “waardering”, “overlast”, “kwaliteit” en “dringende redenen”.' 108.6: college kan beleidsregels vaststellen.",
+  "herplantplicht": "108.8 sub a: 'Burgemeester en wethouders kunnen een herplantplicht opleggen onder nader te stellen voorschriften.' Sub b: 'kunnen beleidsregels vaststellen ter zake van het opleggen van herplantplicht en het geheel of gedeeltelijk omzetten van de herplantplicht in een financiële compensatie.' Zulke beleidsregels zijn niet gevonden. Niets over herplant na illegale kap. Aanvraagvereiste in art. 22.299 lid 2 sub d (herbeplanten) blijft aanvraagvereiste.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college, per geval); geen harde plicht. Financiële compensatie alleen via nog niet gevonden beleidsregels ('kunnen beleidsregels vaststellen').",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "108.8 sub c: 'In geval een herplantplicht is opgelegd als bedoeld onder a, kan daarbij tevens worden bepaald binnen welke termijn en op welke wijze een niet geslaagde herplanting moet worden overgedaan.' Gevolg van niet nakomen: niet geregeld in art. 108 (alleen algemeen instrumentarium).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via Ow 5.1 (de leges noemen kappen een omgevingsplanactiviteit 'als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'; het Chw-plan is tijdelijk deel van het omgevingsplan). Art. 108 bevat geen eigen strafbepaling of bestuurlijke boete. APV art. 6:1 lid 3 (WED-aanwijzing) noemt kap niet. S = 1.",
+  "procedure": "Leges art. 2.30: EUR 31,52 voor het vellen of doen vellen van een houtopstand (art. 108.2 Chw-bestemmingsplan). Reguliere procedure volgens de bekendmakingen; bezwaar binnen zes weken bij het college. Beslistermijn: niet van toepassing in APV (art. 1:2 lid 4), wel via Omgevingswet. Chw-plan 108.7: aanvraag door of namens de rechthebbende.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "ja",
+  "D": {
+    "punt": 3,
+    "min": 1,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem: art. 108 geldt voor alle houtopstand in de aanduidingszone",
+  "status": "onzeker",
+  "ontbrekend": "Inwerkingtreding van het Chw-bestemmingsplan (vs02, vastgesteld 2026-09-14; regelStatus in de API 'in ontwikkeling') is niet vastgesteld. De legesverordening 2026 (geldend vanaf 2026-01-01) verwijst al naar art. 108.2 en de gemeente verleende ook in 2025-2026 kapvergunningen, dus een eerdere versie of ander plan met dezelfde regel lijkt te gelden; die tekst is niet gelezen. Als het plan niet van kracht is, kan D lager zijn (minimum D1). Beleidsregels herplant/financiële compensatie (art. 108.8 sub b) en weigeringsbeleid (108.6) niet gevonden, dus H-maximum 3.",
+  "artikelnummers": [
+    "APV 2024 art. 4:11-4:17 (alle vervallen) en 6:1 (CVDR709904_4)",
+    "Leges 2026 art. 2.30 (CVDR751113_2)",
+    "Omgevingsplan art. 22.299 (CVDR696165_2)",
+    "Chw bestemmingsplan gemeente Stadskanaal art. 108.1-108.9 (NL.IMRO.0037.CHW2207-vs02; dso/rp_chw_artikel108.md)"
+  ],
+  "opmerkingen": [
+    "Puntschatting volgens de regel 'Scoor alleen wat je gelezen hebt': W = 0 en H = 0 (niet gelezen), D = 1 (er is een vergunningplicht volgens leges en praktijk; de omvang is onbekend), bereik D 0-4, W 0-3, H 0-3.",
+    "S = 1: leges art. 2.30 noemt het vellen een omgevingsplanactiviteit; volgens stap 1a is dat via de Omgevingswet een economisch delict. Minimum 1, maximum 3 omdat bestuurlijke boete en handhavingsbeleid niet zijn beoordeeld. Het Uitvoerings- en Handhavingsstrategie 2026-2029 (CVDR759810_1) bevat volgens het dossier geen kaptermen.",
+    "Praktijk: veel kapbesluiten voor particuliere bomen van allerlei soorten (ook meelbes en acacia) wijzen op een bredere regeling dan een lijst, maar dit is geen bewijs van de drempel. De bekendmakingen noemen de grondslag niet.",
+    "De APV-afdeling Houtopstanden is vervallen met de wijziging van 27-06-2024 (CVDR709904_2); de reden (overgang naar het Chw-bestemmingsplan) staat niet in de gelezen bronnen.",
+    "Nabewerking DSO/RP 16-11-2026: de kapregel is gelezen in het Chw-bestemmingsplan gemeente Stadskanaal (NL.IMRO.0037.CHW2207-vs02), art. 108, via de Ruimtelijke plannen API v4. Eerdere puntschatting D1 W0 H0 S1 vervangen door D3 W3 H1 S1.",
+    "D3: geen drempel (D4) en geen tuinuitzondering, maar alle naaldbomen uitgezonderd (-1). De aanduiding 'overige zone - regels met betrekking tot bomen' (id NL.IMRO.3359d310f76f4d5d871382fcd2815500) is één vlak van 116,4 km², vrijwel de hele gemeente (API-geometrie, EPSG:28992). Minimum 1 door de onzekerheid over inwerkingtreding, maximum 4.",
+    "W3: 108.5 sub b 'verlenen in beginsel geen velvergunningen anders dan na een zorgvuldige belangenafweging op basis van minimaal één van de criteria “waardering”, “overlast”, “kwaliteit” en “dringende redenen”' (weigeren-tenzij met gesloten gronden). Sub a ('kunnen de vergunning weigeren op grond van' natuur-, landschaps-, beeld- en cultuurhistorische waarden) zou W2 zijn; daarom minimum 2. Praktijk: 83 besluiten en 1 weigering sinds 2025 (indicatie, geen bewijs voor de toetsing).",
+    "H1 (maximum 3): 'kunnen een herplantplicht opleggen'; beleidsregels over herplant en financiële compensatie 'kunnen' worden vastgesteld maar zijn niet gevonden. Herplant na illegale kap staat niet in art. 108.",
+    "S1: WED via Ow 5.1 (leges art. 2.30). Geen bestuurlijke boete in art. 108; het handhavingsbeleid (CVDR759810_1) bevat volgens het dossier geen kaptermen.",
+    "Nabewerking DSO/RP 16-11-2026: onzekerheid inwerkingtreding. Planstatus vastgesteld op 2026-09-14; de API noemt regelStatus 'in ontwikkeling'. De legesverordening 2026 art. 2.30 (geldend vanaf 2026-01-01) verwijst al naar art. 108.2 en er zijn sinds 2025 veel kapbesluiten; vandaar status 'onzeker' en een breed D-bereik. Gescoord op de tekst van vs02, de enige gelezen tekst.",
+    "Voorbeeldbomen A en B: art. 108.2 kent geen drempel; berken, naaldbomen, fruitbomen en meidoorns zijn uitgezonderd, de voorbeeldbomen zijn dat per definitie niet (berk en meidoorn: een boom van die soort zou vrij zijn).",
+    "Nabewerking 16-11-2026: W3 (2-3) → W2 (max 3): art. 108.5 'in beginsel geen velvergunningen anders dan na een zorgvuldige belangenafweging' is een belangenafweging (besluit gebruiker 16-11-2026, na Zuid-Holland)."
+  ],
+  "modelsignalen": [
+    "Kapregel in een Chw-bestemmingsplan (bruidsschat) dat niet als CVDR-regeling is gepubliceerd: de pipeline haalt het niet op en kan het dus niet scoren.",
+    "Kapregel in een Chw-bestemmingsplan dat pas kort is vastgesteld, terwijl de API regelStatus 'in ontwikkeling' geeft en de leges er al naar verwijzen: het model kent geen manier om een onzekere inwerkingtreding te scoren anders dan met een breed D-bereik. Advies: peildatum-regel uitbreiden (bijv. 'verwijst de geldende legesverordening ernaar, scoor dan de tekst en noteer de onzekerheid').",
+    "108.5 combineert 'kunnen weigeren op grond van waarden' (W2) met 'in beginsel geen velvergunningen' en gesloten criteria (W3) in één artikel. Gescoord W3 met minimum 2; advies: vastleggen dat bij tegenstrijdige leden de strengste formulering telt, of het omgekeerde."
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0505/2025/TijdelijkDeel000017",
+    "titel": "Voorbeschermingsregels energieopslagsystemen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0505/2025/TijdelijkDeel000017/nld@2025-05-28",
+    "beginGeldigheid": "2025-05-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2025_TijdelijkDeel000017?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0505/2025/000024",
+    "titel": "Actieplan Geluid 2024-2029",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0505/2025/000024/nld@2025-10-10",
+    "beginGeldigheid": "2025-10-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2025_000024?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0505/2025/000015",
+    "titel": "Omgevingsprogramma Economie gemeente Dordrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0505/2025/000015/nld@2025-11-05",
+    "beginGeldigheid": "2025-11-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2025_000015?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0505/2024/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Dordrecht",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0505/2024/omgevingsvisie/nld@2025-11-26;1",
+    "beginGeldigheid": "2025-11-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2024_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0505/2025/warmteprogramma",
+    "titel": "Warmteprogramma Dordrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0505/2025/warmteprogramma/nld@2025-12-18",
+    "beginGeldigheid": "2025-12-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2025_warmteprogramma?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0505/2026/programma-recreatieentoerismebuitengebieden",
+    "titel": "Programma Recreatie en Toerisme buitengebieden Dordrecht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0505/2026/programma-recreatieentoerismebuitengebieden/nld@2026-06-03",
+    "beginGeldigheid": "2026-06-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2026_programma_recreatieentoerismebuitengebieden?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0505/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Dordrecht",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0505/2020/omgevingsplan/nld@2026-10-08;1",
+    "beginGeldigheid": "2026-11-06",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0505_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:20:40Z"
+  }
+]

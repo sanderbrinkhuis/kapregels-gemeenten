@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0400/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Den Helder",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0400/2020/omgevingsplan/nld@2024-06-10;13574158",
+    "beginGeldigheid": "2024-07-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0400_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:45Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0400/2026/Regeling37e1de63b3e245b189c5bab5fd8db140",
+    "titel": "Omgevingsvisie Den Helder \"Koers op een sterke thuishaven\"",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0400/2026/Regeling37e1de63b3e245b189c5bab5fd8db140/nld@2026-09-01;07173540",
+    "beginGeldigheid": "2023-09-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0400_2026_Regeling37e1de63b3e245b189c5bab5fd8db140?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:45Z"
+  }
+]

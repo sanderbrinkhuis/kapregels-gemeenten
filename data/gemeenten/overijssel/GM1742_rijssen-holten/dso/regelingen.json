@@ -1,0 +1,26 @@
+[
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm1742",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Rijssen-Holten",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm1742/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm1742?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1742/2024/Regeling8aa8a07e540a4165b30ffd0fa4c370f3",
+    "titel": "Omgevingsvisie gemeente Rijssen-Holten ",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1742/2024/Regeling8aa8a07e540a4165b30ffd0fa4c370f3/nld@2025-11-19;08563022",
+    "beginGeldigheid": "2025-11-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1742_2024_Regeling8aa8a07e540a4165b30ffd0fa4c370f3?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:03Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1742/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Rijssen-Holten",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1742/2020/omgevingsplan/nld@2026-04-17;12080818",
+    "beginGeldigheid": "2026-05-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1742_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:04:03Z"
+  }
+]

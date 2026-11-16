@@ -1,0 +1,28 @@
+{
+  "gemeente": "Coevorden",
+  "gm_code": "GM0109",
+  "provincie": "Drenthe",
+  "zoeknaam_cvdr": "Coevorden",
+  "zoeknaam_bekendmakingen": "Coevorden",
+  "opgehaald_op": "2026-11-14T13:47:41+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Coevorden\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 112,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Coevorden\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 624,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR328221_2",
+    "CVDR40047_1",
+    "CVDR696187_3",
+    "CVDR732749_2",
+    "CVDR753856_1",
+    "CVDR754185_2"
+  ],
+  "bekendmakingen_besluiten": 281,
+  "bekendmakingen_aanvragen": 307,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,27 @@
+{
+  "gemeente": "Putten",
+  "gm_code": "GM0273",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Putten",
+  "zoeknaam_bekendmakingen": "Putten",
+  "opgehaald_op": "2026-11-15T14:09:55+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Putten\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 99,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Putten\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 236,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR369278_1",
+    "CVDR429328_1",
+    "CVDR621661_8",
+    "CVDR696248_6",
+    "CVDR752130_1"
+  ],
+  "bekendmakingen_besluiten": 110,
+  "bekendmakingen_aanvragen": 123,
+  "bekendmakingen_geweigerd": 5,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

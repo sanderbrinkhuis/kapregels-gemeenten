@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0928/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Kerkrade",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0928/2020/omgevingsplan/nld@26",
+    "beginGeldigheid": "2024-07-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0928_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:44Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0928/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Kerkrade",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0928/2025/omgevingsvisie/nld@30",
+    "beginGeldigheid": "2025-11-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0928_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:57:44Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1701/2026/10_6",
+    "titel": "Voorbereidingsbesluit sierteelt gemeente Westerveld",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm1701/2026/10_6/nld@10",
+    "beginGeldigheid": "2026-03-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1701_2026_10_6?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:49Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1701/2020/omgevingsplan",
+    "titel": "Wijzigingsbesluit verwerken Vangnetregeling Omgevingswet",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1701/2020/omgevingsplan/nld@14",
+    "beginGeldigheid": "2026-11-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1701_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:49Z"
+  }
+]

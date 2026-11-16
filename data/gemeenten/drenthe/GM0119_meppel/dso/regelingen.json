@@ -1,0 +1,82 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0119/2024/programma_warmteplan_koedijkslanden",
+    "titel": "Programma Warmteplan Koedijkslanden van de gemeente Meppel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0119/2024/programma_warmteplan_koedijkslanden/nld@2025-01-27;1",
+    "beginGeldigheid": "2025-01-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2024_programma_warmteplan_koedijkslanden?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2024/programma_warmteplan_oosterboer",
+    "titel": "Programma Warmteplan Oosterboer van de gemeente Meppel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0119/2024/programma_warmteplan_oosterboer/nld@2025-01-27;1",
+    "beginGeldigheid": "2025-01-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2024_programma_warmteplan_oosterboer?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2025/vbb-omgevingsplan-20250312-110038",
+    "titel": "Voorbereidingsbesluit warmtesysteem Noordpoort",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0119/2025/vbb-omgevingsplan-20250312-110038/nld@2025-04-28;1",
+    "beginGeldigheid": "2025-04-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2025_vbb_omgevingsplan_20250312_110038?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2024/omgevingsvisie_Meppel",
+    "titel": "Omgevingsvisie van de gemeente Meppel",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0119/2024/omgevingsvisie_Meppel/nld@2025-05-23;1",
+    "beginGeldigheid": "2025-05-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2024_omgevingsvisie_Meppel?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2025/programma-biodiversiteit",
+    "titel": "Programma biodiversiteit van de gemeente Meppel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0119/2025/programma-biodiversiteit/nld@2025-07-08;1",
+    "beginGeldigheid": "2025-07-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2025_programma_biodiversiteit?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2025/programma_warmteplan_nijeveen",
+    "titel": "Programma Warmteplan Nijeveen van de gemeente Meppel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0119/2025/programma_warmteplan_nijeveen/nld@2025-08-13;1",
+    "beginGeldigheid": "2025-08-14",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2025_programma_warmteplan_nijeveen?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2025/programma_warmteplan_blankenstein",
+    "titel": "Programma Warmteplan Blankenstein van de gemeente Meppel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0119/2025/programma_warmteplan_blankenstein/nld@2025-09-17;1",
+    "beginGeldigheid": "2025-09-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2025_programma_warmteplan_blankenstein?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2025/vbb-omgevingsplan-20251029-195505",
+    "titel": "Voorbereidingsbesluit Industrie- en bedrijventerreinen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0119/2025/vbb-omgevingsplan-20251029-195505/nld@2025-12-22;1",
+    "beginGeldigheid": "2025-12-22",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2025_vbb_omgevingsplan_20251029_195505?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2025/programma-elektrisch-laden",
+    "titel": "Programma Elektrisch Laden 2026 - 2030 van de gemeente Meppel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0119/2025/programma-elektrisch-laden/nld@2026-04-07;1",
+    "beginGeldigheid": "2026-04-08",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2025_programma_elektrisch_laden?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0119/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Meppel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0119/2020/omgevingsplan/nld@2025-05-14;4",
+    "beginGeldigheid": "2025-06-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0119_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:25Z"
+  }
+]

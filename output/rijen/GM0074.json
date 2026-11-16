@@ -1,0 +1,75 @@
+{
+ "gm_code": "GM0074",
+ "gemeente": "Heerenveen",
+ "provincie": "Fryslân",
+ "brondocument": "APV Heerenveen afd. 4.3 (CVDR763112_3, art. 4:10-4:12, 6:1); Besluit vaststelling Bomenlijst 2012 (CVDR308389_1); leges CVDR750791_1",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR763112/3",
+ "datum_geldigheid": "2026-10-31 t/m heden (CVDR763112_3, geldend op 2026-11-14)",
+ "laatste_wijziging": "2026-10-31 (CVDR763112_3)",
+ "juridische_plaats": "APV; werkt als omgevingsplanactiviteit volgens leges art. 2.30 (verwijst naar art. 22.8 Ow) en APV 6:1 lid 2 (WED-aanwijzing). Omgevingsplan (CVDR696172_2) bevat alleen art. 22.299 aanvraagvereisten.",
+ "praktijkcontrole": "Bekendmakingen sinds 2025: 25 (13 besluiten, 12 aanvragen), 0 geweigerd volgens titel. Enkele besluiten 'kappen van een boom' (o.a. gmb-2025-430554, gmb-2026-346843); de grondslag staat niet in de besluiten, dus niet vast te stellen of die bomen op de lijst staan.",
+ "vergunningplicht": "vergunning, alleen voor houtopstanden op de Bomenlijst of met een herplant-/instandhoudingsplicht",
+ "drempel": "geen drempel; alleen individuele bomen/structuurelementen op de Bomenlijst (bomen- en structuurlijst, door het college vastgesteld)",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (geen drempel; de oude APV-versie noemde diameter 35 cm op 1,30 m)",
+ "reikwijdte": "\"Het is verboden zonder omgevingsvergunning van het bevoegd gezag houtopstanden te vellen of te doen vellen die staan vermeld op de Bomenlijst of waarvoor een herplant/instandhoudingsplicht geldt.\" (art. 4:11 lid 1). Hele gemeente, maar alleen die bomen.",
+ "uitzonderingen": "Plantenziektenwet of aanschrijving van het college (lid 5); acuut spoedeisend belang met toestemming van het college (lid 7).",
+ "weigeringsgronden": "Art. 4:11 lid 2: \"De vergunning kan worden geweigerd op grond van een: a. bijzondere schoonheidswaarde; b. bijzondere zeldzaamheidswaarde; c. bijzondere cultuurhistorische waarde; d. beeldbepalend karakter voor de omgeving; e. landschappelijke, structuurbepalende en/of cultuurhistorische waarde; f. belangrijke natuur- en ecologische waarde.\"",
+ "herplantplicht": "Art. 4:12 lid 1: \"Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.\" Lid 2: bij kap zonder vergunning \"kan het college ... de verplichting opleggen te herplanten\". Lid 3: \"Indien niet ter plaatse kan worden herplant, kan aan een vergunning het voorschrift worden verbonden dat een geldelijke bijdrage ... dient te worden gestort ten gunste van de gemeente.\"",
+ "herplant_ontsnapping": "Geen verplichting zonder besluit: \"kan\" (bevoegdheid van het college, per geval). Storting is een mogelijkheid (\"kan\"), geen plicht.",
+ "sancties": "WED-aanwijzing in de regeling: APV 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... en artikel 4:11, eerste lid.\" Overige overtredingen: hechtenis tot 3 maanden of geldboete tweede categorie (6:1 lid 1). Geen bestuurlijke boete. Herplant na illegale kap kan worden opgelegd (4:12 lid 2).",
+ "procedure": "Leges art. 2.30: EUR 87,90 (CVDR750791_1). Art. 4:11 lid 3: positieve fictieve beschikking (Awb 4.1.3.3) bij niet tijdig beslissen. Aanvraagvereisten omgevingsplan art. 22.299. Beslistermijn: niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:12 lid 6: \"Degene aan wie een verplichting als bedoeld in lid één tot en met vijf is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.\" Overtreding is strafbaar volgens art. 6:1 lid 1: \"hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie\".",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: CVDR308389_1 bevat alleen het besluit; de lijst zelf (bijlage 1) staat niet in de brontekst en is op heerenveen.nl niet gevonden (enkele requests)",
+ "status": "ok",
+ "ontbrekend": "De Bomenlijst zelf (aantal bomen, hoeveel particulier) is niet ingezien; de lijst staat niet in CVDR308389_1 en kon op de gemeentelijke website niet worden gevonden.",
+ "artikelnummers": [
+  "APV 4:10, 4:11, 4:12, 6:1 (CVDR763112_3)",
+  "Besluit vaststelling Bomenlijst 2012 (CVDR308389_1)",
+  "leges art. 2.30 (CVDR750791_1)",
+  "omgevingsplan art. 22.299 (CVDR696172_2, alleen aanvraagvereisten)"
+ ],
+ "opmerkingen": [
+  "Peildatum 2026-11-14. Puntschatting D1 (lijstsysteem, lijst niet ingezien); bereik vanaf D0 (er is niet vastgesteld of er particuliere bomen op de lijst staan).",
+  "W: \"De vergunning kan worden geweigerd op grond van een: a. bijzondere schoonheidswaarde; ...\" (art. 4:11 lid 2) = W2.",
+  "H: \"Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.\" (art. 4:12 lid 1) = H1.",
+  "S1: WED-aanwijzing in APV 6:1 lid 2 voor art. 4:11 lid 1.",
+  "De Bomenlijst 2012 is vastgesteld voor het 'oude' grondgebied van Heerenveen en de grenscorrectie met Skarsterlân; een lijst voor het hele grondgebied is niet gevonden. De oorspronkelijke APV-tekst uit 2013 (geciteerd in CVDR308389_1) kende ook een meldingsregeling voor bomen met diameter vanaf 35 cm in gebieden op de Groene kaart; die staat niet in de huidige APV (CVDR763112_3) en telt niet mee.",
+  "De bekendmakingen over 'kappen van een boom' sinds 2025 zijn weinig in aantal; ze bewijzen niet dat een breder regime geldt."
+ ],
+ "modelsignalen": [
+  "Lijstsysteem waarbij de lijst niet in de brontekst staat en niet online is gevonden; D blijft daardoor onzeker (betrouwbaarheid laag)."
+ ]
+}

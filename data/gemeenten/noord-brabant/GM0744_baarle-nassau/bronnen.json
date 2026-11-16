@@ -1,0 +1,28 @@
+{
+  "gemeente": "Baarle-Nassau",
+  "gm_code": "GM0744",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Baarle-Nassau",
+  "zoeknaam_bekendmakingen": "Baarle-Nassau",
+  "opgehaald_op": "2026-11-15T21:05:18+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Baarle-Nassau\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 58,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Baarle-Nassau\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 55,
+  "geldende_regelingen": 7,
+  "geldend_met_kapartikelen": [
+    "CVDR635435_1",
+    "CVDR638223_1",
+    "CVDR640698_1",
+    "CVDR696389_2",
+    "CVDR725050_1",
+    "CVDR757658_1"
+  ],
+  "bekendmakingen_besluiten": 26,
+  "bekendmakingen_aanvragen": 29,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

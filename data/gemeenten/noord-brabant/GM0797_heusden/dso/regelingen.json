@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0797/2026/Regelingfa7bc19040de4a33895563b8de9b410c",
+    "titel": "Voorbeschermingsregels datacentra gemeente Heusden",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0797/2026/Regelingfa7bc19040de4a33895563b8de9b410c/nld@2026-05-26;09373285",
+    "beginGeldigheid": "2026-05-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0797_2026_Regelingfa7bc19040de4a33895563b8de9b410c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:04Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0797/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Heusden",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0797/2020/omgevingsplan/nld@2026-09-29;06181807",
+    "beginGeldigheid": "2026-11-05",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0797_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:17:04Z"
+  }
+]

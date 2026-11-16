@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0626/2025/Regeling8c2b20ca0e59475796e29d3ad010fbb2",
+    "titel": "Procedure Omgevingsvisie",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0626/2025/Regeling8c2b20ca0e59475796e29d3ad010fbb2/nld@2025-11-27;09373108",
+    "beginGeldigheid": "2025-11-29",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0626_2025_Regeling8c2b20ca0e59475796e29d3ad010fbb2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:59Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0626/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Voorschoten",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0626/2020/omgevingsplan/nld@2026-01-29;09211358",
+    "beginGeldigheid": "2026-01-30",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0626_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:23:59Z"
+  }
+]

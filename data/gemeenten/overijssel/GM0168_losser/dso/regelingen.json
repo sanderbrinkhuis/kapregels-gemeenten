@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/pv23/2025/12_62_gm0168",
+    "titel": "Voorbereidingsbesluit Karrensporenzones - gemeente Losser",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/pv23/2025/12_62_gm0168/nld@117",
+    "beginGeldigheid": "2025-04-04",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_pv23_2025_12_62_gm0168?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0168/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Losser",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0168/2020/omgevingsplan/nld@2026-05-27;08593817",
+    "beginGeldigheid": "2026-05-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0168_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:03:33Z"
+  }
+]

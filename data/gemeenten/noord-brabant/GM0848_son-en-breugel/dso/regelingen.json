@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0848/2026/vbb-omgevingsplan-20260303-093421",
+    "titel": "Voorbereidingsbesluit 'bedrijfsverzamelgebouwen'",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0848/2026/vbb-omgevingsplan-20260303-093421/nld@2026-03-11;1",
+    "beginGeldigheid": "2026-03-11",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0848_2026_vbb_omgevingsplan_20260303_093421?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0848/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Son en Breugel",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0848/2020/omgevingsplan/nld@2026-03-25;1",
+    "beginGeldigheid": "2026-04-23",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0848_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0848/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Son en Breugel, OOg op een zonnige toekomst!",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0848/2025/omgevingsvisie/nld@2026-05-06;1",
+    "beginGeldigheid": "2026-05-07",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0848_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:52Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0848/2026/warmteprogramma",
+    "titel": "Warmteprogramma gemeente Son en Breugel",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0848/2026/warmteprogramma/nld@2026-09-03;",
+    "beginGeldigheid": "2026-09-03",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0848_2026_warmteprogramma?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:18:52Z"
+  }
+]

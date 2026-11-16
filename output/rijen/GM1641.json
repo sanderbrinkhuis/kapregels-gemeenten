@@ -1,0 +1,81 @@
+{
+  "gm_code": "GM1641",
+  "gemeente": "Maasgouw",
+  "provincie": "Limburg",
+  "volledig_gelezen": true,
+  "brondocument": "Bomenverordening gemeente Maasgouw 2021 (art. 1, 2, 3, 4, 7, 8, 13); Besluit van de gemeenteraad houdende regels omtrent bomen (Bomennota 2020, beleidsplan); Legesverordening Maasgouw 2026 art. 2.30; APV Maasgouw 2020 (bevat geen kapregel)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR657629/2 ; https://lokaleregelgeving.overheid.nl/CVDR658539/1 ; https://lokaleregelgeving.overheid.nl/CVDR751767/1",
+  "datum_geldigheid": "CVDR657629_2 geldend vanaf 2024-01-01 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2024-01-01 (artikel 1 en 3; bron gmb-2023-523537)",
+  "juridische_plaats": "Bomenverordening 2021 (losse verordening); werkt als omgevingsplanactiviteit volgens art. 1 onder p van de verordening en de legesverordening (art. 2.30); omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "35 bekendmakingen sinds 2025 met kapterm in de titel: 18 besluiten, 14 aanvragen, 0 weigeringen volgens titel. 10 besluiten ingezien: geen grondslag vermeld. Veel verleende vergunningen (o.a. voor 13 zieke bomen, 5 bomen, windsingel) bij een kaart-/structuurstelsel; dat past bij een regime dat beschermde bomen op de Bomenstructuurkaart treft.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning, omgevingsplanactiviteit) voor het vellen van houtopstanden die op de Bomenstructuurkaart staan, en voor bomen op gemeentegrond; bomen die niet op de kaart staan zijn niet vergunningplichtig",
+  "drempel": "Geen eigen drempel voor kaartbomen; boom = 'minimaal 35 centimeter' stamomtrek op 1,3 m (art. 1 onder c), geldt voor gemeentebomen (art. 3 lid 1 onder b)",
+  "omtrek_cm": null,
+  "meethoogte": "1,30 m boven maaiveld",
+  "reikwijdte": "Art. 3 lid 1: 'als beschermde houopstand zijn opgenomen op de Bomenstructuurkaart' (boomzones = vlakken, boomstructuren = lijnen, (toekomstig) monumentale bomen = punten; gemeentelijke en particuliere bomen, per Bomennota 4.3 'Hieronder vallen bomen in eigendom van gemeente en particulieren'); en bomen op percelen van de gemeente > 35 cm. Hele grondgebied, binnen en buiten de bebouwde kom. Bomenstructuurkaart zelf niet ingezien.",
+  "uitzonderingen": "Art. 3 lid 3: niet voor Plantengezondheidswet/aanschrijving, periodiek vellen hak- of griendhout, scheren/knotten/kandelaberen, snoeien bij achterstallig onderhoud, dunning, beheerplan, vervangingsplan boomstructuur. Spoed: art. 3 lid 4. Geen tuin- of soortuitzondering (gangbare uitzonderingen, geen correctie).",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien (website gemeente geeft 403 op de pagina's voor bomen/kap; Bomenstructuurkaart niet gevonden)",
+  "weigeringsgronden": "Art. 4 lid 1: 'Het college kan de vergunning voor het vellen van beschermde houtopstanden weigeren dan wel onder voorschriften verlenen.' Lid 2 (boomzones en (toekomstig) monumentale bomen): 'wordt, nadat alternatieven zijn onderzocht door de aanvrager van de vergunning, slechts bij uitzondering verleend, indien: a. sprake is van een algemeen maatschappelijk belang of een zwaarwegend individueel belang van niet-tijdelijke aard dat opweegt tegen duurzaam behoud van de houtopstand;'. Bomennota 5.1.2: 'Indien een van beide optie mogelijk is, zal een aanvraag tot kap niet worden verleend.'",
+  "herplantplicht": "Art. 7 lid 1: 'Aan de vergunning kan het voorschrift worden verbonden dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant.' Bomennota 5.1.2: 'In het geval van kap, kan als vergunningsvoorwaarde een herplantplicht worden opgenomen.' Art. 8 lid 1 (alleen na kap zonder vergunning): 'kan het college ... de verplichting opleggen te herplanten'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college, per geval); geen standaardplicht. Bij niet ter plaatse kunnen herplanten na illegale kap (art. 8 lid 3): 'dan wordt door degene die tot herplant gehouden is een door het college vast te stellen financiële bijdrage ... gestort in een gemeentelijk herplantfonds.'",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 7 lid 4: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 13 lid 2 noemt als strafbaar alleen: 'Hij die handelt in strijd met artikel 3 en 11 bepaalde'; niet-naleving van een herplantvoorschrift (art. 7, 8) is niet apart strafbaar gesteld. Alleen algemeen instrumentarium.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Art. 13 lid 2: 'Hij die handelt in strijd met artikel 3 en 11 bepaalde wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie. ... Bij de strafmaatbepaling kan rekening worden gehouden met de boomwaarde.' Eigen strafbepaling (rechter); ook WED via Ow 5.1 mogelijk omdat de regel als omgevingsplanactiviteit werkt. Geen bestuurlijke boete. Herplantplicht na illegale kap: art. 8 lid 1 ('kan').",
+  "procedure": "Leges € 128,00 (Legesverordening 2026 art. 2.30). Vergunning wordt pas van kracht na ongebruikte bezwaartermijn (art. 6 lid 1); vervalt na twee jaar zonder gebruik (art. 6 lid 2); college kan Bomen Effect Analyse eisen (art. 5 lid 2). Beslistermijn niet in de verordening.",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "onzeker",
+  "ontbrekend": "Bomenstructuurkaart niet ingezien: onbekend of en hoeveel particuliere bomen erop staan en hoe groot het gebied is dat boomzones en boomstructuren beslaan. Inwerkingtredingsdatum en inhoud van de kaart niet in de bronnen.",
+  "artikelnummers": [
+    "Bomenverordening 2021 art. 1, 2, 3, 4, 5, 7, 8, 13",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)",
+    "Bomennota 2020 par. 4.3, 5.1.2, 5.1.3"
+  ],
+  "opmerkingen": [
+    "Welke tekst geldt: de Bomenverordening 2021 (CVDR657629_2, versie van 2024-01-01) bevat de kapregel. De APV Maasgouw 2020 (CVDR651735_6) bevat geen kapregel (geen afdeling houtopstanden; art. 6:1 is algemeen). Het raadsbesluit 'regels omtrent bomen' (CVDR658539_1) is de Bomennota 2020, een beleidsplan zonder eigen verbod; het wordt in de verordening aangehaald voor de eisen aan beschermde houtopstanden (art. 1 onder b).",
+    "W: de kaartbomen in boomzones en monumentale bomen kennen 'slechts bij uitzondering' (W3); voor boomstructuren en solitaire bomen geldt alleen art. 4 lid 1 ('kan weigeren', geen criteria; W2). Puntschatting W3 op basis van de boomzones en de Bomennota ('zal een aanvraag tot kap niet worden verleend'), bereik 2-3.",
+    "D: de verordening beschermt boomzones (vlakken), boomstructuren (lijnen) en monumentale bomen (punten) op een kaart; Bomennota 4.2: de bomenstructuur is 'gericht op de bomen in en direct rondom de woonkernen, de belangrijkste verbindende gemeentelijke wegen tussen de kernen en boomstructuren in het buitengebied', plus landgoederen. Dat past bij D2 (gebieden en structuren). Omdat de kaart niet is ingezien en niet vaststaat dat er particuliere bomen op staan, loopt het bereik vanaf D0.",
+    "Bomennota 2020 'Deregulering': 'Door de bomenstructuurkaart vast te stellen is de kap van alle bomen die niet op deze kaart staan, niet langer vergunningplichtig.' Bomen op gemeentegrond > 35 cm zijn wel altijd vergunningplichtig (niet particulier).",
+    "H: de zin in de Bomennota 'Voor elke gekapte boom planten we een boom terug' staat bij het gemeentelijk bomenbestand; voor vergunningen noemt par. 5.1.2 'kan ... een herplantplicht worden opgenomen'. Geen vaste plicht, dus H1. Financiële bijdrage (art. 8 lid 3) geldt alleen na kap zonder vergunning en verhoogt H niet.",
+    "Eis plantmaat herplant monumentale bomen 20-25 cm (art. 8 lid 2 onder d; Bomennota 4.3); Bomennota 5.1.3: schaderegeling NVTB alleen voor schade aan gemeentelijke bomen en kap zonder vergunning van gemeentelijke bomen.",
+    "Verordening noemt zelf 'omgevingsvergunning ... omgevingsplanactiviteit' (art. 1 onder p), zodat de kapregel als omgevingsplanregel werkt; WED via Ow 5.1 dus mogelijk. S blijft 1 (eigen strafbepaling; WED telt ook 1).",
+    "Verordening is versie 2 (2024-01-01); een beleidsregel over herplant/compensatie of boetes is niet gevonden. Het Groenvisie 2030 (waarnaar Bomennota 5.1.2 verwijst voor herplantuitgangspunten) is niet in de bronnen aanwezig.",
+    "Kernbron die ontbreekt: Bomenstructuurkaart (vastgesteld door het college, verordening art. 2) en Groenvisie 2030. Maasgouw bomenverordening verwijst naar 'artikel 8' voor herplant en 'artikel 11' voor aanschrijving; art. 9 en 10 ontbreken in de gepubliceerde tekst (nummering springt van 8 naar 11, en 15 naar 17).",
+    "Praktijkcontrole: geen enkele weigering in de titels sinds 2025; voor de steekproef geen grondslag vermeld. Kaart-/structuurregime niet te bevestigen uit de besluiten."
+  ],
+  "modelsignalen": [
+    "Kaartsysteem met vlakken/lijnen/punten (boomzones, boomstructuren) valt tussen D1 (individuele bomen) en D2 (aangewezen gebieden of structuren); de substantiële omvang (par. 'kleine gebiedsregels') en het aandeel particuliere bomen is zonder de kaart niet vast te stellen.",
+    "W: één artikel met twee regimes (zones 'slechts bij uitzondering', overige kaartbomen 'kan weigeren'); het model vraagt het regime voor het grootste deel van de bomen, maar de verdeling is onbekend.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: Bomenstructuurkaart met boomzones (vlakken) in de verbodstekst = gebiedsregime D2; Bomennota bevestigt particuliere bomen, dus minimum 1 (was 0)."
+  ]
+}

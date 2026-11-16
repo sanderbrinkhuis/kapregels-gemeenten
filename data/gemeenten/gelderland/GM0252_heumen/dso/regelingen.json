@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0252/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Heumen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0252/2020/omgevingsplan/nld@2026-03-30;17322359",
+    "beginGeldigheid": "2026-04-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0252_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0252/2026/Regeling3f6b83c7a60f4280a6c7600b8829930c",
+    "titel": "Regionale Energie Strategie 2.0",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0252/2026/Regeling3f6b83c7a60f4280a6c7600b8829930c/nld@2026-03-31;12142507",
+    "beginGeldigheid": "2026-04-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0252_2026_Regeling3f6b83c7a60f4280a6c7600b8829930c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0252/2026/Regelingc1eeffe186304228bf7fd531c3bb59ac",
+    "titel": "Programma Economie, Recreatie en Toerisme",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0252/2026/Regelingc1eeffe186304228bf7fd531c3bb59ac/nld@2026-10-23;11163868",
+    "beginGeldigheid": "2026-10-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0252_2026_Regelingc1eeffe186304228bf7fd531c3bb59ac?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:22Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0252/2026/Regeling907c56bf4a7f4b368b669578d78312b9",
+    "titel": "Programma Landschap en Groen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0252/2026/Regeling907c56bf4a7f4b368b669578d78312b9/nld@2026-10-23;11102410",
+    "beginGeldigheid": "2025-04-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0252_2026_Regeling907c56bf4a7f4b368b669578d78312b9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:11:22Z"
+  }
+]

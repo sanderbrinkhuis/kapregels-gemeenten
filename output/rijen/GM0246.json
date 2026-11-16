@@ -1,0 +1,78 @@
+{
+ "gm_code": "GM0246",
+ "gemeente": "Heerde",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening gemeente Heerde 2024, afdeling 4.3 (art. 4:10 t/m 4:10:9), CVDR717248_1; leges 2026 CVDR751507_2 art. 2.30; omgevingsplan CVDR696239_2 art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR717248/1",
+ "datum_geldigheid": "2024-03-21 t/m heden (CVDR717248_1)",
+ "laatste_wijziging": "2024-03-21 (APV 2024, eerste versie); leges CVDR751507_2 per 2025-12-25",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.30 in samenhang met art. 22.8 Ow; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+ "praktijkcontrole": "Dossier: 1 bekendmaking gevonden (zoekmethode op volledige tekst, 0 besluiten); de zoekmethode mist waarschijnlijk besluiten, dus geen conclusie.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden boven de drempel, hele gemeente.",
+ "drempel": "'diameter groter dan 30 centimeter op een hoogte van 1.30 meter ... (oftewel een omtrek van 95 cm)'",
+ "omtrek_cm": 94.2,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Art. 4:10:1 lid 1 onder a: 'de bomen en houtopstanden met een diameter groter dan 30 centimeter'. Geen onderscheid binnen of buiten de bebouwde kom, geen tuinuitzondering. Particulier en openbaar.",
+ "uitzonderingen": "Art. 4:10:1 lid 2: 'wegbeplantingen en eenrijige beplantingen op of langs landbouwgronden, beide voorzover bestaande uit niet-geknotte populieren of wilgen'; 'vruchtbomen en windschermen om boomgaarden'; kerstbomen; kweekgoed; dunning; Wet natuurbescherming; Plantenziektewet; periodiek knotten en onderhoud. Geen uitzondering voor achter- of zijtuinen of coniferen; vruchtbomen alleen bij boomgaarden en populieren/wilgen alleen langs landbouwgrond, dus geen correctie.",
+ "weigeringsgronden": "Art. 4:10:1 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+ "herplantplicht": "Art. 4:10:1 lid 4: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 4:10:6 lid 1 (na illegale kap): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'. Geen beleidsregel over herplant of compensatie gevonden.",
+ "herplant_ontsnapping": "Geen verplichting als standaard: bevoegdheid ('kan'), per geval door het bevoegd gezag. Geen financiele uitweg in de tekst.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:10:6 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met het derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1: 'gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'. Anders alleen algemeen instrumentarium.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "WED via Ow 5.1 (kap is omgevingsplanactiviteit volgens leges art. 2.30). Daarnaast APV art. 6:1: 'Overtreding van het bij of krachtens de in deze verordening genoemde artikelen bepaalde ... wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie'. Geen bestuurlijke boete voor kappen gevonden.",
+ "procedure": "Leges 2026 art. 2.30: '€ 105,70' voor het vellen van een houtopstand als omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet'. Art. 4:10:1 lid 5: 'paragraaf 4.1.3.3 van de Algemene wet bestuursrecht (positieve fictieve beschikking bij niet tijdig beslissen) van toepassing'. Bezwaar en beroep volgens Awb (niet apart onderzocht).",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Geen lijstsysteem.",
+ "status": "ok",
+ "ontbrekend": "Bekendmakingen: maar 1 gevonden, praktijkcontrole niet mogelijk. Beleidsregel herplant/handhaving op de gemeentelijke website niet onderzocht.",
+ "artikelnummers": [
+  "APV 4:10",
+  "APV 4:10:1",
+  "APV 4:10:6",
+  "APV 4:10:9",
+  "APV 6:1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299 (aanvraagvereisten)"
+ ],
+ "opmerkingen": [
+  "D: hele gemeente, diameter > 30 cm; het artikel zelf noemt 'oftewel een omtrek van 95 cm' (30 x 3,14 = 94,2 cm): middelmatige drempel, D = 3. Boom A (80 cm omtrek) en B (40 cm) vallen eronder: geen vergunning nodig.",
+  "Doorslaggevend W: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (W = 2).",
+  "Doorslaggevend H: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (H = 1). Herplant na illegale kap: 'kan' (art. 4:10:6), telt bij S.",
+  "Art. 4:10:1 lid 1 noemt ook onder b en c de voorschriften en een verbod van het bevoegd gezag als verbodsgrond; geen invloed op D.",
+  "Het omgevingsplan (CVDR696239_2) bevat voor kap alleen aanvraagvereisten (art. 22.299); restant bruidsschat in aanvulling op de APV-regel, niet de materiele kapregel.",
+  "Art. 4:10:2 t/m 4:10:5 en 4:10:7 zijn vervallen (o.a. vergunning ex lege). Peildatum 2026-11-15."
+ ],
+ "modelsignalen": [
+  "Artikel noemt zowel diameter 30 cm als omtrek 95 cm; omrekening geeft 94,2 cm. Beide in dezelfde middelmatige klasse (60-100 cm), dus geen invloed."
+ ],
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee"
+}

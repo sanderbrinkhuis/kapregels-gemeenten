@@ -1,0 +1,84 @@
+{
+  "provincie": "Fryslân",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen bomenlijst; regime op omvang/leeftijd, niet op een lijst",
+  "status": "ok",
+  "gm_code": "GM0098",
+  "gemeente": "Weststellingwerf",
+  "brondocument": "Algemene plaatselijke verordening 2025 van Weststellingwerf (CVDR740878_1), afdeling 4.3 Het bewaren van houtopstanden; Leges 2026 (CVDR749711_1) art. 2.30; Omgevingsplan (CVDR696185_2) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR740878/1",
+  "datum_geldigheid": "Geldend vanaf 2025-06-25 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2025-06-25 (inwerkingtreding APV 2025, CVDR740878_1; geen latere versie in het dossier)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges art. 2.30 (art. 4:11 APV in samenhang met art. 22.8 Ow) en WED-aanwijzing in APV art. 6:1 lid 2. Omgevingsplan art. 22.299: aanvraagvereisten.",
+  "praktijkcontrole": "Slechts 1 bekendmaking sinds 2025 gevonden, gezocht op titel (intrekking van een omgevingsvergunning kappen). Weinig zichtbaar; zoekmethode op titel is beperkt. Geen conclusie. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 83 bekendmakingen sinds 1-1-2025, waarvan 80 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "vergunning (van het college, via omgevingsloket)",
+  "drempel": "Binnen bebouwde kom of in een tuin: stamomtrek van 100 cm (stamdoorsnede 31,5 cm) of meer, plus monumentale en toekomstig monumentale bomen. Buiten bebouwde kom en tuin: solitaire boom of boom in bosje/houtwal/houtsingel (minder dan 20 bomen of 10 are) zonder omtrekdrempel; boom = stamdoorsnede van minimaal 10 cm.",
+  "omtrek_cm": 100,
+  "meethoogte": "1,3 m boven maaiveld (art. 4:10 lid 3)",
+  "reikwijdte": "Hele gemeente, particulier en openbaar: \"binnen de bebouwde kom of in een tuin\" boom vanaf 100 cm omtrek (lid 1a), monumentale bomen (lid 1b, leeftijd minimaal 80 jaar) en toekomstig monumentale bomen (minimaal 60 jaar); \"buiten de bebouwde kom en buiten een tuin\" solitaire boom of boom in een bosje, houtwal of houtsingel van minder dan 20 bomen of 10 are (lid 2).",
+  "uitzonderingen": "Spoed/direct gevaar via burgemeester (art. 4:12a lid 4, noodkap); herhaald onderhoud knotten/kandelaberen/hakhout (lid 3). Geen tuin- of oppervlakte-uitzondering.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 4:12a lid 1: \"In afwijking van artikel 1:8 kan de vergunning worden geweigerd dan wel onder voorschriften worden verleend op grond van: a. de natuurwaarde van de houtopstand; ... g. de vaststelling dat de boom monumentaal of toekomstig monumentaal is.\" Lid 3: monumentale boom: \"wordt geen kapvergunning afgegeven, tenzij ...\".",
+  "herplantplicht": "Art. 4:12c: \"Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.\" Art. 4:12d lid 1: bij kap zonder vergunning \"kan het college ... de verplichting opleggen te herbeplanten\".",
+  "herplant_ontsnapping": "Geen uitweg in de tekst: herplant is een bevoegdheid (\"kan\"), het college beslist; betalen in plaats van herplanten niet geregeld. Herplant na illegale kap: \"kan\" (art. 4:12d lid 1).",
+  "herplant_niet_nakomen": "Geen lid dat een opgelegde herplantplicht uitdrukkelijk verplicht stelt (art. 4:12d lid 1-3). Wel art. 6:1 lid 1: \"Overtreding van het bij of krachtens deze verordening en de op grond van artikel 1:4 van deze verordening daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.\"",
+  "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 ... 2:12, eerste lid en 4:11\"; lid 1 hechtenis tot drie maanden of geldboete tweede categorie. Geen bestuurlijke boete voor kap.",
+  "procedure": "Leges omgevingsplanactiviteit kappen: 102 euro (CVDR749711_1 art. 2.30). Aanvraag via www.omgevingsloket.nl door de eigenaar of gemachtigde (art. 4:11a). Art. 4:12b: vergunning vervalt na één jaar. Beslistermijn APV art. 1:2 niet nader gelezen.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "artikelnummers": [
+    "APV 2025 art. 4:10",
+    "4:11 lid 1-3",
+    "4:11a",
+    "4:12a",
+    "4:12b",
+    "4:12c",
+    "4:12d",
+    "4:12f",
+    "6:1 lid 1-2",
+    "Leges art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "W2 (doorslaggevend, art. 4:12a lid 1): \"kan de vergunning worden geweigerd dan wel onder voorschriften worden verleend op grond van: a. de natuurwaarde van de houtopstand\"; monumentale bomen strenger (lid 3, W3), alleen vermeld.",
+    "H1 (art. 4:12c): \"Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.\"",
+    "D3 (3-4): in kom/tuin drempel van 100 cm omtrek (middelmatig, rand van D3: regel 60-100), daarbuiten geen drempel voor solitaire bomen (boom = stamdoorsnede minimaal 10 cm, ca. 31 cm omtrek; D4). Puntschatting op het kom-regime (D3), max 4.",
+    "Boom A (80 cm) en B (40 cm) < 100 cm in achtertuin binnen kom: nee, tenzij monumentaal (leeftijd minimaal 80 jaar) of toekomstig monumentaal (minimaal 60 jaar).",
+    "Art. 4:12f: lijsten van monumentale bomen \"kunnen\" worden opgesteld; geen lijst gevonden of ingezien. Het hoofdregime is geen lijstsysteem, dus niet beslissend voor D.",
+    "Art. 4:11 lid 1 sub a noemt zowel omtrek 100 cm als doorsnede 31,5 cm (= 99 cm); 100 cm gehanteerd.",
+    "Art. 4:10 noemt de afdeling 4.3 en verwijst intern naar 'artikel 4.10'; 'tuin' en 'bebouwde kom' niet apart gedefinieerd in het dossier.",
+    "D per deel (besluit gebruiker 14-11-2026): binnen kom en tuin vanaf 100 cm omtrek (D3); buiten kom én tuin elke solitaire boom = aangewezen gebied (D2). Hoogste = D3."
+  ],
+  "modelsignalen": [
+    "Drempel precies op 100 cm: ligt op de grens tussen D2 (>100) en D3 (60-100); toegepast als D3."
+  ],
+  "ontbrekend": "Omgevingsplan in DSO niet geraadpleegd; geen beleidsregel herplant of handhaving in dossier of gevonden; praktijkcontrole beperkt (1 bekendmaking)."
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0716/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Tholen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0716/2020/omgevingsplan/nld@2024-03-13;92850ce81f4b426fb05abd289a3e0316",
+    "beginGeldigheid": "2024-03-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0716_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:49Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0716/2020/strategische_visie_toerisme_en_recreatie48",
+    "titel": "Programma voor Gemeente Tholen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0716/2020/strategische_visie_toerisme_en_recreatie48/nld@2026-05-12;3d109676ce864f14a6d0e33faa8226cc",
+    "beginGeldigheid": "2026-05-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0716_2020_strategische_visie_toerisme_en_recreatie48?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:49Z"
+  }
+]

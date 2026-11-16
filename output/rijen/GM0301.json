@@ -1,0 +1,79 @@
+{
+ "provincie": "Gelderland",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "modelsignalen": [
+  "Bij gecombineerde systemen (breed regime plus lijst) zegt D niets over de omvang van de lijst. Zutphen heeft naast de 65 cm-regel een Bomenlijst 2025 met ca. 440 regels (monumentale bomen en lijst Bomenstichting); die tellen niet mee in D.",
+  "Art. 4:8 lid 3 VFL (herplant na illegale kap: 'legt het bevoegd gezag ... de verplichting op') en de eigen strafbepaling met boomwaarde (art. 13:1 lid 3) leveren S1 op; het model onderscheidt niet tussen een algemene strafbepaling voor de hele verordening en kap-specifieke strafbaarstelling.",
+  "Beleidsregel met drie klassen ('Nee, tenzij', 'Ja, mits'): de klasse hangt af van de kernwaarden per boom. Het model kent geen manier om te wegen welke klasse voor het grootste deel van de bomen geldt; hier W2 met maximum 3."
+ ],
+ "gm_code": "GM0301",
+ "gemeente": "Zutphen",
+ "brondocument": "Verordening fysieke leefomgeving gemeente Zutphen 2021 (CVDR667012_5) hoofdstuk 4 art. 4:1, 4:2, 4:5, 4:6, 4:8, 13:1; Beleidsregel vellen boom of houtopstand gemeente Zutphen 2025 (CVDR747549_1); Besluit Bomenlijst 2025 (CVDR747832_1); Tarieventabel 2026 art. 2.30 (CVDR751394_2); Omgevingsplan art. 22.299 (CVDR696262_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR667012/5 ; https://lokaleregelgeving.overheid.nl/CVDR747549/1 ; https://lokaleregelgeving.overheid.nl/CVDR747832/1",
+ "datum_geldigheid": "VFL CVDR667012_5 geldend vanaf 2025-12-25 t/m heden; beleidsregel CVDR747549_1 en Bomenlijst CVDR747832_1 vanaf 2025-11-27 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "VFL: versie 5 per 2025-12-25. Beleidsregel en bomenlijst: vastgesteld 2025-09-09, in werking 2025-11-27.",
+ "juridische_plaats": "VFL (hoofdstuk 4), werkt als omgevingsplanactiviteit: leges art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in hoofdstuk 4 van de Verordening fysieke leefomgeving Zutphen in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. APV art. 4:10 t/m 4:12 zijn '[gereserveerd]'.",
+ "praktijkcontrole": "Sinds 2025: 287 bekendmakingen op titel, waarvan 142 besluiten en 2 weigeringen (volgens titel). Steekproef van 10 besluiten (o.a. gmb-2026-504370, gmb-2026-517250, gmb-2026-522378): 'Verleende aanvraag omgevingsvergunning, het kappen van 1 boom', ook op adressen in woonwijken en Warnsveld; geen grondslag genoemd. Past bij een breed regime.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van bomen vanaf de drempel, art. 4:2 lid 1 VFL.",
+ "drempel": "Stamomtrek van 65 cm of meer op 130 cm hoogte (art. 4:2 lid 1); 50 cm of meer binnen een beschermd stads- of dorpsgezicht (lid 2); geen drempel voor bomen op de Bomenlijst (lid 3) en voor herplant op grond van art. 4:8 (lid 4).",
+ "omtrek_cm": 65,
+ "meethoogte": "130 cm boven het maaiveld",
+ "reikwijdte": "Art. 4:2 lid 1: 'Het is verboden, zonder vergunning van het bevoegd gezag, bomen met een stamomtrek van 65 cm of meer, gemeten op 130 cm hoogte boven het maaiveld te vellen.' Geen onderscheid binnen of buiten de bebouwde kom in lid 1, particulier en openbaar. Lid 5: 'Het is verboden bomen en houtopstanden te vellen die zich bevinden op erven en in tuinen zoals genoemd in het tweede lid, onder b. van artikel 11.111 Besluit activiteiten leefomgeving.' Lid 7 sub e: houtopstand buiten de bebouwingscontour is uitgezonderd, tenzij een zelfstandige eenheid van minimaal 10 are of rijbeplanting van minimaal 20 bomen.",
+ "uitzonderingen": "Art. 4:2 lid 6: Plantgezondheidswet of bevel op grond van art. 172 lid 2 Gemeentewet; periodiek hakhout; scheren, knotten, kandelaberen; snoeiwerk bij achterstallig onderhoud; dunning; bomen binnen een vastgesteld omgevingsplan bij herstructurering. Lid 7: 'a. wegbeplanting en eenrijige beplantingen op of langs landbouwgronden, beide voor zover bestaande uit populieren of wilgen, tenzij deze zijn geknot; b. fruitbomen en windschermen om boomgaarden; c. fijnsparren, niet ouder dan 12 jaar, bestemd om te dienen als kerstbomen ...; d. kweekgoed; e. houtopstand die gelegen is buiten de bebouwingscontour, tenzij ...' (overnemen van Bal-uitzonderingen; geen tuin-, erf-, perceel- of soortuitzondering voor gewone tuinbomen). Lid 8: noodkap met toestemming van het bevoegd gezag.",
+ "weigeringsgronden": "Art. 4:5 lid 3: 'De vergunning voor het vellen van een boom of houtopstand wordt geweigerd, als de belangen van verlening niet opwegen tegen het belang van behoud van de boom of houtopstand met het oog op één of meer van de volgende waarden: a. de ecologische waarde ...; b. de landschappelijke en stedenbouwkundige waarde ...; c. de beeldbepalende waarde ...; d. de cultuurhistorische waarde ...; e. de waarde voor een goed woon- en leefklimaat.' Lid 2: vergunning kan worden verleend bij gevaar of ernstige hinder of een zwaarder individueel of maatschappelijk belang. Beleidsregel 2025 art. 4 en 5: voor bomen met bijzondere of verhoogde waarde geldt de stelregel 'Nee, tenzij ...'; art. 6: bij minimale waarde 'Ja, mits ...' met 'een gegronde reden'.",
+ "herplantplicht": "Art. 4:8 lid 1: 'Bij vergunningvoorschrift kan een verplichting tot herbeplanten worden opgelegd.' Lid 2: 'Als niet ter plaatse kan worden herbeplant, kan tot de aan een vergunning tot vellen te verbinden voorschriften behoren het voorschrift dat een geldelijke bijdrage gestort moet worden in het gemeentelijke Bomenfonds.' Lid 3: na kap zonder vergunning 'legt het bevoegd gezag ... de verplichting op tot herbeplanten'. De beleidsregel 2025 bevat geen herplantbepaling.",
+ "herplant_ontsnapping": "Bevoegdheid: 'kan een verplichting tot herbeplanten worden opgelegd' (art. 4:8 lid 1); het bevoegd gezag beslist per geval. Storting in het Bomenfonds 'kan' alleen als herplant ter plaatse niet kan (lid 2). Herplant na illegale kap: 'legt het bevoegd gezag ... de verplichting op' (lid 3).",
+ "sancties": "WED via de Omgevingswet: leges art. 2.30 noemt het vellen 'in samenhang met artikel 22.8 van de Omgevingswet'. Daarnaast VFL art. 13:1 lid 2: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie' voor overtreding van de verordening, en lid 3: 'Bij overtreding van het bepaalde in hoofdstuk 4 kan bij de eis tot strafmaatbepaling rekening worden gehouden met de boomwaarde.' Lid 4 wijst art. 1a WED aan voor 11:1, 11:2 en 11:3, niet voor hoofdstuk 4. Herplant na illegale kap: art. 4:8 lid 3. Geen bestuurlijke boete voor kappen gevonden in de VFL.",
+ "procedure": "Leges 2026 art. 2.30 (CVDR751394_2): 'a. als het gaat om maximaal 3 bomen € 113,50; b. ... meer dan 3 bomen € 413,80.' Beslistermijn APV art. 1:2 acht weken (APV-afdeling gereserveerd; VFL art. 12:2 niet apart gelezen). Aanvraagvereisten art. 4:6 VFL en omgevingsplan art. 22.299. Vergunning vervalt na drie jaar (art. 12:6 lid 3). Publicatie via gemeenteblad (bekendmakingen). Bezwaar en beroep niet apart gelezen.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "verplicht",
+ "herplant_niet_nakomen": "VFL art. 4:8 lid 6: 'Degene aan wie de verplichting als bedoeld in het eerste tot en met vijfde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 13:1 lid 1: 'Het overtreden van deze regels en voorschriften en/ of beperkingen ... is ... een strafbaar feit.' Art. 13:1 lid 2: 'hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Naast het brede regime geldt een Bomenlijst 2025 (CVDR747832_1, ca. 440 regels in de CVDR-tekst, 'Lijst gemeentelijke monumentale bomen' en 'Lijst Bomenstichting'); niet geteld op particulier eigendom. Het breedste regime bepaalt D, dus niet van belang voor de score.",
+ "status": "ok",
+ "ontbrekend": "Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep, VFL art. 12:2 niet apart gelezen. Handhavingsbeleid niet in het dossier gevonden. Aantal particuliere lijstbomen niet bepaald.",
+ "artikelnummers": [
+  "VFL art. 4:1, 4:2, 4:5, 4:6, 4:8, 12:6, 13:1",
+  "Beleidsregel CVDR747549_1 art. 3 t/m 7",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "APV art. 4:10-4:12 (gereserveerd), 6:1"
+ ],
+ "opmerkingen": [
+  "D3: gehele gemeente, omtrek 65 cm valt in 60-100 cm. Geen onderscheid binnen of buiten de kom in lid 1; buiten de bebouwingscontour vallen alleen houtopstanden van ten minste 10 are of 20 bomen onder het Bal-regime (lid 7 sub e). In beschermd stads- of dorpsgezicht 50 cm (lid 2, klein gebied, telt niet). Bomenlijst en bomen uit art. 4:8: geen drempel.",
+  "Geen correctie: art. 4:2 lid 5 vermeldt erven en tuinen uitdrukkelijk als beschermd; de uitzondering voor 'fruitbomen en windschermen om boomgaarden' (lid 7 sub b) is een Bal-uitzondering voor boomgaarden en sluit geen gewone tuinbomen uit.",
+  "W2: 'De vergunning voor het vellen van een boom of houtopstand wordt geweigerd, als de belangen van verlening niet opwegen tegen het belang van behoud van de boom of houtopstand' (art. 4:5 lid 3), zonder bereik volgens het besluit. Beleidsregel 2025 (in werking 2025-11-27) kent 'Nee, tenzij ...' voor bomen met verhoogde of bijzondere waarde en 'Ja, mits ...' bij minimale waarde ('Hierbij is het uitgangspunt dat alle bomen een minimale waarde hebben'), vandaar maximum 3.",
+  "H1: 'Bij vergunningvoorschrift kan een verplichting tot herbeplanten worden opgelegd.' (art. 4:8 lid 1). Storting in Bomenfonds alleen 'kan' (lid 2): verhoogt H niet. Herplant na illegale kap (lid 3) telt bij S.",
+  "S1: WED via Omgevingswet (leges art. 2.30 noemt art. 22.8 Ow) en herplantplicht na illegale kap (art. 4:8 lid 3). Geen bestuurlijke boete in de VFL gevonden. Art. 13:1 lid 4 WED-aanwijzing verwijst niet naar hoofdstuk 4.",
+  "Besluit lijst adviesrecht (CVDR699750_1): bindend adviesrecht gemeenteraad bij kap van meer dan 10 bomen of 100 m2 houtopstand; procedureel, niet gescoord.",
+  "VFL art. 4:1 lid 3: bijdrageregeling voor in stand houden van beschermde bomen in privaat eigendom."
+ ]
+}

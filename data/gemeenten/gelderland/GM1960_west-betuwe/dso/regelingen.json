@@ -1,0 +1,50 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1960/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente West Betuwe",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1960/2020/omgevingsplan/nld@31",
+    "beginGeldigheid": "2025-07-09",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1960_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1960/2025/2_7",
+    "titel": "Kansenkaart Tricht",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1960/2025/2_7/nld@36",
+    "beginGeldigheid": "2025-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1960_2025_2_7?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1960/2025/2_8",
+    "titel": "Kansenkaart Haaften",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1960/2025/2_8/nld@34",
+    "beginGeldigheid": "2025-08-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1960_2025_2_8?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1960/2025/2_9",
+    "titel": "Kansenkaart Heukelum",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1960/2025/2_9/nld@32",
+    "beginGeldigheid": "2025-12-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1960_2025_2_9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1960/2025/2_10",
+    "titel": "kansenkaart Spijk",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm1960/2025/2_10/nld@33",
+    "beginGeldigheid": "2025-12-16",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1960_2025_2_10?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:28Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1960/2026/10_14",
+    "titel": "Voorbereidingsbesluit beperking onzelfstandige wooneenheden De Plantage Meteren Gemeente West Betuwe",
+    "type": "Voorbeschermingsregels",
+    "expressionId": "/akn/nl/act/gm1960/2026/10_14/nld@1037",
+    "beginGeldigheid": "2026-02-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1960_2026_10_14?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:13:28Z"
+  }
+]

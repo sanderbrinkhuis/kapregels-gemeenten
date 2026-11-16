@@ -1,0 +1,75 @@
+{
+  "gm_code": "GM0175",
+  "gemeente": "Ommen",
+  "provincie": "Overijssel",
+  "brondocument": "Omgevingsplan gemeente Ommen, subparagraaf 9.3.1.1 en 9.3.1.2, art. 9.16 t/m 9.22 en art. 22.299 (CVDR696206_4); Verordening op de heffing en de invordering van leges Ommen 2026, art. 2.30 (CVDR753504_1); APV gemeente Ommen 2025 art. 4:10 t/m 4:12c (vervallen) (CVDR746600_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR696206/4 ; https://lokaleregelgeving.overheid.nl/CVDR753504/1 ; https://lokaleregelgeving.overheid.nl/CVDR746600/2",
+  "datum_geldigheid": "Omgevingsplan versie 4 geldend van 23-01-2026 t/m heden; leges 2026 van 01-01-2026 t/m heden; APV versie 2 van 03-03-2026 t/m heden",
+  "laatste_wijziging": "Omgevingsplan: versie 4 in werking 23-01-2026. APV: versie 2 per 03-03-2026 (afdeling houtopstanden al vervallen).",
+  "juridische_plaats": "omgevingsplan (materiële kapregel in art. 9.19 van het omgevingsplan; APV art. 4:10 t/m 4:12c zijn vervallen). Het legesartikel noemt het vellen 'omgevingsplanactiviteit ... in samenhang met artikel 22.8 van de Omgevingswet'.",
+  "praktijkcontrole": "160 bekendmakingen sinds 2025: 73 besluiten, 83 aanvragen, 6 weigeringen volgens de titel. Verleende en geweigerde vergunningen voor het kappen van losse bomen (o.a. eik, beuk, conifeer, lindeboom); de besluiten noemen geen grondslag. Dat past bij een breed regime met omtrekdrempel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning voor een omgevingsplanactiviteit)",
+  "drempel": "Art. 9.17 onder j: toegestaan zijn 'houtopstanden met een stamomtrek van maximaal 95 cm (gemeten op 1,30 m hoogte van het maaiveld) voor zover ... deze houtopstanden niet vallen onder de lijst van beschermwaardige bomen op grond van het vastgestelde ‘Bomenbeleidsplan Ommen’ of eventuele rechtsopvolgers'. Dus vergunningplicht boven 95 cm omtrek (en voor lijstbomen ongeacht omvang).",
+  "omtrek_cm": 95,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Art. 9.16 lid 1: 'het vellen of doen vellen van houtopstanden in de gemeente Ommen'; hele grondgebied, particulier en openbaar. Niet van toepassing 'in bossen en natuurgebieden' en waar afdeling 11.3 Bal geldt (art. 9.16 lid 5). Art. 9.18: 'in de gemeente Ommen, tenzij toepassing kan worden gegeven aan subparagraaf 9.3.1.1'.",
+  "uitzonderingen": "Art. 9.17 (toegestaan): populieren/wilgen als wegbeplanting en eenrijige beplanting op of langs landbouwgronden; vruchtbomen bestemd voor vruchtproductie en windschermen om boomgaarden; fijnsparren tot 12 jaar als kerstbomen; kweekgoed; dunning; Plantgezondheidswet of aanschrijving; hakhout; knotten of kandelaberen; vellen voor een bouwwerk volgens een vastgesteld omgevingsplan met aanwijzing van de houtopstanden; omtrek tot 95 cm; dode houtopstanden. Geen aparte uitzondering voor tuinen of conifeer in tuinen.",
+  "weigeringsgronden": "Art. 9.20: 'De omgevingsvergunning als bedoeld in artikel 9.19 wordt slechts verleend als: ... b. geen afbreuk wordt gedaan aan de natuurwaarde, landschappelijke waarde, cultuurhistorische waarde, beeldbepalende waarde of waarde voor de leefbaarheid van de houtopstand, welke worden beoordeeld overeenkomstig het vastgestelde ‘Bomenbeleidsplan Ommen’ of eventuele rechtsopvolgers.'",
+  "herplantplicht": "Art. 9.21: 'Aan de omgevingsvergunning als bedoeld in artikel 9.19 kan als vergunningvoorschrift een herplantingsplicht worden opgelegd, waarbij is bepaald binnen welke termijn en onder welke voorwaarden dient te worden herplant.' Art. 9.22 lid 1: na illegale kap 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'.",
+  "herplant_ontsnapping": "Bevoegdheid ('kan ... worden opgelegd'); het bevoegd gezag beslist per geval. Geen betaling als alternatief of compensatie in de tekst. Herplant na illegale kap: 'kan' (art. 9.22 lid 1).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen strafbepaling of WED-aanwijzing die het herplantvoorschrift dekt. Art. 9.22 lid 4 zegt alleen: 'Degene aan wie een verplichting als bedoeld in artikel 9.22, eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' De APV-strafbepaling (art. 6:1) noemt de kap- en herplantartikelen van het omgevingsplan niet en geldt alleen voor de APV zelf. De WED-route via de Omgevingswet (omgevingsplanactiviteit) telt hier niet. Geen eigen bestuurlijke boete.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED via Ow 5.1 (kappen zonder vergunning is een omgevingsplanactiviteit; de leges art. 2.30 spreken van 'omgevingsplanactiviteit ... in samenhang met artikel 22.8 van de Omgevingswet'). Herplantplicht na illegale kap ('kan', art. 9.22 lid 1). Geen bestuurlijke boete of handhavingsbeleid gevonden. De APV-sanctiebepaling (art. 6:1) noemt geen kapartikelen.",
+  "procedure": "Leges art. 2.30: EUR 80,75 voor de omgevingsplanactiviteit vellen van houtopstand. Aanvraagvereisten: omgevingsplan art. 22.299 (soort, locatie, diameter op 1,30 m, herbeplanting). Bekendmaking als verleende of geweigerde omgevingsvergunning. Beslistermijn, bezwaar en beroep: niet apart onderzocht.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "De lijst van beschermwaardige bomen volgens het 'Bomenbeleidsplan Ommen' is niet ingezien. Het plan (CVDR679928_1) is in CVDR vervallen per 31-12-2025.",
+  "status": "ok",
+  "ontbrekend": "Bomenbeleidsplan Ommen (CVDR679928_1) is vervallen per 31-12-2025; een rechtsopvolger of de lijst van beschermwaardige bomen is niet gevonden. De beoordelingsregels in art. 9.20 verwijzen ernaar. De lijstbomen (strenger regime, ongeacht omvang) zijn niet geteld.",
+  "artikelnummers": [
+    "Omgevingsplan art. 9.16, 9.17, 9.18, 9.19, 9.20, 9.21, 9.22, 22.299 (CVDR696206_4)",
+    "Leges 2026 art. 2.30 (CVDR753504_1)",
+    "APV 2025 art. 4:10 t/m 4:12c (vervallen) en 6:1 (CVDR746600_2)"
+  ],
+  "opmerkingen": [
+    "D3: vergunningplicht boven 95 cm omtrek (band 60-100 cm); boom A (80 cm) en B (40 cm) vallen onder de vrijstelling van art. 9.17 onder j, tenzij ze op de lijst van beschermwaardige bomen staan (niet ingezien).",
+    "W2 (bereik 2-3): 'wordt slechts verleend als ... geen afbreuk wordt gedaan aan de natuurwaarde, landschappelijke waarde, cultuurhistorische waarde, beeldbepalende waarde of waarde voor de leefbaarheid'. Dat is een belangenafweging met de gebruikelijke waarden; 'slechts ... als geen afbreuk' kan ook als weigeren-tenzij (W3) gelezen worden. Het beleidsplan dat de beoordeling invult is vervallen. Zie modelsignaal.",
+    "H1: 'kan als vergunningvoorschrift een herplantingsplicht worden opgelegd' (art. 9.21). Het Bomenbeleidsplan Ommen is vervallen en telt niet mee.",
+    "S1: WED via Ow 5.1 omdat de regel in het omgevingsplan staat en de leges het vellen een omgevingsplanactiviteit noemen. Herplant na illegale kap is een bevoegdheid ('kan').",
+    "Art. 9.17 onder b ('vruchtbomen, bestemd voor vruchtproductie') en onder a (populieren/wilgen op of langs landbouwgronden) zijn geen ruime tuinuitzondering en verlagen D niet.",
+    "Groene Subsidieregeling (CVDR718892_1) gaat over subsidie voor aanplant van bomen (alleen waar geen herplantplicht geldt) en telt niet mee voor H."
+  ],
+  "modelsignalen": [
+    "Een vergunning die 'slechts wordt verleend als ... geen afbreuk wordt gedaan aan' waarden is taalkundig strenger dan 'kan worden geweigerd' (W2) en dan 'wordt alleen verleend als ... niet onevenredig' (W2, besluit na Utrecht). Het model geeft geen regel voor 'slechts verleend als geen afbreuk'; daarom W2 met bereik tot 3.",
+    "Een in CVDR vervallen beleidsplan waarnaar de regeling nog verwijst (hier het Bomenbeleidsplan Ommen, vervallen 31-12-2025, met 'eventuele rechtsopvolgers'): het model zegt niet of de lijst en de toetsing daaruit nog meetellen."
+  ]
+}

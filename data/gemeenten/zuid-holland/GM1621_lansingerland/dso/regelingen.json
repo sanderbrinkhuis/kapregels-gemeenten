@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1621/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Lansingerland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1621/2020/omgevingsplan/nld@2026-06-16;11172587",
+    "beginGeldigheid": "2026-06-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1621_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:53Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1621/2020/omgevingsvisie",
+    "titel": "Omgevingsvisie gemeente Lansingerland",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1621/2020/omgevingsvisie/nld@2026-06-17;14585386",
+    "beginGeldigheid": "2026-06-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1621_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:21:53Z"
+  }
+]

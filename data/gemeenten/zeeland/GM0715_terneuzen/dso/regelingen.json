@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0715/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Terneuzen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0715/2020/omgevingsplan/nld@2023-12-19;2",
+    "beginGeldigheid": "2024-01-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0715_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:43Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0715/2025/Regeling00bf340e021440fa89881ba07f3418ff",
+    "titel": "Omgevingsvisie 'Terneuzen stroomopwaarts'",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0715/2025/Regeling00bf340e021440fa89881ba07f3418ff/nld@2026-01-09;10511762",
+    "beginGeldigheid": "2026-01-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0715_2025_Regeling00bf340e021440fa89881ba07f3418ff?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:43Z"
+  }
+]

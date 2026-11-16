@@ -1,0 +1,74 @@
+{
+ "provincie": "Noord-Holland",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "modelsignalen": [
+  "Art. 4:11 is een rechtstreeks verbod zonder vergunningstelsel: er is geen vergunning, geen weigeringsgrond en geen herplant. Het model kent W alleen voor een vergunning of melding; hier lijkt W3 (praktisch weigeren, behalve bij ziekte of acuut gevaar) het dichtst te komen, maar dat is een keuze.",
+  "Een lijstsysteem waarvan de lijst niet is ingezien krijgt D1 met bereik vanaf D0; de score 17 rust dan op een lijst die mogelijk geen particuliere bomen bevat (dan strengheid 0)."
+ ],
+ "gm_code": "GM0375",
+ "gemeente": "Beverwijk",
+ "brondocument": "Algemene Plaatselijke Verordening Beverwijk 2024 art. 4:10, 4:11, 4:12, 8:1, 1:4; Omgevingsplan art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR712030/4",
+ "datum_geldigheid": "APV CVDR712030_4 geldend vanaf 2026-06-05 t/m heden (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV 2024: versie 4 per 2026-06-05 (eerdere versies vervallen); de kapartikelen (afdeling 4.3) zijn in de geraadpleegde tekst niet door deze versies aangetast voor zover vast te stellen; wijzigingsdatum van afdeling 4.3 niet apart vastgesteld.",
+ "juridische_plaats": "APV (art. 4:11); gewone APV-bepaling. Geen bewijs dat het als omgevingsplanactiviteit werkt: geen legesverordening met kaprij gevonden en het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten. S is daarom gescoord op de APV-tekst zelf.",
+ "praktijkcontrole": "Sinds 2025: 1 bekendmaking gevonden (volledige-tekstzoeker), en dat is geen kapbesluit (een belastingverordening). 0 kapbesluiten, 0 aanvragen, 0 weigeringen. Dat past bij een lijstsysteem, maar de zoekmethode is benaderend; kapbesluiten kunnen onder een andere titel of via de omgevingsdienst gepubliceerd zijn.",
+ "vergunningplicht": "Geen vergunning: een verbod zonder vergunningmogelijkheid voor houtopstanden op de Bomenlijst (art. 4:11 lid 2). Er is geen ontheffing- of vergunningartikel voor kap in de afdeling; alleen art. 4:12 noemt uitzonderingen.",
+ "drempel": "Geen drempel: alleen bomen op de Bomenlijst, ongeacht omvang.",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "reikwijdte": "Art. 4:11 lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Lid 2: 'Het is verboden de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.' Hele gemeente, geen onderscheid tussen particulier en openbaar, geen gebiedsregel. De lijst zelf is niet gevonden.",
+ "uitzonderingen": "Art. 4:12: 'mag een boom die op de bomenlijst vermeld is, nadat een beëdigd taxateur van bomen of een boomveiligheidscontroleur hierover is geraadpleegd en het voornemen om de boom te kappen bij het college is gemeld, worden geveld wanneer er sprake is van: a. ziekte die krachtens de Plantenziektenwet ... b. acuut gevaarlijke situatie voor personen en/of onroerend goed'. Art. 4:11 lid 3: 'Het college is bevoegd tot het schrappen van een boom van de bomenlijst'. Bomen buiten de lijst zijn vrij.",
+ "weigeringsgronden": "Niet van toepassing: er is geen vergunning met weigeringsgronden; het verbod is absoluut, behalve de gevallen van art. 4:12 (ziekte, acuut gevaar). Schrappen van de lijst door het college (lid 3) kent geen criteria.",
+ "herplantplicht": "Geen grondslag gevonden voor herplant of compensatie in de APV of in een beleidsregel (CVDR-treffers bevatten geen kapbeleid of herplantbeleid).",
+ "herplant_ontsnapping": "geen (geen herplantplicht)",
+ "sancties": "Art. 8:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Lid 2: 'Een gedraging in strijd met de volgende artikelen is een strafbaar feit in de zin van artikel 1a, onder 3, van de Wet op de economische delicten: 2:10, vijfde lid, 2:11, tweede lid, 4:11, eerste lid.' Dat verwijst naar het verkeerde lid (het verbod staat in lid 2 van art. 4:11; lid 1 is de lijstbepaling). Geen bestuurlijke boete.",
+ "procedure": "Geen vergunningprocedure in de APV. Leges: 'niet gevonden in CVDR' (geen legesverordening met kaprij). Beslistermijn, bezwaar en beroep: niet van toepassing of niet gevonden. Melding bij het college vooraf bij ziekte of acuut gevaar (art. 4:12).",
+ "herplant_type": "geen grondslag",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "nee",
+ "herplant_niet_nakomen": "Niet van toepassing: geen herplantplicht in de regeling.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 3,
+  "min": 2,
+  "max": 3
+ },
+ "H": {
+  "punt": 0,
+  "min": 0,
+  "max": 0
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: korte zoekpogingen op de gemeentelijke website gaven 404; in het CVDR-dossier staat de Bomenlijst niet",
+ "status": "ok",
+ "ontbrekend": "De Bomenlijst (aantal bomen en of er particuliere bomen op staan) is niet gevonden. Slechts 1 bekendmaking sinds 2025 en die is geen kapbesluit; kappraktijk is dus niet te controleren. Leges voor kappen niet gevonden. Omgevingsplan in het DSO niet ingezien.",
+ "artikelnummers": [
+  "APV 2024 art. 4:10, 4:11, 4:12, 8:1, 1:4",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem; lijst niet ingezien, dus bereik vanaf D0 (INTENT, ONZEKERHEID).",
+  "W3 (min 2): 'Het is verboden de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.' (art. 4:11 lid 2); er is geen vergunning, alleen de uitzonderingen van art. 4:12. Praktisch een weigering tenzij ziekte of acuut gevaar; daarom W3 met min 2.",
+  "H0: geen herplant- of compensatiegrondslag gevonden.",
+  "S1: eigen strafbepaling en WED-aanwijzing in art. 8:1; de WED-aanwijzing noemt 'artikel 4:11, eerste lid' (verkeerd lid: het verbod staat in lid 2). Geen bestuurlijke boete.",
+  "Boom A en B: alleen beschermd als de boom op de Bomenlijst staat.",
+  "Open punt: de APV 2024 is op 2026-06-05 voor het laatst gewijzigd (versie 4); niet gecontroleerd of afdeling 4.3 daarbij is gewijzigd."
+ ]
+}

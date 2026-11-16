@@ -1,0 +1,79 @@
+{
+  "provincie": "Noord-Brabant",
+  "gm_code": "GM0858",
+  "gemeente": "Valkenswaard",
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem (regime voor de hele gemeente met een omtrekdrempel); de sortimentslijst (CVDR444015_1) is een lijst van boomsoorten met een hogere drempel, geen bomenlijst",
+  "brondocument": "Algemene plaatselijke verordening Valkenswaard 2024 (CVDR710714_1), hoofdstuk 6 afd. 5 art. 6:14, 6:15 en art. 7:1; Aanwijzingsbesluit Sortimentslijst bomen met verruimde stamomtrek voor vergunningsplicht (CVDR444015_1); Verordening op de heffing en de invordering van leges 2026 (CVDR748612_1) art. 2.30; Omgevingsplan (CVDR696426_4) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR710714/1 ; https://lokaleregelgeving.overheid.nl/CVDR444015/1 ; https://lokaleregelgeving.overheid.nl/CVDR748612/1",
+  "datum_geldigheid": "APV CVDR710714_1 geldend vanaf 2024-01-01 t/m heden; Aanwijzingsbesluit CVDR444015_1 vanaf 2017-03-08; leges CVDR748612_1 vanaf 2025-12-04 (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV 2024: versie 1 per 2024-01-01 (nieuwe vaststelling). De afdeling is verplaatst van hoofdstuk 4 (art. 4:10 t/m 4:12 'verplaatst naar hoofdstuk 6 of vervallen') naar hoofdstuk 6 afd. 5 (art. 6:14 t/m 6:16).",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: leges 2026 (CVDR748612_1) art. 2.30.1 noemt 'het vellen van een houtopstand, bedoeld in artikel 6:15 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. WED-aanwijzing ook in APV art. 7:1 lid 2. Omgevingsplan (CVDR696426_4) art. 22.299: alleen aanvraagvereisten, geen eigen vergunningplicht.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op volledige tekst, dus ruim): 239 bekendmakingen, waarvan 121 besluiten, 116 aanvragen en 0 weigeringen volgens de titel. Veel besluiten, wat past bij een regime voor de hele gemeente. Titels en steekproef noemen geen grondslag en geen kapterm; de besluiten zijn niet allemaal kapbesluiten.",
+  "vergunningplicht": "Vergunning voor het vellen van houtopstanden in de hele gemeente (art. 6:15 lid 1), behalve bomen kleiner dan 100 cm omtrek, en voor aangewezen boomsoorten kleiner dan 200 cm omtrek (lid 3).",
+  "drempel": "Omtrek kleiner dan 100 cm op 1,30 m is vrij ('Overige bomen met een omtrek kleiner dan 100 cm op een hoogte van 1.30 meter'); dus vergunning vanaf 100 cm. Voor 'door het college aan te wijzen boomsoorten' geldt 200 cm.",
+  "omtrek_cm": 100,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom, particulier en openbaar, inclusief tuinen en erven (geen tuinuitzondering). Art. 6:15 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag houtopstanden te vellen of te doen vellen.' Houtopstanden waar de Wet natuurbescherming van kracht is vallen eronder niet (lid 3 onder c).",
+  "uitzonderingen": "Art. 6:15 lid 2: periodiek scheren, knotten of knippen van vormbomen. Lid 3: bomen kleiner dan 100 cm omtrek; aangewezen boomsoorten kleiner dan 200 cm omtrek (sortimentslijst CVDR444015_1: o.a. spar, den, lariks, cypres, thuja, douglas, populieren, wilgen, berk, els, es, lijsterbes, meidoorn, vogelkers, zoete kers, Noorse en gewone esdoorn, Amerikaanse eik, moeraseik, robinia; geen eik, beuk, linde of kastanje); Wnb-houtopstanden. Lid 4: spoedeisend belang of direct gevaar. Het aanwijzingsbesluit is vastgesteld onder APV 2017 art. 4:11 lid 2 onder b; of het nog onder art. 6:15 lid 3 onder a van de APV 2024 werkt is niet apart gelezen, het staat wel als geldend in CVDR.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 6:15 lid 5: 'De vergunning kan in elk geval worden geweigerd op grond van:' natuur- en milieuwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde en 'de waarde voor de recreatie en de leefbaarheid van de houtopstand'. Geen beleidsregel die de toetsing aanscherpt gevonden.",
+  "herplantplicht": "Art. 6:15 lid 6: 'Het bevoegd gezag kan een herplantplicht opleggen of anderszins compensatie gelasten, onder nader te stellen voorschriften, ingeval een houtopstand geheel of gedeeltelijk is geveld.' Geen nadere voorschriften, beleidsregel of bomenfonds gevonden.",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het bevoegd gezag (college) beslist per geval, ook over compensatie in andere vorm ('anderszins compensatie gelasten'). Herplant na illegale kap: dezelfde bepaling ('ingeval een houtopstand geheel of gedeeltelijk is geveld'), dus kan.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niet apart geregeld. Art. 6:15 lid 6 zegt niets over het niet nakomen en bevat geen 'is verplicht daaraan te voldoen'. De algemene strafbepaling art. 7:1 lid 1 spreekt van 'het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen'; art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een omgevingsvergunning.' Verder alleen het algemene instrumentarium (bestuursdwang of dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED-aanwijzing in de APV: art. 7:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 6:1 en 6:2 als sprake is van een omgevingsvergunningsplichtige activiteit, artikel 6:3, eerste lid, en artikel 6:15, eerste lid.' Ook WED via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Geen bestuurlijke boete voor kappen (art. 7:1 lid 3 geldt alleen voor de Wet veiligheidsregio's). Het Uitvoerings- en handhavingsbeleid 2023-2026 (CVDR692145_1) noemt kappen als handhavingsonderwerp maar geen boete of herplantplicht.",
+  "procedure": "Reguliere procedure (VTH-beleid CVDR692145_1). Leges 2026 art. 2.30.1: EUR 88,90. APV 1:2 lid 3 sluit de 8-wekentermijn voor omgevingsvergunningen uit; art. 6:15 lid 7: paragraaf 4.1.3.3 Awb (positieve fictieve beschikking) is van toepassing. Bezwaar en beroep via de Awb.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Omgevingsplan in het DSO niet ingezien. Of de sortimentslijst uit 2017 nog onder art. 6:15 lid 3 onder a van de APV 2024 wordt toegepast, is niet vastgesteld. De handhavingsnota noemt een '(waardevolle) bomenlijst'; die is niet gevonden (geen CVDR-regeling) en lijkt geen vergunningplicht te geven, want art. 6:15 beschermt alle bomen vanaf 100 cm.",
+  "artikelnummers": [
+    "APV 2024 art. 6:14, 6:15, 7:1",
+    "Aanwijzingsbesluit sortimentslijst art. 1 (CVDR444015_1)",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D3: art. 6:15 lid 3 onder b: vrij zijn 'Overige bomen met een omtrek kleiner dan 100 cm op een hoogte van 1.30 meter'; vergunning dus vanaf 100 cm omtrek. Precies op de grens tussen D3 (60-100 cm) en D2 (> 100 cm); D3 gekozen omdat de drempel 100 cm is en niet erboven ligt. Houtopstand zonder drempel in lid 1 naast bomen met drempel in lid 3: scoor op de drempel voor bomen (besluit 14-11-2026); struiken en hakhout zijn niet apart gelezen.",
+    "Soortenuitzondering: voor ca. 50 soorten (waaronder coniferen, populieren, wilgen, berk) geldt 200 cm. Dat is geen tuin- en geen positieve soortenlijst; geen correctie (-1). Populieren, wilgen en coniferen vallen ook buiten de voorbeeldbomen. Meer gewone tuinbomen (eik, beuk, linde, kastanje, fruitbomen) hebben wel de drempel van 100 cm.",
+    "W2: 'De vergunning kan in elk geval worden geweigerd op grond van:' (art. 6:15 lid 5), zonder bereik.",
+    "H1: 'kan een herplantplicht opleggen of anderszins compensatie gelasten' (art. 6:15 lid 6); geen beleidsregel gevonden die dit verplicht.",
+    "S1: WED-aanwijzing in de APV (art. 7:1 lid 2) en via de Omgevingswet; geen bestuurlijke boete voor kappen.",
+    "Voorbeeldbomen A (80 cm) en B (40 cm) liggen onder de drempel van 100 cm: vergunningvrij in een tuin.",
+    "Geldende oude legesverordening 2018 (CVDR477051_2) verwijst nog naar 'artikel 4.11 van de Algemene plaatselijke verordening Valkenswaard'; leges 2026 verwijst naar art. 6:15 en geldt."
+  ],
+  "modelsignalen": [
+    "Drempel van precies 100 cm omtrek (vergunning vanaf 100 cm): het model noemt D2 '> 100 cm' en D3 '60-100 cm'. D3 toegepast; het resultaat hangt van deze afbakening af.",
+    "Soortenuitzondering met een hogere drempel (200 cm) voor een lijst van ca. 50 soorten: het model kent daar geen regel voor (geen -1, geen bereik). Gelet op de lijst (veel coniferen, populieren, wilgen, berken) geldt de hogere drempel voor een flink deel van de gewone tuinbomen; INTENT.md geeft geen duidelijk antwoord.",
+    "Herplant of 'anderszins compensatie': de bepaling zegt 'kan'; onder H1 geteld, ook de compensatie.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: drempel 200 cm (in plaats van 100 cm) voor ca. 50 soorten waaronder alle coniferen, populieren, wilgen en berken sluit vrijwel alle tuinexemplaren van die soorten uit: ruime uitzondering −1 (D3 → D2). Maximum 3 omdat niet is vastgesteld of de soortenlijst uit 2017 nog onder de APV 2024 werkt."
+  ]
+}

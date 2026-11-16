@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM1652",
+  "gemeente": "Gemert-Bakel",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Verordening beschermd groen Gemert-Bakel, art. 1 t/m 20 (CVDR747362_1); Groene Kaart bijhorende bij de Verordening beschermd groen (CVDR749107_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30 (CVDR750511_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR747362/1 ; https://lokaleregelgeving.overheid.nl/CVDR749107/1",
+  "datum_geldigheid": "CVDR747362_1 geldend van 2025-11-25 t/m heden; Groene Kaart CVDR749107_1 geldend van 2025-12-09 t/m heden",
+  "laatste_wijziging": "Nieuwe verordening per 2025-11-25 (vervangt de Bomenverordening Gemert-Bakel 2018); daarna niet gewijzigd. Groene Kaart opnieuw vastgesteld per 2025-12-09.",
+  "juridische_plaats": "Losse verordening (Verordening beschermd groen); werkt als omgevingsplanactiviteit volgens de legesverordening (art. 2.30, 'in samenhang met artikel 22.8 van de Omgevingswet') en heeft een WED-aanwijzing in art. 20 lid 2. Het omgevingsplan (CVDR696556_2) bevat alleen art. 22.299 (aanvraagvereisten).",
+  "praktijkcontrole": "Sinds 2025: 131 treffers (titelzoekmethode), waarvan 64 aanvragen en 2 besluiten; 0 geweigerd volgens de titel. Eén besluit uit 2026 (gmb-2026-222196) geeft toestemming voor 4 bomen en weigert 2 bomen; geen grondslagverwijzing. Past bij een lijstsysteem, maar zegt niets over het aantal particuliere bomen.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van beschermde houtopstanden op de Groene Kaart (individueel), publieke bomen (in eigendom van een overheidslichaam) en waardevolle groenstructuren op de Groene Kaart. Overige bomen vrij.",
+  "drempel": "Geen omvangdrempel voor beschermde houtopstanden; publieke bomen: 'omtrek van 60 centimeter op 130 centimeter hoogte' (alleen overheidsbomen).",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing voor particuliere bomen (publieke bomen: 130 cm)",
+  "reikwijdte": "Hele gemeente, binnen en buiten de bebouwingscontour houtkap (art. 5 en 6), maar alleen houtopstanden op de Groene Kaart. Art. 7 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag een beschermde houtopstand die als individuele beschermde houtopstand op de Groene Kaart staat te vellen of te doen vellen.' Waardevolle groenstructuren (bomenrijen en lanen, houtwallen en -singels, boomgroepen, bossen, natuurgebieden, hagen) alleen als het structuurdoel verloren gaat (art. 11). Buiten de bebouwingscontour zijn eenheden van 10 are of meer en rijbeplantingen van meer dan twintig bomen uitgezonderd (art. 7 lid 3 onder f).",
+  "uitzonderingen": "Art. 7 lid 3: Plantgezondheidswet of aanschrijving, periodiek scheren/knotten/kandelaren, hakhout en hagen, dunning, en buiten de bebouwingscontour houtkap 'Een oppervlakte van tien are of meer' of een 'rijbeplanting die meer dan twintig bomen omvat'. Geen uitzondering voor tuinen of soorten; de uitzondering voor grote eenheden buiten de contour telt niet als tuinuitzondering.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst niet ingezien: de Groene Kaart is een kaart die online staat (https://www.gemert-bakel.nl/groene-kaart, volgens CVDR749107_1) en in CVDR alleen als kaartbijlage zonder tekst; de website was niet bereikbaar (HTTP 403).",
+  "weigeringsgronden": "Art. 8 lid 1: 'Het bestuursorgaan kan de vergunning om te vellen van een beschermde houtopstand als bedoeld in artikel 7 eerste lid weigeren dan wel onder voorschriften of beperkingen verlenen.' Lid 2 onder f: 'Het college weigert een omgevingsvergunning voor het vellen van een boom of houtopstand als de belangen van het vellen van de boom of houtopstand niet opwegen tegen de belangen van behoud op basis van één of meer van de volgende intrinsieke waarden:' omvang/formaat, natuurwaarde, cultuur(historie), beeldbepalendheid, zeldzaamheid. Lid 2 noemt ook alternatieven voor behoud en 'duurzaam behoud ... zwaarder weegt dan een maatschappelijk belang'. Art. 12 (waardevolle groenstructuur) en art. 10 (publieke bomen) geven dezelfde criteria.",
+  "herplantplicht": "Art. 15: 'Aan de vergunning kan het bevoegde gezag onder andere de volgende voorwaarden verbinden: a. dat binnen een bepaalde termijn moet worden herplant;' en onder c een geldelijke bijdrage in het fonds 'Herplant bomen en groen' als niet ter plaatse kan worden herplant. Art. 16 lid 4: 'Als niet ter plaatse kan worden herplant, kan een financiële verplichting jegens de gemeente worden opgelegd conform de boomwaarde'.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht) in art. 15; bij herplant elders of niet mogelijk 'kan een financiële verplichting jegens de gemeente worden opgelegd' (art. 16 lid 4). College beslist per geval.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Geen aparte bepaling over niet nakomen van herplant. Art. 20 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde en gegeven voorschriften en beperkingen, kan worden gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' Daarnaast het algemene instrumentarium van de Awb (niet apart gelezen).",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "Eigen strafbepaling en WED-aanwijzing in de verordening: art. 20 lid 2: 'In aanvulling op het eerste lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens het bepaalde in deze verordening als sprake is van een omgevingsvergunningplichtige activiteit.' Herplant na illegale kap: art. 16 lid 1 'kan' en art. 19 lid 1 'kan het college ... een verplichting tot compensatie ... opleggen'. Geen bestuurlijke boete in de regeling.",
+  "procedure": "Omgevingsvergunning via het Omgevingsloket (art. 13). Leges 2026 (CVDR750511_2 art. 2.30): € 185,60. Geldigheid vergunning één jaar (art. 14). Beslistermijn niet in de verordening gevonden. Bezwaar en beroep volgens Awb (niet apart gelezen).",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Groene Kaart (online op gemert-bakel.nl/groene-kaart, en als kaartbijlage bij CVDR749107_1) niet ingezien: website geblokkeerd. Onbekend hoeveel particuliere bomen en waardevolle groenstructuren op particulier terrein erop staan. Het register bij de kaart (art. 3 lid 2) en 'nadere regels' (art. 22 lid 1) staan niet in het dossier.",
+  "artikelnummers": [
+    "Verordening beschermd groen art. 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 15, 16, 19, 20",
+    "Groene Kaart CVDR749107_1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D1 (bereik 0-2): Groene Kaart niet ingezien. Op de kaart staan individuele beschermde houtopstanden (monumentale en waardevolle bomen) en waardevolle groenstructuren (houtwallen, bossen, boomgroepen, lanen). Natuurgebieden zijn per definitie van een overheid of een groot terreinbeherend lichaam. Voor structuren geldt het verbod alleen als de structuur verloren gaat of onevenredig wordt aangetast (art. 11 lid 1). Zie modelsignaal.",
+    "W2: art. 8 lid 2 onder f 'Het college weigert ... als de belangen van het vellen ... niet opwegen tegen de belangen van behoud op basis van ... intrinsieke waarden' (W2 zonder bereik volgens besluit 14-11-2026).",
+    "H1: art. 15 'kan' voorwaarden verbinden; geen beleidsregel over herplant of compensatie in het dossier. De beleidsregels bijdrageregeling (CVDR623428_1) gaan over subsidie voor onderhoud van waardevolle bomen, niet over kap. Storting 'kan'.",
+    "Herplant na illegale kap: art. 19 lid 1 'kan' een verplichting tot compensatie en een financiële bijdrage 'in aanvulling op of ter vervanging'; art. 16 lid 2 noemt plantmaten voor herplant. Alleen bevoegdheid.",
+    "S1: art. 20 lid 2 WED-aanwijzing en art. 20 lid 1 eigen strafbepaling ('kan worden gestraft'). Geen bestuurlijke boete.",
+    "Publieke bomen (art. 9; in eigendom van een overheidslichaam, omtrek 60 cm) zijn niet particulier en tellen niet voor D.",
+    "Bebouwingscontour houtkap (bijlage 1 van de verordening, kaart) niet ingezien; de verordening geldt binnen en buiten de contour voor dezelfde Groene Kaart-elementen.",
+    "De oude Groene Kaart (CVDR624143_1, 2019) staat nog als geldend naast de nieuwe (CVDR749107_1, 2025); de nieuwe sluit aan op de Verordening beschermd groen en vervangt de oude voor het beschermde groen."
+  ],
+  "modelsignalen": [
+    "Een Groene Kaart met individuele houtopstanden naast waardevolle groenstructuren (gebieden/structuren) waarvoor het verbod alleen geldt bij aantasting van de structuur als geheel: het model zegt niet hoe je D scoort bij een niet-ingeziene kaart met zowel losse bomen als structuren (D1 of D2).",
+    "Uitzondering buiten de bebouwingscontour voor eenheden van 10 are of meer en rijbeplantingen van meer dan twintig bomen sluit juist de grote structuren uit; het model heeft geen regel voor een uitzondering die alleen grote eenheden buiten de kom uitsluit."
+  ]
+}

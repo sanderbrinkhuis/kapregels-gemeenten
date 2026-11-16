@@ -1,0 +1,28 @@
+{
+  "gemeente": "Veldhoven",
+  "gm_code": "GM0861",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Veldhoven",
+  "zoeknaam_bekendmakingen": "Veldhoven",
+  "opgehaald_op": "2026-11-15T21:05:29+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Veldhoven\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 71,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Veldhoven\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 6,
+  "geldende_regelingen": 14,
+  "geldend_met_kapartikelen": [
+    "CVDR27066_1",
+    "CVDR430978_9",
+    "CVDR696429_3",
+    "CVDR738651_1",
+    "CVDR755241_2",
+    "CVDR763030_1"
+  ],
+  "bekendmakingen_besluiten": 4,
+  "bekendmakingen_aanvragen": 1,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 3
+}

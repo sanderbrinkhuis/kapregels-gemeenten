@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0340/2020/omgevingsvisie",
+    "titel": "Visie op Rhenen 2035, wijziging Randzonevisie",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0340/2020/omgevingsvisie/nld@2026-04-29;1120d973fe4048059b2d80bffb65fc2a",
+    "beginGeldigheid": "2026-05-01",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0340_2020_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:14Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0340/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Rhenen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0340/2020/omgevingsplan/nld@2026-07-24;0d2cb629d02c482380636b6b950a5d8a",
+    "beginGeldigheid": "2026-08-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0340_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:01:14Z"
+  }
+]

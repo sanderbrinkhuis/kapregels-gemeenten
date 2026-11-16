@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0114/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Emmen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0114/2020/omgevingsplan/nld@2024-05-15;e78499cf148542b89dfd239954f64ee7",
+    "beginGeldigheid": "2024-05-17",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0114_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:13Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0114/2026/tijdelijkdeel-emmen",
+    "titel": "2.1 Voorbeschermingsregels Netversterking Deelnet Emmen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0114/2026/tijdelijkdeel-emmen/nld@2026-06-19",
+    "beginGeldigheid": "2026-06-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0114_2026_tijdelijkdeel_emmen?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:13Z"
+  }
+]

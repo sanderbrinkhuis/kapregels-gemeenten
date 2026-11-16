@@ -1,0 +1,76 @@
+{
+ "gm_code": "GM0047",
+ "gemeente": "Veendam",
+ "provincie": "Groningen",
+ "brondocument": "Bomenverordening gemeente Veendam 2023 (art. 1-3, 8, 9, 15); APV Veendam 2026 afdeling 4.3 is ingetrokken (art. 4:11 'gereserveerd')",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR693646/1",
+ "datum_geldigheid": "geldend van 2023-03-22 t/m heden (CVDR693646_1; peildatum 2026-11-14)",
+ "laatste_wijziging": "2023-03-22 (versie 1, vervangt de Bomenverordening 2012 'Groene Kaart')",
+ "juridische_plaats": "Bomenverordening 2023; werkt als omgevingsplanactiviteit (legesverordening 2026 tarief 2.30 noemt 'artikel 3 van de Bomenverordening gemeente Veendam 2023 in samenhang met artikel 22.8 van de Omgevingswet'). Omgevingsplan Ommelanderwijk art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 44 bekendmakingen, 22 besluiten, 22 aanvragen, 3 geweigerd volgens titel. In titels van besluiten onder meer 'waardevolle kastanjeboom' en 'twee monumentale beuken' (lijstbomen) en kap in het algemeen; ca. 50-60 kapvergunningen per jaar volgens het Programma Uitvoering en Handhaving 2022 (CVDR680674_1: 59, 59, 49 in 2019-2021). Dit past bij lijstbomen plus houtopstanden.",
+ "vergunningplicht": "Ontheffing van het kapverbod (art. 3) voor bomen op het register en voor houtopstanden van 100 m² of meer",
+ "drempel": "Geen stamomtrekdrempel. Lijstbomen: ongeacht omvang. Overige bomen alleen als 'houtopstand' met natuurlijke groeihoogte > 2 m en oppervlakte van 100 m² of meer (art. 1 lid g). Een 'boom' is een gewas met doorsnede van meer dan 0,20 m op 1,3 m (art. 1 lid b), maar dit bepaalt alleen de definitie.",
+ "omtrek_cm": null,
+ "meethoogte": "1,3 m (voor de definitie 'boom'; de drempel is een oppervlakte)",
+ "reikwijdte": "Register (lijst) van monumentale en waardevolle bomen en houtopstanden: 'Het register kan zowel gemeentelijke als particuliere bomen bevatten' (art. 2 lid 2). Verder alle houtopstanden van 100 m² of meer op het hele grondgebied (art. 3 lid 2), particulier en openbaar.",
+ "uitzonderingen": "Art. 3 lid 3: Plantenziektewet of aanschrijving; periodiek knotten, kandelaberen of afzetten; dunning als regulier onderhoud (max 30% stamtalreductie) of achterstallig onderhoud met beheerplan. Losse tuinbomen vallen buiten de definitie 'houtopstand' tenzij ze op het register staan.",
+ "weigeringsgronden": "Art. 3 lid 4: 'Het college kan ontheffing verlenen van het in het eerste lid gestelde verbod indien: a. een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde bomen en/of houtopstanden (en alternatieven voldoende zijn onderzocht)'. Hinder door wortelopdruk, licht, stuifmeel, blad- of vruchtval is onvoldoende. Verder ontheffing bij boomdeskundig onverantwoord behoud of noodtoestand.",
+ "herplantplicht": "Art. 8 lid 1: 'Tot aan de ontheffing te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn [...] moet worden herplant.' Art. 9 lid 1: na illegale kap 'kan het college [...] de verplichting opleggen te herplanten'. Geen financiële compensatie of herplantfonds gevonden in de tekst. Toelichting (bijlage) niet in het dossier.",
+ "herplant_ontsnapping": "'kan': herplant is een bevoegdheid van het college (art. 8 lid 1 en art. 9 lid 1), geen plicht.",
+ "sancties": "Eigen strafbepaling art. 15 lid 2: 'kan worden gestraft met hechtenis van ten hoogste twee maanden of een geldboete ter hoogte van de boomwaarde of berekende schade aan de boom conform de meest recente richtlijn van de [NVTB]'. Herplantplicht na illegale kap mogelijk (art. 9 lid 1). Geen bestuurlijke boete. WED via Ow 5.1 (omgevingsplanactiviteit, leges 2.30).",
+ "procedure": "Leges (CVDR748226_1, 2026, tarief 2.30): EUR 169,40 voor 25 bomen of minder, EUR 505,45 voor meer dan 25 bomen; 20% teruggaaf bij weigering. Aanvraag via het Omgevingsloket (art. 4 lid 1), publicatie en ter inzage (lid 2), zienswijzen binnen 2 weken (lid 3), bezwaartermijn 6 weken (lid 4). Ontheffing vervalt na 1 jaar (art. 7).",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 15 lid 1: 'Degene aan wie een voorschrift bij of krachtens deze verordening is gegeven, onderscheidenlijk een verplichting is opgelegd, [...] is gehouden dienovereenkomstig te handelen.' Lid 2: 'kan worden gestraft met hechtenis van ten hoogste twee maanden of een geldboete ter hoogte van de boomwaarde'.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 2,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "register (lijst) niet ingezien: de gemeentelijke website was met curl niet te doorzoeken en de bekendmakingen noemen alleen een kaartlink; bomenkaart niet beschikbaar in het dossier",
+ "status": "ok",
+ "ontbrekend": "Register/lijst van waardevolle en monumentale bomen en de bijbehorende groene kaart (art. 2) niet ingezien; onbekend hoeveel bomen en hoeveel particulier. Toelichting en bijlagen van de Bomenverordening ontbreken in het dossier. Omgevingsplan DSO niet ingezien.",
+ "artikelnummers": [
+  "Bomenverordening 2023 art. 1 (definities), 2 (register), 3 (kapverbod, ontheffing), 4, 8, 9, 15",
+  "APV 2026 afdeling 4.3 ingetrokken, art. 4:11 gereserveerd",
+  "Leges 2026 tarief 2.30",
+  "Omgevingsplan Ommelanderwijk art. 22.299"
+ ],
+ "opmerkingen": [
+  "D2 (min 1): combinatie van register en een algemene regel voor houtopstanden van 100 m² of meer (art. 3 lid 2, gehele gemeente, ook particulier). Losse tuinbomen vallen er niet onder, tenzij ze op het register staan. Omdat de drempel een oppervlakte is, geen omtrek in cm.",
+  "W3: art. 3 lid 4 sub a: 'een zwaarwegend algemeen maatschappelijk belang opweegt tegen duurzaam behoud'.",
+  "H1: art. 8 lid 1: 'kan behoren het voorschrift dat [...] moet worden herplant'; art. 9 lid 1 'kan het college [...] de verplichting opleggen'. Geen beleidsregel gevonden die herplant verplicht stelt.",
+  "S1: eigen strafbepaling art. 15 lid 2. Boetehoogte is gekoppeld aan de boomwaarde, maar wordt door de rechter opgelegd; geen bestuurlijke boete.",
+  "Boom A en B: alleen vergunningplichtig als de boom op het register staat; een losse tuinboom is geen 'houtopstand' van 100 m².",
+  "APV Veendam 2026: 'afdeling 3 van hoofdstuk 4 ingetrokken'; art. 4:11 is gereserveerd. De kapregels staan dus alleen in de Bomenverordening."
+ ],
+ "modelsignalen": [
+  "Algemene houtopstandenregel met een oppervlaktedrempel van 100 m² (geen stamomtrek): het model kent alleen omtrekdrempels, dus D2 is een inschatting van gelijkwaardigheid met een hoge omtrekdrempel.",
+  "Boetehoogte 'ter hoogte van de boomwaarde' in een strafbepaling lijkt op S3 maar is een strafrechtelijke boete via de rechter; het model scoort dat als S1."
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "gemeente": "Doesburg",
+  "gm_code": "GM0221",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Doesburg",
+  "zoeknaam_bekendmakingen": "Doesburg",
+  "opgehaald_op": "2026-11-16T14:05:48+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Doesburg\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 71,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Doesburg\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 189,
+  "geldende_regelingen": 18,
+  "geldend_met_kapartikelen": [
+    "CVDR41376_1",
+    "CVDR645707_3",
+    "CVDR696222_3",
+    "CVDR752605_1"
+  ],
+  "bekendmakingen_besluiten": 90,
+  "bekendmakingen_aanvragen": 94,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

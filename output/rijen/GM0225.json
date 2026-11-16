@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0225",
+  "gemeente": "Druten",
+  "provincie": "Gelderland",
+  "brondocument": "Algemene plaatselijke verordening Druten (afd. 4.3 Het bewaren van houtopstanden), CVDR634851_13; Verordening leges Druten 2026, CVDR752707_1; Omgevingsplan gemeente Druten, CVDR696225_3",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR634851/13",
+  "datum_geldigheid": "CVDR634851_13: geldend van 2026-01-01 t/m heden (peildatum 2026-11-15)",
+  "laatste_wijziging": "2026-01-01 (versie 13)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (art. 2.30 leges: vellen van een houtopstand, bedoeld in artikel 4:11 APV) en met WED-aanwijzing in art. 6:1 lid 3 APV; omgevingsplan: restant bruidsschat (art. 22.299) aanvraagvereisten",
+  "praktijkcontrole": "Bekendmakingen sinds 2025 (zoekmethode: titel): 8 treffers, 0 besluiten, 0 aanvragen, 0 geweigerd. Dat zegt weinig: de zoekmethode mist soms besluiten. Geen conclusie over het aantal kapbesluiten.",
+  "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op het overzicht van waardevolle bomen staan (alleen aangewezen bomen).",
+  "drempel": "Geen stamomtrekdrempel; alleen bomen op het overzicht van waardevolle bomen",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing (geen drempel); aanvraagvereiste art. 22.299 vraagt diameter gemeten op 1,30 m",
+  "reikwijdte": "Art. 4:11 lid 2: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op het in het eerste lid genoemde overzicht.' Lid 1: 'Het college stelt een overzicht van waardevolle bomen vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Geen algemene regel voor bomen buiten het overzicht.",
+  "uitzonderingen": "Spoed of direct gevaar (art. 4:11 lid 4, toestemming burgemeester). Geen andere uitzonderingen op soort of situatie.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel over herplant of compensatie gevonden in CVDR; de Uitvoerings- en Handhavingsstrategie VTH (CVDR760041_1) noemt alleen 'Toezicht op de herplantplicht gebeurt meestal op basis van meldingen.'",
+  "herplant_ontsnapping": "Bevoegdheid (art. 4:11 lid 5 'kan'); beslist het bevoegd gezag per geval. Geen regeling over betaling in plaats van herplant gevonden.",
+  "sancties": "Art. 6:1 lid 1: 'wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Lid 3: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en artikel 4:11, tweede lid.' Route: WED-aanwijzing in regeling. Geen bestuurlijke boete voor kappen.",
+  "procedure": "Leges (CVDR752707_1 art. 2.30): maximaal 10 bomen € 127,55; 11 bomen of meer € 158,65. Beslistermijn APV art. 1:2 lid 3: niet van toepassing op omgevingsvergunning. Bezwaar en beroep volgens Awb; de VTH-strategie noemt dat een kapvergunning pas vier weken + één dag na bekendmaking in werking treedt.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets specifieks geregeld voor herplant. Art. 6:1 lid 1: 'Overtreding van het in deze verordening bepaalde en van de op grond van artikel 1.4 daarbij gegeven voorschriften en beperkingen, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Art. 1:4 lid 3: 'Dit artikel is niet van toepassing op een aanvraag om een omgevingsvergunning.' Het is daarom onzeker of een herplantvoorschrift bij een omgevingsvergunning onder deze strafbepaling valt.",
+  "herplant_niet_nakomen_type": "onbekend",
+  "D": {
+    "punt": 1,
+    "min": 0,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Lijst niet ingezien: het 'overzicht van waardevolle bomen' (art. 4:11 lid 1) staat niet in het dossier en niet in CVDR; enkele gemeentelijke webpagina's (druten.nl/bomen, /kapvergunning, /monumentale-bomen) gaven 'Pagina niet gevonden'.",
+  "status": "ok",
+  "ontbrekend": "Het overzicht van waardevolle bomen (art. 4:11 lid 1) is niet gevonden, dus onbekend hoeveel bomen erop staan en of er particuliere bomen bij zijn. D-bereik loopt vanaf 0. Het college-besluit tot vaststelling van het overzicht is niet in het dossier.",
+  "artikelnummers": [
+    "APV art. 4:10",
+    "APV art. 4:11",
+    "APV art. 6:1",
+    "APV art. 1:2, 1:4, 1:8",
+    "Leges art. 2.30",
+    "Omgevingsplan art. 22.299, 22.304"
+  ],
+  "opmerkingen": [
+    "Lijstsysteem: alleen bomen op het overzicht van waardevolle bomen zijn beschermd. D1 (bereik 0-1): onbekend of er particuliere bomen op staan.",
+    "W2: weigeren op waarden mogelijk. Citaat: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand;'.",
+    "H1: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel gevonden die herplant tot vast voorschrift maakt.",
+    "S1: WED-aanwijzing in art. 6:1 lid 3 voor overtreding van art. 4:11 lid 2 plus eigen strafbepaling art. 6:1 lid 1. Let op: lid 1 verwijst naar 'artikel 1.4' (tikfout voor 1:4 in de bron). Geen bestuurlijke boete.",
+    "Omgevingsplan (CVDR696225_3) bevat alleen aanvraagvereisten (art. 22.299) en de aanwijzing bebouwingscontour houtkap (art. 22.304); de kapregel zelf staat in de APV.",
+    "Boom A en B: alleen beschermd als zij op het overzicht staan; dat is niet na te gaan."
+  ],
+  "modelsignalen": [
+    "Het overzicht staat niet in CVDR of op de gevonden gemeentepagina's; D blijft daardoor 0-1 (laag).",
+    "Art. 1:4 lid 3 sluit voorschriften bij een omgevingsvergunning uit, terwijl art. 6:1 lid 1 de strafbaarheid van voorschriften via 'artikel 1.4' regelt; het model heeft geen categorie voor een onduidelijke strafbaarheid van herplantvoorschriften."
+  ]
+}

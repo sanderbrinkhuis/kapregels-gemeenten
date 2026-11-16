@@ -1,0 +1,77 @@
+{
+ "gm_code": "GM0737",
+ "gemeente": "Tytsjerksteradiel",
+ "provincie": "Fryslân",
+ "brondocument": "Algemene plaatselijke verordening gemeente Tytsjerksteradiel 2024, afdeling 4.3 (CVDR710342_4)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR710342/4",
+ "datum_geldigheid": "Geldend van 2026-02-11 t/m heden (peildatum 2026-11-14)",
+ "laatste_wijziging": "2026-02-11 (CVDR710342_4)",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges (CVDR747030_2 art. 2.30: \"vellen van een houtopstand, bedoeld in artikel [4:11]van de Algemene plaatselijke verordening ... in samenhang met artikel 22.8 van de Omgevingswet\") en WED-aanwijzing in APV 6:1 lid 2; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+ "praktijkcontrole": "227 bekendmakingen sinds 2025, waarvan 91 besluiten en 5 weigeringen (volgens titel). Veel vergunningen voor het kappen van losse bomen (1 tot 4 bomen, ook particulier in dorpen) en groepen (13, 25, 33 bomen). Dat past bij een breed regime met vergunningplicht. Geen grondslag in de besluiten genoemd. Uitvoeringsprogramma 2026 (CVDR757144_1): verwacht 60 kapvergunning- en 80 kapmeldingcontroles per jaar.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning), art. 4:11 lid 1. Particuliere stambomen pas vanaf stamomtrek van 150 cm. Voor dunning en hakhoutonderhoud geldt een meldplicht (art. 4:11d, die geen verbodsmogelijkheid bij onderhoud biedt).",
+ "drempel": "Particuliere stambomen: \"met een stamomtrek van minder dan 150 cm\" vrijgesteld (art. 4:11 lid 2 onder n); leibomen vrijgesteld onder 100 cm (onder o); andere houtopstand (zoals houtwallen en singels) niet vrijgesteld op omtrek. Voor gemeentelijke e.d. percelen: stamomtrek minder dan 75 cm vrijgesteld (onder k).",
+ "omtrek_cm": 150,
+ "meethoogte": "1,30 m",
+ "reikwijdte": "Hele gemeente, binnen en buiten de bebouwde kom (art. 4:11 lid 1: \"Het is verboden zonder omgevingsvergunning van het bevoegde gezag een houtopstand te vellen of te doen vellen.\"), met de uitzonderingen in lid 2. Houtopstand omvat ook hakhout, houtwal, lintbegroeiing en bosplantsoen.",
+ "uitzonderingen": "Art. 4:11 lid 2 (onder meer): onder m: \"Populieren, wilgen, elzen, berken op percelen die in eigendom zijn van particulieren\"; onder l: \"bomen die behoren tot de cypresachtigen\"; onder a: \"laagstam-vruchtbomen en windschermen om boomgaarden\"; onder n: stambomen van particulieren onder 150 cm; onder o: leibomen onder 100 cm; verder kerstbomen, kweekgoed, dunning (melding), Plantenziektewet, hakhoutonderhoud, knotten. Lid 3: spoed of gevaar met toestemming van de burgemeester.",
+ "boom_a_80cm": "nee",
+ "boom_b_40cm": "nee",
+ "weigeringsgronden": "Art. 4:11b: \"Onverminderd het bepaalde in artikel 1:8 kan de vergunning in elk geval worden geweigerd op grond van de: a. natuurwaarde van de houtopstand; b. landschappelijke waarde van de houtopstand; c. waarde van de houtopstand voor stads- en dorpsschoon; d. beeldbepalende waarde van de houtopstand; e. cultuurhistorische waarde van de houtopstand.\"",
+ "herplantplicht": "Art. 4:11c lid 1: \"Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegde gezag te geven aanwijzingen moet worden herplant.\" Na illegale kap art. 4:11e lid 1: \"kan het bevoegde gezag ... de verplichting opleggen te herbeplanten\".",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid (\"kan\"), geen plicht. Het bevoegd gezag beslist per geval. Geen betaling als alternatief en geen beleidsregel over herplant gevonden.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:11e lid 4: \"Degene aan wie een verplichting als bedoeld in het eerste tot en met derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.\" Art. 6:1 lid 1: \"Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.\" Handhavingsleidraad (CVDR717485_1, bijlage 3): \"niet uitvoeren herplantplicht | ... | Dwangsom, per overtreding | Bestuursdwang en bestuurlijke boete | Bij recidive strafrechtelijk optreden | € 1.500 | per boom\".",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2: \"is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... en artikel 4:11, eerste lid\". Ook eigen strafbepaling art. 6:1 lid 1. Na illegale kap: herplantplicht kan worden opgelegd (art. 4:11e). Handhavingsleidraad (beleid, 2023): dwangsom € 1.000 per boom bij kap zonder vergunning. Geen bestuurlijke boete met grondslag in de APV gevonden; de leidraad noemt de bestuurlijke boete wel als middel.",
+ "procedure": "Leges (CVDR747030_2, art. 2.30): tarief \"n.v.t.\" in de tabel (geen kaplegesbedrag gevonden). Beslistermijn: Omgevingswet (APV art. 1:2 lid 3). Schadevergoeding mogelijk (art. 4:11f). Aanvraagvereisten: omgevingsplan art. 22.299.",
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "geen lijstsysteem",
+ "D": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "",
+ "artikelnummers": [
+  "APV art. 4:10, 4:11, 4:11b, 4:11c, 4:11d, 4:11e, 6:1 (CVDR710342_4)",
+  "Leges art. 2.30 (CVDR747030_2)",
+  "Omgevingsplan art. 22.299 (CVDR696387_2)",
+  "Leidraad handhavingsacties bijlage 3 (CVDR717485_1)"
+ ],
+ "opmerkingen": [
+  "Doorslaggevende citaten: W: \"kan de vergunning in elk geval worden geweigerd op grond van de: a. natuurwaarde ...\" (art. 4:11b); H: \"kan behoren het voorschrift dat ... moet worden herplant\" (art. 4:11c lid 1).",
+  "D: hele gemeente met hoge drempel (stamomtrek 150 cm voor particuliere stambomen, > 100 cm) is D2. Daarna 1 afgetrokken (correctieregel) omdat art. 4:11 lid 2 onder m \"Populieren, wilgen, elzen, berken op percelen die in eigendom zijn van particulieren\" ongeacht locatie uitzondert, naast cypresachtigen en laagstam-vruchtbomen. Punt D1; bereik 1-2 omdat de uitkomst afhangt van of deze correctie bij een regime met al een hoge drempel moet gelden (zie modelsignaal). Strengheid: D1 = 17, D2 = 33.",
+  "Landschapselementen (houtwallen, singels, lintbegroeiing) zijn ook houtopstand en vallen niet onder de 150-cm-vrijstelling; de praktijk (kapmeldingen bij onderhoud van houtwallen en singels, vergunningen voor groepen bomen) laat zien dat die onder het regime vallen. Dit verandert D niet.",
+  "Boom A (80 cm) en B (40 cm): beide onder de vrijstelling van 150 cm voor particuliere stambomen: nee (mits geen leiboom; ook populier, wilg, els, berk, cypres en laagstam-fruit zijn vrijgesteld).",
+  "Praktijk: verleende vergunningen voor losse eiken, beuken e.d. en 5 weigeringen sinds 2025. Het is niet na te gaan of het bomen met een omtrek van 150 cm of meer betreft, of bomen op gemeentelijke percelen (drempel daar 75 cm).",
+  "Geen herplantbeleid gevonden; de handhavingsleidraad 2023 is geen herplantbeleid en maakt herplant geen vast voorschrift (dwangsom bij niet uitvoeren).",
+  "Bestuurlijke boete: alleen genoemd in de handhavingsleidraad, niet in de APV. Daarom geen S2.",
+  "De leges voor kap staan in CVDR747030_2 als 'n.v.t.'."
+ ],
+ "modelsignalen": [
+  "Tytsjerksteradiel combineert een hoge omtrekdrempel (150 cm, D2) met een soortuitzondering voor populier, wilg, els en berk (correctie -1). Het model telt beide; of dat dubbel tellen is, is niet bepaald. Resultaat D1 (17) tegenover D2 (33) verandert de categorie van Zeer soepel naar Soepel."
+ ]
+}

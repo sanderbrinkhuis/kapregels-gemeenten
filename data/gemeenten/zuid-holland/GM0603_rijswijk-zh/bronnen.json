@@ -1,0 +1,29 @@
+{
+  "gemeente": "Rijswijk (ZH.)",
+  "gm_code": "GM0603",
+  "provincie": "Zuid-Holland",
+  "zoeknaam_cvdr": "Rijswijk",
+  "zoeknaam_bekendmakingen": "Rijswijk",
+  "opgehaald_op": "2026-11-16T14:06:46+00:00",
+  "peildatum": "2026-11-16",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Rijswijk\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 75,
+  "bekendmakingen_zoekmethode": "volledige tekst (benadering: kan ook niet-kapbesluiten bevatten)",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Rijswijk\" and dt.date>=\"2025-01-01\" and (cql.textAndIndexes=\"houtopstand\" or cql.textAndIndexes=\"houtopstanden\" or cql.textAndIndexes=\"vellen\" or cql.textAndIndexes=\"kapvergunning\")",
+  "bekendmakingen_totaal": 208,
+  "geldende_regelingen": 16,
+  "geldend_met_kapartikelen": [
+    "CVDR677318_1",
+    "CVDR696360_5",
+    "CVDR712412_2",
+    "CVDR728359_2",
+    "CVDR736747_1",
+    "CVDR748114_2",
+    "CVDR748564_1"
+  ],
+  "bekendmakingen_besluiten": 84,
+  "bekendmakingen_aanvragen": 1,
+  "bekendmakingen_geweigerd": 4,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0995/2024/Regeling3cdb453d998246238f947ee8637f60f9",
+    "titel": "Voorbereidingsbesluit bodem gemeente Lelystad",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0995/2024/Regeling3cdb453d998246238f947ee8637f60f9/nld@2024-04-25;06240805",
+    "beginGeldigheid": "2024-04-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0995_2024_Regeling3cdb453d998246238f947ee8637f60f9?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0995/2025/Regeling65614b47efab4c70949cfefb1661899e",
+    "titel": "Omgevingsvisie Lelystad 2050",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0995/2025/Regeling65614b47efab4c70949cfefb1661899e/nld@2026-02-18;08533167",
+    "beginGeldigheid": "2026-02-19",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0995_2025_Regeling65614b47efab4c70949cfefb1661899e?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0995/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Lelystad",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0995/2020/omgevingsplan/nld@2026-07-14;07535212",
+    "beginGeldigheid": "2026-08-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0995_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:19Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0995/2025/Regeling61b225b4ec5c4eeaa72622d1d9bd57a0",
+    "titel": "Warmteprogramma gemeente Lelystad 2026-2050: Op weg naar nieuwe energie",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0995/2025/Regeling61b225b4ec5c4eeaa72622d1d9bd57a0/nld@2026-09-09;07425302",
+    "beginGeldigheid": "2026-09-15",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0995_2025_Regeling61b225b4ec5c4eeaa72622d1d9bd57a0?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:52:19Z"
+  }
+]

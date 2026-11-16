@@ -1,0 +1,82 @@
+{
+ "gm_code": "GM0213",
+ "gemeente": "Brummen",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening 2019 (APV) Brummen, afdeling 4.3 (art. 4:11, 4:12, 4:15, 4:18, 4:19) en art. 6:1; Tarieventabel Leges 2026 art. 2.30 (CVDR752766_1 en CVDR767967_1); Beleidsplan Vergunningverlening, Toezicht & Handhaving 2024-2028 (CVDR740831_1) bijlage V; Omgevingsplan art. 22.299 (CVDR696219_2); Besluit activiteiten leefomgeving art. 11.111 en 11.126 (BWBR0041330, extern opgehaald)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR620458/10 ; https://lokaleregelgeving.overheid.nl/CVDR740831/1 ; https://lokaleregelgeving.overheid.nl/CVDR767967/1 ; https://wetten.overheid.nl/BWBR0041330",
+ "datum_geldigheid": "APV CVDR620458_10 geldend vanaf 2026-01-01 t/m heden (peildatum scoren 2026-11-15); beleidsplan CVDR740831_1 geldend vanaf 2025-06-20",
+ "laatste_wijziging": "APV: versie 10 per 2026-01-01 (citeertitel in de tekst: 'Laatstelijk gewijzigd in de openbare raadsvergadering van 19 december 2024'). Legesverordening: tweede versie per 2026-10-16.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:12 van de APV in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 170 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 57 besluiten en 5 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. De besluiten betreffen vooral naaldbomen en dennen in Eerbeek (ook 'het kappen van 7 naaldbomen', 'het kappen van 4 coniferen') en een besluit 'het kappen van 32 bomen, binnen de bebouwde kom, met herplantplicht' (gmb-2026-93449). Dat past niet bij een kom waar alle naaldbomen vrij zijn (lid 2) en wijst op vergunningplicht in de kom voor niet-uitgezonderde soorten of op gebieden uit bijlage 2.",
+ "vergunningplicht": "Omgevingsvergunning (APV 4:12 lid 1): 'Het is verboden zonder omgevings-vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.'",
+ "drempel": "Geen omtrekdrempel in art. 4:12 voor 'houtopstand'. Wel definieert art. 4:11 onder c 'boom' als 'een houtachtig, opgaand gewas zowel levend als afgestorven, met een dwarsdoorsnede van de stam van minimaal 15 centimeter op 1,3 meter hoogte boven het maaiveld'. Omgerekend 15 x 3,14 = 47 cm omtrek. Houtopstand is 'zelfstandige eenheid van bomen, boomvormers, struiken, hakhout of griend'.",
+ "omtrek_cm": 47,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Hele gemeente, particulier en openbaar. Art. 4:12 lid 2: het verbod 'geldt niet voor houtopstanden binnen de bebouwde kom en houtopstanden op erven of in tuinen buiten de bebouwde kom, wanneer het betreft' bepaalde loofsoorten en alle naaldbomen. Buiten de kom (en buiten erven en tuinen) geldt het verbod voor alle houtopstand, behalve wat onder lid 3 valt. Lid 6: lid 2 'is niet van toepassing' voor houtopstanden in een tuin bij een historisch pand, in de gebieden van bijlage 2 (alleen kopregel in de tekst), geregistreerde monumentale bomen bij 'De Bomenstichting' te Arnhem en 'op door het college nader aan te wijzen plaatsen'. Bebouwde kom: 'de bebouwde kom/bebouwingscontour houtkap van de gemeente' (art. 4:11 onder a; kaart in bijlage 1, niet in tekst).",
+ "uitzonderingen": "Art. 4:12 lid 2 (binnen de kom en op erven en in tuinen buiten de kom): a. loofhoutsoorten berk, esdoorn, kers, lijsterbesachtigen, gouden regen, goudiep, hulst, Italiaanse populier, appel, peer, krenteboompje, fluweelboom; b. 'de naaldbomen, met uitzondering van Taxus (Taxus soorten) en Ginkgo'. Lid 3: 'houtopstanden voor zover artikel 11.126 van het Besluit activiteiten leefomgeving van toepassing is en voor houtopstanden wanneer het betreft de uitzonderingen, zoals genoemd in artikel 11.111, lid 2 van het Besluit activiteiten leefomgeving' (die lijst noemt o.a. bebouwingscontour houtkap, erven of tuinen, fruitteelt, kerstbomen, kweekgoed, houtopstanden kleiner dan 10 a of rijbeplanting van 20 of minder bomen; art. 11.111 lid 2 gelezen op wetten.overheid.nl). Lid 4: Plantgezondheidswet of aanschrijving, hakhout, knotten, hagen en heggen bij woonbebouwing in de kom, dunnen. Lid 5: burgemeester kan toestemming geven bij 'noodkap'. Alle naaldbomen in de kom en in tuinen zijn vrij: ruime uitzondering, correctie -1.",
+ "weigeringsgronden": "Art. 4:15: 'Het bevoegd gezag kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; de beeldbepalende waarde van de houtopstand; waarden voor recreatie en leefbaarheid.'",
+ "herplantplicht": "Art. 4:18 lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden voldaan aan de instandhoudingsverplichting middels herplant. In ieder geval wordt een instandhoudingsverplichting en een herplantplicht opgelegd, indien het gemeentelijk beleid of een bestemmings-, bomen-, groen-, of landschapsplan de te vellen houtopstand direct of indirect als waardevol omschrijft.' Geen financiële compensatie of boomwaarde.",
+ "herplant_ontsnapping": "Algemeen 'kan behoren' (bevoegdheid); alleen verplicht ('In ieder geval wordt ... opgelegd') als beleid of een plan de houtopstand als waardevol omschrijft. Het college beslist per geval. Art. 4:19 lid 3: 'Het bevoegd gezag kan in uitzonderlijke gevallen afwijken van de in het eerste lid bepaalde vervaltermijn.' Geen betaling als alternatief.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Beleidsplan Vergunningverlening, Toezicht & Handhaving 2024-2028, bijlage V (richtlijn dwangsombedragen), rij 'Herplantplicht | Tussen € 200,- en € 1.000,- per boom, per week | Tussen €1.000,- en € 5.000,- per boom | Afstemmen op plantseizoen'. Art. 6:1 lid 1 APV: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Of een herplantvoorschrift in een omgevingsvergunning onder art. 6:1 valt, is niet vastgesteld.",
+ "herplant_niet_nakomen_type": "meerdere",
+ "sancties": "APV art. 6:1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Art. 6:1 lid 3: 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen ... en 4:12, eerste lid' (WED-aanwijzing in regeling). Ook via Ow 5.1 (legesverordening art. 2.30). Geen bestuurlijke boete voor kappen (lid 4 gaat over de Wet veiligheidsregio's). Handhavingsbeleid CVDR740831_1 bijlage V: dwangsomrichtlijn voor 'Kappen, knotten of kandelaberen zonder vergunning'. Herplant na illegale kap: art. 4:19.",
+ "procedure": "Aanvraag omgevingsvergunning; leges 2026 art. 2.30: eerste boom € 178,00, elke volgende boom € 13,00, maximum € 498,00 (hakhout € 53,00 tot en met 25 m2, daarna € 8,00 per m2, maximum € 172,00). APV 1:2 lid 3: de APV-beslistermijn geldt niet voor een omgevingsvergunning. Bekendmaking in het gemeenteblad. Bezwaar en beroep niet apart gelezen.",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 1,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 2
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "",
+ "status": "onzeker",
+ "ontbrekend": "Onzeker hoe art. 4:12 lid 3 (verwijzing naar Bal 11.111 lid 2, waaronder 'bebouwingscontour houtkap' en 'erven of tuinen') zich verhoudt tot lid 2 en lid 6; bij een letterlijke lezing vervalt het verbod binnen de kom en op alle erven en tuinen. Bijlage 1 (kaart bebouwde kom) en bijlage 2 (gebieden lid 6) staan alleen als kopregel in de tekst. Geen bomenlijst of register ingezien. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 4:11",
+  "APV 4:12",
+  "APV 4:15",
+  "APV 4:18",
+  "APV 4:19",
+  "APV 6:1",
+  "Leges 2026 art. 2.30",
+  "Beleidsplan VTH 2024-2028 bijlage V",
+  "Omgevingsplan art. 22.299",
+  "Bal 11.111 lid 2 en 11.126"
+ ],
+ "opmerkingen": [
+  "D: puntschatting 3 op de lezing van lid 2 en 6 (verbod in de kom behalve genoemde soorten en naaldbomen), die past bij de praktijk: een geweigerde vergunning voor een lindeboom in Hall (gmb-2026-122801) en een besluit voor 32 bomen binnen de bebouwde kom (gmb-2026-93449). Omtrek van de 'boom' (15 cm doorsnee = 47 cm omtrek) is een lage drempel (D4); alle naaldbomen vrij in de kom en tuinen: correctie -1, dus D3.",
+  "D-bereik: lid 3 sluit 'houtopstanden wanneer het betreft de uitzonderingen, zoals genoemd in artikel 11.111, lid 2' van het Bal uit van het verbod. Dat lid 2 noemt onder meer 'houtopstanden binnen de in het omgevingsplan aangewezen bebouwingscontour houtkap' en 'houtopstanden op erven of in tuinen' (wetten.overheid.nl, BWBR0041330, versie 2026-07-01). Letterlijk gelezen laat lid 3 het verbod binnen de kom en op alle erven en tuinen vervallen en blijven alleen de gevallen van lid 6 (monumentale bomen, bijlage 2) over: D minimaal 1. Is lid 3 zo bedoeld, dan zou lid 2 overbodig zijn; daarom is de puntschatting de lezing waarin lid 2 de kom regelt.",
+  "Boom A (80 cm, geen fruitboom, conifeer, populier of wilg): vergunning ja, tenzij de soort op de lijst van lid 2 staat (bijv. berk, esdoorn, kers, lijsterbes, appel, peer). Boom B (40 cm = ca. 13 cm doorsnee) valt onder de 15 cm doorsnee van de definitie van 'boom': nee.",
+  "W: 'kan de vergunning weigeren dan wel onder voorschriften verlenen in het belang van onder meer: natuur- en milieuwaarden' (art. 4:15): belangenafweging, W2.",
+  "H: 'kan behoren het voorschrift ... herplant' maar 'In ieder geval wordt ... een herplantplicht opgelegd, indien het gemeentelijk beleid of een ... plan de te vellen houtopstand ... als waardevol omschrijft' (art. 4:18 lid 1): herplant met voorwaarde, H1, maximum 2. Bekendmakingen noemen vaak 'met herplantplicht'.",
+  "S1: WED-aanwijzing art. 6:1 lid 3 voor 4:12 lid 1; de legesverordening noemt de omgevingsplanactiviteit. Geen bestuurlijke boete voor kappen; dwangsomrichtlijn in het handhavingsbeleid is algemeen instrumentarium.",
+  "Twee legesverordeningen 2026 staan als geldend (CVDR752766_1 per 2026-01-01 en CVDR767967_1 per 2026-10-16) met dezelfde tekst van art. 2.30."
+ ],
+ "modelsignalen": [
+  "Brummen: een uitzonderingsverwijzing naar het Bal (art. 4:12 lid 3, Bal 11.111 lid 2) kan bij letterlijke lezing de kom en alle erven en tuinen uitsluiten. Het model heeft geen regel voor een APV die uitzonderingen op de eigen kapregel verwijst naar een rijksbesluit. De score rust nu op de lezing die bij de praktijk past, met bereik D 1-3."
+ ]
+}

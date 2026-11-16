@@ -1,0 +1,79 @@
+{
+  "gm_code": "GM0392",
+  "gemeente": "Haarlem",
+  "provincie": "Noord-Holland",
+  "brondocument": "Bomenverordening Haarlem 2021 (art. 1, 2, 3, 5, 8, 9, 12; CVDR670344_1), Lijst van Beschermwaardige Houtopstanden 2019 (CVDR632401_1), Verordening op de heffing en de invordering van leges Haarlem 2026 art. 2.17 (CVDR752883_3), Omgevingsplan gemeente Haarlem art. 9.14 (CVDR696299_7). De APV (CVDR281055_25) heeft afdeling 4.3 (art. 4:10 t/m 4:12) 'gereserveerd'.",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR670344/1 ; https://lokaleregelgeving.overheid.nl/CVDR632401/1 ; https://lokaleregelgeving.overheid.nl/CVDR752883/3",
+  "datum_geldigheid": "Bomenverordening CVDR670344_1 geldend van 2022-03-29 t/m heden; lijst CVDR632401_1 geldend van 2019-12-20 t/m heden; leges CVDR752883_3 geldend van 2026-07-14 t/m heden",
+  "laatste_wijziging": "Bomenverordening: enige versie (versie 1, in werking 2022-03-29), nooit gewijzigd. Lijst 2019: enige versie (2019-12-20). APV-afdeling 4.3 staat als 'gereserveerd'.",
+  "juridische_plaats": "Bomenverordening (losse verordening, geen eigen WED-aanwijzing). De regel werkt als omgevingsplanactiviteit: leges art. 2.17 spreekt van 'het vellen van een houtopstand, bedoeld in artikel 2 van de Bomenverordening Haarlem 2021 in samenhang met artikel 22.8 van de Omgevingswet'. Het omgevingsplan zelf bevat alleen aanvraagvereisten (art. 9.14) en een aanlegvergunning bij 'groeiplaats monumentale boom' (art. 3.47-3.48), geen eigen velverbod.",
+  "praktijkcontrole": "Sinds 2025: 295 besluiten en 328 aanvragen over kap op officielebekendmakingen.nl (titelzoekopdracht, 697 treffers), waarvan 68 geweigerd volgens de titel. Dat past bij een regime voor de hele gemeente. In de steekproef van 10 besluiten stond geen grondslagverwijzing (bijv. gmb-2026-507553).",
+  "vergunningplicht": "Vergunning (omgevingsvergunning van het college voor het vellen van een houtopstand); velverbod voor de hele gemeente",
+  "drempel": "Boom: 'een omtrek van de stam van minimaal 50 centimeter op 1,30 meter hoogte boven het maaiveld' (art. 1 onder c); houtopstand: 'met onder c genoemde minimale omtrek' (art. 1 onder m). Voor bomen op de lijst en op grond van herplantplicht aangelegde beplanting geldt het verbod 'ongeacht de omtrek' (art. 2 lid 2 en 5).",
+  "omtrek_cm": 50,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele grondgebied, particulier en openbaar. Art. 2 lid 1: 'Het is verboden zonder vergunning van het college een houtopstand te vellen of te doen vellen.' Er staat geen beperking tot de bebouwde kom in het artikel (de 'Bebouwde kom Wnb' wordt alleen gedefinieerd; volgens de toelichting is buiten de kom de provincie bevoegd bij grotere aantallen). Daarnaast een lijst van beschermwaardige houtopstanden (art. 3) en de 'hoofdbomenstructuur' (art. 2 lid 5), 'ongeacht de omtrek'.",
+  "uitzonderingen": "Art. 2 lid 3: 'Het in het eerste lid gestelde verbod geldt niet voor een particuliere houtopstand op percelen van minder dan 100m2, niet zichtbaar vanaf de openbare weg, tenzij de boom geplaatst is op de lijst als bedoeld in artikel 3.' Dit is een tuinuitzondering (perceelgrootte onder 100 m2 en niet zichtbaar vanaf de weg): correctie -1. Gangbare uitzonderingen (art. 2 lid 4): iepenziekte of aanschrijving, invasieve exoten van de Unielijst, hakhout, knotten/snoeien als regulier onderhoud, houtopstand die 'aantoonbaar op bedrijfseconomische wijze worden geëxploiteerd'. Geen uitzondering voor fruitbomen, coniferen, populieren of wilgen.",
+  "weigeringsgronden": "Art. 5 lid 2: 'Een vergunning voor het vellen van een houtopstand wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van duurzaam behoud van de houtopstand op basis van één of meer van de volgende waarden:' (a. natuur- en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads- en dorpsschoon; e. waarden voor recreatie en leefbaarheid). Art. 5 lid 3 (alleen veiligheid, maatschappelijk belang of overlast) geldt 'met uitzondering van particuliere houtopstanden'. Voor lijstbomen (strenger, niet voor D/W gebruikt): art. 5 lid 4 'kan slechts door het college worden verleend indien er sprake is van een ernstige bedreiging van de openbare veiligheid, noodtoestand of een zwaarwegend algemeen maatschappelijk belang'.",
+  "herplantplicht": "Art. 8 lid 1: 'Het college verbindt aan de vergunning het voorschrift dat binnen een door het college te bepalen termijn en overeenkomstig door het college te geven aanwijzingen wordt herplant, tenzij zwaarwegende argumenten zich daartegen verzetten.' Bij de aanvraag hoort een herplantplan (art. 4 lid 4). Art. 8 lid 4: 'Indien niet ter plaatse of op een andere locatie binnen het project kan worden herplant, verbindt het college aan de vergunning het voorschrift dat een geldelijke bijdrage ter hoogte van de monetaire boomwaarde van de gevelde houtopstand van tenminste € 4.600,- per boom gestort dient te worden in het gemeentelijk herplantfonds of een vergelijkbare gemeentelijke herplantregeling.' Dezelfde alinea: 'De vergoeding behorend bij de herplantplicht geldt niet voor percelen met een woonbestemming waarop reeds de woning wordt bewoond, maar wel voor gemeenschappelijke tuinen behorend bij wooncomplexen.'",
+  "herplant_ontsnapping": "Art. 8 lid 1: 'tenzij zwaarwegende argumenten zich daartegen verzetten' (college beslist per geval). Als herplant niet kan, volgt storting in het herplantfonds (art. 8 lid 4), maar niet voor bewoonde percelen met woonbestemming. Toelichting art. 8: herplant 'in de regel ... 1:1'; 'Blijkt een herplant op basis van deze matrix in alle redelijkheid niet in te passen, dan zal dat door de aanvrager goed onderbouwd en ter beoordeling aan de gemeente moeten worden voorgelegd.'",
+  "sancties": "Eigen strafbepaling in art. 12 lid 2: 'Hij die handelt in strijd met het bij of krachtens artikel 2, eerste, tweede en vijfde lid en/of artikel 9, eerste, tweede, derde en vierde lid, en of artikel 11, tweede lid bepaalde, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie, vermeerderd met de boomwaarde en de kosten van het herplanten van een vergelijkbare boom.' Ook WED via de Omgevingswet: leges art. 2.17 noemt het vellen een omgevingsplanactiviteit 'in samenhang met artikel 22.8 van de Omgevingswet' (WED art. 1a onder 2). Herplant na illegale kap: art. 9 lid 1 'kan' het college die verplichting opleggen. Geen bestuurlijke boete gevonden in de regeling; handhavingsbeleid niet gevonden.",
+  "procedure": "Omgevingsvergunning (de verordening bevat 'op deze gebieden dan ook geen eigen bepalingen', toelichting; reguliere procedure volgens de Omgevingswet/Awb). Leges 2026 art. 2.17: € 150,00 per boom. Aanvraag met motivering, situatieschets, foto en herplantplan (art. 4); bij bouw- of aanlegwerk ook een Bomen Effect Analyse. Vergunning vervalt na 18 maanden niet gebruikt (art. 7). Bekendmaking: kennisgevingen in het gemeenteblad. Bezwaar en beroep volgens de Awb (niet apart in de verordening geregeld).",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 12 lid 1: 'Degene aan wie een voorschrift als bedoeld in artikel 8 en of artikel 11, eerste lid, is gegeven alsmede diens rechtsopvolger, is gehouden dienovereenkomstig te handelen.' Art. 9 slot: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Strafbaar via art. 12 lid 2 ('hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie, vermeerderd met de boomwaarde en de kosten van het herplanten van een vergelijkbare boom'); art. 12 lid 2 noemt art. 9 en art. 2 maar art. 8 alleen via lid 1. Toelichting art. 9 noemt ook last onder bestuursdwang of dwangsom (Wabo 5:18) bij een herplantverplichting.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem; breed regime voor de hele gemeente. De lijst zelf is niet ingezien (bijlagen 1 en 2 van CVDR632401_1 hebben 'geen tekst'). Volgens de inleiding van de lijst (2019): 'ruim 250 bomen van andere zaakgerechtigden dan de gemeente' en 'bijna 2800' gemeentelijke bomen.",
+  "status": "ok",
+  "ontbrekend": "De lijst van beschermwaardige houtopstanden (bijlagen) en het opendatabestand zijn niet ingezien; niet nodig voor D (breder regime). Geen beleidsregel over handhaving of boete in het dossier gevonden; 'bomenbeleidsplan' en 'herplantmatrix' uit de toelichting staan niet in het dossier. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "Bomenverordening Haarlem 2021 art. 1 (onder c, m, t, u), 2, 3, 4, 5, 7, 8, 9, 12",
+    "Leges 2026 art. 2.17",
+    "Omgevingsplan art. 3.47, 3.48, 9.14",
+    "APV art. 4:10, 4:11, 4:12 (gereserveerd), 6:1"
+  ],
+  "opmerkingen": [
+    "D3: hele gemeente, drempel 50 cm omtrek (lager dan 60 cm: D4), min 1 voor de tuinuitzondering van art. 2 lid 3 (perceel onder 100 m2 en niet zichtbaar vanaf de openbare weg): 4 - 1 = 3. De uitzondering geldt alleen voor zeer kleine percelen; volgens het model telt ze toch als tuinuitzondering (besluit gebruiker, 14-11-2026).",
+    "W2: 'wordt geweigerd indien de belangen van verlening niet opwegen tegen de belangen van duurzaam behoud' met natuur-, landschaps-, cultuurhistorische en leefbaarheidswaarden (art. 5 lid 2): W = 2 zonder bereik. Voor lijstbomen (art. 5 lid 4) geldt een strengere toets; alleen vermeld.",
+    "H2, max 3: art. 8 lid 1 'wordt herplant, tenzij zwaarwegende argumenten zich daartegen verzetten'. De verplichte storting van art. 8 lid 4 (min. € 4.600 per boom, als herplant niet kan) geldt niet voor bewoonde woonpercelen, dus niet voor de meeste particuliere bomen; daarom punt 2 met maximum 3. Het bereik 55-60 loopt over de grens tussen Gemiddeld en Streng.",
+    "S1: eigen strafbepaling (art. 12 lid 2) en WED via omgevingsplanactiviteit (leges art. 2.17 met art. 22.8 Ow). Er is geen WED-aanwijzing in de verordening zelf. Geen bestuurlijke boete gevonden.",
+    "Peildatum 2026-11-14: de APV (versie 25, in werking 2026-11-04) heeft afdeling 4.3 'gereserveerd'; de Bomenverordening 2021 is dus de geldende regeling voor particuliere bomen. De Bomenverordening 2012 (CVDR58589_2) is ingetrokken door art. 15 lid 2 van de verordening van 2021.",
+    "Art. 9 lid 1: herplant na illegale kap 'kan' worden opgelegd (bevoegdheid). Compensatie bij bouw- of aanlegwerk (BEA, storting) telt niet voor H.",
+    "Boom B (omtrek 40 cm) valt onder de minimumomtrek van 50 cm: geen vergunning, tenzij de boom op de lijst staat. Boom A (80 cm) op perceel van ca. 300 m2: vergunning nodig.",
+    "Het Programma van Eisen Oostpoort (CVDR763952_3) is een gebiedsdocument en telt niet mee.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D3 → D4."
+  ],
+  "modelsignalen": [
+    "Een tuinuitzondering voor percelen onder 100 m2 die niet zichtbaar zijn vanaf de weg geeft in het model -1 op D, ook al raakt ze in de praktijk vrijwel geen woonpercelen. Het model onderscheidt niet naar de omvang van de uitgesloten groep.",
+    "Een verplichte storting (boomwaarde) die niet geldt voor bewoonde woonpercelen is H3 voor een deel van de bomen en H2 voor de meeste particuliere bomen; het model kent geen tussenstap."
+  ]
+}

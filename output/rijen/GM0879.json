@@ -1,0 +1,80 @@
+{
+  "gm_code": "GM0879",
+  "gemeente": "Zundert",
+  "provincie": "Noord-Brabant",
+  "brondocument": "Bomenverordening gemeente Zundert 2024 (CVDR718783_1) met Groene Kaart en toelichting (CVDR719621_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30 (CVDR749770_2); APV Zundert 2020 art. 6:1 (CVDR637941_7; art. 4:10 t/m 4:12 vervallen)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR718783/1 ; https://lokaleregelgeving.overheid.nl/CVDR719621/1 ; https://lokaleregelgeving.overheid.nl/CVDR749770/2 ; https://lokaleregelgeving.overheid.nl/CVDR637941/7",
+  "datum_geldigheid": "Bomenverordening CVDR718783_1 geldend van 2024-04-23 t/m heden; Groene Kaart + toelichting CVDR719621_1 geldend van 2024-05-09 t/m heden; Leges CVDR749770_2 geldend van 2026-02-01 t/m heden",
+  "laatste_wijziging": "Bomenverordening: ongewijzigd sinds 2024-04-23 (vervangt Bomenverordening 2012). APV: versie 7 per 2025-12-23; afdeling 4.3 (art. 4:10 t/m 4:12) staat op '[Vervallen]'.",
+  "juridische_plaats": "Losse bomenverordening; de velplicht werkt als omgevingsplanactiviteit (leges art. 2.30: 'vellen of doen vellen van houtopstand ... in samenhang met artikel 22.8 van de Omgevingswet'). De APV-artikelen over houtopstanden zijn vervallen. Het omgevingsplan (CVDR696431_3) bevat alleen aanvraagvereisten (art. 22.299): restant bruidsschat voor zover het om aanvraagvereisten gaat; de vergunningplicht staat in de bomenverordening.",
+  "praktijkcontrole": "Sinds 2025: 48 bekendmakingen over kap (17 besluiten, 31 aanvragen, 0 geweigerd volgens de titel). In de steekproef gaat het om kap van een boom (eik, mammoetboom, dode den) of enkele bomen op particuliere locaties, ook in het buitengebied (Wernhout, Rijsbergen, Klein Zundert). Dat past bij een regime voor houtopstanden buiten de kom en de Groene Kaart. Geen grondslagverwijzing in de besluiten.",
+  "vergunningplicht": "Omgevingsvergunning voor het kappen van: monumentale en waardevolle bomen (Groene Kaart), bomen in beschermwaardige structuren en bij monumenten, bomen in beschermwaardige gebieden (diameter 20 cm of meer, 1e of 2e grootte, minimaal 50% zichtbaar vanaf de openbare ruimte) en houtopstanden buiten de bebouwde kom met een diameter van 60 cm of meer",
+  "drempel": "Art. 3.2 lid 1 onder f: 'houtopstanden buiten de bebouwde kom met een stamdiameter van 60 cm of meer' (diameter; omgerekend 188,4 cm omtrek). Gebieden (onder e): diameter 20 cm of meer (62,8 cm omtrek). Waardevolle bomen, structuren en monumentale bomen: geen drempel.",
+  "omtrek_cm": 188.4,
+  "meethoogte": "niet genoemd bij art. 3.2 lid 1 onder f; de definitie van 'Boom' (art. 1) en de toelichting Groene Kaart 3.3 gebruiken 1,30 m. Omgerekend met 1,30 m: 60 cm x 3,14 = 188,4 cm.",
+  "reikwijdte": "Buiten de bebouwde kom alle houtopstanden van 60 cm diameter of meer, particulier en openbaar, zonder tuin- of erfuitzondering (toelichting 3.4: 'Buiten de bebouwde kom zijn bomen met een stamdiameter van 60 centimeter of meer, vergunningsplichtig.'). Binnen de kom alleen Groene Kaart (waardevolle bomen, structuren) en beschermwaardige gebieden; de toelichting zegt: 'De gemeente Zundert beschermt een deel van de gemeentelijke en particuliere bomen in de vorm van een waardevolle bomenlijst.' Beschermwaardig gebied is in art. 1 omschreven als 'een begrensd gebied van houtopstanden in de openbare ruimte'.",
+  "uitzonderingen": "Art. 3.2 lid 2: snoeien als onderhoud; periodiek knotten of kandelaberen; periodiek kappen van hakhout; dunnen; aanschrijving; individuele bomen in een beschermwaardige structuur die in mindere mate waardevol zijn (meldplicht); calamiteit (melding binnen 2 weken); plantziekten (Plantgezondheidswet); terreinbeherende organisaties met goedgekeurd onderhoudsplan. Gangbare uitzonderingen, geen correctie.",
+  "weigeringsgronden": "Art. 3.4 lid 1 (breed regime): 'kan worden geweigerd indien het belang tot verlening niet opweegt tegen het belang van behoud van de boom of de houtopstand op basis van een of meer van de volgende waarden:' natuur- en milieuwaarden, landschappelijke en ecologische waarden, cultuurhistorische waarden, waarden voor stads- en dorpsschoon, leefbaarheid, beeldbepalende en monumentale waarden. Lid 2 (monumentale en waardevolle bomen): 'slechts worden verleend' bij gevaar, zwaarwegend maatschappelijk belang, ernstige schade aan bouwwerken of als de boom niet meer voldoet aan de criteria.",
+  "herplantplicht": "Art. 3.5 lid 2: 'Het bevoegd gezag zal in alle gevallen waarin een omgevingsvergunning wordt verleend een herplantplicht en instandhoudingsplicht opleggen'. Lid 3: de trapsgewijze herplantplicht uit de Toelichting Groene Kaart moet in acht worden genomen. Toelichting 3.5: eerst dezelfde locatie, dan een andere locatie, en 'Als dit niet mogelijk is, dient een vergoeding te worden gestort in het gemeentelijk herplantfonds van € 1.500,- per boom.' Geldt ook voor 'bomen buiten de bebouwde kom, die niet op de Groene Kaart staan en een stamdiameter van 60 centimeter of meer hebben'.",
+  "herplant_ontsnapping": "Toelichting 3.5: 'Als herplant op dezelfde locatie niet mogelijk of beargumenteerd onwenselijk is, wordt gezocht naar een andere locatie' en daarna 'dient een vergoeding te worden gestort in het gemeentelijk herplantfonds van € 1.500,- per boom.' Betalen is dus een verplichte uitweg als herplant niet kan. Gemeente beslist per vergunning.",
+  "sancties": "Eigen strafbepaling: art. 4.8 lid 1: 'Degene, die handelt in strijd met artikel 3.2 eerste lid, ... wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.' en 'Bij de strafmaatbepaling kan rekening gehouden worden met de boomwaarde.' Daarnaast werkt de velplicht als omgevingsplanactiviteit (leges art. 2.30), dus ook WED via Ow 5.1. Herplant na illegale kap: art. 4.7 ('kan') en toelichting 3.6 (vaste plicht). Geen bestuurlijke boete in de regeling.",
+  "procedure": "Omgevingsvergunning. Leges 2026 art. 2.30: € 48,00 per in de aanvraag opgenomen houtopstand. Beslistermijn: art. 4.3 lid 2 sluit de positieve fictieve beschikking uit (paragraaf 4.1.3.3 Awb niet van toepassing); termijn volgens de Omgevingswet. Bekendmaking via kennisgevingen in het gemeenteblad. Bezwaar en beroep volgens Awb (niet apart gelezen). Tegen opname op de Groene Kaart kan geen bezwaar worden gemaakt (toelichting 1.2).",
+  "herplant_type": "harde plicht",
+  "herplant_betalen_als_alternatief": "verplicht",
+  "herplant_na_illegale_kap": "verplicht",
+  "herplant_niet_nakomen": "De bomenverordening bepaalt in art. 4.7 lid 3: 'Degene aan wie de verplichting als bedoeld in het eerste en tweede lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' De strafbepaling art. 4.8 noemt art. 4.7 niet. Toelichting 3.5: 'Indien de boom niet meer aanwezig is, wordt een vergoeding van € 1.500,- betaald door de kappende partij en dient opnieuw te worden voldaan aan de herplantplicht.' Verder het algemene instrumentarium van de Awb.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien: de Groene Kaart is een kaart (externe bijlage exb-2024-18697 bij CVDR718783_1, PDF zonder leesbare tekst, geen aantallen). Dat er particuliere bomen op staan blijkt uit de toelichting (CVDR719621_1, 1 en 2.1); aantal onbekend. Gecombineerd systeem: het regime voor houtopstanden buiten de bebouwde kom bepaalt D.",
+  "status": "ok",
+  "ontbrekend": "Groene Kaart (kaart en register) niet gelezen: aantal waardevolle bomen en particuliere bomen onbekend. Niet nodig voor D, omdat het regime buiten de bebouwde kom het breedste regime is. Bezwaar en beroep niet apart gelezen.",
+  "artikelnummers": [
+    "Bomenverordening 2024 art. 1, 2, 3.1, 3.2, 3.3, 3.4, 3.5, 4.3, 4.7, 4.8, 4.10, 4.11",
+    "Toelichting Groene Kaart (CVDR719621_1) 1 t/m 4",
+    "Leges 2026 art. 2.30",
+    "APV 2020 art. 4:10 t/m 4:12 (vervallen), 6:1",
+    "Omgevingsplan art. 22.299 (alleen aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "D2: gecombineerd systeem; het breedste regime is art. 3.2 lid 1 onder f: houtopstanden buiten de bebouwde kom met een stamdiameter van 60 cm of meer (188,4 cm omtrek, hoge drempel > 100 cm). Die regel dekt buiten de kom ook tuinen en erven (geen uitzondering), dus D2 op de drempel, zonder correctie. Binnen de kom: Groene Kaart (lijst) en beschermwaardige gebieden (diameter 20 cm = 62,8 cm omtrek, 1e of 2e grootte, minimaal 50% zichtbaar; gebieden zijn omschreven als houtopstanden in de openbare ruimte). Voorbeeldbomen A en B (achtertuin binnen de kom) vallen daarbuiten tenzij ze op de kaart staan.",
+    "Artikel tegenover toelichting/definitie: de definitie van 'Boom' noemt een omtrek van minimaal 32 cm, maar art. 3.2 lid 1 onder f gebruikt het begrip 'houtopstanden' met 'stamdiameter van 60 cm of meer'. D is gescoord op het verbod (art. 3.2), niet op de definitie van 'Boom'.",
+    "W2: art. 3.4 lid 1 (breed regime): 'kan worden geweigerd indien het belang tot verlening niet opweegt tegen het belang van behoud van de boom of de houtopstand'. Dat is W2 zonder bereik. Voor monumentale en waardevolle bomen geldt art. 3.4 lid 2 ('slechts worden verleend', gesloten gronden): W3, alleen in de opmerkingen vermeld omdat het regime buiten de kom het grootste deel van de gedekte bomen betreft.",
+    "H3: de verordening zegt 'zal in alle gevallen ... een herplantplicht en instandhoudingsplicht opleggen' (art. 3.5 lid 2: H2) en de trapsgewijze herplantplicht uit de toelichting (art. 3.5 lid 3 verwijst ernaar) maakt storten van € 1.500,- per boom verplicht als herplant niet mogelijk is: H3.",
+    "S1: eigen strafbepaling art. 4.8 (rechter) en WED via Ow 5.1 (leges 2.30). Herplantplicht na illegale kap: art. 4.7 lid 1 zegt 'kan', maar de vastgestelde toelichting 3.6 zegt: 'Wanneer er sprake is van illegale kap, moet op dezelfde plek een boom worden terug geplant. Hier zijn geen uitzonderingen op van toepassing.' Beide zijn genoemd; herplant_na_illegale_kap staat op verplicht. Het verhaal van de boomwaarde op de illegale kapper (toelichting 3.6) is geen bestuurlijke boete in de regeling.",
+    "Leges art. 2.30 verwijst naar 'artikel 2 Bomenverordening 2012' (ingetrokken; de Bomenverordening 2024 art. 11 slotbepalingen trekt die in). Foute verwijzing; het bewijst nog steeds dat de velplicht als omgevingsplanactiviteit werkt (S1).",
+    "APV 2020 art. 6:1 lid 2 (WED) verwijst niet naar de bomenverordening; art. 4:10 t/m 4:12 APV zijn vervallen.",
+    "Bomenverordening art. 3.2 lid 1 onder d: bomen bij gemeentelijke en rijksmonumenten vallen onder de regeling (klein deel, geen invloed op D). De Monumentenverordening Zundert 2010 (CVDR91063_1) bevat geen kapregel voor bomen die hier meetelt."
+  ],
+  "modelsignalen": [
+    "Gecombineerd systeem waarbij het breedste regime alleen buiten de bebouwde kom geldt (60 cm diameter) en binnen de kom alleen een lijst en gebieden: D2 volgt uit het besluit van 14-11-2026 na Overijssel, terwijl de voorbeeldbomen A en B in de kom 'alleen als op lijst' krijgen. Het rapport laat A en B als feit voorgaan.",
+    "Toelichting als beleidsregel bij een verordening die er zelf naar verwijst (art. 3.5 lid 3, art. 4.7 lid 1): INTENT.md zegt niet uitdrukkelijk dat een toelichting met verplichtende taal ('dient', 'moet') telt als vastgestelde beleidsregel. Hier wel zo behandeld, omdat de verordening zelf naar de toelichting verwijst en CVDR719621_1 als geldend staat.",
+    "Verplichting na niet nakomen: het model-formulier kent geen type voor een verplichte vergoeding van € 1.500,- per boom in beleid zonder strafbepaling; niets geregeld gekozen."
+  ]
+}

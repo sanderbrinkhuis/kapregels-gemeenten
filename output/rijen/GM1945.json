@@ -1,0 +1,76 @@
+{
+ "gm_code": "GM1945",
+ "gemeente": "Berg en Dal",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening (APV) van de gemeente Berg en Dal 2025 (CVDR736129_1) art. 4:10, 4:12, 4:12c, 4:12d, 6:1, 1:8; Lijst bijzondere houtopstanden en bomenkaart (CVDR602117_1); Leges 2026 (CVDR754035_1) art. 2.30; Omgevingsplan (CVDR696528_2) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR736129/1 ; https://lokaleregelgeving.overheid.nl/CVDR602117/1",
+ "datum_geldigheid": "APV CVDR736129_1 geldend vanaf 2025-03-01 t/m heden; lijst en kaart CVDR602117_1 geldend vanaf 2017-05-23 (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV 2025: versie 1 per 2025-03-01 (nieuwe vaststelling). Lijst en bomenkaart: collegebesluit van 13 februari 2017, in werking 2017-05-23, terugwerkend tot 2017-01-01.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR754035_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet' (verwijst naar het vervallen art. 4:11 in plaats van 4:12). Het omgevingsplan (art. 22.299) bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 124 bekendmakingen op titel, waarvan 4 als besluit geteld (alle ingetrokken aanvragen) en 0 weigeringen. De titels tonen veel aanvragen voor kap van een boom, ook 'in de achtertuin'. Dat past niet vanzelfsprekend bij een lijstsysteem, maar de bekendmakingen noemen geen grondslag en kunnen ook gemeentegrond betreffen; niet vast te stellen. Het aantal bekendmakingen zegt weinig, want de zoekmethode mist besluiten.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de bomenkaart staan (bomenlijst, groene zone en boomstructuren), art. 4:12 lid 1.",
+ "drempel": "Bomenlijst en boomstructuren: geen drempel. Groene zone: verbod voor houtopstand met een diameter van 30 cm of meer, gemeten op 1,30 m (omgerekend omtrek ca. 94 cm); daaronder uitgezonderd.",
+ "omtrek_cm": 94,
+ "meethoogte": "1,30 m (alleen voor de groene zone)",
+ "reikwijdte": "Art. 4:12 lid 1: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de bomenkaart.' Art. 4:10 lid 1 onder d: 'bomenkaart: overkoepelende kaart waarop de houtopstanden van de bomenlijst, de groene zone en de boomstructuren staan waarvoor een vergunning benodigd is om te mogen vellen.' Onder f: 'groene zone: gebied waar kapverbod geldt (verbod houtopstanden te vellen).' Geen regel voor alle bomen binnen de bebouwde kom. De bomenkaart (gisnet) is niet ingezien; de omvang van de groene zone en de boomstructuren, en of tuinen erin liggen, is onbekend.",
+ "uitzonderingen": "Art. 4:12 lid 1: groene zone vrijgesteld 'voor zover de houtopstand een diameter van minder dan 30 centimeter heeft, gemeten op één meter en dertig centimeter boven het maaiveld'. Lid 5: Plantenziektenwet of aanschrijving, periodiek vellen van hakhout, scheren/knotten/kandelaberen, snoeien bij achterstallig onderhoud, dode bomen. Lid 6: acuut gevaar (direct in werking). Geen tuinuitzondering in de tekst.",
+ "weigeringsgronden": "Art. 4:12 lid 2: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- en dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand; of f. de waarde van de houtopstand voor de leefbaarheid.' (limitatieve belangenafweging, W2). Lid 3: 'Het college stelt nadere regels vast voor het verlenen van een vergunning om een bijzondere houtopstand die staat op de bomenlijst te vellen.' Die nadere regels zijn niet gevonden.",
+ "herplantplicht": "Art. 4:12 lid 4: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 4:12c lid 1 onder a: 'Het college kan aan de omgevingsvergunning de volgende voorschriften verbinden: a. het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het college te geven aanwijzingen moet worden herplant'. Art. 4:12d lid 1: na kap zonder vergunning 'kan het college ... de verplichting opleggen te herbeplanten'. Geen herplantbeleidsregel gevonden.",
+ "herplant_ontsnapping": "Bevoegdheid ('kan'); het college beslist per geval. Geen betaling als alternatief.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "nee",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:12c lid 2: 'Degene aan wie de verplichting als bedoeld in het eerste lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 4:12d lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Via APV art. 6:1 lid 1 strafbaar: 'Overtreding van het bij of krachtens deze verordening bepaalde en de op grond van artikel 1:4 daarbij gegeven voorschriften en beperkingen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.'",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "Eigen strafbepaling: art. 6:1 lid 1 (hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie). Art. 6:1 lid 2: 'Het bepaalde in het eerste lid is niet van toepassing voor zover de Wet economische delicten van toepassing is via de Wet algemene bepalingen omgevingsrecht.' Kap werkt als omgevingsplanactiviteit (leges art. 2.30, 'in samenhang met artikel 22.8 van de Omgevingswet'): WED via Ow 5.1. Geen bestuurlijke boete. Herplantplicht na illegale kap: art. 4:12d lid 1 ('kan').",
+ "procedure": "Omgevingsvergunning; beslistermijn art. 1:2 APV; geldigheidsduur drie jaar (art. 4:12a); vergunning van rechtswege: art. 4:12b '[gereserveerd]'; leges art. 2.30: tarief 21,20 euro; bekendmaking als omgevingsvergunning kappen. Bezwaar en beroep volgens Awb, niet apart nagegaan.",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 2
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "Bomenlijst en bomenkaart niet ingezien: het besluit CVDR602117_1 noemt als viewer http://mapguide2.gisnet.nl/sites/mug/demo.php, die gaf bij ophalen 404. Geen aantallen bekend. De Subsidieverordening Bijzondere Houtopstanden Groesbeek 2014 (CVDR322976_1, art. 3 lid 2) geeft subsidie 'aan de eigenaar van de grond waarop zich de houtopstand bevindt' voor bomen op de lijst 'Bijzondere houtopstanden Groesbeek 2013-2020'; dat wijst op eigenaren van de grond maar noemt niet of die particulier zijn.",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst en bomenkaart (groene zone en boomstructuren) niet ingezien: onbekend hoeveel particuliere bomen erop staan, hoe groot de groene zone is en of tuinen erin liggen. Nadere regels voor het vellen van bomen van de bomenlijst (art. 4:12 lid 3) niet gevonden.",
+ "artikelnummers": [
+  "APV 2025 art. 4:10",
+  "APV 2025 art. 4:12 lid 1-6",
+  "APV 2025 art. 4:12c, 4:12d",
+  "APV 2025 art. 6:1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "W2: 'kan de vergunning worden geweigerd op grond van' natuur-, landschaps-, beeld-, cultuurhistorische en leefbaarheidswaarden (art. 4:12 lid 2). H1: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 4:12 lid 4).",
+  "D: gecombineerd systeem: bomenlijst (individueel, D1) plus groene zone en boomstructuren (aangewezen gebieden en structuren, D2, met diameterdrempel 30 cm = omtrek ca. 94 cm in de groene zone). Omdat de kaart niet is ingezien en niet vaststaat of de groene zone een substantieel deel van de gemeente beslaat, is de puntschatting D1 met bereik 0-2.",
+  "Leges art. 2.30 verwijst naar 'artikel 4:11' van de APV, dat is vervallen; het kapartikel is art. 4:12. Foute verwijzing, S blijft 1.",
+  "Nadere regels bij de bomenlijst (art. 4:12 lid 3) niet gevonden; als die 'slechts bij uitzondering' bepalen, kan W3 zijn."
+ ],
+ "modelsignalen": [
+  "Gecombineerd systeem van lijst, groene zone en boomstructuren zonder zicht op de kaart: het model laat alleen D1 (lijst) met een groot bereik 0-2 toe, de betrouwbaarheid wordt laag en de strengheid (17, bereik 0-33) loopt over een categoriegrens.",
+  "APV verwijst voor de nadere regels van de bomenlijst naar een beleidsregel (art. 4:12 lid 3) die niet in CVDR te vinden is; het model heeft geen manier om dat als 'ontbrekende kernbron' in W te verwerken behalve via het bereik."
+ ]
+}

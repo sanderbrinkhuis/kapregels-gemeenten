@@ -1,0 +1,87 @@
+{
+  "gm_code": "GM1942",
+  "gemeente": "Gooise Meren",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening fysieke leefomgeving Gooise Meren (CVDR753488_1) afd. 3.6; Beleidsregels bewaren van houtopstanden (CVDR749240_1); Uitvoering & Handhaving Strategie Omgevingstaken bijlage 8 (CVDR758893_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR753488/1",
+  "datum_geldigheid": "VFL: geldend vanaf 2026-01-01 t/m heden; beleidsregels: vanaf 2026-01-01",
+  "laatste_wijziging": "2026-01-01 (VFL en beleidsregels zijn per die datum opnieuw vastgesteld; APV-afdeling 4.2 Het bewaren van houtopstanden is per 2026-01-01 vervallen)",
+  "juridische_plaats": "VFL; werkt als omgevingsplanactiviteit volgens de legesverordening 2026 (tarief 2.30: 'in samenhang met artikel 22.8 van de Omgevingswet'). APV-artikelen 4:10 t/m 4:12e zijn vervallen.",
+  "praktijkcontrole": "Slechts 2 bekendmakingen sinds 2025 gevonden (1 beleidsregel gmb-2025-535628, 1 omgevingsvergunning voor het kappen van een zomereik gmb-2025-236655); 0 weigeringen. Te weinig om iets af te leiden. De U&H-strategie verwacht ca. 60 kapvergunningen per jaar, dus de bekendmakingen zijn waarschijnlijk niet volledig. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 1207 bekendmakingen sinds 1-1-2025, waarvan 1101 besluiten en 62 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "vergunning (omgevingsvergunning vellen houtopstand), alleen voor waardevolle bomen, bomen op het Landelijk register monumentale bomen, waardevolle gebieden, bomenhoofdstructuur en herplant jonger dan 10 jaar",
+  "drempel": "Houtopstand: 'diameter van 25 cm of meer gemeten op 1,30 meter boven het maaiveld, c.q. stamomtrek van minimaal 78,5 cm' (VFL afd. 3.6 definities); voor waardevolle bomen en herplant kan de diameter kleiner zijn",
+  "omtrek_cm": 78.5,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Niet de hele bebouwde kom. Art. 3.68 lid 1: 'Houtopstanden opgenomen op de Waardevolle bomenlijst gemeente Gooise Meren', 'Houtopstanden opgenomen op het Landelijk register monumentale bomen', 'Houtopstanden gelegen binnen een Waardevol gebied aangeduid op de kaart Waardevolle gebieden Gooise Meren', 'Houtopstanden gelegen in de bomenhoofdstructuur van de gemeente Gooise Meren' en jonge herplant. Beleidsregels bijlage 2: acht waardevolle gebieden in Bussum, de Vesting en het buitengebied van Naarden, Muiden (vesting en bos) en Muiderberg. Buiten de bebouwingscontour geldt de meldplicht van de provincie.",
+  "uitzonderingen": "Dunnen en knotten vallen buiten de afdeling (art. 3.67 lid 2). Noodkap bij acuut gevaar met toestemming (art. 3.69). Coniferen vallen wel onder houtopstand. Geen tuin- of soortuitzondering.",
+  "weigeringsgronden": "Art. 3.68 lid 2: 'wordt geweigerd indien het belang van verlening niet opweegt tegen één of meer van de volgende belangen' (natuur, landschap, stads- en dorpsschoon, beeldbepalend, cultuurhistorie, leefbaarheid); lid 3: vergunning 'alleen verleend worden indien' er 'aantoonbare zwaarwegende omstandigheden' zijn of de conditie het vellen rechtvaardigt. Beleidsregels art. 3: 'wordt alleen bij zwaarwegende argumenten verleend' en 'Uitgangspunt in alle gevallen is het behoud van de houtopstand'.",
+  "herplantplicht": "VFL 3.73 lid 1: 'Aan de vergunning kan het voorschrift worden verbonden dat her- of verplant moet plaatsvinden.' Beleidsregels 4.1: 'Herplant wordt opgelegd als één van de volgende criteria van toepassing is' (o.a. 'De houtopstand is als individueel waardevolle boom aangewezen'). Geen herplant o.a. als de boom 'te groot is voor de tuin'. Bomenfonds (boomwaarde): VFL 3.73 lid 3 'kan als voorschrift worden opgenomen'; beleidsregels 4.1 'kan een storting in het bomenfonds verlangd worden'.",
+  "herplant_ontsnapping": "Herplant 'wordt niet opgelegd als' o.a. 'Voldoende groen (houtopstanden) aanwezig is in de tuin'; per geval door het college; bij niet kunnen herplanten 'kan' een storting in het Bomenfonds worden verlangd.",
+  "herplant_type": "in beginsel/tenzij",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "VFL 3.75 lid 1: 'kan het college bij een last onder bestuursdwang of onder dwangsom de verplichting opleggen ... om te herplanten'; beleidsregels 4.2.3: 'Indien deze herplant niet wordt uitgevoerd dan wordt dat gezien als illegale kap en kan nogmaals een herplant worden opgelegd gecombineerd met een storting in het bomenfonds.' Leidraad dwangsommen: 'Niet herplanten na kappen' dwangsom naar boomwaarde.",
+  "herplant_niet_nakomen_type": "dwangsom/bestuursdwang",
+  "sancties": "WED via Omgevingswet 5.1 (legesverordening noemt het vellen een omgevingsplanactiviteit in samenhang met art. 22.8 Ow). VFL 5.2 lid 1: 'hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie', lid 2: 'niet van toepassing als in het onderwerp is voorzien door de Wet op de economische delicten'. Bestuurlijke boete alleen in handhavingsbeleid (Beleidsregels bestuurlijke boete Omgevingswet 2026, bijlage 8 CVDR758893_1, art. 4.1 sub c, o.a. € 750 voor kap volwassen boom, € 5.000 waardevolle boom; grondslag Ow 18.12). Herplant na illegale kap kan worden opgelegd (VFL 3.75).",
+  "procedure": "Leges 2026 (CVDR752711_1) tarief 2.30: € 75,55 per boom (maximum € 755,55 bij 10); achteraf ingediende aanvraag € 345,85 per boom. Beslistermijn acht weken (VFL 3.6 lid 1, niet van toepassing op omgevingsvergunning). Uitgestelde inwerkingtreding 4 weken (3.68 lid 4). Bezwaar en beroep volgens Awb.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "D": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "W": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "H": {
+    "punt": 2,
+    "min": 1,
+    "max": 2
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien; gemeentewebsite niet bereikbaar via curl (404 op drie geprobeerde adressen)",
+  "status": "ok",
+  "ontbrekend": "Lijst Waardevolle bomen, kaart Waardevolle gebieden, kaart bomenhoofdstructuur en bijlage 1 bebouwingscontour staan niet in het dossier (bijlagen zijn kaarten). Daardoor is niet vastgesteld hoeveel particuliere bomen en welk deel van de bebouwde kom onder de gebieden valt. Slechts 2 bekendmakingen gevonden, dus praktijkcontrole beperkt. Omgevingsplan in het DSO niet ingezien.",
+  "artikelnummers": [
+    "VFL 3.67",
+    "VFL 3.68",
+    "VFL 3.69",
+    "VFL 3.73",
+    "VFL 3.74",
+    "VFL 3.75",
+    "VFL 5.2",
+    "VFL afd. 3.6 definities",
+    "Beleidsregels bewaren van houtopstanden art. 2.4, 3, 4.1, 4.1.1, 4.2.3, bijlage 2",
+    "Leges 2026 tarief 2.30",
+    "U&H-strategie bijlage 7 en 8",
+    "Omgevingsplan 22.299 (alleen aanvraagvereisten)"
+  ],
+  "opmerkingen": [
+    "Peildatum 2026-11-14. D=2: aangewezen gebieden (acht waardevolle gebieden in Bussum plus Naarden, Muiden en Muiderberg) en lijst; minimum 1 omdat de kaart niet is ingezien. De gebiedsregel geldt voor houtopstanden vanaf diameter 25 cm (omtrek 78,5 cm).",
+    "W=3: 'wordt geweigerd indien het belang van verlening niet opweegt' is W2, maar art. 3.68 lid 3 'alleen verleend worden indien' 'aantoonbare zwaarwegende omstandigheden' en de beleidsregel 'wordt alleen bij zwaarwegende argumenten verleend' maken het weigeren-tenzij; minimum 2.",
+    "H=2 via beleidsregels 4.1 ('Herplant wordt opgelegd als ...'); VFL zelf zegt 'kan' (H1). Storting Bomenfonds alleen 'kan', dus geen H3.",
+    "S=1: WED via Ow 5.1 volgens legesverordening. De bestuurlijke boete staat alleen in handhavingsbeleid (Ow 18.12), niet in de regeling, dus geen S2. VFL 5.2 en APV 6:1 verwijzen niet goed naar elkaar: APV 6:1 lid 1 noemt nog 4:11 t/m 4:12e (vervallen artikelen).",
+    "Fout in leges tarief 2.30: verwijst naar 'artikel 3.69 van de Verordening fysieke leefomgeving' voor het vellen; het vellen staat in art. 3.68. Ook beleidsregels verwijzen naar 3:69 lid 2, 3:72 en 3.76 die elders staan of vervallen zijn.",
+    "Voorbeeldbomen: A (omtrek 80 cm) is alleen vergunningplichtig als de boom op de lijst staat of in een waardevol gebied; B (40 cm) alleen als op lijst. Niet vastgesteld voor een concrete tuin.",
+    "Kleine gebiedsregels niet apart: aanlegvergunning in beschermde dorpsgezichten Het Spiegel en Brediuskwartier (bestemmingsplan, beleidsregels 2.1) ook voor opgaande begroeiing hoger dan 2 m, valt onder de gebieden.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een vergunning die alleen op een gesloten lijst van gronden kan worden verleend (bijv. gevaar, onevenredige gevolgen van weigering, zwaarwegend belang) is weigeren-tenzij: W3 zonder bereik: W3 (2-3) → W3 zonder bereik."
+  ],
+  "modelsignalen": [
+    "Gebieden-plus-lijststelsel zonder ingezien kaart: D hangt af van het aandeel van de bebouwde kom dat onder waardevol gebied valt; model heeft geen schaal voor 'substantieel deel'.",
+    "Beleidsregel maakt van een 'kan'-bepaling in de VFL een 'wordt opgelegd, mits criteria'; of dat H2 is blijft interpretatie.",
+    "Bestuurlijke boete met tarieventabel in handhavingsbeleid op grond van Ow 18.12: telt als S1, hoewel de gemeente direct kan beboeten."
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0277/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Rozendaal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0277/2020/omgevingsplan/nld@2026-07-02;1",
+    "beginGeldigheid": "2026-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0277_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:58Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0277/2026/omgevingsvisie",
+    "titel": "Omgevingsvisie Rozendaal 2050",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0277/2026/omgevingsvisie/nld@2026-07-02;1",
+    "beginGeldigheid": "2026-07-02",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0277_2026_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:12:58Z"
+  }
+]

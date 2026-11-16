@@ -1,0 +1,64 @@
+{
+  "gm_code": "GM0715",
+  "gemeente": "Terneuzen",
+  "provincie": "Zeeland",
+  "brondocument": "Verordening fysieke leefomgeving Terneuzen (VFL), versie 2 (CVDR730965_2), afd. 2.4 en § 3.7.2; APV Terneuzen 2024 afd. 4.3 vervallen (CVDR708259_4); Bomenbeleidsplan 'Ruimte voor Kwaliteit' (CVDR451565_1); Legesverordening 2026 (CVDR748989_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR730965/2",
+  "datum_geldigheid": "2026-01-01",
+  "laatste_wijziging": "2026-01-01 (wijzigingsbesluit 16-12-2025)",
+  "juridische_plaats": "VFL, werkt als omgevingsplanactiviteit volgens leges art. 2.30 en omgevingsplan art. 22.299; APV-afdeling 4.3 'Vervallen, naar Verordening Fysieke Leefomgeving'",
+  "praktijkcontrole": "1 bekendmaking sinds 2025 (gmb-2025-340308, kap bomen op de dijk langs de Marijkestraat, Sas van Gent), 0 weigeringen, geen grondslag vermeld. Past bij een lijstsysteem met weinig vergunningaanvragen. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 30 bekendmakingen sinds 1-1-2025, waarvan 8 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "omgevingsvergunning, alleen voor bomen op de waardevolle bomenlijst en bomen waarvoor een herplant- en/of instandhoudingsplicht is opgelegd",
+  "drempel": "geen drempel in de verbodsbepaling; alleen lijstbomen. Criterium voor plaatsing op de lijst (Bomenbeleidsplan 8.3): 'de omtrek op 1.30 m hoogte bedraagt 150 cm of meer'",
+  "omtrek_cm": null,
+  "meethoogte": "n.v.t. (lijstcriterium: 1,30 m)",
+  "reikwijdte": "hele gemeente, alleen individueel aangewezen bomen (waardevolle bomenlijst, art. 2.10 VFL) en bomen met opgelegde herplant-/instandhoudingsplicht; particulier en openbaar. Lijst ingezien (concept Waardevolle bomenlijst 2021, gelinkt als 'lijst beschermde bomen' op terneuzen.nl): ca. 1.000 regels, waarvan ca. 870 met een huisadres. Bomenbeleidsplan 8.2: bomen in particuliere tuinen 'zijn ze opgenomen in de waardevolle bomenlijst'. Website noemt daarnaast vergunningplicht voor 'bomen op een beschermde dijk of in archeologisch waardevol gebied (zie bestemmingsplan)'; die regels niet gelezen.",
+  "uitzonderingen": "spoed/gevaar met toestemming burgemeester (3.139 lid 3); Plantgezondheidswet of bestuurlijke sanctie; scheren, knotten, kandelaberen van vorm- en knotbomen; dunning en velling dode bomen in eigendom van de gemeente (3.139 lid 4)",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "art. 3.139 lid 2: 'kan de vergunning worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde ...; c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ...; e. de cultuurhistorische waarde ..., of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "bevoegdheid: art. 3.139 lid 5 'Het college kan een herplantplicht alsmede een instandhoudingsplicht opleggen onder nader te stellen voorschriften.' Geen beleidsregel gevonden die herplant verplicht maakt (Groenstructuurplan: 'Bij kap kan de gemeente een herplantplicht opleggen').",
+  "herplant_ontsnapping": "'kan' (bevoegdheid van het college, per geval); geen regeling voor herplant na illegale kap; geen betaling als alternatief",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Geen specifieke bepaling. Art. 3.7 lid 3 ('is verplicht de daaraan verbonden voorschriften en beperkingen na te komen') geldt niet: lid 4 'Dit artikel is niet van toepassing op een omgevingsvergunning.' Wel is een boom met opgelegde herplant-/instandhoudingsplicht zelf vergunningplichtig (art. 3.138 onder b en 3.139 lid 1), en kap ervan is een economisch delict (art. 7.3 lid 2).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "WED-aanwijzing in regeling: art. 7.3 lid 2 'overtreding van het bij of krachtens het bepaalde in de artikelen ... 3.139, eerste lid een strafbaar feit als bedoeld in artikel 1a, van de Wet op de economische delicten'; daarnaast WED via Ow 5.1 (omgevingsplanactiviteit volgens leges). Geen bestuurlijke boete voor kap.",
+  "procedure": "omgevingsvergunning; leges € 123,00 (Legesverordening 2026, tarieventabel art. 2.30); aanvraagvereisten omgevingsplan art. 22.299 en VFL art. 3.4 (evt. boomeffectanalyse); beslistermijn VFL 3.6 niet van toepassing op omgevingsvergunning (Ow-procedure)",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "Definitieve (niet-concept) versie van de waardevolle bomenlijst niet gevonden; de gemeente linkt naar 'Concept Waardevolle bomenlijst 2021' (raadsinformatie). Eigendom per lijstboom staat niet in de lijst. Bestemmingsplanregels (tijdelijk deel omgevingsplan) voor bomen op beschermde dijken en in archeologisch waardevol gebied niet gelezen; daarom D max 2.",
+  "artikelnummers": "VFL art. 2.10, 3.4, 3.7, 3.137, 3.138, 3.139, 7.2, 7.3; bijlage I (definitie vellen); APV 2024 art. 4:10-4:12 (vervallen); Bomenbeleidsplan hfst. 8 en bijlage 4; Legesverordening 2026 tarieventabel art. 2.30; omgevingsplan art. 22.299",
+  "opmerkingen": "Alleen lijstbomen beschermd; Bomenbeleidsplan 8.2: 'Met het afschaffen van de vergunningplicht voor particuliere bomen die niet voorkomen op de waardevolle bomenlijst is in 2005 een grote slag gemaakt'. Lijst ingezien: https://terneuzen.raadsinformatie.nl/document/10522040/1/2021-09-22+Bijlage+2+Concept+Waardevolle+bomenlijst+2021 (gelinkt vanaf https://www.terneuzen.nl/direct-regelen/wonen-verhuizen-en-bouwen/boom-kappen/); veel lijstbomen staan op huisadressen (bijv. '[adres]' Axel, rode beuk). W: 'kan de vergunning worden geweigerd op grond van' (3.139 lid 2). H: 'Het college kan een herplantplicht ... opleggen' (3.139 lid 5). Vellen omvat ook 'snoeien van meer dan 20% van de kroon of het wortelgestel' (bijlage I). De website noemt een vergunningplicht voor bomen op beschermde dijken en in archeologisch waardevol gebied via het bestemmingsplan; dat regime is niet gelezen en kan D naar 2 brengen als het een substantiële structuur beslaat. VFL-metadata zegt 'Omgevingswet-regeling: nee', maar leges art. 2.30 behandelt de kap als omgevingsplanactiviteit (art. 22.8 Ow); S blijft 1 via de eigen WED-aanwijzing.",
+  "modelsignalen": [
+    "Regels voor bomen op beschermde dijken en in archeologisch waardevol gebied staan in bestemmingsplannen (tijdelijk deel omgevingsplan) en niet in de lokale verordeningen; het model zegt niet of zulke structuurregels (dijken) voor D als 'aangewezen structuren' tellen.",
+    "Besluit gebruiker 16-11-2026 (na Noord-Brabant), toegepast door hoofdagent: regels voor bomen op beschermde dijken en in archeologisch waardevol gebied hebben een ander doel dan boombescherming en tellen niet voor D: maximum 1 (was 2)."
+  ],
+  "lijst_aantal_totaal": 1000,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "ca. 1.000 regels in de concept Waardevolle bomenlijst 2021 (terneuzen.nl); ca. 870 met een huisadres, eigendom niet vermeld"
+}

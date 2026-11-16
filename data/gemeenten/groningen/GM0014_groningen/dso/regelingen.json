@@ -1,0 +1,34 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0014/2024/OmgevingsprogrammaDeSuikerzijdeDCPLocatieGemeenteGroningen",
+    "titel": "Omgevingsprogramma De Suikerzijde, DCP-locatie, gemeente Groningen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0014/2024/OmgevingsprogrammaDeSuikerzijdeDCPLocatieGemeenteGroningen/nld@2024-07-10;1",
+    "beginGeldigheid": "2024-07-18",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0014_2024_OmgevingsprogrammaDeSuikerzijdeDCPLocatieGemeenteGroningen?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0014/2025/Voorbereidingsbesluit1",
+    "titel": "Voorbereidingsbesluit 1 - omgevingsplan gemeente Groningen",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0014/2025/Voorbereidingsbesluit1/nld@2025-04-07;1",
+    "beginGeldigheid": "2025-06-26",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0014_2025_Voorbereidingsbesluit1?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0014/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Groningen",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0014/2020/omgevingsplan/nld@2024-09-30;10",
+    "beginGeldigheid": "2026-04-24",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0014_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0014/2026/OmgevingsprogrammaWarmteGemeenteGroningen",
+    "titel": "Omgevingsprogramma Warmte, gemeente Groningen",
+    "type": "Programma",
+    "expressionId": "/akn/nl/act/gm0014/2026/OmgevingsprogrammaWarmteGemeenteGroningen/nld@2026-08-13;1",
+    "beginGeldigheid": "2026-10-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0014_2026_OmgevingsprogrammaWarmteGemeenteGroningen?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:01Z"
+  }
+]

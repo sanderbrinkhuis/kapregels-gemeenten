@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0677/2025/omgevingsvisie",
+    "titel": "Omgevingsvisie Land van Hulst 2050",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm0677/2025/omgevingsvisie/nld@2026-05-11;1",
+    "beginGeldigheid": "2026-05-12",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0677_2025_omgevingsvisie?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:01Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0677/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Hulst",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0677/2020/omgevingsplan/nld@2026-10-01;1",
+    "beginGeldigheid": "2026-11-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0677_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:51:01Z"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "provincie": "Noord-Brabant",
+  "gm_code": "GM0866",
+  "gemeente": "Waalre",
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Groene Kaart (exb-2020-65900) en register (exb-2020-65901, een pagina met een tabel van straatnaam, soort en omvang per kern: Aalst, Achtereind, Ekenrooi, Heikant, Loon, Treeswijk en Waalre) ingezien, maar niet geteld: het register is een afbeelding. Besluit Groene Kaart: 'Het college particuliere bomen in de gemeente Waalre heeft beoordeeld', dus particuliere bomen staan op de lijst.",
+  "brondocument": "Algemene plaatselijke verordening Waalre (CVDR428721_7) afd. 4.3 art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 4:12c, 4:12d, 4:12h, 4:12i en art. 6:1; Besluit Groene Kaart gemeente Waalre (CVDR647316_1); Legesverordening Waalre 2026 (CVDR749785_1) art. 2.30; Omgevingsplan (CVDR696428_3) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR428721/7 ; https://lokaleregelgeving.overheid.nl/CVDR647316/1 ; https://lokaleregelgeving.overheid.nl/CVDR749785/1 ; https://repository.officiele-overheidspublicaties.nl/externebijlagen/exb-2020-65900/1/bijlage/exb-2020-65900.pdf ; https://repository.officiele-overheidspublicaties.nl/externebijlagen/exb-2020-65901/1/bijlage/exb-2020-65901.pdf",
+  "datum_geldigheid": "APV CVDR428721_7 geldend vanaf 2024-11-23 t/m heden; Besluit Groene Kaart CVDR647316_1 vanaf 2020-12-05; leges CVDR749785_1 vanaf 2026-01-01 (peildatum scoren 2026-11-15)",
+  "laatste_wijziging": "APV: versie 7 per 2024-11-23. Groene Kaart: besluit van 27-10-2020, in werking 2020-12-05 (vervangt de Groene Kaart van 14 april 2020).",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: leges 2026 (CVDR749785_1) art. 2.30 noemt 'het vellen van een houtopstand, bedoeld in artikel 4:12 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. WED-aanwijzing ook in APV art. 6:1 lid 2. Omgevingsplan (CVDR696428_3): art. 3.13 Houtopstanden is leeg, art. 22.299 bevat alleen aanvraagvereisten; art. 3.25 bebouwingscontour houtkap.",
+  "praktijkcontrole": "Sinds 2025 (zoekopdracht op titel): 43 bekendmakingen, waarvan 19 besluiten, 20 aanvragen en 1 weigering (een dode boom, gmb-2026-475886). Verleende vergunningen voor het kappen van 1 tot 31 bomen, ook in voor- en achtertuinen (bijv. gmb-2025-184078: een boom in een achtertuin; gmb-2026-89451: een boom in een voortuin; gmb-2026-98018: 31 bomen). Veel vergunningen voor tuinbomen passen bij een regime dat meer dekt dan alleen lijstbomen (boomvlakken). De besluiten noemen geen grondslag.",
+  "vergunningplicht": "Verbod zonder ontheffing voor Waardevolle houtopstanden op de Groene Kaart (art. 4:12 lid 1); vergunning voor houtopstanden in boomvlakken en voor bomen buiten de bebouwde kom (art. 4:12 lid 2).",
+  "drempel": "Geen omvangsdrempel voor Waardevolle houtopstanden en voor houtopstanden in boomvlakken. Buiten de bebouwde kom 'boom': 'een houtig opgaand levend gewas met een stamdwarsdoorsnede van minimaal 60 cm gemeten op 1,30 meter hoogte boven het maaiveld' (art. 4:10 onder c), omgerekend 188 cm omtrek.",
+  "omtrek_cm": 188.4,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Groene Kaart met register (individuele Waardevolle houtopstanden, ook particulier) en boomvlakken (aangewezen gebieden); buiten de bebouwde kom alle bomen vanaf 60 cm doorsnede, ook op erven en in tuinen. Art. 4:12 lid 2: 'Het is verboden, onverminderd het gestelde het eerste lid, zonder vergunning van het college, houtopstanden in boomvlakken, of bomen staande buiten de bebouwde kom te vellen of doen vellen.' Binnen de kom en buiten de vlakken is een gewone tuinboom vrij.",
+  "uitzonderingen": "Art. 4:12c lid 3 (voor lid 2): wegbeplanting en eenrijige beplanting langs landbouwgrond van populieren of wilgen, 'vruchtbomen en windschermen om boomgaarden', kerstbomen, kweekgoed, en houtopstand buiten de kom 'tenzij de houtopstanden in erven of tuinen staan' of een zelfstandige eenheid groter dan 10 are of meer dan 20 bomen. Lid 1: Plantenziektewet of aanschrijving, hakhout, vormbomen, achterstallig snoeiwerk, dunning, gemeentelijke bomen in een beheerplan. Noodkap: lid 4.",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "weigeringsgronden": "Art. 4:12d lid 2: 'wordt de vergunning voor het vellen van een houtopstand als bedoeld in artikel 4:12 geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' op basis van ecologische, landschappelijke, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische waarde of recreatieve functie. Voor Waardevolle houtopstanden (alleen op de kaart): art. 4:12b lid 2 'slechts bij uitzondering worden verleend' bij zwaarwegend algemeen maatschappelijk belang of veiligheid.",
+  "herplantplicht": "Art. 4:12h lid 1: 'Tot de aan de omgevingsvergunning te verbinden voorschriften, kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Na illegale kap (art. 4:12i lid 1): 'kan het college ... de verplichting opleggen te herplanten'. Geen beleidsregel over herplant, compensatie of bomenfonds gevonden. Compensatieplan en boomwaarde zijn alleen aanvraagvereisten bij bouw- en aanlegwerken (art. 4:12e).",
+  "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Geen storting als alternatief geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 4:12h lid 4: 'Degene aan wie de verplichting als bedoeld in het eerste tot het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 4:12i lid 4 idem. Overtreding is strafbaar volgens art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 4:12h lid 4 is niet in de WED-lijst van art. 6:1 lid 2 opgenomen.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10, vijfde juncto eerste lid, 2:11, tweede lid, 2:12, eerste lid 4:12 en 4:12a tweede lid.' Ook WED via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Geen bestuurlijke boete voor kappen (art. 6:1 lid 3 geldt alleen voor de Wet veiligheidsregio's). Herplant na illegale kap: 'kan' (art. 4:12i).",
+  "procedure": "Schriftelijke en gemotiveerde aanvraag (art. 4:12e); vergunning vervalt na drie jaar zonder gebruik (art. 4:12g); noodkap: besluit kan direct in werking treden (art. 4:12c lid 4); positieve fictieve beschikking (art. 4:12c lid 5, Awb 4.1.3.3). Leges 2026 art. 2.30: EUR 231,00. Bezwaar en beroep via de Awb.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "status": "ok",
+  "ontbrekend": "Aantal (particuliere) bomen op het register en de grootte van de boomvlakken niet vastgesteld (Groene Kaart en register zijn afbeeldingen). Omgevingsplan in het DSO niet ingezien. De APV-toelichting is niet gelezen op de bedoeling van 'stamdwarsdoorsnede' versus omtrek.",
+  "artikelnummers": [
+    "APV art. 4:10, 4:11, 4:12, 4:12a, 4:12b, 4:12c, 4:12d, 4:12e, 4:12h, 4:12i, 6:1",
+    "Besluit Groene Kaart art. 1",
+    "Leges 2026 art. 2.30",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D2: boomvlakken zijn aangewezen gebieden; buiten de kom geldt het verbod voor bomen vanaf 60 cm doorsnede (ca. 188 cm omtrek) ook in erven en tuinen (art. 4:12c lid 3 onder e): hoge drempel, D2. Geen correctie: er is geen tuinuitzondering in de kom, de boomgaarduitzondering ('vruchtbomen en windschermen om boomgaarden') telt niet. Waardevolle houtopstanden op de kaart zijn individueel beschermd (D1) en vallen onder het hogere D. Groene Kaart ook voor particuliere bomen.",
+    "Art. 4:10 onder c spreekt van 'stamdwarsdoorsnede van minimaal 60 cm', terwijl de laatste zin van die bepaling 'de omtrek van de dikste stam' noemt. Gescoord op het artikel (doorsnede, dus 188 cm omtrek). Zou 60 cm omtrek bedoeld zijn, dan zou D3 gelden voor het buitengebied.",
+    "W2: 'wordt de vergunning ... geweigerd, indien de belangen van verlening niet opwegen tegen de belangen van behoud van de houtopstand' (art. 4:12d lid 2), zonder bereik. Strenger regime voor Waardevolle houtopstanden (art. 4:12b: 'slechts bij uitzondering') alleen in de opmerking, want het brede regime (boomvlakken en buitengebied) telt.",
+    "H1: 'kan behoren het voorschrift dat ... moet worden herplant' (art. 4:12h lid 1). Geen beleidsregel gevonden. Herplant na illegale kap: 'kan' (art. 4:12i lid 1), telt voor S niet hoger dan 1.",
+    "S1: WED-aanwijzing in APV 6:1 lid 2 (en via Ow). Geen bestuurlijke boete en geen handhavingsbeleid over kappen gevonden.",
+    "Bebouwingscontour houtkap in omgevingsplan art. 3.25: binnen de contour gelden de Bal-regels (afd. 11.3) niet; dit raakt de provinciale en rijksregels, niet de gemeentelijke APV-regel.",
+    "Voorbeeldbomen A en B in een achtertuin in de kom: vrij, tenzij de boom op de Groene Kaart staat of in een boomvlak valt. Dossier: bomen 'in de voortuin' en 'in de achtertuin' kregen vergunningen in 2025 en 2026 (gmb-2025-184078, gmb-2025-352647, gmb-2026-89451), wat past bij boomvlakken of de kaart.",
+    "Omgevingsplan DSO (16-11-2026) nagelopen: art. 3.13 (Houtopstanden) is een lege kop zonder regel; art. 3.25 is alleen de aanwijzing van de bebouwingscontour houtkap; art. 6.14 (gebied Rioolwatertransportleiding) is een gebiedsregel met een ander doel en telt niet voor D; art. 22.297 en 22.299 zijn alleen aanvraagvereisten. Geen aanvullende kapregel; D2 W2 H1 S1 ongewijzigd."
+  ],
+  "modelsignalen": [
+    "Dubbelzinnige drempeldefinitie: 'stamdwarsdoorsnede van minimaal 60 cm' naast 'omtrek van de dikste stam' in dezelfde bepaling. Op het artikel gescoord (doorsnede); het resultaat hangt hiervan af (D2 of D3 voor het buitengebied).",
+    "Combinatie van lijst (Groene Kaart met individuele bomen), boomvlakken en een buitengebiedregel: het model heeft daar een regel voor (hoogste deel), maar de omvang van de boomvlakken is niet bekend; of 'aangewezen gebied' hier een substantieel deel van de gemeente beslaat, is niet vast te stellen.",
+    "Herplantplicht die via 'is verplicht daaraan te voldoen' + algemene strafbepaling strafbaar is, terwijl de WED-aanwijzing het artikel niet noemt: als 'strafbaar (rechter)' geclassificeerd.",
+    "Nabewerking hoofdagent (15-11-2026): D-maximum op 3 gezet. Art. 4:10 onder c: 'een stamdwarsdoorsnede van minimaal 60 cm gemeten op 1,30 meter hoogte boven het maaiveld. In geval van meerstammigheid geldt de omtrek van de dikste stam.' Letterlijk is het een doorsnede (ca. 188 cm omtrek, D2); de tweede zin wijst erop dat een omtrek van 60 cm bedoeld kan zijn (D3 voor het buitengebied)."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "gm_code": "GM0450",
+  "gemeente": "Uitgeest",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving Uitgeest 2024 (VFL, CVDR721043_1): afdeling 4.1 Bewaren van houtopstanden bevat alleen art. 4:1 Bestrijding iepziekte en geen kapverbod; Algemene Plaatselijke Verordening gemeente Uitgeest 2023 (CVDR712417_3, geldend van 2024-06-19): afdeling 'Bestrijding iepziekte' (art. 4:10 en 4:11 vervallen), geen kapartikel; Omgevingsplan art. 22.299 (CVDR696324_2); Groenplan Uitgeest 2026-2030 (CVDR765328_1); leges art. 2.30 (CVDR750498_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR721043/1 ; https://lokaleregelgeving.overheid.nl/CVDR712417/3 ; https://lokaleregelgeving.overheid.nl/CVDR696324/2 ; https://lokaleregelgeving.overheid.nl/CVDR765328/1 ; https://lokaleregelgeving.overheid.nl/CVDR750498/2",
+  "datum_geldigheid": "VFL CVDR721043_1 geldend van 2024 t/m heden (versie 1, geen latere versie); APV CVDR712417_3 geldend van 2024-06-19 t/m heden; Groenplan CVDR765328_1 geldend van 2026-08-04 t/m heden; leges CVDR750498_2 geldend van 2026-10-06 t/m heden",
+  "laatste_wijziging": "VFL: versie 1. APV 2023: versie 3 per 2024-06-19. Groenplan: nieuw per 2026-08-04.",
+  "juridische_plaats": "restant bruidsschat (art. 22.299), geen vergunningplicht. De kapregels uit de APV zijn bij de VFL vervallen verklaard (VFL art. 8:6 lid 2: 'artikel 4:1 ... 4:9, 4:10, 4:11 ... komen te vervallen') en de VFL zelf bevat geen kapverbod.",
+  "praktijkcontrole": "Sinds 2025 slechts 1 bekendmaking over kap op officielebekendmakingen.nl: een aanvraag omgevingsvergunning (regulier) met uitkomst 'vergunningvrij' voor 'het kappen van een boom' (gmb-2026-97644, activiteit 'Kappen van houtopstand'). Dat past bij het ontbreken van een vergunningplicht en bevestigt de uitkomst. Geen besluiten met weigering of herplant. Herteld 16-11-2026 met zoeken in de volledige tekst, omdat de zoekactie op titel minder dan 5 treffers gaf: 4 bekendmakingen sinds 1-1-2025, waarvan 0 besluiten en 0 geweigerd volgens de titel. Dit is een benadering: de telling kan ook bekendmakingen over andere onderwerpen bevatten. De eerdere telling hierboven was alleen op titel.",
+  "vergunningplicht": "Geen: geen enkele regel maakt het vellen van houtopstanden op particulier terrein vergunning- of meldplichtig",
+  "drempel": "Geen kapregel en dus geen drempel",
+  "omtrek_cm": null,
+  "meethoogte": "niet van toepassing",
+  "reikwijdte": "Geen kapverbod gevonden in VFL (afdeling 4.1 bevat alleen art. 4:1 'Bestrijding iepziekte'), APV 2023 (alleen een afdeling 'Bestrijding iepziekte', art. 4:10 en 4:11 vervallen) en omgevingsplan (alleen aanvraagvereisten art. 22.299). Groenplan 2026-2030 kondigt aan: 'Er wordt een kapvergunningsstelsel voor de waardevolle bomen ingericht.' Dat is toekomstig en telt niet mee. Bomenlijst bestaat nog niet: 'Er komt een waardevolle bomenlijst'.",
+  "uitzonderingen": "Niet van toepassing. VFL art. 4:1 gaat alleen over iepen: aanschrijving door het college bij gevaar voor verspreiding van iepziekte.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijst: het Groenplan zegt 'Er komt een waardevolle bomenlijst met daarop ... bijzondere en monumentale gemeentelijke en particuliere bomen'. Nog niet vastgesteld, dus geen lijstsysteem.",
+  "weigeringsgronden": "Geen: er is geen vergunningplicht. Beleid in Groenplan 'Gezonde bomen worden in beginsel niet gekapt' is gemeentebeleid voor gemeentelijk groen (en een ambitie), geen toetsingskader voor particulieren.",
+  "herplantplicht": "Geen grondslag voor particulieren. Groenplan: 'Voor gemeentelijke bomen komt een herplantplicht. Dit wordt geborgd in het omgevingsplan.' (toekomstig, alleen gemeentebomen) en 'Bomen op particulier terrein worden in verband met de EU Natuurherstelwet herplant.' (ambitie, geen regel); ook 'Er worden integrale regels opgesteld voor het omgevingsplan ... om bewoners te stimuleren om bomen op eigen terrein te behouden en indien nodig gekapte bomen te laten herplanten.' (toekomstig). Telt niet voor H.",
+  "herplant_ontsnapping": "geen",
+  "herplant_type": "geen grondslag",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niet van toepassing: geen herplantplicht in de regels. VFL art. 8:2 lid 1 straft wel overtreding van hoofdstuk 4 ('hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'), maar hoofdstuk 4 bevat voor kap geen verplichting.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Geen kapspecifieke sanctie. VFL art. 8:2 lid 1 (algemene strafbepaling voor hoofdstuk 4, in de praktijk alleen iepziekte) en lid 3 (WED voor art. 4:1 lid 2, de iepziekteregel). Leges art. 2.30 (kappen van bomen of vellen van houtopstanden) is '[Gereserveerd]': de gemeente beschouwt kappen dus niet als omgevingsplanactiviteit.",
+  "procedure": "Niet van toepassing (geen vergunning). Leges art. 2.30 'Omgevingsplanactiviteit: kappen van bomen of vellen van houtopstanden': '[Gereserveerd]'. Bekendmaking in het gemeenteblad bij een aanvraag die als 'vergunningvrij' wordt afgedaan.",
+  "D": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "W": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "H": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "S": {
+    "punt": 0,
+    "min": 0,
+    "max": 0
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "status": "ok",
+  "ontbrekend": "Geen kernbron ontbreekt voor D=0. Open punten: (1) het Groenplan 2026-2030 kondigt een kapvergunningsstelsel, een waardevolle bomenlijst, een herplantplicht en omgevingsplanregels aan (nog niet vastgesteld; bij herscoring opnieuw bekijken); (2) Uitgeest had na 2025 maar 1 bekendmaking over kap (gmb-2026-97644, 'vergunningvrij'), dus de praktijkcontrole is dun maar consistent met D=0; (3) het omgevingsplan in het DSO is niet ingezien (alleen CVDR696324_2 gelezen); (4) bijlage VIII van het Groenplan (bomenlijst) niet gelezen.",
+  "artikelnummers": [
+    "VFL art. 4:1 (iepziekte), 8:2, 8:6 lid 2",
+    "APV 2023 art. 4:10, 4:11 (vervallen)",
+    "Omgevingsplan art. 22.299",
+    "Leges 2026 art. 2.30 ([Gereserveerd])",
+    "Groenplan 2026-2030 par. 6.1 (ambities)"
+  ],
+  "opmerkingen": [
+    "D0: geen toestemmingsplicht voor particuliere bomen. Gelezen: VFL (afdeling 4.1 alleen iepziekte), APV 2023 (geen kapartikel, art. 4:10 en 4:11 vervallen; het woord 'boom' komt in de APV niet voor), omgevingsplan (alleen art. 22.299) en leges (art. 2.30 gereserveerd).",
+    "Restant bruidsschat: omgevingsplan art. 22.299 bevat aanvraagvereisten voor het vellen van houtopstand ('de diameter in centimeters, gemeten op 1,30 meter vanaf het maaiveld'), maar geen enkele gemeentelijke regel maakt kappen vergunningplichtig. Volgens INTENT scoort dit niet.",
+    "Verschil met de andere BUCH-gemeenten: Bergen heeft een breed regime in de bebouwde kom (D2), Castricum en Heiloo een lijstsysteem (D1). Uitgeest heeft dezelfde VFL-opzet maar heeft het kapverbod uit de oude APV niet in de VFL opgenomen: er is nu geen kapregel.",
+    "Groenplan 2026-2030 (geldend sinds 2026-08-04) is een beleidsplan over een toekomstig stelsel: 'Er wordt een kapvergunningsstelsel voor de waardevolle bomen ingericht.' Volgens INTENT telt een plan dat een toekomstig stelsel beschrijft niet.",
+    "Strengheid 0: categorie 1 Zeer soepel, met I=0 en D=0."
+  ],
+  "modelsignalen": [
+    "Gemeente zonder enige kapregel en met een plan dat er een invoert: het model geeft D=0 en strengheid 0; de score zal veranderen zodra het kapvergunningsstelsel uit het Groenplan is vastgesteld. Aanbeveling: peildatum vermelden in het rapport."
+  ]
+}

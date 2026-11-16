@@ -1,0 +1,63 @@
+{
+  "gm_code": "GM1695",
+  "gemeente": "Noord-Beveland",
+  "provincie": "Zeeland",
+  "brondocument": "Algemene plaatselijke verordening Noord-Beveland 2023 (CVDR698146_2), afd. 4.3 'Het bewaren van houtopstanden' (art. 4:10-4:11) en art. 6:1; Bomenlijst particulieren, bedrijven en overige instellingen (CVDR742725_1); Omgevingsplan gemeente Noord-Beveland (CVDR696478_2) art. 22.299; Legesverordening 2026 (CVDR752685_1) art. 2.30",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR698146/2 ; https://lokaleregelgeving.overheid.nl/CVDR742725/1",
+  "datum_geldigheid": "APV geldend van 10-01-2024 t/m heden; Bomenlijst geldend van 24-07-2025 t/m heden",
+  "laatste_wijziging": "APV: versie in werking 10-01-2024 (vastgesteld 25-05-2023); Bomenlijst: CVDR-versie in werking 24-07-2025 (datum besluit in metadata 09-06-2009)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit (tijdelijk deel omgevingsplan) volgens leges art. 2.30 ('bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet') en omgevingsplan art. 22.299",
+  "praktijkcontrole": "21 bekendmakingen sinds 2025: 12 aanvragen, 6 verleningen, 2 buiten behandeling, 2 weigeringen (24-12-2025: [adres] Kortgene, es; [adres], 2 bomen). [adres], [adres], [adres] en Stekeldijk (knotwilgen) staan op of passen bij de lijst; [adres] staat niet bij naam op de lijst (mogelijk Deltonapark of erfbeplanting; niet vastgesteld). Grondslag niet genoemd in de besluiten.",
+  "vergunningplicht": "vergunning, alleen voor houtopstanden op de Bomenlijst (art. 4:11 lid 2)",
+  "drempel": "Bomenlijst: 'stamomtrek van minimaal 0,40 cm op 1,30 meter hoogte' (kennelijk bedoeld: 40 cm) voor de categorieën Deltonapark en erfbeplanting; overige lijstbomen individueel aangewezen zonder drempel",
+  "omtrek_cm": 40,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Bomenlijst bevat: (1) individueel aangewezen monumentale bomen bij particulieren, bedrijven en instellingen in zes kernen (bijlagen 1-6, met adressen); (2) Deltonapark: alle eiken, essen, esdoorns en kastanjes > 40 cm omtrek; (3) erfbeplanting 'van agrarische en particuliere erven in het buitengebied': eiken, iepen, essen, esdoorns, kastanjes, notenbomen, platanen, hoogstam malussen en treurwilgen > 40 cm omtrek; (4) knotwilgen en knotpopulieren 'zowel in het buitengebied als binnen de bebouwde kom'.",
+  "uitzonderingen": "Toestemming burgemeester bij spoedeisend belang openbare orde of direct gevaar (art. 4:11 lid 4). Erfbeplantingsregel beperkt tot negen soortgroepen (o.a. geen linde, beuk, berk, populier of wilg behalve treurwilg).",
+  "weigeringsgronden": "Art. 4:11 lid 3: 'In afwijking van artikel 1:8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ... b. de landschappelijke waarde ... c. de waarde ... voor stads- en dorpsschoon; d. de beeldbepalende waarde ... e. de cultuurhistorische waarde ...; of f. de waarde voor de leefbaarheid van de houtopstand.'",
+  "herplantplicht": "Art. 4:11 lid 5: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Geen herplantfonds of boomwaarde; geen regeling voor herplant na illegale kap.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); bevoegd gezag (college) beslist per vergunning. Herplant na illegale kap niet geregeld.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Niets kap-specifiek geregeld. Art. 1:4 (verplichting voorschriften na te komen) 'is niet van toepassing op een omgevingsvergunning' (lid 3); art. 6:1 lid 1 verwijst naar 'de volgende artikelen' zonder opsomming. Alleen het algemene instrumentarium (Ow/Awb, WED).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "boom_a_80cm": "alleen als op lijst",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "WED-aanwijzing in regeling: art. 6:1 lid 3 'artikel 1a van de Wet op de economische delicten van toepassing op overtreding van ... artikel 4:11, tweede lid'; daarnaast WED via Ow 5.1 (omgevingsplanactiviteit). Geen bestuurlijke boete voor kap; Uitvoerings- en Handhavingsbeleid Zeeland 2025-2028 (CVDR746354_1) bevat niets kap-specifieks.",
+  "procedure": "Omgevingsvergunning (Ow); leges € 125,00 (leges 2026 art. 2.30); weigeringen en verleningen worden gepubliceerd met bezwaarclausule (6 weken).",
+  "D": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": true,
+  "lijst_ingezien": true,
+  "particuliere_bomen_op_lijst": "ja",
+  "status": "ok",
+  "ontbrekend": "D onzeker door modelinterpretatie: de lijst bevat naast individuele bomen een soortgebonden regel voor alle erven in het buitengebied (zie modelsignaal). Bijlagen met plattegronden en foto's niet ingezien.",
+  "artikelnummers": "APV art. 1:4, 1:8, 4:10, 4:11, 6:1; Bomenlijst CVDR742725_1 (uitwerking, bijlagen 1-6); omgevingsplan art. 22.299; leges art. 2.30",
+  "opmerkingen": "W: 'kan de vergunning worden geweigerd op grond van' (VNG-model) -> W2. H: 'kan een herplantplicht opleggen' -> H1. D: puntschatting 1 (lijstsysteem). De erfbeplantingsregel bestrijkt alle erven in het hele buitengebied (gebiedsregel die meetelt -> D2), maar is beperkt tot negen soortgroepen en sluit populieren en wilgen (behalve treurwilg en knotbomen) uit; met de correctie -1 komt D op 1. Deltonapark is een kleine gebiedsregel (één park) en telt niet mee. Knotwilgen en knotpopulieren zijn in de hele gemeente vergunningplichtig. Art. 6:1 lid 1 en 2 noemen 'de volgende artikelen' zonder opsomming (redactiefout); de WED-aanwijzing in lid 3 is wel volledig. Bomenlijst schrijft '0,40 cm' (kennelijk 40 cm). Voor de voorbeeldbomen in een achtertuin binnen de bebouwde kom: alleen vergunningplichtig als de boom individueel op de lijst staat (of in het Deltonapark staat en een eik, es, esdoorn of kastanje is). Nabewerking na besluit gebruiker 15-11-2026 (Na Gelderland): een regel die alleen voor een beperkte lijst boomsoorten geldt (positieve soortenlijst), sluit veel gewone tuinbomen uit en geeft altijd −1, zonder bereik: D1 (1-2) → D1 zonder bereik.",
+  "modelsignalen": [
+    "Lijst die naast individuele bomen een soortgebonden categorie voor een groot gebied aanwijst (alle erven in het buitengebied, negen soortgroepen > 40 cm omtrek): het model maakt niet duidelijk of een positieve soortenlijst valt onder de correctie -1 voor 'ruime uitzondering' (gescoord D1, bereik 1-2)."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "niet te tellen: de lijst bevat naast losse bomen ook categorieën (bijv. erfbeplanting van bepaalde soorten > 40 cm)"
+}

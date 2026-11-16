@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0556",
+  "gemeente": "Maassluis",
+  "provincie": "Zuid-Holland",
+  "brondocument": "Algemeen Plaatselijke Verordening 2026, afdeling 4.5 Het bewaren van houtopstanden (art. 4:21 t/m 4:29, 6:1); Legesverordening 2026 art. 2.30; Bomenplan Maassluis 2025 (CVDR754664_1)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR756752/1",
+  "datum_geldigheid": "geldend van 2026-02-11 t/m heden (CVDR756752_1; peildatum 2026-11-16)",
+  "laatste_wijziging": "2026-02-11 (versie 1; nieuwe APV 2026)",
+  "juridische_plaats": "APV, werkt als omgevingsplanactiviteit volgens leges 2026 art. 2.30 ('omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit het vellen van een houtopstand'). Die bepaling verwijst naar 'artikel 4:11' van de APV in plaats van art. 4:22. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 163 bekendmakingen, ca. 159 over kappen of vellen van bomen (84 aanvragen, 75 toestemmingen), 0 weigeringen volgens titel. Dat past bij een breed regime voor de hele bebouwde kom. De bekendmakingen noemen geen grondslag.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van alle houtopstand (art. 4:22 lid 1)",
+  "drempel": "Boom: dwarsdoorsnede van minimaal 10 cm op 1,3 m (art. 4:21 lid 1 sub a); omgerekend omtrek 31,4 cm. Houtopstand zelf heeft geen drempel.",
+  "omtrek_cm": 31.4,
+  "meethoogte": "1,3 m",
+  "reikwijdte": "'houtopstand te vellen' (art. 4:22 lid 1) op het hele grondgebied van de gemeente, particulier en openbaar; geen beperking tot de bebouwde kom. Houtopstand: 'één of meer bomen en/of knotbomen, hakhout of een houtwal'.",
+  "uitzonderingen": "Art. 4:22 lid 2: dunning; periodiek knotten of kandelaberen bij knotbomen, gekandelaberde bomen of leibomen als regulier onderhoud; houtopstand die moet worden geveld krachtens de Plantenziektenwet of een aanschrijving of last; 'd. achtertuinen niet groter dan 120 m2;' 'e. voortuinen niet groter dan 20m2.' De grens van 120 m2 ligt onder de ca. 300 m2 van de voorbeeldtuin; dus geen correctie.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "ja",
+  "weigeringsgronden": "Art. 4.24 lid 1: 'Het bevoegd gezag kan de in artikel 4:22, eerste lid, bedoelde vergunning in ieder geval weigeren, dan wel onder voorwaarden verlenen, in het belang van: a. natuur- en milieuwaarden; b. landschappelijke waarden; c. cultuurhistorische waarden; d. waarden van stads- en dorpsschoon; e. waarden voor recreatie en leefbaarheid.' 'Het bevoegd gezag kan hierbij de boomwaarde als criterium hanteren.'",
+  "herplantplicht": "Art. 4:22 lid 3: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' Art. 4.25 lid 1: 'kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant. Indien herplant niet mogelijk is, kan er door het bevoegd gezag een financiële compensatie worden opgelegd.' Art. 4.26 lid 1 (na illegale kap): 'kan het college ... de verplichting opleggen te herbeplanten ... dan wel een schadevergoeding opleggen, waarbij de boomwaarde als criterium wordt gehanteerd.'",
+  "herplant_ontsnapping": "'kan': herplant en financiële compensatie zijn bevoegdheden van het bevoegd gezag (art. 4:22 lid 3, art. 4.25 lid 1), geen plicht. Geen uitweg nodig, want er is geen vaste plicht. Het Bomenplan 2025 beschrijft een voorgenomen nieuwe kapvergunning met verplichte compensatie; dat telt niet (zie opmerkingen).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Niets geregeld: de strafbepaling noemt het herplantartikel niet. Art. 4:26 lid 4: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede of derde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1 straft alleen 'het bij of krachtens de volgende artikelen bepaalde' en somt op: 'artikel 4:19 - verbod (recreatief) nachtverblijf buiten kampeerterreinen', 'artikel 4:20 - aanwijzing kampeerplaatsen', daarna 'artikel 5:2 - parkeren van voertuigen van autobedrijf en dergelijke'. De artikelen 4:21 tot en met 4:29 (kap en herplant) staan er niet bij. Er is geen WED-aanwijzing voor deze artikelen.",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "Geen eigen strafbepaling voor kap: de lijst van art. 6:1 noemt geen artikel uit afdeling 4.5. WED via Omgevingswet art. 5.1 (omgevingsplanactiviteit, leges 2.30; foute verwijzing naar art. 4:11). Na illegale kap kan herplant of schadevergoeding naar boomwaarde worden opgelegd (art. 4.26 lid 1). Geen bestuurlijke boete in de regeling.",
+  "procedure": "Leges 2026 art. 2.30: EUR 0,00. Beslistermijn: Bomenplan bijlage 'De gemeente beoordeelt de aanvraag en reageert binnen acht weken' (voorgesteld stelsel); APV art. 1:2 lid 3 sluit omgevingsvergunning uit. Bezwaar en beroep volgens de Awb.",
+  "D": {
+    "punt": 4,
+    "min": 4,
+    "max": 4
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "geen lijstsysteem; breed verbod voor alle houtopstand. Bomenplan 2025: 8 herdenkingsbomen en 8 monumentale bomen in het gemeentelijk boombeheersysteem en 1 boom in het Landelijk register (publiek); particuliere bomen kunnen op een 'waardevolle bomenlijst' worden gezet (niet ingezien)",
+  "status": "ok",
+  "ontbrekend": "Waardevolle bomenlijst (bijlage 7 van het Bomenplan) en beoordelingskader (bijlage 6) niet apart ingezien; ze bepalen de score niet. Omgevingsplan in het DSO niet ingezien. Niet vastgesteld of het college het in het Bomenplan voorgestelde nieuwe kapvergunningstelsel al heeft vastgesteld.",
+  "artikelnummers": [
+    "APV 2026 art. 4:21, 4:22, 4.24, 4.25, 4.26, 6:1",
+    "Leges 2026 art. 2.30",
+    "Bomenplan Maassluis 2025 (CVDR754664_1), hoofdstuk 11 en bijlage 'De kapvergunning'",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D4: art. 4:22 lid 1 'Het is verboden zonder vergunning van het bevoegd gezag houtopstand te vellen of te doen vellen.' Boom: 'een dwarsdoorsnede van de stam, of bij meerstammigheid de dwarsdoorsnede van de dikste stam, van minimaal 10 centimeter, gemeten op 1,3 meter hoogte boven het maaiveld' = omtrek 31,4 cm (10 x 3,14), onder 60 cm, dus D4.",
+    "Uitzondering achtertuinen tot 120 m2 en voortuinen tot 20 m2: beide grenzen liggen onder de ca. 300 m2 van de voorbeeldtuin (achtertuin, tuin en perceel worden gelijk behandeld). Geen correctie.",
+    "W2: art. 4.24 lid 1 'kan ... weigeren, dan wel onder voorwaarden verlenen, in het belang van' natuur, landschap, cultuurhistorie, stads- en dorpsschoon, recreatie en leefbaarheid.",
+    "H1: art. 4:22 lid 3 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' en art. 4.25 lid 1 'kan'. Een financiële compensatie 'kan' alleen worden opgelegd en verhoogt H niet.",
+    "S1: WED via Omgevingswet 5.1 (leges 2.30 noemt het vellen een omgevingsplanactiviteit; verwijst foutief naar 'artikel 4:11' in plaats van 4:22). Schadevergoeding naar boomwaarde na illegale kap (art. 4.26 lid 1) is herstel.",
+    "Bomenplan Maassluis 2025 (CVDR754664_1, door de raad vastgesteld, in werking 2026-01-09) bevat in hoofdstuk 11 en de bijlage 'De kapvergunning' een voorgesteld nieuw stelsel: 'Het College zal na het vaststellen van het bomenplan de nieuwe kapvergunning behandelen.' Dat stelsel telt niet mee (toekomstig stelsel, en strijdig met de APV). Voorgesteld: compensatie verplicht bij particuliere bomen op een perceel van 80 m2 of groter ('Dan moet de boom gecompenseerd worden'), anders financiële compensatie; achtertuinen tot 80 m2 vrij; bij illegale kap 'een verplichting tot herplant en een boete conform de waardebepaling van bomen'. Zou dit stelsel gelden, dan zou H2 of H3 en W 2 of 3 zijn.",
+    "Het Bomenplan beschrijft ook een stelsel voor 'geregistreerde bomen' met 'Nee, tenzij' (bomen in het beheersysteem van de gemeente); dat gaat over gemeentebomen en telt niet voor particulier terrein."
+  ],
+  "modelsignalen": [
+    "Bomenplan (raad, geldend in CVDR) beschrijft een voorgenomen, strengere kapvergunning (verplichte compensatie, 'Nee, tenzij' voor geregistreerde bomen) dat nog niet in de APV staat. Volgens INTENT.md telt een plan dat een toekomstig stelsel beschrijft niet en gaat de regeling voor; ik scoor op de APV. Advies: zo laten, maar de eventuele APV-wijziging volgen en in het rapport noemen.",
+    "Tuinuitzondering met maatgrens onder 300 m2 (120 m2 achtertuin, 20 m2 voortuin): geen -1 volgens INTENT.md (maatgrens). Voor een echte achtertuin van een perceel van 300 m2 inclusief bebouwing kan de achtertuin echter kleiner zijn dan 120 m2. Boom A en B zijn daarom 'ja' op grond van de vaste vergelijking, niet op grond van een gemeten tuin.",
+    "Veld herplant_niet_nakomen_type: art. 4.26 lid 4 heeft 'is verplicht daaraan te voldoen', maar art. 6:1 noemt het artikel niet. Volgens de regel is dat 'strafbaar (rechter)'; juridisch zuiverder is 'niets geregeld'. Advies: de regel aanscherpen (alleen als de strafbepaling het artikel noemt, of via WED)."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+ "provincie": "Noord-Brabant",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "herplant_betalen_als_alternatief": "kan",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "omtrek_cm": null,
+ "meethoogte": "niet van toepassing (lijstsysteem)",
+ "status": "ok",
+ "gm_code": "GM1719",
+ "gemeente": "Drimmelen",
+ "brondocument": "APV gemeente Drimmelen 2025, afd. 4.3 art. 4:10, 4:11, 4:11b, 4:11d (CVDR740160_4), art. 6:1; Besluit Waardevollebomenkaart Drimmelen 2022 (CVDR673461_1); Legesverordening 2026 art. 2.30 (CVDR753601_1); Omgevingsplan art. 22.299 (CVDR696490_3)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR740160/4 ; https://lokaleregelgeving.overheid.nl/CVDR673461/1 ; https://lokaleregelgeving.overheid.nl/CVDR753601/1",
+ "datum_geldigheid": "APV CVDR740160_4 geldend vanaf 2026-10-06 t/m heden (peildatum scoren 2026-11-15); Waardevollebomenkaart-besluit CVDR673461_1 geldend vanaf 2022-03-01",
+ "laatste_wijziging": "APV 2025: versie 4 per 2026-10-06 (eerdere versies per 2025-06-18 en 2026-02-17). Waardevolle bomenkaart vastgesteld 2022-02-22.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 (CVDR753601_1) art. 2.30 noemt het vellen van een houtopstand 'bedoeld in de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten. WED-aanwijzing ook in APV 6:1 lid 3.",
+ "praktijkcontrole": "Sinds 2025: 72 bekendmakingen op titel, waarvan 8 besluiten, alle 8 geweigerd (o.a. gmb-2025-159994, gmb-2026-80698, gmb-2026-406350), en 33 aanvragen. De titels noemen o.a. een boom in de voortuin. De steekproef noemt geen grondslag. Dit wijst op particuliere bomen op de waardevolle bomenkaart, maar de kaart zelf is niet ingezien.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Waardevolle bomenkaart staan (art. 4:11 lid 2).",
+ "drempel": "Geen drempel: alleen houtopstanden op de Waardevolle bomenkaart, ongeacht omvang.",
+ "reikwijdte": "Art. 4:11 lid 2: 'Het is verboden zonder vergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Waardevolle bomenkaart.' Besluit 2022: 'Op de Waardevolle bomenkaart staan alle houtopstanden die we wensen te beschermen.' Hele gemeente, publiek en particulier (de subsidieregeling CVDR673426_1 noemt 'natuurlijke en privaatrechtelijke rechtspersonen die eigenaar zijn van een waardevolle boom'). Na plaatsing gevelde en herplante bomen komen op een separate lijst (art. 4:11 lid 1 onder b).",
+ "uitzonderingen": "Art. 4:11 lid 4 (spoed, direct gevaar), lid 5 ('op grond van de Plantgezondheidswet (PGW) of een aanschrijving van het bevoegd gezag'), lid 6 (periodiek onderhoud, dunnen en afzetten), lid 7 (erfbeplanting rond agrarische bedrijven in het buitengebied bij bedrijfseconomische motieven, wel melden), lid 8 (agroforestry). Alle gangbaar of beperkt tot agrarische bedrijven; geen correctie.",
+ "weigeringsgronden": "Art. 4:11 lid 3: 'afwijking van artikel 1:7 kan de vergunning worden geweigerd op grond van:' boomwaarde, natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde, leefbaarheid.",
+ "herplantplicht": "Art. 4:11b lid 1: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant of moet worden voldaan aan de financiële verplichting ter compensatie van herplant.' Na illegale kap: art. 4:11d lid 1 'kan het bevoegd gezag ... de verplichting opleggen dat binnen een bepaalde termijn ... moet worden herplant'; lid 2: storting op basis van de boomwaarde 'kan' worden opgelegd als herplant redelijkerwijs niet kan. Geen vastgestelde beleidsregel herplant in CVDR gevonden.",
+ "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het bevoegd gezag beslist per geval. Alternatief: 'Indien redelijkerwijs niet (volledig) kan worden voldaan aan de herplantplicht uit lid 1, kan het bevoegd gezag ... de verplichting opleggen dat op basis van de boomwaarde moet worden overgegaan tot het storten van een financiële bijdrage.' (art. 4:11d lid 2, alleen na illegale kap en alleen 'kan').",
+ "herplant_type": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:11d lid 5: 'Degene aan wie een verplichting als bedoeld in het eerste tot en met vierde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' De strafbepaling art. 6:1 lid 1 noemt 'artikel 2:1 t/m 2:10b ... en 3:1 t/m 4:10, 4:12 t/m 5:37': art. 4:11 t/m 4:11e ontbreken. Een voorschrift bij de omgevingsvergunning (art. 4:11b) valt bovendien onder art. 1:3 lid 3 'Dit artikel is niet van toepassing op een omgevingsvergunning.' Geen eigen strafbepaling of boete voor niet nakomen: alleen het algemene instrumentarium.",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED-aanwijzing in de regeling: APV art. 6:1 lid 3: 'In afwijking van het eerste en tweede lid is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en artikel 4:11, tweede lid.' Daarnaast WED via Ow 5.1 (leges art. 2.30). Geen bestuurlijke boete; herplantplicht na illegale kap 'kan' (art. 4:11d).",
+ "procedure": "Aanvraag omgevingsvergunning. Leges art. 2.30 leges 2026: EUR 54,31 voor 1 t/m 5 bomen; bij 6 of meer bomen basistarief EUR 54,31 plus EUR 8,06 per boom (maximaal 20 bomen). Art. 4:11c: gebruik pas bij start bouwwerkzaamheden mogelijk voorgeschreven. Art. 4:12 vergunning van rechtswege: [Gereserveerd]. Bezwaar en beroep niet apart gelezen.",
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de Waardevolle bomenkaart Drimmelen 2022 (kenmerk B0301) is een kaart; de bijlage staat niet als tekst in CVDR en op de gemeentelijke website (drimmelen.nl) is de kaart na een korte zoekpoging niet gevonden",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "ontbrekend": "Waardevolle bomenkaart (de kaart zelf) niet ingezien: onbekend of en hoeveel particuliere bomen erop staan. Geen vastgestelde beleidsregel herplant gevonden. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 2025 art. 4:10, 4:11, 4:11b, 4:11d, 6:1, 1:3, 1:7",
+  "Besluit Waardevollebomenkaart 2022 (CVDR673461_1)",
+  "Legesverordening 2026 art. 2.30 (CVDR753601_1)",
+  "Omgevingsplan art. 22.299 (CVDR696490_3)",
+  "Biesbosch-verordening CVDR651050_1 art. 28, 29 (geen particuliere bomen)"
+ ],
+ "opmerkingen": [
+  "D1 (min 0): lijstsysteem (kaart); de kaart is niet ingezien, dus puntschatting D1 en bereik vanaf D0. De praktijk (8 geweigerde kapbesluiten sinds 2025, o.a. een boom in de voortuin) wijst op particuliere kaartbomen.",
+  "W2: 'afwijking van artikel 1:7 kan de vergunning worden geweigerd op grond van:' (art. 4:11 lid 3, in de brontekst staat 'In' niet voor 'afwijking'); waarden incl. boomwaarde.",
+  "H1: art. 4:11b lid 1 'kan behoren het voorschrift dat ... moet worden herplant of moet worden voldaan aan de financiële verplichting ter compensatie van herplant'. Alleen 'kan'; een mogelijke storting verhoogt H niet. Herplant en storting na illegale kap ('kan', art. 4:11d) tellen niet bij H, wel bij S (S1).",
+  "S1: WED-aanwijzing in de APV (art. 6:1 lid 3 naar art. 4:11 lid 2) en herplantplicht na illegale kap. Geen bestuurlijke boete.",
+  "Algemene Verordening Biesbosch (CVDR651050_1): telt niet voor particuliere bomen. Art. 28 lid 1 onder b verbiedt alleen op openbare terreinen bomen zo te gebruiken dat ze verloren gaan of beschadigd worden; art. 29 verbiedt in grond 'behorende tot het rechtsgebied' de vegetatie te verwijderen, maar niet voor 'Rechthebbenden op eigen terrein'. Dit gaat over gedrag in het Biesboschgebied, geen vergunningplicht voor het vellen van particuliere bomen. Strafbepaling art. 45.",
+  "Oudere regeling: APV 2021 is ingetrokken (art. 6:4); art. 6:5 lid 2 laat nadere regels en beleidsregels doorwerken 'indien en voor zover de rechtsgrond ... ook vervat is in deze verordening'. Daardoor werkt het Waardevollebomenkaart-besluit 2022 (gebaseerd op APV 2021 afd. 4.3) door; art. 4:11 lid 1 APV 2025 bevat dezelfde grondslag. Geen aparte kapregel van een oudere gemeente gevonden.",
+  "Praktijk: 8 van 8 besluiten sinds 2025 zijn weigeringen, een hoog aandeel. Het model (W2) scoort op de tekst; de praktijk wijst op strenge toepassing, zonder vastgesteld beleid in CVDR.",
+  "Subsidieregeling CVDR673426_1 (bijzonder onderhoud waardevolle bomen) bevat geen kapregels."
+ ],
+ "modelsignalen": [
+  "Drimmelen: 8 van 8 kapbesluiten sinds 2025 in de bekendmakingen zijn weigeringen, terwijl de tekst alleen 'kan worden geweigerd' zegt (W2). Het model vangt geen praktijkcijfers. Daarnaast neemt de APV 4:11 lid 1 'Waardevolle bomenkaart' als kaart op zonder lijst in tekst, waardoor D1 met bereik 0-1 blijft."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+  "gemeente": "Zutphen",
+  "gm_code": "GM0301",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Zutphen",
+  "zoeknaam_bekendmakingen": "Zutphen",
+  "opgehaald_op": "2026-11-15T14:09:59+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Zutphen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 123,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Zutphen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 287,
+  "geldende_regelingen": 26,
+  "geldend_met_kapartikelen": [
+    "CVDR124887_14",
+    "CVDR312929_1",
+    "CVDR667012_5",
+    "CVDR696262_3",
+    "CVDR699750_1",
+    "CVDR747549_1",
+    "CVDR747832_1",
+    "CVDR751394_2"
+  ],
+  "bekendmakingen_besluiten": 142,
+  "bekendmakingen_aanvragen": 142,
+  "bekendmakingen_geweigerd": 2,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

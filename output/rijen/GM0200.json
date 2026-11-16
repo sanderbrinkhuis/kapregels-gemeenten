@@ -1,0 +1,83 @@
+{
+ "gm_code": "GM0200",
+ "gemeente": "Apeldoorn",
+ "provincie": "Gelderland",
+ "brondocument": "Algemene plaatselijke verordening 2014 (APV), afdeling 4.3 (art. 4:10, 4:11, 4:11A, 4:11B, 4:11D, 4:11F) en art. 6:1; Bomennota Apeldoorn 2024 – 2040 (CVDR722566_1); Verordening op de heffing en de invordering van leges 2026 art. 2.30 (CVDR754178_3); Omgevingsplan art. 22.299 (CVDR696217_4)",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR321083/35 ; https://lokaleregelgeving.overheid.nl/CVDR722566/1 ; https://lokaleregelgeving.overheid.nl/CVDR754178/3",
+ "datum_geldigheid": "APV CVDR321083_35 geldend vanaf 2026-11-11 t/m heden (peildatum scoren 2026-11-15); Bomennota CVDR722566_1 geldend vanaf 2024-07-17",
+ "laatste_wijziging": "APV: versie 35 per 2026-11-11 (de kapafdeling is volgens de kalibratie voor het laatst inhoudelijk gewijzigd per 2024-09-01; dat is in dit dossier niet nagelopen). Bomennota: 2024-07-17.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: legesverordening 2026 art. 2.30 noemt 'artikel 4:11 van de Algemene Plaatselijke Verordening in samenhang met artikel 22.8 van de Omgevingswet'. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+ "praktijkcontrole": "Sinds 2025: 1586 bekendmakingen op titel (zoekmethode mist soms besluiten), waarvan 737 besluiten en 161 geweigerd volgens titel. De steekproef van 10 besluiten noemt geen grondslag. Veel besluiten en weigeringen (o.a. 'het kappen van 9 schijncipressen', 'Noorse esdoorn') passen bij een breed regime voor de hele gemeente.",
+ "vergunningplicht": "Omgevingsvergunning (APV 4:11 lid 1): 'Het is verboden zonder omgevingsvergunning van het bevoegde gezag een houtopstand geheel of gedeeltelijk te vellen of te doen vellen anders dan bij wijze van dunning.'",
+ "drempel": "Art. 4:11 lid 2 onder e: verbod niet van toepassing op 'een boom waarvan de stam of bij meerstammigheid de dikste stam op een hoogte van 1.30 meter boven het maaiveld een omtrek heeft van 65 centimeter of minder', tenzij de boom is geplant ingevolge een herplantplicht of op de bomenlijst staat. Dus vergunning vanaf omtrek > 65 cm.",
+ "omtrek_cm": 65,
+ "meethoogte": "1,30 m boven het maaiveld",
+ "reikwijdte": "Hele gemeente, particulier en openbaar ('De kapregels gelden voor iedereen, ook voor de gemeente en andere overheden', Bomennota 4.3.2). Geen gebiedsregel en geen onderscheid binnen en buiten de bebouwde kom, behalve de uitzondering voor 'houtopstand buiten de bebouwde kom die een oppervlakte grond beslaat van 10 are of meer, of bestaat uit een rijbeplanting die meer dan 20 bomen omvat' (art. 4:11 lid 2 onder f). Bijzondere bomen en toekomstbomen (bomenlijst, art. 4:11F) blijven ongeacht omvang vergunningplichtig.",
+ "uitzonderingen": "Art. 4:11 lid 2: a. 'bomen en struiken die specifiek voor het oogsten van fruit, noten of vruchten worden geteeld'; b. windschermen om boomgaarden; c. kerstbomen (naaldbomen tot 20 jaar); d. kweekgoed; e. omtrek 65 cm of minder; f. houtopstand buiten de bebouwde kom van 10 are of meer of rijbeplanting van meer dan 20 bomen; g. Plantgezondheidswet of aanschrijving; h. periodiek vellen van hakhout; i. periodiek vormsnoeien of knotten. Art. 4:11B: burgemeester kan toestemming geven bij 'urgent en groot gevaar'. Geen tuin-, erf- of perceeluitzondering en geen aantalsuitzondering: geen correctie.",
+ "weigeringsgronden": "Art. 4:11A lid 1: 'In afwijking van het bepaalde in artikel 1:8 kan het bevoegd gezag de vergunning weigeren dan wel onder voorschriften verlenen in het belang van de handhaving van: natuur- en milieuwaarden; landschappelijke waarden; cultuurhistorische waarden; waarden van stads- en dorpsschoon; waarden voor recreatie, educatie, klimaatadaptatie en leefbaarheid.' Het bevoegd gezag kan de boomwaarde als criterium hanteren. Bomennota 4.3.2: 'als het verwijderingsbelang groter is, dan wordt de vergunning in beginsel verleend' (belangenafweging). Voor bomenlijstbomen (art. 4:11F lid 2): 'wordt geen vergunning voor velling afgegeven, tenzij' gevaar of groot maatschappelijk belang.",
+ "herplantplicht": "APV art. 4:11A lid 2: 'Tot de aan de vergunning te verbinden voorschriften kan behoren het voorschrift dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant.' Bomennota 4.3.2: 'Bij een noodzakelijke kap van een boom is het uitgangspunt herplant van een nieuw exemplaar. De gemeente beoordeelt in ieder specifiek geval of herplant ter plaatse mogelijk en wenselijk is' (volgens de nota wordt in ongeveer 40% van de verleende enkelvoudige vergunningen herplant opgelegd). Geen verplichte financiële compensatie bij gewone kap.",
+ "herplant_ontsnapping": "Herplant is een bevoegdheid ('kan behoren') en de gemeente beoordeelt 'in ieder specifiek geval of herplant ter plaatse mogelijk en wenselijk is'. Het college (bevoegd gezag) beslist per geval. Na illegale kap: art. 4:11D lid 1 'kan het bevoegd gezag ... de verplichting opleggen tot financiële compensatie op basis van de boomwaarde, dan wel een verplichting tot herbeplanten'; de Bomennota zegt 'Ook bij dode bomen of illegale kap legt de gemeente herplant op.'",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Art. 4:11A lid 5: 'Degene aan wie een voorschrift of een verplichting als bedoeld in dit artikel is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' Art. 6:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Art. 6:1 lid 3 noemt 4:11 als strafbaar feit in de zin van WED art. 1a onder 3º; of dat ook voor 4:11A lid 5 geldt is niet vastgesteld. Daarnaast het algemene instrumentarium (bestuursdwang/dwangsom), niet apart in de APV gelezen.",
+ "herplant_niet_nakomen_type": "strafbaar (rechter)",
+ "sancties": "APV art. 6:1 lid 1: hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Art. 6:1 lid 3: 'is een gedraging in strijd met de volgende artikelen een strafbaar feit in de zin van artikel 1a, onder 3º van de Wet op de economische delicten: ... 4:11 ...' (WED-aanwijzing in regeling). Ook via Ow 5.1 (omgevingsplanactiviteit, legesverordening art. 2.30). Geen bestuurlijke boete in de APV gevonden. Bomennota 4.3.4: 'De mogelijkheid van een financiële sanctie' wil men in de APV opnemen; die staat niet in de geldende tekst. Herplant of compensatie na illegale kap: art. 4:11D lid 1.",
+ "procedure": "Aanvraag omgevingsvergunning; leges 2026 art. 2.30 (CVDR754178_3): omtrek 65 tot en met 95 cm € 43,07; 96 tot en met 125 cm € 64,82; meer dan 125 cm € 77,27; maximum € 211,62. APV 1:2 lid 3: de APV-beslistermijn geldt niet voor een omgevingsvergunning. Bekendmaking in het gemeenteblad. Bezwaar en beroep: Bomennota noemt bezwaar bij de Bezwarencommissie; niet apart gelezen in de APV.",
+ "boom_a_80cm": "ja",
+ "boom_b_40cm": "nee",
+ "D": {
+  "punt": 3,
+  "min": 3,
+  "max": 3
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "volledig_gelezen": true,
+ "lijstsysteem": false,
+ "lijst_ingezien": null,
+ "particuliere_bomen_op_lijst": null,
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "",
+ "status": "ok",
+ "ontbrekend": "Bomenlijst (bijzondere bomen en toekomstbomen, art. 4:11F) niet ingezien; niet nodig voor D omdat het brede regime bepaalt. Beoordelingskader voor kapaanvragen (volgens de Bomennota op de gemeentelijke website) niet gevonden in het dossier. Omgevingsplan in het DSO niet ingezien. Bezwaar en beroep niet apart gelezen.",
+ "artikelnummers": [
+  "APV 1:1",
+  "APV 1:2",
+  "APV 4:10",
+  "APV 4:11",
+  "APV 4:11A",
+  "APV 4:11B",
+  "APV 4:11D",
+  "APV 4:11F",
+  "APV 6:1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299",
+  "Bomennota 4.3.2 en 4.3.4"
+ ],
+ "opmerkingen": [
+  "W: 'kan het bevoegd gezag de vergunning weigeren dan wel onder voorschriften verlenen in het belang van de handhaving van: natuur- en milieuwaarden' (APV 4:11A lid 1) is een belangenafweging, W2. De Bomennota ('dan wordt de vergunning in beginsel verleend' als het verwijderingsbelang groter is) is geen strengere toetsing.",
+  "H: 'kan behoren het voorschrift dat ... moet worden herplant' (APV 4:11A lid 2). De Bomennota (vastgesteld beleid, geldend in CVDR) zegt 'uitgangspunt herplant' maar 'in ieder specifiek geval' beoordeeld: geen vast voorschrift, dus H1. Financiële compensatie (boomwaarde) alleen na illegale kap (4:11D): verhoogt H niet.",
+  "S: 4:11 staat in de WED-aanwijzing in art. 6:1 lid 3 en de legesverordening noemt de omgevingsplanactiviteit; S1 zonder bereik. Geen bestuurlijke boete in de regeling.",
+  "D: omtrek > 65 cm is middelmatige drempel (60-100 cm), D3, hele gemeente. Buiten de kom geldt een extra uitzondering voor houtopstand van 10 are of meer en rijbeplanting van meer dan 20 bomen (bosachtige opstanden); dat is geen tuinuitzondering en geeft geen correctie.",
+  "De APV-tekst van de kapafdeling is volgens deze versie (35, per 2026-11-11) niet in dit dossier vergeleken met de vorige versies; scoren op de geldende versie.",
+  "Vergunning met leges vanaf 65 cm; leges ook voor 'één of meer bomen met een totale stamomtrek': dat is een heffingsregel, geen drempel.",
+  "Bomenlijst (bijzondere bomen en toekomstbomen): 'Voor een op de bomenlijst geplaatste boom wordt geen vergunning voor velling afgegeven, tenzij' (art. 4:11F lid 2): strenger regime (W3) voor lijstbomen, alleen vermeld; het brede regime telt.",
+  "Verordening Groene Balans (CVDR723250_3) regelt compensatie bij ruimtelijke ontwikkeling en telt niet voor H."
+ ],
+ "modelsignalen": []
+}

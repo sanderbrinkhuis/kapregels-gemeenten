@@ -1,0 +1,28 @@
+{
+  "gemeente": "Kampen",
+  "gm_code": "GM0166",
+  "provincie": "Overijssel",
+  "zoeknaam_cvdr": "Kampen",
+  "zoeknaam_bekendmakingen": "Kampen",
+  "opgehaald_op": "2026-11-14T21:47:56+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Kampen\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 100,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Kampen\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 502,
+  "geldende_regelingen": 45,
+  "geldend_met_kapartikelen": [
+    "CVDR116102_1",
+    "CVDR120300_1",
+    "CVDR603137_1",
+    "CVDR696203_4",
+    "CVDR726482_1",
+    "CVDR746589_2"
+  ],
+  "bekendmakingen_besluiten": 245,
+  "bekendmakingen_aanvragen": 253,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

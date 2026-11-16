@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1731/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Midden-Drenthe",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1731/2020/omgevingsplan/nld@2026-10-27;09394843",
+    "beginGeldigheid": "2026-10-28",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1731_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:31Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1731/2026/Regeling39b4b4b9351341a7b8111ef81f2611c2",
+    "titel": "Voorbereidingsbesluit Lievingerveld",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1731/2026/Regeling39b4b4b9351341a7b8111ef81f2611c2/nld@2026-11-06;13564982",
+    "beginGeldigheid": "2026-11-10",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1731_2026_Regeling39b4b4b9351341a7b8111ef81f2611c2?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:53:31Z"
+  }
+]

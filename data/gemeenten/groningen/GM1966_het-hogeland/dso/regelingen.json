@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm1966/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Het Hogeland",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm1966/2020/omgevingsplan/nld@2025-01-17;11464628",
+    "beginGeldigheid": "2025-01-20",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1966_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:07Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm1966/2025/Regeling824fc14056fb4687bf783445f2a9d80c",
+    "titel": "Omgevingsvisie gemeente Het Hogeland",
+    "type": "Omgevingsvisie",
+    "expressionId": "/akn/nl/act/gm1966/2025/Regeling824fc14056fb4687bf783445f2a9d80c/nld@2026-03-09;13502461",
+    "beginGeldigheid": "2026-03-13",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm1966_2025_Regeling824fc14056fb4687bf783445f2a9d80c?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T12:54:07Z"
+  }
+]

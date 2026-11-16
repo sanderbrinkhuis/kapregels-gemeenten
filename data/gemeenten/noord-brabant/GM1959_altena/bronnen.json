@@ -1,0 +1,31 @@
+{
+  "gemeente": "Altena",
+  "gm_code": "GM1959",
+  "provincie": "Noord-Brabant",
+  "zoeknaam_cvdr": "Altena",
+  "zoeknaam_bekendmakingen": "Altena",
+  "opgehaald_op": "2026-11-15T21:06:16+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Altena\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 43,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Altena\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 68,
+  "geldende_regelingen": 17,
+  "geldend_met_kapartikelen": [
+    "CVDR619933_1",
+    "CVDR620318_1",
+    "CVDR642236_1",
+    "CVDR644380_12",
+    "CVDR650665_1",
+    "CVDR654410_1",
+    "CVDR696532_2",
+    "CVDR735932_1",
+    "CVDR751185_1"
+  ],
+  "bekendmakingen_besluiten": 1,
+  "bekendmakingen_aanvragen": 38,
+  "bekendmakingen_geweigerd": 0,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

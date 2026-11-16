@@ -1,0 +1,18 @@
+[
+  {
+    "identificatie": "/akn/nl/act/gm0377/2020/omgevingsplan",
+    "titel": "Omgevingsplan gemeente Bloemendaal",
+    "type": "Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0377/2020/omgevingsplan/nld@2024-05-23;06110149",
+    "beginGeldigheid": "2024-05-27",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0377_2020_omgevingsplan?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:33Z"
+  },
+  {
+    "identificatie": "/akn/nl/act/gm0377/2025/Regeling54be1138f28a43b89430d737eee00526",
+    "titel": "Voorbereidingsbesluit Staalslakken en Grondstabilisatie gemeente Bloemendaal",
+    "type": "Voorbeschermingsregels Omgevingsplan",
+    "expressionId": "/akn/nl/act/gm0377/2025/Regeling54be1138f28a43b89430d737eee00526/nld@2025-11-20;09500798",
+    "beginGeldigheid": "2025-09-25",
+    "self": "https://service.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v8/regelingen/_akn_nl_act_gm0377_2025_Regeling54be1138f28a43b89430d737eee00526?geldigOp=2026-11-16&inWerkingOp=2026-11-16&beschikbaarOp=2026-11-16T13:05:33Z"
+  }
+]

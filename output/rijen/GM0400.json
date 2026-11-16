@@ -1,0 +1,78 @@
+{
+  "gm_code": "GM0400",
+  "gemeente": "Den Helder",
+  "provincie": "Noord-Holland",
+  "brondocument": "Verordening Fysieke Leefomgeving Den Helder (VFL) hoofdstuk 2 Houtopstanden, art. 2.1-2.4, 7.1 (CVDR695416_2); Legesverordening Den Helder 2026 art. 2.8.1 (CVDR748184_3); APV Den Helder 2021 afd. 4.3 (vervallen) en art. 6.1 (CVDR670333_6); Omgevingsplan art. 22.299 (CVDR696305_2)",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR695416/2",
+  "datum_geldigheid": "VFL: geldend van 2025-05-03 t/m heden (CVDR695416_2); leges: in werking 2026-01-24; omgevingsplan: in werking 2024-07-11",
+  "laatste_wijziging": "VFL versie 2, in werking 2025-05-03",
+  "juridische_plaats": "VFL (art. 2.3); werkt als omgevingsplanactiviteit volgens Legesverordening 2026 art. 2.8.1 ('omgevingsplanactiviteit ... bedoeld in artikel 2.3 van de Verordening fysieke leefomgeving Den Helder in samenhang met artikel 22.8 van de Omgevingswet'); APV 4:10-4:12b zijn vervallen; omgevingsplan art. 22.299 bevat alleen aanvraagvereisten",
+  "praktijkcontrole": "241 bekendmakingen sinds 2025, waarvan ca. 231 over kappen (titelzoekterm): ca. 90 verleende vergunningen, 118 aanvragen, 8 verzoeken buiten behandeling, 1 ingetrokken. Steekproef noemt geen grondslag. Veel kapbesluiten (ook voor enkele bomen langs water of in de openbare ruimte) passen bij een breed regime; 'buiten behandeling' kan wijzen op vrijgestelde tuinbomen.",
+  "vergunningplicht": "omgevingsvergunning (kapvergunning)",
+  "drempel": "stamdiameter 30 cm (omtrek 94 cm) gemeten op 1,30 m; vrij zijn houtopstanden 'met een stamdiameter minder dan 30 cm (omtrek minder dan 94 cm)', tenzij geplant als herplantverplichting; bij meerstammigheid de bij elkaar opgetelde diameter (omtrek)",
+  "omtrek_cm": 94,
+  "meethoogte": "130 cm (art. 2.1 lid 3 onder a)",
+  "reikwijdte": "Binnen de bebouwde kom (bebouwingscontour houtkap) alle houtopstanden, particulier en openbaar: 'Het is verboden zonder omgevingsvergunning van het bevoegd gezag de houtopstanden te vellen of te doen vellen.' (art. 2.3 lid 1), behalve in tuinen. Buiten de kom alleen op een erf: 'houtopstanden, staande buiten de bebouwde kom, tenzij deze op een erf staan' zijn vrij. Erf = 'perceel > 450 m2, behorende bij een één- of meergezinswoning'; terrein = 'alle percelen niet behorende bij een één- of meergezinswoning'. Drempel 30 cm diameter (ca. 94 cm omtrek). Een lijst beschermenswaardige bomen (art. 2.2) bestaat daarnaast.",
+  "uitzonderingen": "Art. 2.3 lid 2: 'i. houtopstanden staande in een tuin' met 'tuin: perceel ≤ 450 m2, behorende bij een één- of meergezinswoning' (art. 2.1 lid 1 onder n): ruime tuinuitzondering voor percelen tot en met 450 m² bij woningen. Ook vrij: 'a. houtopstanden, staande buiten de bebouwde kom, tenzij deze op een erf staan', 'b. wegbeplantingen en eenrijïge beplantingen op of langs landbouwgronden ... populieren of wilgen', 'c. fruitbomen en windschermen om boomgaarden', kerstbomen, kweekgoed, dunning, Plantgezondheidswet of aanschrijving, houtopstanden onder de diameter van 30 cm. Spoedeisend belang of direct gevaar: toestemming burgemeester (lid 4). Lijst beschermenswaardige bomen niet ingezien.",
+  "boom_a_80cm": "nee",
+  "boom_b_40cm": "nee",
+  "weigeringsgronden": "Art. 2.3 lid 3: 'In afwijking van artikel 1.7 kan de omgevingsvergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, waarde voor stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde en waarde voor de leefbaarheid van de houtopstand. Toelichting: 'De weigeringsgronden zijn niet dwingend bepaald'. Voor beschermenswaardige bomen (lid 5): vergunning 'kan ... worden verleend indien' instandhouding niet langer verantwoord is of letsel of schade kan worden voorkomen.",
+  "herplantplicht": "Art. 2.4 lid 1: 'Aan de vergunning kan het voorschrift worden verbonden dat binnen een bepaalde termijn en overeenkomstig de door het bevoegd gezag te geven aanwijzingen moet worden herplant;'. Dus een bevoegdheid. Lid 6: 'Het bevoegde gezag kan bij het opleggen van de herplantplicht het beoordelingsformulier bomen toepassen.' (boomwaarde als indicatie van de omvang; geen verplichte storting). Na illegale kap (lid 2): 'kan het bevoegd gezag ... de verplichting opleggen te herbeplanten'.",
+  "herplant_ontsnapping": "geen uitweg opgenomen; herplant is een bevoegdheid ('kan het voorschrift worden verbonden'); het bevoegd gezag beslist per geval",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 2.4 lid 5: 'Degene aan wie een verplichting als bedoeld in het eerste, tweede, derde en vierde lid is opgelegd, alsmede diens rechtsopvolger, is verplicht daaraan te voldoen.' De strafbepaling art. 7.1 VFL noemt art. 2.3 en 2.4 niet (alleen 2.5, 3.2, 3.4, 4.2, 6.13 en 6.14 lid 3). Voor het niet nakomen is verder geen specifiek gevolg geregeld; alleen het algemene instrumentarium (bestuursdwang, dwangsom).",
+  "herplant_niet_nakomen_type": "niets geregeld",
+  "sancties": "S1: WED via Omgevingswet 5.1: Legesverordening 2026 art. 2.8.1 noemt het vellen een 'omgevingsplanactiviteit, als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet'. VFL art. 7.1 noemt art. 2.3 niet en APV art. 6.1 lid 2 (WED) noemt alleen 2:10, 2:11 en 2:12; de kapregel heeft dus geen eigen strafbepaling of WED-aanwijzing. Daarnaast kan herplant na illegale kap worden opgelegd (art. 2.4 lid 2), maar alleen als bevoegdheid. Geen bestuurlijke boete voor kappen.",
+  "procedure": "Omgevingsvergunning; leges 60,45 euro (art. 2.8.1); VFL art. 1.2 lid 3 niet van toepassing op omgevingsvergunning (Omgevingswet-termijn geldt); bezwaar en beroep volgens Awb; bekendmaking in het Gemeenteblad.",
+  "D": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst beschermenswaardige bomen (art. 2.2) niet ingezien; naast een breed regime, dus niet bepalend voor D",
+  "status": "ok",
+  "ontbrekend": "Lijst beschermenswaardige bomen (art. 2.2), kaart 'Bebouwde kom Boswet' (bebouwingscontour houtkap) en Beleidsregels dwangsommen en begunstigingstermijnen (CVDR756027_1, niet gedownload) niet ingezien; geen van deze verandert D, W of H. De Leidraad inrichting openbare ruimte is niet gelezen. Geen beleidsregel over herplant, compensatie of handhaving van de kap in het dossier gevonden.",
+  "artikelnummers": [
+    "VFL art. 1.2, 1.3, 1.7, 2.1-2.4, 7.1",
+    "APV art. 4:10-4:12b (vervallen), 6.1",
+    "Leges 2026 art. 2.8.1",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "D: binnen de bebouwde kom alle houtopstanden (behalve in tuinen), buiten de kom alleen erven (>450 m²). Drempel 30 cm diameter = 94 cm omtrek (regel in de tekst zelf genoemd), dus 60-100 cm = D3 voor beide delen. Ruime tuinuitzondering ('houtopstanden staande in een tuin', tuin = perceel tot en met 450 m² bij woning): -1. D = 3 - 1 = 2. Het deel buiten de kom (alleen erven) levert hooguit hetzelfde.",
+    "Voorbeeldbomen: perceel van ca. 300 m² bij een woning is een 'tuin' (<= 450 m²), dus boom A (80 cm) en boom B (40 cm) zijn beide vrij. Op een perceel groter dan 450 m² (erf) zou boom A (80 cm omtrek < 94 cm) ook vrij zijn; pas vanaf 94 cm omtrek geldt de plicht.",
+    "W2: 'kan de omgevingsvergunning worden geweigerd op grond van:' natuur-, landschaps-, stads- en dorpsschoon-, beeldbepalende, cultuurhistorische en leefbaarheidswaarden (geen bereik).",
+    "H1: 'Aan de vergunning kan het voorschrift worden verbonden dat ... moet worden herplant'. Boomwaarde wordt alleen als hulpmiddel bij het opleggen genoemd (lid 6, 'kan'), dus geen H3. De toelichting zegt bij cultuurhistorische waarde dat 'vrijwel altijd als voorwaarde een herplantplicht' wordt opgelegd; dat is toelichting bij een deelgeval en geen beleidsregel, dus niet meegeteld.",
+    "S1: omgevingsplanactiviteit volgens de legesverordening (besluit gebruiker). VFL art. 7.1 noemt art. 2.3 niet en APV 6.1 lid 2 noemt alleen 2:10, 2:11 en 2:12 (ontbrekende verwijzing).",
+    "Rekenvoorbeeld: D2, I = 2+1+1 = 4, strengheid = 2/4 x (40 + 60 x 4/9) = 33.",
+    "Kleine afwijking in de tekst: art. 2.3 lid 2 onder h noemt diameter 30 cm en omtrek 94 cm, terwijl 30 x 3,14 = 94,2; gescoord op 94 cm.",
+    "Open punt: de lijst beschermenswaardige bomen en de kaart van de bebouwde kom zijn niet ingezien."
+  ],
+  "modelsignalen": [
+    "Den Helder: de tuinuitzondering is 'perceel <= 450 m²' en gewone woonpercelen van 300 m² zijn dus vrij, terwijl de drempel al op 94 cm omtrek ligt. De drempelscore (D3) en de correctie (-1) tellen beide mee; voorbeeldboom A en B zijn beide vrij maar D = 2 doet dat niet zichtbaar.",
+    "Den Helder: de drempel staat in diameter met omtrek tussen haakjes (30 cm / 94 cm); gescoord op de omtrek uit de tekst."
+  ]
+}

@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+
+# Opgehaalde bronteksten: groot en opnieuw op te halen met `bomen ophalen`.
+# De officiële versies staan op lokaleregelgeving.overheid.nl en zoek.officielebekendmakingen.nl.
+data/gemeenten/*/*/raw/
+data/gemeenten/*/*/cvdr/
+data/gemeenten/*/*/tekst/
+data/gemeenten/*/*/extract/
+
+# Bekendmakingen van kapvergunningen: titels bevatten adressen van particulieren.
+# Alleen aantallen en links komen in de repo (via index.md en bronnen.json).
+data/gemeenten/*/*/bekendmakingen/
+data/gemeenten/*/*/bekendmakingen.jsonl
+
+# Logbestanden en tijdelijke bestanden
+data/*.log
+*.part
+.DS_Store
+
+# Lokale API-sleutels (DSO); nooit committen.
+.env
+
+# Ruwe DSO-antwoorden (groot, opnieuw op te halen met `bomen dso`)
+data/gemeenten/*/*/dso/*.json.gz

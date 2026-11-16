@@ -1,0 +1,85 @@
+{
+  "gm_code": "GM0308",
+  "gemeente": "Baarn",
+  "provincie": "Utrecht",
+  "brondocument": "Verordening fysieke leefomgeving Baarn, eerste wijziging (CVDR758788_1), hoofdstuk VIII Bomen, art. 8:1 t/m 8:7 en 13:1; Uitvoeringsbeleid Bomenverordening gemeente Baarn 2016 (CVDR417814_1); legesverordening 2026 art. 2.30; Addendum Uitvoeringstrategie (CVDR761989_1); Uitvoering- en Handhavingstrategie Regio Utrecht 2026 (CVDR757721_1); Omgevingsplan gemeente Baarn (CVDR696265_4) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR758788/1",
+  "datum_geldigheid": "2026-03-16 t/m heden (peildatum 2026-11-14)",
+  "laatste_wijziging": "2026-03-16 (VFL opnieuw vastgesteld als 'eerste wijziging'; de oorspronkelijke VFL is vervallen)",
+  "juridische_plaats": "VFL (verordening). De legesverordening 2026 art. 2.30 noemt het vellen 'een omgevingsplanactiviteit ... bedoeld in Hoofdstuk 8, van de Verordening fysieke leefomgeving Baarn in samenhang met artikel 22.8 van de Omgevingswet'. De regel werkt dus als omgevingsplanactiviteit. Omgevingsplan art. 22.299 bevat alleen aanvraagvereisten.",
+  "praktijkcontrole": "Sinds 2025: 259 bekendmakingen met kapterm in de titel (titelzoekmethode, dossier): 103 besluiten, 154 aanvragen, 11 geweigerd volgens titel. Veel verleende vergunningen voor één of enkele bomen, ook 'in de achtertuin' (o.a. gmb-2025-518146, gmb-2026-243516). De besluiten noemen de grondslag niet. Dit past bij een breed vergunningstelsel.",
+  "vergunningplicht": "Omgevingsvergunning voor het vellen van houtopstand (art. 8:1 lid 1). Geen melding, behalve noodkap (lid 6).",
+  "drempel": "Art. 8:1 lid 3 onder c: het verbod geldt niet als 'De stam van de boom, gemeten op 1,30 m hoogte vanaf de grond, heeft een omtrek kleiner dan 78 cm (= kleiner dan 25 cm diameter).' Drempel 78 cm omtrek.",
+  "omtrek_cm": 78,
+  "meethoogte": "1,30 m",
+  "reikwijdte": "Hele gemeente volgens de artikeltekst; de toelichting zegt: 'De regels in dit hoofdstuk gelden voor houtopstanden binnen de bebouwde kom, zoals aangegeven op de kaart in bijlage 2.' Particulier en openbaar. Binnen de kom geldt drempel 78 cm, met uitzondering van percelen kleiner dan 200 m2 en schubconiferen. In een beschermd stads- of dorpsgezicht gelden de uitzonderingen van lid 3 niet (lid 4).",
+  "uitzonderingen": "Art. 8:1 lid 3: schubconiferen (schijncypres, leylandcypres, Japanse levensboom, levensboom, Hiba cypres); 'houtopstanden die staan op percelen kleiner dan 200 m2, mits het perceel niet is gelegen in een beschermd stads- of dorpsgezicht'; bomen onder 78 cm omtrek; 'Wegbeplanting en eenrijige beplanting op of langs landbouwgronden, bestaande uit populieren of wilgen, tenzij deze zijn geknot'. Lid 2: Plantgezondheidswet of aanschrijving, periodiek scheren, knotten of kandelaberen, snoeiwerkzaamheden. Perceel van 200 m2 of kleiner telt als ruime tuinuitzondering (-1). Het voorbeeldperceel (ca. 300 m2) valt hier niet onder.",
+  "boom_a_80cm": "ja",
+  "boom_b_40cm": "nee",
+  "lijstsysteem": false,
+  "lijst_ingezien": null,
+  "particuliere_bomen_op_lijst": null,
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "Geen lijstsysteem.",
+  "weigeringsgronden": "Art. 8:2 lid 2: 'De omgevingsvergunning voor het vellen van een houtopstand als bedoeld in artikel 8:1 eerste lid, kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand; b. de landschappelijke waarde van de houtopstand; c. de waarde van de houtopstand voor stads- of dorpsschoon; d. de beeldbepalende waarde van de houtopstand; e. de cultuurhistorische waarde van de houtopstand.' Lid 3: nadere regels of beleidsregels voor aanvulling en aanwijzing van categorieën met verhoogd beschermingsniveau.",
+  "herplantplicht": "Art. 8:6 lid 1: 'Aan de omgevingsvergunning kan het voorschrift worden verbonden dat binnen een bepaalde termijn en overeenkomstig de door bevoegd gezag te geven aanwijzingen moet worden herplant.' Lid 4: 'Indien niet ter plaatse kan worden herplant, kan aan de omgevingsvergunning het voorschrift worden verbonden dat een geldelijke bijdrage gestort dient te worden in het Bomenfonds.' Lid 5: 'een geldelijke bijdrage van € 350,00 per gevelde houtopstand voor particuliere eigenaren.' Uitvoeringsbeleid (CVDR417814_1): 'Indien een ovg verleend wordt kan het college een herplantplicht opleggen.'",
+  "herplant_ontsnapping": "Bevoegdheid, geen plicht ('kan'); het college beslist per geval. Beleid: 'Bij gerechtvaardigde dunning wordt daarom geen herplantplicht opgelegd.' Betaling in het Bomenfonds als alternatief bij onmogelijke herplant is alleen een 'kan'-bevoegdheid (art. 8:6 lid 4).",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "kan",
+  "herplant_na_illegale_kap": "kan",
+  "herplant_niet_nakomen": "Art. 8:6 lid 8: 'Degene aan wie de verplichting als bedoeld in het eerste tot het derde lid is opgelegd, alsmede zijn rechtsopvolger, is verplicht daaraan te voldoen.' Art. 13:1 lid 1: 'Overtreding van het bij of krachtens deze verordening bepaalde ... wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie'. Addendum (CVDR761989_1): 'HERPLANTPLICHT | Na illegaal kappen niet herplanten | Dwangsom | € 100,- p.w. per boom max. 5 x'. Regio Utrecht (CVDR757721_1): 'Houtopstand niet tijdig of correct herbeplant (rijbeplanting of enkele bomen) | Ineens € 250,- per boom'.",
+  "herplant_niet_nakomen_type": "meerdere",
+  "sancties": "Eigen strafbepaling VFL art. 13:1 lid 1 (hechtenis tot drie maanden of geldboete tweede categorie). De WED-aanwijzing in lid 2 noemt art. 8:1 niet (alleen 2:1, 2:2, 2:3 en 2:13). Het vellen is volgens de legesverordening art. 2.30 een omgevingsplanactiviteit (route WED via Ow 5.1). Herplant na illegale kap: art. 8:7 lid 1 'kan'. Geen bestuurlijke boete voor kap; dwangsom bij niet herplanten (CVDR761989_1). S = 1 zonder bereik.",
+  "procedure": "Aanvraag schriftelijk en gemotiveerd (art. 8:3). Leges art. 2.30: € 116,90 bij niet meer dan 10 bomen, daarboven € 11,80 per boom. Beslistermijn volgens toelichting: 'reguliere procedure 8 weken, eenmalig verlengen met max. 6 weken (art. 16.64 Ow)'. Vergunning vervalt bij niet-gebruik binnen drie jaar (art. 8:5). Bezwaar en beroep niet apart vastgesteld.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 2,
+    "min": 2,
+    "max": 2
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "status": "ok",
+  "ontbrekend": "Kaart bebouwde kom Boswet (bijlage 2) niet beoordeeld; de artikeltekst beperkt het verbod niet tot de bebouwde kom, de toelichting wel. Dit verandert D niet, want D volgt uit het hoogste deel.",
+  "artikelnummers": [
+    "VFL art. 8:1",
+    "VFL art. 8:2",
+    "VFL art. 8:3",
+    "VFL art. 8:5",
+    "VFL art. 8:6",
+    "VFL art. 8:7",
+    "VFL art. 13:1",
+    "Legesverordening 2026 art. 2.30",
+    "Omgevingsplan art. 22.299",
+    "CVDR417814_1 (Uitvoeringsbeleid)",
+    "CVDR761989_1",
+    "CVDR757721_1 bijlage P"
+  ],
+  "opmerkingen": [
+    "D: drempel 78 cm omtrek geeft D3 (60-100 cm). Percelen kleiner dan 200 m2 zijn uitgezonderd (tuinuitzondering, -1), dus D2. Schubconiferen en populieren of wilgen langs landbouwgrond zijn ook uitgezonderd; dat geeft geen extra aftrek.",
+    "W2: art. 8:2 lid 2 'kan worden geweigerd op grond van: a. de natuurwaarde van de houtopstand'.",
+    "H1: art. 8:6 lid 1 'kan het voorschrift worden verbonden dat ... moet worden herplant'. Compensatieplan en Bomenfonds bij projecten (art. 8:3 lid 2, art. 8:6 lid 3) en bij illegale kap (art. 8:7) verhogen H niet. Het Uitvoeringsbeleid CVDR417814_1 hoort bij de ingetrokken Bomenverordening 2016 en blijft 'kan'.",
+    "S1: eigen strafbepaling art. 13:1 lid 1 en omgevingsplanactiviteit volgens leges art. 2.30. De WED-aanwijzing in lid 2 verwijst niet naar art. 8:1 (mogelijk foutieve of ontbrekende verwijzing).",
+    "Boom A (80 cm) valt boven de drempel van 78 cm: vergunning nodig. Boom B (40 cm) valt eronder: geen vergunning. Het voorbeeldperceel van ca. 300 m2 is groter dan 200 m2.",
+    "Wijziging per 2026-03-16 geldt al; geen latere versie gevonden.",
+    "Nabewerking na besluit gebruiker 15-11-2026 (Na Noord-Holland): een tuin- of perceeluitzondering geeft alleen −1 als die de voorbeeldtuin (perceel ca. 300 m², boom in de achtertuin) vrijstelt. De maatgrens hier is kleiner dan 300 m², dus geen −1: D2 → D3."
+  ],
+  "modelsignalen": [
+    "Baarn: de drempel staat in het artikel als uitzondering ('omtrek kleiner dan 78 cm') en de definitie van 'boom' herhaalt 78 cm; er is dus geen verschil tussen definitie en uitzondering. De perceelgrens van 200 m2 ligt onder het voorbeeldperceel (300 m2) maar levert wel -1 op D op voor percelen vanaf die grootte; het model scoort een regel die de voorbeeldboom niet raakt toch als ruime uitzondering.",
+    "Baarn: artikel 8:1 zelf geldt voor het hele grondgebied, de toelichting zegt dat hoofdstuk VIII alleen binnen de bebouwde kom geldt; INTENT.md zegt niet welke leidend is. Op D heeft dit geen effect."
+  ]
+}

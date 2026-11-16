@@ -1,0 +1,26 @@
+{
+  "gemeente": "Midden-Drenthe",
+  "gm_code": "GM1731",
+  "provincie": "Drenthe",
+  "zoeknaam_cvdr": "Midden-Drenthe",
+  "zoeknaam_bekendmakingen": "Midden-Drenthe",
+  "opgehaald_op": "2026-11-14T13:47:42+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Midden-Drenthe\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 65,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Midden-Drenthe\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 271,
+  "geldende_regelingen": 12,
+  "geldend_met_kapartikelen": [
+    "CVDR654390_4",
+    "CVDR669298_10",
+    "CVDR696498_3",
+    "CVDR712813_2"
+  ],
+  "bekendmakingen_besluiten": 104,
+  "bekendmakingen_aanvragen": 149,
+  "bekendmakingen_geweigerd": 9,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

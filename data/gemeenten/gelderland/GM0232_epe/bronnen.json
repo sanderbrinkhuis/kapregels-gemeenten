@@ -1,0 +1,31 @@
+{
+  "gemeente": "Epe",
+  "gm_code": "GM0232",
+  "provincie": "Gelderland",
+  "zoeknaam_cvdr": "Epe",
+  "zoeknaam_bekendmakingen": "Epe",
+  "opgehaald_op": "2026-11-15T14:09:50+00:00",
+  "peildatum": "2026-11-15",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Epe\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 86,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Epe\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 486,
+  "geldende_regelingen": 19,
+  "geldend_met_kapartikelen": [
+    "CVDR122055_1",
+    "CVDR609637_1",
+    "CVDR653530_1",
+    "CVDR676305_1",
+    "CVDR696234_5",
+    "CVDR724559_1",
+    "CVDR747803_1",
+    "CVDR751556_1",
+    "CVDR751558_1"
+  ],
+  "bekendmakingen_besluiten": 219,
+  "bekendmakingen_aanvragen": 264,
+  "bekendmakingen_geweigerd": 17,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}

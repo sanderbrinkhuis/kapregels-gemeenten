@@ -1,0 +1,84 @@
+{
+  "gm_code": "GM0184",
+  "gemeente": "Urk",
+  "provincie": "Flevoland",
+  "brondocument": "Verordening voor de fysieke leefomgeving Urk 2024 (CVDR732678_1), afd. 3.7 (art. 3.7.1 en 3.7.2) en afd. 2.3 (art. 2.3.2); APV Urk 2018 (CVDR755440_2) afd. 4.3 art. 4.11, 4.12 en 4.12a vervallen; Legesverordening 2026 (CVDR748804_1) art. 2.7.3; Omgevingsplan Urk (CVDR696210_1) art. 22.299",
+  "url": "https://lokaleregelgeving.overheid.nl/CVDR732678/1",
+  "datum_geldigheid": "geldend van 28-12-2024 t/m heden (VFL, versie 1)",
+  "laatste_wijziging": "geen latere versie van de VFL; APV-afdeling 4.3 inmiddels vervallen (APV versie 2, in werking 06-10-2026)",
+  "juridische_plaats": "VFL; werkt als omgevingsplanactiviteit volgens leges art. 2.7.3 ('omgevingsplanactiviteit ... kappen van een boom') voor de vergunning (lijstbomen). De melding voor overige bomen is geen omgevingsvergunning; hier is de VFL-tekst zelf de rechtsgrond.",
+  "praktijkcontrole": "7 bekendmakingen sinds 2025 (titelzoekopdracht), waarvan 1 aanvraag omgevingsvergunning voor het vellen van houtopstanden (sept. 2025), 0 besluiten, 0 weigeringen; de rest gaat over bouwen. VTH-jaarverslag 2023 (CVDR736173_1) noemt in de rij 'Omgevingsvergunning vellen houtopstanden' de aantallen 3 en 2 (kolomkoppen niet in het dossier). Weinig vergunningen, past bij een lijstsysteem; meldingen worden niet bekendgemaakt.",
+  "vergunningplicht": "Tweeledig. (1) Vergunning voor houtopstanden op de door het college vastgestelde Bomenlijst en in gebieden op de gebiedenkaart beschermde bomen (art. 3.7.1 lid 2; art. 2.3.2 lid 4). (2) Voor alle overige houtopstanden een meldplicht bij het college, met bevoegdheid van het college om de kap binnen vier weken te verbieden (art. 3.7.2 lid 1 en 2).",
+  "drempel": "Melding: verbod geldt niet voor 'de boom welke op 1.30 m boven het maaiveld een stamomtrek heeft van minder dan 60 cm' (art. 3.7.2 lid 5 onder a). Lijstbomen: geen drempel.",
+  "omtrek_cm": 60,
+  "meethoogte": "1,30 m boven het maaiveld",
+  "reikwijdte": "Melding: alle houtopstanden (particulier en openbaar) in de hele gemeente die niet op de Bomenlijst staan, met stamomtrek vanaf 60 cm. Buiten de bebouwde kom en de bebouwingscontour houtkap (die moet nog worden vastgesteld in het omgevingsplan) gelden extra uitzonderingen (populieren en wilgen langs landbouwgrond, fruitbomen, kerstbomen, kweekgoed, bosbouwondernemingen). Vergunning: alleen Bomenlijst en gebiedenkaart.",
+  "uitzonderingen": "Melding vervalt voor bomen < 60 cm omtrek; bij Plantenziektewet of aanschrijving; periodiek hakhout, knotten of kandelaberen; dode houtopstand en Amerikaanse vogelkers (tekst van lid 5 onder e en f is onduidelijk afgebroken). Voor lijstbomen: burgemeester kan toestemming geven bij spoedeisend belang of direct gevaar (art. 3.7.1 lid 4).",
+  "weigeringsgronden": "Lijstbomen (art. 3.7.1 lid 3): 'In afwijking van artikel 3.1.8 kan de vergunning worden geweigerd op grond van: a. de natuurwaarde ...; f. de waarde voor de leefbaarheid van de houtopstand.' Melding (art. 3.7.2 lid 2): 'De houtopstand kan worden geveld indien het college niet binnen vier weken na ontvangst van de melding heeft beslist dat de gewenste velling wordt verboden.' Geen criteria voor dat verbod genoemd.",
+  "herplantplicht": "Vergunning: 'Het bevoegd gezag kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 3.7.1 lid 5). Melding: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' (art. 3.7.2 lid 3). Geen herplantfonds of boomwaarde; geen beleidsregel over herplant gevonden in het dossier.",
+  "herplant_ontsnapping": "'kan' (bevoegdheid, geen plicht); het college beslist per geval. Geen regel over betalen in plaats van herplanten.",
+  "herplant_type": "kan",
+  "herplant_betalen_als_alternatief": "nee",
+  "herplant_na_illegale_kap": "nee",
+  "herplant_niet_nakomen": "Art. 3.1.4 lid 2: 'Degene aan wie krachtens deze verordening een vergunning of ontheffing is verleend, is verplicht de daaraan verbonden voorschriften en beperkingen na te komen.' Art. 6.1.1: 'Overtreding van het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 3.1.4 gegeven voorschriften en beperkingen wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.' Voor een herplantplicht na melding (art. 3.7.2 lid 3) valt art. 3.1.4 letterlijk niet; wel 'krachtens deze verordening'.",
+  "herplant_niet_nakomen_type": "strafbaar (rechter)",
+  "boom_a_80cm": "melden",
+  "boom_b_40cm": "alleen als op lijst",
+  "sancties": "Algemene strafbepaling VFL art. 6.1.1 (hechtenis max. 3 maanden of geldboete 2e categorie); niet kap-specifiek en geen eigen WED-aanwijzing voor kap (art. 6.1.2 noemt alleen afval). WED via Ow 5.1 geldt alleen voor de vergunningplichtige lijstbomen (omgevingsplanactiviteit volgens leges 2.7.3); niet voor de melding. Geen bestuurlijke boete. Handhavingsprogramma's (CVDR656665_1, 675925_1, 692764_1, 736171_1, 740433_1) bevatten niets kap-specifieks.",
+  "procedure": "Vergunning: leges € 63,00 voor één boom, € 11,00 per volgende boom, max. € 293,00 (binnenplans), € 355,00 buitenplans (leges art. 2.7.3); beslistermijn 8 weken, verlenging 6 weken (art. 3.1.3); positieve fictieve beschikking (art. 3.7.1 lid 6). Melding: college beslist binnen 4 weken (art. 3.7.2 lid 2); geen legesrij voor melding gevonden.",
+  "D": {
+    "punt": 3,
+    "min": 3,
+    "max": 3
+  },
+  "W": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "H": {
+    "punt": 1,
+    "min": 1,
+    "max": 1
+  },
+  "S": {
+    "punt": 0,
+    "min": 0,
+    "max": 1
+  },
+  "volledig_gelezen": true,
+  "lijstsysteem": false,
+  "lijst_ingezien": false,
+  "particuliere_bomen_op_lijst": "onbekend",
+  "status": "ok",
+  "ontbrekend": "Bomenlijst en gebiedenkaart niet ingezien (niet nodig voor D, want de meldplicht is het breedste regime). Regels in het DSO niet ingezien.",
+  "artikelnummers": [
+    "VFL art. 2.3.2",
+    "VFL art. 3.1.3",
+    "VFL art. 3.1.4",
+    "VFL art. 3.1.8",
+    "VFL art. 3.7.1",
+    "VFL art. 3.7.2",
+    "VFL art. 6.1.1",
+    "VFL art. 6.1.2",
+    "APV art. 4.10 t/m 4.12a (vervallen)",
+    "Leges art. 2.7.3",
+    "Omgevingsplan art. 22.299"
+  ],
+  "opmerkingen": [
+    "Regime voor het grootste deel van de bomen: meldplicht vanaf 60 cm omtrek in de hele gemeente, waarbij het college de kap binnen vier weken kan verbieden. Die telt voor D als toestemmingsplicht (model v2.3): D = 3 (omtrek 60 cm valt in de klasse 60-100).",
+    "W: 'De houtopstand kan worden geveld indien het college niet binnen vier weken ... heeft beslist dat de gewenste velling wordt verboden.' De tekst noemt geen criteria voor het verbod, dus W = 1 (model v2.3). De weigeringsgronden van art. 3.7.1 lid 3 gelden alleen voor lijstbomen (W2 voor die bomen).",
+    "H: 'Het college kan een herplantplicht opleggen onder nader te stellen voorschriften.' H = 1.",
+    "S: algemene strafbepaling (art. 6.1.1) telt als S0; WED alleen voor vergunningplichtige lijstbomen (max 1).",
+    "Boom A (80 cm): melden (80 cm >= 60 cm; het college kan de kap verbieden). Boom B (40 cm): onder de meldgrens; vergunning alleen als de boom op de Bomenlijst of in een gebied op de gebiedenkaart staat.",
+    "De APV-afdeling 4.3 (art. 4.11, 4.12, 4.12a) is vervallen; de kapregels staan in de VFL (art. 3.7.1 en 3.7.2). Art. 3.7.2 lid 4 verwijst naar een 'bebouwingscontour houtkap ... zodra deze contour is vastgesteld'; in het omgevingsplan Urk is die niet gevonden.",
+    "Art. 3.7.2 lid 4 en lid 5 onder e en f zijn onvolledig of onduidelijk geformuleerd (opsomming loopt door elkaar)."
+  ],
+  "modelsignalen": [
+    "Melding met verbodsbevoegdheid van het college zonder genoemde criteria (art. 3.7.2 VFL Urk): het model kent W0 voor 'melding zonder weigeringsmogelijkheid' en W1-3 voor vergunningen, maar niet deze tussenvorm. Ook is onduidelijk of D een melding met verbodsbevoegdheid als 'toestemmingsplicht' meetelt. Daarom bereik D 1-3 en W 0-2. Opgelost in model v2.3 (melding met verbodsmogelijkheid telt voor D; zonder criteria W = 1; voorbeeldboom 'melden').",
+    "Boom A/B-velden kennen alleen 'vergunning ja/nee'; een meldplicht (boom A in Urk) past daar niet in. Opgelost in model v2.3 (melding met verbodsmogelijkheid telt voor D; zonder criteria W = 1; voorbeeldboom 'melden')."
+  ],
+  "lijst_aantal_totaal": null,
+  "lijst_aantal_particulier": null,
+  "lijst_telling": "lijst niet ingezien"
+}

@@ -1,0 +1,73 @@
+{
+ "provincie": "Noord-Brabant",
+ "gm_code": "GM1706",
+ "gemeente": "Cranendonck",
+ "volledig_gelezen": true,
+ "lijstsysteem": true,
+ "lijst_ingezien": false,
+ "particuliere_bomen_op_lijst": "onbekend",
+ "lijst_aantal_totaal": null,
+ "lijst_aantal_particulier": null,
+ "lijst_telling": "lijst niet ingezien: de Bomenlijst van art. 4:11 lid 1 is geen CVDR-regeling en geen externe bijlage (de enige externe bijlage, exb-2019-31718, is een bouwkostenoverzicht van de leges); op de gemeentelijke website niet gevonden",
+ "brondocument": "Algemene plaatselijke verordening gemeente Cranendonck 2023 (CVDR707175_2) afd. 4.3 art. 4:10, 4:11 en art. 6:1; Verordening op de heffing en invordering van leges 2026 (CVDR748686_1) art. 2.30; Omgevingsplan (CVDR696487_3) art. 22.299",
+ "url": "https://lokaleregelgeving.overheid.nl/CVDR707175/2 ; https://lokaleregelgeving.overheid.nl/CVDR748686/1 ; https://lokaleregelgeving.overheid.nl/CVDR696487/3",
+ "datum_geldigheid": "APV CVDR707175_2 geldend vanaf 2025-12-24 t/m heden; leges CVDR748686_1 vanaf 2025-12-04 (peildatum scoren 2026-11-15)",
+ "laatste_wijziging": "APV: versie 2 per 2025-12-24 (versie 1 per 2024-01-01). De kapregel zelf (art. 4:10-4:12) staat nog in de APV.",
+ "juridische_plaats": "APV, werkt als omgevingsplanactiviteit: leges 2026 (CVDR748686_1) art. 2.30.1 noemt 'het vellen van een of meerdere houtopstand(en), bedoeld in artikel 4:11 van de Algemene plaatselijke verordening in samenhang met artikel 22.8 van de Omgevingswet'. WED-aanwijzing ook in APV art. 6:1 lid 2. Omgevingsplan (CVDR696487_3) art. 22.299: alleen aanvraagvereisten, geen eigen vergunningplicht.",
+ "praktijkcontrole": "Sinds 2025 (zoekopdracht op volledige tekst, ruim): 20 bekendmakingen, waarvan 6 besluiten, 6 aanvragen en 0 weigeringen. Geen enkel besluit in de steekproef noemt een kapterm of een grondslag; geen aanwijzing voor een breder regime dan de lijst.",
+ "vergunningplicht": "Vergunning (omgevingsvergunning) voor het vellen van houtopstanden die op de Bomenlijst staan (art. 4:11 lid 2) en houtopstand die is aangelegd op basis van een herplant-, instandhoudings- of compensatieplicht of overeenkomst met een bestuursorgaan (lid 4).",
+ "drempel": "Geen omvangsdrempel voor lijstbomen. De definitie 'boom' (dwarsdoorsnede minimaal 30 cm op 1,3 m) wordt in het verbod (art. 4:11 lid 2) niet gebruikt; het verbod geldt voor 'houtopstanden'.",
+ "omtrek_cm": null,
+ "meethoogte": "1,3 m (alleen in de definitie van 'boom', niet in het verbod)",
+ "reikwijdte": "Alleen de houtopstanden op de Bomenlijst (en herplant- of compensatiebomen). Art. 4:11 lid 2: 'Het is verboden om zonder omgevingsvergunning van het college de houtopstanden te vellen of te doen vellen die staan vermeld op de in het eerste lid genoemde Bomenlijst.' Lid 1: 'Het college stelt een Bomenlijst vast waarop de monumentale en andere beschermenswaardige bomen in de gemeente worden vermeld.' Of er particuliere bomen op staan is niet vastgesteld.",
+ "uitzonderingen": "Art. 4:11 lid 3: dunning, Plantgezondheidswet of aanwijzing op last van het college, reeds gekandelaberde of geknotte houtopstanden. Lid 8: spoedeisend belang of direct gevaar (burgemeester).",
+ "boom_a_80cm": "alleen als op lijst",
+ "boom_b_40cm": "alleen als op lijst",
+ "weigeringsgronden": "Art. 4:11 lid 9: 'Onverminderd het bepaalde in artikel 1:8 kan de vergunning worden geweigerd op grond van:' natuurwaarde, landschappelijke waarde, stads- en dorpsschoon, beeldbepalende waarde, cultuurhistorische waarde of waarde voor de leefbaarheid. Lid 10: 'Het college kan nadere regels stellen' (niet gevonden).",
+ "herplantplicht": "Art. 4:11 lid 5: 'Aan een omgevingsvergunning kan het college een herplantplicht opleggen.' Lid 6 (na illegale kap): 'kan het college ... de verplichting opleggen te herplanten of een financiële vergoeding te betalen.' Geen beleidsregel gevonden.",
+ "herplant_ontsnapping": "'Kan' (bevoegdheid, geen plicht); het college beslist per geval. Na illegale kap kan de herplant worden vervangen door 'een financiële vergoeding' (lid 6), eveneens 'kan'.",
+ "herplant_type": "kan",
+ "herplant_betalen_als_alternatief": "kan",
+ "herplant_na_illegale_kap": "kan",
+ "herplant_niet_nakomen": "Niet apart geregeld: de bepalingen zeggen niet 'is verplicht daaraan te voldoen' (alleen lid 7 over aanschrijving bij boomziekte). De algemene strafbepaling art. 6:1 lid 1 spreekt van 'het bij of krachtens deze verordening bepaalde en de daarbij op grond van artikel 1:4 gegeven voorschriften en beperkingen'; art. 1:4 lid 3 sluit omgevingsvergunningen uit. Verder alleen het algemene instrumentarium (bestuursdwang of dwangsom).",
+ "herplant_niet_nakomen_type": "niets geregeld",
+ "sancties": "WED-aanwijzing in de APV: art. 6:1 lid 2 'is artikel 1a van de Wet op de economische delicten van toepassing op overtreding van het bepaalde bij of krachtens de artikelen 2:10 en 2:11 als sprake is van een omgevingsvergunningplichtige activiteit, artikel 2:12, eerste lid, en artikel 4:11, tweede lid.' Ook WED via de Omgevingswet (omgevingsplanactiviteit volgens de leges). Geen bestuurlijke boete voor kappen; geen handhavingsbeleid over kappen gevonden (VTH-beleidsplan CVDR712622_1 niet gelezen).",
+ "procedure": "Omgevingsvergunning. Leges 2026 art. 2.30.1: EUR 265 voor 1 boom, EUR 365 voor 2 t/m 4, EUR 465 voor 5 t/m 10 en EUR 565 vanaf 11 bomen. Art. 4:11 lid 11: de positieve beschikking bij niet tijdig beslissen (Awb 4.1.3.3) is niet van toepassing. Bezwaar en beroep via de Awb.",
+ "D": {
+  "punt": 1,
+  "min": 0,
+  "max": 1
+ },
+ "W": {
+  "punt": 2,
+  "min": 2,
+  "max": 2
+ },
+ "H": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "S": {
+  "punt": 1,
+  "min": 1,
+  "max": 1
+ },
+ "status": "ok",
+ "ontbrekend": "Bomenlijst (art. 4:11 lid 1) niet gevonden en niet ingezien: aantal bomen en aandeel particuliere bomen onbekend. Omgevingsplan in het DSO niet ingezien. Nadere regels (art. 4:11 lid 10) en het VTH-beleidsplan niet gelezen.",
+ "artikelnummers": [
+  "APV 2023 art. 4:10, 4:11, 6:1",
+  "Leges 2026 art. 2.30",
+  "Omgevingsplan art. 22.299"
+ ],
+ "opmerkingen": [
+  "D1 (bereik 0-1): alleen individueel aangewezen bomen (Bomenlijst), ongeacht omvang. Lijst niet ingezien: puntschatting D1, bereik vanaf D0 (regel onzekerheid). De definitie 'boom' (30 cm doorsnede) wordt in het verbod niet gebruikt en is niet doorslaggevend (score op de verbodstekst).",
+  "W2: 'kan de vergunning worden geweigerd op grond van:' natuur-, landschaps-, cultuurhistorische en andere waarden (art. 4:11 lid 9), zonder bereik.",
+  "H1: 'kan het college een herplantplicht opleggen' (art. 4:11 lid 5); geen beleidsregel gevonden.",
+  "S1: WED-aanwijzing in APV 6:1 lid 2 (en via Ow); geen bestuurlijke boete.",
+  "Gebruik van de lijst volgens de praktijk: de steekproef van besluiten geeft geen aanwijzing voor een breder regime."
+ ],
+ "modelsignalen": [
+  "Lijstsysteem zonder vindbare lijst: puntschatting D1 met bereik 0-1 volgens INTENT.md; of er überhaupt particuliere bomen op de lijst staan is niet vast te stellen, dus D0 is mogelijk."
+ ]
+}

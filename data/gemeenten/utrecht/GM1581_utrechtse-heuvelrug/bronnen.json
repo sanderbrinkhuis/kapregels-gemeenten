@@ -1,0 +1,31 @@
+{
+  "gemeente": "Utrechtse Heuvelrug",
+  "gm_code": "GM1581",
+  "provincie": "Utrecht",
+  "zoeknaam_cvdr": "Utrechtse Heuvelrug",
+  "zoeknaam_bekendmakingen": "Utrechtse Heuvelrug",
+  "opgehaald_op": "2026-11-14T18:22:26+00:00",
+  "peildatum": "2026-11-14",
+  "fouten": [],
+  "cvdr_query": "dcterms.creator==\"Utrechtse Heuvelrug\" and (keyword=\"houtopstand\" or keyword=\"houtopstanden\" or keyword=\"bomen\" or keyword=\"herplant\" or keyword=\"herplantplicht\" or keyword=\"kapvergunning\" or keyword=\"vellen\" or keyword=\"bomenverordening\" or keyword=\"boomwaarde\" or keyword=\"bomenlijst\" or keyword=\"bomenregister\")",
+  "cvdr_treffers": 73,
+  "bekendmakingen_zoekmethode": "titel",
+  "bekendmakingen_query": "c.product-area==officielepublicaties and dt.creator==\"Utrechtse Heuvelrug\" and dt.date>=\"2025-01-01\" and (dt.title=\"kappen\" or dt.title=\"vellen\" or dt.title=\"houtopstand\" or dt.title=\"houtopstanden\" or dt.title=\"kapvergunning\" or dt.title=\"bomenkap\" or dt.title=\"rooien\")",
+  "bekendmakingen_totaal": 477,
+  "geldende_regelingen": 22,
+  "geldend_met_kapartikelen": [
+    "CVDR254384_1",
+    "CVDR619622_8",
+    "CVDR674803_2",
+    "CVDR696463_2",
+    "CVDR732208_1",
+    "CVDR747553_1",
+    "CVDR751461_1",
+    "CVDR764780_1",
+    "CVDR764785_1"
+  ],
+  "bekendmakingen_besluiten": 172,
+  "bekendmakingen_aanvragen": 296,
+  "bekendmakingen_geweigerd": 14,
+  "bekendmakingen_steekproef_met_grondslag": 0
+}
