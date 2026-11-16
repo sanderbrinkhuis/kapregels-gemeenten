@@ -15,7 +15,7 @@ Mag je een boom in je eigen tuin kappen? Dat hangt af van je gemeente. Elke geme
 
 ![Vergunning nodig voor een tuinboom van 80 cm stamomtrek?](output/kaart_boom_a.svg)
 
-**Interactieve kaartpagina:** [docs/index.html](docs/index.html), met wisselen tussen boom A, boom B en strengheid, zoeken op gemeente, informatie bij aanwijzen en een tabel van alle gemeenten. Publiceren via GitHub Pages: *Settings → Pages → Deploy from a branch → `main`, map `/docs`*. Lokaal bekijken: `cd docs && python3 -m http.server` en open http://localhost:8000.
+**Interactieve kaartpagina:** [docs/index.html](docs/index.html), met wisselen tussen boom A, boom B en strengheid, zoeken op gemeente, informatie bij aanwijzen en een tabel van alle gemeenten. Publiceren via GitHub Pages: *Settings → Pages → Deploy from a branch → `main`, map `/docs`*. Lokaal bekijken: open `docs/index.html` in je browser (internet nodig voor de kaartbibliotheek).
 
 **Interactieve kaarten op GitHub zelf** (inzoomen en klikken op een gemeente voor de gegevens en de bron):
 
@@ -113,6 +113,7 @@ output/
 docs/
   index.html           interactieve kaartpagina (GitHub Pages)
   gemeenten.geojson    data voor die pagina (gemaakt door `bomen kaart`)
+  gemeenten.js         dezelfde data als script, zodat de pagina ook zonder webserver werkt
   rapport.md           het rapport
   samenvatting.md      tellingen voor het rapport
 ```

@@ -220,7 +220,9 @@ def maak_kaarten() -> list[str]:
                           "h": r.get("herplant_type"), "q": kort(r.get("brondocument"), 160),
                           "u": (r.get("url") or "").split(" ;")[0].strip()})
         feats.append({"type": "Feature", "properties": props, "geometry": geom})
-    (docs / "gemeenten.geojson").write_text(
-        json.dumps({"type": "FeatureCollection", "peildatum": "14 t/m 16 november 2026", "features": feats},
-                   ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    fc = json.dumps({"type": "FeatureCollection", "peildatum": "14 t/m 16 november 2026", "features": feats},
+                    ensure_ascii=False, separators=(",", ":"))
+    (docs / "gemeenten.geojson").write_text(fc, encoding="utf-8")
+    # Zelfde data als script, zodat de pagina ook werkt als je index.html direct opent (file://).
+    (docs / "gemeenten.js").write_text("window.GEMEENTEN = " + fc + ";\n", encoding="utf-8")
     return list(files) + list(thema)

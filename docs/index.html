@@ -179,8 +179,10 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="gemeenten.js"></script>
 <script>
 (() => {
+  if (!window.L) { document.getElementById('map').innerHTML = '<p style="padding:16px">De kaartbibliotheek (Leaflet) kon niet worden geladen. Controleer de internetverbinding.</p>'; return; }
   const LAGEN = {
     a: { veld: 'a', titel: 'Vergunning nodig voor boom A (80 cm)?', klassen: [
       ['ja', 'Vergunning nodig', '--b-ja'], ['melden', 'Melden (gemeente kan verbieden)', '--b-melden'],
@@ -269,7 +271,13 @@
     else detail(null);
   }
 
-  fetch('gemeenten.geojson').then(r => r.json()).then(d => {
+  const laden = window.GEMEENTEN ? Promise.resolve(window.GEMEENTEN)
+    : fetch('gemeenten.geojson').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+  laden.catch(() => {
+    document.getElementById('map').innerHTML = '<p style="padding:16px">De kaartgegevens konden niet worden geladen. '
+      + 'Open de pagina via GitHub Pages of start een lokale server: <code>cd docs &amp;&amp; python3 -m http.server</code>.</p>';
+  });
+  laden.then(d => {
     data = d;
     arcering();
     geo = L.geoJSON(d, {
